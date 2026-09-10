@@ -54,3 +54,4 @@ projects/**/qa/**/state-*.png
 
 # Machine transfer reports are private local evidence, not project authority.
 /transfer/*.local.json
+/transfer/*.local.log
