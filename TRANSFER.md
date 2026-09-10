@@ -21,11 +21,13 @@ python -B .agent/skills/japanese-song-study-video/scripts/check_runtime.py
 python -B .agent/skills/japanese-song-study-video/scripts/inspect_project.py projects/mystic-light-quest-study --renderer projects/mystic-light-quest-study/project/render/render_video.py
 ```
 
-当前模板字体为微软雅黑粗体 `msyhbd.ttc`、index 0。不随仓库分发微软字体。Windows 通常已有；其他系统需自行提供有权使用的字体并通过环境变量 `STUDY_FONT` 指向它。替代字体需要检查文字宽度、注音位置和长词卡，不能声称像素一致。运行时版本/字体哈希保存在本机检查报告，不要从旧机器复制可执行程序路径。
+当前模板字体为微软雅黑粗体 `msyhbd.ttc`、index 0。不随仓库分发微软字体。Windows 通常已有；其他系统需自行提供有权使用的字体并通过环境变量 `STUDY_FONT` 指向它。替代字体需要检查文字宽度、注音位置和长词卡，不能声称像素一致。check_runtime.py 向终端输出运行时版本/字体哈希 JSON；需要留档时将 stdout 保存为忽略的 runtime.local.json。不要从旧机器复制可执行程序路径。
 
 ## 当前工作项目
 
 `projects/mystic-light-quest-study`：42 句、136 张审核卡；日文逐字高亮，假名/罗马音按词、英文保持 QRC 单元高亮；无频谱，全程裁剪后 MV。旧项目没有邻句/倒计时/前奏内容，不启用新项目默认值。
+
+该项目局部渲染器只验证过上述旧版选项，不支持直接打开邻句/倒计时开关；未来启用需先适配实现并验收，不能仅改配置声称生效。
 
 已完成视频：`deliverables/final/mystic-light-quest-study--16x9--character-v2.mkv`，1920×1080 / 30 fps / 207 秒，FLAC 48 kHz / 24-bit 双声道。文件 SHA256：`77567226ff7430c88984acfc2b42a0182ea01a5a2a0978c6fc0f79f749fec019`。旧版成品也保留。
 

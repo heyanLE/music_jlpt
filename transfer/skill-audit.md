@@ -17,6 +17,7 @@ Scope: package this workspace for the user-confirmed private heyanLE/music_jlpt 
 
 - Independent read-only subagent handoff evaluation identified machine paths, unbound helpers, renderer selection ambiguity and line-ending risks.
 - Six existing foreground/authorization regressions passed; three new dependency-tamper/path-escape/font-fallback regressions passed.
+- Independent second pass found that removing an already-bound dependency manifest could drop its checks. Both gates now reject missing previously authorized dependency keys; regression includes manifest removal.
 - skill-creator quick_validate passed (PyYAML installed in ignored temporary validation folder only).
 - Portable Mystic renderer --help imports successfully. Timeline compilation retains 42 full matches, 0 unmatched, 391 active / 14 neutral / 8 blank segments.
 - Current frames SHA256 remains 6f02999db4cfc57334b9951ca9f5be4b4ac2123362907581563c6c439b7e5c9d.

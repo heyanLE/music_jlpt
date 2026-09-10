@@ -29,6 +29,10 @@ class PortabilityTests(unittest.TestCase):
                 helper.write_text('# changed')
                 with self.assertRaisesRegex(ValueError,'stale'):
                     gate.verify_render_gate(root,renderer)
+                helper.write_text('# original')
+                manifest.unlink()
+                with self.assertRaisesRegex(ValueError,'missing'):
+                    gate.verify_render_gate(root,renderer)
 
     def test_dependency_escape_rejected(self):
         with tempfile.TemporaryDirectory() as tmp:

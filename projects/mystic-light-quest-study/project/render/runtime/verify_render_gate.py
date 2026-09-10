@@ -5,7 +5,7 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
-from pathlib import Path
+from pathlib import Path, PureWindowsPath
 
 
 REQUIRED_ROLES = {"lexical", "grammar", "translation"}
@@ -125,6 +125,8 @@ def authorization_hash_paths(root: Path, renderer: Path, review: dict) -> dict[s
         if len(set(entries)) != len(entries):
             raise ValueError('Duplicate renderer dependency')
         for value in entries:
+            if Path(value).is_absolute() or PureWindowsPath(value).drive:
+                raise ValueError('Renderer dependency paths must be project-relative')
             paths['projectRendererDependency:' + value] = inside(root, value, 'renderer dependency')
     return paths
 
@@ -136,7 +138,11 @@ def verify_render_gate(root: Path, renderer: Path) -> dict:
     authorization = load(authorization_path)
     if not authorization.get("renderAuthorized"):
         raise ValueError("Final render is not explicitly authorized")
-    for key, path in authorization_hash_paths(root, renderer, review).items():
+    expected_paths = authorization_hash_paths(root, renderer, review)
+    recorded_dependencies = {key for key in authorization if key == 'rendererDependencyManifestSha256' or key.startswith('projectRendererDependency:')}
+    if recorded_dependencies - expected_paths.keys():
+        raise ValueError('Previously authorized renderer dependency manifest or entries are missing')
+    for key, path in expected_paths.items():
         required_file(path, key)
         if authorization.get(key) != sha(path):
             raise ValueError(f"Render authorization hash missing or stale: {key}")
