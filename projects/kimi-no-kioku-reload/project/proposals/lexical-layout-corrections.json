@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "lexical",
+  "scope": {
+    "frameIds": [
+      "l008",
+      "l028"
+    ]
+  },
+  "baseFrameSha256": "f567e0e1c582104b125ee6e670b6f53ded7689de43f948cc55f00b24749d57de",
+  "changes": [
+    {
+      "frameId": "l008",
+      "field": "caption.furigana[2].reading",
+      "old": "めざめたら",
+      "new": "めざ",
+      "confidence": 0.99,
+      "evidence": [
+        "The ruby base is 目覚; literal kana めたら remains in the lyric surface and must not be repeated in kanji-only furigana."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l008",
+      "field": "caption.furigana[3].reading",
+      "old": "あえる",
+      "new": "あ",
+      "confidence": 0.99,
+      "evidence": [
+        "The ruby base is 逢; literal kana える remains in the lyric surface and must not be repeated in kanji-only furigana."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l028",
+      "field": "caption.furigana[5].reading",
+      "old": "つづけて",
+      "new": "つづ",
+      "confidence": 0.99,
+      "evidence": [
+        "The ruby base is 続; literal kana けて remains in the lyric surface and must not be repeated in kanji-only furigana."
+      ],
+      "changesTokenStructure": false
+    }
+  ]
+}

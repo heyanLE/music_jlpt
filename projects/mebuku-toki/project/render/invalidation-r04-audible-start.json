@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "status": "aborted-by-user",
+  "reason": "The user explicitly required preserving the master head for technical information and compatibility. The attempted input-seek render was stopped and must not be delivered.",
+  "abortedRunId": "final-r04-audible-start",
+  "restoredRunId": "final-r03-zero-start"
+}

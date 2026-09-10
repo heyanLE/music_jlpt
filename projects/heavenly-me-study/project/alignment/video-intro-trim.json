@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "clock": "music",
+  "method": "full-program-waveform-correlation",
+  "musicSource": "source/music.wav",
+  "backgroundAudioSource": "source/background.mp4#a:0",
+  "sampleRateHz": 8000,
+  "measuredBackgroundDelayMs": 2854.625,
+  "normalizedCorrelation": 0.957598,
+  "action": {
+    "type": "trim-background-head",
+    "trimMs": 2854.625,
+    "derivedAsset": "source/background-trimmed.mp4"
+  },
+  "finalAlignment": {
+    "offsetMs": 0,
+    "definition": "The trimmed background frame clock and lossless music clock both start at output zero."
+  }
+}

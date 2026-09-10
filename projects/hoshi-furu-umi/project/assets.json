@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "sourceManifest": "source/source-manifest.json",
+  "sourceManifestSha256": "fae01947047854822f124c31f301cfc4d9c69e7d80b083085ba25579c7a73c6e",
+  "active": {
+    "music": {
+      "asset": "source/music.flac",
+      "sha256": "9de65c78358f81f036cb12e43b6ef150add20f6920f92048d23fb8088a1da046",
+      "preserveCodec": true,
+      "sampleRateHz": 48000,
+      "bitsPerSample": 24,
+      "finalContainer": "mkv",
+      "finalAudioCodec": "copy"
+    },
+    "cover": {
+      "asset": "source/cover.jpg",
+      "sha256": "ae378d2c67b6e05a78119da6c00dc04dc88057725bd3ab9d7ae765fc77b9f82f",
+      "origin": "embedded-art-from-music"
+    },
+    "background": {
+      "asset": "source/background.mp4",
+      "sha256": "f674a05c961cfe7f68a46fdae44d87562d50abb22beb7da275a79610140eee6b",
+      "originalAsset": "source/background-original.mp4",
+      "originalSha256": "1495029dd106f5556192e4aa67388644e9244b33612959aadea512ae2fcea0d4",
+      "trimStartMs": 25183,
+      "evidence": "project/qa/background-alignment-correlation.json"
+    },
+    "lyrics": {
+      "format": "qq-music",
+      "qm": "source/lyrics_qm.qrc",
+      "qmRoma": "source/lyrics_qmRoma.qrc",
+      "qmts": "source/lyrics_qmts.qrc",
+      "filters": [
+        "星降る海 -",
+        "词：",
+        "曲："
+      ]
+    },
+    "preset": "video-then-gaussian-hybrid",
+    "spectrum": "spectrum-foobar-bars",
+    "alignment": {
+      "method": "none",
+      "offsetMs": 0,
+      "appliesTo": [
+        "music",
+        "lyrics",
+        "spectrum"
+      ]
+    }
+  },
+  "templateSha256": {
+    "foreground.json": "a5fa64614553081b74df9b71e504efa794f71f5cab563c2b6eacf6a88b7da317",
+    "background.json": "f6fcea2f600ad09880378de3535f7b4baa08a32d223695475c89688dd2d93ba1",
+    "overlay.json": "94e142f44d067f1a782352065dadbf483c872f2519afc2c734f833b98122f52b"
+  }
+}

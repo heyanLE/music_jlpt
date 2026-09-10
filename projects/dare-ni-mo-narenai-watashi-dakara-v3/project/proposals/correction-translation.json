@@ -1,0 +1,373 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "translation",
+  "scope": {
+    "frameIds": [
+      "l006",
+      "l007",
+      "l008",
+      "l009",
+      "l010",
+      "l011",
+      "l012",
+      "l013",
+      "l014",
+      "l015",
+      "l016",
+      "l017",
+      "l018",
+      "l019",
+      "l020",
+      "l021",
+      "l022",
+      "l023",
+      "l024",
+      "l025",
+      "l026",
+      "l027",
+      "l028",
+      "l029",
+      "l030",
+      "l031",
+      "l032",
+      "l033",
+      "l034",
+      "l035",
+      "l036",
+      "l037",
+      "l038",
+      "l039",
+      "l040",
+      "l041",
+      "l042",
+      "l043",
+      "l044",
+      "l045",
+      "l046"
+    ]
+  },
+  "baseFrameSha256": "d512f08f77f118d91b5f235d1d6d260edade12cc8c3e323b21fce19d29aab109",
+  "changes": [
+    {
+      "frameId": "l006",
+      "field": "grammarCards[1].functionZh",
+      "old": "提示动作对象、归着点或变化结果",
+      "new": "提示染上色彩的来源",
+      "confidence": 0.96,
+      "evidence": [
+        "誰かに染まる中，に提示影响或染色的来源；该表述也比通用释义更短，适合两行以内卡片。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l007",
+      "field": "caption.translationZh",
+      "old": "以为这只是一场梦，便笑给人看",
+      "new": "把这一切当作一场梦，故作笑颜",
+      "confidence": 0.91,
+      "evidence": [
+        "夢だと思って表示把它当作梦，笑ってみせた带有特意表现出笑容的语气；修订后与两张动词卡一致。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l007",
+      "field": "grammarCards[3].zhMeaning",
+      "old": "认为；想着然后",
+      "new": "认为；当作",
+      "confidence": 0.94,
+      "evidence": [
+        "思う在夢だと思って中接引用内容，语境义为认为或当作；“想着然后”不自然且与整句中译不一致。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l009",
+      "field": "grammarCards[1]",
+      "old": {
+        "token": "なんて",
+        "reading": "なんて",
+        "romaji": "nante",
+        "posZh": "副助词",
+        "grammarStructureZh": "副助词",
+        "render": true,
+        "showJlpt": false,
+        "reviewRequired": false,
+        "zhMeaning": "“之类”的说法；带轻视或自嘲",
+        "status": "human-confirmed",
+        "fieldProvenance": {
+          "meaningOrFunction": "translation review aligned to grammar proposal"
+        }
+      },
+      "new": {
+        "token": "なんて",
+        "reading": "なんて",
+        "romaji": "nante",
+        "posZh": "副助词",
+        "grammarStructureZh": "副助词",
+        "render": true,
+        "showJlpt": false,
+        "reviewRequired": false,
+        "functionZh": "举例并带轻视或自嘲语气",
+        "status": "human-confirmed",
+        "fieldProvenance": {
+          "meaningOrFunction": "translation review aligned to grammar proposal"
+        }
+      },
+      "confidence": 0.98,
+      "evidence": [
+        "纯助词卡必须显示语境功能而非字典义；新文案压缩至两行以内。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l011",
+      "field": "caption.translationZh",
+      "old": "无法让任何一个人幸福",
+      "new": "我不会让任何一个人幸福",
+      "confidence": 0.95,
+      "evidence": [
+        "幸せにしない是意志性否定“不让其幸福”，原译“无法”误加能力否定。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l013",
+      "field": "grammarCards[3].zhMeaning",
+      "old": "捨てる的て形，承接后文",
+      "new": "丢掉；舍弃",
+      "confidence": 0.99,
+      "evidence": [
+        "卡片含义栏应给出中文词义，活用信息已由grammarStructureZh承担；新译与整句“全都丢掉”一致。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l014",
+      "field": "grammarCards[0].zhMeaning",
+      "old": "偏离得很远；太离谱",
+      "new": "太离谱；太冒失",
+      "confidence": 0.87,
+      "evidence": [
+        "大それた／大逸れた在此与下一行ないよ连用，语境是“并不离谱／并非不自量力”，不是空间上的偏离。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l024",
+      "field": "caption.translationZh",
+      "old": "即使无法成为任何人，我也能挺起胸膛",
+      "new": "无法成为任何人的我，也要挺起胸膛啊",
+      "confidence": 0.94,
+      "evidence": [
+        "原句没有能力表达“能”；私承接誰にもなれない，胸張ってさ表达说话人的姿态和强调语气。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l024",
+      "field": "grammarCards[5]",
+      "old": {
+        "token": "さ",
+        "reading": "さ",
+        "romaji": "sa",
+        "posZh": "终助词",
+        "grammarStructureZh": "终助词",
+        "render": true,
+        "showJlpt": false,
+        "reviewRequired": false,
+        "zhMeaning": "句末语气，加强断言",
+        "status": "human-confirmed",
+        "fieldProvenance": {
+          "meaningOrFunction": "translation review aligned to grammar proposal"
+        }
+      },
+      "new": {
+        "token": "さ",
+        "reading": "さ",
+        "romaji": "sa",
+        "posZh": "终助词",
+        "grammarStructureZh": "终助词",
+        "render": true,
+        "showJlpt": false,
+        "reviewRequired": false,
+        "functionZh": "加强句末断言语气",
+        "status": "human-confirmed",
+        "fieldProvenance": {
+          "meaningOrFunction": "translation review aligned to grammar proposal"
+        }
+      },
+      "confidence": 0.99,
+      "evidence": [
+        "纯助词卡应使用functionZh而不是zhMeaning。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l025",
+      "field": "caption.translationZh",
+      "old": "再见，再见，把不需要的一切都告别",
+      "new": "再见，再见，不需要的一切",
+      "confidence": 0.96,
+      "evidence": [
+        "要らない全部是名词短语“不需要的一切”；原译“把……都告别”搭配不自然，并加入了原文没有的处置结构。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l026",
+      "field": "grammarCards[0].zhMeaning",
+      "old": "把一切；全部作为对象",
+      "new": "把一切",
+      "confidence": 0.98,
+      "evidence": [
+        "含义栏保留自然中文即可，“作为对象”属于结构说明且造成冗长。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l028",
+      "field": "grammarCards[3]",
+      "old": {
+        "token": "のかな",
+        "reading": "のかな",
+        "romaji": "no ka na",
+        "posZh": "终助词组合",
+        "grammarStructureZh": "终助词组合",
+        "render": true,
+        "showJlpt": false,
+        "reviewRequired": false,
+        "zhMeaning": "自问、推量“是否呢”",
+        "status": "human-confirmed",
+        "fieldProvenance": {
+          "meaningOrFunction": "translation review aligned to grammar proposal"
+        }
+      },
+      "new": {
+        "token": "のかな",
+        "reading": "のかな",
+        "romaji": "no ka na",
+        "posZh": "终助词组合",
+        "grammarStructureZh": "终助词组合",
+        "render": true,
+        "showJlpt": false,
+        "reviewRequired": false,
+        "functionZh": "表示自问或不确定推量",
+        "status": "human-confirmed",
+        "fieldProvenance": {
+          "meaningOrFunction": "translation review aligned to grammar proposal"
+        }
+      },
+      "confidence": 0.99,
+      "evidence": [
+        "终助词组合应显示语境功能而非字典义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l030",
+      "field": "caption.translationZh",
+      "old": "不是这个，也不是那个",
+      "new": "不是那个，也不是这个",
+      "confidence": 1.0,
+      "evidence": [
+        "按原文あれでもない、これでもない的出现顺序直译，并与两张词卡顺序一致。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l032",
+      "field": "grammarCards[1].zhMeaning",
+      "old": "夜晚（主语）",
+      "new": "夜晚",
+      "confidence": 0.99,
+      "evidence": [
+        "含义栏不混入主格结构说明；精简后不影响整句理解。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l033",
+      "field": "caption.translationZh",
+      "old": "若晨曦来临，身边有人，内心便会雀跃",
+      "new": "晨曦之中有人相伴，内心便会雀跃",
+      "confidence": 0.92,
+      "evidence": [
+        "には标示晨曦这一时空背景，并非条件“若”；修订后与朝焼けには词卡一致。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l035",
+      "field": "caption.translationZh",
+      "old": "即使困难，也要跨越过去",
+      "new": "说好了，无论多么困难都要跨越过去",
+      "confidence": 0.91,
+      "evidence": [
+        "句末って提示前述决心或引用；困難だって表示即便是困难也，原译遗漏句末引用语气。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l035",
+      "field": "grammarCards[2]",
+      "old": {
+        "token": "って",
+        "reading": "って",
+        "romaji": "tte",
+        "posZh": "引用终助词",
+        "grammarStructureZh": "引用终助词",
+        "render": true,
+        "showJlpt": false,
+        "reviewRequired": false,
+        "zhMeaning": "って：引用／口语强调",
+        "status": "human-confirmed",
+        "fieldProvenance": {
+          "meaningOrFunction": "translation review aligned to grammar proposal"
+        }
+      },
+      "new": {
+        "token": "って",
+        "reading": "って",
+        "romaji": "tte",
+        "posZh": "引用终助词",
+        "grammarStructureZh": "引用终助词",
+        "render": true,
+        "showJlpt": false,
+        "reviewRequired": false,
+        "functionZh": "提示前述决心或引用内容",
+        "status": "human-confirmed",
+        "fieldProvenance": {
+          "meaningOrFunction": "translation review aligned to grammar proposal"
+        }
+      },
+      "confidence": 0.99,
+      "evidence": [
+        "纯助词卡必须使用functionZh；同时去掉卡片中多余的“って：”前缀。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l040",
+      "field": "grammarCards[2].zhMeaning",
+      "old": "把墙；把隔阂作为对象",
+      "new": "墙；内心的隔阂",
+      "confidence": 0.96,
+      "evidence": [
+        "壁在心に壁をつくる中兼具实体墙与心理隔阂的比喻义；“作为对象”属于结构说明且中文不自然。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l042",
+      "field": "grammarCards[3].functionZh",
+      "old": "提示动作对象、归着点或变化结果",
+      "new": "提示变化结果",
+      "confidence": 0.99,
+      "evidence": [
+        "希望になる中，に专门提示变化结果；精简后避免卡片超过两行。"
+      ],
+      "changesTokenStructure": false
+    }
+  ]
+}

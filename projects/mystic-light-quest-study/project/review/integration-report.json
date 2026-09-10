@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "integration",
+  "status": "completed",
+  "baseFrameSha256": "e062cef34bd38d5f9b37309eb2085df3b46969abb568b3bad9de587d3f01d047",
+  "sourceProposalFiles": [
+    "project/proposals/lexical.json",
+    "project/proposals/grammar.json",
+    "project/proposals/translation.json"
+  ],
+  "sourceChangeCounts": {
+    "lexical": 6,
+    "grammar": 52,
+    "translation": 11
+  },
+  "conflicts": [
+    {
+      "frameId": "l025",
+      "field": "grammarCards",
+      "roles": [
+        "grammar",
+        "lexical"
+      ],
+      "resolution": "Use the whole idiom bundle; final label and meaning resolved explicitly below."
+    },
+    {
+      "frameId": "l025",
+      "field": "caption.furigana",
+      "roles": [
+        "grammar",
+        "lexical"
+      ],
+      "resolution": "Identical proposal; apply once."
+    },
+    {
+      "frameId": "l027",
+      "field": "grammarCards.5.zhMeaning",
+      "roles": [
+        "grammar",
+        "translation"
+      ],
+      "resolution": "Identical proposal; apply once."
+    }
+  ],
+  "resolutions": [
+    {
+      "frameId": "l025",
+      "decision": "Merge 心が躍れば, meaning 如果心情雀跃, concise POS 动词短语. Use lexical ruby re-anchoring.",
+      "reason": "All roles support idiomatic whole-block meaning; grammar and translation refine the lexical structural companion fields."
+    },
+    {
+      "frameId": "l027",
+      "decision": "Retain the provisional comparative reading of ように; remove redundant 往事 from its card because 過去 is separate.",
+      "reason": "The lyric/QMTS context permits this reading; do not overstate it as a uniquely certain analysis."
+    }
+  ],
+  "recommendedProposalSet": "project/review/recommended-proposals.json",
+  "recommendedFieldBundles": 31,
+  "reviewedFrames": 42,
+  "draftCards": 138,
+  "recommendedCards": 136,
+  "checks": {
+    "allOldValuesMatch": true,
+    "allRoleScopesComplete": true,
+    "wholeLineQmtsUnchanged": true,
+    "qrcTimingUnchanged": true,
+    "rubyAnchorsValid": true,
+    "repeatedCardsConsistent": true
+  },
+  "renderBlockers": [
+    "User content approval outstanding",
+    "Fix ruby/romaji collisions documented in project/qa/pre-render-layout-actions.md",
+    "Explicit final render authorization outstanding"
+  ]
+}

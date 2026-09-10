@@ -1,0 +1,4691 @@
+{
+  "schemaVersion": "1.0",
+  "project": {
+    "id": "halo-nomelon-nolemon",
+    "title": "HALO",
+    "artist": "NOMELON NOLEMON",
+    "audio": "C:\\project\\musicjlpt\\projects\\halo\\source\\HALO.flac",
+    "backgroundVideo": "C:\\project\\musicjlpt\\projects\\halo\\source\\[高达跨时第7话坠机新插曲]NOMELON_NOLEMON___HALO__官方MV.[高达跨时第7话新插曲]NOMELON_NOLEMON___HALO__官方MV.30091116763.mp4",
+    "cover": "C:\\project\\musicjlpt\\projects\\halo\\source\\COVER.jpg",
+    "durationMs": 186000,
+    "canvas": {
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "wordTimingSource": {
+    "format": "QQ Music QRC",
+    "parsedTimeline": "C:\\project\\musicjlpt\\projects\\halo\\deliverables\\halo-qm.parsed.json",
+    "romajiSource": "C:\\project\\musicjlpt\\projects\\halo\\deliverables\\halo-qmRoma.parsed.json",
+    "translationSource": "C:\\project\\musicjlpt\\projects\\halo\\deliverables\\halo-qmts.xml"
+  },
+  "reviewStatus": "auto-draft-needs-human-review",
+  "frames": [
+    {
+      "id": "l001",
+      "kind": "lyric",
+      "startMs": 634,
+      "endMs": 4929,
+      "caption": {
+        "japanese": "赤く染まる信号機はひとりぼっち",
+        "romaji": "akaku somaru shingouki wa hitoribotchi",
+        "translationZh": "染红的信号灯孤零零地驻足于原地",
+        "furigana": [
+          {
+            "base": "赤く",
+            "reading": "アカク",
+            "romaji": "akaku"
+          },
+          {
+            "base": "染まる",
+            "reading": "ソマル",
+            "romaji": "somaru"
+          },
+          {
+            "base": "信号機",
+            "reading": "シンゴウキ",
+            "romaji": "shingouki"
+          },
+          {
+            "base": "は",
+            "reading": "ハ",
+            "romaji": "wa"
+          },
+          {
+            "base": "ひとりぼっち",
+            "reading": "ヒトリボッチ",
+            "romaji": "hitoribotchi"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "赤く",
+          "reading": "アカク",
+          "romaji": "akaku",
+          "dictionaryForm": "赤い",
+          "posJa": "形容詞",
+          "posZh": "形容词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "染まる",
+          "reading": "ソマル",
+          "romaji": "somaru",
+          "dictionaryForm": "染まる",
+          "posJa": "動詞",
+          "posZh": "动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "信号機",
+          "reading": "シンゴウキ",
+          "romaji": "shingouki",
+          "dictionaryForm": "信号機",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "は",
+          "reading": "ハ",
+          "romaji": "wa",
+          "dictionaryForm": "は",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "主题提示"
+        },
+        {
+          "token": "ひとりぼっち",
+          "reading": "ヒトリボッチ",
+          "romaji": "hitoribotchi",
+          "dictionaryForm": "ひとりぼっち",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l002",
+      "kind": "lyric",
+      "startMs": 5112,
+      "endMs": 7699,
+      "caption": {
+        "japanese": "僕のこころのように",
+        "romaji": "boku no kokoro no you ni",
+        "translationZh": "简直就像我的那颗心",
+        "furigana": [
+          {
+            "base": "僕",
+            "reading": "ボク",
+            "romaji": "boku"
+          },
+          {
+            "base": "の",
+            "reading": "ノ",
+            "romaji": "no"
+          },
+          {
+            "base": "こころ",
+            "reading": "ココロ",
+            "romaji": "kokoro"
+          },
+          {
+            "base": "の",
+            "reading": "ノ",
+            "romaji": "no"
+          },
+          {
+            "base": "よう",
+            "reading": "ヨウ",
+            "romaji": "you"
+          },
+          {
+            "base": "に",
+            "reading": "ニ",
+            "romaji": "ni"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "僕",
+          "reading": "ボク",
+          "romaji": "boku",
+          "dictionaryForm": "僕",
+          "posJa": "代名詞",
+          "posZh": "人称代词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "の",
+          "reading": "ノ",
+          "romaji": "no",
+          "dictionaryForm": "の",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "所属修饰"
+        },
+        {
+          "token": "こころ",
+          "reading": "ココロ",
+          "romaji": "kokoro",
+          "dictionaryForm": "こころ",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "の",
+          "reading": "ノ",
+          "romaji": "no",
+          "dictionaryForm": "の",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "所属修饰"
+        },
+        {
+          "token": "よう",
+          "reading": "ヨウ",
+          "romaji": "you",
+          "dictionaryForm": "よう",
+          "posJa": "形状詞",
+          "posZh": "形容动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "に",
+          "reading": "ニ",
+          "romaji": "ni",
+          "dictionaryForm": "だ",
+          "posJa": "助動詞",
+          "posZh": "助动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l003",
+      "kind": "lyric",
+      "startMs": 7890,
+      "endMs": 11363,
+      "caption": {
+        "japanese": "それは言葉や記号じゃない",
+        "romaji": "sore wa kotoba ya kigou ja nai",
+        "translationZh": "话语难以形容 记号难以标记",
+        "furigana": [
+          {
+            "base": "それ",
+            "reading": "ソレ",
+            "romaji": "sore"
+          },
+          {
+            "base": "は",
+            "reading": "ハ",
+            "romaji": "wa"
+          },
+          {
+            "base": "言葉",
+            "reading": "コトバ",
+            "romaji": "kotoba"
+          },
+          {
+            "base": "や",
+            "reading": "ヤ",
+            "romaji": "ya"
+          },
+          {
+            "base": "記号",
+            "reading": "キゴウ",
+            "romaji": "kigou"
+          },
+          {
+            "base": "じゃ",
+            "reading": "ジャ",
+            "romaji": "ja"
+          },
+          {
+            "base": "ない",
+            "reading": "ナイ",
+            "romaji": "nai"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "それ",
+          "reading": "ソレ",
+          "romaji": "sore",
+          "dictionaryForm": "それ",
+          "posJa": "代名詞",
+          "posZh": "人称代词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "は",
+          "reading": "ハ",
+          "romaji": "wa",
+          "dictionaryForm": "は",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "主题提示"
+        },
+        {
+          "token": "言葉",
+          "reading": "コトバ",
+          "romaji": "kotoba",
+          "dictionaryForm": "言葉",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "や",
+          "reading": "ヤ",
+          "romaji": "ya",
+          "dictionaryForm": "や",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "不完全列举"
+        },
+        {
+          "token": "記号",
+          "reading": "キゴウ",
+          "romaji": "kigou",
+          "dictionaryForm": "記号",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "じゃ",
+          "reading": "ジャ",
+          "romaji": "ja",
+          "dictionaryForm": "だ",
+          "posJa": "助動詞",
+          "posZh": "助动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "ない",
+          "reading": "ナイ",
+          "romaji": "nai",
+          "dictionaryForm": "ない",
+          "posJa": "形容詞",
+          "posZh": "形容词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l004",
+      "kind": "lyric",
+      "startMs": 11699,
+      "endMs": 15104,
+      "caption": {
+        "japanese": "さみしさというスペース",
+        "romaji": "samishi sa to iu supeesu",
+        "translationZh": "那是一片名为寂寞的空地",
+        "furigana": [
+          {
+            "base": "さみし",
+            "reading": "サミシ",
+            "romaji": "samishi"
+          },
+          {
+            "base": "さ",
+            "reading": "サ",
+            "romaji": "sa"
+          },
+          {
+            "base": "と",
+            "reading": "ト",
+            "romaji": "to"
+          },
+          {
+            "base": "いう",
+            "reading": "イウ",
+            "romaji": "iu"
+          },
+          {
+            "base": "スペース",
+            "reading": "スペース",
+            "romaji": "supeesu"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "さみし",
+          "reading": "サミシ",
+          "romaji": "samishi",
+          "dictionaryForm": "さみしい",
+          "posJa": "形容詞",
+          "posZh": "形容词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "さ",
+          "reading": "サ",
+          "romaji": "sa",
+          "dictionaryForm": "さ",
+          "posJa": "接尾辞",
+          "posZh": "待核",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "と",
+          "reading": "ト",
+          "romaji": "to",
+          "dictionaryForm": "と",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "共同对象、引用"
+        },
+        {
+          "token": "いう",
+          "reading": "イウ",
+          "romaji": "iu",
+          "dictionaryForm": "いう",
+          "posJa": "動詞",
+          "posZh": "动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "スペース",
+          "reading": "スペース",
+          "romaji": "supeesu",
+          "dictionaryForm": "スペース",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l005",
+      "kind": "lyric",
+      "startMs": 22794,
+      "endMs": 25377,
+      "caption": {
+        "japanese": "いつだって夜に描く",
+        "romaji": "itsu da tte yoru ni egaku",
+        "translationZh": "一直都在夜色中描绘",
+        "furigana": [
+          {
+            "base": "いつ",
+            "reading": "イツ",
+            "romaji": "itsu"
+          },
+          {
+            "base": "だ",
+            "reading": "ダ",
+            "romaji": "da"
+          },
+          {
+            "base": "って",
+            "reading": "ッテ",
+            "romaji": "tte"
+          },
+          {
+            "base": "夜",
+            "reading": "ヨル",
+            "romaji": "yoru"
+          },
+          {
+            "base": "に",
+            "reading": "ニ",
+            "romaji": "ni"
+          },
+          {
+            "base": "描く",
+            "reading": "エガク",
+            "romaji": "egaku"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "いつ",
+          "reading": "イツ",
+          "romaji": "itsu",
+          "dictionaryForm": "いつ",
+          "posJa": "代名詞",
+          "posZh": "人称代词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "だ",
+          "reading": "ダ",
+          "romaji": "da",
+          "dictionaryForm": "だ",
+          "posJa": "助動詞",
+          "posZh": "助动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "って",
+          "reading": "ッテ",
+          "romaji": "tte",
+          "dictionaryForm": "って",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "语法功能待核"
+        },
+        {
+          "token": "夜",
+          "reading": "ヨル",
+          "romaji": "yoru",
+          "dictionaryForm": "夜",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "に",
+          "reading": "ニ",
+          "romaji": "ni",
+          "dictionaryForm": "に",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "动作对象、到达点"
+        },
+        {
+          "token": "描く",
+          "reading": "エガク",
+          "romaji": "egaku",
+          "dictionaryForm": "描く",
+          "posJa": "動詞",
+          "posZh": "动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l006",
+      "kind": "lyric",
+      "startMs": 25377,
+      "endMs": 29062,
+      "caption": {
+        "japanese": "見えないもの消えないもの",
+        "romaji": "mienai mono kienai mono",
+        "translationZh": "难以得见却不会消失的事物",
+        "furigana": [
+          {
+            "base": "見えない",
+            "reading": "ミエナイ",
+            "romaji": "mienai"
+          },
+          {
+            "base": "もの",
+            "reading": "モノ",
+            "romaji": "mono"
+          },
+          {
+            "base": "消えない",
+            "reading": "キエナイ",
+            "romaji": "kienai"
+          },
+          {
+            "base": "もの",
+            "reading": "モノ",
+            "romaji": "mono"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "見えない",
+          "reading": "ミエナイ",
+          "romaji": "mienai",
+          "dictionaryForm": "見える",
+          "posJa": "動詞",
+          "posZh": "动词（活用）",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "もの",
+          "reading": "モノ",
+          "romaji": "mono",
+          "dictionaryForm": "もの",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "消えない",
+          "reading": "キエナイ",
+          "romaji": "kienai",
+          "dictionaryForm": "消える",
+          "posJa": "動詞",
+          "posZh": "动词（活用）",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "もの",
+          "reading": "モノ",
+          "romaji": "mono",
+          "dictionaryForm": "もの",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l007",
+      "kind": "lyric",
+      "startMs": 30026,
+      "endMs": 34214,
+      "caption": {
+        "japanese": "偶然のキャンバスに落とす色",
+        "romaji": "guuzen no kyanbasu ni otosu iro",
+        "translationZh": "在偶然出现的画布上泼洒的颜料",
+        "furigana": [
+          {
+            "base": "偶然",
+            "reading": "グウゼン",
+            "romaji": "guuzen"
+          },
+          {
+            "base": "の",
+            "reading": "ノ",
+            "romaji": "no"
+          },
+          {
+            "base": "キャンバス",
+            "reading": "キャンバス",
+            "romaji": "kyanbasu"
+          },
+          {
+            "base": "に",
+            "reading": "ニ",
+            "romaji": "ni"
+          },
+          {
+            "base": "落とす",
+            "reading": "オトス",
+            "romaji": "otosu"
+          },
+          {
+            "base": "色",
+            "reading": "イロ",
+            "romaji": "iro"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "偶然",
+          "reading": "グウゼン",
+          "romaji": "guuzen",
+          "dictionaryForm": "偶然",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "の",
+          "reading": "ノ",
+          "romaji": "no",
+          "dictionaryForm": "の",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "所属修饰"
+        },
+        {
+          "token": "キャンバス",
+          "reading": "キャンバス",
+          "romaji": "kyanbasu",
+          "dictionaryForm": "キャンバス",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "に",
+          "reading": "ニ",
+          "romaji": "ni",
+          "dictionaryForm": "に",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "动作对象、到达点"
+        },
+        {
+          "token": "落とす",
+          "reading": "オトス",
+          "romaji": "otosu",
+          "dictionaryForm": "落とす",
+          "posJa": "動詞",
+          "posZh": "动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "色",
+          "reading": "イロ",
+          "romaji": "iro",
+          "dictionaryForm": "色",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l008",
+      "kind": "lyric",
+      "startMs": 34454,
+      "endMs": 36725,
+      "caption": {
+        "japanese": "蒼い青",
+        "romaji": "aoi ao",
+        "translationZh": "是那深邃靛蓝",
+        "furigana": [
+          {
+            "base": "蒼い",
+            "reading": "アオイ",
+            "romaji": "aoi"
+          },
+          {
+            "base": "青",
+            "reading": "アオ",
+            "romaji": "ao"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "蒼い",
+          "reading": "アオイ",
+          "romaji": "aoi",
+          "dictionaryForm": "蒼い",
+          "posJa": "形容詞",
+          "posZh": "形容词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "青",
+          "reading": "アオ",
+          "romaji": "ao",
+          "dictionaryForm": "青",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l009",
+      "kind": "lyric",
+      "startMs": 36950,
+      "endMs": 40710,
+      "caption": {
+        "japanese": "言えない過去や癒えない傷を",
+        "romaji": "ienai kako ya ienai kizu wo",
+        "translationZh": "难以言喻的过去 无法愈合的伤口",
+        "furigana": [
+          {
+            "base": "言えない",
+            "reading": "イエナイ",
+            "romaji": "ienai"
+          },
+          {
+            "base": "過去",
+            "reading": "カコ",
+            "romaji": "kako"
+          },
+          {
+            "base": "や",
+            "reading": "ヤ",
+            "romaji": "ya"
+          },
+          {
+            "base": "癒えない",
+            "reading": "イエナイ",
+            "romaji": "ienai"
+          },
+          {
+            "base": "傷",
+            "reading": "キズ",
+            "romaji": "kizu"
+          },
+          {
+            "base": "を",
+            "reading": "ヲ",
+            "romaji": "wo"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "言えない",
+          "reading": "イエナイ",
+          "romaji": "ienai",
+          "dictionaryForm": "言える",
+          "posJa": "動詞",
+          "posZh": "动词（活用）",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "過去",
+          "reading": "カコ",
+          "romaji": "kako",
+          "dictionaryForm": "過去",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "や",
+          "reading": "ヤ",
+          "romaji": "ya",
+          "dictionaryForm": "や",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "不完全列举"
+        },
+        {
+          "token": "癒えない",
+          "reading": "イエナイ",
+          "romaji": "ienai",
+          "dictionaryForm": "癒える",
+          "posJa": "動詞",
+          "posZh": "动词（活用）",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "傷",
+          "reading": "キズ",
+          "romaji": "kizu",
+          "dictionaryForm": "傷",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "を",
+          "reading": "ヲ",
+          "romaji": "wo",
+          "dictionaryForm": "を",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "直接宾语标记"
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l010",
+      "kind": "lyric",
+      "startMs": 40902,
+      "endMs": 43583,
+      "caption": {
+        "japanese": "お揃いの秘密にしたい",
+        "romaji": "osoroi no himitsu ni shitai",
+        "translationZh": "都希望能与你共享为秘密",
+        "furigana": [
+          {
+            "base": "お揃い",
+            "reading": "オソロイ",
+            "romaji": "osoroi"
+          },
+          {
+            "base": "の",
+            "reading": "ノ",
+            "romaji": "no"
+          },
+          {
+            "base": "秘密",
+            "reading": "ヒミツ",
+            "romaji": "himitsu"
+          },
+          {
+            "base": "に",
+            "reading": "ニ",
+            "romaji": "ni"
+          },
+          {
+            "base": "したい",
+            "reading": "シタイ",
+            "romaji": "shitai"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "お揃い",
+          "reading": "オソロイ",
+          "romaji": "osoroi",
+          "dictionaryForm": "お揃い",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "の",
+          "reading": "ノ",
+          "romaji": "no",
+          "dictionaryForm": "の",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "所属修饰"
+        },
+        {
+          "token": "秘密",
+          "reading": "ヒミツ",
+          "romaji": "himitsu",
+          "dictionaryForm": "秘密",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "に",
+          "reading": "ニ",
+          "romaji": "ni",
+          "dictionaryForm": "だ",
+          "posJa": "助動詞",
+          "posZh": "助动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "したい",
+          "reading": "シタイ",
+          "romaji": "shitai",
+          "dictionaryForm": "する",
+          "posJa": "動詞",
+          "posZh": "动词（活用）",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l011",
+      "kind": "lyric",
+      "startMs": 43583,
+      "endMs": 46079,
+      "caption": {
+        "japanese": "君と出逢った場所が",
+        "romaji": "kimi to deatsuta basho ga",
+        "translationZh": "与你相遇的那个地方",
+        "furigana": [
+          {
+            "base": "君",
+            "reading": "キミ",
+            "romaji": "kimi"
+          },
+          {
+            "base": "と",
+            "reading": "ト",
+            "romaji": "to"
+          },
+          {
+            "base": "出逢った",
+            "reading": "デアッタ",
+            "romaji": "deatsuta"
+          },
+          {
+            "base": "場所",
+            "reading": "バショ",
+            "romaji": "basho"
+          },
+          {
+            "base": "が",
+            "reading": "ガ",
+            "romaji": "ga"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "君",
+          "reading": "キミ",
+          "romaji": "kimi",
+          "dictionaryForm": "君",
+          "posJa": "代名詞",
+          "posZh": "人称代词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "と",
+          "reading": "ト",
+          "romaji": "to",
+          "dictionaryForm": "と",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "共同对象、引用"
+        },
+        {
+          "token": "出逢った",
+          "reading": "デアッタ",
+          "romaji": "deatsuta",
+          "dictionaryForm": "出逢う",
+          "posJa": "動詞",
+          "posZh": "动词（活用）",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "場所",
+          "reading": "バショ",
+          "romaji": "basho",
+          "dictionaryForm": "場所",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "が",
+          "reading": "ガ",
+          "romaji": "ga",
+          "dictionaryForm": "が",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "主语标记"
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l012",
+      "kind": "lyric",
+      "startMs": 46263,
+      "endMs": 49800,
+      "caption": {
+        "japanese": "僕の世界の真中",
+        "romaji": "boku no sekai no manaka",
+        "translationZh": "成为我世界的中心",
+        "furigana": [
+          {
+            "base": "僕",
+            "reading": "ボク",
+            "romaji": "boku"
+          },
+          {
+            "base": "の",
+            "reading": "ノ",
+            "romaji": "no"
+          },
+          {
+            "base": "世界",
+            "reading": "セカイ",
+            "romaji": "sekai"
+          },
+          {
+            "base": "の",
+            "reading": "ノ",
+            "romaji": "no"
+          },
+          {
+            "base": "真中",
+            "reading": "マナカ",
+            "romaji": "manaka"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "僕",
+          "reading": "ボク",
+          "romaji": "boku",
+          "dictionaryForm": "僕",
+          "posJa": "代名詞",
+          "posZh": "人称代词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "の",
+          "reading": "ノ",
+          "romaji": "no",
+          "dictionaryForm": "の",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "所属修饰"
+        },
+        {
+          "token": "世界",
+          "reading": "セカイ",
+          "romaji": "sekai",
+          "dictionaryForm": "世界",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "の",
+          "reading": "ノ",
+          "romaji": "no",
+          "dictionaryForm": "の",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "所属修饰"
+        },
+        {
+          "token": "真中",
+          "reading": "マナカ",
+          "romaji": "manaka",
+          "dictionaryForm": "真中",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l013",
+      "kind": "lyric",
+      "startMs": 50937,
+      "endMs": 54012,
+      "caption": {
+        "japanese": "全部夜のせいにして",
+        "romaji": "zenbu yoru no sei ni shite",
+        "translationZh": "明明希望能将这一切",
+        "furigana": [
+          {
+            "base": "全部",
+            "reading": "ゼンブ",
+            "romaji": "zenbu"
+          },
+          {
+            "base": "夜",
+            "reading": "ヨル",
+            "romaji": "yoru"
+          },
+          {
+            "base": "の",
+            "reading": "ノ",
+            "romaji": "no"
+          },
+          {
+            "base": "せい",
+            "reading": "セイ",
+            "romaji": "sei"
+          },
+          {
+            "base": "に",
+            "reading": "ニ",
+            "romaji": "ni"
+          },
+          {
+            "base": "して",
+            "reading": "シテ",
+            "romaji": "shite"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "全部",
+          "reading": "ゼンブ",
+          "romaji": "zenbu",
+          "dictionaryForm": "全部",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "夜",
+          "reading": "ヨル",
+          "romaji": "yoru",
+          "dictionaryForm": "夜",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "の",
+          "reading": "ノ",
+          "romaji": "no",
+          "dictionaryForm": "の",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "所属修饰"
+        },
+        {
+          "token": "せい",
+          "reading": "セイ",
+          "romaji": "sei",
+          "dictionaryForm": "せい",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "に",
+          "reading": "ニ",
+          "romaji": "ni",
+          "dictionaryForm": "に",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "动作对象、到达点"
+        },
+        {
+          "token": "して",
+          "reading": "シテ",
+          "romaji": "shite",
+          "dictionaryForm": "する",
+          "posJa": "動詞",
+          "posZh": "动词（活用）",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l014",
+      "kind": "lyric",
+      "startMs": 54308,
+      "endMs": 57556,
+      "caption": {
+        "japanese": "忘れてしまいたいのに",
+        "romaji": "wasurete shimaitai no ni",
+        "translationZh": "都归咎于夜晚尽数忘却",
+        "furigana": [
+          {
+            "base": "忘れて",
+            "reading": "ワスレテ",
+            "romaji": "wasurete"
+          },
+          {
+            "base": "しまいたい",
+            "reading": "シマイタイ",
+            "romaji": "shimaitai"
+          },
+          {
+            "base": "の",
+            "reading": "ノ",
+            "romaji": "no"
+          },
+          {
+            "base": "に",
+            "reading": "ニ",
+            "romaji": "ni"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "忘れて",
+          "reading": "ワスレテ",
+          "romaji": "wasurete",
+          "dictionaryForm": "忘れる",
+          "posJa": "動詞",
+          "posZh": "动词（活用）",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "しまいたい",
+          "reading": "シマイタイ",
+          "romaji": "shimaitai",
+          "dictionaryForm": "しまう",
+          "posJa": "動詞",
+          "posZh": "动词（活用）",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "の",
+          "reading": "ノ",
+          "romaji": "no",
+          "dictionaryForm": "の",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "所属修饰"
+        },
+        {
+          "token": "に",
+          "reading": "ニ",
+          "romaji": "ni",
+          "dictionaryForm": "に",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "动作对象、到达点"
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l015",
+      "kind": "lyric",
+      "startMs": 58176,
+      "endMs": 61928,
+      "caption": {
+        "japanese": "目を閉じても君の残像が",
+        "romaji": "me wo tojite mo kimi no zanzou ga",
+        "translationZh": "可闭上眼后你留下的残影",
+        "furigana": [
+          {
+            "base": "目",
+            "reading": "メ",
+            "romaji": "me"
+          },
+          {
+            "base": "を",
+            "reading": "ヲ",
+            "romaji": "wo"
+          },
+          {
+            "base": "閉じて",
+            "reading": "トジテ",
+            "romaji": "tojite"
+          },
+          {
+            "base": "も",
+            "reading": "モ",
+            "romaji": "mo"
+          },
+          {
+            "base": "君",
+            "reading": "キミ",
+            "romaji": "kimi"
+          },
+          {
+            "base": "の",
+            "reading": "ノ",
+            "romaji": "no"
+          },
+          {
+            "base": "残像",
+            "reading": "ザンゾウ",
+            "romaji": "zanzou"
+          },
+          {
+            "base": "が",
+            "reading": "ガ",
+            "romaji": "ga"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "目",
+          "reading": "メ",
+          "romaji": "me",
+          "dictionaryForm": "目",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "を",
+          "reading": "ヲ",
+          "romaji": "wo",
+          "dictionaryForm": "を",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "直接宾语标记"
+        },
+        {
+          "token": "閉じて",
+          "reading": "トジテ",
+          "romaji": "tojite",
+          "dictionaryForm": "閉じる",
+          "posJa": "動詞",
+          "posZh": "动词（活用）",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "も",
+          "reading": "モ",
+          "romaji": "mo",
+          "dictionaryForm": "も",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "添加、并列"
+        },
+        {
+          "token": "君",
+          "reading": "キミ",
+          "romaji": "kimi",
+          "dictionaryForm": "君",
+          "posJa": "代名詞",
+          "posZh": "人称代词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "の",
+          "reading": "ノ",
+          "romaji": "no",
+          "dictionaryForm": "の",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "所属修饰"
+        },
+        {
+          "token": "残像",
+          "reading": "ザンゾウ",
+          "romaji": "zanzou",
+          "dictionaryForm": "残像",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "が",
+          "reading": "ガ",
+          "romaji": "ga",
+          "dictionaryForm": "が",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "主语标记"
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l016",
+      "kind": "lyric",
+      "startMs": 62128,
+      "endMs": 64509,
+      "caption": {
+        "japanese": "揺らいで眠れない",
+        "romaji": "yurai de nemurenai",
+        "translationZh": "摇曳在眼前令我难眠",
+        "furigana": [
+          {
+            "base": "揺らい",
+            "reading": "ユライ",
+            "romaji": "yurai"
+          },
+          {
+            "base": "で",
+            "reading": "デ",
+            "romaji": "de"
+          },
+          {
+            "base": "眠れない",
+            "reading": "ネムレナイ",
+            "romaji": "nemurenai"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "揺らい",
+          "reading": "ユライ",
+          "romaji": "yurai",
+          "dictionaryForm": "揺らぐ",
+          "posJa": "動詞",
+          "posZh": "动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "で",
+          "reading": "デ",
+          "romaji": "de",
+          "dictionaryForm": "で",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "动作、状态发生的地点"
+        },
+        {
+          "token": "眠れない",
+          "reading": "ネムレナイ",
+          "romaji": "nemurenai",
+          "dictionaryForm": "眠れる",
+          "posJa": "動詞",
+          "posZh": "动词（活用）",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l017",
+      "kind": "lyric",
+      "startMs": 65092,
+      "endMs": 68651,
+      "caption": {
+        "japanese": "今もまだ広がっている",
+        "romaji": "ima mo mada hirogatsute iru",
+        "translationZh": "此刻依然在无限地延伸",
+        "furigana": [
+          {
+            "base": "今",
+            "reading": "イマ",
+            "romaji": "ima"
+          },
+          {
+            "base": "も",
+            "reading": "モ",
+            "romaji": "mo"
+          },
+          {
+            "base": "まだ",
+            "reading": "マダ",
+            "romaji": "mada"
+          },
+          {
+            "base": "広がって",
+            "reading": "ヒロガッテ",
+            "romaji": "hirogatsute"
+          },
+          {
+            "base": "いる",
+            "reading": "イル",
+            "romaji": "iru"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "今",
+          "reading": "イマ",
+          "romaji": "ima",
+          "dictionaryForm": "今",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "も",
+          "reading": "モ",
+          "romaji": "mo",
+          "dictionaryForm": "も",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "添加、并列"
+        },
+        {
+          "token": "まだ",
+          "reading": "マダ",
+          "romaji": "mada",
+          "dictionaryForm": "まだ",
+          "posJa": "副詞",
+          "posZh": "副词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "広がって",
+          "reading": "ヒロガッテ",
+          "romaji": "hirogatsute",
+          "dictionaryForm": "広がる",
+          "posJa": "動詞",
+          "posZh": "动词（活用）",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "いる",
+          "reading": "イル",
+          "romaji": "iru",
+          "dictionaryForm": "いる",
+          "posJa": "動詞",
+          "posZh": "动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l018",
+      "kind": "lyric",
+      "startMs": 68994,
+      "endMs": 72443,
+      "caption": {
+        "japanese": "僕だけの宇宙がある",
+        "romaji": "boku dake no uchuu ga aru",
+        "translationZh": "我有自己专属的宇宙",
+        "furigana": [
+          {
+            "base": "僕",
+            "reading": "ボク",
+            "romaji": "boku"
+          },
+          {
+            "base": "だけ",
+            "reading": "ダケ",
+            "romaji": "dake"
+          },
+          {
+            "base": "の",
+            "reading": "ノ",
+            "romaji": "no"
+          },
+          {
+            "base": "宇宙",
+            "reading": "ウチュウ",
+            "romaji": "uchuu"
+          },
+          {
+            "base": "が",
+            "reading": "ガ",
+            "romaji": "ga"
+          },
+          {
+            "base": "ある",
+            "reading": "アル",
+            "romaji": "aru"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "僕",
+          "reading": "ボク",
+          "romaji": "boku",
+          "dictionaryForm": "僕",
+          "posJa": "代名詞",
+          "posZh": "人称代词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "だけ",
+          "reading": "ダケ",
+          "romaji": "dake",
+          "dictionaryForm": "だけ",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "语法功能待核"
+        },
+        {
+          "token": "の",
+          "reading": "ノ",
+          "romaji": "no",
+          "dictionaryForm": "の",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "所属修饰"
+        },
+        {
+          "token": "宇宙",
+          "reading": "ウチュウ",
+          "romaji": "uchuu",
+          "dictionaryForm": "宇宙",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "が",
+          "reading": "ガ",
+          "romaji": "ga",
+          "dictionaryForm": "が",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "主语标记"
+        },
+        {
+          "token": "ある",
+          "reading": "アル",
+          "romaji": "aru",
+          "dictionaryForm": "ある",
+          "posJa": "動詞",
+          "posZh": "动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l019",
+      "kind": "lyric",
+      "startMs": 72878,
+      "endMs": 76528,
+      "caption": {
+        "japanese": "星と星を線で繋ぐように",
+        "romaji": "hoshi to hoshi wo sen de tsunagu you ni",
+        "translationZh": "如同将点点星星串联那般",
+        "furigana": [
+          {
+            "base": "星",
+            "reading": "ホシ",
+            "romaji": "hoshi"
+          },
+          {
+            "base": "と",
+            "reading": "ト",
+            "romaji": "to"
+          },
+          {
+            "base": "星",
+            "reading": "ホシ",
+            "romaji": "hoshi"
+          },
+          {
+            "base": "を",
+            "reading": "ヲ",
+            "romaji": "wo"
+          },
+          {
+            "base": "線",
+            "reading": "セン",
+            "romaji": "sen"
+          },
+          {
+            "base": "で",
+            "reading": "デ",
+            "romaji": "de"
+          },
+          {
+            "base": "繋ぐ",
+            "reading": "ツナグ",
+            "romaji": "tsunagu"
+          },
+          {
+            "base": "よう",
+            "reading": "ヨウ",
+            "romaji": "you"
+          },
+          {
+            "base": "に",
+            "reading": "ニ",
+            "romaji": "ni"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "星",
+          "reading": "ホシ",
+          "romaji": "hoshi",
+          "dictionaryForm": "星",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "と",
+          "reading": "ト",
+          "romaji": "to",
+          "dictionaryForm": "と",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "共同对象、引用"
+        },
+        {
+          "token": "星",
+          "reading": "ホシ",
+          "romaji": "hoshi",
+          "dictionaryForm": "星",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "を",
+          "reading": "ヲ",
+          "romaji": "wo",
+          "dictionaryForm": "を",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "直接宾语标记"
+        },
+        {
+          "token": "線",
+          "reading": "セン",
+          "romaji": "sen",
+          "dictionaryForm": "線",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "で",
+          "reading": "デ",
+          "romaji": "de",
+          "dictionaryForm": "で",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "动作、状态发生的地点"
+        },
+        {
+          "token": "繋ぐ",
+          "reading": "ツナグ",
+          "romaji": "tsunagu",
+          "dictionaryForm": "繋ぐ",
+          "posJa": "動詞",
+          "posZh": "动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "よう",
+          "reading": "ヨウ",
+          "romaji": "you",
+          "dictionaryForm": "よう",
+          "posJa": "形状詞",
+          "posZh": "形容动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "に",
+          "reading": "ニ",
+          "romaji": "ni",
+          "dictionaryForm": "だ",
+          "posJa": "助動詞",
+          "posZh": "助动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l020",
+      "kind": "lyric",
+      "startMs": 76752,
+      "endMs": 79066,
+      "caption": {
+        "japanese": "明日になればまた",
+        "romaji": "asu ni nare ba mata",
+        "translationZh": "待到明天到来之后",
+        "furigana": [
+          {
+            "base": "明日",
+            "reading": "アス",
+            "romaji": "asu"
+          },
+          {
+            "base": "に",
+            "reading": "ニ",
+            "romaji": "ni"
+          },
+          {
+            "base": "なれ",
+            "reading": "ナレ",
+            "romaji": "nare"
+          },
+          {
+            "base": "ば",
+            "reading": "バ",
+            "romaji": "ba"
+          },
+          {
+            "base": "また",
+            "reading": "マタ",
+            "romaji": "mata"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "明日",
+          "reading": "アス",
+          "romaji": "asu",
+          "dictionaryForm": "明日",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "に",
+          "reading": "ニ",
+          "romaji": "ni",
+          "dictionaryForm": "に",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "动作对象、到达点"
+        },
+        {
+          "token": "なれ",
+          "reading": "ナレ",
+          "romaji": "nare",
+          "dictionaryForm": "なる",
+          "posJa": "動詞",
+          "posZh": "动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "ば",
+          "reading": "バ",
+          "romaji": "ba",
+          "dictionaryForm": "ば",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "语法功能待核"
+        },
+        {
+          "token": "また",
+          "reading": "マタ",
+          "romaji": "mata",
+          "dictionaryForm": "また",
+          "posJa": "副詞",
+          "posZh": "副词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l021",
+      "kind": "lyric",
+      "startMs": 79458,
+      "endMs": 81850,
+      "caption": {
+        "japanese": "ハロー ハロー",
+        "romaji": "haroo haroo",
+        "translationZh": "便再次予以问候",
+        "furigana": [
+          {
+            "base": "ハロー",
+            "reading": "ハロー",
+            "romaji": "haroo"
+          },
+          {
+            "base": "ハロー",
+            "reading": "ハロー",
+            "romaji": "haroo"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "ハロー",
+          "reading": "ハロー",
+          "romaji": "haroo",
+          "dictionaryForm": "ハロー",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "ハロー",
+          "reading": "ハロー",
+          "romaji": "haroo",
+          "dictionaryForm": "ハロー",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l022",
+      "kind": "lyric",
+      "startMs": 88704,
+      "endMs": 91231,
+      "caption": {
+        "japanese": "いつだって僕たちは",
+        "romaji": "itsu da tte bokutachi wa",
+        "translationZh": "我们不论何时",
+        "furigana": [
+          {
+            "base": "いつ",
+            "reading": "イツ",
+            "romaji": "itsu"
+          },
+          {
+            "base": "だ",
+            "reading": "ダ",
+            "romaji": "da"
+          },
+          {
+            "base": "って",
+            "reading": "ッテ",
+            "romaji": "tte"
+          },
+          {
+            "base": "僕たち",
+            "reading": "ボクタチ",
+            "romaji": "bokutachi"
+          },
+          {
+            "base": "は",
+            "reading": "ハ",
+            "romaji": "wa"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "いつ",
+          "reading": "イツ",
+          "romaji": "itsu",
+          "dictionaryForm": "いつ",
+          "posJa": "代名詞",
+          "posZh": "人称代词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "だ",
+          "reading": "ダ",
+          "romaji": "da",
+          "dictionaryForm": "だ",
+          "posJa": "助動詞",
+          "posZh": "助动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "って",
+          "reading": "ッテ",
+          "romaji": "tte",
+          "dictionaryForm": "って",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "语法功能待核"
+        },
+        {
+          "token": "僕たち",
+          "reading": "ボクタチ",
+          "romaji": "bokutachi",
+          "dictionaryForm": "僕たち",
+          "posJa": "代名詞",
+          "posZh": "人称代词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "は",
+          "reading": "ハ",
+          "romaji": "wa",
+          "dictionaryForm": "は",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "主题提示"
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l023",
+      "kind": "lyric",
+      "startMs": 91231,
+      "endMs": 95012,
+      "caption": {
+        "japanese": "ただ自由を求めるでしょう",
+        "romaji": "tada jiyuu wo motomerudeshou",
+        "translationZh": "都在执着地追寻自由吧",
+        "furigana": [
+          {
+            "base": "ただ",
+            "reading": "タダ",
+            "romaji": "tada"
+          },
+          {
+            "base": "自由",
+            "reading": "ジユウ",
+            "romaji": "jiyuu"
+          },
+          {
+            "base": "を",
+            "reading": "ヲ",
+            "romaji": "wo"
+          },
+          {
+            "base": "求めるでしょう",
+            "reading": "モトメルデショウ",
+            "romaji": "motomerudeshou"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "ただ",
+          "reading": "タダ",
+          "romaji": "tada",
+          "dictionaryForm": "ただ",
+          "posJa": "接続詞",
+          "posZh": "连词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "自由",
+          "reading": "ジユウ",
+          "romaji": "jiyuu",
+          "dictionaryForm": "自由",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "を",
+          "reading": "ヲ",
+          "romaji": "wo",
+          "dictionaryForm": "を",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "直接宾语标记"
+        },
+        {
+          "token": "求めるでしょう",
+          "reading": "モトメルデショウ",
+          "romaji": "motomerudeshou",
+          "dictionaryForm": "求める",
+          "posJa": "動詞",
+          "posZh": "动词（活用）",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l024",
+      "kind": "lyric",
+      "startMs": 95982,
+      "endMs": 100166,
+      "caption": {
+        "japanese": "幻想のシグナルに灯す色",
+        "romaji": "gensou no shigunaru ni tomosu iro",
+        "translationZh": "在幻想的信号里点亮色彩",
+        "furigana": [
+          {
+            "base": "幻想",
+            "reading": "ゲンソウ",
+            "romaji": "gensou"
+          },
+          {
+            "base": "の",
+            "reading": "ノ",
+            "romaji": "no"
+          },
+          {
+            "base": "シグナル",
+            "reading": "シグナル",
+            "romaji": "shigunaru"
+          },
+          {
+            "base": "に",
+            "reading": "ニ",
+            "romaji": "ni"
+          },
+          {
+            "base": "灯す",
+            "reading": "トモス",
+            "romaji": "tomosu"
+          },
+          {
+            "base": "色",
+            "reading": "イロ",
+            "romaji": "iro"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "幻想",
+          "reading": "ゲンソウ",
+          "romaji": "gensou",
+          "dictionaryForm": "幻想",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "の",
+          "reading": "ノ",
+          "romaji": "no",
+          "dictionaryForm": "の",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "所属修饰"
+        },
+        {
+          "token": "シグナル",
+          "reading": "シグナル",
+          "romaji": "shigunaru",
+          "dictionaryForm": "シグナル",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "に",
+          "reading": "ニ",
+          "romaji": "ni",
+          "dictionaryForm": "に",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "动作对象、到达点"
+        },
+        {
+          "token": "灯す",
+          "reading": "トモス",
+          "romaji": "tomosu",
+          "dictionaryForm": "灯す",
+          "posJa": "動詞",
+          "posZh": "动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "色",
+          "reading": "イロ",
+          "romaji": "iro",
+          "dictionaryForm": "色",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l025",
+      "kind": "lyric",
+      "startMs": 100390,
+      "endMs": 102423,
+      "caption": {
+        "japanese": "赤い炎",
+        "romaji": "akai honoo",
+        "translationZh": "燃起红色烈焰",
+        "furigana": [
+          {
+            "base": "赤い",
+            "reading": "アカイ",
+            "romaji": "akai"
+          },
+          {
+            "base": "炎",
+            "reading": "ホノオ",
+            "romaji": "honoo"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "赤い",
+          "reading": "アカイ",
+          "romaji": "akai",
+          "dictionaryForm": "赤い",
+          "posJa": "形容詞",
+          "posZh": "形容词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "炎",
+          "reading": "ホノオ",
+          "romaji": "honoo",
+          "dictionaryForm": "炎",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l026",
+      "kind": "lyric",
+      "startMs": 102695,
+      "endMs": 105511,
+      "caption": {
+        "japanese": "月の風に誘われて",
+        "romaji": "tsuki no fuu ni sasowarete",
+        "translationZh": "在月夜清风的邀请下",
+        "furigana": [
+          {
+            "base": "月",
+            "reading": "ツキ",
+            "romaji": "tsuki"
+          },
+          {
+            "base": "の",
+            "reading": "ノ",
+            "romaji": "no"
+          },
+          {
+            "base": "風",
+            "reading": "フウ",
+            "romaji": "fuu"
+          },
+          {
+            "base": "に",
+            "reading": "ニ",
+            "romaji": "ni"
+          },
+          {
+            "base": "誘われて",
+            "reading": "サソワレテ",
+            "romaji": "sasowarete"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "月",
+          "reading": "ツキ",
+          "romaji": "tsuki",
+          "dictionaryForm": "月",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "の",
+          "reading": "ノ",
+          "romaji": "no",
+          "dictionaryForm": "の",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "所属修饰"
+        },
+        {
+          "token": "風",
+          "reading": "フウ",
+          "romaji": "fuu",
+          "dictionaryForm": "風",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "に",
+          "reading": "ニ",
+          "romaji": "ni",
+          "dictionaryForm": "だ",
+          "posJa": "助動詞",
+          "posZh": "助动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "誘われて",
+          "reading": "サソワレテ",
+          "romaji": "sasowarete",
+          "dictionaryForm": "誘う",
+          "posJa": "動詞",
+          "posZh": "动词（活用）",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l027",
+      "kind": "lyric",
+      "startMs": 105686,
+      "endMs": 109957,
+      "caption": {
+        "japanese": "明かりのない場所まで行こう",
+        "romaji": "akari no nai basho made ikou",
+        "translationZh": "前往没有丝毫光芒眷顾的地方",
+        "furigana": [
+          {
+            "base": "明かり",
+            "reading": "アカリ",
+            "romaji": "akari"
+          },
+          {
+            "base": "の",
+            "reading": "ノ",
+            "romaji": "no"
+          },
+          {
+            "base": "ない",
+            "reading": "ナイ",
+            "romaji": "nai"
+          },
+          {
+            "base": "場所",
+            "reading": "バショ",
+            "romaji": "basho"
+          },
+          {
+            "base": "まで",
+            "reading": "マデ",
+            "romaji": "made"
+          },
+          {
+            "base": "行こう",
+            "reading": "イコウ",
+            "romaji": "ikou"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "明かり",
+          "reading": "アカリ",
+          "romaji": "akari",
+          "dictionaryForm": "明かり",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "の",
+          "reading": "ノ",
+          "romaji": "no",
+          "dictionaryForm": "の",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "所属修饰"
+        },
+        {
+          "token": "ない",
+          "reading": "ナイ",
+          "romaji": "nai",
+          "dictionaryForm": "ない",
+          "posJa": "形容詞",
+          "posZh": "形容词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "場所",
+          "reading": "バショ",
+          "romaji": "basho",
+          "dictionaryForm": "場所",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "まで",
+          "reading": "マデ",
+          "romaji": "made",
+          "dictionaryForm": "まで",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "终点、范围"
+        },
+        {
+          "token": "行こう",
+          "reading": "イコウ",
+          "romaji": "ikou",
+          "dictionaryForm": "行く",
+          "posJa": "動詞",
+          "posZh": "动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l028",
+      "kind": "lyric",
+      "startMs": 110261,
+      "endMs": 116229,
+      "caption": {
+        "japanese": "夜が明けるその前に君とふたりで",
+        "romaji": "yoru ga akeru sono mae ni kimi to futari de",
+        "translationZh": "在黎明到来之前我将与你两人一起",
+        "furigana": [
+          {
+            "base": "夜",
+            "reading": "ヨル",
+            "romaji": "yoru"
+          },
+          {
+            "base": "が",
+            "reading": "ガ",
+            "romaji": "ga"
+          },
+          {
+            "base": "明ける",
+            "reading": "アケル",
+            "romaji": "akeru"
+          },
+          {
+            "base": "その",
+            "reading": "ソノ",
+            "romaji": "sono"
+          },
+          {
+            "base": "前",
+            "reading": "マエ",
+            "romaji": "mae"
+          },
+          {
+            "base": "に",
+            "reading": "ニ",
+            "romaji": "ni"
+          },
+          {
+            "base": "君",
+            "reading": "キミ",
+            "romaji": "kimi"
+          },
+          {
+            "base": "と",
+            "reading": "ト",
+            "romaji": "to"
+          },
+          {
+            "base": "ふたり",
+            "reading": "フタリ",
+            "romaji": "futari"
+          },
+          {
+            "base": "で",
+            "reading": "デ",
+            "romaji": "de"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "夜",
+          "reading": "ヨル",
+          "romaji": "yoru",
+          "dictionaryForm": "夜",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "が",
+          "reading": "ガ",
+          "romaji": "ga",
+          "dictionaryForm": "が",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "主语标记"
+        },
+        {
+          "token": "明ける",
+          "reading": "アケル",
+          "romaji": "akeru",
+          "dictionaryForm": "明ける",
+          "posJa": "動詞",
+          "posZh": "动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "その",
+          "reading": "ソノ",
+          "romaji": "sono",
+          "dictionaryForm": "その",
+          "posJa": "連体詞",
+          "posZh": "连体词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "前",
+          "reading": "マエ",
+          "romaji": "mae",
+          "dictionaryForm": "前",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "に",
+          "reading": "ニ",
+          "romaji": "ni",
+          "dictionaryForm": "に",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "动作对象、到达点"
+        },
+        {
+          "token": "君",
+          "reading": "キミ",
+          "romaji": "kimi",
+          "dictionaryForm": "君",
+          "posJa": "代名詞",
+          "posZh": "人称代词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "と",
+          "reading": "ト",
+          "romaji": "to",
+          "dictionaryForm": "と",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "共同对象、引用"
+        },
+        {
+          "token": "ふたり",
+          "reading": "フタリ",
+          "romaji": "futari",
+          "dictionaryForm": "ふたり",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "で",
+          "reading": "デ",
+          "romaji": "de",
+          "dictionaryForm": "で",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "动作、状态发生的地点"
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l029",
+      "kind": "lyric",
+      "startMs": 116557,
+      "endMs": 120743,
+      "caption": {
+        "japanese": "やがて世界は愛に満ちていく",
+        "romaji": "yagate sekai wa ai ni michite iku",
+        "translationZh": "世界不久之后便会被爱所充盈",
+        "furigana": [
+          {
+            "base": "やがて",
+            "reading": "ヤガテ",
+            "romaji": "yagate"
+          },
+          {
+            "base": "世界",
+            "reading": "セカイ",
+            "romaji": "sekai"
+          },
+          {
+            "base": "は",
+            "reading": "ハ",
+            "romaji": "wa"
+          },
+          {
+            "base": "愛",
+            "reading": "アイ",
+            "romaji": "ai"
+          },
+          {
+            "base": "に",
+            "reading": "ニ",
+            "romaji": "ni"
+          },
+          {
+            "base": "満ちて",
+            "reading": "ミチテ",
+            "romaji": "michite"
+          },
+          {
+            "base": "いく",
+            "reading": "イク",
+            "romaji": "iku"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "やがて",
+          "reading": "ヤガテ",
+          "romaji": "yagate",
+          "dictionaryForm": "やがて",
+          "posJa": "副詞",
+          "posZh": "副词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "世界",
+          "reading": "セカイ",
+          "romaji": "sekai",
+          "dictionaryForm": "世界",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "は",
+          "reading": "ハ",
+          "romaji": "wa",
+          "dictionaryForm": "は",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "主题提示"
+        },
+        {
+          "token": "愛",
+          "reading": "アイ",
+          "romaji": "ai",
+          "dictionaryForm": "愛",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "に",
+          "reading": "ニ",
+          "romaji": "ni",
+          "dictionaryForm": "に",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "动作对象、到达点"
+        },
+        {
+          "token": "満ちて",
+          "reading": "ミチテ",
+          "romaji": "michite",
+          "dictionaryForm": "満ちる",
+          "posJa": "動詞",
+          "posZh": "动词（活用）",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "いく",
+          "reading": "イク",
+          "romaji": "iku",
+          "dictionaryForm": "いく",
+          "posJa": "動詞",
+          "posZh": "动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l030",
+      "kind": "lyric",
+      "startMs": 120967,
+      "endMs": 124447,
+      "caption": {
+        "japanese": "綺麗な色に染まっていく",
+        "romaji": "kirei na iro ni somatsute iku",
+        "translationZh": "渐渐地染上绚烂的色彩",
+        "furigana": [
+          {
+            "base": "綺麗",
+            "reading": "キレイ",
+            "romaji": "kirei"
+          },
+          {
+            "base": "な",
+            "reading": "ナ",
+            "romaji": "na"
+          },
+          {
+            "base": "色",
+            "reading": "イロ",
+            "romaji": "iro"
+          },
+          {
+            "base": "に",
+            "reading": "ニ",
+            "romaji": "ni"
+          },
+          {
+            "base": "染まって",
+            "reading": "ソマッテ",
+            "romaji": "somatsute"
+          },
+          {
+            "base": "いく",
+            "reading": "イク",
+            "romaji": "iku"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "綺麗",
+          "reading": "キレイ",
+          "romaji": "kirei",
+          "dictionaryForm": "綺麗",
+          "posJa": "形状詞",
+          "posZh": "形容动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "な",
+          "reading": "ナ",
+          "romaji": "na",
+          "dictionaryForm": "だ",
+          "posJa": "助動詞",
+          "posZh": "助动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "色",
+          "reading": "イロ",
+          "romaji": "iro",
+          "dictionaryForm": "色",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "に",
+          "reading": "ニ",
+          "romaji": "ni",
+          "dictionaryForm": "に",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "动作对象、到达点"
+        },
+        {
+          "token": "染まって",
+          "reading": "ソマッテ",
+          "romaji": "somatsute",
+          "dictionaryForm": "染まる",
+          "posJa": "動詞",
+          "posZh": "动词（活用）",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "いく",
+          "reading": "イク",
+          "romaji": "iku",
+          "dictionaryForm": "いく",
+          "posJa": "動詞",
+          "posZh": "动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l031",
+      "kind": "lyric",
+      "startMs": 124639,
+      "endMs": 128078,
+      "caption": {
+        "japanese": "自由の方へ歩んでいく",
+        "romaji": "jiyuu no hou he ayun de iku",
+        "translationZh": "朝自由所在坚定迈步",
+        "furigana": [
+          {
+            "base": "自由",
+            "reading": "ジユウ",
+            "romaji": "jiyuu"
+          },
+          {
+            "base": "の",
+            "reading": "ノ",
+            "romaji": "no"
+          },
+          {
+            "base": "方",
+            "reading": "ホウ",
+            "romaji": "hou"
+          },
+          {
+            "base": "へ",
+            "reading": "ヘ",
+            "romaji": "he"
+          },
+          {
+            "base": "歩ん",
+            "reading": "アユン",
+            "romaji": "ayun"
+          },
+          {
+            "base": "で",
+            "reading": "デ",
+            "romaji": "de"
+          },
+          {
+            "base": "いく",
+            "reading": "イク",
+            "romaji": "iku"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "自由",
+          "reading": "ジユウ",
+          "romaji": "jiyuu",
+          "dictionaryForm": "自由",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "の",
+          "reading": "ノ",
+          "romaji": "no",
+          "dictionaryForm": "の",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "所属修饰"
+        },
+        {
+          "token": "方",
+          "reading": "ホウ",
+          "romaji": "hou",
+          "dictionaryForm": "方",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "へ",
+          "reading": "ヘ",
+          "romaji": "he",
+          "dictionaryForm": "へ",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "方向"
+        },
+        {
+          "token": "歩ん",
+          "reading": "アユン",
+          "romaji": "ayun",
+          "dictionaryForm": "歩む",
+          "posJa": "動詞",
+          "posZh": "动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "で",
+          "reading": "デ",
+          "romaji": "de",
+          "dictionaryForm": "で",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "动作、状态发生的地点"
+        },
+        {
+          "token": "いく",
+          "reading": "イク",
+          "romaji": "iku",
+          "dictionaryForm": "いく",
+          "posJa": "動詞",
+          "posZh": "动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l032",
+      "kind": "lyric",
+      "startMs": 128327,
+      "endMs": 135719,
+      "caption": {
+        "japanese": "これが夢だと気づいたとしても",
+        "romaji": "kore ga yume da to kizuita to shite mo",
+        "translationZh": "即便察觉到这不过是一场梦境",
+        "furigana": [
+          {
+            "base": "これ",
+            "reading": "コレ",
+            "romaji": "kore"
+          },
+          {
+            "base": "が",
+            "reading": "ガ",
+            "romaji": "ga"
+          },
+          {
+            "base": "夢",
+            "reading": "ユメ",
+            "romaji": "yume"
+          },
+          {
+            "base": "だ",
+            "reading": "ダ",
+            "romaji": "da"
+          },
+          {
+            "base": "と",
+            "reading": "ト",
+            "romaji": "to"
+          },
+          {
+            "base": "気づいた",
+            "reading": "キヅイタ",
+            "romaji": "kizuita"
+          },
+          {
+            "base": "と",
+            "reading": "ト",
+            "romaji": "to"
+          },
+          {
+            "base": "して",
+            "reading": "シテ",
+            "romaji": "shite"
+          },
+          {
+            "base": "も",
+            "reading": "モ",
+            "romaji": "mo"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "これ",
+          "reading": "コレ",
+          "romaji": "kore",
+          "dictionaryForm": "これ",
+          "posJa": "代名詞",
+          "posZh": "人称代词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "が",
+          "reading": "ガ",
+          "romaji": "ga",
+          "dictionaryForm": "が",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "主语标记"
+        },
+        {
+          "token": "夢",
+          "reading": "ユメ",
+          "romaji": "yume",
+          "dictionaryForm": "夢",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "だ",
+          "reading": "ダ",
+          "romaji": "da",
+          "dictionaryForm": "だ",
+          "posJa": "助動詞",
+          "posZh": "助动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "と",
+          "reading": "ト",
+          "romaji": "to",
+          "dictionaryForm": "と",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "共同对象、引用"
+        },
+        {
+          "token": "気づいた",
+          "reading": "キヅイタ",
+          "romaji": "kizuita",
+          "dictionaryForm": "気づく",
+          "posJa": "動詞",
+          "posZh": "动词（活用）",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "と",
+          "reading": "ト",
+          "romaji": "to",
+          "dictionaryForm": "と",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "共同对象、引用"
+        },
+        {
+          "token": "して",
+          "reading": "シテ",
+          "romaji": "shite",
+          "dictionaryForm": "する",
+          "posJa": "動詞",
+          "posZh": "动词（活用）",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "も",
+          "reading": "モ",
+          "romaji": "mo",
+          "dictionaryForm": "も",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "添加、并列"
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l033",
+      "kind": "lyric",
+      "startMs": 137634,
+      "endMs": 140261,
+      "caption": {
+        "japanese": "そばにいて",
+        "romaji": "soba ni ite",
+        "translationZh": "依然要陪着我",
+        "furigana": [
+          {
+            "base": "そば",
+            "reading": "ソバ",
+            "romaji": "soba"
+          },
+          {
+            "base": "に",
+            "reading": "ニ",
+            "romaji": "ni"
+          },
+          {
+            "base": "いて",
+            "reading": "イテ",
+            "romaji": "ite"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "そば",
+          "reading": "ソバ",
+          "romaji": "soba",
+          "dictionaryForm": "そば",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "に",
+          "reading": "ニ",
+          "romaji": "ni",
+          "dictionaryForm": "に",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "动作对象、到达点"
+        },
+        {
+          "token": "いて",
+          "reading": "イテ",
+          "romaji": "ite",
+          "dictionaryForm": "いる",
+          "posJa": "動詞",
+          "posZh": "动词（活用）",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l034",
+      "kind": "lyric",
+      "startMs": 146097,
+      "endMs": 149417,
+      "caption": {
+        "japanese": "全部夜のせいにして",
+        "romaji": "zenbu yoru no sei ni shite",
+        "translationZh": "明明希望能将这一切",
+        "furigana": [
+          {
+            "base": "全部",
+            "reading": "ゼンブ",
+            "romaji": "zenbu"
+          },
+          {
+            "base": "夜",
+            "reading": "ヨル",
+            "romaji": "yoru"
+          },
+          {
+            "base": "の",
+            "reading": "ノ",
+            "romaji": "no"
+          },
+          {
+            "base": "せい",
+            "reading": "セイ",
+            "romaji": "sei"
+          },
+          {
+            "base": "に",
+            "reading": "ニ",
+            "romaji": "ni"
+          },
+          {
+            "base": "して",
+            "reading": "シテ",
+            "romaji": "shite"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "全部",
+          "reading": "ゼンブ",
+          "romaji": "zenbu",
+          "dictionaryForm": "全部",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "夜",
+          "reading": "ヨル",
+          "romaji": "yoru",
+          "dictionaryForm": "夜",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "の",
+          "reading": "ノ",
+          "romaji": "no",
+          "dictionaryForm": "の",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "所属修饰"
+        },
+        {
+          "token": "せい",
+          "reading": "セイ",
+          "romaji": "sei",
+          "dictionaryForm": "せい",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "に",
+          "reading": "ニ",
+          "romaji": "ni",
+          "dictionaryForm": "に",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "动作对象、到达点"
+        },
+        {
+          "token": "して",
+          "reading": "シテ",
+          "romaji": "shite",
+          "dictionaryForm": "する",
+          "posJa": "動詞",
+          "posZh": "动词（活用）",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l035",
+      "kind": "lyric",
+      "startMs": 149590,
+      "endMs": 153050,
+      "caption": {
+        "japanese": "忘れてしまいたいのに",
+        "romaji": "wasurete shimaitai no ni",
+        "translationZh": "都归咎于夜晚尽数忘却",
+        "furigana": [
+          {
+            "base": "忘れて",
+            "reading": "ワスレテ",
+            "romaji": "wasurete"
+          },
+          {
+            "base": "しまいたい",
+            "reading": "シマイタイ",
+            "romaji": "shimaitai"
+          },
+          {
+            "base": "の",
+            "reading": "ノ",
+            "romaji": "no"
+          },
+          {
+            "base": "に",
+            "reading": "ニ",
+            "romaji": "ni"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "忘れて",
+          "reading": "ワスレテ",
+          "romaji": "wasurete",
+          "dictionaryForm": "忘れる",
+          "posJa": "動詞",
+          "posZh": "动词（活用）",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "しまいたい",
+          "reading": "シマイタイ",
+          "romaji": "shimaitai",
+          "dictionaryForm": "しまう",
+          "posJa": "動詞",
+          "posZh": "动词（活用）",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "の",
+          "reading": "ノ",
+          "romaji": "no",
+          "dictionaryForm": "の",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "所属修饰"
+        },
+        {
+          "token": "に",
+          "reading": "ニ",
+          "romaji": "ni",
+          "dictionaryForm": "に",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "动作对象、到达点"
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l036",
+      "kind": "lyric",
+      "startMs": 153522,
+      "endMs": 157171,
+      "caption": {
+        "japanese": "目を閉じても君の残像が",
+        "romaji": "me wo tojite mo kimi no zanzou ga",
+        "translationZh": "可闭上眼后你留下的残影",
+        "furigana": [
+          {
+            "base": "目",
+            "reading": "メ",
+            "romaji": "me"
+          },
+          {
+            "base": "を",
+            "reading": "ヲ",
+            "romaji": "wo"
+          },
+          {
+            "base": "閉じて",
+            "reading": "トジテ",
+            "romaji": "tojite"
+          },
+          {
+            "base": "も",
+            "reading": "モ",
+            "romaji": "mo"
+          },
+          {
+            "base": "君",
+            "reading": "キミ",
+            "romaji": "kimi"
+          },
+          {
+            "base": "の",
+            "reading": "ノ",
+            "romaji": "no"
+          },
+          {
+            "base": "残像",
+            "reading": "ザンゾウ",
+            "romaji": "zanzou"
+          },
+          {
+            "base": "が",
+            "reading": "ガ",
+            "romaji": "ga"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "目",
+          "reading": "メ",
+          "romaji": "me",
+          "dictionaryForm": "目",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "を",
+          "reading": "ヲ",
+          "romaji": "wo",
+          "dictionaryForm": "を",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "直接宾语标记"
+        },
+        {
+          "token": "閉じて",
+          "reading": "トジテ",
+          "romaji": "tojite",
+          "dictionaryForm": "閉じる",
+          "posJa": "動詞",
+          "posZh": "动词（活用）",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "も",
+          "reading": "モ",
+          "romaji": "mo",
+          "dictionaryForm": "も",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "添加、并列"
+        },
+        {
+          "token": "君",
+          "reading": "キミ",
+          "romaji": "kimi",
+          "dictionaryForm": "君",
+          "posJa": "代名詞",
+          "posZh": "人称代词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "の",
+          "reading": "ノ",
+          "romaji": "no",
+          "dictionaryForm": "の",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "所属修饰"
+        },
+        {
+          "token": "残像",
+          "reading": "ザンゾウ",
+          "romaji": "zanzou",
+          "dictionaryForm": "残像",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "が",
+          "reading": "ガ",
+          "romaji": "ga",
+          "dictionaryForm": "が",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "主语标记"
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l037",
+      "kind": "lyric",
+      "startMs": 157362,
+      "endMs": 159793,
+      "caption": {
+        "japanese": "揺らいで眠れない",
+        "romaji": "yurai de nemurenai",
+        "translationZh": "摇曳在眼前令我难眠",
+        "furigana": [
+          {
+            "base": "揺らい",
+            "reading": "ユライ",
+            "romaji": "yurai"
+          },
+          {
+            "base": "で",
+            "reading": "デ",
+            "romaji": "de"
+          },
+          {
+            "base": "眠れない",
+            "reading": "ネムレナイ",
+            "romaji": "nemurenai"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "揺らい",
+          "reading": "ユライ",
+          "romaji": "yurai",
+          "dictionaryForm": "揺らぐ",
+          "posJa": "動詞",
+          "posZh": "动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "で",
+          "reading": "デ",
+          "romaji": "de",
+          "dictionaryForm": "で",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "动作、状态发生的地点"
+        },
+        {
+          "token": "眠れない",
+          "reading": "ネムレナイ",
+          "romaji": "nemurenai",
+          "dictionaryForm": "眠れる",
+          "posJa": "動詞",
+          "posZh": "动词（活用）",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l038",
+      "kind": "lyric",
+      "startMs": 160393,
+      "endMs": 163950,
+      "caption": {
+        "japanese": "今もまだ広がっている",
+        "romaji": "ima mo mada hirogatsute iru",
+        "translationZh": "此刻依然在无限地延伸",
+        "furigana": [
+          {
+            "base": "今",
+            "reading": "イマ",
+            "romaji": "ima"
+          },
+          {
+            "base": "も",
+            "reading": "モ",
+            "romaji": "mo"
+          },
+          {
+            "base": "まだ",
+            "reading": "マダ",
+            "romaji": "mada"
+          },
+          {
+            "base": "広がって",
+            "reading": "ヒロガッテ",
+            "romaji": "hirogatsute"
+          },
+          {
+            "base": "いる",
+            "reading": "イル",
+            "romaji": "iru"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "今",
+          "reading": "イマ",
+          "romaji": "ima",
+          "dictionaryForm": "今",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "も",
+          "reading": "モ",
+          "romaji": "mo",
+          "dictionaryForm": "も",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "添加、并列"
+        },
+        {
+          "token": "まだ",
+          "reading": "マダ",
+          "romaji": "mada",
+          "dictionaryForm": "まだ",
+          "posJa": "副詞",
+          "posZh": "副词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "広がって",
+          "reading": "ヒロガッテ",
+          "romaji": "hirogatsute",
+          "dictionaryForm": "広がる",
+          "posJa": "動詞",
+          "posZh": "动词（活用）",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "いる",
+          "reading": "イル",
+          "romaji": "iru",
+          "dictionaryForm": "いる",
+          "posJa": "動詞",
+          "posZh": "动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l039",
+      "kind": "lyric",
+      "startMs": 164278,
+      "endMs": 167774,
+      "caption": {
+        "japanese": "僕だけの宇宙がある",
+        "romaji": "boku dake no uchuu ga aru",
+        "translationZh": "我有自己专属的宇宙",
+        "furigana": [
+          {
+            "base": "僕",
+            "reading": "ボク",
+            "romaji": "boku"
+          },
+          {
+            "base": "だけ",
+            "reading": "ダケ",
+            "romaji": "dake"
+          },
+          {
+            "base": "の",
+            "reading": "ノ",
+            "romaji": "no"
+          },
+          {
+            "base": "宇宙",
+            "reading": "ウチュウ",
+            "romaji": "uchuu"
+          },
+          {
+            "base": "が",
+            "reading": "ガ",
+            "romaji": "ga"
+          },
+          {
+            "base": "ある",
+            "reading": "アル",
+            "romaji": "aru"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "僕",
+          "reading": "ボク",
+          "romaji": "boku",
+          "dictionaryForm": "僕",
+          "posJa": "代名詞",
+          "posZh": "人称代词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "だけ",
+          "reading": "ダケ",
+          "romaji": "dake",
+          "dictionaryForm": "だけ",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "语法功能待核"
+        },
+        {
+          "token": "の",
+          "reading": "ノ",
+          "romaji": "no",
+          "dictionaryForm": "の",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "所属修饰"
+        },
+        {
+          "token": "宇宙",
+          "reading": "ウチュウ",
+          "romaji": "uchuu",
+          "dictionaryForm": "宇宙",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "が",
+          "reading": "ガ",
+          "romaji": "ga",
+          "dictionaryForm": "が",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "主语标记"
+        },
+        {
+          "token": "ある",
+          "reading": "アル",
+          "romaji": "aru",
+          "dictionaryForm": "ある",
+          "posJa": "動詞",
+          "posZh": "动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l040",
+      "kind": "lyric",
+      "startMs": 168120,
+      "endMs": 171750,
+      "caption": {
+        "japanese": "星と星を線で繋ぐように",
+        "romaji": "hoshi to hoshi wo sen de tsunagu you ni",
+        "translationZh": "如同将点点星星串联那般",
+        "furigana": [
+          {
+            "base": "星",
+            "reading": "ホシ",
+            "romaji": "hoshi"
+          },
+          {
+            "base": "と",
+            "reading": "ト",
+            "romaji": "to"
+          },
+          {
+            "base": "星",
+            "reading": "ホシ",
+            "romaji": "hoshi"
+          },
+          {
+            "base": "を",
+            "reading": "ヲ",
+            "romaji": "wo"
+          },
+          {
+            "base": "線",
+            "reading": "セン",
+            "romaji": "sen"
+          },
+          {
+            "base": "で",
+            "reading": "デ",
+            "romaji": "de"
+          },
+          {
+            "base": "繋ぐ",
+            "reading": "ツナグ",
+            "romaji": "tsunagu"
+          },
+          {
+            "base": "よう",
+            "reading": "ヨウ",
+            "romaji": "you"
+          },
+          {
+            "base": "に",
+            "reading": "ニ",
+            "romaji": "ni"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "星",
+          "reading": "ホシ",
+          "romaji": "hoshi",
+          "dictionaryForm": "星",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "と",
+          "reading": "ト",
+          "romaji": "to",
+          "dictionaryForm": "と",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "共同对象、引用"
+        },
+        {
+          "token": "星",
+          "reading": "ホシ",
+          "romaji": "hoshi",
+          "dictionaryForm": "星",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "を",
+          "reading": "ヲ",
+          "romaji": "wo",
+          "dictionaryForm": "を",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "直接宾语标记"
+        },
+        {
+          "token": "線",
+          "reading": "セン",
+          "romaji": "sen",
+          "dictionaryForm": "線",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "で",
+          "reading": "デ",
+          "romaji": "de",
+          "dictionaryForm": "で",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "动作、状态发生的地点"
+        },
+        {
+          "token": "繋ぐ",
+          "reading": "ツナグ",
+          "romaji": "tsunagu",
+          "dictionaryForm": "繋ぐ",
+          "posJa": "動詞",
+          "posZh": "动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "よう",
+          "reading": "ヨウ",
+          "romaji": "you",
+          "dictionaryForm": "よう",
+          "posJa": "形状詞",
+          "posZh": "形容动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "に",
+          "reading": "ニ",
+          "romaji": "ni",
+          "dictionaryForm": "だ",
+          "posJa": "助動詞",
+          "posZh": "助动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l041",
+      "kind": "lyric",
+      "startMs": 171990,
+      "endMs": 174352,
+      "caption": {
+        "japanese": "明日になればまた",
+        "romaji": "asu ni nare ba mata",
+        "translationZh": "待到明天到来之后",
+        "furigana": [
+          {
+            "base": "明日",
+            "reading": "アス",
+            "romaji": "asu"
+          },
+          {
+            "base": "に",
+            "reading": "ニ",
+            "romaji": "ni"
+          },
+          {
+            "base": "なれ",
+            "reading": "ナレ",
+            "romaji": "nare"
+          },
+          {
+            "base": "ば",
+            "reading": "バ",
+            "romaji": "ba"
+          },
+          {
+            "base": "また",
+            "reading": "マタ",
+            "romaji": "mata"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "明日",
+          "reading": "アス",
+          "romaji": "asu",
+          "dictionaryForm": "明日",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "に",
+          "reading": "ニ",
+          "romaji": "ni",
+          "dictionaryForm": "に",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "动作对象、到达点"
+        },
+        {
+          "token": "なれ",
+          "reading": "ナレ",
+          "romaji": "nare",
+          "dictionaryForm": "なる",
+          "posJa": "動詞",
+          "posZh": "动词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "ば",
+          "reading": "バ",
+          "romaji": "ba",
+          "dictionaryForm": "ば",
+          "posJa": "助詞",
+          "posZh": "助词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false,
+          "functionZh": "语法功能待核"
+        },
+        {
+          "token": "また",
+          "reading": "マタ",
+          "romaji": "mata",
+          "dictionaryForm": "また",
+          "posJa": "副詞",
+          "posZh": "副词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    },
+    {
+      "id": "l042",
+      "kind": "lyric",
+      "startMs": 174711,
+      "endMs": 177238,
+      "caption": {
+        "japanese": "ハロー ハロー",
+        "romaji": "haroo haroo",
+        "translationZh": "便再次予以问候",
+        "furigana": [
+          {
+            "base": "ハロー",
+            "reading": "ハロー",
+            "romaji": "haroo"
+          },
+          {
+            "base": "ハロー",
+            "reading": "ハロー",
+            "romaji": "haroo"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "ハロー",
+          "reading": "ハロー",
+          "romaji": "haroo",
+          "dictionaryForm": "ハロー",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        },
+        {
+          "token": "ハロー",
+          "reading": "ハロー",
+          "romaji": "haroo",
+          "dictionaryForm": "ハロー",
+          "posJa": "名詞",
+          "posZh": "名词",
+          "zhMeaning": "待人工审核",
+          "reviewRequired": true,
+          "render": true,
+          "showJlpt": false
+        }
+      ],
+      "analysisStatus": "auto-draft-needs-human-review",
+      "reviewRequired": true
+    }
+  ]
+}

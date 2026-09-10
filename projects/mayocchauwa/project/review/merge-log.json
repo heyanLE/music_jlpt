@@ -1,0 +1,5834 @@
+{
+  "schemaVersion": 1,
+  "decision": "整体采纳",
+  "scope": "all",
+  "proposalFiles": [
+    "project/proposals/assisted-review-a.json",
+    "project/proposals/assisted-review-b.json",
+    "project/proposals/assisted-review-c.json"
+  ],
+  "merged": [
+    {
+      "frameId": "l001",
+      "old": {
+        "translationZh": "心中茫然无措 渴望得出正确答案",
+        "grammarCards": [
+          {
+            "token": "迷っ",
+            "reading": "まよっ",
+            "romaji": "mayotsu",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "ちゃう",
+            "reading": "ちゃう",
+            "romaji": "chau",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "わ",
+            "reading": "わ",
+            "romaji": "wa",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "我会迷茫啊，只想做出正确的选择。",
+        "grammarCards": [
+          {
+            "token": "迷っ",
+            "reading": "まよっ",
+            "romaji": "mayot",
+            "posZh": "动词",
+            "zhMeaning": "迷惘、犹豫",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "ちゃう",
+            "reading": "ちゃう",
+            "romaji": "chau",
+            "posZh": "补助动词（口语缩约）",
+            "zhMeaning": "不由得……／……起来",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "わ",
+            "reading": "わ",
+            "romaji": "wa",
+            "posZh": "终助词",
+            "functionZh": "加强感叹或强调语气",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": "high",
+      "evidence": [
+        "https://dictionary.goo.ne.jp/thsrs/4398/meaning/m0u/",
+        "https://tsukuba.repo.nii.ac.jp/record/2001454/files/NCK_10-35.pdf"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l002",
+      "old": {
+        "translationZh": "心中茫然无措 渴望得出正确答案",
+        "grammarCards": [
+          {
+            "token": "迷っ",
+            "reading": "まよっ",
+            "romaji": "mayotsu",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "ちゃう",
+            "reading": "ちゃう",
+            "romaji": "chau",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "わ",
+            "reading": "わ",
+            "romaji": "wa",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "我会迷茫啊，只想做出正确的选择。",
+        "grammarCards": [
+          {
+            "token": "迷っ",
+            "reading": "まよっ",
+            "romaji": "mayot",
+            "posZh": "动词",
+            "zhMeaning": "迷惘、犹豫",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "ちゃう",
+            "reading": "ちゃう",
+            "romaji": "chau",
+            "posZh": "补助动词（口语缩约）",
+            "zhMeaning": "不由得……／……起来",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "わ",
+            "reading": "わ",
+            "romaji": "wa",
+            "posZh": "终助词",
+            "functionZh": "加强感叹或强调语气",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": "high",
+      "evidence": [
+        "https://dictionary.goo.ne.jp/thsrs/4398/meaning/m0u/",
+        "https://tsukuba.repo.nii.ac.jp/record/2001454/files/NCK_10-35.pdf"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l003",
+      "old": {
+        "translationZh": "不论天使恶魔似乎都是共犯",
+        "grammarCards": [
+          {
+            "token": "天使",
+            "reading": "てんし",
+            "romaji": "tenshi",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "も",
+            "reading": "も",
+            "romaji": "mo",
+            "posZh": "副助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "添加、强调或让步"
+          },
+          {
+            "token": "悪魔",
+            "reading": "あくま",
+            "romaji": "akuma",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "も",
+            "reading": "も",
+            "romaji": "mo",
+            "posZh": "副助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "添加、强调或让步"
+          },
+          {
+            "token": "共犯",
+            "reading": "きょうはん",
+            "romaji": "kyouhan",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "者",
+            "reading": "しゃ",
+            "romaji": "mono",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "みたい",
+            "reading": "みたい",
+            "romaji": "mitai",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "で",
+            "reading": "で",
+            "romaji": "de",
+            "posZh": "格助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "动作地点／手段"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "天使和恶魔都像是共犯者一样。",
+        "grammarCards": [
+          {
+            "token": "天使",
+            "reading": "てんし",
+            "romaji": "tenshi",
+            "posZh": "名词",
+            "zhMeaning": "天使",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "も",
+            "reading": "も",
+            "romaji": "mo",
+            "posZh": "副助词",
+            "functionZh": "并列添加，表示“也”",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "悪魔",
+            "reading": "あくま",
+            "romaji": "akuma",
+            "posZh": "名词",
+            "zhMeaning": "恶魔",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "も",
+            "reading": "も",
+            "romaji": "mo",
+            "posZh": "副助词",
+            "functionZh": "并列添加，表示“也”",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "共犯者",
+            "reading": "きょうはんしゃ",
+            "romaji": "kyouhansha",
+            "posZh": "名词",
+            "zhMeaning": "共犯者",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "みたいで",
+            "reading": "みたいで",
+            "romaji": "mitaide",
+            "posZh": "形容动词",
+            "zhMeaning": "像是……，而且……",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E5%85%B1%E7%8A%AF%E8%80%85",
+        "https://jisho.org/search/%E3%81%BF%E3%81%9F%E3%81%84"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l004",
+      "old": {
+        "translationZh": "总觉得",
+        "grammarCards": [
+          {
+            "token": "なんだか",
+            "reading": "なんだか",
+            "romaji": "nandaka",
+            "posZh": "副词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "不知怎么的。",
+        "grammarCards": [
+          {
+            "token": "なんだか",
+            "reading": "なんだか",
+            "romaji": "nandaka",
+            "posZh": "副词",
+            "zhMeaning": "不知怎么的；总觉得",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E3%81%AA%E3%82%93%E3%81%A0%E3%81%8B"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l005",
+      "old": {
+        "translationZh": "这场沟通处处都充满猜忌",
+        "grammarCards": [
+          {
+            "token": "懐疑",
+            "reading": "かいぎ",
+            "romaji": "kaigi",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "的",
+            "reading": "てき",
+            "romaji": "teki",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "な",
+            "reading": "な",
+            "romaji": "na",
+            "posZh": "助动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "コミュニケーション",
+            "reading": "こみゅにけーしょん",
+            "romaji": "komyunikeeshon",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "充满猜忌的沟通。",
+        "grammarCards": [
+          {
+            "token": "懐疑的な",
+            "reading": "かいぎてきな",
+            "romaji": "kaigitekina",
+            "posZh": "形容动词",
+            "zhMeaning": "怀疑的；充满猜忌的",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "コミュニケーション",
+            "reading": "コミュニケーション",
+            "romaji": "komyunikeeshon",
+            "posZh": "名词",
+            "zhMeaning": "沟通、交流",
+            "sourceWord": "communication",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": "high",
+      "evidence": [
+        "https://dictionary.goo.ne.jp/word/en/skeptical/",
+        "https://jisho.org/search/%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l006",
+      "old": {
+        "translationZh": "根本就没有意义",
+        "grammarCards": [
+          {
+            "token": "そんな",
+            "reading": "そんな",
+            "romaji": "sonna",
+            "posZh": "连体词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "の",
+            "reading": "の",
+            "romaji": "no",
+            "posZh": "格助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "所属／修饰"
+          },
+          {
+            "token": "無意味",
+            "reading": "むいみ",
+            "romaji": "muimi",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "だ",
+            "reading": "だ",
+            "romaji": "da",
+            "posZh": "助动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "那种事毫无意义。",
+        "grammarCards": [
+          {
+            "token": "そんな",
+            "reading": "そんな",
+            "romaji": "sonna",
+            "posZh": "连体词",
+            "zhMeaning": "那样的",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "の",
+            "reading": "の",
+            "romaji": "no",
+            "posZh": "准体助词",
+            "functionZh": "将前项名词化，指代“那种事”",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "無意味",
+            "reading": "むいみ",
+            "romaji": "muimi",
+            "posZh": "形容动词",
+            "zhMeaning": "没有意义的",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "だ",
+            "reading": "だ",
+            "romaji": "da",
+            "posZh": "助动词",
+            "functionZh": "表示断定",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E3%81%9D%E3%82%93%E3%81%AA",
+        "https://jisho.org/search/%E7%84%A1%E6%84%8F%E5%91%B3"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l007",
+      "old": {
+        "translationZh": "总是一味地隐藏真心",
+        "grammarCards": [
+          {
+            "token": "本音",
+            "reading": "ほんね",
+            "romaji": "honne",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "を",
+            "reading": "を",
+            "romaji": "wo",
+            "posZh": "格助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "动作对象"
+          },
+          {
+            "token": "ただ",
+            "reading": "ただ",
+            "romaji": "tada",
+            "posZh": "连词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "隠し",
+            "reading": "かくし",
+            "romaji": "kakushi",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "てる",
+            "reading": "てる",
+            "romaji": "teru",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "の",
+            "reading": "の",
+            "romaji": "no",
+            "posZh": "格助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "所属／修饰"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "只是一味地把真心藏起来而已。",
+        "grammarCards": [
+          {
+            "token": "本音",
+            "reading": "ほんね",
+            "romaji": "honne",
+            "posZh": "名词",
+            "zhMeaning": "真心话；真实想法",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "を",
+            "reading": "を",
+            "romaji": "wo",
+            "posZh": "格助词",
+            "functionZh": "标记动作对象",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "ただ",
+            "reading": "ただ",
+            "romaji": "tada",
+            "posZh": "副词",
+            "zhMeaning": "只是；一味地",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "隠し",
+            "reading": "かくし",
+            "romaji": "kakushi",
+            "posZh": "动词",
+            "zhMeaning": "隐藏",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "てる",
+            "reading": "てる",
+            "romaji": "teru",
+            "posZh": "补助动词（口语缩约）",
+            "functionZh": "表示动作、状态持续",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "の",
+            "reading": "の",
+            "romaji": "no",
+            "posZh": "终助词",
+            "functionZh": "说明、确认或柔和断言语气",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E6%9C%AC%E9%9F%B3",
+        "https://www.tufs.ac.jp/icjs/images/publications/journal_008.pdf"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l008",
+      "old": {
+        "translationZh": "(反反复复不断探索)",
+        "grammarCards": [
+          {
+            "token": "探し",
+            "reading": "さがし",
+            "romaji": "sagashi",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "て",
+            "reading": "て",
+            "romaji": "te",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "探し",
+            "reading": "さがし",
+            "romaji": "sagashi",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "て",
+            "reading": "て",
+            "romaji": "te",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "（不断寻找着。）",
+        "grammarCards": [
+          {
+            "token": "探し",
+            "reading": "さがし",
+            "romaji": "sagashi",
+            "posZh": "动词",
+            "zhMeaning": "寻找",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "て",
+            "reading": "て",
+            "romaji": "te",
+            "posZh": "接续助词",
+            "functionZh": "连接前后动作，构成て形",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "探し",
+            "reading": "さがし",
+            "romaji": "sagashi",
+            "posZh": "动词",
+            "zhMeaning": "寻找",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "て",
+            "reading": "て",
+            "romaji": "te",
+            "posZh": "接续助词",
+            "functionZh": "连接前后动作，构成て形",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E6%8E%A2%E3%81%99"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l009",
+      "old": {
+        "translationZh": "等待最终验证答案",
+        "grammarCards": [
+          {
+            "token": "答え",
+            "reading": "こたえ",
+            "romaji": "kotae",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "合わせ",
+            "reading": "あわせ",
+            "romaji": "awa se",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "待ち",
+            "reading": "まち",
+            "romaji": "machi",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "な",
+            "reading": "な",
+            "romaji": "na",
+            "posZh": "助动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "の",
+            "reading": "の",
+            "romaji": "no",
+            "posZh": "格助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "所属／修饰"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "我正等着对答案。",
+        "grammarCards": [
+          {
+            "token": "答え合わせ",
+            "reading": "こたえあわせ",
+            "romaji": "kotaeawase",
+            "posZh": "名词",
+            "zhMeaning": "对答案；核对答案",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "待ち",
+            "reading": "まち",
+            "romaji": "machi",
+            "posZh": "名词",
+            "zhMeaning": "等待",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "なの",
+            "reading": "なの",
+            "romaji": "nano",
+            "posZh": "助动词＋终助词",
+            "functionZh": "作说明、解释语气",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": "medium-high",
+      "evidence": [
+        "https://jisho.org/search/%E7%AD%94%E3%81%88%E5%90%88%E3%82%8F%E3%81%9B",
+        "https://japanknowledge.com/contents/daijisen/hanrei04.html"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l010",
+      "old": {
+        "translationZh": "(忍不住一次次碰触)",
+        "grammarCards": [
+          {
+            "token": "触っ",
+            "reading": "さわっ",
+            "romaji": "sawatsu",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "て",
+            "reading": "て",
+            "romaji": "te",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "触っ",
+            "reading": "さわっ",
+            "romaji": "sawatsu",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "て",
+            "reading": "て",
+            "romaji": "te",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "（不断碰触着。）",
+        "grammarCards": [
+          {
+            "token": "触っ",
+            "reading": "さわっ",
+            "romaji": "sawat",
+            "posZh": "动词",
+            "zhMeaning": "碰触",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "て",
+            "reading": "て",
+            "romaji": "te",
+            "posZh": "接续助词",
+            "functionZh": "连接前后动作，构成て形",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "触っ",
+            "reading": "さわっ",
+            "romaji": "sawat",
+            "posZh": "动词",
+            "zhMeaning": "碰触",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "て",
+            "reading": "て",
+            "romaji": "te",
+            "posZh": "接续助词",
+            "functionZh": "连接前后动作，构成て形",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E8%A7%A6%E3%82%8B"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l011",
+      "old": {
+        "translationZh": "算是在耍心机吗？",
+        "grammarCards": [
+          {
+            "token": "ずるい",
+            "reading": "ずるい",
+            "romaji": "zurui",
+            "posZh": "形容词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "こと",
+            "reading": "こと",
+            "romaji": "koto",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "し",
+            "reading": "し",
+            "romaji": "shi",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "てる",
+            "reading": "てる",
+            "romaji": "teru",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "是在做狡猾的事吗？",
+        "grammarCards": [
+          {
+            "token": "ずるい",
+            "reading": "ずるい",
+            "romaji": "zurui",
+            "posZh": "形容词",
+            "zhMeaning": "狡猾的；耍心机的",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "こと",
+            "reading": "こと",
+            "romaji": "koto",
+            "posZh": "形式名词",
+            "functionZh": "把前项行为作为一件事",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "し",
+            "reading": "し",
+            "romaji": "shi",
+            "posZh": "动词",
+            "zhMeaning": "做",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "てる",
+            "reading": "てる",
+            "romaji": "teru",
+            "posZh": "补助动词（口语缩约）",
+            "functionZh": "表示动作、状态持续",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E3%81%9A%E3%82%8B%E3%81%84",
+        "https://www.tufs.ac.jp/icjs/images/publications/journal_008.pdf"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l012",
+      "old": {
+        "translationZh": "心中满是足以将方糖",
+        "grammarCards": [
+          {
+            "token": "角砂糖",
+            "reading": "かくざとう",
+            "romaji": "kakuzatou",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "も",
+            "reading": "も",
+            "romaji": "mo",
+            "posZh": "副助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "添加、强调或让步"
+          },
+          {
+            "token": "溶ける",
+            "reading": "とける",
+            "romaji": "toke ru",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "よう",
+            "reading": "よう",
+            "romaji": "you",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "な",
+            "reading": "な",
+            "romaji": "na",
+            "posZh": "助动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "甜得仿佛连方糖都会融化一般的。",
+        "grammarCards": [
+          {
+            "token": "角砂糖",
+            "reading": "かくざとう",
+            "romaji": "kakuzatou",
+            "posZh": "名词",
+            "zhMeaning": "方糖",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "も",
+            "reading": "も",
+            "romaji": "mo",
+            "posZh": "副助词",
+            "functionZh": "添加、强调，表示“连……也”",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "溶ける",
+            "reading": "とける",
+            "romaji": "tokeru",
+            "posZh": "动词",
+            "zhMeaning": "融化",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "ような",
+            "reading": "ような",
+            "romaji": "youna",
+            "posZh": "形式名词＋助动词",
+            "functionZh": "像……一样的",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E8%A7%92%E7%A0%82%E7%B3%96",
+        "https://jisho.org/search/%E3%82%88%E3%81%86%E3%81%AA"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l013",
+      "old": {
+        "translationZh": "融化的甜蜜罪恶感",
+        "grammarCards": [
+          {
+            "token": "甘い",
+            "reading": "あまい",
+            "romaji": "amai",
+            "posZh": "形容词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "罪悪",
+            "reading": "ざいあく",
+            "romaji": "zaiaku",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "感",
+            "reading": "かん",
+            "romaji": "kan",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "たっぷり",
+            "reading": "たっぷり",
+            "romaji": "tappuri",
+            "posZh": "副词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "满满的甜蜜罪恶感。",
+        "grammarCards": [
+          {
+            "token": "甘い",
+            "reading": "あまい",
+            "romaji": "amai",
+            "posZh": "形容词",
+            "zhMeaning": "甜蜜的",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "罪悪感",
+            "reading": "ざいあくかん",
+            "romaji": "zaiakukan",
+            "posZh": "名词",
+            "zhMeaning": "罪恶感",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "たっぷり",
+            "reading": "たっぷり",
+            "romaji": "tappuri",
+            "posZh": "副词",
+            "zhMeaning": "满满地；充分地",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E7%BD%AA%E6%82%AA%E6%84%9F"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l014",
+      "old": {
+        "translationZh": "心中茫然无措 什么才是正确？",
+        "grammarCards": [
+          {
+            "token": "迷っ",
+            "reading": "まよっ",
+            "romaji": "mayotsu",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "ちゃう",
+            "reading": "ちゃう",
+            "romaji": "chau",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "わ",
+            "reading": "わ",
+            "romaji": "wa",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "何",
+            "reading": "なに",
+            "romaji": "nani",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "が",
+            "reading": "が",
+            "romaji": "ga",
+            "posZh": "格助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "主语标记"
+          },
+          {
+            "token": "正しい",
+            "reading": "ただしい",
+            "romaji": "tadashii",
+            "posZh": "形容词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "我好迷茫，什么才是正确的？",
+        "grammarCards": [
+          {
+            "token": "迷っ",
+            "reading": "まよっ",
+            "romaji": "mayot",
+            "posZh": "动词",
+            "zhMeaning": "迷惘、犹豫",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "ちゃう",
+            "reading": "ちゃう",
+            "romaji": "chau",
+            "posZh": "补助动词（口语缩约）",
+            "zhMeaning": "不由得……／……起来",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "わ",
+            "reading": "わ",
+            "romaji": "wa",
+            "posZh": "终助词",
+            "functionZh": "加强感叹或强调语气",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "何",
+            "reading": "なに",
+            "romaji": "nani",
+            "posZh": "疑问代词",
+            "zhMeaning": "什么",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "が",
+            "reading": "が",
+            "romaji": "ga",
+            "posZh": "格助词",
+            "functionZh": "标记主语",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "正しい",
+            "reading": "ただしい",
+            "romaji": "tadashii",
+            "posZh": "形容词",
+            "zhMeaning": "正确的",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": "high",
+      "evidence": [
+        "https://dictionary.goo.ne.jp/thsrs/4398/meaning/m0u/",
+        "https://tsukuba.repo.nii.ac.jp/record/2001454/files/NCK_10-35.pdf"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l015",
+      "old": {
+        "translationZh": "虚情假意反而让人轻松",
+        "grammarCards": [
+          {
+            "token": "フェイク",
+            "reading": "ふぇいく",
+            "romaji": "feiku",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "は",
+            "reading": "は",
+            "romaji": "ha",
+            "posZh": "提示助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "主题提示"
+          },
+          {
+            "token": "まだ",
+            "reading": "まだ",
+            "romaji": "mada",
+            "posZh": "副词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "マシ",
+            "reading": "まし",
+            "romaji": "mashi",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "虚假的反而还好一些。",
+        "grammarCards": [
+          {
+            "token": "フェイク",
+            "reading": "フェイク",
+            "romaji": "feiku",
+            "posZh": "名词",
+            "zhMeaning": "假象；虚假的东西",
+            "sourceWord": "fake",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "は",
+            "reading": "は",
+            "romaji": "wa",
+            "posZh": "提示助词",
+            "functionZh": "提示主题",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "まだ",
+            "reading": "まだ",
+            "romaji": "mada",
+            "posZh": "副词",
+            "zhMeaning": "还；尚且",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "マシ",
+            "reading": "まし",
+            "romaji": "mashi",
+            "posZh": "形容动词",
+            "zhMeaning": "比较好；还算好",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": "medium-high",
+      "evidence": [
+        "https://jisho.org/search/%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF",
+        "https://jisho.org/search/%E3%81%BE%E3%81%97"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l016",
+      "old": {
+        "translationZh": "不论如何选择或许都是正确答案",
+        "grammarCards": [
+          {
+            "token": "どれ",
+            "reading": "どれ",
+            "romaji": "dore",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "だって",
+            "reading": "だって",
+            "romaji": "datte",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "きっと",
+            "reading": "きっと",
+            "romaji": "kitto",
+            "posZh": "副词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "正解",
+            "reading": "せいかい",
+            "romaji": "seikai",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "な",
+            "reading": "な",
+            "romaji": "na",
+            "posZh": "助动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "の",
+            "reading": "の",
+            "romaji": "no",
+            "posZh": "格助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "所属／修饰"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "无论哪个都一定是正确答案。",
+        "grammarCards": [
+          {
+            "token": "どれ",
+            "reading": "どれ",
+            "romaji": "dore",
+            "posZh": "疑问代词",
+            "zhMeaning": "哪个",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "だって",
+            "reading": "だって",
+            "romaji": "datte",
+            "posZh": "副助词",
+            "functionZh": "加强让步，表示“无论……也”",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "きっと",
+            "reading": "きっと",
+            "romaji": "kitto",
+            "posZh": "副词",
+            "zhMeaning": "一定；肯定",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "正解",
+            "reading": "せいかい",
+            "romaji": "seikai",
+            "posZh": "名词",
+            "zhMeaning": "正确答案",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "なの",
+            "reading": "なの",
+            "romaji": "nano",
+            "posZh": "助动词＋终助词",
+            "functionZh": "作说明、解释语气",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E3%81%A9%E3%82%8C",
+        "https://jisho.org/search/%E6%AD%A3%E8%A7%A3"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l017",
+      "old": {
+        "translationZh": "却还是在反复斟酌 奇趣无穷",
+        "grammarCards": [
+          {
+            "token": "また",
+            "reading": "また",
+            "romaji": "mata",
+            "posZh": "连词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "選び",
+            "reading": "えらび",
+            "romaji": "erabi",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "選び",
+            "reading": "えらび",
+            "romaji": "erabi",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "又一次反复挑选着，我喜欢这种感觉。",
+        "grammarCards": [
+          {
+            "token": "また",
+            "reading": "また",
+            "romaji": "mata",
+            "posZh": "副词",
+            "zhMeaning": "又；再次",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "選び選び",
+            "reading": "えらびえらび",
+            "romaji": "erabierabi",
+            "posZh": "动词反复形",
+            "zhMeaning": "反复挑选、斟酌",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": "medium",
+      "evidence": [
+        "https://jisho.org/search/%E9%81%B8%E3%81%B6"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l018",
+      "old": {
+        "translationZh": "实在是可笑 这样的自己",
+        "grammarCards": [
+          {
+            "token": "笑っ",
+            "reading": "わらっ",
+            "romaji": "waratsu",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "ちゃ",
+            "reading": "ちゃ",
+            "romaji": "cha",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "うわ",
+            "reading": "うわ",
+            "romaji": "uwa",
+            "posZh": "感叹词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "なんか",
+            "reading": "なんか",
+            "romaji": "nanka",
+            "posZh": "感叹词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "私",
+            "reading": "わたし",
+            "romaji": "watashi",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "不知怎么的，我都要笑出来了。",
+        "grammarCards": [
+          {
+            "token": "笑っ",
+            "reading": "わらっ",
+            "romaji": "warat",
+            "posZh": "动词",
+            "zhMeaning": "笑",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "ちゃう",
+            "reading": "ちゃう",
+            "romaji": "chau",
+            "posZh": "补助动词（口语缩约）",
+            "zhMeaning": "不由得……／……起来",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "わ",
+            "reading": "わ",
+            "romaji": "wa",
+            "posZh": "终助词",
+            "functionZh": "加强感叹或强调语气",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "なんか",
+            "reading": "なんか",
+            "romaji": "nanka",
+            "posZh": "副词",
+            "zhMeaning": "不知怎么的；总觉得",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "私",
+            "reading": "わたし",
+            "romaji": "watashi",
+            "posZh": "代词",
+            "zhMeaning": "我",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E7%AC%91%E3%81%86",
+        "https://tsukuba.repo.nii.ac.jp/record/2001454/files/NCK_10-35.pdf"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l019",
+      "old": {
+        "translationZh": "依然在层层伪装",
+        "grammarCards": [
+          {
+            "token": "もう",
+            "reading": "もう",
+            "romaji": "mou",
+            "posZh": "副词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "騙し",
+            "reading": "だまし",
+            "romaji": "damashi",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "騙し",
+            "reading": "だまし",
+            "romaji": "damashi",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "我已经只能勉强撑着。",
+        "grammarCards": [
+          {
+            "token": "もう",
+            "reading": "もう",
+            "romaji": "mou",
+            "posZh": "副词",
+            "zhMeaning": "已经；再也",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "騙し騙し",
+            "reading": "だましだまし",
+            "romaji": "damashidamashi",
+            "posZh": "固定短语",
+            "zhMeaning": "将就着、勉强维持着",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E9%A8%99%E3%81%97%E9%A8%99%E3%81%97"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l020",
+      "old": {
+        "translationZh": "不论何时都会觉得有些心有余悸",
+        "grammarCards": [
+          {
+            "token": "いつ",
+            "reading": "いつ",
+            "romaji": "itsu",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "だって",
+            "reading": "だって",
+            "romaji": "datte",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "ちょっと",
+            "reading": "ちょっと",
+            "romaji": "chotto",
+            "posZh": "副词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "怖い",
+            "reading": "こわい",
+            "romaji": "kowai",
+            "posZh": "形容词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "くらい",
+            "reading": "くらい",
+            "romaji": "kurai",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "よ",
+            "reading": "よ",
+            "romaji": "yo",
+            "posZh": "终助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "告知／强调"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "无论何时，都会有点害怕呢。",
+        "grammarCards": [
+          {
+            "token": "いつだって",
+            "reading": "いつだって",
+            "romaji": "itsudatte",
+            "posZh": "副词",
+            "zhMeaning": "无论何时",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "ちょっと",
+            "reading": "ちょっと",
+            "romaji": "chotto",
+            "posZh": "副词",
+            "zhMeaning": "有点；稍微",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "怖い",
+            "reading": "こわい",
+            "romaji": "kowai",
+            "posZh": "形容词",
+            "zhMeaning": "害怕的",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "くらい",
+            "reading": "くらい",
+            "romaji": "kurai",
+            "posZh": "副助词",
+            "functionZh": "表示程度，达到……的程度",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "よ",
+            "reading": "よ",
+            "romaji": "yo",
+            "posZh": "终助词",
+            "functionZh": "告知、强调语气",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E3%81%84%E3%81%A4%E3%81%A0%E3%81%A3%E3%81%A6",
+        "https://jisho.org/search/%E3%81%8F%E3%82%89%E3%81%84"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l021",
+      "old": {
+        "translationZh": "可还是在反复斟酌 奇趣无穷",
+        "grammarCards": [
+          {
+            "token": "でも",
+            "reading": "でも",
+            "romaji": "demo",
+            "posZh": "连词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "選び",
+            "reading": "えらび",
+            "romaji": "erabi",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "選び",
+            "reading": "えらび",
+            "romaji": "erabi",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "但我仍反复挑选着，我喜欢这种感觉。",
+        "grammarCards": [
+          {
+            "token": "でも",
+            "reading": "でも",
+            "romaji": "demo",
+            "posZh": "连词",
+            "zhMeaning": "但是；可是",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "選び選び",
+            "reading": "えらびえらび",
+            "romaji": "erabierabi",
+            "posZh": "动词反复形",
+            "zhMeaning": "反复挑选、斟酌",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": "medium",
+      "evidence": [
+        "https://jisho.org/search/%E3%81%A7%E3%82%82",
+        "https://jisho.org/search/%E9%81%B8%E3%81%B6"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l022",
+      "old": {
+        "translationZh": "必须坚信自己的选择",
+        "grammarCards": [
+          {
+            "token": "それ",
+            "reading": "それ",
+            "romaji": "sore",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "を",
+            "reading": "を",
+            "romaji": "wo",
+            "posZh": "格助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "动作对象"
+          },
+          {
+            "token": "信じ",
+            "reading": "しんじ",
+            "romaji": "shinji",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "なく",
+            "reading": "なく",
+            "romaji": "naku",
+            "posZh": "助动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "ちゃ",
+            "reading": "ちゃ",
+            "romaji": "cha",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "那个，必须相信才行。",
+        "grammarCards": [
+          {
+            "token": "それ",
+            "reading": "それ",
+            "romaji": "sore",
+            "zhMeaning": "那个",
+            "posZh": "代词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "を",
+            "reading": "を",
+            "romaji": "wo",
+            "functionZh": "标记动作对象",
+            "posZh": "格助词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "信じ",
+            "reading": "しんじ",
+            "romaji": "shinji",
+            "zhMeaning": "相信",
+            "posZh": "动词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "なくちゃ",
+            "reading": "なくちゃ",
+            "romaji": "nakucha",
+            "functionZh": "表示“必须……”（なければならない的口语省略）",
+            "posZh": "惯用语法",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.97,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/thsrs/4398/meaning/m0u"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l023",
+      "old": {
+        "translationZh": "似乎那些重要的事物",
+        "grammarCards": [
+          {
+            "token": "大事",
+            "reading": "だいじ",
+            "romaji": "daiji",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "な",
+            "reading": "な",
+            "romaji": "na",
+            "posZh": "助动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "モノ",
+            "reading": "もの",
+            "romaji": "mono",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "ゆらゆら",
+            "reading": "ゆらゆら",
+            "romaji": "yurayura",
+            "posZh": "副词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "重要的事物摇摇晃晃、飘忽不定。",
+        "grammarCards": [
+          {
+            "token": "大事",
+            "reading": "だいじ",
+            "romaji": "daiji",
+            "zhMeaning": "重要、珍贵",
+            "posZh": "形容动词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "な",
+            "reading": "な",
+            "romaji": "na",
+            "functionZh": "连接形容动词与后续名词",
+            "posZh": "助动词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "モノ",
+            "reading": "もの",
+            "romaji": "mono",
+            "zhMeaning": "东西、事物",
+            "posZh": "名词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "ゆらゆら",
+            "reading": "ゆらゆら",
+            "romaji": "yurayura",
+            "zhMeaning": "摇摇晃晃、飘忽不定地",
+            "posZh": "副词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.93,
+      "evidence": [],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l024",
+      "old": {
+        "translationZh": "总是若隐若现终会失去",
+        "grammarCards": [
+          {
+            "token": "失",
+            "reading": "しつ",
+            "romaji": "shitsu",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "くし",
+            "reading": "くし",
+            "romaji": "kushi",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "ちゃう",
+            "reading": "ちゃう",
+            "romaji": "chau",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "みたい",
+            "reading": "みたい",
+            "romaji": "mitai",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "ね",
+            "reading": "ね",
+            "romaji": "ne",
+            "posZh": "终助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "征求认同／语气"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "好像会弄丢呢。",
+        "grammarCards": [
+          {
+            "token": "失くしちゃう",
+            "reading": "なくしちゃう",
+            "romaji": "nakushichau",
+            "zhMeaning": "弄丢、失去掉",
+            "posZh": "动词＋补助动词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "みたい",
+            "reading": "みたい",
+            "romaji": "mitai",
+            "zhMeaning": "好像、似乎",
+            "posZh": "助动词性表达",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "ね",
+            "reading": "ね",
+            "romaji": "ne",
+            "functionZh": "轻微确认或感叹语气",
+            "posZh": "终助词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.96,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/word/%E5%A4%B1%E3%81%86/"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l025",
+      "old": {
+        "translationZh": "心中茫然无措 渴望得出正确答案",
+        "grammarCards": [
+          {
+            "token": "迷っ",
+            "reading": "まよっ",
+            "romaji": "mayotsu",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "ちゃう",
+            "reading": "ちゃう",
+            "romaji": "chau",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "わ",
+            "reading": "わ",
+            "romaji": "wa",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "我不禁迷茫起来，想要成为正确的那一方。",
+        "grammarCards": [
+          {
+            "token": "迷っちゃう",
+            "reading": "まよっちゃう",
+            "romaji": "mayocchau",
+            "zhMeaning": "不禁迷茫起来",
+            "posZh": "动词＋补助动词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "わ",
+            "reading": "わ",
+            "romaji": "wa",
+            "functionZh": "句末带出感叹、柔和语气",
+            "posZh": "终助词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.88,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/thsrs/4398/meaning/m0u"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l026",
+      "old": {
+        "translationZh": "心中茫然无措 渴望得出正确答案",
+        "grammarCards": [
+          {
+            "token": "迷っ",
+            "reading": "まよっ",
+            "romaji": "mayotsu",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "ちゃう",
+            "reading": "ちゃう",
+            "romaji": "chau",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "わ",
+            "reading": "わ",
+            "romaji": "wa",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "我不禁迷茫起来，想要成为正确的那一方。",
+        "grammarCards": [
+          {
+            "token": "迷っちゃう",
+            "reading": "まよっちゃう",
+            "romaji": "mayocchau",
+            "zhMeaning": "不禁迷茫起来",
+            "posZh": "动词＋补助动词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "わ",
+            "reading": "わ",
+            "romaji": "wa",
+            "functionZh": "句末带出感叹、柔和语气",
+            "posZh": "终助词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.88,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/thsrs/4398/meaning/m0u"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l027",
+      "old": {
+        "translationZh": "你权当是在消遣？快点坦白",
+        "grammarCards": [
+          {
+            "token": "遊ん",
+            "reading": "あそん",
+            "romaji": "ason",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "でる",
+            "reading": "でる",
+            "romaji": "deru",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "の",
+            "reading": "の",
+            "romaji": "no",
+            "posZh": "格助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "所属／修饰"
+          },
+          {
+            "token": "教え",
+            "reading": "おしえ",
+            "romaji": "oshie",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "て",
+            "reading": "て",
+            "romaji": "te",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "你是在玩弄我吗？告诉我。",
+        "grammarCards": [
+          {
+            "token": "遊んでる",
+            "reading": "あそんでる",
+            "romaji": "asonderu",
+            "zhMeaning": "在玩弄（我）",
+            "posZh": "动词进行形",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "の",
+            "reading": "の",
+            "romaji": "no",
+            "functionZh": "构成带说明、追问语气的疑问",
+            "posZh": "终助词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "教えて",
+            "reading": "おしえて",
+            "romaji": "oshiete",
+            "zhMeaning": "告诉我",
+            "posZh": "动词请求形",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.95,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/word/%E9%81%8A%E3%81%B6_%28%E3%81%82%E3%81%9D%E3%81%B6%29/"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l028",
+      "old": {
+        "translationZh": "我根本就无法从容应对",
+        "grammarCards": [
+          {
+            "token": "余裕",
+            "reading": "よゆう",
+            "romaji": "yoyuu",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "なんか",
+            "reading": "なんか",
+            "romaji": "nanka",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "ない",
+            "reading": "ない",
+            "romaji": "nai",
+            "posZh": "形容词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "よ",
+            "reading": "よ",
+            "romaji": "yo",
+            "posZh": "终助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "告知／强调"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "我根本没有从容应对的余裕啊。",
+        "grammarCards": [
+          {
+            "token": "余裕",
+            "reading": "よゆう",
+            "romaji": "yoyuu",
+            "zhMeaning": "余裕、从容",
+            "posZh": "名词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "なんか",
+            "reading": "なんか",
+            "romaji": "nanka",
+            "functionZh": "在否定中加强“根本没有”的语气",
+            "posZh": "副助词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "ない",
+            "reading": "ない",
+            "romaji": "nai",
+            "zhMeaning": "没有",
+            "posZh": "形容词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "よ",
+            "reading": "よ",
+            "romaji": "yo",
+            "functionZh": "向对方告知并加强断言",
+            "posZh": "终助词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.97,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/srch/all/%E4%BD%99%E8%A3%95/m0u"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l029",
+      "old": {
+        "translationZh": "不论表里都被操作设定",
+        "grammarCards": [
+          {
+            "token": "裏",
+            "reading": "うら",
+            "romaji": "ura",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "も",
+            "reading": "も",
+            "romaji": "mo",
+            "posZh": "副助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "添加、强调或让步"
+          },
+          {
+            "token": "表",
+            "reading": "ひょう",
+            "romaji": "omote",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "も",
+            "reading": "も",
+            "romaji": "mo",
+            "posZh": "副助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "添加、强调或让步"
+          },
+          {
+            "token": "操作",
+            "reading": "そうさ",
+            "romaji": "sousa",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "さ",
+            "reading": "さ",
+            "romaji": "sa",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "れ",
+            "reading": "れ",
+            "romaji": "re",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "てる",
+            "reading": "てる",
+            "romaji": "teru",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "不管内里还是表面，都正被操纵着。",
+        "grammarCards": [
+          {
+            "token": "裏",
+            "reading": "うら",
+            "romaji": "ura",
+            "zhMeaning": "内里、背后",
+            "posZh": "名词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "も",
+            "reading": "も",
+            "romaji": "mo",
+            "functionZh": "与后项呼应，表示“……也……”",
+            "posZh": "副助词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "表",
+            "reading": "おもて",
+            "romaji": "omote",
+            "zhMeaning": "表面、外在",
+            "posZh": "名词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "も",
+            "reading": "も",
+            "romaji": "mo",
+            "functionZh": "与前项呼应，表示“……也……”",
+            "posZh": "副助词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "操作されてる",
+            "reading": "そうさされてる",
+            "romaji": "sousasareteru",
+            "zhMeaning": "正被操纵着",
+            "posZh": "サ变动词被动进行形",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.97,
+      "evidence": [],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l030",
+      "old": {
+        "translationZh": "(或许这是场欺诈游戏)",
+        "grammarCards": [
+          {
+            "token": "イカ",
+            "reading": "いか",
+            "romaji": "ika",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "サマ",
+            "reading": "さま",
+            "romaji": "sama",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "ゲーム",
+            "reading": "げーむ",
+            "romaji": "geemu",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "かも",
+            "reading": "かも",
+            "romaji": "kamo",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "（也许是一场欺诈游戏。）",
+        "grammarCards": [
+          {
+            "token": "イカサマ",
+            "reading": "いかさま",
+            "romaji": "ikasama",
+            "zhMeaning": "欺诈、出老千",
+            "posZh": "名词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "ゲーム",
+            "reading": "ゲーム",
+            "romaji": "geemu",
+            "zhMeaning": "游戏",
+            "posZh": "名词",
+            "sourceWord": "game",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "かも",
+            "reading": "かも",
+            "romaji": "kamo",
+            "functionZh": "表示不确定推测“也许……”",
+            "posZh": "惯用语法",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.97,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/thsrs/11603/meaning/m0u"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l031",
+      "old": {
+        "translationZh": "就算心中感到焦躁难耐",
+        "grammarCards": [
+          {
+            "token": "じれったい",
+            "reading": "じれったい",
+            "romaji": "jirettai",
+            "posZh": "形容词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "な",
+            "reading": "な",
+            "romaji": "na",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "でも",
+            "reading": "でも",
+            "romaji": "demo",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "で",
+            "reading": "で",
+            "romaji": "de",
+            "posZh": "格助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "动作地点／手段"
+          },
+          {
+            "token": "も",
+            "reading": "も",
+            "romaji": "mo",
+            "posZh": "副助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "添加、强调或让步"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "真让人焦躁啊，可是、可是……",
+        "grammarCards": [
+          {
+            "token": "じれったい",
+            "reading": "じれったい",
+            "romaji": "jirettai",
+            "zhMeaning": "焦躁难耐、令人着急",
+            "posZh": "形容词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "な",
+            "reading": "な",
+            "romaji": "na",
+            "functionZh": "表示感叹或自言自语的句末语气",
+            "posZh": "终助词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "でも",
+            "reading": "でも",
+            "romaji": "demo",
+            "zhMeaning": "但是、可是",
+            "posZh": "接续词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "でも",
+            "reading": "でも",
+            "romaji": "demo",
+            "zhMeaning": "但是、可是",
+            "posZh": "接续词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.84,
+      "evidence": [],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l032",
+      "old": {
+        "translationZh": "仍愿被你恣意摆布",
+        "grammarCards": [
+          {
+            "token": "遊ば",
+            "reading": "あそば",
+            "romaji": "asoba",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "れ",
+            "reading": "れ",
+            "romaji": "re",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "て",
+            "reading": "て",
+            "romaji": "te",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "い",
+            "reading": "い",
+            "romaji": "i",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "たい",
+            "reading": "たい",
+            "romaji": "tai",
+            "posZh": "助动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "な",
+            "reading": "な",
+            "romaji": "na",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "我却还想一直被你玩弄呢。",
+        "grammarCards": [
+          {
+            "token": "遊ばれて",
+            "reading": "あそばれて",
+            "romaji": "asobarete",
+            "zhMeaning": "被玩弄着",
+            "posZh": "动词被动形",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "いたい",
+            "reading": "いたい",
+            "romaji": "itai",
+            "zhMeaning": "想一直保持该状态",
+            "posZh": "补助动词＋愿望表达",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "な",
+            "reading": "な",
+            "romaji": "na",
+            "functionZh": "表示感叹、愿望的句末语气",
+            "posZh": "终助词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.94,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/word/%E9%81%8A%E3%81%B6_%28%E3%81%82%E3%81%9D%E3%81%B6%29/"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l033",
+      "old": {
+        "translationZh": "好感度并不稳定",
+        "grammarCards": [
+          {
+            "token": "不安定",
+            "reading": "ふあんてい",
+            "romaji": "fuantei",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "な",
+            "reading": "な",
+            "romaji": "na",
+            "posZh": "助动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "好",
+            "reading": "こう",
+            "romaji": "kou",
+            "posZh": "待审词性",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "感度",
+            "reading": "かんど",
+            "romaji": "kando",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "不稳定的好感度。",
+        "grammarCards": [
+          {
+            "token": "不安定",
+            "reading": "ふあんてい",
+            "romaji": "fuantei",
+            "zhMeaning": "不稳定",
+            "posZh": "形容动词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "な",
+            "reading": "な",
+            "romaji": "na",
+            "functionZh": "连接形容动词与后续名词",
+            "posZh": "助动词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "好感度",
+            "reading": "こうかんど",
+            "romaji": "koukando",
+            "zhMeaning": "好感度",
+            "posZh": "名词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.99,
+      "evidence": [],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l034",
+      "old": {
+        "translationZh": "请让我体会能从幻想中醒来的",
+        "grammarCards": [
+          {
+            "token": "この",
+            "reading": "この",
+            "romaji": "kono",
+            "posZh": "连体词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "幻想",
+            "reading": "げんそう",
+            "romaji": "gensou",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "も",
+            "reading": "も",
+            "romaji": "mo",
+            "posZh": "副助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "添加、强调或让步"
+          },
+          {
+            "token": "醒める",
+            "reading": "さめる",
+            "romaji": "same ru",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "よう",
+            "reading": "よう",
+            "romaji": "you",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "な",
+            "reading": "な",
+            "romaji": "na",
+            "posZh": "助动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "仿佛连这场幻想也会醒来的那种……",
+        "grammarCards": [
+          {
+            "token": "この",
+            "reading": "この",
+            "romaji": "kono",
+            "zhMeaning": "这、这个",
+            "posZh": "连体词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "幻想",
+            "reading": "げんそう",
+            "romaji": "gensou",
+            "zhMeaning": "幻想",
+            "posZh": "名词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "も",
+            "reading": "も",
+            "romaji": "mo",
+            "functionZh": "提示“连……也……”",
+            "posZh": "副助词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "醒める",
+            "reading": "さめる",
+            "romaji": "sameru",
+            "zhMeaning": "从梦幻中醒来、清醒",
+            "posZh": "动词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "ような",
+            "reading": "ような",
+            "romaji": "youna",
+            "functionZh": "表示比喻或例示，修饰后项“仿佛……那样的”",
+            "posZh": "惯用语法",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.89,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/thsrs/1513/meaning/m0u"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l035",
+      "old": {
+        "translationZh": "那种苦涩的现实感吧",
+        "grammarCards": [
+          {
+            "token": "苦い",
+            "reading": "にがい",
+            "romaji": "nigai",
+            "posZh": "形容词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "現実",
+            "reading": "げんじつ",
+            "romaji": "genjitsu",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "感",
+            "reading": "かん",
+            "romaji": "kan",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "頂戴",
+            "reading": "ちょうだい",
+            "romaji": "choudai",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "请给我一种苦涩得足以让这场幻想醒来的现实感。",
+        "grammarCards": [
+          {
+            "token": "苦い",
+            "reading": "にがい",
+            "romaji": "nigai",
+            "zhMeaning": "苦涩的",
+            "posZh": "形容词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "現実感",
+            "reading": "げんじつかん",
+            "romaji": "genjitsukan",
+            "zhMeaning": "现实感",
+            "posZh": "名词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "頂戴",
+            "reading": "ちょうだい",
+            "romaji": "choudai",
+            "zhMeaning": "请给我",
+            "posZh": "请求表达",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.94,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/word/%E9%A0%82%E6%88%B4/"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l036",
+      "old": {
+        "translationZh": "心中茫然无措 我已有所察觉",
+        "grammarCards": [
+          {
+            "token": "迷っ",
+            "reading": "まよっ",
+            "romaji": "mayotsu",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "ちゃう",
+            "reading": "ちゃう",
+            "romaji": "chau",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "わ",
+            "reading": "わ",
+            "romaji": "wa",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "君",
+            "reading": "きみ",
+            "romaji": "kun",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "の",
+            "reading": "の",
+            "romaji": "no",
+            "posZh": "格助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "所属／修饰"
+          },
+          {
+            "token": "言葉",
+            "reading": "ことば",
+            "romaji": "kotoba",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "我不禁迷茫起来——你的话语……",
+        "grammarCards": [
+          {
+            "token": "迷っちゃう",
+            "reading": "まよっちゃう",
+            "romaji": "mayocchau",
+            "zhMeaning": "不禁迷茫起来",
+            "posZh": "动词＋补助动词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "わ",
+            "reading": "わ",
+            "romaji": "wa",
+            "functionZh": "句末带出感叹、柔和语气",
+            "posZh": "终助词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "君",
+            "reading": "きみ",
+            "romaji": "kimi",
+            "zhMeaning": "你",
+            "posZh": "代词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "の",
+            "reading": "の",
+            "romaji": "no",
+            "functionZh": "表示所属，连接“你”和“话语”",
+            "posZh": "格助词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "言葉",
+            "reading": "ことば",
+            "romaji": "kotoba",
+            "zhMeaning": "话语、言辞",
+            "posZh": "名词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.91,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/thsrs/4398/meaning/m0u"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l037",
+      "old": {
+        "translationZh": "只要能够由衷地",
+        "grammarCards": [
+          {
+            "token": "受け入れる",
+            "reading": "うけいれる",
+            "romaji": "ukeire ru",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "の",
+            "reading": "の",
+            "romaji": "no",
+            "posZh": "格助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "所属／修饰"
+          },
+          {
+            "token": "は",
+            "reading": "は",
+            "romaji": "ha",
+            "posZh": "提示助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "主题提示"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "接受你的话这件事，",
+        "grammarCards": [
+          {
+            "token": "受け入れる",
+            "reading": "うけいれる",
+            "romaji": "ukeireru",
+            "zhMeaning": "接纳、接受",
+            "posZh": "动词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "の",
+            "reading": "の",
+            "romaji": "no",
+            "functionZh": "将前面的动作名词化为“……这件事”",
+            "posZh": "准体助词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "は",
+            "reading": "は",
+            "romaji": "wa",
+            "functionZh": "提示主题",
+            "posZh": "提示助词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.97,
+      "evidence": [],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l038",
+      "old": {
+        "translationZh": "接受你的甜言蜜语就能得到解脱",
+        "grammarCards": [
+          {
+            "token": "楽",
+            "reading": "らく",
+            "romaji": "raku",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "な",
+            "reading": "な",
+            "romaji": "na",
+            "posZh": "助动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "ん",
+            "reading": "ん",
+            "romaji": "n",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "だって",
+            "reading": "だって",
+            "romaji": "datte",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "そう",
+            "reading": "そう",
+            "romaji": "sou",
+            "posZh": "副词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "気づい",
+            "reading": "きづい",
+            "romaji": "kizu i",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "てる",
+            "reading": "てる",
+            "romaji": "teru",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "の",
+            "reading": "の",
+            "romaji": "no",
+            "posZh": "格助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "所属／修饰"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "我已经察觉到，接受你的话其实很轻松。",
+        "grammarCards": [
+          {
+            "token": "楽",
+            "reading": "らく",
+            "romaji": "raku",
+            "zhMeaning": "轻松、容易",
+            "posZh": "形容动词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "なんだ",
+            "reading": "なんだ",
+            "romaji": "nanda",
+            "functionZh": "表示说明、强调的语气",
+            "posZh": "说明表达",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "って",
+            "reading": "って",
+            "romaji": "tte",
+            "functionZh": "引用前项内容，相当于“说是……”",
+            "posZh": "引用助词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "そう",
+            "reading": "そう",
+            "romaji": "sou",
+            "zhMeaning": "那样、如此",
+            "posZh": "副词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "気づいてる",
+            "reading": "きづいてる",
+            "romaji": "kizuiteru",
+            "zhMeaning": "已经察觉到",
+            "posZh": "动词进行形",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "の",
+            "reading": "の",
+            "romaji": "no",
+            "functionZh": "句末说明、陈述语气",
+            "posZh": "终助词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.95,
+      "evidence": [],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l039",
+      "old": {
+        "translationZh": "让我越陷越深 沉沦其中",
+        "grammarCards": [
+          {
+            "token": "また",
+            "reading": "また",
+            "romaji": "mata",
+            "posZh": "连词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "染まり",
+            "reading": "そまり",
+            "romaji": "soma ri",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "染まり",
+            "reading": "そまり",
+            "romaji": "soma ri",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "又一次渐渐染上色彩，坠入其中。",
+        "grammarCards": [
+          {
+            "token": "また",
+            "reading": "また",
+            "romaji": "mata",
+            "zhMeaning": "又、再次",
+            "posZh": "副词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "染まり",
+            "reading": "そまり",
+            "romaji": "somari",
+            "zhMeaning": "染上、被染上",
+            "posZh": "动词连用形",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "染まり",
+            "reading": "そまり",
+            "romaji": "somari",
+            "zhMeaning": "染上、被染上",
+            "posZh": "动词连用形",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.82,
+      "evidence": [],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l040",
+      "old": {
+        "translationZh": "实在是可笑 你的点点滴滴",
+        "grammarCards": [
+          {
+            "token": "笑っ",
+            "reading": "わらっ",
+            "romaji": "waratsu",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "ちゃう",
+            "reading": "ちゃう",
+            "romaji": "chau",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "わ",
+            "reading": "わ",
+            "romaji": "wa",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "君",
+            "reading": "きみ",
+            "romaji": "kun",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "の",
+            "reading": "の",
+            "romaji": "no",
+            "posZh": "格助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "所属／修饰"
+          },
+          {
+            "token": "事",
+            "reading": "こと",
+            "romaji": "koto",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "が",
+            "reading": "が",
+            "romaji": "ga",
+            "posZh": "格助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "主语标记"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "一想到关于你的事，我就忍不住笑出来。",
+        "grammarCards": [
+          {
+            "token": "笑っちゃう",
+            "reading": "わらっちゃう",
+            "romaji": "waracchau",
+            "zhMeaning": "忍不住笑出来",
+            "posZh": "动词＋补助动词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "わ",
+            "reading": "わ",
+            "romaji": "wa",
+            "functionZh": "句末带出感叹、柔和语气",
+            "posZh": "终助词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "君",
+            "reading": "きみ",
+            "romaji": "kimi",
+            "zhMeaning": "你",
+            "posZh": "代词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "の",
+            "reading": "の",
+            "romaji": "no",
+            "functionZh": "表示所属，连接“你”和“事”",
+            "posZh": "格助词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "事",
+            "reading": "こと",
+            "romaji": "koto",
+            "zhMeaning": "事情、关于……的事",
+            "posZh": "名词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "が",
+            "reading": "が",
+            "romaji": "ga",
+            "functionZh": "标记后续谓语的主语",
+            "posZh": "格助词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.8,
+      "evidence": [],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l041",
+      "old": {
+        "translationZh": "来回盘踞于心间",
+        "grammarCards": [
+          {
+            "token": "もう",
+            "reading": "もう",
+            "romaji": "mou",
+            "posZh": "副词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "巡り",
+            "reading": "めぐり",
+            "romaji": "meguri",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "巡り",
+            "reading": "めぐり",
+            "romaji": "meguri",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "已经反反复复地循环着。",
+        "grammarCards": [
+          {
+            "token": "もう",
+            "reading": "もう",
+            "romaji": "mou",
+            "zhMeaning": "已经、再也、又",
+            "posZh": "副词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "巡り",
+            "reading": "めぐり",
+            "romaji": "meguri",
+            "zhMeaning": "循环、反复萦绕",
+            "posZh": "动词连用形",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "巡り",
+            "reading": "めぐり",
+            "romaji": "meguri",
+            "zhMeaning": "循环、反复萦绕",
+            "posZh": "动词连用形",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.77,
+      "evidence": [],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l042",
+      "old": {
+        "translationZh": "全都涂抹上如此危险的色彩",
+        "grammarCards": [
+          {
+            "token": "危険",
+            "reading": "きけん",
+            "romaji": "kiken",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "な",
+            "reading": "な",
+            "romaji": "na",
+            "posZh": "助动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "色",
+            "reading": "いろ",
+            "romaji": "iro",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "で",
+            "reading": "で",
+            "romaji": "de",
+            "posZh": "格助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "动作地点／手段"
+          },
+          {
+            "token": "塗り",
+            "reading": "ぬり",
+            "romaji": "nuri",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "変え",
+            "reading": "かえ",
+            "romaji": "kae",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "られ",
+            "reading": "られ",
+            "romaji": "rare",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "て",
+            "reading": "て",
+            "romaji": "te",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "被用危险的色彩重新涂染着。",
+        "grammarCards": [
+          {
+            "token": "危険",
+            "reading": "きけん",
+            "romaji": "kiken",
+            "zhMeaning": "危险",
+            "posZh": "形容动词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "な",
+            "reading": "な",
+            "romaji": "na",
+            "functionZh": "连接形容动词与后续名词",
+            "posZh": "助动词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "色",
+            "reading": "いろ",
+            "romaji": "iro",
+            "zhMeaning": "色彩",
+            "posZh": "名词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "で",
+            "reading": "で",
+            "romaji": "de",
+            "functionZh": "表示动作所用的材料或手段",
+            "posZh": "格助词",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "塗り変えられて",
+            "reading": "ぬりかえられて",
+            "romaji": "nurikaerarete",
+            "zhMeaning": "被重新涂染",
+            "posZh": "复合动词被动て形",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.95,
+      "evidence": [],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l043",
+      "old": {
+        "translationZh": "让我彻底沦陷 沉沦其中",
+        "grammarCards": [
+          {
+            "token": "染まり",
+            "reading": "そまり",
+            "romaji": "soma ri",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "染まり",
+            "reading": "そまり",
+            "romaji": "soma ri",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "渐渐被染上色彩，也渐渐沉沦其中。",
+        "grammarCards": [
+          {
+            "token": "染まり",
+            "reading": "そまり",
+            "romaji": "somari",
+            "posZh": "动词",
+            "zhMeaning": "染上；沉溺",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "染まり",
+            "reading": "そまり",
+            "romaji": "somari",
+            "posZh": "动词",
+            "zhMeaning": "染上；沉溺",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.88,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/word/%E6%9F%93%E3%81%BE%E3%82%8B/"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l044",
+      "old": {
+        "translationZh": "必须要挣脱出来才行",
+        "grammarCards": [
+          {
+            "token": "抜け出さ",
+            "reading": "ぬけださ",
+            "romaji": "nukedasa",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "なきゃ",
+            "reading": "なきゃ",
+            "romaji": "nakya",
+            "posZh": "助动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "ダメ",
+            "reading": "だめ",
+            "romaji": "dame",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "ね",
+            "reading": "ね",
+            "romaji": "ne",
+            "posZh": "终助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "征求认同／语气"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "必须挣脱出来才行呢。",
+        "grammarCards": [
+          {
+            "token": "抜け出さ",
+            "reading": "ぬけださ",
+            "romaji": "nukedasa",
+            "posZh": "动词",
+            "zhMeaning": "挣脱；摆脱",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "なきゃ",
+            "reading": "なきゃ",
+            "romaji": "nakya",
+            "posZh": "接续表达",
+            "functionZh": "“なくては”的口语缩约，表示必须",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "ダメ",
+            "reading": "だめ",
+            "romaji": "dame",
+            "posZh": "形容动词",
+            "zhMeaning": "不行；不可以",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "ね",
+            "reading": "ね",
+            "romaji": "ne",
+            "posZh": "终助词",
+            "functionZh": "征求认同、柔化断定",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.96,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/thsrs/1601/meaning/m0u/",
+        "https://dictionary.goo.ne.jp/word/%E3%81%A1%E3%82%83%E3%81%86/"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l045",
+      "old": {
+        "translationZh": "明明我心中也十分清楚",
+        "grammarCards": [
+          {
+            "token": "わかっ",
+            "reading": "わかっ",
+            "romaji": "wakatsu",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "てる",
+            "reading": "てる",
+            "romaji": "teru",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "つもり",
+            "reading": "つもり",
+            "romaji": "tsumori",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "な",
+            "reading": "な",
+            "romaji": "na",
+            "posZh": "助动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "のに",
+            "reading": "のに",
+            "romaji": "noni",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "明明以为自己已经明白了，却……。",
+        "grammarCards": [
+          {
+            "token": "わかってる",
+            "reading": "わかってる",
+            "romaji": "wakatteru",
+            "posZh": "动词",
+            "zhMeaning": "明白；知道（ている的口语缩约）",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "つもり",
+            "reading": "つもり",
+            "romaji": "tsumori",
+            "posZh": "名词",
+            "zhMeaning": "自以为；打算",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "なのに",
+            "reading": "なのに",
+            "romaji": "nanoni",
+            "posZh": "接续助词",
+            "functionZh": "表示转折“明明……却……”",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.95,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/word/%E3%81%A1%E3%82%83%E3%81%86/"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l046",
+      "old": {
+        "translationZh": "却径直坠落 彻底沉沦",
+        "grammarCards": [
+          {
+            "token": "真っ逆さま",
+            "reading": "まっさかさま",
+            "romaji": "makoto tsu sakasa ma",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "却直直地坠落下去。",
+        "grammarCards": [
+          {
+            "token": "真っ逆さま",
+            "reading": "まっさかさま",
+            "romaji": "massakasama",
+            "posZh": "名词·副词",
+            "zhMeaning": "直直地；头朝下地坠落",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.98,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/word/%E7%9C%9F%E3%81%A3%E9%80%86%E3%81%95%E3%81%BE/"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l047",
+      "old": {
+        "translationZh": "不论天使恶魔都代表了我真实的感情",
+        "grammarCards": [
+          {
+            "token": "天使",
+            "reading": "てんし",
+            "romaji": "tenshi",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "も",
+            "reading": "も",
+            "romaji": "mo",
+            "posZh": "副助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "添加、强调或让步"
+          },
+          {
+            "token": "悪魔",
+            "reading": "あくま",
+            "romaji": "akuma",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "も",
+            "reading": "も",
+            "romaji": "mo",
+            "posZh": "副助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "添加、强调或让步"
+          },
+          {
+            "token": "正直",
+            "reading": "しょうじき",
+            "romaji": "shoujiki",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "な",
+            "reading": "な",
+            "romaji": "na",
+            "posZh": "助动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "私",
+            "reading": "わたし",
+            "romaji": "watashi",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "の",
+            "reading": "の",
+            "romaji": "no",
+            "posZh": "格助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "所属／修饰"
+          },
+          {
+            "token": "気持ち",
+            "reading": "きもち",
+            "romaji": "kimochi",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "无论天使还是恶魔，都是我真实的心意。",
+        "grammarCards": [
+          {
+            "token": "天使",
+            "reading": "てんし",
+            "romaji": "tenshi",
+            "posZh": "名词",
+            "zhMeaning": "天使",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "も",
+            "reading": "も",
+            "romaji": "mo",
+            "posZh": "副助词",
+            "functionZh": "并列并强调“也”",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "悪魔",
+            "reading": "あくま",
+            "romaji": "akuma",
+            "posZh": "名词",
+            "zhMeaning": "恶魔",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "も",
+            "reading": "も",
+            "romaji": "mo",
+            "posZh": "副助词",
+            "functionZh": "并列并强调“也”",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "正直",
+            "reading": "しょうじき",
+            "romaji": "shoujiki",
+            "posZh": "形容动词",
+            "zhMeaning": "坦率；真实",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "な",
+            "reading": "な",
+            "romaji": "na",
+            "posZh": "助动词",
+            "functionZh": "连接形容动词与名词作定语",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "私",
+            "reading": "わたし",
+            "romaji": "watashi",
+            "posZh": "代词",
+            "zhMeaning": "我",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "の",
+            "reading": "の",
+            "romaji": "no",
+            "posZh": "格助词",
+            "functionZh": "连接所属或修饰关系",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "気持ち",
+            "reading": "きもち",
+            "romaji": "kimochi",
+            "posZh": "名词",
+            "zhMeaning": "心情；心意",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.93,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/word/%E6%AD%A3%E7%9B%B4/"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l048",
+      "old": {
+        "translationZh": "(希望能够得到谅解)",
+        "grammarCards": [
+          {
+            "token": "許し",
+            "reading": "ゆるし",
+            "romaji": "yurushi",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "て",
+            "reading": "て",
+            "romaji": "te",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "許し",
+            "reading": "ゆるし",
+            "romaji": "yurushi",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "て",
+            "reading": "て",
+            "romaji": "te",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "（请原谅我，请原谅我）。",
+        "grammarCards": [
+          {
+            "token": "許して",
+            "reading": "ゆるして",
+            "romaji": "yurushite",
+            "posZh": "动词",
+            "zhMeaning": "请原谅",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "許して",
+            "reading": "ゆるして",
+            "romaji": "yurushite",
+            "posZh": "动词",
+            "zhMeaning": "请原谅",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.98,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/word/%E8%A8%B1%E3%81%99/"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l049",
+      "old": {
+        "translationZh": "让我做个狡猾的人吧",
+        "grammarCards": [
+          {
+            "token": "ずるい",
+            "reading": "ずるい",
+            "romaji": "zurui",
+            "posZh": "形容词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "子",
+            "reading": "こ",
+            "romaji": "ko",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "に",
+            "reading": "に",
+            "romaji": "ni",
+            "posZh": "格助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "到达点／作用对象"
+          },
+          {
+            "token": "し",
+            "reading": "し",
+            "romaji": "shi",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "て",
+            "reading": "て",
+            "romaji": "te",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "よ",
+            "reading": "よ",
+            "romaji": "yo",
+            "posZh": "终助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "告知／强调"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "请让我变成一个狡猾的孩子吧。",
+        "grammarCards": [
+          {
+            "token": "ずるい",
+            "reading": "ずるい",
+            "romaji": "zurui",
+            "posZh": "形容词",
+            "zhMeaning": "狡猾；耍滑头",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "子",
+            "reading": "こ",
+            "romaji": "ko",
+            "posZh": "名词",
+            "zhMeaning": "孩子；人",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "に",
+            "reading": "に",
+            "romaji": "ni",
+            "posZh": "格助词",
+            "functionZh": "标记变化后的结果状态",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "して",
+            "reading": "して",
+            "romaji": "shite",
+            "posZh": "动词",
+            "zhMeaning": "使……成为",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "よ",
+            "reading": "よ",
+            "romaji": "yo",
+            "posZh": "终助词",
+            "functionZh": "请求时加强语气",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.93,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/word/%E3%81%9A%E3%82%8B%E3%81%84/"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l050",
+      "old": {
+        "translationZh": "心中茫然无措 什么才是正确？",
+        "grammarCards": [
+          {
+            "token": "迷っ",
+            "reading": "まよっ",
+            "romaji": "mayotsu",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "ちゃう",
+            "reading": "ちゃう",
+            "romaji": "chau",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "わ",
+            "reading": "わ",
+            "romaji": "wa",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "何",
+            "reading": "なに",
+            "romaji": "nani",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "が",
+            "reading": "が",
+            "romaji": "ga",
+            "posZh": "格助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "主语标记"
+          },
+          {
+            "token": "正しい",
+            "reading": "ただしい",
+            "romaji": "tadashii",
+            "posZh": "形容词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "我会犹豫不决啊，什么才是正确的？",
+        "grammarCards": [
+          {
+            "token": "迷っ",
+            "reading": "まよっ",
+            "romaji": "mayot",
+            "posZh": "动词",
+            "zhMeaning": "迷惘；犹豫",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "ちゃう",
+            "reading": "ちゃう",
+            "romaji": "chau",
+            "posZh": "补助动词",
+            "functionZh": "“てしまう”的口语缩约，表示不由得或意外",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "わ",
+            "reading": "わ",
+            "romaji": "wa",
+            "posZh": "终助词",
+            "functionZh": "感叹、强调",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "何",
+            "reading": "なに",
+            "romaji": "nani",
+            "posZh": "疑问代词",
+            "zhMeaning": "什么",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "が",
+            "reading": "が",
+            "romaji": "ga",
+            "posZh": "格助词",
+            "functionZh": "标记主语",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "正しい",
+            "reading": "ただしい",
+            "romaji": "tadashii",
+            "posZh": "形容词",
+            "zhMeaning": "正确的",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.96,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/word/%E3%81%A1%E3%82%83%E3%81%86/",
+        "https://dictionary.goo.ne.jp/word/kanji/%E6%AD%A3/"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l051",
+      "old": {
+        "translationZh": "虚情假意反而让人轻松",
+        "grammarCards": [
+          {
+            "token": "フェイク",
+            "reading": "ふぇいく",
+            "romaji": "feiku",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "は",
+            "reading": "は",
+            "romaji": "ha",
+            "posZh": "提示助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "主题提示"
+          },
+          {
+            "token": "まだ",
+            "reading": "まだ",
+            "romaji": "mada",
+            "posZh": "副词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "マシ",
+            "reading": "まし",
+            "romaji": "mashi",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "虚假的还算好些。",
+        "grammarCards": [
+          {
+            "token": "フェイク",
+            "reading": "ふぇいく",
+            "romaji": "feiku",
+            "posZh": "名词",
+            "zhMeaning": "虚假；假象",
+            "sourceWord": "fake",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "は",
+            "reading": "は",
+            "romaji": "wa",
+            "posZh": "提示助词",
+            "functionZh": "提示话题",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "まだ",
+            "reading": "まだ",
+            "romaji": "mada",
+            "posZh": "副词",
+            "zhMeaning": "还；仍然",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "マシ",
+            "reading": "まし",
+            "romaji": "mashi",
+            "posZh": "形容动词",
+            "zhMeaning": "相对还好；更能接受",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.89,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/word/%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF/",
+        "https://dictionary.goo.ne.jp/word/%E5%A2%97%E3%81%97/"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l052",
+      "old": {
+        "translationZh": "不论如何选择或许都是正确答案",
+        "grammarCards": [
+          {
+            "token": "どれ",
+            "reading": "どれ",
+            "romaji": "dore",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "だって",
+            "reading": "だって",
+            "romaji": "datte",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "きっと",
+            "reading": "きっと",
+            "romaji": "kitto",
+            "posZh": "副词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "正解",
+            "reading": "せいかい",
+            "romaji": "seikai",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "な",
+            "reading": "な",
+            "romaji": "na",
+            "posZh": "助动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "の",
+            "reading": "の",
+            "romaji": "no",
+            "posZh": "格助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "所属／修饰"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "不管选哪一个，肯定都是正确答案。",
+        "grammarCards": [
+          {
+            "token": "どれ",
+            "reading": "どれ",
+            "romaji": "dore",
+            "posZh": "疑问代词",
+            "zhMeaning": "哪一个",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "だって",
+            "reading": "だって",
+            "romaji": "datte",
+            "posZh": "副助词",
+            "functionZh": "与疑问词搭配，表示“无论……都”",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "きっと",
+            "reading": "きっと",
+            "romaji": "kitto",
+            "posZh": "副词",
+            "zhMeaning": "一定",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "正解",
+            "reading": "せいかい",
+            "romaji": "seikai",
+            "posZh": "名词",
+            "zhMeaning": "正确答案",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "なの",
+            "reading": "なの",
+            "romaji": "nano",
+            "posZh": "终助词",
+            "functionZh": "带说明、断定的柔和语气",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.92,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/word/kanji/%E6%AD%A3/",
+        "https://dictionary.goo.ne.jp/word/%E3%81%A0%E3%81%91/"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l053",
+      "old": {
+        "translationZh": "却还是在反复斟酌 奇趣无穷",
+        "grammarCards": [
+          {
+            "token": "また",
+            "reading": "また",
+            "romaji": "mata",
+            "posZh": "连词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "選び",
+            "reading": "えらび",
+            "romaji": "erabi",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "選び",
+            "reading": "えらび",
+            "romaji": "erabi",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "我仍会反复斟酌着，我喜欢这样。",
+        "grammarCards": [
+          {
+            "token": "また",
+            "reading": "また",
+            "romaji": "mata",
+            "posZh": "副词",
+            "zhMeaning": "又；仍然",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "選び選び",
+            "reading": "えらびえらび",
+            "romaji": "erabi erabi",
+            "posZh": "动词重复表达",
+            "zhMeaning": "反复挑选；斟酌再三",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.87,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/word/%E9%81%B8%E3%81%B6/"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l054",
+      "old": {
+        "translationZh": "由衷接受自己的选择",
+        "grammarCards": [
+          {
+            "token": "それ",
+            "reading": "それ",
+            "romaji": "sore",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "を",
+            "reading": "を",
+            "romaji": "wo",
+            "posZh": "格助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "动作对象"
+          },
+          {
+            "token": "愛し",
+            "reading": "あいし",
+            "romaji": "itoshi",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "てる",
+            "reading": "てる",
+            "romaji": "teru",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "わ",
+            "reading": "わ",
+            "romaji": "wa",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "我爱着那样的选择。",
+        "grammarCards": [
+          {
+            "token": "それ",
+            "reading": "それ",
+            "romaji": "sore",
+            "posZh": "代词",
+            "zhMeaning": "那个；那件事",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "を",
+            "reading": "を",
+            "romaji": "wo",
+            "posZh": "格助词",
+            "functionZh": "标记动作对象",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "愛してる",
+            "reading": "あいしてる",
+            "romaji": "aishiteru",
+            "posZh": "动词",
+            "zhMeaning": "爱着（愛している的口语缩约）",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "わ",
+            "reading": "わ",
+            "romaji": "wa",
+            "posZh": "终助词",
+            "functionZh": "感叹、强调",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.95,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/word/%E6%84%9B%E3%81%99/",
+        "https://dictionary.goo.ne.jp/word/%E3%81%A1%E3%82%83%E3%81%86/"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l055",
+      "old": {
+        "translationZh": "实在是可笑 这样的自己",
+        "grammarCards": [
+          {
+            "token": "笑っ",
+            "reading": "わらっ",
+            "romaji": "waratsu",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "ちゃ",
+            "reading": "ちゃ",
+            "romaji": "cha",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "うわ",
+            "reading": "うわ",
+            "romaji": "uwa",
+            "posZh": "感叹词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "なんか",
+            "reading": "なんか",
+            "romaji": "nanka",
+            "posZh": "感叹词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "私",
+            "reading": "わたし",
+            "romaji": "watashi",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "像我这样的人，真是可笑。",
+        "grammarCards": [
+          {
+            "token": "笑っちゃう",
+            "reading": "わらっちゃう",
+            "romaji": "waracchau",
+            "posZh": "动词",
+            "zhMeaning": "不由得笑出来",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "わ",
+            "reading": "わ",
+            "romaji": "wa",
+            "posZh": "终助词",
+            "functionZh": "感叹、强调",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "なんか",
+            "reading": "なんか",
+            "romaji": "nanka",
+            "posZh": "副助词",
+            "functionZh": "举例并带轻视、自谦语气",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "私",
+            "reading": "わたし",
+            "romaji": "watashi",
+            "posZh": "代词",
+            "zhMeaning": "我",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.94,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/word/%E3%81%A1%E3%82%83%E3%81%86/",
+        "https://dictionary.goo.ne.jp/word/%E7%AC%91%E3%81%86/"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l056",
+      "old": {
+        "translationZh": "依然在层层伪装",
+        "grammarCards": [
+          {
+            "token": "もう",
+            "reading": "もう",
+            "romaji": "mou",
+            "posZh": "副词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "騙し",
+            "reading": "だまし",
+            "romaji": "damashi",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "騙し",
+            "reading": "だまし",
+            "romaji": "damashi",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "我已经只能一边哄骗自己、一边勉强撑着。",
+        "grammarCards": [
+          {
+            "token": "もう",
+            "reading": "もう",
+            "romaji": "mou",
+            "posZh": "副词",
+            "zhMeaning": "已经；再也",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "騙し騙し",
+            "reading": "だましだまし",
+            "romaji": "damashi damashi",
+            "posZh": "动词重复表达",
+            "zhMeaning": "一边哄骗自己、一边勉强维持",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.9,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/word/%E9%A8%99%E3%81%99/"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l057",
+      "old": {
+        "translationZh": "不论何时都会觉得有些心有余悸",
+        "grammarCards": [
+          {
+            "token": "いつ",
+            "reading": "いつ",
+            "romaji": "itsu",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "だって",
+            "reading": "だって",
+            "romaji": "datte",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "ちょっと",
+            "reading": "ちょっと",
+            "romaji": "chotto",
+            "posZh": "副词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "怖い",
+            "reading": "こわい",
+            "romaji": "kowai",
+            "posZh": "形容词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "くらい",
+            "reading": "くらい",
+            "romaji": "kurai",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "よ",
+            "reading": "よ",
+            "romaji": "yo",
+            "posZh": "终助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "告知／强调"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "无论何时，都害怕得有些过头呢。",
+        "grammarCards": [
+          {
+            "token": "いつだって",
+            "reading": "いつだって",
+            "romaji": "itsudatte",
+            "posZh": "副词性表达",
+            "zhMeaning": "无论何时；总是",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "ちょっと",
+            "reading": "ちょっと",
+            "romaji": "chotto",
+            "posZh": "副词",
+            "zhMeaning": "有点",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "怖い",
+            "reading": "こわい",
+            "romaji": "kowai",
+            "posZh": "形容词",
+            "zhMeaning": "害怕的；可怕的",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "くらい",
+            "reading": "くらい",
+            "romaji": "kurai",
+            "posZh": "副助词",
+            "functionZh": "表示程度“到……的地步”",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "よ",
+            "reading": "よ",
+            "romaji": "yo",
+            "posZh": "终助词",
+            "functionZh": "告知、强调",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.94,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/word/%E4%BD%8D_%28%E3%81%8F%E3%82%89%E3%81%84%29/"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l058",
+      "old": {
+        "translationZh": "可还是在反复斟酌 奇趣无穷",
+        "grammarCards": [
+          {
+            "token": "でも",
+            "reading": "でも",
+            "romaji": "demo",
+            "posZh": "连词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "選び",
+            "reading": "えらび",
+            "romaji": "erabi",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "選び",
+            "reading": "えらび",
+            "romaji": "erabi",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "但我仍会反复斟酌着，我喜欢这样。",
+        "grammarCards": [
+          {
+            "token": "でも",
+            "reading": "でも",
+            "romaji": "demo",
+            "posZh": "连词",
+            "zhMeaning": "但是；可是",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "選び選び",
+            "reading": "えらびえらび",
+            "romaji": "erabi erabi",
+            "posZh": "动词重复表达",
+            "zhMeaning": "反复挑选；斟酌再三",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.9,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/word/%E3%81%A7%E3%82%82/",
+        "https://dictionary.goo.ne.jp/word/%E9%81%B8%E3%81%B6/"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l059",
+      "old": {
+        "translationZh": "必须坚信自己的选择",
+        "grammarCards": [
+          {
+            "token": "それ",
+            "reading": "それ",
+            "romaji": "sore",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "を",
+            "reading": "を",
+            "romaji": "wo",
+            "posZh": "格助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "动作对象"
+          },
+          {
+            "token": "信じ",
+            "reading": "しんじ",
+            "romaji": "shinji",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "なく",
+            "reading": "なく",
+            "romaji": "naku",
+            "posZh": "助动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "ちゃ",
+            "reading": "ちゃ",
+            "romaji": "cha",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "我必须相信那一点（自己的选择）。",
+        "grammarCards": [
+          {
+            "token": "それ",
+            "reading": "それ",
+            "romaji": "sore",
+            "posZh": "代词",
+            "zhMeaning": "那个；那件事",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "を",
+            "reading": "を",
+            "romaji": "wo",
+            "posZh": "格助词",
+            "functionZh": "标记动作对象",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "信じなくちゃ",
+            "reading": "しんじなくちゃ",
+            "romaji": "shinjinakucha",
+            "posZh": "接续表达",
+            "functionZh": "“信じなくては”的口语缩约，表示必须相信",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.97,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/word/%E4%BF%A1%E3%81%98%E3%82%8B/",
+        "https://dictionary.goo.ne.jp/word/%E3%81%A1%E3%82%83%E3%81%86/"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l060",
+      "old": {
+        "translationZh": "那些真正重要的事物",
+        "grammarCards": [
+          {
+            "token": "ホント",
+            "reading": "ほんと",
+            "romaji": "honto",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "に",
+            "reading": "に",
+            "romaji": "ni",
+            "posZh": "格助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "到达点／作用对象"
+          },
+          {
+            "token": "大事",
+            "reading": "だいじ",
+            "romaji": "daiji",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "な",
+            "reading": "な",
+            "romaji": "na",
+            "posZh": "助动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "モノ",
+            "reading": "もの",
+            "romaji": "mono",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "那些真正重要的事物。",
+        "grammarCards": [
+          {
+            "token": "ホントに",
+            "reading": "ほんとに",
+            "romaji": "honto ni",
+            "posZh": "副词",
+            "zhMeaning": "真的；确实",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "大事な",
+            "reading": "だいじな",
+            "romaji": "daijina",
+            "posZh": "形容动词",
+            "zhMeaning": "重要的；珍贵的",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "モノ",
+            "reading": "もの",
+            "romaji": "mono",
+            "posZh": "名词",
+            "zhMeaning": "事物；东西",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.95,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/thsrs/15612/meaning/m0u/"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l061",
+      "old": {
+        "translationZh": "如何我都不愿失去",
+        "grammarCards": [
+          {
+            "token": "失",
+            "reading": "しつ",
+            "romaji": "shitsu",
+            "posZh": "名词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "くし",
+            "reading": "くし",
+            "romaji": "kushi",
+            "posZh": "形容词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "たく",
+            "reading": "たく",
+            "romaji": "taku",
+            "posZh": "助动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "ない",
+            "reading": "ない",
+            "romaji": "nai",
+            "posZh": "助动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "の",
+            "reading": "の",
+            "romaji": "no",
+            "posZh": "格助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "functionZh": "所属／修饰"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "我不想失去它们。",
+        "grammarCards": [
+          {
+            "token": "失くし",
+            "reading": "なくし",
+            "romaji": "nakushi",
+            "posZh": "动词",
+            "zhMeaning": "失去；弄丢",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "たくない",
+            "reading": "たくない",
+            "romaji": "takunai",
+            "posZh": "接续表达",
+            "functionZh": "表示“不想……”",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "の",
+            "reading": "の",
+            "romaji": "no",
+            "posZh": "终助词",
+            "functionZh": "说明、柔和强调",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.98,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/thsrs/16776/meaning/m0u/"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l062",
+      "old": {
+        "translationZh": "心中茫然无措 渴望得出正确答案",
+        "grammarCards": [
+          {
+            "token": "迷っ",
+            "reading": "まよっ",
+            "romaji": "mayotsu",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "ちゃう",
+            "reading": "ちゃう",
+            "romaji": "chau",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "わ",
+            "reading": "わ",
+            "romaji": "wa",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "我会犹豫不决啊，渴望得到正确答案。",
+        "grammarCards": [
+          {
+            "token": "迷っ",
+            "reading": "まよっ",
+            "romaji": "mayot",
+            "posZh": "动词",
+            "zhMeaning": "迷惘；犹豫",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "ちゃう",
+            "reading": "ちゃう",
+            "romaji": "chau",
+            "posZh": "补助动词",
+            "functionZh": "“てしまう”的口语缩约，表示不由得或意外",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "わ",
+            "reading": "わ",
+            "romaji": "wa",
+            "posZh": "终助词",
+            "functionZh": "感叹、强调",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.96,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/word/%E3%81%A1%E3%82%83%E3%81%86/"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l063",
+      "old": {
+        "translationZh": "心中茫然无措 渴望得出正确答案",
+        "grammarCards": [
+          {
+            "token": "迷っ",
+            "reading": "まよっ",
+            "romaji": "mayotsu",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "ちゃう",
+            "reading": "ちゃう",
+            "romaji": "chau",
+            "posZh": "动词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          },
+          {
+            "token": "わ",
+            "reading": "わ",
+            "romaji": "wa",
+            "posZh": "助词",
+            "status": "draft",
+            "fieldProvenance": "Janome 0.5.0 + pykakasi 2.3.0 auto draft",
+            "zhMeaning": "待审核含义"
+          }
+        ]
+      },
+      "new": {
+        "translationZh": "我会犹豫不决啊，渴望得到正确答案。",
+        "grammarCards": [
+          {
+            "token": "迷っ",
+            "reading": "まよっ",
+            "romaji": "mayot",
+            "posZh": "动词",
+            "zhMeaning": "迷惘；犹豫",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "ちゃう",
+            "reading": "ちゃう",
+            "romaji": "chau",
+            "posZh": "补助动词",
+            "functionZh": "“てしまう”的口语缩约，表示不由得或意外",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          },
+          {
+            "token": "わ",
+            "reading": "わ",
+            "romaji": "wa",
+            "posZh": "终助词",
+            "functionZh": "感叹、强调",
+            "status": "assisted-reviewed; user-approved",
+            "fieldProvenance": "assisted proposal; user approved overall"
+          }
+        ]
+      },
+      "confidence": 0.96,
+      "evidence": [
+        "https://dictionary.goo.ne.jp/word/%E3%81%A1%E3%82%83%E3%81%86/"
+      ],
+      "changesTokenStructure": false
+    }
+  ],
+  "framesSha256": "976bf70a8c3bebe3aba12066002e0ecdad640f81ff677835af7b3b6a52612428"
+}

@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "role": "music",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\AppData\\Roaming\\baidunetdisk\\BNZ.6a8aa75f13d1ccc2\\01.雑踏、僕らの街.flac",
+      "frozenAsset": "source/music.flac",
+      "bytes": 24026856,
+      "sha256": "39f92e9ab73825bbca754048e63a621ae341a071848b309916f0090465429c88",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "flac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "bits_per_raw_sample": "16"
+          },
+          {
+            "index": 1,
+            "codec_name": "mjpeg",
+            "codec_type": "video",
+            "width": 700,
+            "height": 700,
+            "bits_per_raw_sample": "8"
+          }
+        ],
+        "format": {
+          "format_name": "flac",
+          "duration": "185.066667"
+        }
+      }
+    },
+    {
+      "role": "coverOriginal",
+      "originalAbsolutePath": "C:\\project\\musicjlpt\\work\\zattou-cover.jpg",
+      "frozenAsset": "source/cover-original.jpg",
+      "bytes": 93179,
+      "sha256": "447ae2647566a46dd470f687b2ac6fe9b10d9f7bed084e40dabf68d76825d406",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "mjpeg",
+            "codec_type": "video",
+            "width": 700,
+            "height": 700,
+            "bits_per_raw_sample": "8"
+          }
+        ],
+        "format": {
+          "format_name": "image2",
+          "duration": "0.040000"
+        }
+      }
+    },
+    {
+      "role": "cover",
+      "originalAbsolutePath": "C:\\project\\musicjlpt\\work\\zattou-cover.jpg",
+      "frozenAsset": "source/cover.jpg",
+      "bytes": 224242,
+      "sha256": "194874c34795442380cf392a6391df3486087ca2549543494d5794ebd63f067a",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "mjpeg",
+            "codec_type": "video",
+            "width": 700,
+            "height": 700,
+            "bits_per_raw_sample": "8"
+          }
+        ],
+        "format": {
+          "format_name": "image2",
+          "duration": "0.040000"
+        }
+      }
+    },
+    {
+      "role": "background",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\Videos\\TubeGet\\【Official Music Video】\\GIRLS BAND CRY - OPENING｜TOGENASHI TOGEARI Wrong World.mp4",
+      "frozenAsset": "source/background.mp4",
+      "bytes": 41408142,
+      "sha256": "9ebd2f36f3eef9b0458542d0c8517f4ccf439da96bae2b417aa7455fd4490dac",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "bits_per_raw_sample": "8"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "48000"
+          }
+        ],
+        "format": {
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "duration": "90.030771"
+        }
+      }
+    },
+    {
+      "role": "qm",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\AppData\\Roaming\\Tencent\\QQMusic\\QQMusicCache\\QQMusicLyricNew\\トゲナシトゲアリ (TOGENASHI TOGEARI) - 雑踏、僕らの街 (熙熙攘攘我们的城市) - 184 - 雑踏、僕らの街_qm.qrc",
+      "frozenAsset": "source/lyrics_qm.qrc",
+      "bytes": 6467,
+      "sha256": "68de41e067a0920667fb3de42e4785eab5795cb500fd1bbb7bfd22dcf86e8d7e",
+      "probe": {
+        "probeError": "[mp3 @ 0000029c059a9140] Failed to find two consecutive MPEG audio frames.\nC:\\project\\musicjlpt\\projects\\zattou-bokura-no-machi-v2\\source\\lyrics_qm.qrc: Invalid data found when processing input"
+      }
+    },
+    {
+      "role": "qmRoma",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\AppData\\Roaming\\Tencent\\QQMusic\\QQMusicCache\\QQMusicLyricNew\\トゲナシトゲアリ (TOGENASHI TOGEARI) - 雑踏、僕らの街 (熙熙攘攘我们的城市) - 184 - 雑踏、僕らの街_qmRoma.qrc",
+      "frozenAsset": "source/lyrics_qmRoma.qrc",
+      "bytes": 5651,
+      "sha256": "7d8af0a4c500c9b9e191ed6159292bc79c14d99783bfbbaf89eaf791dc556478",
+      "probe": {
+        "probeError": "C:\\project\\musicjlpt\\projects\\zattou-bokura-no-machi-v2\\source\\lyrics_qmRoma.qrc: Invalid data found when processing input"
+      }
+    },
+    {
+      "role": "qmts",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\AppData\\Roaming\\Tencent\\QQMusic\\QQMusicCache\\QQMusicLyricNew\\トゲナシトゲアリ (TOGENASHI TOGEARI) - 雑踏、僕らの街 (熙熙攘攘我们的城市) - 184 - 雑踏、僕らの街_qmts.qrc",
+      "frozenAsset": "source/lyrics_qmts.qrc",
+      "bytes": 1755,
+      "sha256": "1dd4d2939c3fd31f0c9bd3daad0183546392ae8663c8ec5cc6eccb01be4ee60f",
+      "probe": {
+        "probeError": "[mp3 @ 000002e514b19140] Failed to find two consecutive MPEG audio frames.\nC:\\project\\musicjlpt\\projects\\zattou-bokura-no-machi-v2\\source\\lyrics_qmts.qrc: Invalid data found when processing input"
+      }
+    }
+  ]
+}

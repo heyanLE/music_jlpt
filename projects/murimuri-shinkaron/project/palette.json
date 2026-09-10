@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "algorithm": "saturated-cover-pixel-hsv-v1",
+  "cover": "C:\\project\\musicjlpt\\projects\\murimuri-shinkaron\\source\\cover.jpg",
+  "accent": "#F050A0",
+  "activeTint": "#FF47A3",
+  "body": "#862D5A",
+  "cardFill": {
+    "color": "#F050A0",
+    "alpha": 0.75
+  }
+}

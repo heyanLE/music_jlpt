@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "usage": "Select the context-appropriate function during review; particle cards never display dictionary glosses.",
+  "functions": {
+    "は": {
+      "functionZh": "提示主题或形成对比",
+      "grammarStructureZh": "提示助词"
+    },
+    "が": {
+      "functionZh": "提示主语或强调对象",
+      "grammarStructureZh": "格助词"
+    },
+    "を": {
+      "functionZh": "提示动作对象",
+      "grammarStructureZh": "格助词"
+    },
+    "に": {
+      "functionZh": "提示对象、着点或时间",
+      "grammarStructureZh": "格助词"
+    },
+    "で": {
+      "functionZh": "方式／状态／中顿",
+      "grammarStructureZh": "格助词"
+    },
+    "と": {
+      "functionZh": "提示并列、共同对象或引用",
+      "grammarStructureZh": "格助词"
+    },
+    "の": {
+      "functionZh": "表示所属或修饰关系",
+      "grammarStructureZh": "格助词"
+    },
+    "も": {
+      "functionZh": "表示追加、强调或让步",
+      "grammarStructureZh": "副助词"
+    },
+    "へ": {
+      "functionZh": "提示移动方向",
+      "grammarStructureZh": "格助词"
+    },
+    "から": {
+      "functionZh": "表示起点或原因",
+      "grammarStructureZh": "格助词"
+    },
+    "まで": {
+      "functionZh": "表示终点或范围",
+      "grammarStructureZh": "副助词"
+    },
+    "より": {
+      "functionZh": "提示比较基准",
+      "grammarStructureZh": "格助词"
+    },
+    "だけ": {
+      "functionZh": "限定范围",
+      "grammarStructureZh": "副助词"
+    },
+    "ばかり": {
+      "functionZh": "表示净是、只顾",
+      "grammarStructureZh": "副助词"
+    },
+    "ばっか": {
+      "functionZh": "表示净是、只顾（口语）",
+      "grammarStructureZh": "副助词"
+    },
+    "しか": {
+      "functionZh": "与否定呼应，表示仅",
+      "grammarStructureZh": "副助词"
+    },
+    "って": {
+      "functionZh": "口语引用／话题提示",
+      "grammarStructureZh": "提示助词"
+    },
+    "けど": {
+      "functionZh": "表示转折或铺垫",
+      "grammarStructureZh": "接续助词"
+    },
+    "けれど": {
+      "functionZh": "表示转折或铺垫",
+      "grammarStructureZh": "接续助词"
+    },
+    "て": {
+      "functionZh": "连接动作或状态",
+      "grammarStructureZh": "接续助词"
+    },
+    "ね": {
+      "functionZh": "征求认同或缓和语气",
+      "grammarStructureZh": "终助词"
+    },
+    "よ": {
+      "functionZh": "告知或加强语气",
+      "grammarStructureZh": "终助词"
+    },
+    "な": {
+      "functionZh": "表达感叹或自言自语语气",
+      "grammarStructureZh": "终助词"
+    },
+    "か": {
+      "functionZh": "构成疑问",
+      "grammarStructureZh": "终助词"
+    }
+  }
+}

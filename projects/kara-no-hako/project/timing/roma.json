@@ -1,0 +1,3720 @@
+{
+  "schemaVersion": 1,
+  "format": "qq-qrc-word-timed",
+  "lines": [
+    {
+      "startMs": 0,
+      "endMs": 276,
+      "durationMs": 276,
+      "text": " ",
+      "parts": [
+        {
+          "text": " ",
+          "startMs": 267,
+          "endMs": 276,
+          "durationMs": 9
+        }
+      ]
+    },
+    {
+      "startMs": 366,
+      "endMs": 473,
+      "durationMs": 107,
+      "text": " ",
+      "parts": [
+        {
+          "text": " ",
+          "startMs": 465,
+          "endMs": 474,
+          "durationMs": 9
+        }
+      ]
+    },
+    {
+      "startMs": 475,
+      "endMs": 561,
+      "durationMs": 86,
+      "text": " ",
+      "parts": [
+        {
+          "text": " ",
+          "startMs": 561,
+          "endMs": 561,
+          "durationMs": 0
+        }
+      ]
+    },
+    {
+      "startMs": 570,
+      "endMs": 3785,
+      "durationMs": 3215,
+      "text": "ya ke ni shi ro i n da   ya ta ra na ga i n da ",
+      "parts": [
+        {
+          "text": "ya ",
+          "startMs": 570,
+          "endMs": 753,
+          "durationMs": 183
+        },
+        {
+          "text": "ke ",
+          "startMs": 754,
+          "endMs": 897,
+          "durationMs": 143
+        },
+        {
+          "text": "ni ",
+          "startMs": 898,
+          "endMs": 1195,
+          "durationMs": 297
+        },
+        {
+          "text": "shi ",
+          "startMs": 1195,
+          "endMs": 1546,
+          "durationMs": 351
+        },
+        {
+          "text": "ro ",
+          "startMs": 1547,
+          "endMs": 1690,
+          "durationMs": 143
+        },
+        {
+          "text": "i ",
+          "startMs": 1690,
+          "endMs": 1806,
+          "durationMs": 116
+        },
+        {
+          "text": "n ",
+          "startMs": 1806,
+          "endMs": 1922,
+          "durationMs": 116
+        },
+        {
+          "text": "da ",
+          "startMs": 1922,
+          "endMs": 2098,
+          "durationMs": 176
+        },
+        {
+          "text": "  ",
+          "startMs": 2099,
+          "endMs": 2274,
+          "durationMs": 175
+        },
+        {
+          "text": "ya ",
+          "startMs": 2275,
+          "endMs": 2450,
+          "durationMs": 175
+        },
+        {
+          "text": "ta ",
+          "startMs": 2450,
+          "endMs": 2570,
+          "durationMs": 120
+        },
+        {
+          "text": "ra ",
+          "startMs": 2571,
+          "endMs": 2809,
+          "durationMs": 238
+        },
+        {
+          "text": "na ",
+          "startMs": 2809,
+          "endMs": 3130,
+          "durationMs": 321
+        },
+        {
+          "text": "ga ",
+          "startMs": 3131,
+          "endMs": 3250,
+          "durationMs": 119
+        },
+        {
+          "text": "i ",
+          "startMs": 3250,
+          "endMs": 3357,
+          "durationMs": 107
+        },
+        {
+          "text": "n ",
+          "startMs": 3358,
+          "endMs": 3465,
+          "durationMs": 107
+        },
+        {
+          "text": "da ",
+          "startMs": 3466,
+          "endMs": 3786,
+          "durationMs": 320
+        }
+      ]
+    },
+    {
+      "startMs": 3948,
+      "endMs": 5502,
+      "durationMs": 1554,
+      "text": "ko ta e wa da i ta i ",
+      "parts": [
+        {
+          "text": "ko ",
+          "startMs": 3948,
+          "endMs": 4124,
+          "durationMs": 176
+        },
+        {
+          "text": "ta ",
+          "startMs": 4124,
+          "endMs": 4260,
+          "durationMs": 136
+        },
+        {
+          "text": "e ",
+          "startMs": 4260,
+          "endMs": 4524,
+          "durationMs": 264
+        },
+        {
+          "text": "wa ",
+          "startMs": 4524,
+          "endMs": 4764,
+          "durationMs": 240
+        },
+        {
+          "text": "da ",
+          "startMs": 4764,
+          "endMs": 4972,
+          "durationMs": 208
+        },
+        {
+          "text": "i ",
+          "startMs": 4972,
+          "endMs": 5116,
+          "durationMs": 144
+        },
+        {
+          "text": "ta ",
+          "startMs": 5116,
+          "endMs": 5284,
+          "durationMs": 168
+        },
+        {
+          "text": "i ",
+          "startMs": 5284,
+          "endMs": 5502,
+          "durationMs": 218
+        }
+      ]
+    },
+    {
+      "startMs": 5502,
+      "endMs": 9154,
+      "durationMs": 3652,
+      "text": "ka ta chi ba ka ri no jo u shi ki da ro u ",
+      "parts": [
+        {
+          "text": "ka ",
+          "startMs": 5502,
+          "endMs": 5654,
+          "durationMs": 152
+        },
+        {
+          "text": "ta ",
+          "startMs": 5654,
+          "endMs": 5774,
+          "durationMs": 120
+        },
+        {
+          "text": "chi ",
+          "startMs": 5774,
+          "endMs": 6005,
+          "durationMs": 231
+        },
+        {
+          "text": "ba ",
+          "startMs": 6005,
+          "endMs": 6270,
+          "durationMs": 265
+        },
+        {
+          "text": "ka ",
+          "startMs": 6270,
+          "endMs": 6822,
+          "durationMs": 552
+        },
+        {
+          "text": "ri ",
+          "startMs": 6822,
+          "endMs": 7030,
+          "durationMs": 208
+        },
+        {
+          "text": "no ",
+          "startMs": 7030,
+          "endMs": 7470,
+          "durationMs": 440
+        },
+        {
+          "text": "jo ",
+          "startMs": 7470,
+          "endMs": 7558,
+          "durationMs": 88
+        },
+        {
+          "text": "u ",
+          "startMs": 7646,
+          "endMs": 7734,
+          "durationMs": 88
+        },
+        {
+          "text": "shi ",
+          "startMs": 7734,
+          "endMs": 7922,
+          "durationMs": 188
+        },
+        {
+          "text": "ki ",
+          "startMs": 7922,
+          "endMs": 8110,
+          "durationMs": 188
+        },
+        {
+          "text": "da ",
+          "startMs": 8109,
+          "endMs": 8429,
+          "durationMs": 320
+        },
+        {
+          "text": "ro ",
+          "startMs": 8430,
+          "endMs": 8762,
+          "durationMs": 332
+        },
+        {
+          "text": "u ",
+          "startMs": 8762,
+          "endMs": 9154,
+          "durationMs": 392
+        }
+      ]
+    },
+    {
+      "startMs": 9154,
+      "endMs": 13682,
+      "durationMs": 4528,
+      "text": "yu bi sa ki ga fu ru e yo u to mo ",
+      "parts": [
+        {
+          "text": "yu ",
+          "startMs": 9154,
+          "endMs": 9522,
+          "durationMs": 368
+        },
+        {
+          "text": "bi ",
+          "startMs": 9522,
+          "endMs": 9722,
+          "durationMs": 200
+        },
+        {
+          "text": "sa ",
+          "startMs": 9722,
+          "endMs": 10122,
+          "durationMs": 400
+        },
+        {
+          "text": "ki ",
+          "startMs": 10122,
+          "endMs": 10338,
+          "durationMs": 216
+        },
+        {
+          "text": "ga ",
+          "startMs": 10338,
+          "endMs": 10650,
+          "durationMs": 312
+        },
+        {
+          "text": "fu ",
+          "startMs": 10650,
+          "endMs": 10898,
+          "durationMs": 248
+        },
+        {
+          "text": "ru ",
+          "startMs": 10898,
+          "endMs": 11090,
+          "durationMs": 192
+        },
+        {
+          "text": "e ",
+          "startMs": 11090,
+          "endMs": 11354,
+          "durationMs": 264
+        },
+        {
+          "text": "yo ",
+          "startMs": 11354,
+          "endMs": 11758,
+          "durationMs": 404
+        },
+        {
+          "text": "u ",
+          "startMs": 11758,
+          "endMs": 12162,
+          "durationMs": 404
+        },
+        {
+          "text": "to ",
+          "startMs": 12162,
+          "endMs": 12346,
+          "durationMs": 184
+        },
+        {
+          "text": "mo ",
+          "startMs": 12346,
+          "endMs": 13682,
+          "durationMs": 1336
+        }
+      ]
+    },
+    {
+      "startMs": 13810,
+      "endMs": 17939,
+      "durationMs": 4129,
+      "text": "chi zu ni wa na i ha zu no sa n sa ro ni i ma ",
+      "parts": [
+        {
+          "text": "chi ",
+          "startMs": 13810,
+          "endMs": 14025,
+          "durationMs": 215
+        },
+        {
+          "text": "zu ",
+          "startMs": 14025,
+          "endMs": 14217,
+          "durationMs": 192
+        },
+        {
+          "text": "ni ",
+          "startMs": 14217,
+          "endMs": 14401,
+          "durationMs": 184
+        },
+        {
+          "text": "wa ",
+          "startMs": 14401,
+          "endMs": 14577,
+          "durationMs": 176
+        },
+        {
+          "text": "na ",
+          "startMs": 14577,
+          "endMs": 14721,
+          "durationMs": 144
+        },
+        {
+          "text": "i ",
+          "startMs": 14721,
+          "endMs": 15033,
+          "durationMs": 312
+        },
+        {
+          "text": "ha ",
+          "startMs": 15033,
+          "endMs": 15265,
+          "durationMs": 232
+        },
+        {
+          "text": "zu ",
+          "startMs": 15265,
+          "endMs": 15929,
+          "durationMs": 664
+        },
+        {
+          "text": "no ",
+          "startMs": 15929,
+          "endMs": 16138,
+          "durationMs": 209
+        },
+        {
+          "text": "sa ",
+          "startMs": 16138,
+          "endMs": 16393,
+          "durationMs": 255
+        },
+        {
+          "text": "n ",
+          "startMs": 16393,
+          "endMs": 16649,
+          "durationMs": 256
+        },
+        {
+          "text": "sa ",
+          "startMs": 16649,
+          "endMs": 16865,
+          "durationMs": 216
+        },
+        {
+          "text": "ro ",
+          "startMs": 16865,
+          "endMs": 17313,
+          "durationMs": 448
+        },
+        {
+          "text": "ni ",
+          "startMs": 17313,
+          "endMs": 17576,
+          "durationMs": 263
+        },
+        {
+          "text": "i ",
+          "startMs": 17576,
+          "endMs": 17712,
+          "durationMs": 136
+        },
+        {
+          "text": "ma ",
+          "startMs": 17712,
+          "endMs": 17939,
+          "durationMs": 227
+        }
+      ]
+    },
+    {
+      "startMs": 17939,
+      "endMs": 20455,
+      "durationMs": 2516,
+      "text": "bu tsu ka 't te i ru no de su ga ",
+      "parts": [
+        {
+          "text": "bu ",
+          "startMs": 17939,
+          "endMs": 18123,
+          "durationMs": 184
+        },
+        {
+          "text": "tsu ",
+          "startMs": 18123,
+          "endMs": 18251,
+          "durationMs": 128
+        },
+        {
+          "text": "ka ",
+          "startMs": 18251,
+          "endMs": 18427,
+          "durationMs": 176
+        },
+        {
+          "text": "'t ",
+          "startMs": 18427,
+          "endMs": 18603,
+          "durationMs": 176
+        },
+        {
+          "text": "te ",
+          "startMs": 18603,
+          "endMs": 18831,
+          "durationMs": 228
+        },
+        {
+          "text": "i ",
+          "startMs": 18831,
+          "endMs": 19059,
+          "durationMs": 228
+        },
+        {
+          "text": "ru ",
+          "startMs": 19059,
+          "endMs": 19259,
+          "durationMs": 200
+        },
+        {
+          "text": "no ",
+          "startMs": 19259,
+          "endMs": 19435,
+          "durationMs": 176
+        },
+        {
+          "text": "de ",
+          "startMs": 19435,
+          "endMs": 20123,
+          "durationMs": 688
+        },
+        {
+          "text": "su ",
+          "startMs": 20123,
+          "endMs": 20299,
+          "durationMs": 176
+        },
+        {
+          "text": "ga ",
+          "startMs": 20299,
+          "endMs": 20455,
+          "durationMs": 156
+        }
+      ]
+    },
+    {
+      "startMs": 20455,
+      "endMs": 23159,
+      "durationMs": 2704,
+      "text": "na ni wo ta yo ri ni ",
+      "parts": [
+        {
+          "text": "na ",
+          "startMs": 20455,
+          "endMs": 20920,
+          "durationMs": 465
+        },
+        {
+          "text": "ni ",
+          "startMs": 20920,
+          "endMs": 21087,
+          "durationMs": 167
+        },
+        {
+          "text": "wo ",
+          "startMs": 21087,
+          "endMs": 21447,
+          "durationMs": 360
+        },
+        {
+          "text": "ta ",
+          "startMs": 21447,
+          "endMs": 21631,
+          "durationMs": 184
+        },
+        {
+          "text": "yo ",
+          "startMs": 21631,
+          "endMs": 22271,
+          "durationMs": 640
+        },
+        {
+          "text": "ri ",
+          "startMs": 22271,
+          "endMs": 22471,
+          "durationMs": 200
+        },
+        {
+          "text": "ni ",
+          "startMs": 22471,
+          "endMs": 23159,
+          "durationMs": 688
+        }
+      ]
+    },
+    {
+      "startMs": 23159,
+      "endMs": 27208,
+      "durationMs": 4049,
+      "text": "su su me ba i i no de sho u ka ",
+      "parts": [
+        {
+          "text": "su ",
+          "startMs": 23159,
+          "endMs": 23359,
+          "durationMs": 200
+        },
+        {
+          "text": "su ",
+          "startMs": 23359,
+          "endMs": 23783,
+          "durationMs": 424
+        },
+        {
+          "text": "me ",
+          "startMs": 23783,
+          "endMs": 23991,
+          "durationMs": 208
+        },
+        {
+          "text": "ba ",
+          "startMs": 23991,
+          "endMs": 24240,
+          "durationMs": 249
+        },
+        {
+          "text": "i ",
+          "startMs": 24240,
+          "endMs": 24671,
+          "durationMs": 431
+        },
+        {
+          "text": "i ",
+          "startMs": 24672,
+          "endMs": 25103,
+          "durationMs": 431
+        },
+        {
+          "text": "no ",
+          "startMs": 25103,
+          "endMs": 25631,
+          "durationMs": 528
+        },
+        {
+          "text": "de ",
+          "startMs": 25631,
+          "endMs": 25927,
+          "durationMs": 296
+        },
+        {
+          "text": "sho ",
+          "startMs": 25927,
+          "endMs": 26161,
+          "durationMs": 234
+        },
+        {
+          "text": "u ",
+          "startMs": 26396,
+          "endMs": 26630,
+          "durationMs": 234
+        },
+        {
+          "text": "ka ",
+          "startMs": 26631,
+          "endMs": 27208,
+          "durationMs": 577
+        }
+      ]
+    },
+    {
+      "startMs": 27208,
+      "endMs": 30520,
+      "durationMs": 3312,
+      "text": "kyo u ka sho do o ri to wa yo ku i 't ta mo no de ",
+      "parts": [
+        {
+          "text": "kyo ",
+          "startMs": 27208,
+          "endMs": 27304,
+          "durationMs": 96
+        },
+        {
+          "text": "u ",
+          "startMs": 27400,
+          "endMs": 27496,
+          "durationMs": 96
+        },
+        {
+          "text": "ka ",
+          "startMs": 27496,
+          "endMs": 27704,
+          "durationMs": 208
+        },
+        {
+          "text": "sho ",
+          "startMs": 27704,
+          "endMs": 27780,
+          "durationMs": 76
+        },
+        {
+          "text": "do ",
+          "startMs": 27856,
+          "endMs": 28000,
+          "durationMs": 144
+        },
+        {
+          "text": "o ",
+          "startMs": 28000,
+          "endMs": 28144,
+          "durationMs": 144
+        },
+        {
+          "text": "ri ",
+          "startMs": 28144,
+          "endMs": 28328,
+          "durationMs": 184
+        },
+        {
+          "text": "to ",
+          "startMs": 28328,
+          "endMs": 28600,
+          "durationMs": 272
+        },
+        {
+          "text": "wa ",
+          "startMs": 28600,
+          "endMs": 28856,
+          "durationMs": 256
+        },
+        {
+          "text": "yo ",
+          "startMs": 28856,
+          "endMs": 29056,
+          "durationMs": 200
+        },
+        {
+          "text": "ku ",
+          "startMs": 29056,
+          "endMs": 29240,
+          "durationMs": 184
+        },
+        {
+          "text": "i ",
+          "startMs": 29240,
+          "endMs": 29380,
+          "durationMs": 140
+        },
+        {
+          "text": "'t ",
+          "startMs": 29380,
+          "endMs": 29520,
+          "durationMs": 140
+        },
+        {
+          "text": "ta ",
+          "startMs": 29520,
+          "endMs": 29672,
+          "durationMs": 152
+        },
+        {
+          "text": "mo ",
+          "startMs": 29672,
+          "endMs": 29840,
+          "durationMs": 168
+        },
+        {
+          "text": "no ",
+          "startMs": 29840,
+          "endMs": 30016,
+          "durationMs": 176
+        },
+        {
+          "text": "de ",
+          "startMs": 30016,
+          "endMs": 30520,
+          "durationMs": 504
+        }
+      ]
+    },
+    {
+      "startMs": 30520,
+      "endMs": 33103,
+      "durationMs": 2583,
+      "text": "mu zu ka shi i ko to ba da ra ke ",
+      "parts": [
+        {
+          "text": "mu ",
+          "startMs": 30520,
+          "endMs": 30800,
+          "durationMs": 280
+        },
+        {
+          "text": "zu ",
+          "startMs": 30800,
+          "endMs": 30960,
+          "durationMs": 160
+        },
+        {
+          "text": "ka ",
+          "startMs": 30960,
+          "endMs": 31272,
+          "durationMs": 312
+        },
+        {
+          "text": "shi ",
+          "startMs": 31272,
+          "endMs": 31400,
+          "durationMs": 128
+        },
+        {
+          "text": "i ",
+          "startMs": 31400,
+          "endMs": 31528,
+          "durationMs": 128
+        },
+        {
+          "text": "ko ",
+          "startMs": 31528,
+          "endMs": 31672,
+          "durationMs": 144
+        },
+        {
+          "text": "to ",
+          "startMs": 31672,
+          "endMs": 31816,
+          "durationMs": 144
+        },
+        {
+          "text": "ba ",
+          "startMs": 31816,
+          "endMs": 32000,
+          "durationMs": 184
+        },
+        {
+          "text": "da ",
+          "startMs": 32000,
+          "endMs": 32216,
+          "durationMs": 216
+        },
+        {
+          "text": "ra ",
+          "startMs": 32216,
+          "endMs": 32464,
+          "durationMs": 248
+        },
+        {
+          "text": "ke ",
+          "startMs": 32464,
+          "endMs": 33103,
+          "durationMs": 639
+        }
+      ]
+    },
+    {
+      "startMs": 33103,
+      "endMs": 38664,
+      "durationMs": 5561,
+      "text": "ko n ni chi a no ko ro ka ra su ko shi mo ka wa ra na i ",
+      "parts": [
+        {
+          "text": "ko ",
+          "startMs": 33103,
+          "endMs": 33335,
+          "durationMs": 232
+        },
+        {
+          "text": "n ",
+          "startMs": 33335,
+          "endMs": 33567,
+          "durationMs": 232
+        },
+        {
+          "text": "ni ",
+          "startMs": 33567,
+          "endMs": 33767,
+          "durationMs": 200
+        },
+        {
+          "text": "chi ",
+          "startMs": 33767,
+          "endMs": 33991,
+          "durationMs": 224
+        },
+        {
+          "text": "a ",
+          "startMs": 33991,
+          "endMs": 34152,
+          "durationMs": 161
+        },
+        {
+          "text": "no ",
+          "startMs": 34152,
+          "endMs": 34551,
+          "durationMs": 399
+        },
+        {
+          "text": "ko ",
+          "startMs": 34551,
+          "endMs": 34743,
+          "durationMs": 192
+        },
+        {
+          "text": "ro ",
+          "startMs": 34743,
+          "endMs": 35343,
+          "durationMs": 600
+        },
+        {
+          "text": "ka ",
+          "startMs": 35343,
+          "endMs": 35551,
+          "durationMs": 208
+        },
+        {
+          "text": "ra ",
+          "startMs": 35551,
+          "endMs": 36215,
+          "durationMs": 664
+        },
+        {
+          "text": "su ",
+          "startMs": 36215,
+          "endMs": 36384,
+          "durationMs": 169
+        },
+        {
+          "text": "ko ",
+          "startMs": 36384,
+          "endMs": 36511,
+          "durationMs": 127
+        },
+        {
+          "text": "shi ",
+          "startMs": 36511,
+          "endMs": 36871,
+          "durationMs": 360
+        },
+        {
+          "text": "mo ",
+          "startMs": 36871,
+          "endMs": 37063,
+          "durationMs": 192
+        },
+        {
+          "text": "ka ",
+          "startMs": 37063,
+          "endMs": 37239,
+          "durationMs": 176
+        },
+        {
+          "text": "wa ",
+          "startMs": 37239,
+          "endMs": 37671,
+          "durationMs": 432
+        },
+        {
+          "text": "ra ",
+          "startMs": 37671,
+          "endMs": 37919,
+          "durationMs": 248
+        },
+        {
+          "text": "na ",
+          "startMs": 37919,
+          "endMs": 38303,
+          "durationMs": 384
+        },
+        {
+          "text": "i ",
+          "startMs": 38303,
+          "endMs": 38664,
+          "durationMs": 361
+        }
+      ]
+    },
+    {
+      "startMs": 39912,
+      "endMs": 44824,
+      "durationMs": 4912,
+      "text": "ko no ku u ra n wo u me re ba to ke ma su ka ",
+      "parts": [
+        {
+          "text": "ko ",
+          "startMs": 39912,
+          "endMs": 40345,
+          "durationMs": 433
+        },
+        {
+          "text": "no ",
+          "startMs": 40345,
+          "endMs": 40560,
+          "durationMs": 215
+        },
+        {
+          "text": "ku ",
+          "startMs": 40560,
+          "endMs": 40736,
+          "durationMs": 176
+        },
+        {
+          "text": "u ",
+          "startMs": 40736,
+          "endMs": 40912,
+          "durationMs": 176
+        },
+        {
+          "text": "ra ",
+          "startMs": 40912,
+          "endMs": 41076,
+          "durationMs": 164
+        },
+        {
+          "text": "n ",
+          "startMs": 41076,
+          "endMs": 41240,
+          "durationMs": 164
+        },
+        {
+          "text": "wo ",
+          "startMs": 41240,
+          "endMs": 41800,
+          "durationMs": 560
+        },
+        {
+          "text": "u ",
+          "startMs": 41800,
+          "endMs": 42040,
+          "durationMs": 240
+        },
+        {
+          "text": "me ",
+          "startMs": 42040,
+          "endMs": 42593,
+          "durationMs": 553
+        },
+        {
+          "text": "re ",
+          "startMs": 42593,
+          "endMs": 42801,
+          "durationMs": 208
+        },
+        {
+          "text": "ba ",
+          "startMs": 42801,
+          "endMs": 43344,
+          "durationMs": 543
+        },
+        {
+          "text": "to ",
+          "startMs": 43344,
+          "endMs": 43544,
+          "durationMs": 200
+        },
+        {
+          "text": "ke ",
+          "startMs": 43544,
+          "endMs": 43760,
+          "durationMs": 216
+        },
+        {
+          "text": "ma ",
+          "startMs": 43760,
+          "endMs": 44121,
+          "durationMs": 361
+        },
+        {
+          "text": "su ",
+          "startMs": 44121,
+          "endMs": 44369,
+          "durationMs": 248
+        },
+        {
+          "text": "ka ",
+          "startMs": 44369,
+          "endMs": 44824,
+          "durationMs": 455
+        }
+      ]
+    },
+    {
+      "startMs": 45064,
+      "endMs": 46800,
+      "durationMs": 1736,
+      "text": "i tsu no hi ka ",
+      "parts": [
+        {
+          "text": "i ",
+          "startMs": 45064,
+          "endMs": 45256,
+          "durationMs": 192
+        },
+        {
+          "text": "tsu ",
+          "startMs": 45256,
+          "endMs": 45864,
+          "durationMs": 608
+        },
+        {
+          "text": "no ",
+          "startMs": 45864,
+          "endMs": 46072,
+          "durationMs": 208
+        },
+        {
+          "text": "hi ",
+          "startMs": 46072,
+          "endMs": 46296,
+          "durationMs": 224
+        },
+        {
+          "text": "ka ",
+          "startMs": 46296,
+          "endMs": 46800,
+          "durationMs": 504
+        }
+      ]
+    },
+    {
+      "startMs": 46800,
+      "endMs": 49768,
+      "durationMs": 2968,
+      "text": "a na ta na ra do u ya 't te ",
+      "parts": [
+        {
+          "text": "a ",
+          "startMs": 46800,
+          "endMs": 47048,
+          "durationMs": 248
+        },
+        {
+          "text": "na ",
+          "startMs": 47048,
+          "endMs": 47560,
+          "durationMs": 512
+        },
+        {
+          "text": "ta ",
+          "startMs": 47560,
+          "endMs": 47768,
+          "durationMs": 208
+        },
+        {
+          "text": "na ",
+          "startMs": 47768,
+          "endMs": 48249,
+          "durationMs": 481
+        },
+        {
+          "text": "ra ",
+          "startMs": 48249,
+          "endMs": 48440,
+          "durationMs": 191
+        },
+        {
+          "text": "do ",
+          "startMs": 48440,
+          "endMs": 48708,
+          "durationMs": 268
+        },
+        {
+          "text": "u ",
+          "startMs": 48708,
+          "endMs": 48976,
+          "durationMs": 268
+        },
+        {
+          "text": "ya ",
+          "startMs": 48976,
+          "endMs": 49120,
+          "durationMs": 144
+        },
+        {
+          "text": "'t ",
+          "startMs": 49120,
+          "endMs": 49264,
+          "durationMs": 144
+        },
+        {
+          "text": "te ",
+          "startMs": 49264,
+          "endMs": 49768,
+          "durationMs": 504
+        }
+      ]
+    },
+    {
+      "startMs": 49768,
+      "endMs": 52408,
+      "durationMs": 2640,
+      "text": "sa ki he to su su mi ma su ka ",
+      "parts": [
+        {
+          "text": "sa ",
+          "startMs": 49768,
+          "endMs": 49992,
+          "durationMs": 224
+        },
+        {
+          "text": "ki ",
+          "startMs": 49992,
+          "endMs": 50168,
+          "durationMs": 176
+        },
+        {
+          "text": "he ",
+          "startMs": 50168,
+          "endMs": 50536,
+          "durationMs": 368
+        },
+        {
+          "text": "to ",
+          "startMs": 50536,
+          "endMs": 50776,
+          "durationMs": 240
+        },
+        {
+          "text": "su ",
+          "startMs": 50776,
+          "endMs": 50984,
+          "durationMs": 208
+        },
+        {
+          "text": "su ",
+          "startMs": 50984,
+          "endMs": 51169,
+          "durationMs": 185
+        },
+        {
+          "text": "mi ",
+          "startMs": 51169,
+          "endMs": 51384,
+          "durationMs": 215
+        },
+        {
+          "text": "ma ",
+          "startMs": 51384,
+          "endMs": 51585,
+          "durationMs": 201
+        },
+        {
+          "text": "su ",
+          "startMs": 51585,
+          "endMs": 51776,
+          "durationMs": 191
+        },
+        {
+          "text": "ka ",
+          "startMs": 51776,
+          "endMs": 52408,
+          "durationMs": 632
+        }
+      ]
+    },
+    {
+      "startMs": 52408,
+      "endMs": 55736,
+      "durationMs": 3328,
+      "text": "ya ke ni shi ro i n da   ya ta ra na ga i n da ",
+      "parts": [
+        {
+          "text": "ya ",
+          "startMs": 52408,
+          "endMs": 52592,
+          "durationMs": 184
+        },
+        {
+          "text": "ke ",
+          "startMs": 52592,
+          "endMs": 52712,
+          "durationMs": 120
+        },
+        {
+          "text": "ni ",
+          "startMs": 52712,
+          "endMs": 52960,
+          "durationMs": 248
+        },
+        {
+          "text": "shi ",
+          "startMs": 52960,
+          "endMs": 53320,
+          "durationMs": 360
+        },
+        {
+          "text": "ro ",
+          "startMs": 53320,
+          "endMs": 53472,
+          "durationMs": 152
+        },
+        {
+          "text": "i ",
+          "startMs": 53472,
+          "endMs": 53604,
+          "durationMs": 132
+        },
+        {
+          "text": "n ",
+          "startMs": 53604,
+          "endMs": 53736,
+          "durationMs": 132
+        },
+        {
+          "text": "da ",
+          "startMs": 53736,
+          "endMs": 54033,
+          "durationMs": 297
+        },
+        {
+          "text": "  ",
+          "startMs": 54033,
+          "endMs": 54033,
+          "durationMs": 0
+        },
+        {
+          "text": "ya ",
+          "startMs": 54033,
+          "endMs": 54216,
+          "durationMs": 183
+        },
+        {
+          "text": "ta ",
+          "startMs": 54216,
+          "endMs": 54336,
+          "durationMs": 120
+        },
+        {
+          "text": "ra ",
+          "startMs": 54336,
+          "endMs": 54592,
+          "durationMs": 256
+        },
+        {
+          "text": "na ",
+          "startMs": 54592,
+          "endMs": 54896,
+          "durationMs": 304
+        },
+        {
+          "text": "ga ",
+          "startMs": 54896,
+          "endMs": 55064,
+          "durationMs": 168
+        },
+        {
+          "text": "i ",
+          "startMs": 55064,
+          "endMs": 55212,
+          "durationMs": 148
+        },
+        {
+          "text": "n ",
+          "startMs": 55212,
+          "endMs": 55360,
+          "durationMs": 148
+        },
+        {
+          "text": "da ",
+          "startMs": 55360,
+          "endMs": 55736,
+          "durationMs": 376
+        }
+      ]
+    },
+    {
+      "startMs": 55736,
+      "endMs": 57352,
+      "durationMs": 1616,
+      "text": "ko ta e wa da i ta i ",
+      "parts": [
+        {
+          "text": "ko ",
+          "startMs": 55736,
+          "endMs": 55912,
+          "durationMs": 176
+        },
+        {
+          "text": "ta ",
+          "startMs": 55912,
+          "endMs": 56040,
+          "durationMs": 128
+        },
+        {
+          "text": "e ",
+          "startMs": 56040,
+          "endMs": 56280,
+          "durationMs": 240
+        },
+        {
+          "text": "wa ",
+          "startMs": 56280,
+          "endMs": 56600,
+          "durationMs": 320
+        },
+        {
+          "text": "da ",
+          "startMs": 56600,
+          "endMs": 56784,
+          "durationMs": 184
+        },
+        {
+          "text": "i ",
+          "startMs": 56784,
+          "endMs": 56960,
+          "durationMs": 176
+        },
+        {
+          "text": "ta ",
+          "startMs": 56960,
+          "endMs": 57088,
+          "durationMs": 128
+        },
+        {
+          "text": "i ",
+          "startMs": 57088,
+          "endMs": 57352,
+          "durationMs": 264
+        }
+      ]
+    },
+    {
+      "startMs": 57352,
+      "endMs": 61020,
+      "durationMs": 3668,
+      "text": "ka ta chi ba ka ri no jo u shi ki da ro u ",
+      "parts": [
+        {
+          "text": "ka ",
+          "startMs": 57352,
+          "endMs": 57560,
+          "durationMs": 208
+        },
+        {
+          "text": "ta ",
+          "startMs": 57560,
+          "endMs": 57688,
+          "durationMs": 128
+        },
+        {
+          "text": "chi ",
+          "startMs": 57688,
+          "endMs": 57864,
+          "durationMs": 176
+        },
+        {
+          "text": "ba ",
+          "startMs": 57864,
+          "endMs": 58168,
+          "durationMs": 304
+        },
+        {
+          "text": "ka ",
+          "startMs": 58168,
+          "endMs": 58536,
+          "durationMs": 368
+        },
+        {
+          "text": "ri ",
+          "startMs": 58536,
+          "endMs": 58784,
+          "durationMs": 248
+        },
+        {
+          "text": "no ",
+          "startMs": 58784,
+          "endMs": 59180,
+          "durationMs": 396
+        },
+        {
+          "text": "jo ",
+          "startMs": 59180,
+          "endMs": 59256,
+          "durationMs": 76
+        },
+        {
+          "text": "u ",
+          "startMs": 59334,
+          "endMs": 59412,
+          "durationMs": 78
+        },
+        {
+          "text": "shi ",
+          "startMs": 59412,
+          "endMs": 59612,
+          "durationMs": 200
+        },
+        {
+          "text": "ki ",
+          "startMs": 59612,
+          "endMs": 59852,
+          "durationMs": 240
+        },
+        {
+          "text": "da ",
+          "startMs": 59852,
+          "endMs": 60445,
+          "durationMs": 593
+        },
+        {
+          "text": "ro ",
+          "startMs": 60445,
+          "endMs": 60732,
+          "durationMs": 287
+        },
+        {
+          "text": "u ",
+          "startMs": 60733,
+          "endMs": 61020,
+          "durationMs": 287
+        }
+      ]
+    },
+    {
+      "startMs": 61020,
+      "endMs": 65460,
+      "durationMs": 4440,
+      "text": "yu bi sa ki ga fu ru e yo u to mo ",
+      "parts": [
+        {
+          "text": "yu ",
+          "startMs": 61020,
+          "endMs": 61236,
+          "durationMs": 216
+        },
+        {
+          "text": "bi ",
+          "startMs": 61236,
+          "endMs": 61572,
+          "durationMs": 336
+        },
+        {
+          "text": "sa ",
+          "startMs": 61572,
+          "endMs": 62028,
+          "durationMs": 456
+        },
+        {
+          "text": "ki ",
+          "startMs": 62028,
+          "endMs": 62244,
+          "durationMs": 216
+        },
+        {
+          "text": "ga ",
+          "startMs": 62244,
+          "endMs": 62532,
+          "durationMs": 288
+        },
+        {
+          "text": "fu ",
+          "startMs": 62532,
+          "endMs": 62772,
+          "durationMs": 240
+        },
+        {
+          "text": "ru ",
+          "startMs": 62772,
+          "endMs": 63012,
+          "durationMs": 240
+        },
+        {
+          "text": "e ",
+          "startMs": 63012,
+          "endMs": 63260,
+          "durationMs": 248
+        },
+        {
+          "text": "yo ",
+          "startMs": 63260,
+          "endMs": 63596,
+          "durationMs": 336
+        },
+        {
+          "text": "u ",
+          "startMs": 63596,
+          "endMs": 63932,
+          "durationMs": 336
+        },
+        {
+          "text": "to ",
+          "startMs": 63932,
+          "endMs": 64124,
+          "durationMs": 192
+        },
+        {
+          "text": "mo ",
+          "startMs": 64123,
+          "endMs": 65459,
+          "durationMs": 1336
+        }
+      ]
+    },
+    {
+      "startMs": 65545,
+      "endMs": 67145,
+      "durationMs": 1600,
+      "text": "se i ka i wa na i n da ",
+      "parts": [
+        {
+          "text": "se ",
+          "startMs": 65545,
+          "endMs": 65653,
+          "durationMs": 108
+        },
+        {
+          "text": "i ",
+          "startMs": 65653,
+          "endMs": 65761,
+          "durationMs": 108
+        },
+        {
+          "text": "ka ",
+          "startMs": 65761,
+          "endMs": 65929,
+          "durationMs": 168
+        },
+        {
+          "text": "i ",
+          "startMs": 65929,
+          "endMs": 66041,
+          "durationMs": 112
+        },
+        {
+          "text": "wa ",
+          "startMs": 66041,
+          "endMs": 66345,
+          "durationMs": 304
+        },
+        {
+          "text": "na ",
+          "startMs": 66345,
+          "endMs": 66537,
+          "durationMs": 192
+        },
+        {
+          "text": "i ",
+          "startMs": 66537,
+          "endMs": 66681,
+          "durationMs": 144
+        },
+        {
+          "text": "n ",
+          "startMs": 66681,
+          "endMs": 66825,
+          "durationMs": 144
+        },
+        {
+          "text": "da ",
+          "startMs": 66826,
+          "endMs": 67145,
+          "durationMs": 319
+        }
+      ]
+    },
+    {
+      "startMs": 67145,
+      "endMs": 68673,
+      "durationMs": 1528,
+      "text": "ma ke na n te na i n da ",
+      "parts": [
+        {
+          "text": "ma ",
+          "startMs": 67145,
+          "endMs": 67329,
+          "durationMs": 184
+        },
+        {
+          "text": "ke ",
+          "startMs": 67329,
+          "endMs": 67465,
+          "durationMs": 136
+        },
+        {
+          "text": "na ",
+          "startMs": 67465,
+          "endMs": 67569,
+          "durationMs": 104
+        },
+        {
+          "text": "n ",
+          "startMs": 67569,
+          "endMs": 67673,
+          "durationMs": 104
+        },
+        {
+          "text": "te ",
+          "startMs": 67673,
+          "endMs": 67905,
+          "durationMs": 232
+        },
+        {
+          "text": "na ",
+          "startMs": 67905,
+          "endMs": 68081,
+          "durationMs": 176
+        },
+        {
+          "text": "i ",
+          "startMs": 68081,
+          "endMs": 68241,
+          "durationMs": 160
+        },
+        {
+          "text": "n ",
+          "startMs": 68241,
+          "endMs": 68401,
+          "durationMs": 160
+        },
+        {
+          "text": "da ",
+          "startMs": 68401,
+          "endMs": 68673,
+          "durationMs": 272
+        }
+      ]
+    },
+    {
+      "startMs": 68673,
+      "endMs": 70345,
+      "durationMs": 1672,
+      "text": "a ta shi wa sho u ga i ",
+      "parts": [
+        {
+          "text": "a ",
+          "startMs": 68673,
+          "endMs": 68857,
+          "durationMs": 184
+        },
+        {
+          "text": "ta ",
+          "startMs": 68857,
+          "endMs": 69001,
+          "durationMs": 144
+        },
+        {
+          "text": "shi ",
+          "startMs": 69001,
+          "endMs": 69161,
+          "durationMs": 160
+        },
+        {
+          "text": "wa ",
+          "startMs": 69161,
+          "endMs": 69561,
+          "durationMs": 400
+        },
+        {
+          "text": "sho ",
+          "startMs": 69561,
+          "endMs": 69664,
+          "durationMs": 103
+        },
+        {
+          "text": "u ",
+          "startMs": 69769,
+          "endMs": 69873,
+          "durationMs": 104
+        },
+        {
+          "text": "ga ",
+          "startMs": 69873,
+          "endMs": 70025,
+          "durationMs": 152
+        },
+        {
+          "text": "i ",
+          "startMs": 70025,
+          "endMs": 70345,
+          "durationMs": 320
+        }
+      ]
+    },
+    {
+      "startMs": 70345,
+      "endMs": 73844,
+      "durationMs": 3499,
+      "text": "a ta shi de a 't te so re da ke da ro u ",
+      "parts": [
+        {
+          "text": "a ",
+          "startMs": 70345,
+          "endMs": 70530,
+          "durationMs": 185
+        },
+        {
+          "text": "ta ",
+          "startMs": 70530,
+          "endMs": 70649,
+          "durationMs": 119
+        },
+        {
+          "text": "shi ",
+          "startMs": 70649,
+          "endMs": 70889,
+          "durationMs": 240
+        },
+        {
+          "text": "de ",
+          "startMs": 70889,
+          "endMs": 71121,
+          "durationMs": 232
+        },
+        {
+          "text": "a ",
+          "startMs": 71121,
+          "endMs": 71377,
+          "durationMs": 256
+        },
+        {
+          "text": "'t ",
+          "startMs": 71377,
+          "endMs": 71633,
+          "durationMs": 256
+        },
+        {
+          "text": "te ",
+          "startMs": 71633,
+          "endMs": 72017,
+          "durationMs": 384
+        },
+        {
+          "text": "so ",
+          "startMs": 72017,
+          "endMs": 72241,
+          "durationMs": 224
+        },
+        {
+          "text": "re ",
+          "startMs": 72241,
+          "endMs": 72433,
+          "durationMs": 192
+        },
+        {
+          "text": "da ",
+          "startMs": 72433,
+          "endMs": 72649,
+          "durationMs": 216
+        },
+        {
+          "text": "ke ",
+          "startMs": 72649,
+          "endMs": 72817,
+          "durationMs": 168
+        },
+        {
+          "text": "da ",
+          "startMs": 72817,
+          "endMs": 73353,
+          "durationMs": 536
+        },
+        {
+          "text": "ro ",
+          "startMs": 73353,
+          "endMs": 73601,
+          "durationMs": 248
+        },
+        {
+          "text": "u ",
+          "startMs": 73601,
+          "endMs": 73844,
+          "durationMs": 243
+        }
+      ]
+    },
+    {
+      "startMs": 74035,
+      "endMs": 79954,
+      "durationMs": 5919,
+      "text": "ko re i jo u ka ki mi da shi te mo a shi ta wa na i ",
+      "parts": [
+        {
+          "text": "ko ",
+          "startMs": 74035,
+          "endMs": 74242,
+          "durationMs": 207
+        },
+        {
+          "text": "re ",
+          "startMs": 74242,
+          "endMs": 74418,
+          "durationMs": 176
+        },
+        {
+          "text": "i ",
+          "startMs": 74418,
+          "endMs": 74771,
+          "durationMs": 353
+        },
+        {
+          "text": "jo ",
+          "startMs": 74772,
+          "endMs": 75072,
+          "durationMs": 300
+        },
+        {
+          "text": "u ",
+          "startMs": 75374,
+          "endMs": 75674,
+          "durationMs": 300
+        },
+        {
+          "text": "ka ",
+          "startMs": 75675,
+          "endMs": 75907,
+          "durationMs": 232
+        },
+        {
+          "text": "ki ",
+          "startMs": 75907,
+          "endMs": 76131,
+          "durationMs": 224
+        },
+        {
+          "text": "mi ",
+          "startMs": 76132,
+          "endMs": 76539,
+          "durationMs": 407
+        },
+        {
+          "text": "da ",
+          "startMs": 76540,
+          "endMs": 76731,
+          "durationMs": 191
+        },
+        {
+          "text": "shi ",
+          "startMs": 76731,
+          "endMs": 76914,
+          "durationMs": 183
+        },
+        {
+          "text": "te ",
+          "startMs": 76915,
+          "endMs": 77082,
+          "durationMs": 167
+        },
+        {
+          "text": "mo ",
+          "startMs": 77083,
+          "endMs": 77259,
+          "durationMs": 176
+        },
+        {
+          "text": "a ",
+          "startMs": 77259,
+          "endMs": 77450,
+          "durationMs": 191
+        },
+        {
+          "text": "shi ",
+          "startMs": 77450,
+          "endMs": 77634,
+          "durationMs": 184
+        },
+        {
+          "text": "ta ",
+          "startMs": 77635,
+          "endMs": 78027,
+          "durationMs": 392
+        },
+        {
+          "text": "wa ",
+          "startMs": 78027,
+          "endMs": 78258,
+          "durationMs": 231
+        },
+        {
+          "text": "na ",
+          "startMs": 78259,
+          "endMs": 79418,
+          "durationMs": 1159
+        },
+        {
+          "text": "i ",
+          "startMs": 79418,
+          "endMs": 79954,
+          "durationMs": 536
+        }
+      ]
+    },
+    {
+      "startMs": 85243,
+      "endMs": 89426,
+      "durationMs": 4183,
+      "text": "ya ku da ta na i chi zu no se i ni shi te i ma ",
+      "parts": [
+        {
+          "text": "ya ",
+          "startMs": 85243,
+          "endMs": 85467,
+          "durationMs": 224
+        },
+        {
+          "text": "ku ",
+          "startMs": 85467,
+          "endMs": 85659,
+          "durationMs": 192
+        },
+        {
+          "text": "da ",
+          "startMs": 85659,
+          "endMs": 85843,
+          "durationMs": 184
+        },
+        {
+          "text": "ta ",
+          "startMs": 85843,
+          "endMs": 86011,
+          "durationMs": 168
+        },
+        {
+          "text": "na ",
+          "startMs": 86011,
+          "endMs": 86131,
+          "durationMs": 120
+        },
+        {
+          "text": "i ",
+          "startMs": 86131,
+          "endMs": 86443,
+          "durationMs": 312
+        },
+        {
+          "text": "chi ",
+          "startMs": 86443,
+          "endMs": 86651,
+          "durationMs": 208
+        },
+        {
+          "text": "zu ",
+          "startMs": 86651,
+          "endMs": 87211,
+          "durationMs": 560
+        },
+        {
+          "text": "no ",
+          "startMs": 87211,
+          "endMs": 87419,
+          "durationMs": 208
+        },
+        {
+          "text": "se ",
+          "startMs": 87419,
+          "endMs": 87579,
+          "durationMs": 160
+        },
+        {
+          "text": "i ",
+          "startMs": 87579,
+          "endMs": 87987,
+          "durationMs": 408
+        },
+        {
+          "text": "ni ",
+          "startMs": 87987,
+          "endMs": 88195,
+          "durationMs": 208
+        },
+        {
+          "text": "shi ",
+          "startMs": 88195,
+          "endMs": 88379,
+          "durationMs": 184
+        },
+        {
+          "text": "te ",
+          "startMs": 88379,
+          "endMs": 88835,
+          "durationMs": 456
+        },
+        {
+          "text": "i ",
+          "startMs": 88835,
+          "endMs": 89091,
+          "durationMs": 256
+        },
+        {
+          "text": "ma ",
+          "startMs": 89091,
+          "endMs": 89426,
+          "durationMs": 335
+        }
+      ]
+    },
+    {
+      "startMs": 89426,
+      "endMs": 91888,
+      "durationMs": 2462,
+      "text": "to ho u ni ku re te i ma su ga ",
+      "parts": [
+        {
+          "text": "to ",
+          "startMs": 89426,
+          "endMs": 89578,
+          "durationMs": 152
+        },
+        {
+          "text": "ho ",
+          "startMs": 89578,
+          "endMs": 89694,
+          "durationMs": 116
+        },
+        {
+          "text": "u ",
+          "startMs": 89694,
+          "endMs": 89810,
+          "durationMs": 116
+        },
+        {
+          "text": "ni ",
+          "startMs": 89810,
+          "endMs": 90010,
+          "durationMs": 200
+        },
+        {
+          "text": "ku ",
+          "startMs": 90010,
+          "endMs": 90202,
+          "durationMs": 192
+        },
+        {
+          "text": "re ",
+          "startMs": 90202,
+          "endMs": 90378,
+          "durationMs": 176
+        },
+        {
+          "text": "te ",
+          "startMs": 90378,
+          "endMs": 90558,
+          "durationMs": 180
+        },
+        {
+          "text": "i ",
+          "startMs": 90558,
+          "endMs": 90738,
+          "durationMs": 180
+        },
+        {
+          "text": "ma ",
+          "startMs": 90738,
+          "endMs": 91410,
+          "durationMs": 672
+        },
+        {
+          "text": "su ",
+          "startMs": 91410,
+          "endMs": 91594,
+          "durationMs": 184
+        },
+        {
+          "text": "ga ",
+          "startMs": 91594,
+          "endMs": 91888,
+          "durationMs": 294
+        }
+      ]
+    },
+    {
+      "startMs": 91888,
+      "endMs": 93912,
+      "durationMs": 2024,
+      "text": "tsu yo ga 't ta to shi te ",
+      "parts": [
+        {
+          "text": "tsu ",
+          "startMs": 91888,
+          "endMs": 92148,
+          "durationMs": 260
+        },
+        {
+          "text": "yo ",
+          "startMs": 92148,
+          "endMs": 92408,
+          "durationMs": 260
+        },
+        {
+          "text": "ga ",
+          "startMs": 92408,
+          "endMs": 92648,
+          "durationMs": 240
+        },
+        {
+          "text": "'t ",
+          "startMs": 92648,
+          "endMs": 92888,
+          "durationMs": 240
+        },
+        {
+          "text": "ta ",
+          "startMs": 92888,
+          "endMs": 93072,
+          "durationMs": 184
+        },
+        {
+          "text": "to ",
+          "startMs": 93072,
+          "endMs": 93560,
+          "durationMs": 488
+        },
+        {
+          "text": "shi ",
+          "startMs": 93560,
+          "endMs": 93744,
+          "durationMs": 184
+        },
+        {
+          "text": "te ",
+          "startMs": 93744,
+          "endMs": 93912,
+          "durationMs": 168
+        }
+      ]
+    },
+    {
+      "startMs": 93912,
+      "endMs": 98633,
+      "durationMs": 4721,
+      "text": "ke 'k ka wa o so ra ku o na ji ",
+      "parts": [
+        {
+          "text": "ke ",
+          "startMs": 93912,
+          "endMs": 94180,
+          "durationMs": 268
+        },
+        {
+          "text": "'k ",
+          "startMs": 94180,
+          "endMs": 94448,
+          "durationMs": 268
+        },
+        {
+          "text": "ka ",
+          "startMs": 94448,
+          "endMs": 94672,
+          "durationMs": 224
+        },
+        {
+          "text": "wa ",
+          "startMs": 94672,
+          "endMs": 95105,
+          "durationMs": 433
+        },
+        {
+          "text": "o ",
+          "startMs": 95105,
+          "endMs": 95408,
+          "durationMs": 303
+        },
+        {
+          "text": "so ",
+          "startMs": 95408,
+          "endMs": 95568,
+          "durationMs": 160
+        },
+        {
+          "text": "ra ",
+          "startMs": 95568,
+          "endMs": 96488,
+          "durationMs": 920
+        },
+        {
+          "text": "ku ",
+          "startMs": 96488,
+          "endMs": 97153,
+          "durationMs": 665
+        },
+        {
+          "text": "o ",
+          "startMs": 97153,
+          "endMs": 97336,
+          "durationMs": 183
+        },
+        {
+          "text": "na ",
+          "startMs": 97336,
+          "endMs": 97936,
+          "durationMs": 600
+        },
+        {
+          "text": "ji ",
+          "startMs": 97936,
+          "endMs": 98633,
+          "durationMs": 697
+        }
+      ]
+    },
+    {
+      "startMs": 98745,
+      "endMs": 101833,
+      "durationMs": 3088,
+      "text": "a fu re da shi so u na ho do tsu me ko n da ",
+      "parts": [
+        {
+          "text": "a ",
+          "startMs": 98745,
+          "endMs": 98921,
+          "durationMs": 176
+        },
+        {
+          "text": "fu ",
+          "startMs": 98921,
+          "endMs": 99073,
+          "durationMs": 152
+        },
+        {
+          "text": "re ",
+          "startMs": 99073,
+          "endMs": 99225,
+          "durationMs": 152
+        },
+        {
+          "text": "da ",
+          "startMs": 99225,
+          "endMs": 99489,
+          "durationMs": 264
+        },
+        {
+          "text": "shi ",
+          "startMs": 99489,
+          "endMs": 99681,
+          "durationMs": 192
+        },
+        {
+          "text": "so ",
+          "startMs": 99681,
+          "endMs": 99777,
+          "durationMs": 96
+        },
+        {
+          "text": "u ",
+          "startMs": 99777,
+          "endMs": 99873,
+          "durationMs": 96
+        },
+        {
+          "text": "na ",
+          "startMs": 99873,
+          "endMs": 100121,
+          "durationMs": 248
+        },
+        {
+          "text": "ho ",
+          "startMs": 100121,
+          "endMs": 100329,
+          "durationMs": 208
+        },
+        {
+          "text": "do ",
+          "startMs": 100329,
+          "endMs": 100577,
+          "durationMs": 248
+        },
+        {
+          "text": "tsu ",
+          "startMs": 100577,
+          "endMs": 100825,
+          "durationMs": 248
+        },
+        {
+          "text": "me ",
+          "startMs": 100825,
+          "endMs": 101097,
+          "durationMs": 272
+        },
+        {
+          "text": "ko ",
+          "startMs": 101097,
+          "endMs": 101189,
+          "durationMs": 92
+        },
+        {
+          "text": "n ",
+          "startMs": 101189,
+          "endMs": 101281,
+          "durationMs": 92
+        },
+        {
+          "text": "da ",
+          "startMs": 101281,
+          "endMs": 101833,
+          "durationMs": 552
+        }
+      ]
+    },
+    {
+      "startMs": 102059,
+      "endMs": 104506,
+      "durationMs": 2447,
+      "text": "ta ni n no ha ko wo yo ko me ni ",
+      "parts": [
+        {
+          "text": "ta ",
+          "startMs": 102059,
+          "endMs": 102260,
+          "durationMs": 201
+        },
+        {
+          "text": "ni ",
+          "startMs": 102260,
+          "endMs": 102459,
+          "durationMs": 199
+        },
+        {
+          "text": "n ",
+          "startMs": 102459,
+          "endMs": 102659,
+          "durationMs": 200
+        },
+        {
+          "text": "no ",
+          "startMs": 102659,
+          "endMs": 102852,
+          "durationMs": 193
+        },
+        {
+          "text": "ha ",
+          "startMs": 102852,
+          "endMs": 103035,
+          "durationMs": 183
+        },
+        {
+          "text": "ko ",
+          "startMs": 103035,
+          "endMs": 103188,
+          "durationMs": 153
+        },
+        {
+          "text": "wo ",
+          "startMs": 103188,
+          "endMs": 103444,
+          "durationMs": 256
+        },
+        {
+          "text": "yo ",
+          "startMs": 103444,
+          "endMs": 103652,
+          "durationMs": 208
+        },
+        {
+          "text": "ko ",
+          "startMs": 103652,
+          "endMs": 103820,
+          "durationMs": 168
+        },
+        {
+          "text": "me ",
+          "startMs": 103820,
+          "endMs": 103939,
+          "durationMs": 119
+        },
+        {
+          "text": "ni ",
+          "startMs": 103939,
+          "endMs": 104506,
+          "durationMs": 567
+        }
+      ]
+    },
+    {
+      "startMs": 104506,
+      "endMs": 107305,
+      "durationMs": 2799,
+      "text": "he ta na a i so wa ra i su ra ",
+      "parts": [
+        {
+          "text": "he ",
+          "startMs": 104506,
+          "endMs": 104690,
+          "durationMs": 184
+        },
+        {
+          "text": "ta ",
+          "startMs": 104690,
+          "endMs": 104866,
+          "durationMs": 176
+        },
+        {
+          "text": "na ",
+          "startMs": 104866,
+          "endMs": 105002,
+          "durationMs": 136
+        },
+        {
+          "text": "a ",
+          "startMs": 105002,
+          "endMs": 105194,
+          "durationMs": 192
+        },
+        {
+          "text": "i ",
+          "startMs": 105194,
+          "endMs": 105434,
+          "durationMs": 240
+        },
+        {
+          "text": "so ",
+          "startMs": 105434,
+          "endMs": 105754,
+          "durationMs": 320
+        },
+        {
+          "text": "wa ",
+          "startMs": 105754,
+          "endMs": 106114,
+          "durationMs": 360
+        },
+        {
+          "text": "ra ",
+          "startMs": 106114,
+          "endMs": 106626,
+          "durationMs": 512
+        },
+        {
+          "text": "i ",
+          "startMs": 106626,
+          "endMs": 106834,
+          "durationMs": 208
+        },
+        {
+          "text": "su ",
+          "startMs": 106834,
+          "endMs": 106994,
+          "durationMs": 160
+        },
+        {
+          "text": "ra ",
+          "startMs": 106994,
+          "endMs": 107305,
+          "durationMs": 311
+        }
+      ]
+    },
+    {
+      "startMs": 107305,
+      "endMs": 110001,
+      "durationMs": 2696,
+      "text": "ya 'p pa ri de ki te na i ",
+      "parts": [
+        {
+          "text": "ya ",
+          "startMs": 107305,
+          "endMs": 107493,
+          "durationMs": 188
+        },
+        {
+          "text": "'p ",
+          "startMs": 107493,
+          "endMs": 107681,
+          "durationMs": 188
+        },
+        {
+          "text": "pa ",
+          "startMs": 107681,
+          "endMs": 108145,
+          "durationMs": 464
+        },
+        {
+          "text": "ri ",
+          "startMs": 108145,
+          "endMs": 108370,
+          "durationMs": 225
+        },
+        {
+          "text": "de ",
+          "startMs": 108370,
+          "endMs": 108593,
+          "durationMs": 223
+        },
+        {
+          "text": "ki ",
+          "startMs": 108593,
+          "endMs": 108993,
+          "durationMs": 400
+        },
+        {
+          "text": "te ",
+          "startMs": 108993,
+          "endMs": 109273,
+          "durationMs": 280
+        },
+        {
+          "text": "na ",
+          "startMs": 109273,
+          "endMs": 109633,
+          "durationMs": 360
+        },
+        {
+          "text": "i ",
+          "startMs": 109633,
+          "endMs": 110001,
+          "durationMs": 368
+        }
+      ]
+    },
+    {
+      "startMs": 111354,
+      "endMs": 114585,
+      "durationMs": 3231,
+      "text": "ko n na ku u ra n sa e na ke re ba ",
+      "parts": [
+        {
+          "text": "ko ",
+          "startMs": 111354,
+          "endMs": 111585,
+          "durationMs": 231
+        },
+        {
+          "text": "n ",
+          "startMs": 111585,
+          "endMs": 111816,
+          "durationMs": 231
+        },
+        {
+          "text": "na ",
+          "startMs": 111817,
+          "endMs": 112009,
+          "durationMs": 192
+        },
+        {
+          "text": "ku ",
+          "startMs": 112009,
+          "endMs": 112233,
+          "durationMs": 224
+        },
+        {
+          "text": "u ",
+          "startMs": 112233,
+          "endMs": 112457,
+          "durationMs": 224
+        },
+        {
+          "text": "ra ",
+          "startMs": 112457,
+          "endMs": 112601,
+          "durationMs": 144
+        },
+        {
+          "text": "n ",
+          "startMs": 112601,
+          "endMs": 112745,
+          "durationMs": 144
+        },
+        {
+          "text": "sa ",
+          "startMs": 112745,
+          "endMs": 112969,
+          "durationMs": 224
+        },
+        {
+          "text": "e ",
+          "startMs": 112969,
+          "endMs": 113201,
+          "durationMs": 232
+        },
+        {
+          "text": "na ",
+          "startMs": 113201,
+          "endMs": 113362,
+          "durationMs": 161
+        },
+        {
+          "text": "ke ",
+          "startMs": 113362,
+          "endMs": 113889,
+          "durationMs": 527
+        },
+        {
+          "text": "re ",
+          "startMs": 113889,
+          "endMs": 114129,
+          "durationMs": 240
+        },
+        {
+          "text": "ba ",
+          "startMs": 114129,
+          "endMs": 114585,
+          "durationMs": 456
+        }
+      ]
+    },
+    {
+      "startMs": 114585,
+      "endMs": 118188,
+      "durationMs": 3603,
+      "text": "a na ta mo o mo u de sho u ",
+      "parts": [
+        {
+          "text": "a ",
+          "startMs": 114585,
+          "endMs": 114793,
+          "durationMs": 208
+        },
+        {
+          "text": "na ",
+          "startMs": 114793,
+          "endMs": 115025,
+          "durationMs": 232
+        },
+        {
+          "text": "ta ",
+          "startMs": 115025,
+          "endMs": 115812,
+          "durationMs": 787
+        },
+        {
+          "text": "mo ",
+          "startMs": 115812,
+          "endMs": 116412,
+          "durationMs": 600
+        },
+        {
+          "text": "o ",
+          "startMs": 116412,
+          "endMs": 116676,
+          "durationMs": 264
+        },
+        {
+          "text": "mo ",
+          "startMs": 116676,
+          "endMs": 117044,
+          "durationMs": 368
+        },
+        {
+          "text": "u ",
+          "startMs": 117044,
+          "endMs": 117412,
+          "durationMs": 368
+        },
+        {
+          "text": "de ",
+          "startMs": 117412,
+          "endMs": 117716,
+          "durationMs": 304
+        },
+        {
+          "text": "sho ",
+          "startMs": 117716,
+          "endMs": 117872,
+          "durationMs": 156
+        },
+        {
+          "text": "u ",
+          "startMs": 118031,
+          "endMs": 118188,
+          "durationMs": 157
+        }
+      ]
+    },
+    {
+      "startMs": 118188,
+      "endMs": 121135,
+      "durationMs": 2947,
+      "text": "ko no ma ma de i i na n te ",
+      "parts": [
+        {
+          "text": "ko ",
+          "startMs": 118188,
+          "endMs": 118428,
+          "durationMs": 240
+        },
+        {
+          "text": "no ",
+          "startMs": 118428,
+          "endMs": 118836,
+          "durationMs": 408
+        },
+        {
+          "text": "ma ",
+          "startMs": 118836,
+          "endMs": 119059,
+          "durationMs": 223
+        },
+        {
+          "text": "ma ",
+          "startMs": 119059,
+          "endMs": 119532,
+          "durationMs": 473
+        },
+        {
+          "text": "de ",
+          "startMs": 119532,
+          "endMs": 119767,
+          "durationMs": 235
+        },
+        {
+          "text": "i ",
+          "startMs": 119767,
+          "endMs": 120023,
+          "durationMs": 256
+        },
+        {
+          "text": "i ",
+          "startMs": 120023,
+          "endMs": 120279,
+          "durationMs": 256
+        },
+        {
+          "text": "na ",
+          "startMs": 120279,
+          "endMs": 120499,
+          "durationMs": 220
+        },
+        {
+          "text": "n ",
+          "startMs": 120499,
+          "endMs": 120719,
+          "durationMs": 220
+        },
+        {
+          "text": "te ",
+          "startMs": 120719,
+          "endMs": 121135,
+          "durationMs": 416
+        }
+      ]
+    },
+    {
+      "startMs": 121135,
+      "endMs": 124935,
+      "durationMs": 3800,
+      "text": "so re da ke wa ma chi ga i da ",
+      "parts": [
+        {
+          "text": "so ",
+          "startMs": 121135,
+          "endMs": 121343,
+          "durationMs": 208
+        },
+        {
+          "text": "re ",
+          "startMs": 121343,
+          "endMs": 121543,
+          "durationMs": 200
+        },
+        {
+          "text": "da ",
+          "startMs": 121543,
+          "endMs": 121999,
+          "durationMs": 456
+        },
+        {
+          "text": "ke ",
+          "startMs": 121999,
+          "endMs": 122207,
+          "durationMs": 208
+        },
+        {
+          "text": "wa ",
+          "startMs": 122207,
+          "endMs": 122407,
+          "durationMs": 200
+        },
+        {
+          "text": "ma ",
+          "startMs": 122407,
+          "endMs": 122591,
+          "durationMs": 184
+        },
+        {
+          "text": "chi ",
+          "startMs": 122591,
+          "endMs": 122839,
+          "durationMs": 248
+        },
+        {
+          "text": "ga ",
+          "startMs": 122839,
+          "endMs": 123032,
+          "durationMs": 193
+        },
+        {
+          "text": "i ",
+          "startMs": 123032,
+          "endMs": 123207,
+          "durationMs": 175
+        },
+        {
+          "text": "da ",
+          "startMs": 123207,
+          "endMs": 124935,
+          "durationMs": 1728
+        }
+      ]
+    },
+    {
+      "startMs": 138610,
+      "endMs": 141644,
+      "durationMs": 3034,
+      "text": "ka ra 'p po na n da   hi to tsu mo na i n da ",
+      "parts": [
+        {
+          "text": "ka ",
+          "startMs": 138610,
+          "endMs": 138778,
+          "durationMs": 168
+        },
+        {
+          "text": "ra ",
+          "startMs": 138778,
+          "endMs": 138902,
+          "durationMs": 124
+        },
+        {
+          "text": "'p ",
+          "startMs": 138902,
+          "endMs": 139026,
+          "durationMs": 124
+        },
+        {
+          "text": "po ",
+          "startMs": 139026,
+          "endMs": 139218,
+          "durationMs": 192
+        },
+        {
+          "text": "na ",
+          "startMs": 139218,
+          "endMs": 139422,
+          "durationMs": 204
+        },
+        {
+          "text": "n ",
+          "startMs": 139422,
+          "endMs": 139626,
+          "durationMs": 204
+        },
+        {
+          "text": "da ",
+          "startMs": 139626,
+          "endMs": 140010,
+          "durationMs": 384
+        },
+        {
+          "text": "  ",
+          "startMs": 140010,
+          "endMs": 140010,
+          "durationMs": 0
+        },
+        {
+          "text": "hi ",
+          "startMs": 140010,
+          "endMs": 140194,
+          "durationMs": 184
+        },
+        {
+          "text": "to ",
+          "startMs": 140194,
+          "endMs": 140322,
+          "durationMs": 128
+        },
+        {
+          "text": "tsu ",
+          "startMs": 140322,
+          "endMs": 140618,
+          "durationMs": 296
+        },
+        {
+          "text": "mo ",
+          "startMs": 140618,
+          "endMs": 140890,
+          "durationMs": 272
+        },
+        {
+          "text": "na ",
+          "startMs": 140890,
+          "endMs": 141026,
+          "durationMs": 136
+        },
+        {
+          "text": "i ",
+          "startMs": 141026,
+          "endMs": 141186,
+          "durationMs": 160
+        },
+        {
+          "text": "n ",
+          "startMs": 141186,
+          "endMs": 141346,
+          "durationMs": 160
+        },
+        {
+          "text": "da ",
+          "startMs": 141346,
+          "endMs": 141644,
+          "durationMs": 298
+        }
+      ]
+    },
+    {
+      "startMs": 141644,
+      "endMs": 143286,
+      "durationMs": 1642,
+      "text": "na ku na 't ta no ka ",
+      "parts": [
+        {
+          "text": "na ",
+          "startMs": 141644,
+          "endMs": 141812,
+          "durationMs": 168
+        },
+        {
+          "text": "ku ",
+          "startMs": 141812,
+          "endMs": 141940,
+          "durationMs": 128
+        },
+        {
+          "text": "na ",
+          "startMs": 141940,
+          "endMs": 142064,
+          "durationMs": 124
+        },
+        {
+          "text": "'t ",
+          "startMs": 142064,
+          "endMs": 142188,
+          "durationMs": 124
+        },
+        {
+          "text": "ta ",
+          "startMs": 142188,
+          "endMs": 142476,
+          "durationMs": 288
+        },
+        {
+          "text": "no ",
+          "startMs": 142476,
+          "endMs": 142836,
+          "durationMs": 360
+        },
+        {
+          "text": "ka ",
+          "startMs": 142836,
+          "endMs": 143286,
+          "durationMs": 450
+        }
+      ]
+    },
+    {
+      "startMs": 143286,
+      "endMs": 147000,
+      "durationMs": 3714,
+      "text": "ha ji ma 't ta no ka wa ka ra na i ke do ",
+      "parts": [
+        {
+          "text": "ha ",
+          "startMs": 143286,
+          "endMs": 143438,
+          "durationMs": 152
+        },
+        {
+          "text": "ji ",
+          "startMs": 143438,
+          "endMs": 143590,
+          "durationMs": 152
+        },
+        {
+          "text": "ma ",
+          "startMs": 143590,
+          "endMs": 143730,
+          "durationMs": 140
+        },
+        {
+          "text": "'t ",
+          "startMs": 143730,
+          "endMs": 143870,
+          "durationMs": 140
+        },
+        {
+          "text": "ta ",
+          "startMs": 143870,
+          "endMs": 144102,
+          "durationMs": 232
+        },
+        {
+          "text": "no ",
+          "startMs": 144102,
+          "endMs": 144582,
+          "durationMs": 480
+        },
+        {
+          "text": "ka ",
+          "startMs": 144582,
+          "endMs": 144960,
+          "durationMs": 378
+        },
+        {
+          "text": "wa ",
+          "startMs": 144960,
+          "endMs": 145177,
+          "durationMs": 217
+        },
+        {
+          "text": "ka ",
+          "startMs": 145177,
+          "endMs": 145384,
+          "durationMs": 207
+        },
+        {
+          "text": "ra ",
+          "startMs": 145384,
+          "endMs": 145592,
+          "durationMs": 208
+        },
+        {
+          "text": "na ",
+          "startMs": 145592,
+          "endMs": 145840,
+          "durationMs": 248
+        },
+        {
+          "text": "i ",
+          "startMs": 145840,
+          "endMs": 146048,
+          "durationMs": 208
+        },
+        {
+          "text": "ke ",
+          "startMs": 146048,
+          "endMs": 146232,
+          "durationMs": 184
+        },
+        {
+          "text": "do ",
+          "startMs": 146232,
+          "endMs": 147000,
+          "durationMs": 768
+        }
+      ]
+    },
+    {
+      "startMs": 147000,
+      "endMs": 151673,
+      "durationMs": 4673,
+      "text": "i ku shi ka ho u ho u wa na i n da ro u ？ ",
+      "parts": [
+        {
+          "text": "i ",
+          "startMs": 147000,
+          "endMs": 147224,
+          "durationMs": 224
+        },
+        {
+          "text": "ku ",
+          "startMs": 147224,
+          "endMs": 147584,
+          "durationMs": 360
+        },
+        {
+          "text": "shi ",
+          "startMs": 147584,
+          "endMs": 147792,
+          "durationMs": 208
+        },
+        {
+          "text": "ka ",
+          "startMs": 147792,
+          "endMs": 148176,
+          "durationMs": 384
+        },
+        {
+          "text": "ho ",
+          "startMs": 148176,
+          "endMs": 148440,
+          "durationMs": 264
+        },
+        {
+          "text": "u ",
+          "startMs": 148440,
+          "endMs": 148704,
+          "durationMs": 264
+        },
+        {
+          "text": "ho ",
+          "startMs": 148704,
+          "endMs": 148936,
+          "durationMs": 232
+        },
+        {
+          "text": "u ",
+          "startMs": 148936,
+          "endMs": 149168,
+          "durationMs": 232
+        },
+        {
+          "text": "wa ",
+          "startMs": 149168,
+          "endMs": 149360,
+          "durationMs": 192
+        },
+        {
+          "text": "na ",
+          "startMs": 149360,
+          "endMs": 149720,
+          "durationMs": 360
+        },
+        {
+          "text": "i ",
+          "startMs": 149720,
+          "endMs": 149832,
+          "durationMs": 112
+        },
+        {
+          "text": "n ",
+          "startMs": 149832,
+          "endMs": 149944,
+          "durationMs": 112
+        },
+        {
+          "text": "da ",
+          "startMs": 149944,
+          "endMs": 150129,
+          "durationMs": 185
+        },
+        {
+          "text": "ro ",
+          "startMs": 150129,
+          "endMs": 150611,
+          "durationMs": 482
+        },
+        {
+          "text": "u ",
+          "startMs": 150612,
+          "endMs": 151094,
+          "durationMs": 482
+        },
+        {
+          "text": "？ ",
+          "startMs": 151094,
+          "endMs": 151672,
+          "durationMs": 578
+        }
+      ]
+    },
+    {
+      "startMs": 151673,
+      "endMs": 154649,
+      "durationMs": 2976,
+      "text": "se i ka i ga na n da   ka chi na n te na i n da ",
+      "parts": [
+        {
+          "text": "se ",
+          "startMs": 151673,
+          "endMs": 151785,
+          "durationMs": 112
+        },
+        {
+          "text": "i ",
+          "startMs": 151785,
+          "endMs": 151897,
+          "durationMs": 112
+        },
+        {
+          "text": "ka ",
+          "startMs": 151897,
+          "endMs": 152065,
+          "durationMs": 168
+        },
+        {
+          "text": "i ",
+          "startMs": 152065,
+          "endMs": 152201,
+          "durationMs": 136
+        },
+        {
+          "text": "ga ",
+          "startMs": 152201,
+          "endMs": 152345,
+          "durationMs": 144
+        },
+        {
+          "text": "na ",
+          "startMs": 152345,
+          "endMs": 152485,
+          "durationMs": 140
+        },
+        {
+          "text": "n ",
+          "startMs": 152485,
+          "endMs": 152625,
+          "durationMs": 140
+        },
+        {
+          "text": "da ",
+          "startMs": 152625,
+          "endMs": 152945,
+          "durationMs": 320
+        },
+        {
+          "text": "  ",
+          "startMs": 152945,
+          "endMs": 152945,
+          "durationMs": 0
+        },
+        {
+          "text": "ka ",
+          "startMs": 152945,
+          "endMs": 153121,
+          "durationMs": 176
+        },
+        {
+          "text": "chi ",
+          "startMs": 153121,
+          "endMs": 153265,
+          "durationMs": 144
+        },
+        {
+          "text": "na ",
+          "startMs": 153265,
+          "endMs": 153409,
+          "durationMs": 144
+        },
+        {
+          "text": "n ",
+          "startMs": 153409,
+          "endMs": 153553,
+          "durationMs": 144
+        },
+        {
+          "text": "te ",
+          "startMs": 153553,
+          "endMs": 153841,
+          "durationMs": 288
+        },
+        {
+          "text": "na ",
+          "startMs": 153841,
+          "endMs": 153985,
+          "durationMs": 144
+        },
+        {
+          "text": "i ",
+          "startMs": 153985,
+          "endMs": 154109,
+          "durationMs": 124
+        },
+        {
+          "text": "n ",
+          "startMs": 154109,
+          "endMs": 154233,
+          "durationMs": 124
+        },
+        {
+          "text": "da ",
+          "startMs": 154233,
+          "endMs": 154649,
+          "durationMs": 416
+        }
+      ]
+    },
+    {
+      "startMs": 154649,
+      "endMs": 156231,
+      "durationMs": 1582,
+      "text": "a ta shi wa sho u ga i ",
+      "parts": [
+        {
+          "text": "a ",
+          "startMs": 154649,
+          "endMs": 154833,
+          "durationMs": 184
+        },
+        {
+          "text": "ta ",
+          "startMs": 154833,
+          "endMs": 154961,
+          "durationMs": 128
+        },
+        {
+          "text": "shi ",
+          "startMs": 154961,
+          "endMs": 155161,
+          "durationMs": 200
+        },
+        {
+          "text": "wa ",
+          "startMs": 155161,
+          "endMs": 155418,
+          "durationMs": 257
+        },
+        {
+          "text": "sho ",
+          "startMs": 155418,
+          "endMs": 155534,
+          "durationMs": 116
+        },
+        {
+          "text": "u ",
+          "startMs": 155652,
+          "endMs": 155770,
+          "durationMs": 118
+        },
+        {
+          "text": "ga ",
+          "startMs": 155770,
+          "endMs": 155897,
+          "durationMs": 127
+        },
+        {
+          "text": "i ",
+          "startMs": 155897,
+          "endMs": 156231,
+          "durationMs": 334
+        }
+      ]
+    },
+    {
+      "startMs": 156231,
+      "endMs": 159770,
+      "durationMs": 3539,
+      "text": "a ta shi i ga i ja i ki ra re na i yo ",
+      "parts": [
+        {
+          "text": "a ",
+          "startMs": 156231,
+          "endMs": 156399,
+          "durationMs": 168
+        },
+        {
+          "text": "ta ",
+          "startMs": 156399,
+          "endMs": 156543,
+          "durationMs": 144
+        },
+        {
+          "text": "shi ",
+          "startMs": 156543,
+          "endMs": 156799,
+          "durationMs": 256
+        },
+        {
+          "text": "i ",
+          "startMs": 156799,
+          "endMs": 157087,
+          "durationMs": 288
+        },
+        {
+          "text": "ga ",
+          "startMs": 157087,
+          "endMs": 157255,
+          "durationMs": 168
+        },
+        {
+          "text": "i ",
+          "startMs": 157255,
+          "endMs": 157471,
+          "durationMs": 216
+        },
+        {
+          "text": "ja ",
+          "startMs": 157471,
+          "endMs": 157694,
+          "durationMs": 223
+        },
+        {
+          "text": "i ",
+          "startMs": 157919,
+          "endMs": 158087,
+          "durationMs": 168
+        },
+        {
+          "text": "ki ",
+          "startMs": 158087,
+          "endMs": 158335,
+          "durationMs": 248
+        },
+        {
+          "text": "ra ",
+          "startMs": 158335,
+          "endMs": 158607,
+          "durationMs": 272
+        },
+        {
+          "text": "re ",
+          "startMs": 158607,
+          "endMs": 158791,
+          "durationMs": 184
+        },
+        {
+          "text": "na ",
+          "startMs": 158791,
+          "endMs": 159071,
+          "durationMs": 280
+        },
+        {
+          "text": "i ",
+          "startMs": 159071,
+          "endMs": 159239,
+          "durationMs": 168
+        },
+        {
+          "text": "yo ",
+          "startMs": 159239,
+          "endMs": 159770,
+          "durationMs": 531
+        }
+      ]
+    },
+    {
+      "startMs": 160051,
+      "endMs": 165638,
+      "durationMs": 5587,
+      "text": "ko re i jo u ka ki mi da shi te mo a shi ta wa na i ",
+      "parts": [
+        {
+          "text": "ko ",
+          "startMs": 160051,
+          "endMs": 160243,
+          "durationMs": 192
+        },
+        {
+          "text": "re ",
+          "startMs": 160243,
+          "endMs": 160420,
+          "durationMs": 177
+        },
+        {
+          "text": "i ",
+          "startMs": 160420,
+          "endMs": 160779,
+          "durationMs": 359
+        },
+        {
+          "text": "jo ",
+          "startMs": 160779,
+          "endMs": 161019,
+          "durationMs": 240
+        },
+        {
+          "text": "u ",
+          "startMs": 161259,
+          "endMs": 161499,
+          "durationMs": 240
+        },
+        {
+          "text": "ka ",
+          "startMs": 161499,
+          "endMs": 161779,
+          "durationMs": 280
+        },
+        {
+          "text": "ki ",
+          "startMs": 161779,
+          "endMs": 162027,
+          "durationMs": 248
+        },
+        {
+          "text": "mi ",
+          "startMs": 162027,
+          "endMs": 162459,
+          "durationMs": 432
+        },
+        {
+          "text": "da ",
+          "startMs": 162459,
+          "endMs": 162643,
+          "durationMs": 184
+        },
+        {
+          "text": "shi ",
+          "startMs": 162643,
+          "endMs": 162820,
+          "durationMs": 177
+        },
+        {
+          "text": "te ",
+          "startMs": 162820,
+          "endMs": 163195,
+          "durationMs": 375
+        },
+        {
+          "text": "mo ",
+          "startMs": 163195,
+          "endMs": 163387,
+          "durationMs": 192
+        },
+        {
+          "text": "a ",
+          "startMs": 163387,
+          "endMs": 163571,
+          "durationMs": 184
+        },
+        {
+          "text": "shi ",
+          "startMs": 163571,
+          "endMs": 163741,
+          "durationMs": 170
+        },
+        {
+          "text": "ta ",
+          "startMs": 163741,
+          "endMs": 164059,
+          "durationMs": 318
+        },
+        {
+          "text": "wa ",
+          "startMs": 164059,
+          "endMs": 164259,
+          "durationMs": 200
+        },
+        {
+          "text": "na ",
+          "startMs": 164259,
+          "endMs": 165141,
+          "durationMs": 882
+        },
+        {
+          "text": "i ",
+          "startMs": 165141,
+          "endMs": 165638,
+          "durationMs": 497
+        }
+      ]
+    },
+    {
+      "startMs": 174502,
+      "endMs": 178742,
+      "durationMs": 4240,
+      "text": "do u a ga i te mo a shi ta wa na i ",
+      "parts": [
+        {
+          "text": "do ",
+          "startMs": 174502,
+          "endMs": 174738,
+          "durationMs": 236
+        },
+        {
+          "text": "u ",
+          "startMs": 174738,
+          "endMs": 174974,
+          "durationMs": 236
+        },
+        {
+          "text": "a ",
+          "startMs": 174974,
+          "endMs": 175366,
+          "durationMs": 392
+        },
+        {
+          "text": "ga ",
+          "startMs": 175366,
+          "endMs": 175566,
+          "durationMs": 200
+        },
+        {
+          "text": "i ",
+          "startMs": 175566,
+          "endMs": 175758,
+          "durationMs": 192
+        },
+        {
+          "text": "te ",
+          "startMs": 175758,
+          "endMs": 175990,
+          "durationMs": 232
+        },
+        {
+          "text": "mo ",
+          "startMs": 175990,
+          "endMs": 176206,
+          "durationMs": 216
+        },
+        {
+          "text": "a ",
+          "startMs": 176206,
+          "endMs": 176406,
+          "durationMs": 200
+        },
+        {
+          "text": "shi ",
+          "startMs": 176406,
+          "endMs": 176606,
+          "durationMs": 200
+        },
+        {
+          "text": "ta ",
+          "startMs": 176606,
+          "endMs": 177038,
+          "durationMs": 432
+        },
+        {
+          "text": "wa ",
+          "startMs": 177038,
+          "endMs": 177230,
+          "durationMs": 192
+        },
+        {
+          "text": "na ",
+          "startMs": 177230,
+          "endMs": 178389,
+          "durationMs": 1159
+        },
+        {
+          "text": "i ",
+          "startMs": 178389,
+          "endMs": 178742,
+          "durationMs": 353
+        }
+      ]
+    }
+  ]
+}

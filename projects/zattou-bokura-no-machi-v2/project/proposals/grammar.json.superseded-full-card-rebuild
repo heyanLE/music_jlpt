@@ -1,0 +1,1056 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "grammar",
+  "scope": {
+    "frameIds": [
+      "l006",
+      "l007",
+      "l008",
+      "l009",
+      "l010",
+      "l011",
+      "l012",
+      "l013",
+      "l014",
+      "l015",
+      "l016",
+      "l017",
+      "l018",
+      "l019",
+      "l020",
+      "l021",
+      "l022",
+      "l023",
+      "l024",
+      "l026",
+      "l027",
+      "l028",
+      "l029",
+      "l030",
+      "l032",
+      "l033",
+      "l034",
+      "l035",
+      "l036",
+      "l037",
+      "l038",
+      "l039",
+      "l040",
+      "l041",
+      "l042",
+      "l043",
+      "l044",
+      "l045",
+      "l046",
+      "l047",
+      "l048",
+      "l049",
+      "l050",
+      "l051",
+      "l052",
+      "l054",
+      "l055",
+      "l056",
+      "l057",
+      "l058",
+      "l060",
+      "l061",
+      "l062",
+      "l063",
+      "l064",
+      "l065",
+      "l066"
+    ]
+  },
+  "baseFrameSha256": "2a05c50a891898a8b7d121c7e95698a8d0860a8bba36399ad27aa966c1c98ee4",
+  "changes": [
+    {
+      "frameId": "l006",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "やり残した",
+          "zhMeaning": "留下未完成的",
+          "posZh": "复合动词（た形）",
+          "grammarStructureZh": "やり残す＝做完一部分后仍留下未做完；た形作定语",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "が",
+          "functionZh": "提示主语",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋が＋谓语：标记动作或状态的主体",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "を",
+          "functionZh": "提示动作对象",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋を＋他动词：表示动作直接作用的对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "覆って",
+          "zhMeaning": "覆盖、笼罩",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "覆う＋て：连接后项动作/状态",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "句法：鼓動が～夜を覆って；が标主语、を标对象，覆って为覆う的て形"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l007",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "を",
+          "functionZh": "提示动作对象",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋を＋包む：标记被包裹的对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "包んで",
+          "zhMeaning": "包裹着、包住并",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "包む＋て：连接动作，表示并列或先后",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "粉々に",
+          "zhMeaning": "粉碎地、成粉末状",
+          "posZh": "副词性名词＋に",
+          "grammarStructureZh": "状态名词＋に＋なる：变成某种状态",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "前に",
+          "zhMeaning": "在……之前",
+          "posZh": "时间表达",
+          "grammarStructureZh": "动词基本形／名词の＋前に：在……之前",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "前に是高置信时间句型；粉々に＋なる表示变化结果"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l008",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "なくてもいい",
+          "zhMeaning": "即使不……也可以",
+          "posZh": "句型",
+          "grammarStructureZh": "动词ない形／い形容词く＋なくてもいい：许可或让步",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "その",
+          "zhMeaning": "那、那个",
+          "posZh": "连体词",
+          "grammarStructureZh": "その＋名词：指示并修饰后面的名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "を",
+          "functionZh": "提示动作对象",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋を：标记伸手所涉及的对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": 0.97,
+      "evidence": [
+        "頼りなくてもいい＝頼りない的く形＋てもいい；その手を为宾语短语"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l009",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "は",
+          "functionZh": "提示主题并形成对比/强调",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋は＋谓语：提出主题",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "の",
+          "functionZh": "所属修饰",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋の＋もの：表示所属或限定",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "もの",
+          "zhMeaning": "东西、事物；……的东西",
+          "posZh": "形式名词",
+          "grammarStructureZh": "名词＋の＋もの：将所属内容名词化",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "さ",
+          "zhMeaning": "啊、呀（语气强调）",
+          "posZh": "终助词",
+          "grammarStructureZh": "句末＋さ：男性口语式断言/强调",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": 0.95,
+      "evidence": [
+        "この手は主题；自分自身のもの表示所属；句末さ为语气终助词"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l010",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "ないはずはない",
+          "zhMeaning": "不可能没有……；按理不会不……",
+          "posZh": "双重否定句型",
+          "grammarStructureZh": "动词ない形＋はずはない：强烈否定可能性",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "よ",
+          "zhMeaning": "啊、呀（提示听者）",
+          "posZh": "终助词",
+          "grammarStructureZh": "句末＋よ：向对方提示或强调信息",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": 0.99,
+      "evidence": [
+        "変わらないはずはない：はずはない固定否定句型；よ为句末提示"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l011",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "を",
+          "functionZh": "提示动作对象",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋を＋伸ばす：标记被伸出的身体部位",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "伸ばして",
+          "zhMeaning": "伸出并、伸出来",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "伸ばす＋て：连接动作或请求语气前接",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": 0.99,
+      "evidence": [
+        "手を伸ばす是固定搭配；て形用于连接/命令歌词表达"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l012",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "の中で",
+          "zhMeaning": "在……之中",
+          "posZh": "助词复合表达",
+          "grammarStructureZh": "名词＋の中で：表示范围或地点",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "で",
+          "functionZh": "表示动作方式/状态",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋で＋动词：表示动作进行的方式或状态",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "泣いている",
+          "zhMeaning": "正在哭泣、一直哭着",
+          "posZh": "动词（ている）",
+          "grammarStructureZh": "动词て形＋いる：表示进行或持续状态",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "雑踏の中で表示地点范围；声無き声で表示以无声之声的方式；泣いている为持续体"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l013",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "が",
+          "functionZh": "提示主语",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋が＋谓语：标记足跡这一主语",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "誰か",
+          "zhMeaning": "某人、谁（不特定）",
+          "posZh": "不定代词",
+          "grammarStructureZh": "疑问词＋か：表示不确定的人或事物",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "を",
+          "functionZh": "提示动作对象",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋を＋消す：标记被消除的对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "消した",
+          "zhMeaning": "消去了、抹去了",
+          "posZh": "动词（た形）",
+          "grammarStructureZh": "消す＋た：过去/完成，修饰后面的朝",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "誰か为疑问词＋か的不定表达；消した朝为过去形作定语"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l014",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "いつになっても",
+          "zhMeaning": "无论什么时候都",
+          "posZh": "让步表达",
+          "grammarStructureZh": "疑问词＋になっても：无论到了什么时候",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "ことのない",
+          "zhMeaning": "从未……的、不曾……的",
+          "posZh": "固定句型",
+          "grammarStructureZh": "动词基本形＋ことのない：没有……的事情/不会……",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": 0.96,
+      "evidence": [
+        "いつになっても是时间让步；枯れることのない为固定否定修饰"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l016",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "何にも",
+          "zhMeaning": "什么也……（与否定呼应）",
+          "posZh": "副词性表达",
+          "grammarStructureZh": "何も＋否定：全面否定对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "で",
+          "functionZh": "表示范围/状态中的场合",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋で：表示在某种世界/状态中",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "何にも变わらない是何も＋否定；で连接世界这一场所/状态"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l017",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "だって",
+          "zhMeaning": "即使是……也；就连……也",
+          "posZh": "助词/提示表达",
+          "grammarStructureZh": "名词＋だって：举出极端例子或加强提示",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "生きてゆくんだ",
+          "zhMeaning": "要活下去啊",
+          "posZh": "动词＋说明语气",
+          "grammarStructureZh": "动词て形＋ゆく：动作向未来持续；のだ口语化为んだ",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "今日だって含だって提示/强调；生きてゆく表示持续向前，んだ为说明语气"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l018",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "けど",
+          "functionZh": "表示转折或铺垫",
+          "posZh": "接续助词",
+          "grammarStructureZh": "普通形＋けど：虽然……但是……/引出后文",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "仕方ない",
+          "zhMeaning": "没办法、无可奈何",
+          "posZh": "固定表达",
+          "grammarStructureZh": "仕方がない的口语省略：表示没有可行办法",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "でしょう",
+          "zhMeaning": "吧、应该……吧",
+          "posZh": "助动词",
+          "grammarStructureZh": "普通形＋でしょう：推测或征求认同",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "けど为转折接续；仕方ない为仕方がない省略；でしょう为推测/确认"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l019",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "は",
+          "functionZh": "提示主题",
+          "posZh": "助词",
+          "grammarStructureZh": "僕らは：提出主题",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "歩き始めた",
+          "zhMeaning": "开始走起来了",
+          "posZh": "复合动词（た形）",
+          "grammarStructureZh": "动词ます形去ます＋始める：开始……；た形表示已发生",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "んだ",
+          "zhMeaning": "啊、是……（说明/强调）",
+          "posZh": "终助表达",
+          "grammarStructureZh": "のだ→んだ：口语说明或强调事实",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": 0.99,
+      "evidence": [
+        "歩き始める是开始体固定复合动词；んだ为のだ的口语形式"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l020",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "みたいな",
+          "zhMeaning": "像……一样的",
+          "posZh": "比况助动表达",
+          "grammarStructureZh": "名词/普通形＋みたいな＋名词：作比喻性定语",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": 0.99,
+      "evidence": [
+        "嘘みたいな、馬鹿みたいな均为みたいな作定语的比况表达"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l021",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "どうしようもない",
+          "zhMeaning": "无可奈何、无药可救",
+          "posZh": "固定句型",
+          "grammarStructureZh": "どう＋しようもない：怎么做都没有办法",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "の",
+          "functionZh": "所属修饰",
+          "posZh": "助词",
+          "grammarStructureZh": "僕らの街：名词＋の＋名词，表示所属/限定",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": 0.99,
+      "evidence": [
+        "どうしようもない为固定惯用句；僕らの街中的の为所属修饰"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l022",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "それでも",
+          "zhMeaning": "即便如此、尽管如此",
+          "posZh": "接续副词",
+          "grammarStructureZh": "それ＋でも：承认前项后转入相反或继续叙述",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": 0.99,
+      "evidence": [
+        "それでも是固定转折连接表达"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l023",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "この",
+          "zhMeaning": "这、这个",
+          "posZh": "连体词",
+          "grammarStructureZh": "この＋名词：指示并修饰名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "で",
+          "functionZh": "表示动作手段/工具",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋で＋动词：表示用某种手段",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "たんだ",
+          "zhMeaning": "了、是……啊（说明）",
+          "posZh": "说明语气",
+          "grammarStructureZh": "た形＋のだ→たんだ：说明已完成事实",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": 0.96,
+      "evidence": [
+        "この眼で/この手で的で表示手段；見えたんだ是过去形＋んだ"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l026",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "みたいだ",
+          "zhMeaning": "像……一样",
+          "posZh": "比况助动表达",
+          "grammarStructureZh": "名词/普通形＋みたいだ：作谓语比喻判断",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": 0.99,
+      "evidence": [
+        "馬鹿みたいだ为みたいだ作谓语的比况表达"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l027",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "どうしようもない",
+          "zhMeaning": "无可奈何、无药可救",
+          "posZh": "固定句型",
+          "grammarStructureZh": "どう＋しようもない：怎么做都没有办法",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "を",
+          "functionZh": "提示动作对象",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋を＋照らす：标记被照亮的对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "どうしようもない固定句；闇を照らす中を标对象"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l029",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "どうせ",
+          "zhMeaning": "反正、终究",
+          "posZh": "副词",
+          "grammarStructureZh": "どうせ＋句子：表示无论如何结果都一样",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "たって",
+          "zhMeaning": "即使……也",
+          "posZh": "接续助词",
+          "grammarStructureZh": "动词た形＋って：口语让步，＝たとえ……ても",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "だって",
+          "zhMeaning": "即使是……也；就连……也",
+          "posZh": "助词/提示表达",
+          "grammarStructureZh": "名词/普通形＋だって：举例强调",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": 0.95,
+      "evidence": [
+        "どうせ为反正；終わってる是口语进行/状态；街だって为提示强调"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l030",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "たって",
+          "zhMeaning": "即使……也",
+          "posZh": "接续助词",
+          "grammarStructureZh": "动词た形＋って：口语让步",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "変わんない",
+          "zhMeaning": "不会改变（变わらない的口语缩约）",
+          "posZh": "动词否定口语形",
+          "grammarStructureZh": "変わらない→変わんない：口语音变",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "ぜ",
+          "zhMeaning": "啊、呀（男性口语强调）",
+          "posZh": "终助词",
+          "grammarStructureZh": "句末＋ぜ：加强断言语气",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "諦めたって为たって让步；変わんない为变わらない口语缩约；ぜ为终助词"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l038",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "の中で",
+          "zhMeaning": "在……之中",
+          "posZh": "助词复合表达",
+          "grammarStructureZh": "名词＋の中で：表示范围/地点",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "ない為の",
+          "zhMeaning": "为了不……",
+          "posZh": "目的表达",
+          "grammarStructureZh": "动词ない形＋ための＋名词：为了不发生某事而……",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": 0.96,
+      "evidence": [
+        "永遠の中で为范围；迷わない為の温もり为否定目的定语"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l040",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "ことなく",
+          "zhMeaning": "不……而；没有……就",
+          "posZh": "书面固定句型",
+          "grammarStructureZh": "动词基本形＋ことなく：不做前项而进行后项",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "てゆく",
+          "zhMeaning": "逐渐……下去、向前……",
+          "posZh": "补助动词",
+          "grammarStructureZh": "动词て形＋ゆく：动作向未来持续变化",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "届くことなく为ことなく；散ってゆく为てゆく"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l041",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "通り",
+          "zhMeaning": "按照……、如同……",
+          "posZh": "形式名词/句型",
+          "grammarStructureZh": "名词の／动词普通形＋通り：按照前项",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "はずはない",
+          "zhMeaning": "不可能……",
+          "posZh": "固定否定句型",
+          "grammarStructureZh": "普通形＋はずはない：强烈否定可能性",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "想像通り是按照想象；そんなはずはない为固定强否定"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l042",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "りゃ",
+          "zhMeaning": "如果……的话（口语缩约）",
+          "posZh": "条件表达",
+          "grammarStructureZh": "れば→りゃ：ば形口语缩约",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "いいでしょう",
+          "zhMeaning": "可以了吧、应该可以吧",
+          "posZh": "句型",
+          "grammarStructureZh": "动词ば形＋いい：表示建议/许可；でしょう表推测确认",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": 0.97,
+      "evidence": [
+        "逃げりゃ＝逃げれば的口语缩约；いいでしょう为建议/确认"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l043",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "簡単に",
+          "zhMeaning": "轻易地、简单地",
+          "posZh": "形容动词连用形",
+          "grammarStructureZh": "簡単だ→簡単に：修饰动词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "ないで",
+          "zhMeaning": "不要……；不做……而",
+          "posZh": "接续表达",
+          "grammarStructureZh": "动词ない形＋で：禁止或不做前项而做后项",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": 0.99,
+      "evidence": [
+        "簡単に言わないで是な形容词连用形＋ないで"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l046",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "たら",
+          "zhMeaning": "如果……的话；当……时",
+          "posZh": "接续助词",
+          "grammarStructureZh": "动词た形＋ら：条件或先后",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "でやろう",
+          "zhMeaning": "我来……吧、要不要……",
+          "posZh": "句型",
+          "grammarStructureZh": "动词て形＋やる：为对方做；意志形作提议",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": 0.95,
+      "evidence": [
+        "滑り落ちたら为たら条件；掴んでやろう为てやる＋意志形"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l047",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "の",
+          "functionZh": "所属修饰",
+          "posZh": "助词",
+          "grammarStructureZh": "灰色の空：名词＋の＋名词，表示属性限定",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "で",
+          "functionZh": "表示范围/场合",
+          "posZh": "助词",
+          "grammarStructureZh": "その中で：表示在某范围中",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "を",
+          "functionZh": "提示动作对象",
+          "posZh": "助词",
+          "grammarStructureZh": "青さを＋闪耀：标记被使其闪耀的对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": 0.96,
+      "evidence": [
+        "灰色の空、其の中で、青さを均为标准格助词用法"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l066",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "次第で",
+          "zhMeaning": "取决于……；根据……",
+          "posZh": "固定表达",
+          "grammarStructureZh": "名词＋次第で：结果因前项而定",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "次第さ",
+          "zhMeaning": "全看……啊",
+          "posZh": "固定表达＋终助词",
+          "grammarStructureZh": "名词＋次第＋さ：强调取决于前项",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": 0.99,
+      "evidence": [
+        "君次第で／僕次第さ中的次第で表示取决于，さ为句末强调"
+      ],
+      "changesTokenStructure": true
+    }
+  ],
+  "rebasedFrom": "project/proposals/grammar.json.stale-after-metadata-filter"
+}

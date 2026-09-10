@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "decoder": {
+    "name": "local-qrc-regex",
+    "entry": "project/render/setup_stage2.py",
+    "inputDecoder": "C:/project/musicjlpt/decode_qrc_file.mjs"
+  },
+  "sources": {
+    "lyrics_qm.qrc": "ca447aee7b55a061d5a056d8f1aeb04e5df36f8d750a0aedd00e5f147c1e4deb",
+    "lyrics_qmRoma.qrc": "7bffb6eb96cf43c3845a7326ce8b5d2b0fcd287c5a79eb02ff88538fdf94e0b2",
+    "lyrics_qmts.qrc": "c53bbc2e40c31bc88a7b90a5c40855c4658b4cceef64958e91ce378b31ca00e4"
+  },
+  "counts": {
+    "qm": 71,
+    "roma": 69,
+    "translation": 67,
+    "frameShells": 67
+  },
+  "timeRangeMs": {
+    "start": 691,
+    "end": 268793
+  },
+  "usableTiming": {
+    "japanese": "word",
+    "romaji": "word",
+    "translation": "line"
+  },
+  "validation": "passed"
+}

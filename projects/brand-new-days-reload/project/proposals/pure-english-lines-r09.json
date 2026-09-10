@@ -1,0 +1,118 @@
+{
+  "runId": "20260817-r09-pure-english-fix",
+  "action": "insert missing pure-English QRC rows",
+  "addedFrames": [
+    {
+      "id": "en-38088",
+      "startMs": 38088,
+      "endMs": 39576,
+      "caption": {
+        "japanese": "(All over my sight)",
+        "furigana": [],
+        "romaji": "",
+        "translationZh": ""
+      },
+      "grammarCards": [],
+      "analysisStatus": "human-confirmed-english-line",
+      "provenance": "QQ Music QM pure-English row; user-approved structural repair"
+    },
+    {
+      "id": "en-52438",
+      "startMs": 52438,
+      "endMs": 54046,
+      "caption": {
+        "japanese": "(It's over my blind)",
+        "furigana": [],
+        "romaji": "",
+        "translationZh": ""
+      },
+      "grammarCards": [],
+      "analysisStatus": "human-confirmed-english-line",
+      "provenance": "QQ Music QM pure-English row; user-approved structural repair"
+    },
+    {
+      "id": "en-124726",
+      "startMs": 124726,
+      "endMs": 126287,
+      "caption": {
+        "japanese": "(We told you so long)",
+        "furigana": [],
+        "romaji": "",
+        "translationZh": ""
+      },
+      "grammarCards": [],
+      "analysisStatus": "human-confirmed-english-line",
+      "provenance": "QQ Music QM pure-English row; user-approved structural repair"
+    },
+    {
+      "id": "en-139138",
+      "startMs": 139138,
+      "endMs": 140738,
+      "caption": {
+        "japanese": "(You told me what's wrong)",
+        "furigana": [],
+        "romaji": "",
+        "translationZh": ""
+      },
+      "grammarCards": [],
+      "analysisStatus": "human-confirmed-english-line",
+      "provenance": "QQ Music QM pure-English row; user-approved structural repair"
+    },
+    {
+      "id": "en-172139",
+      "startMs": 172139,
+      "endMs": 174222,
+      "caption": {
+        "japanese": "I'll lead the brand new days",
+        "furigana": [],
+        "romaji": "",
+        "translationZh": ""
+      },
+      "grammarCards": [],
+      "analysisStatus": "human-confirmed-english-line",
+      "provenance": "QQ Music QM pure-English row; user-approved structural repair"
+    },
+    {
+      "id": "en-240187",
+      "startMs": 240187,
+      "endMs": 241723,
+      "caption": {
+        "japanese": "(It's all up to you)",
+        "furigana": [],
+        "romaji": "",
+        "translationZh": ""
+      },
+      "grammarCards": [],
+      "analysisStatus": "human-confirmed-english-line",
+      "provenance": "QQ Music QM pure-English row; user-approved structural repair"
+    },
+    {
+      "id": "en-254505",
+      "startMs": 254505,
+      "endMs": 256435,
+      "caption": {
+        "japanese": "(So look up to you)",
+        "furigana": [],
+        "romaji": "",
+        "translationZh": ""
+      },
+      "grammarCards": [],
+      "analysisStatus": "human-confirmed-english-line",
+      "provenance": "QQ Music QM pure-English row; user-approved structural repair"
+    },
+    {
+      "id": "en-316440",
+      "startMs": 316440,
+      "endMs": 319417,
+      "caption": {
+        "japanese": "I'll lead the brand new days",
+        "furigana": [],
+        "romaji": "",
+        "translationZh": ""
+      },
+      "grammarCards": [],
+      "analysisStatus": "human-confirmed-english-line",
+      "provenance": "QQ Music QM pure-English row; user-approved structural repair"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 3,
+  "slug": "silhouette-dance",
+  "runId": "20260819-native-fps-v2",
+  "music": { "asset": "source/music.flac", "codec": "flac", "sampleRate": 96000, "channels": 2, "losslessRequired": true },
+  "cover": { "asset": "source/cover.jpg", "origin": "embedded artwork from music" },
+  "lyrics": {
+    "format": "qq-music",
+    "qm": "source/lyrics_qm.qrc",
+    "qmRoma": "source/lyrics_qmRoma.qrc",
+    "qmts": "source/lyrics_qmts.qrc"
+  },
+  "outputs": [
+    {
+      "name": "16x9-lossless-native-fps",
+      "width": 1920,
+      "height": 1080,
+      "fps": 23.976023976,
+      "fpsRatio": "24000/1001",
+      "videoCodec": "h264",
+      "audioCodec": "flac",
+      "container": "mkv",
+      "motionConversion": "none; preserve frozen MV native frame cadence"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "output": "deliverables/final/dare-ni-mo-narenai-watashi-dakara-v3--16x9--episode-intro-corrected-r2.mkv",
+  "outputSha256": "abecaec9ab17e979a3ea798a620de14a5443610de37b06294a98732bd0f405c8",
+  "qaReport": "project/qa/episode-intro-corrected-r2/qa-report.json",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "30/1",
+        "bits_per_raw_sample": "8"
+      },
+      {
+        "codec_name": "flac",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "r_frame_rate": "0/0",
+        "bits_per_raw_sample": "16"
+      }
+    ],
+    "format": {
+      "duration": "199.733000"
+    }
+  }
+}

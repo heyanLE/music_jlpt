@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "scope": "ha-particle-pronunciation",
+  "source": "current frames and QQ Music romaji timing",
+  "evidence": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kakuki/03/tosin03/index.html",
+  "changes": [
+    { "frameId": "l004", "token": "躓いては", "field": "romaji", "old": "chi iteha", "new": "tsumazuitewa", "reason": "The final は is a topic particle and is pronounced wa; the prior value also omitted the lexical verb." },
+    { "frameId": "l013", "token": "は", "field": "romaji", "old": "ha", "new": "wa", "reason": "Topic particle." },
+    { "frameId": "l034", "token": "は", "field": "romaji", "old": "ha", "new": "wa", "reason": "Topic particle." },
+    { "frameId": "l046", "token": "は", "field": "romaji", "old": "ha", "new": "wa", "reason": "Topic particle." }
+  ],
+  "userWording": "里面有些は应该读wa，写成ha，联网判断需要改的地方"
+}

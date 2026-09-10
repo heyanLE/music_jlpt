@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "runId": "20260821-r01-lossless-flac",
+  "canvas": { "width": 1920, "height": 1080, "fps": 30, "cfr": true },
+  "clock": { "owner": "audio", "offsetMs": 0, "durationMs": 218533 },
+  "background": { "asset": "source/background.mp4", "mode": "video-loop", "sourceAudio": "mute", "fit": "height-center-pillarbox" },
+  "foreground": { "frames": "project/frames.json", "veil": "#000000 @ 0.28, lyric-only", "cards": "magic accent @ 0.50", "highlight": "full QRC word timing", "textOutline": "black exterior" },
+  "audio": { "asset": "source/music.flac", "codec": "copy", "container": "mkv", "reencode": false },
+  "candidateOutput": "project/work/20260821-r01-lossless-flac/mayocchauwa--16x9--20260821-r01-lossless-flac.mkv",
+  "finalOutput": "deliverables/final/mayocchauwa--16x9--20260821-r01-lossless-flac.mkv"
+}

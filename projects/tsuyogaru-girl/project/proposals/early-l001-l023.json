@@ -1,0 +1,193 @@
+{
+  "status": "user-approved-not-merged",
+  "scope": "l001-l023",
+  "translationPolicy": "QMTS only; no translation changes in this proposal",
+  "frames": {
+    "l001": {
+      "cards": [
+        {"token":"負け","reading":"まけ","romaji":"make","zhMeaning":"失败、输掉","posZh":"动词（连用形）"}
+      ],
+      "furigana": [{"base":"負","reading":"ま"}],
+      "romaji": "make ke ke ke ke ke"
+    },
+    "l002": {
+      "cards": [
+        {"token":"つよがる","reading":"つよがる","romaji":"tsuyogaru","zhMeaning":"逞强、故作坚强","posZh":"动词（五段）"},
+        {"token":"ガール","reading":"ガール","romaji":"gāru","zhMeaning":"女孩","posZh":"名词","sourceWord":"girl"}
+      ],
+      "furigana": [],
+      "romaji": "tsuyogaru gāru"
+    },
+    "l003": {
+      "cards": [
+        {"token":"モブキャラ","reading":"モブキャラ","romaji":"mobukyara","zhMeaning":"路人角色","posZh":"名词","sourceWord":"mob character"},
+        {"token":"視点","reading":"してん","romaji":"shiten","zhMeaning":"视角","posZh":"名词"},
+        {"token":"の","reading":"の","romaji":"no","functionZh":"连接前后名词，表示所属或修饰","posZh":"格助词"},
+        {"token":"日々","reading":"ひび","romaji":"hibi","zhMeaning":"每一天、日日","posZh":"名词"},
+        {"token":"は","reading":"は","romaji":"wa","functionZh":"提示主题","posZh":"系助词"}
+      ],
+      "furigana": [{"base":"視点","reading":"してん"},{"base":"日々","reading":"ひび"}],
+      "romaji": "mobukyara shiten no hibi wa"
+    },
+    "l004": {
+      "cards": [
+        {"token":"騒がし","reading":"さわがし","romaji":"sawagashi","zhMeaning":"吵闹的","posZh":"形容词词干"},
+        {"token":"すぎて","reading":"すぎて","romaji":"sugite","zhMeaning":"过于……而……","posZh":"补助动词（て形）"},
+        {"token":"青春","reading":"せいしゅん","romaji":"seishun","zhMeaning":"青春","posZh":"名词"},
+        {"token":"大戦争","reading":"だいせんそう","romaji":"daisensō","zhMeaning":"大战","posZh":"名词"}
+      ],
+      "furigana": [{"base":"騒","reading":"さわ"},{"base":"青春","reading":"せいしゅん"},{"base":"大戦争","reading":"だいせんそう"}],
+      "romaji": "sawagashi sugite seishun daisensō"
+    },
+    "l005": {
+      "cards": [
+        {"token":"ご縁","reading":"ごえん","romaji":"goen","zhMeaning":"缘分","posZh":"名词"},
+        {"token":"が","reading":"が","romaji":"ga","functionZh":"标示主语","posZh":"格助词"},
+        {"token":"ない","reading":"ない","romaji":"nai","zhMeaning":"没有","posZh":"形容词"},
+        {"token":"間違いない","reading":"まちがいない","romaji":"machigai nai","zhMeaning":"确实无误、毋庸置疑","posZh":"固定表达"}
+      ],
+      "furigana": [{"base":"縁","reading":"えん"},{"base":"間違","reading":"まちが"}],
+      "romaji": "goen ga nai machigai nai"
+    },
+    "l006": {
+      "cards": [
+        {"token":"ヒーロー","reading":"ヒーロー","romaji":"hīrō","zhMeaning":"英雄","posZh":"名词","sourceWord":"hero"},
+        {"token":"じゃない","reading":"じゃない","romaji":"ja nai","zhMeaning":"不是","posZh":"助动词（だ的否定口语形）"},
+        {"token":"から","reading":"から","romaji":"kara","functionZh":"说明原因、理由","posZh":"接续助词"}
+      ],
+      "furigana": [],
+      "romaji": "hīrō ja nai kara"
+    },
+    "l007": {
+      "cards": [
+        {"token":"天然由来","reading":"てんねんゆらい","romaji":"tennen yurai","zhMeaning":"天然来源的","posZh":"名词"},
+        {"token":"の","reading":"の","romaji":"no","functionZh":"连接前后名词，表示修饰","posZh":"格助词"},
+        {"token":"プリンセス","reading":"プリンセス","romaji":"purinsesu","zhMeaning":"公主","posZh":"名词","sourceWord":"princess"}
+      ],
+      "furigana": [{"base":"天然由来","reading":"てんねんゆらい"}],
+      "romaji": "tennen yurai no purinsesu"
+    },
+    "l008": {
+      "cards": [
+        {"token":"今日","reading":"きょう","romaji":"kyō","zhMeaning":"今天","posZh":"名词"},
+        {"token":"も","reading":"も","romaji":"mo","functionZh":"添加、也","posZh":"系助词"},
+        {"token":"あっちこっち","reading":"あっちこっち","romaji":"acchi kocchi","zhMeaning":"到处、这里那里","posZh":"副词"},
+        {"token":"敗北群像劇","reading":"はいぼくぐんぞうげき","romaji":"haiboku gunzōgeki","zhMeaning":"失败者群像剧","posZh":"名词（复合／歌词造语）"}
+      ],
+      "furigana": [{"base":"今日","reading":"きょう"},{"base":"敗北群像劇","reading":"はいぼくぐんぞうげき"}],
+      "romaji": "kyō mo acchi kocchi haiboku gunzōgeki"
+    },
+    "l009": {
+      "cards": [
+        {"token":"ドキドキ","reading":"ドキドキ","romaji":"dokidoki","zhMeaning":"心跳怦怦","posZh":"副词／拟声词"},
+        {"token":"して","reading":"して","romaji":"shite","zhMeaning":"做着、处于……状态","posZh":"动词（する的て形）"},
+        {"token":"ズキズキ","reading":"ズキズキ","romaji":"zukizuki","zhMeaning":"一阵阵刺痛","posZh":"副词／拟声词"},
+        {"token":"する","reading":"する","romaji":"suru","zhMeaning":"做、产生","posZh":"动词（サ变）"}
+      ],
+      "furigana": [],
+      "romaji": "dokidoki shite zukizuki suru"
+    },
+    "l010": {
+      "cards": [
+        {"token":"叶わぬ","reading":"かなわぬ","romaji":"kanawanu","zhMeaning":"无法实现的","posZh":"动词否定（文语）"},
+        {"token":"恋","reading":"こい","romaji":"koi","zhMeaning":"恋情","posZh":"名词"},
+        {"token":"よ","reading":"よ","romaji":"yo","functionZh":"呼唤、强调感叹","posZh":"终助词"}
+      ],
+      "furigana": [{"base":"叶","reading":"かな"}],
+      "romaji": "kanawanu koi yo"
+    },
+    "l011": {"cards":[{"token":"ぐるぐる","reading":"ぐるぐる","romaji":"guruguru","zhMeaning":"不停旋转、团团转","posZh":"副词／拟态词"}],"furigana":[],"romaji":"guruguru guruguru"},
+    "l012": {"cards":[{"token":"ぐるぐる","reading":"ぐるぐる","romaji":"guruguru","zhMeaning":"不停旋转、团团转","posZh":"副词／拟态词"}],"furigana":[],"romaji":"guruguru guruguru"},
+    "l013": {
+      "cards": [
+        {"token":"頭","reading":"あたま","romaji":"atama","zhMeaning":"头、脑海","posZh":"名词"},
+        {"token":"の","reading":"の","romaji":"no","functionZh":"连接前后名词，表示所属／内容","posZh":"格助词"},
+        {"token":"中","reading":"なか","romaji":"naka","zhMeaning":"里面、当中","posZh":"名词"},
+        {"token":"意味不明","reading":"いみふめい","romaji":"imi fumei","zhMeaning":"莫名其妙、意义不明","posZh":"名词／形容动词"},
+        {"token":"で","reading":"で","romaji":"de","functionZh":"连接前后状态、原因或后续叙述","posZh":"助动词（だ的连用形）"}
+      ],
+      "furigana": [{"base":"頭","reading":"あたま"},{"base":"中","reading":"なか"},{"base":"意味不明","reading":"いみふめい"}],
+      "romaji": "atama no naka imi fumei de"
+    },
+    "l014": {"cards":[{"token":"ぐるぐる","reading":"ぐるぐる","romaji":"guruguru","zhMeaning":"不停旋转、团团转","posZh":"副词／拟态词"}],"furigana":[],"romaji":"guruguru guruguru"},
+    "l015": {"cards":[{"token":"ぐるぐる","reading":"ぐるぐる","romaji":"guruguru","zhMeaning":"不停旋转、团团转","posZh":"副词／拟态词"}],"furigana":[],"romaji":"guruguru guruguru"},
+    "l016": {
+      "cards": [
+        {"token":"謎","reading":"なぞ","romaji":"nazo","zhMeaning":"谜、不可解之处","posZh":"名词"},
+        {"token":"に","reading":"に","romaji":"ni","functionZh":"使名词作状语，表示状态／方式","posZh":"格助词"},
+        {"token":"走りたく","reading":"はしりたく","romaji":"hashiritaku","zhMeaning":"想跑（走りたい的连用形）","posZh":"动词＋希望助动词"},
+        {"token":"なって","reading":"なって","romaji":"natte","zhMeaning":"变得、成为","posZh":"动词（なる的て形）"}
+      ],
+      "furigana": [{"base":"謎","reading":"なぞ"},{"base":"走","reading":"はし"}],
+      "romaji": "nazo ni hashiritaku natte"
+    },
+    "l017": {
+      "cards": [
+        {"token":"涙","reading":"なみだ","romaji":"namida","zhMeaning":"泪水","posZh":"名词"},
+        {"token":"が","reading":"が","romaji":"ga","functionZh":"标示主语","posZh":"格助词"},
+        {"token":"こぼれる","reading":"こぼれる","romaji":"koboreru","zhMeaning":"洒落、流出","posZh":"动词（一段）"},
+        {"token":"まで","reading":"まで","romaji":"made","functionZh":"表示持续的终点“直到……”","posZh":"副助词"}
+      ],
+      "furigana": [{"base":"涙","reading":"なみだ"}],
+      "romaji": "namida ga koboreru made"
+    },
+    "l018": {
+      "cards": [
+        {"token":"歯","reading":"は","romaji":"ha","zhMeaning":"牙齿","posZh":"名词"},
+        {"token":"を","reading":"を","romaji":"o","functionZh":"标示动作对象","posZh":"格助词"},
+        {"token":"食いしばって","reading":"くいしばって","romaji":"kuishibatte","zhMeaning":"咬紧、紧咬着","posZh":"动词（て形）"},
+        {"token":"食いしばって","reading":"くいしばって","romaji":"kuishibatte","zhMeaning":"咬紧、紧咬着","posZh":"动词（て形）"}
+      ],
+      "furigana": [{"base":"歯","reading":"は"},{"base":"食","reading":"く","occurrence":1},{"base":"食","reading":"く","occurrence":2}],
+      "romaji": "ha o kuishibatte kuishibatte"
+    },
+    "l019": {
+      "cards": [
+        {"token":"ピース","reading":"ピース","romaji":"pīsu","zhMeaning":"比出剪刀手","posZh":"名词","sourceWord":"peace"},
+        {"token":"して","reading":"して","romaji":"shite","zhMeaning":"做着","posZh":"动词（する的て形）"}
+      ],
+      "furigana": [],
+      "romaji": "pīsu shite"
+    },
+    "l020": {
+      "cards": [
+        {"token":"そう","reading":"そう","romaji":"sō","zhMeaning":"那样、如此","posZh":"副词"},
+        {"token":"さ","reading":"さ","romaji":"sa","functionZh":"加强断言、提醒听者","posZh":"终助词"},
+        {"token":"何度も","reading":"なんども","romaji":"nando mo","zhMeaning":"无论多少次、一次又一次","posZh":"副词性短语"},
+        {"token":"何度も","reading":"なんども","romaji":"nando mo","zhMeaning":"无论多少次、一次又一次","posZh":"副词性短语"},
+        {"token":"負けて","reading":"まけて","romaji":"makete","zhMeaning":"输掉、失败了","posZh":"动词（て形）"},
+        {"token":"やれ","reading":"やれ","romaji":"yare","zhMeaning":"去做吧、尽管去……吧","posZh":"动词（やる的命令形）"}
+      ],
+      "furigana": [{"base":"何度","reading":"なんど","occurrence":1},{"base":"何度","reading":"なんど","occurrence":2},{"base":"負","reading":"ま"}],
+      "romaji": "sō sa nando mo nando mo makete yare"
+    },
+    "l021": {
+      "cards": [
+        {"token":"涙","reading":"なみだ","romaji":"namida","zhMeaning":"泪水","posZh":"名词"},
+        {"token":"そのたび","reading":"そのたび","romaji":"sono tabi","zhMeaning":"每当那时、每一次","posZh":"名词性短语"},
+        {"token":"強く","reading":"つよく","romaji":"tsuyoku","zhMeaning":"强烈地、坚强地","posZh":"形容词（く形）"},
+        {"token":"なる","reading":"なる","romaji":"naru","zhMeaning":"变得、成为","posZh":"动词（五段）"}
+      ],
+      "furigana": [{"base":"涙","reading":"なみだ"},{"base":"強","reading":"つよ"}],
+      "romaji": "namida sono tabi tsuyoku naru"
+    },
+    "l022": {
+      "cards": [
+        {"token":"きっと","reading":"きっと","romaji":"kitto","zhMeaning":"一定、必定","posZh":"副词"},
+        {"token":"いつか","reading":"いつか","romaji":"itsuka","zhMeaning":"总有一天","posZh":"副词"},
+        {"token":"は","reading":"は","romaji":"wa","functionZh":"提示主题并强调时间条件","posZh":"系助词"},
+        {"token":"いつか","reading":"いつか","romaji":"itsuka","zhMeaning":"总有一天","posZh":"副词"},
+        {"token":"は","reading":"は","romaji":"wa","functionZh":"提示主题并强调时间条件","posZh":"系助词"}
+      ],
+      "furigana": [],
+      "romaji": "kitto itsuka wa itsuka wa"
+    },
+    "l023": {
+      "cards": [
+        {"token":"ハッピーエンド","reading":"ハッピーエンド","romaji":"happī endo","zhMeaning":"圆满结局","posZh":"名词","sourceWord":"happy end"}
+      ],
+      "furigana": [],
+      "romaji": "happī endo"
+    }
+  }
+}

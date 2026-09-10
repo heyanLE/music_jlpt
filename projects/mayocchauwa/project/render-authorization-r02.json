@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "authorizedAt": "2026-08-21",
+  "userWording": "歌词不要在句内换气时消失，并在前后增加保护时间，方便跟唱",
+  "framesSha256": "976bf70a8c3bebe3aba12066002e0ecdad640f81ff677835af7b3b6a52612428",
+  "presentationSha256": "fe75c697bcf9c6f55428b371193b6959547b41d7abd3f1b518b902fddabfcd84",
+  "outputPolicy": { "container": "mkv", "audioCodec": "copy", "sourceAudio": "source/music.flac", "lossless": true }
+}

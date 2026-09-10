@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "candidate": "C:\\project\\musicjlpt\\projects\\kara-no-hako\\project\\work\\round2-approved-r1\\16x9\\kara-no-hako--16x9--round2-approved-r1.mkv",
+  "candidateSha256": "3d7dd8b0922acbc57c8df2d244d2ee7f4671b53a0323947757ff9b9ecef4d70d",
+  "activeHashes": {
+    "inputManifest": "ff8583e5a1297be774bdc1abe1bdf354b1b4cd4e1b16cd152ee27e1ef0421fa7",
+    "presentation": "6b1d635e98a113e2ebcd50cf859ca9d5008eadcce68289cf37dea93277f4834b",
+    "sceneTimeline": "4a411e54d5e6145108c5c5807639ca9fb1c84a45adc164b31d91f484b24e2ed1",
+    "frames": "fa9e1b1219c019d38510c2040614aa3ba65cbf6c3ac201708d89f8e78e30881c"
+  },
+  "layers": [
+    "background",
+    "foreground",
+    "floatingOverlay"
+  ],
+  "scenes": [
+    {
+      "id": "stage1-video",
+      "startMs": 0,
+      "endMs": 96114,
+      "mode": "video-clip",
+      "asset": "source/background.mp4",
+      "fit": "height-center-pillarbox",
+      "sourceAudio": "mute",
+      "foregroundMode": "follow-lyrics",
+      "transitionIn": {
+        "kind": "none",
+        "durationMs": 0,
+        "scope": "background-only"
+      },
+      "transitionOut": {
+        "kind": "black-fade",
+        "durationMs": 500,
+        "scope": "background-only"
+      }
+    },
+    {
+      "id": "stage2-cover-gaussian",
+      "startMs": 96114,
+      "endMs": "audio-end",
+      "mode": "cover-gaussian",
+      "asset": "source/cover.jpg",
+      "foregroundMode": "persistent",
+      "transitionIn": {
+        "kind": "black-fade",
+        "durationMs": 500,
+        "scope": "background-only"
+      },
+      "transitionOut": {
+        "kind": "none",
+        "durationMs": 0,
+        "scope": "background-only"
+      }
+    }
+  ],
+  "foregroundDefaultMode": "follow-lyrics",
+  "durationMs": 183844,
+  "offsetMs": 0,
+  "audioCodecPolicy": "stream-copy",
+  "foregroundTimeline": {
+    "full": 45,
+    "adjacentRows": 0,
+    "lineFallback": 0,
+    "unmatched": 0,
+    "blankSegments": 3,
+    "neutralSegments": 26,
+    "activeSegments": 481
+  }
+}

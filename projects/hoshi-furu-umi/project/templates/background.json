@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "id": "resolved-video-then-gaussian-hybrid",
+  "owns": "background-only",
+  "sourceTemplate": "templates/background/pipeline-presets-v1.json",
+  "segments": [
+    {
+      "id": "stage1-video",
+      "startMs": 0,
+      "endMs": 154100,
+      "mode": "video-clip",
+      "asset": "source/background.mp4",
+      "fit": "height-center-pillarbox",
+      "sourceAudio": "mute",
+      "foregroundMode": "follow-lyrics",
+      "transitionIn": {
+        "kind": "none",
+        "durationMs": 0,
+        "scope": "background-only"
+      },
+      "transitionOut": {
+        "kind": "black-fade",
+        "durationMs": 500,
+        "scope": "background-only"
+      }
+    },
+    {
+      "id": "stage2-cover-gaussian",
+      "startMs": 154100,
+      "endMs": "audio-end",
+      "mode": "cover-gaussian",
+      "asset": "source/cover.jpg",
+      "foregroundMode": "persistent",
+      "transitionIn": {
+        "kind": "black-fade",
+        "durationMs": 500,
+        "scope": "background-only"
+      },
+      "transitionOut": {
+        "kind": "none",
+        "durationMs": 0,
+        "scope": "background-only"
+      }
+    }
+  ]
+}

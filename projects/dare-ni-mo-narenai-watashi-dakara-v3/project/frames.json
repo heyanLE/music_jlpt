@@ -1,0 +1,6350 @@
+{
+  "schemaVersion": 3,
+  "frames": [
+    {
+      "id": "l006",
+      "startMs": 13184,
+      "endMs": 15724,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "誰かに染まれない 誰にもなれない",
+          "qrcParts": [
+            {
+              "text": "誰",
+              "startMs": 13184,
+              "endMs": 13464,
+              "durationMs": 280
+            },
+            {
+              "text": "か",
+              "startMs": 13464,
+              "endMs": 13584,
+              "durationMs": 120
+            },
+            {
+              "text": "に",
+              "startMs": 13584,
+              "endMs": 13754,
+              "durationMs": 170
+            },
+            {
+              "text": "染",
+              "startMs": 13754,
+              "endMs": 13954,
+              "durationMs": 200
+            },
+            {
+              "text": "ま",
+              "startMs": 13954,
+              "endMs": 14064,
+              "durationMs": 110
+            },
+            {
+              "text": "れ",
+              "startMs": 14064,
+              "endMs": 14194,
+              "durationMs": 130
+            },
+            {
+              "text": "な",
+              "startMs": 14194,
+              "endMs": 14374,
+              "durationMs": 180
+            },
+            {
+              "text": "い",
+              "startMs": 14374,
+              "endMs": 14494,
+              "durationMs": 120
+            },
+            {
+              "text": " ",
+              "startMs": 14494,
+              "endMs": 14494,
+              "durationMs": 0
+            },
+            {
+              "text": "誰",
+              "startMs": 14494,
+              "endMs": 14734,
+              "durationMs": 240
+            },
+            {
+              "text": "に",
+              "startMs": 14734,
+              "endMs": 14844,
+              "durationMs": 110
+            },
+            {
+              "text": "も",
+              "startMs": 14844,
+              "endMs": 15044,
+              "durationMs": 200
+            },
+            {
+              "text": "な",
+              "startMs": 15044,
+              "endMs": 15284,
+              "durationMs": 240
+            },
+            {
+              "text": "れ",
+              "startMs": 15284,
+              "endMs": 15384,
+              "durationMs": 100
+            },
+            {
+              "text": "な",
+              "startMs": 15384,
+              "endMs": 15634,
+              "durationMs": 250
+            },
+            {
+              "text": "い",
+              "startMs": 15634,
+              "endMs": 15724,
+              "durationMs": 90
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "誰かに染まれない 誰にもなれない",
+        "furigana": [
+          {
+            "base": "誰",
+            "reading": "だれ",
+            "start": 0,
+            "end": 1
+          },
+          {
+            "base": "染",
+            "reading": "そ",
+            "start": 3,
+            "end": 4
+          },
+          {
+            "base": "誰",
+            "reading": "だれ",
+            "start": 9,
+            "end": 10
+          }
+        ],
+        "romaji": "dareka ni somarenai darenimo narenai",
+        "translationZh": "无法染上任何人的色彩，也无法成为任何人"
+      },
+      "grammarCards": [
+        {
+          "token": "誰か",
+          "reading": "だれか",
+          "romaji": "dare ka",
+          "posZh": "不定代词",
+          "grammarStructureZh": "不定代词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "某人",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "に",
+          "reading": "に",
+          "romaji": "ni",
+          "posZh": "格助词",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "提示染上色彩的来源",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "染まれない",
+          "reading": "そまれない",
+          "romaji": "soma re nai",
+          "posZh": "动词（可能否定）",
+          "grammarStructureZh": "动词（可能否定）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "无法染上；无法沾染",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "誰にも",
+          "reading": "だれにも",
+          "romaji": "dare ni mo",
+          "posZh": "疑问代词＋に＋も（否定呼应）",
+          "grammarStructureZh": "疑问代词＋に＋も（否定呼应）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "任何人也不；谁也不",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "なれない",
+          "reading": "なれない",
+          "romaji": "nare nai",
+          "posZh": "动词（可能否定）",
+          "grammarStructureZh": "动词（可能否定）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "无法成为",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l007",
+      "startMs": 16444,
+      "endMs": 18834,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "夢だと思って 笑ってみせた",
+          "qrcParts": [
+            {
+              "text": "夢",
+              "startMs": 16444,
+              "endMs": 16684,
+              "durationMs": 240
+            },
+            {
+              "text": "だ",
+              "startMs": 16684,
+              "endMs": 16804,
+              "durationMs": 120
+            },
+            {
+              "text": "と",
+              "startMs": 16804,
+              "endMs": 17034,
+              "durationMs": 230
+            },
+            {
+              "text": "思",
+              "startMs": 17034,
+              "endMs": 17044,
+              "durationMs": 10
+            },
+            {
+              "text": "っ",
+              "startMs": 17044,
+              "endMs": 17284,
+              "durationMs": 240
+            },
+            {
+              "text": "て",
+              "startMs": 17284,
+              "endMs": 17604,
+              "durationMs": 320
+            },
+            {
+              "text": " ",
+              "startMs": 17604,
+              "endMs": 17604,
+              "durationMs": 0
+            },
+            {
+              "text": "笑",
+              "startMs": 17604,
+              "endMs": 17774,
+              "durationMs": 170
+            },
+            {
+              "text": "っ",
+              "startMs": 17774,
+              "endMs": 17954,
+              "durationMs": 180
+            },
+            {
+              "text": "て",
+              "startMs": 17954,
+              "endMs": 18184,
+              "durationMs": 230
+            },
+            {
+              "text": "み",
+              "startMs": 18184,
+              "endMs": 18384,
+              "durationMs": 200
+            },
+            {
+              "text": "せ",
+              "startMs": 18384,
+              "endMs": 18534,
+              "durationMs": 150
+            },
+            {
+              "text": "た",
+              "startMs": 18534,
+              "endMs": 18834,
+              "durationMs": 300
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "夢だと思って 笑ってみせた",
+        "furigana": [
+          {
+            "base": "夢",
+            "reading": "ゆめ",
+            "start": 0,
+            "end": 1
+          },
+          {
+            "base": "思",
+            "reading": "おも",
+            "start": 3,
+            "end": 4
+          },
+          {
+            "base": "笑",
+            "reading": "わら",
+            "start": 7,
+            "end": 8
+          }
+        ],
+        "romaji": "yume da to omotte waratte miseta",
+        "translationZh": "把这一切当作一场梦，故作笑颜"
+      },
+      "grammarCards": [
+        {
+          "token": "夢",
+          "reading": "ゆめ",
+          "romaji": "yume",
+          "posZh": "名词",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "梦",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "だ",
+          "reading": "だ",
+          "romaji": "da",
+          "posZh": "断定助动词",
+          "grammarStructureZh": "断定助动词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "是",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "と",
+          "reading": "と",
+          "romaji": "to",
+          "posZh": "格助词",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "提示引用内容",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "思って",
+          "reading": "おもって",
+          "romaji": "omotte",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "动词（て形）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "认为；当作",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "笑ってみせた",
+          "reading": "わらってみせた",
+          "romaji": "waratte miseta",
+          "posZh": "动词（て形＋みせる・过去）",
+          "grammarStructureZh": "动词（て形＋みせる・过去）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "笑给人看；故意表现出笑容",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l008",
+      "startMs": 19823,
+      "endMs": 22305,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "忘れた弱さ 悴んでいく",
+          "qrcParts": [
+            {
+              "text": "忘",
+              "startMs": 19823,
+              "endMs": 20173,
+              "durationMs": 350
+            },
+            {
+              "text": "れ",
+              "startMs": 20173,
+              "endMs": 20308,
+              "durationMs": 135
+            },
+            {
+              "text": "た",
+              "startMs": 20308,
+              "endMs": 20453,
+              "durationMs": 145
+            },
+            {
+              "text": "弱",
+              "startMs": 20453,
+              "endMs": 20757,
+              "durationMs": 304
+            },
+            {
+              "text": "さ",
+              "startMs": 20757,
+              "endMs": 21060,
+              "durationMs": 303
+            },
+            {
+              "text": " ",
+              "startMs": 21060,
+              "endMs": 21060,
+              "durationMs": 0
+            },
+            {
+              "text": "悴",
+              "startMs": 21060,
+              "endMs": 21477,
+              "durationMs": 417
+            },
+            {
+              "text": "ん",
+              "startMs": 21477,
+              "endMs": 21589,
+              "durationMs": 112
+            },
+            {
+              "text": "で",
+              "startMs": 21589,
+              "endMs": 21757,
+              "durationMs": 168
+            },
+            {
+              "text": "い",
+              "startMs": 21758,
+              "endMs": 21926,
+              "durationMs": 168
+            },
+            {
+              "text": "く",
+              "startMs": 21926,
+              "endMs": 22305,
+              "durationMs": 379
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "忘れた弱さ 悴んでいく",
+        "furigana": [
+          {
+            "base": "忘",
+            "reading": "わす",
+            "start": 0,
+            "end": 1
+          },
+          {
+            "base": "弱",
+            "reading": "よわ",
+            "start": 3,
+            "end": 4
+          },
+          {
+            "base": "悴",
+            "reading": "かじか",
+            "start": 6,
+            "end": 7
+          }
+        ],
+        "romaji": "wasureta yowasa kajikande iku",
+        "translationZh": "被遗忘的软弱，正逐渐冻得僵硬"
+      },
+      "grammarCards": [
+        {
+          "token": "忘れた",
+          "reading": "わすれた",
+          "romaji": "wasure ta",
+          "posZh": "动词（过去形）",
+          "grammarStructureZh": "动词（过去形）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "忘记了的",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "弱さ",
+          "reading": "よわさ",
+          "romaji": "yowa sa",
+          "posZh": "形容词词干＋接尾词「さ」",
+          "grammarStructureZh": "形容词词干＋接尾词「さ」",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "软弱；脆弱",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "悴んでいく",
+          "reading": "かじかんでいく",
+          "romaji": "kajikan de iku",
+          "posZh": "动词（て形＋いく）",
+          "grammarStructureZh": "动词（て形＋いく）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "逐渐冻僵；渐渐瑟缩",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l009",
+      "startMs": 22953,
+      "endMs": 25470,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "寂しい なんて 言えるわけもない",
+          "qrcParts": [
+            {
+              "text": "寂",
+              "startMs": 22953,
+              "endMs": 23281,
+              "durationMs": 328
+            },
+            {
+              "text": "し",
+              "startMs": 23281,
+              "endMs": 23374,
+              "durationMs": 93
+            },
+            {
+              "text": "い",
+              "startMs": 23374,
+              "endMs": 23467,
+              "durationMs": 93
+            },
+            {
+              "text": " ",
+              "startMs": 23468,
+              "endMs": 23561,
+              "durationMs": 93
+            },
+            {
+              "text": "な",
+              "startMs": 23561,
+              "endMs": 23709,
+              "durationMs": 148
+            },
+            {
+              "text": "ん",
+              "startMs": 23709,
+              "endMs": 23846,
+              "durationMs": 137
+            },
+            {
+              "text": "て",
+              "startMs": 23846,
+              "endMs": 24206,
+              "durationMs": 360
+            },
+            {
+              "text": " ",
+              "startMs": 24206,
+              "endMs": 24206,
+              "durationMs": 0
+            },
+            {
+              "text": "言",
+              "startMs": 24206,
+              "endMs": 24359,
+              "durationMs": 153
+            },
+            {
+              "text": "え",
+              "startMs": 24359,
+              "endMs": 24495,
+              "durationMs": 136
+            },
+            {
+              "text": "る",
+              "startMs": 24495,
+              "endMs": 24596,
+              "durationMs": 101
+            },
+            {
+              "text": "わ",
+              "startMs": 24596,
+              "endMs": 24765,
+              "durationMs": 169
+            },
+            {
+              "text": "け",
+              "startMs": 24765,
+              "endMs": 24924,
+              "durationMs": 159
+            },
+            {
+              "text": "も",
+              "startMs": 24924,
+              "endMs": 25076,
+              "durationMs": 152
+            },
+            {
+              "text": "な",
+              "startMs": 25076,
+              "endMs": 25220,
+              "durationMs": 144
+            },
+            {
+              "text": "い",
+              "startMs": 25220,
+              "endMs": 25470,
+              "durationMs": 250
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "寂しい なんて 言えるわけもない",
+        "furigana": [
+          {
+            "base": "寂",
+            "reading": "さび",
+            "start": 0,
+            "end": 1
+          },
+          {
+            "base": "言",
+            "reading": "い",
+            "start": 8,
+            "end": 9
+          }
+        ],
+        "romaji": "sabishii nante ieru wake mo nai",
+        "translationZh": "“好寂寞”之类的话，根本说不出口"
+      },
+      "grammarCards": [
+        {
+          "token": "寂しい",
+          "reading": "さびしい",
+          "romaji": "sabishii",
+          "posZh": "形容词",
+          "grammarStructureZh": "形容词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "寂寞",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "なんて",
+          "reading": "なんて",
+          "romaji": "nante",
+          "posZh": "副助词",
+          "grammarStructureZh": "副助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          },
+          "functionZh": "提示所引内容，并附带轻视或自嘲语气"
+        },
+        {
+          "token": "言えるわけもない",
+          "reading": "いえるわけもない",
+          "romaji": "ieru wake mo nai",
+          "posZh": "可能形＋わけもない",
+          "grammarStructureZh": "可能形＋わけもない",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "根本不可能说出口",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l010",
+      "startMs": 25674,
+      "endMs": 30684,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "さりげない会話すら 傷つく心は",
+          "qrcParts": [
+            {
+              "text": "さ",
+              "startMs": 25674,
+              "endMs": 26034,
+              "durationMs": 360
+            },
+            {
+              "text": "り",
+              "startMs": 26034,
+              "endMs": 26254,
+              "durationMs": 220
+            },
+            {
+              "text": "げ",
+              "startMs": 26254,
+              "endMs": 26444,
+              "durationMs": 190
+            },
+            {
+              "text": "な",
+              "startMs": 26444,
+              "endMs": 26674,
+              "durationMs": 230
+            },
+            {
+              "text": "い",
+              "startMs": 26674,
+              "endMs": 26944,
+              "durationMs": 270
+            },
+            {
+              "text": "会",
+              "startMs": 26944,
+              "endMs": 27274,
+              "durationMs": 330
+            },
+            {
+              "text": "話",
+              "startMs": 27274,
+              "endMs": 27614,
+              "durationMs": 340
+            },
+            {
+              "text": "す",
+              "startMs": 27614,
+              "endMs": 27854,
+              "durationMs": 240
+            },
+            {
+              "text": "ら",
+              "startMs": 27854,
+              "endMs": 28154,
+              "durationMs": 300
+            },
+            {
+              "text": " ",
+              "startMs": 28154,
+              "endMs": 28824,
+              "durationMs": 670
+            },
+            {
+              "text": "傷",
+              "startMs": 28824,
+              "endMs": 29087,
+              "durationMs": 263
+            },
+            {
+              "text": "つ",
+              "startMs": 29087,
+              "endMs": 29350,
+              "durationMs": 263
+            },
+            {
+              "text": "く",
+              "startMs": 29350,
+              "endMs": 29614,
+              "durationMs": 264
+            },
+            {
+              "text": "心",
+              "startMs": 29614,
+              "endMs": 30234,
+              "durationMs": 620
+            },
+            {
+              "text": "は",
+              "startMs": 30234,
+              "endMs": 30684,
+              "durationMs": 450
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "さりげない会話すら 傷つく心は",
+        "furigana": [
+          {
+            "base": "会話",
+            "reading": "かいわ",
+            "start": 5,
+            "end": 7
+          },
+          {
+            "base": "傷",
+            "reading": "きず",
+            "start": 10,
+            "end": 11
+          },
+          {
+            "base": "心",
+            "reading": "こころ",
+            "start": 13,
+            "end": 14
+          }
+        ],
+        "romaji": "sarigenai kaiwa sura kizutsuku kokoro wa",
+        "translationZh": "就连若无其事的对话，也会刺痛这颗心"
+      },
+      "grammarCards": [
+        {
+          "token": "さりげない",
+          "reading": "さりげない",
+          "romaji": "sarige nai",
+          "posZh": "形容词",
+          "grammarStructureZh": "形容词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "若无其事的；不经意的",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "会話すら",
+          "reading": "かいわすら",
+          "romaji": "kaiwa sura",
+          "posZh": "名词＋副助词",
+          "grammarStructureZh": "名词＋副助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "就连对话也",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "傷つく",
+          "reading": "きずつく",
+          "romaji": "kizutsuku",
+          "posZh": "动词",
+          "grammarStructureZh": "动词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "受伤；被刺痛",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "心は",
+          "reading": "こころは",
+          "romaji": "kokoro wa",
+          "posZh": "名词＋提示助词",
+          "grammarStructureZh": "名词＋提示助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "这颗心；内心",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted"
+      }
+    },
+    {
+      "id": "l011",
+      "startMs": 32174,
+      "endMs": 37004,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "誰一人 誰一人 幸せにしない",
+          "qrcParts": [
+            {
+              "text": "誰",
+              "startMs": 32174,
+              "endMs": 32594,
+              "durationMs": 420
+            },
+            {
+              "text": "一",
+              "startMs": 32594,
+              "endMs": 32974,
+              "durationMs": 380
+            },
+            {
+              "text": "人",
+              "startMs": 32974,
+              "endMs": 33354,
+              "durationMs": 380
+            },
+            {
+              "text": " ",
+              "startMs": 33354,
+              "endMs": 33354,
+              "durationMs": 0
+            },
+            {
+              "text": "誰",
+              "startMs": 33354,
+              "endMs": 33804,
+              "durationMs": 450
+            },
+            {
+              "text": "一",
+              "startMs": 33804,
+              "endMs": 34179,
+              "durationMs": 375
+            },
+            {
+              "text": "人",
+              "startMs": 34179,
+              "endMs": 34554,
+              "durationMs": 375
+            },
+            {
+              "text": " ",
+              "startMs": 34554,
+              "endMs": 35174,
+              "durationMs": 620
+            },
+            {
+              "text": "幸",
+              "startMs": 35174,
+              "endMs": 35594,
+              "durationMs": 420
+            },
+            {
+              "text": "せ",
+              "startMs": 35594,
+              "endMs": 36014,
+              "durationMs": 420
+            },
+            {
+              "text": "に",
+              "startMs": 36014,
+              "endMs": 36214,
+              "durationMs": 200
+            },
+            {
+              "text": "し",
+              "startMs": 36214,
+              "endMs": 36454,
+              "durationMs": 240
+            },
+            {
+              "text": "な",
+              "startMs": 36454,
+              "endMs": 36674,
+              "durationMs": 220
+            },
+            {
+              "text": "い",
+              "startMs": 36674,
+              "endMs": 37004,
+              "durationMs": 330
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "誰一人 誰一人 幸せにしない",
+        "furigana": [
+          {
+            "base": "誰一人",
+            "reading": "だれひとり",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "base": "誰一人",
+            "reading": "だれひとり",
+            "start": 4,
+            "end": 7
+          },
+          {
+            "base": "幸",
+            "reading": "しあわ",
+            "start": 8,
+            "end": 9
+          }
+        ],
+        "romaji": "dare hitori dare hitori shiawase ni shinai",
+        "translationZh": "我不会让任何一个人幸福"
+      },
+      "grammarCards": [
+        {
+          "token": "誰一人",
+          "reading": "だれひとり",
+          "romaji": "dare hitori",
+          "posZh": "连语＋否定呼应（「一人」熟字训）",
+          "grammarStructureZh": "连语＋否定呼应（「一人」熟字训）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "任何一个人",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "誰一人",
+          "reading": "だれひとり",
+          "romaji": "dare hitori",
+          "posZh": "连语＋否定呼应（「一人」熟字训）",
+          "grammarStructureZh": "连语＋否定呼应（「一人」熟字训）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "任何一个人",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "幸せに",
+          "reading": "しあわせに",
+          "romaji": "shiawase ni",
+          "posZh": "形容动词连用形（结果）",
+          "grammarStructureZh": "形容动词连用形（结果）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "幸福地；变得幸福",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "しない",
+          "reading": "しない",
+          "romaji": "shi nai",
+          "posZh": "动词（否定）",
+          "grammarStructureZh": "动词（否定）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "不使…；不让…",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l012",
+      "startMs": 38718,
+      "endMs": 44514,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "ねぇ それでもまだ 期待 膨らむんだ",
+          "qrcParts": [
+            {
+              "text": "ね",
+              "startMs": 38718,
+              "endMs": 39040,
+              "durationMs": 322
+            },
+            {
+              "text": "ぇ",
+              "startMs": 39041,
+              "endMs": 39363,
+              "durationMs": 322
+            },
+            {
+              "text": " ",
+              "startMs": 39363,
+              "endMs": 39685,
+              "durationMs": 322
+            },
+            {
+              "text": "そ",
+              "startMs": 39686,
+              "endMs": 39869,
+              "durationMs": 183
+            },
+            {
+              "text": "れ",
+              "startMs": 39869,
+              "endMs": 40053,
+              "durationMs": 184
+            },
+            {
+              "text": "で",
+              "startMs": 40053,
+              "endMs": 40229,
+              "durationMs": 176
+            },
+            {
+              "text": "も",
+              "startMs": 40229,
+              "endMs": 40405,
+              "durationMs": 176
+            },
+            {
+              "text": "ま",
+              "startMs": 40405,
+              "endMs": 40629,
+              "durationMs": 224
+            },
+            {
+              "text": "だ",
+              "startMs": 40629,
+              "endMs": 41668,
+              "durationMs": 1039
+            },
+            {
+              "text": " ",
+              "startMs": 41668,
+              "endMs": 41668,
+              "durationMs": 0
+            },
+            {
+              "text": "期",
+              "startMs": 41668,
+              "endMs": 41885,
+              "durationMs": 217
+            },
+            {
+              "text": "待",
+              "startMs": 41885,
+              "endMs": 42389,
+              "durationMs": 504
+            },
+            {
+              "text": " ",
+              "startMs": 42389,
+              "endMs": 42389,
+              "durationMs": 0
+            },
+            {
+              "text": "膨",
+              "startMs": 42389,
+              "endMs": 42925,
+              "durationMs": 536
+            },
+            {
+              "text": "ら",
+              "startMs": 42925,
+              "endMs": 43181,
+              "durationMs": 256
+            },
+            {
+              "text": "む",
+              "startMs": 43181,
+              "endMs": 43525,
+              "durationMs": 344
+            },
+            {
+              "text": "ん",
+              "startMs": 43525,
+              "endMs": 43992,
+              "durationMs": 467
+            },
+            {
+              "text": "だ",
+              "startMs": 43993,
+              "endMs": 44514,
+              "durationMs": 521
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "ねぇ それでもまだ 期待 膨らむんだ",
+        "furigana": [
+          {
+            "base": "期待",
+            "reading": "きたい",
+            "start": 10,
+            "end": 12
+          },
+          {
+            "base": "膨",
+            "reading": "ふく",
+            "start": 13,
+            "end": 14
+          }
+        ],
+        "romaji": "nee soredemo mada kitai fukuramunda",
+        "translationZh": "呐，即便如此，期待仍在膨胀"
+      },
+      "grammarCards": [
+        {
+          "token": "ねぇ",
+          "reading": "ねぇ",
+          "romaji": "nee",
+          "posZh": "感叹词",
+          "grammarStructureZh": "感叹词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "呐；喂",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "それでもまだ",
+          "reading": "それでもまだ",
+          "romaji": "soredemo mada",
+          "posZh": "连词＋副词",
+          "grammarStructureZh": "连词＋副词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "即便如此仍然",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "期待",
+          "reading": "きたい",
+          "romaji": "kitai",
+          "posZh": "名词",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "期待",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "膨らむんだ",
+          "reading": "ふくらむんだ",
+          "romaji": "fukuramu n da",
+          "posZh": "动词＋解释断定",
+          "grammarStructureZh": "动词＋解释断定",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "正在膨胀；会不断增加",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted"
+      }
+    },
+    {
+      "id": "l013",
+      "startMs": 44794,
+      "endMs": 50314,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "すれ違った嘘なんて 全部 捨てて",
+          "qrcParts": [
+            {
+              "text": "す",
+              "startMs": 44794,
+              "endMs": 45084,
+              "durationMs": 290
+            },
+            {
+              "text": "れ",
+              "startMs": 45084,
+              "endMs": 45214,
+              "durationMs": 130
+            },
+            {
+              "text": "違",
+              "startMs": 45214,
+              "endMs": 45464,
+              "durationMs": 250
+            },
+            {
+              "text": "っ",
+              "startMs": 45464,
+              "endMs": 45794,
+              "durationMs": 330
+            },
+            {
+              "text": "た",
+              "startMs": 45794,
+              "endMs": 46274,
+              "durationMs": 480
+            },
+            {
+              "text": "嘘",
+              "startMs": 46274,
+              "endMs": 46614,
+              "durationMs": 340
+            },
+            {
+              "text": "な",
+              "startMs": 46614,
+              "endMs": 46864,
+              "durationMs": 250
+            },
+            {
+              "text": "ん",
+              "startMs": 46864,
+              "endMs": 47034,
+              "durationMs": 170
+            },
+            {
+              "text": "て",
+              "startMs": 47034,
+              "endMs": 47314,
+              "durationMs": 280
+            },
+            {
+              "text": " ",
+              "startMs": 47314,
+              "endMs": 47334,
+              "durationMs": 20
+            },
+            {
+              "text": "全",
+              "startMs": 47334,
+              "endMs": 47684,
+              "durationMs": 350
+            },
+            {
+              "text": "部",
+              "startMs": 47684,
+              "endMs": 48034,
+              "durationMs": 350
+            },
+            {
+              "text": " ",
+              "startMs": 48034,
+              "endMs": 48144,
+              "durationMs": 110
+            },
+            {
+              "text": "捨",
+              "startMs": 48144,
+              "endMs": 48964,
+              "durationMs": 820
+            },
+            {
+              "text": "て",
+              "startMs": 48964,
+              "endMs": 49764,
+              "durationMs": 800
+            },
+            {
+              "text": "て",
+              "startMs": 49764,
+              "endMs": 50314,
+              "durationMs": 550
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "すれ違った嘘なんて 全部 捨てて",
+        "furigana": [
+          {
+            "base": "違",
+            "reading": "ちが",
+            "start": 2,
+            "end": 3
+          },
+          {
+            "base": "嘘",
+            "reading": "うそ",
+            "start": 5,
+            "end": 6
+          },
+          {
+            "base": "全部",
+            "reading": "ぜんぶ",
+            "start": 10,
+            "end": 12
+          },
+          {
+            "base": "捨",
+            "reading": "す",
+            "start": 13,
+            "end": 14
+          }
+        ],
+        "romaji": "surechigatta uso nante zenbu sutete",
+        "translationZh": "把那些彼此错过时的谎言，全都丢掉"
+      },
+      "grammarCards": [
+        {
+          "token": "すれ違った",
+          "reading": "すれちがった",
+          "romaji": "surechigatta",
+          "posZh": "动词（过去形）",
+          "grammarStructureZh": "动词（过去形）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "彼此错过的；擦身而过的",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "嘘なんて",
+          "reading": "うそなんて",
+          "romaji": "uso nante",
+          "posZh": "名词＋副助词",
+          "grammarStructureZh": "名词＋副助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "谎言之类的东西",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "全部",
+          "reading": "ぜんぶ",
+          "romaji": "zenbu",
+          "posZh": "名词",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "全部；一切",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "捨てて",
+          "reading": "すてて",
+          "romaji": "sute te",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "动词（て形）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "丢掉；舍弃",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l014",
+      "startMs": 50794,
+      "endMs": 51424,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "大逸れて",
+          "qrcParts": [
+            {
+              "text": "大",
+              "startMs": 50794,
+              "endMs": 50824,
+              "durationMs": 30
+            },
+            {
+              "text": "逸",
+              "startMs": 50824,
+              "endMs": 51044,
+              "durationMs": 220
+            },
+            {
+              "text": "れ",
+              "startMs": 51044,
+              "endMs": 51224,
+              "durationMs": 180
+            },
+            {
+              "text": "て",
+              "startMs": 51224,
+              "endMs": 51424,
+              "durationMs": 200
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "大逸れて",
+        "furigana": [
+          {
+            "base": "大逸",
+            "reading": "だいそ",
+            "start": 0,
+            "end": 2
+          }
+        ],
+        "romaji": "daisorete",
+        "translationZh": "并没有太离谱"
+      },
+      "grammarCards": [
+        {
+          "token": "大逸れて",
+          "reading": "だいそれて",
+          "romaji": "dai sore te",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "动词（て形）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "太离谱；太冒失",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l015",
+      "startMs": 51444,
+      "endMs": 53704,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "ないよってただ聞きたくて",
+          "qrcParts": [
+            {
+              "text": "な",
+              "startMs": 51444,
+              "endMs": 51624,
+              "durationMs": 180
+            },
+            {
+              "text": "い",
+              "startMs": 51624,
+              "endMs": 51724,
+              "durationMs": 100
+            },
+            {
+              "text": "よ",
+              "startMs": 51724,
+              "endMs": 51834,
+              "durationMs": 110
+            },
+            {
+              "text": "っ",
+              "startMs": 51834,
+              "endMs": 51929,
+              "durationMs": 95
+            },
+            {
+              "text": "て",
+              "startMs": 51929,
+              "endMs": 52024,
+              "durationMs": 95
+            },
+            {
+              "text": "た",
+              "startMs": 52024,
+              "endMs": 52254,
+              "durationMs": 230
+            },
+            {
+              "text": "だ",
+              "startMs": 52254,
+              "endMs": 52414,
+              "durationMs": 160
+            },
+            {
+              "text": "聞",
+              "startMs": 52414,
+              "endMs": 52664,
+              "durationMs": 250
+            },
+            {
+              "text": "き",
+              "startMs": 52664,
+              "endMs": 52854,
+              "durationMs": 190
+            },
+            {
+              "text": "た",
+              "startMs": 52854,
+              "endMs": 53104,
+              "durationMs": 250
+            },
+            {
+              "text": "く",
+              "startMs": 53104,
+              "endMs": 53204,
+              "durationMs": 100
+            },
+            {
+              "text": "て",
+              "startMs": 53204,
+              "endMs": 53704,
+              "durationMs": 500
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "ないよってただ聞きたくて",
+        "furigana": [
+          {
+            "base": "聞",
+            "reading": "き",
+            "start": 7,
+            "end": 8
+          }
+        ],
+        "romaji": "nai yo tte tada kikitakute",
+        "translationZh": "我只是想听你这么说"
+      },
+      "grammarCards": [
+        {
+          "token": "ないよって",
+          "reading": "ないよって",
+          "romaji": "nai yo tte",
+          "posZh": "否定＋よ＋って（引用）",
+          "grammarStructureZh": "否定＋よ＋って（引用）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "“不是那样哦”的引用说法",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "ただ",
+          "reading": "ただ",
+          "romaji": "tada",
+          "posZh": "副词",
+          "grammarStructureZh": "副词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "只是；仅仅",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "聞きたくて",
+          "reading": "ききたくて",
+          "romaji": "kiki taku te",
+          "posZh": "动词（愿望＋て形）",
+          "grammarStructureZh": "动词（愿望＋て形）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "想听；因为想听",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l016",
+      "startMs": 54044,
+      "endMs": 56964,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "夢ばかりで幼くたって",
+          "qrcParts": [
+            {
+              "text": "夢",
+              "startMs": 54044,
+              "endMs": 54314,
+              "durationMs": 270
+            },
+            {
+              "text": "ば",
+              "startMs": 54314,
+              "endMs": 54414,
+              "durationMs": 100
+            },
+            {
+              "text": "か",
+              "startMs": 54414,
+              "endMs": 54714,
+              "durationMs": 300
+            },
+            {
+              "text": "り",
+              "startMs": 54714,
+              "endMs": 54854,
+              "durationMs": 140
+            },
+            {
+              "text": "で",
+              "startMs": 54854,
+              "endMs": 54974,
+              "durationMs": 120
+            },
+            {
+              "text": "幼",
+              "startMs": 54974,
+              "endMs": 55509,
+              "durationMs": 535
+            },
+            {
+              "text": "く",
+              "startMs": 55509,
+              "endMs": 56044,
+              "durationMs": 535
+            },
+            {
+              "text": "た",
+              "startMs": 56044,
+              "endMs": 56350,
+              "durationMs": 306
+            },
+            {
+              "text": "っ",
+              "startMs": 56350,
+              "endMs": 56657,
+              "durationMs": 307
+            },
+            {
+              "text": "て",
+              "startMs": 56657,
+              "endMs": 56964,
+              "durationMs": 307
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "夢ばかりで幼くたって",
+        "furigana": [
+          {
+            "base": "夢",
+            "reading": "ゆめ",
+            "start": 0,
+            "end": 1
+          },
+          {
+            "base": "幼",
+            "reading": "おさな",
+            "start": 5,
+            "end": 6
+          }
+        ],
+        "romaji": "yume bakari de osanakutatte",
+        "translationZh": "即使只顾着梦想而显得幼稚"
+      },
+      "grammarCards": [
+        {
+          "token": "夢",
+          "reading": "ゆめ",
+          "romaji": "yume",
+          "posZh": "名词",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "梦",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "ばかりで",
+          "reading": "ばかりで",
+          "romaji": "bakari de",
+          "posZh": "ばかり＋断定助动词「で」",
+          "grammarStructureZh": "ばかり＋断定助动词「で」",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "只顾着；净是…而",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "幼くたって",
+          "reading": "おさなくたって",
+          "romaji": "osanakutatte",
+          "posZh": "形容词（让步）",
+          "grammarStructureZh": "形容词（让步）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "即使显得幼稚",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l017",
+      "startMs": 57390,
+      "endMs": 58807,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "今日も変われない",
+          "qrcParts": [
+            {
+              "text": "今日",
+              "startMs": 57390,
+              "endMs": 57646,
+              "durationMs": 256
+            },
+            {
+              "text": "も",
+              "startMs": 57646,
+              "endMs": 57806,
+              "durationMs": 160
+            },
+            {
+              "text": "変",
+              "startMs": 57806,
+              "endMs": 57966,
+              "durationMs": 160
+            },
+            {
+              "text": "わ",
+              "startMs": 57966,
+              "endMs": 58232,
+              "durationMs": 266
+            },
+            {
+              "text": "れ",
+              "startMs": 58232,
+              "endMs": 58454,
+              "durationMs": 222
+            },
+            {
+              "text": "な",
+              "startMs": 58454,
+              "endMs": 58614,
+              "durationMs": 160
+            },
+            {
+              "text": "い",
+              "startMs": 58614,
+              "endMs": 58807,
+              "durationMs": 193
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "今日も変われない",
+        "furigana": [
+          {
+            "base": "今日",
+            "reading": "きょう",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "base": "変",
+            "reading": "か",
+            "start": 3,
+            "end": 4
+          }
+        ],
+        "romaji": "kyou mo kawarenai",
+        "translationZh": "今天也无法改变"
+      },
+      "grammarCards": [
+        {
+          "token": "今日も",
+          "reading": "きょうも",
+          "romaji": "kyou mo",
+          "posZh": "名词（熟字训）＋提示助词",
+          "grammarStructureZh": "名词（熟字训）＋提示助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "今天也",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "変われない",
+          "reading": "かわれない",
+          "romaji": "kaware nai",
+          "posZh": "动词（可能否定）",
+          "grammarStructureZh": "动词（可能否定）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "无法改变",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l018",
+      "startMs": 59239,
+      "endMs": 60991,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "ままだっていいんだ",
+          "qrcParts": [
+            {
+              "text": "ま",
+              "startMs": 59239,
+              "endMs": 59415,
+              "durationMs": 176
+            },
+            {
+              "text": "ま",
+              "startMs": 59415,
+              "endMs": 59696,
+              "durationMs": 281
+            },
+            {
+              "text": "だ",
+              "startMs": 59696,
+              "endMs": 59908,
+              "durationMs": 212
+            },
+            {
+              "text": "っ",
+              "startMs": 59908,
+              "endMs": 60120,
+              "durationMs": 212
+            },
+            {
+              "text": "て",
+              "startMs": 60120,
+              "endMs": 60279,
+              "durationMs": 159
+            },
+            {
+              "text": "い",
+              "startMs": 60280,
+              "endMs": 60439,
+              "durationMs": 159
+            },
+            {
+              "text": "い",
+              "startMs": 60439,
+              "endMs": 60598,
+              "durationMs": 159
+            },
+            {
+              "text": "ん",
+              "startMs": 60599,
+              "endMs": 60758,
+              "durationMs": 159
+            },
+            {
+              "text": "だ",
+              "startMs": 60759,
+              "endMs": 60991,
+              "durationMs": 232
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "ままだっていいんだ",
+        "furigana": [],
+        "romaji": "mama datte iinda",
+        "translationZh": "维持这样也没关系"
+      },
+      "grammarCards": [
+        {
+          "token": "ままだって",
+          "reading": "ままだって",
+          "romaji": "mama datte",
+          "posZh": "形式名词＋让步副助词",
+          "grammarStructureZh": "形式名词＋让步副助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "即使维持原样也",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "いい",
+          "reading": "いい",
+          "romaji": "ii",
+          "posZh": "形容词",
+          "grammarStructureZh": "形容词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "没关系；可以",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "んだ",
+          "reading": "んだ",
+          "romaji": "n da",
+          "posZh": "解释表达「のだ」口语形",
+          "grammarStructureZh": "解释表达「のだ」口语形",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "说明、强调语气",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l019",
+      "startMs": 60991,
+      "endMs": 63289,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "君と歌っていたい",
+          "qrcParts": [
+            {
+              "text": "君",
+              "startMs": 60991,
+              "endMs": 61391,
+              "durationMs": 400
+            },
+            {
+              "text": "と",
+              "startMs": 61391,
+              "endMs": 61647,
+              "durationMs": 256
+            },
+            {
+              "text": "歌",
+              "startMs": 61647,
+              "endMs": 62020,
+              "durationMs": 373
+            },
+            {
+              "text": "っ",
+              "startMs": 62020,
+              "endMs": 62199,
+              "durationMs": 179
+            },
+            {
+              "text": "て",
+              "startMs": 62199,
+              "endMs": 62396,
+              "durationMs": 197
+            },
+            {
+              "text": "い",
+              "startMs": 62396,
+              "endMs": 62593,
+              "durationMs": 197
+            },
+            {
+              "text": "た",
+              "startMs": 62593,
+              "endMs": 62927,
+              "durationMs": 334
+            },
+            {
+              "text": "い",
+              "startMs": 62927,
+              "endMs": 63289,
+              "durationMs": 362
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "君と歌っていたい",
+        "furigana": [
+          {
+            "base": "君",
+            "reading": "きみ",
+            "start": 0,
+            "end": 1
+          },
+          {
+            "base": "歌",
+            "reading": "うた",
+            "start": 2,
+            "end": 3
+          }
+        ],
+        "romaji": "kimi to utatte itai",
+        "translationZh": "想一直和你一起歌唱"
+      },
+      "grammarCards": [
+        {
+          "token": "君と",
+          "reading": "きみと",
+          "romaji": "kimi to",
+          "posZh": "名词＋格助词",
+          "grammarStructureZh": "名词＋格助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "和你一起",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "歌っていたい",
+          "reading": "うたっていたい",
+          "romaji": "utatte itai",
+          "posZh": "ている＋たい（持续愿望）",
+          "grammarStructureZh": "ている＋たい（持续愿望）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "想一直唱下去；想持续歌唱",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l020",
+      "startMs": 63404,
+      "endMs": 64194,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "何度だって",
+          "qrcParts": [
+            {
+              "text": "何",
+              "startMs": 63404,
+              "endMs": 63684,
+              "durationMs": 280
+            },
+            {
+              "text": "度",
+              "startMs": 63684,
+              "endMs": 63834,
+              "durationMs": 150
+            },
+            {
+              "text": "だ",
+              "startMs": 63834,
+              "endMs": 63994,
+              "durationMs": 160
+            },
+            {
+              "text": "っ",
+              "startMs": 63994,
+              "endMs": 64094,
+              "durationMs": 100
+            },
+            {
+              "text": "て",
+              "startMs": 64094,
+              "endMs": 64194,
+              "durationMs": 100
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "何度だって",
+        "furigana": [
+          {
+            "base": "何度",
+            "reading": "なんど",
+            "start": 0,
+            "end": 2
+          }
+        ],
+        "romaji": "nando datte",
+        "translationZh": "无论多少次"
+      },
+      "grammarCards": [
+        {
+          "token": "何度だって",
+          "reading": "なんどだって",
+          "romaji": "nan do datte",
+          "posZh": "名词＋助词",
+          "grammarStructureZh": "名词＋助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "无论多少次",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted"
+      }
+    },
+    {
+      "id": "l021",
+      "startMs": 64214,
+      "endMs": 66544,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "感情ばっか揺れ動いて",
+          "qrcParts": [
+            {
+              "text": "感",
+              "startMs": 64214,
+              "endMs": 64449,
+              "durationMs": 235
+            },
+            {
+              "text": "情",
+              "startMs": 64449,
+              "endMs": 64684,
+              "durationMs": 235
+            },
+            {
+              "text": "ば",
+              "startMs": 64684,
+              "endMs": 64800,
+              "durationMs": 116
+            },
+            {
+              "text": "っ",
+              "startMs": 64800,
+              "endMs": 64917,
+              "durationMs": 117
+            },
+            {
+              "text": "か",
+              "startMs": 64917,
+              "endMs": 65034,
+              "durationMs": 117
+            },
+            {
+              "text": "揺",
+              "startMs": 65034,
+              "endMs": 65264,
+              "durationMs": 230
+            },
+            {
+              "text": "れ",
+              "startMs": 65264,
+              "endMs": 65614,
+              "durationMs": 350
+            },
+            {
+              "text": "動",
+              "startMs": 65614,
+              "endMs": 65844,
+              "durationMs": 230
+            },
+            {
+              "text": "い",
+              "startMs": 65844,
+              "endMs": 66074,
+              "durationMs": 230
+            },
+            {
+              "text": "て",
+              "startMs": 66074,
+              "endMs": 66544,
+              "durationMs": 470
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "感情ばっか揺れ動いて",
+        "furigana": [
+          {
+            "base": "感情",
+            "reading": "かんじょう",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "base": "揺",
+            "reading": "ゆ",
+            "start": 5,
+            "end": 6
+          },
+          {
+            "base": "動",
+            "reading": "うご",
+            "start": 7,
+            "end": 8
+          }
+        ],
+        "romaji": "kanjou bakka yureugoite",
+        "translationZh": "情绪总是在摇摆不定"
+      },
+      "grammarCards": [
+        {
+          "token": "感情ばっか",
+          "reading": "かんじょうばっか",
+          "romaji": "kanjou bakka",
+          "posZh": "名词＋副助词",
+          "grammarStructureZh": "名词＋副助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "尽是感情；满是情绪",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "揺れ動いて",
+          "reading": "ゆれうごいて",
+          "romaji": "yureugoi te",
+          "posZh": "复合动词（て形）",
+          "grammarStructureZh": "复合动词（て形）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "摇摆不定",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted"
+      }
+    },
+    {
+      "id": "l022",
+      "startMs": 66774,
+      "endMs": 69424,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "嫌われてきたけど",
+          "qrcParts": [
+            {
+              "text": "嫌",
+              "startMs": 66774,
+              "endMs": 66999,
+              "durationMs": 225
+            },
+            {
+              "text": "わ",
+              "startMs": 66999,
+              "endMs": 67224,
+              "durationMs": 225
+            },
+            {
+              "text": "れ",
+              "startMs": 67224,
+              "endMs": 67584,
+              "durationMs": 360
+            },
+            {
+              "text": "て",
+              "startMs": 67584,
+              "endMs": 67824,
+              "durationMs": 240
+            },
+            {
+              "text": "き",
+              "startMs": 67824,
+              "endMs": 68034,
+              "durationMs": 210
+            },
+            {
+              "text": "た",
+              "startMs": 68034,
+              "endMs": 68404,
+              "durationMs": 370
+            },
+            {
+              "text": "け",
+              "startMs": 68404,
+              "endMs": 68654,
+              "durationMs": 250
+            },
+            {
+              "text": "ど",
+              "startMs": 68654,
+              "endMs": 69424,
+              "durationMs": 770
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "嫌われてきたけど",
+        "furigana": [
+          {
+            "base": "嫌",
+            "reading": "きら",
+            "start": 0,
+            "end": 1
+          }
+        ],
+        "romaji": "kirawarete kita kedo",
+        "translationZh": "虽然一直被讨厌"
+      },
+      "grammarCards": [
+        {
+          "token": "嫌われて",
+          "reading": "きらわれて",
+          "romaji": "kirawa re te",
+          "posZh": "动词（被动＋て形）",
+          "grammarStructureZh": "动词（被动＋て形）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "被讨厌；遭人厌恶",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "きたけど",
+          "reading": "きたけど",
+          "romaji": "ki ta kedo",
+          "posZh": "てくる过去形＋けど（逆接）",
+          "grammarStructureZh": "てくる过去形＋けど（逆接）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "一直如此过来，不过…",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l023",
+      "startMs": 70014,
+      "endMs": 73084,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "このままで歩いて行くんだ",
+          "qrcParts": [
+            {
+              "text": "こ",
+              "startMs": 70014,
+              "endMs": 70144,
+              "durationMs": 130
+            },
+            {
+              "text": "の",
+              "startMs": 70144,
+              "endMs": 70244,
+              "durationMs": 100
+            },
+            {
+              "text": "ま",
+              "startMs": 70244,
+              "endMs": 70424,
+              "durationMs": 180
+            },
+            {
+              "text": "ま",
+              "startMs": 70424,
+              "endMs": 70784,
+              "durationMs": 360
+            },
+            {
+              "text": "で",
+              "startMs": 70784,
+              "endMs": 71064,
+              "durationMs": 280
+            },
+            {
+              "text": "歩",
+              "startMs": 71064,
+              "endMs": 71329,
+              "durationMs": 265
+            },
+            {
+              "text": "い",
+              "startMs": 71329,
+              "endMs": 71614,
+              "durationMs": 285
+            },
+            {
+              "text": "て",
+              "startMs": 71614,
+              "endMs": 71974,
+              "durationMs": 360
+            },
+            {
+              "text": "行",
+              "startMs": 71974,
+              "endMs": 72004,
+              "durationMs": 30
+            },
+            {
+              "text": "く",
+              "startMs": 72004,
+              "endMs": 72644,
+              "durationMs": 640
+            },
+            {
+              "text": "ん",
+              "startMs": 72644,
+              "endMs": 72874,
+              "durationMs": 230
+            },
+            {
+              "text": "だ",
+              "startMs": 72874,
+              "endMs": 73084,
+              "durationMs": 210
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "このままで歩いて行くんだ",
+        "furigana": [
+          {
+            "base": "歩",
+            "reading": "ある",
+            "start": 5,
+            "end": 6
+          },
+          {
+            "base": "行",
+            "reading": "い",
+            "start": 8,
+            "end": 9
+          }
+        ],
+        "romaji": "kono mama de aruite ikunda",
+        "translationZh": "我仍会就这样继续走下去"
+      },
+      "grammarCards": [
+        {
+          "token": "このままで",
+          "reading": "このままで",
+          "romaji": "kono mama de",
+          "posZh": "名词＋助词",
+          "grammarStructureZh": "名词＋助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "就这样；保持这样",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "歩いて行く",
+          "reading": "あるいていく",
+          "romaji": "arui te iku",
+          "posZh": "动词（て形＋いく）",
+          "grammarStructureZh": "动词（て形＋いく）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "继续走下去",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "んだ",
+          "reading": "んだ",
+          "romaji": "n da",
+          "posZh": "解释断定",
+          "grammarStructureZh": "解释断定",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "说明、强调语气",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted"
+      }
+    },
+    {
+      "id": "l024",
+      "startMs": 73284,
+      "endMs": 79814,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "誰にもなれない 私 胸張ってさ",
+          "qrcParts": [
+            {
+              "text": "誰",
+              "startMs": 73284,
+              "endMs": 73494,
+              "durationMs": 210
+            },
+            {
+              "text": "に",
+              "startMs": 73494,
+              "endMs": 73644,
+              "durationMs": 150
+            },
+            {
+              "text": "も",
+              "startMs": 73644,
+              "endMs": 73984,
+              "durationMs": 340
+            },
+            {
+              "text": "な",
+              "startMs": 73984,
+              "endMs": 74154,
+              "durationMs": 170
+            },
+            {
+              "text": "れ",
+              "startMs": 74154,
+              "endMs": 74254,
+              "durationMs": 100
+            },
+            {
+              "text": "な",
+              "startMs": 74254,
+              "endMs": 74424,
+              "durationMs": 170
+            },
+            {
+              "text": "い",
+              "startMs": 74424,
+              "endMs": 74434,
+              "durationMs": 10
+            },
+            {
+              "text": " ",
+              "startMs": 74434,
+              "endMs": 74444,
+              "durationMs": 10
+            },
+            {
+              "text": "私",
+              "startMs": 74444,
+              "endMs": 75234,
+              "durationMs": 790
+            },
+            {
+              "text": " ",
+              "startMs": 75234,
+              "endMs": 75234,
+              "durationMs": 0
+            },
+            {
+              "text": "胸",
+              "startMs": 75234,
+              "endMs": 76034,
+              "durationMs": 800
+            },
+            {
+              "text": "張",
+              "startMs": 76034,
+              "endMs": 76189,
+              "durationMs": 155
+            },
+            {
+              "text": "っ",
+              "startMs": 76189,
+              "endMs": 76344,
+              "durationMs": 155
+            },
+            {
+              "text": "て",
+              "startMs": 76344,
+              "endMs": 76584,
+              "durationMs": 240
+            },
+            {
+              "text": "さ",
+              "startMs": 76584,
+              "endMs": 79814,
+              "durationMs": 3230
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "誰にもなれない 私 胸張ってさ",
+        "furigana": [
+          {
+            "base": "誰",
+            "reading": "だれ",
+            "start": 0,
+            "end": 1
+          },
+          {
+            "base": "私",
+            "reading": "わたし",
+            "start": 8,
+            "end": 9
+          },
+          {
+            "base": "胸",
+            "reading": "むね",
+            "start": 10,
+            "end": 11
+          },
+          {
+            "base": "張",
+            "reading": "は",
+            "start": 11,
+            "end": 12
+          }
+        ],
+        "romaji": "darenimo narenai watashi mune hatte sa",
+        "translationZh": "无法成为任何人的我，也要挺起胸膛啊"
+      },
+      "grammarCards": [
+        {
+          "token": "誰にも",
+          "reading": "だれにも",
+          "romaji": "dare ni mo",
+          "posZh": "疑问代词＋に＋も（否定呼应）",
+          "grammarStructureZh": "疑问代词＋に＋も（否定呼应）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "任何人也不；谁也不",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "なれない",
+          "reading": "なれない",
+          "romaji": "nare nai",
+          "posZh": "动词（可能否定）",
+          "grammarStructureZh": "动词（可能否定）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "无法成为",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "私",
+          "reading": "わたし",
+          "romaji": "watashi",
+          "posZh": "代词",
+          "grammarStructureZh": "代词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "我",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "胸",
+          "reading": "むね",
+          "romaji": "mune",
+          "posZh": "名词",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "胸膛；内心",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "張って",
+          "reading": "はって",
+          "romaji": "hatte",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "动词（て形）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "挺起；挺直",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "さ",
+          "reading": "さ",
+          "romaji": "sa",
+          "posZh": "终助词",
+          "grammarStructureZh": "终助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          },
+          "functionZh": "加强句末断言并赋予随意、坦率的语气"
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l025",
+      "startMs": 89792,
+      "endMs": 92422,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "さよなら さよなら 要らない全部",
+          "qrcParts": [
+            {
+              "text": "さ",
+              "startMs": 89792,
+              "endMs": 90162,
+              "durationMs": 370
+            },
+            {
+              "text": "よ",
+              "startMs": 90162,
+              "endMs": 90192,
+              "durationMs": 30
+            },
+            {
+              "text": "な",
+              "startMs": 90192,
+              "endMs": 90342,
+              "durationMs": 150
+            },
+            {
+              "text": "ら",
+              "startMs": 90342,
+              "endMs": 90462,
+              "durationMs": 120
+            },
+            {
+              "text": " ",
+              "startMs": 90462,
+              "endMs": 90472,
+              "durationMs": 10
+            },
+            {
+              "text": "さ",
+              "startMs": 90472,
+              "endMs": 90722,
+              "durationMs": 250
+            },
+            {
+              "text": "よ",
+              "startMs": 90722,
+              "endMs": 90832,
+              "durationMs": 110
+            },
+            {
+              "text": "な",
+              "startMs": 90832,
+              "endMs": 90962,
+              "durationMs": 130
+            },
+            {
+              "text": "ら",
+              "startMs": 90962,
+              "endMs": 91152,
+              "durationMs": 190
+            },
+            {
+              "text": " ",
+              "startMs": 91152,
+              "endMs": 91202,
+              "durationMs": 50
+            },
+            {
+              "text": "要",
+              "startMs": 91202,
+              "endMs": 91382,
+              "durationMs": 180
+            },
+            {
+              "text": "ら",
+              "startMs": 91382,
+              "endMs": 91502,
+              "durationMs": 120
+            },
+            {
+              "text": "な",
+              "startMs": 91502,
+              "endMs": 91672,
+              "durationMs": 170
+            },
+            {
+              "text": "い",
+              "startMs": 91672,
+              "endMs": 91812,
+              "durationMs": 140
+            },
+            {
+              "text": "全",
+              "startMs": 91812,
+              "endMs": 92117,
+              "durationMs": 305
+            },
+            {
+              "text": "部",
+              "startMs": 92117,
+              "endMs": 92422,
+              "durationMs": 305
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "さよなら さよなら 要らない全部",
+        "furigana": [
+          {
+            "base": "要",
+            "reading": "い",
+            "start": 10,
+            "end": 11
+          },
+          {
+            "base": "全部",
+            "reading": "ぜんぶ",
+            "start": 14,
+            "end": 16
+          }
+        ],
+        "romaji": "sayonara sayonara iranai zenbu",
+        "translationZh": "再见，再见，不需要的一切"
+      },
+      "grammarCards": [
+        {
+          "token": "さよなら",
+          "reading": "さよなら",
+          "romaji": "sayonara",
+          "posZh": "感叹词",
+          "grammarStructureZh": "感叹词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "再见；告别",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "さよなら",
+          "reading": "さよなら",
+          "romaji": "sayonara",
+          "posZh": "感叹词",
+          "grammarStructureZh": "感叹词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "再见；告别",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "要らない",
+          "reading": "いらない",
+          "romaji": "ira nai",
+          "posZh": "动词（否定）",
+          "grammarStructureZh": "动词（否定）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "不需要",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "全部",
+          "reading": "ぜんぶ",
+          "romaji": "zenbu",
+          "posZh": "名词",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "全部；一切",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l026",
+      "startMs": 93172,
+      "endMs": 96433,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "全部を消したら 自由になれる？",
+          "qrcParts": [
+            {
+              "text": "全",
+              "startMs": 93172,
+              "endMs": 93442,
+              "durationMs": 270
+            },
+            {
+              "text": "部",
+              "startMs": 93442,
+              "endMs": 93712,
+              "durationMs": 270
+            },
+            {
+              "text": "を",
+              "startMs": 93712,
+              "endMs": 93762,
+              "durationMs": 50
+            },
+            {
+              "text": "消",
+              "startMs": 93762,
+              "endMs": 93952,
+              "durationMs": 190
+            },
+            {
+              "text": "し",
+              "startMs": 93952,
+              "endMs": 94062,
+              "durationMs": 110
+            },
+            {
+              "text": "た",
+              "startMs": 94062,
+              "endMs": 94162,
+              "durationMs": 100
+            },
+            {
+              "text": "ら",
+              "startMs": 94162,
+              "endMs": 94322,
+              "durationMs": 160
+            },
+            {
+              "text": " ",
+              "startMs": 94322,
+              "endMs": 94342,
+              "durationMs": 20
+            },
+            {
+              "text": "自",
+              "startMs": 94342,
+              "endMs": 94517,
+              "durationMs": 175
+            },
+            {
+              "text": "由",
+              "startMs": 94517,
+              "endMs": 94712,
+              "durationMs": 195
+            },
+            {
+              "text": "に",
+              "startMs": 94712,
+              "endMs": 94972,
+              "durationMs": 260
+            },
+            {
+              "text": "な",
+              "startMs": 94972,
+              "endMs": 95152,
+              "durationMs": 180
+            },
+            {
+              "text": "れ",
+              "startMs": 95152,
+              "endMs": 95302,
+              "durationMs": 150
+            },
+            {
+              "text": "る",
+              "startMs": 95302,
+              "endMs": 95522,
+              "durationMs": 220
+            },
+            {
+              "text": "？",
+              "startMs": 95522,
+              "endMs": 96433,
+              "durationMs": 911
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "全部を消したら 自由になれる？",
+        "furigana": [
+          {
+            "base": "全部",
+            "reading": "ぜんぶ",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "base": "消",
+            "reading": "け",
+            "start": 3,
+            "end": 4
+          },
+          {
+            "base": "自由",
+            "reading": "じゆう",
+            "start": 8,
+            "end": 10
+          }
+        ],
+        "romaji": "zenbu o keshitara jiyuu ni nareru",
+        "translationZh": "若将一切都抹去，就能获得自由吗？"
+      },
+      "grammarCards": [
+        {
+          "token": "全部を",
+          "reading": "ぜんぶを",
+          "romaji": "zenbu o",
+          "posZh": "名词＋格助词",
+          "grammarStructureZh": "名词＋格助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "把一切",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "消したら",
+          "reading": "けしたら",
+          "romaji": "keshi tara",
+          "posZh": "动词（たら形）",
+          "grammarStructureZh": "动词（たら形）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "如果抹去",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "自由に",
+          "reading": "じゆうに",
+          "romaji": "jiyuu ni",
+          "posZh": "形容动词连用形（结果）",
+          "grammarStructureZh": "形容动词连用形（结果）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "自由地；成为自由的状态",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "なれる",
+          "reading": "なれる",
+          "romaji": "nareru",
+          "posZh": "动词（可能形）",
+          "grammarStructureZh": "动词（可能形）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "能够成为",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l027",
+      "startMs": 96433,
+      "endMs": 99169,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "煩い脳内 誰かの言葉",
+          "qrcParts": [
+            {
+              "text": "煩",
+              "startMs": 96433,
+              "endMs": 96904,
+              "durationMs": 471
+            },
+            {
+              "text": "い",
+              "startMs": 96904,
+              "endMs": 97168,
+              "durationMs": 264
+            },
+            {
+              "text": "脳",
+              "startMs": 97168,
+              "endMs": 97360,
+              "durationMs": 192
+            },
+            {
+              "text": "内",
+              "startMs": 97361,
+              "endMs": 97793,
+              "durationMs": 432
+            },
+            {
+              "text": " ",
+              "startMs": 97793,
+              "endMs": 97793,
+              "durationMs": 0
+            },
+            {
+              "text": "誰",
+              "startMs": 97793,
+              "endMs": 98113,
+              "durationMs": 320
+            },
+            {
+              "text": "か",
+              "startMs": 98113,
+              "endMs": 98266,
+              "durationMs": 153
+            },
+            {
+              "text": "の",
+              "startMs": 98266,
+              "endMs": 98434,
+              "durationMs": 168
+            },
+            {
+              "text": "言",
+              "startMs": 98434,
+              "endMs": 98761,
+              "durationMs": 327
+            },
+            {
+              "text": "葉",
+              "startMs": 98761,
+              "endMs": 99169,
+              "durationMs": 408
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "煩い脳内 誰かの言葉",
+        "furigana": [
+          {
+            "base": "煩",
+            "reading": "うるさ",
+            "start": 0,
+            "end": 1
+          },
+          {
+            "base": "脳内",
+            "reading": "のうない",
+            "start": 2,
+            "end": 4
+          },
+          {
+            "base": "誰",
+            "reading": "だれ",
+            "start": 5,
+            "end": 6
+          },
+          {
+            "base": "言葉",
+            "reading": "ことば",
+            "start": 8,
+            "end": 10
+          }
+        ],
+        "romaji": "urusai nounai dareka no kotoba",
+        "translationZh": "嘈杂的脑海里，某个人的话语"
+      },
+      "grammarCards": [
+        {
+          "token": "煩い脳内",
+          "reading": "うるさいのうない",
+          "romaji": "urusai nou nai",
+          "posZh": "形容词＋名词",
+          "grammarStructureZh": "形容词＋名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "嘈杂的脑海",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "誰か",
+          "reading": "だれか",
+          "romaji": "dare ka",
+          "posZh": "不定代词",
+          "grammarStructureZh": "不定代词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "某人",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "posZh": "格助词",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "表示所属或修饰关系",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "言葉",
+          "reading": "ことば",
+          "romaji": "kotoba",
+          "posZh": "名词",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "话语",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted"
+      }
+    },
+    {
+      "id": "l028",
+      "startMs": 99602,
+      "endMs": 102052,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "捨てたら自分を生きれるのかな",
+          "qrcParts": [
+            {
+              "text": "捨",
+              "startMs": 99602,
+              "endMs": 99732,
+              "durationMs": 130
+            },
+            {
+              "text": "て",
+              "startMs": 99732,
+              "endMs": 99842,
+              "durationMs": 110
+            },
+            {
+              "text": "た",
+              "startMs": 99842,
+              "endMs": 99972,
+              "durationMs": 130
+            },
+            {
+              "text": "ら",
+              "startMs": 99972,
+              "endMs": 100152,
+              "durationMs": 180
+            },
+            {
+              "text": "自",
+              "startMs": 100152,
+              "endMs": 100447,
+              "durationMs": 295
+            },
+            {
+              "text": "分",
+              "startMs": 100447,
+              "endMs": 100742,
+              "durationMs": 295
+            },
+            {
+              "text": "を",
+              "startMs": 100742,
+              "endMs": 100932,
+              "durationMs": 190
+            },
+            {
+              "text": "生",
+              "startMs": 100932,
+              "endMs": 100992,
+              "durationMs": 60
+            },
+            {
+              "text": "き",
+              "startMs": 100992,
+              "endMs": 101162,
+              "durationMs": 170
+            },
+            {
+              "text": "れ",
+              "startMs": 101162,
+              "endMs": 101272,
+              "durationMs": 110
+            },
+            {
+              "text": "る",
+              "startMs": 101272,
+              "endMs": 101462,
+              "durationMs": 190
+            },
+            {
+              "text": "の",
+              "startMs": 101462,
+              "endMs": 101662,
+              "durationMs": 200
+            },
+            {
+              "text": "か",
+              "startMs": 101662,
+              "endMs": 101822,
+              "durationMs": 160
+            },
+            {
+              "text": "な",
+              "startMs": 101822,
+              "endMs": 102052,
+              "durationMs": 230
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "捨てたら自分を生きれるのかな",
+        "furigana": [
+          {
+            "base": "捨",
+            "reading": "す",
+            "start": 0,
+            "end": 1
+          },
+          {
+            "base": "自分",
+            "reading": "じぶん",
+            "start": 4,
+            "end": 6
+          },
+          {
+            "base": "生",
+            "reading": "い",
+            "start": 7,
+            "end": 8
+          }
+        ],
+        "romaji": "sutetara jibun o ikireru no kana",
+        "translationZh": "若将它丢掉，我就能活出自己吗？"
+      },
+      "grammarCards": [
+        {
+          "token": "捨てたら",
+          "reading": "すてたら",
+          "romaji": "sute tara",
+          "posZh": "动词（たら形）",
+          "grammarStructureZh": "动词（たら形）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "如果丢掉",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "自分を",
+          "reading": "じぶんを",
+          "romaji": "jibun o",
+          "posZh": "名词＋格助词",
+          "grammarStructureZh": "名词＋格助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "自己；把自己作为对象",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "生きれる",
+          "reading": "いきれる",
+          "romaji": "iki reru",
+          "posZh": "口语可能形（ら抜き）",
+          "grammarStructureZh": "口语可能形（ら抜き）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "能够活出；能够活成",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "のかな",
+          "reading": "のかな",
+          "romaji": "no ka na",
+          "posZh": "の＋か＋な（自问）",
+          "grammarStructureZh": "の＋か＋な（自问）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          },
+          "functionZh": "表示带不确定和缓和语气的自问“是否……呢”"
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l029",
+      "startMs": 102602,
+      "endMs": 107462,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "立ち止まる事ばかり 覚えてしまった",
+          "qrcParts": [
+            {
+              "text": "立",
+              "startMs": 102602,
+              "endMs": 102792,
+              "durationMs": 190
+            },
+            {
+              "text": "ち",
+              "startMs": 102792,
+              "endMs": 103052,
+              "durationMs": 260
+            },
+            {
+              "text": "止",
+              "startMs": 103052,
+              "endMs": 103182,
+              "durationMs": 130
+            },
+            {
+              "text": "ま",
+              "startMs": 103182,
+              "endMs": 103202,
+              "durationMs": 20
+            },
+            {
+              "text": "る",
+              "startMs": 103202,
+              "endMs": 103752,
+              "durationMs": 550
+            },
+            {
+              "text": "事",
+              "startMs": 103752,
+              "endMs": 104262,
+              "durationMs": 510
+            },
+            {
+              "text": "ば",
+              "startMs": 104262,
+              "endMs": 104402,
+              "durationMs": 140
+            },
+            {
+              "text": "か",
+              "startMs": 104402,
+              "endMs": 104642,
+              "durationMs": 240
+            },
+            {
+              "text": "り",
+              "startMs": 104642,
+              "endMs": 104982,
+              "durationMs": 340
+            },
+            {
+              "text": " ",
+              "startMs": 104982,
+              "endMs": 105912,
+              "durationMs": 930
+            },
+            {
+              "text": "覚",
+              "startMs": 105912,
+              "endMs": 106037,
+              "durationMs": 125
+            },
+            {
+              "text": "え",
+              "startMs": 106037,
+              "endMs": 106192,
+              "durationMs": 155
+            },
+            {
+              "text": "て",
+              "startMs": 106192,
+              "endMs": 106342,
+              "durationMs": 150
+            },
+            {
+              "text": "し",
+              "startMs": 106342,
+              "endMs": 106545,
+              "durationMs": 203
+            },
+            {
+              "text": "ま",
+              "startMs": 106545,
+              "endMs": 106748,
+              "durationMs": 203
+            },
+            {
+              "text": "っ",
+              "startMs": 106748,
+              "endMs": 106952,
+              "durationMs": 204
+            },
+            {
+              "text": "た",
+              "startMs": 106952,
+              "endMs": 107462,
+              "durationMs": 510
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "立ち止まる事ばかり 覚えてしまった",
+        "furigana": [
+          {
+            "base": "立",
+            "reading": "た",
+            "start": 0,
+            "end": 1
+          },
+          {
+            "base": "止",
+            "reading": "ど",
+            "start": 2,
+            "end": 3
+          },
+          {
+            "base": "事",
+            "reading": "こと",
+            "start": 5,
+            "end": 6
+          },
+          {
+            "base": "覚",
+            "reading": "おぼ",
+            "start": 10,
+            "end": 11
+          }
+        ],
+        "romaji": "tachidomaru koto bakari oboete shimatta",
+        "translationZh": "我竟只记得停下脚步这种事"
+      },
+      "grammarCards": [
+        {
+          "token": "立ち止まる",
+          "reading": "たちどまる",
+          "romaji": "tachidomaru",
+          "posZh": "复合动词",
+          "grammarStructureZh": "复合动词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "停下脚步",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "事ばかり",
+          "reading": "ことばかり",
+          "romaji": "koto bakari",
+          "posZh": "名词＋副助词",
+          "grammarStructureZh": "名词＋副助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "净是这种事",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "覚えてしまった",
+          "reading": "おぼえてしまった",
+          "romaji": "oboete shimatta",
+          "posZh": "动词（てしまう・过去）",
+          "grammarStructureZh": "动词（てしまう・过去）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "不由得记住了；竟只记得",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l030",
+      "startMs": 109093,
+      "endMs": 111586,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "あれでもないこれでもない",
+          "qrcParts": [
+            {
+              "text": "あ",
+              "startMs": 109093,
+              "endMs": 109284,
+              "durationMs": 191
+            },
+            {
+              "text": "れ",
+              "startMs": 109284,
+              "endMs": 109451,
+              "durationMs": 167
+            },
+            {
+              "text": "で",
+              "startMs": 109451,
+              "endMs": 109618,
+              "durationMs": 167
+            },
+            {
+              "text": "も",
+              "startMs": 109618,
+              "endMs": 109778,
+              "durationMs": 160
+            },
+            {
+              "text": "な",
+              "startMs": 109778,
+              "endMs": 109947,
+              "durationMs": 169
+            },
+            {
+              "text": "い",
+              "startMs": 109947,
+              "endMs": 110323,
+              "durationMs": 376
+            },
+            {
+              "text": "こ",
+              "startMs": 110323,
+              "endMs": 110491,
+              "durationMs": 168
+            },
+            {
+              "text": "れ",
+              "startMs": 110491,
+              "endMs": 110674,
+              "durationMs": 183
+            },
+            {
+              "text": "で",
+              "startMs": 110674,
+              "endMs": 110850,
+              "durationMs": 176
+            },
+            {
+              "text": "も",
+              "startMs": 110850,
+              "endMs": 111042,
+              "durationMs": 192
+            },
+            {
+              "text": "な",
+              "startMs": 111042,
+              "endMs": 111203,
+              "durationMs": 161
+            },
+            {
+              "text": "い",
+              "startMs": 111203,
+              "endMs": 111586,
+              "durationMs": 383
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "あれでもないこれでもない",
+        "furigana": [],
+        "romaji": "are demo nai kore demo nai",
+        "translationZh": "不是那个，也不是这个"
+      },
+      "grammarCards": [
+        {
+          "token": "あれでもない",
+          "reading": "あれでもない",
+          "romaji": "are de mo nai",
+          "posZh": "指示词＋助词＋否定",
+          "grammarStructureZh": "指示词＋助词＋否定",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "不是那个",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "これでもない",
+          "reading": "これでもない",
+          "romaji": "kore de mo nai",
+          "posZh": "指示词＋助词＋否定",
+          "grammarStructureZh": "指示词＋助词＋否定",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "也不是这个",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l031",
+      "startMs": 112170,
+      "endMs": 114019,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "歪んでしまった",
+          "qrcParts": [
+            {
+              "text": "歪",
+              "startMs": 112170,
+              "endMs": 112538,
+              "durationMs": 368
+            },
+            {
+              "text": "ん",
+              "startMs": 112539,
+              "endMs": 112731,
+              "durationMs": 192
+            },
+            {
+              "text": "で",
+              "startMs": 112731,
+              "endMs": 112922,
+              "durationMs": 191
+            },
+            {
+              "text": "し",
+              "startMs": 112922,
+              "endMs": 113098,
+              "durationMs": 176
+            },
+            {
+              "text": "ま",
+              "startMs": 113098,
+              "endMs": 113298,
+              "durationMs": 200
+            },
+            {
+              "text": "っ",
+              "startMs": 113299,
+              "endMs": 113499,
+              "durationMs": 200
+            },
+            {
+              "text": "た",
+              "startMs": 113499,
+              "endMs": 114019,
+              "durationMs": 520
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "歪んでしまった",
+        "furigana": [
+          {
+            "base": "歪",
+            "reading": "ゆが",
+            "start": 0,
+            "end": 1
+          }
+        ],
+        "romaji": "yugande shimatta",
+        "translationZh": "已经扭曲了"
+      },
+      "grammarCards": [
+        {
+          "token": "歪んでしまった",
+          "reading": "ゆがんでしまった",
+          "romaji": "yugande shimatta",
+          "posZh": "动词（てしまう・过去）",
+          "grammarStructureZh": "动词（てしまう・过去）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "不由得扭曲了；已经扭曲了",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l032",
+      "startMs": 115352,
+      "endMs": 121052,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "後悔ばかりで 夜が終わらないや",
+          "qrcParts": [
+            {
+              "text": "後",
+              "startMs": 115352,
+              "endMs": 116097,
+              "durationMs": 745
+            },
+            {
+              "text": "悔",
+              "startMs": 116097,
+              "endMs": 116842,
+              "durationMs": 745
+            },
+            {
+              "text": "ば",
+              "startMs": 116842,
+              "endMs": 117002,
+              "durationMs": 160
+            },
+            {
+              "text": "か",
+              "startMs": 117002,
+              "endMs": 117212,
+              "durationMs": 210
+            },
+            {
+              "text": "り",
+              "startMs": 117212,
+              "endMs": 117442,
+              "durationMs": 230
+            },
+            {
+              "text": "で",
+              "startMs": 117442,
+              "endMs": 117842,
+              "durationMs": 400
+            },
+            {
+              "text": " ",
+              "startMs": 117842,
+              "endMs": 118412,
+              "durationMs": 570
+            },
+            {
+              "text": "夜",
+              "startMs": 118412,
+              "endMs": 118962,
+              "durationMs": 550
+            },
+            {
+              "text": "が",
+              "startMs": 118962,
+              "endMs": 119182,
+              "durationMs": 220
+            },
+            {
+              "text": "終",
+              "startMs": 119182,
+              "endMs": 119262,
+              "durationMs": 80
+            },
+            {
+              "text": "わ",
+              "startMs": 119262,
+              "endMs": 119602,
+              "durationMs": 340
+            },
+            {
+              "text": "ら",
+              "startMs": 119602,
+              "endMs": 119782,
+              "durationMs": 180
+            },
+            {
+              "text": "な",
+              "startMs": 119782,
+              "endMs": 120452,
+              "durationMs": 670
+            },
+            {
+              "text": "い",
+              "startMs": 120452,
+              "endMs": 120722,
+              "durationMs": 270
+            },
+            {
+              "text": "や",
+              "startMs": 120722,
+              "endMs": 121052,
+              "durationMs": 330
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "後悔ばかりで 夜が終わらないや",
+        "furigana": [
+          {
+            "base": "後悔",
+            "reading": "こうかい",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "base": "夜",
+            "reading": "よる",
+            "start": 7,
+            "end": 8
+          },
+          {
+            "base": "終",
+            "reading": "お",
+            "start": 9,
+            "end": 10
+          }
+        ],
+        "romaji": "koukai bakari de yoru ga owaranai ya",
+        "translationZh": "满是后悔，夜晚仍不会结束啊"
+      },
+      "grammarCards": [
+        {
+          "token": "後悔ばかりで",
+          "reading": "こうかいばかりで",
+          "romaji": "koukai bakari de",
+          "posZh": "名词＋ばかり＋断定助动词「で」",
+          "grammarStructureZh": "名词＋ばかり＋断定助动词「で」",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "尽是后悔；满是悔恨",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "夜が",
+          "reading": "よるが",
+          "romaji": "yoru ga",
+          "posZh": "名词＋主格助词",
+          "grammarStructureZh": "名词＋主格助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "夜晚",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "終わらないや",
+          "reading": "おわらないや",
+          "romaji": "owara nai ya",
+          "posZh": "动词（否定＋终助词）",
+          "grammarStructureZh": "动词（否定＋终助词）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "夜晚不会结束啊",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l033",
+      "startMs": 121632,
+      "endMs": 130842,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "朝焼けには 誰かいて 心躍る",
+          "qrcParts": [
+            {
+              "text": "朝",
+              "startMs": 121632,
+              "endMs": 121892,
+              "durationMs": 260
+            },
+            {
+              "text": "焼",
+              "startMs": 121892,
+              "endMs": 122152,
+              "durationMs": 260
+            },
+            {
+              "text": "け",
+              "startMs": 122152,
+              "endMs": 122412,
+              "durationMs": 260
+            },
+            {
+              "text": "に",
+              "startMs": 122412,
+              "endMs": 122622,
+              "durationMs": 210
+            },
+            {
+              "text": "は",
+              "startMs": 122622,
+              "endMs": 122822,
+              "durationMs": 200
+            },
+            {
+              "text": " ",
+              "startMs": 122822,
+              "endMs": 123012,
+              "durationMs": 190
+            },
+            {
+              "text": "誰",
+              "startMs": 123012,
+              "endMs": 123402,
+              "durationMs": 390
+            },
+            {
+              "text": "か",
+              "startMs": 123402,
+              "endMs": 123622,
+              "durationMs": 220
+            },
+            {
+              "text": "い",
+              "startMs": 123622,
+              "endMs": 123822,
+              "durationMs": 200
+            },
+            {
+              "text": "て",
+              "startMs": 123822,
+              "endMs": 124042,
+              "durationMs": 220
+            },
+            {
+              "text": " ",
+              "startMs": 124042,
+              "endMs": 124222,
+              "durationMs": 180
+            },
+            {
+              "text": "心",
+              "startMs": 124222,
+              "endMs": 125082,
+              "durationMs": 860
+            },
+            {
+              "text": "躍",
+              "startMs": 125082,
+              "endMs": 127962,
+              "durationMs": 2880
+            },
+            {
+              "text": "る",
+              "startMs": 127962,
+              "endMs": 130842,
+              "durationMs": 2880
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "朝焼けには 誰かいて 心躍る",
+        "furigana": [
+          {
+            "base": "朝焼",
+            "reading": "あさや",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "base": "誰",
+            "reading": "だれ",
+            "start": 6,
+            "end": 7
+          },
+          {
+            "base": "心躍",
+            "reading": "こころおど",
+            "start": 11,
+            "end": 13
+          }
+        ],
+        "romaji": "asayake ni wa dareka ite kokoro odoru",
+        "translationZh": "晨曦之中有人相伴，内心便会雀跃"
+      },
+      "grammarCards": [
+        {
+          "token": "朝焼けには",
+          "reading": "あさやけには",
+          "romaji": "asayake ni wa",
+          "posZh": "名词＋助词",
+          "grammarStructureZh": "名词＋助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "在晨曦时；到了朝霞之际",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "誰か",
+          "reading": "だれか",
+          "romaji": "dare ka",
+          "posZh": "不定代词",
+          "grammarStructureZh": "不定代词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "某人",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "いて",
+          "reading": "いて",
+          "romaji": "i te",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "动词（て形）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "在；存在着",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "心躍る",
+          "reading": "こころおどる",
+          "romaji": "kokoro odoru",
+          "posZh": "名词＋动词",
+          "grammarStructureZh": "名词＋动词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "内心雀跃",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l034",
+      "startMs": 140232,
+      "endMs": 140972,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "代償なんて",
+          "qrcParts": [
+            {
+              "text": "代",
+              "startMs": 140232,
+              "endMs": 140432,
+              "durationMs": 200
+            },
+            {
+              "text": "償",
+              "startMs": 140432,
+              "endMs": 140632,
+              "durationMs": 200
+            },
+            {
+              "text": "な",
+              "startMs": 140632,
+              "endMs": 140792,
+              "durationMs": 160
+            },
+            {
+              "text": "ん",
+              "startMs": 140792,
+              "endMs": 140842,
+              "durationMs": 50
+            },
+            {
+              "text": "て",
+              "startMs": 140842,
+              "endMs": 140972,
+              "durationMs": 130
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "代償なんて",
+        "furigana": [
+          {
+            "base": "代償",
+            "reading": "だいしょう",
+            "start": 0,
+            "end": 2
+          }
+        ],
+        "romaji": "daishou nante",
+        "translationZh": "所谓代价什么的"
+      },
+      "grammarCards": [
+        {
+          "token": "代償なんて",
+          "reading": "だいしょうなんて",
+          "romaji": "daishou nante",
+          "posZh": "名词＋副助词",
+          "grammarStructureZh": "名词＋副助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "所谓代价之类的",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted"
+      }
+    },
+    {
+      "id": "l035",
+      "startMs": 140992,
+      "endMs": 143282,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "困難だって超えていくって",
+          "qrcParts": [
+            {
+              "text": "困",
+              "startMs": 140992,
+              "endMs": 141227,
+              "durationMs": 235
+            },
+            {
+              "text": "難",
+              "startMs": 141227,
+              "endMs": 141462,
+              "durationMs": 235
+            },
+            {
+              "text": "だ",
+              "startMs": 141462,
+              "endMs": 141592,
+              "durationMs": 130
+            },
+            {
+              "text": "っ",
+              "startMs": 141592,
+              "endMs": 141692,
+              "durationMs": 100
+            },
+            {
+              "text": "て",
+              "startMs": 141692,
+              "endMs": 141792,
+              "durationMs": 100
+            },
+            {
+              "text": "超",
+              "startMs": 141792,
+              "endMs": 142062,
+              "durationMs": 270
+            },
+            {
+              "text": "え",
+              "startMs": 142062,
+              "endMs": 142212,
+              "durationMs": 150
+            },
+            {
+              "text": "て",
+              "startMs": 142212,
+              "endMs": 142412,
+              "durationMs": 200
+            },
+            {
+              "text": "い",
+              "startMs": 142412,
+              "endMs": 142432,
+              "durationMs": 20
+            },
+            {
+              "text": "く",
+              "startMs": 142432,
+              "endMs": 142722,
+              "durationMs": 290
+            },
+            {
+              "text": "っ",
+              "startMs": 142722,
+              "endMs": 143002,
+              "durationMs": 280
+            },
+            {
+              "text": "て",
+              "startMs": 143002,
+              "endMs": 143282,
+              "durationMs": 280
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "困難だって超えていくって",
+        "furigana": [
+          {
+            "base": "困難",
+            "reading": "こんなん",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "base": "超",
+            "reading": "こ",
+            "start": 5,
+            "end": 6
+          }
+        ],
+        "romaji": "konnan datte koete ikutte",
+        "translationZh": "说好了，无论多么困难都要跨越过去"
+      },
+      "grammarCards": [
+        {
+          "token": "困難だって",
+          "reading": "こんなんだって",
+          "romaji": "konnan datte",
+          "posZh": "形容动词词干＋だって（让步）",
+          "grammarStructureZh": "形容动词词干＋だって（让步）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "即使困难也",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "超えていく",
+          "reading": "こえていく",
+          "romaji": "koe te iku",
+          "posZh": "动词（て形＋いく）",
+          "grammarStructureZh": "动词（て形＋いく）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "跨越过去；不断超越",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "って",
+          "reading": "って",
+          "romaji": "tte",
+          "posZh": "引用助词",
+          "grammarStructureZh": "引用助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          },
+          "functionZh": "引用前述决定内容，并承接后句的「決めた」"
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l036",
+      "startMs": 143592,
+      "endMs": 146562,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "決めたのに壊したくなって",
+          "qrcParts": [
+            {
+              "text": "決",
+              "startMs": 143592,
+              "endMs": 143792,
+              "durationMs": 200
+            },
+            {
+              "text": "め",
+              "startMs": 143792,
+              "endMs": 143882,
+              "durationMs": 90
+            },
+            {
+              "text": "た",
+              "startMs": 143882,
+              "endMs": 144052,
+              "durationMs": 170
+            },
+            {
+              "text": "の",
+              "startMs": 144052,
+              "endMs": 144422,
+              "durationMs": 370
+            },
+            {
+              "text": "に",
+              "startMs": 144422,
+              "endMs": 144642,
+              "durationMs": 220
+            },
+            {
+              "text": "壊",
+              "startMs": 144642,
+              "endMs": 144962,
+              "durationMs": 320
+            },
+            {
+              "text": "し",
+              "startMs": 144962,
+              "endMs": 145282,
+              "durationMs": 320
+            },
+            {
+              "text": "た",
+              "startMs": 145282,
+              "endMs": 145422,
+              "durationMs": 140
+            },
+            {
+              "text": "く",
+              "startMs": 145422,
+              "endMs": 145642,
+              "durationMs": 220
+            },
+            {
+              "text": "な",
+              "startMs": 145642,
+              "endMs": 145792,
+              "durationMs": 150
+            },
+            {
+              "text": "っ",
+              "startMs": 145792,
+              "endMs": 146002,
+              "durationMs": 210
+            },
+            {
+              "text": "て",
+              "startMs": 146002,
+              "endMs": 146562,
+              "durationMs": 560
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "決めたのに壊したくなって",
+        "furigana": [
+          {
+            "base": "決",
+            "reading": "き",
+            "start": 0,
+            "end": 1
+          },
+          {
+            "base": "壊",
+            "reading": "こわ",
+            "start": 5,
+            "end": 6
+          }
+        ],
+        "romaji": "kimeta noni kowashitaku natte",
+        "translationZh": "明明已经决定了，却又想将它毁掉"
+      },
+      "grammarCards": [
+        {
+          "token": "決めたのに",
+          "reading": "きめたのに",
+          "romaji": "kime ta noni",
+          "posZh": "动词（过去＋のに）",
+          "grammarStructureZh": "动词（过去＋のに）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "明明已经决定了，却…",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "壊したくなって",
+          "reading": "こわしたくなって",
+          "romaji": "kowashitaku natte",
+          "posZh": "动词（愿望变化）",
+          "grammarStructureZh": "动词（愿望变化）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "变得想毁掉",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l037",
+      "startMs": 146762,
+      "endMs": 150372,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "想像の中じゃ 足りないくらいに",
+          "qrcParts": [
+            {
+              "text": "想",
+              "startMs": 146762,
+              "endMs": 147087,
+              "durationMs": 325
+            },
+            {
+              "text": "像",
+              "startMs": 147087,
+              "endMs": 147412,
+              "durationMs": 325
+            },
+            {
+              "text": "の",
+              "startMs": 147412,
+              "endMs": 147482,
+              "durationMs": 70
+            },
+            {
+              "text": "中",
+              "startMs": 147482,
+              "endMs": 147972,
+              "durationMs": 490
+            },
+            {
+              "text": "じ",
+              "startMs": 147972,
+              "endMs": 148197,
+              "durationMs": 225
+            },
+            {
+              "text": "ゃ",
+              "startMs": 148197,
+              "endMs": 148422,
+              "durationMs": 225
+            },
+            {
+              "text": " ",
+              "startMs": 148422,
+              "endMs": 148592,
+              "durationMs": 170
+            },
+            {
+              "text": "足",
+              "startMs": 148592,
+              "endMs": 148782,
+              "durationMs": 190
+            },
+            {
+              "text": "り",
+              "startMs": 148782,
+              "endMs": 149192,
+              "durationMs": 410
+            },
+            {
+              "text": "な",
+              "startMs": 149192,
+              "endMs": 149562,
+              "durationMs": 370
+            },
+            {
+              "text": "い",
+              "startMs": 149562,
+              "endMs": 149582,
+              "durationMs": 20
+            },
+            {
+              "text": "く",
+              "startMs": 149582,
+              "endMs": 149812,
+              "durationMs": 230
+            },
+            {
+              "text": "ら",
+              "startMs": 149812,
+              "endMs": 150032,
+              "durationMs": 220
+            },
+            {
+              "text": "い",
+              "startMs": 150032,
+              "endMs": 150232,
+              "durationMs": 200
+            },
+            {
+              "text": "に",
+              "startMs": 150232,
+              "endMs": 150372,
+              "durationMs": 140
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "想像の中じゃ 足りないくらいに",
+        "furigana": [
+          {
+            "base": "想像",
+            "reading": "そうぞう",
+            "start": 0,
+            "end": 2
+          },
+          {
+            "base": "中",
+            "reading": "なか",
+            "start": 3,
+            "end": 4
+          },
+          {
+            "base": "足",
+            "reading": "た",
+            "start": 7,
+            "end": 8
+          }
+        ],
+        "romaji": "souzou no naka ja tarinai kurai ni",
+        "translationZh": "在想象之中，也仍觉得不够"
+      },
+      "grammarCards": [
+        {
+          "token": "想像の中じゃ",
+          "reading": "そうぞうのなかじゃ",
+          "romaji": "souzou no naka ja",
+          "posZh": "名词＋では→じゃ（范围提示）",
+          "grammarStructureZh": "名词＋では→じゃ（范围提示）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "在想象之中；仅凭想象",
+          "status": "human-confirmed"
+        },
+        {
+          "token": "足りないくらいに",
+          "reading": "たりないくらいに",
+          "romaji": "tari nai kurai ni",
+          "posZh": "动词否定形＋くらいに（程度）",
+          "grammarStructureZh": "动词否定形＋くらいに（程度）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "到了仍觉不够的程度",
+          "status": "human-confirmed"
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l038",
+      "startMs": 150392,
+      "endMs": 152752,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "君と叶えてみたい",
+          "qrcParts": [
+            {
+              "text": "君",
+              "startMs": 150392,
+              "endMs": 150952,
+              "durationMs": 560
+            },
+            {
+              "text": "と",
+              "startMs": 150952,
+              "endMs": 151222,
+              "durationMs": 270
+            },
+            {
+              "text": "叶",
+              "startMs": 151222,
+              "endMs": 151482,
+              "durationMs": 260
+            },
+            {
+              "text": "え",
+              "startMs": 151482,
+              "endMs": 151742,
+              "durationMs": 260
+            },
+            {
+              "text": "て",
+              "startMs": 151742,
+              "endMs": 152012,
+              "durationMs": 270
+            },
+            {
+              "text": "み",
+              "startMs": 152012,
+              "endMs": 152232,
+              "durationMs": 220
+            },
+            {
+              "text": "た",
+              "startMs": 152232,
+              "endMs": 152652,
+              "durationMs": 420
+            },
+            {
+              "text": "い",
+              "startMs": 152652,
+              "endMs": 152752,
+              "durationMs": 100
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "君と叶えてみたい",
+        "furigana": [
+          {
+            "base": "君",
+            "reading": "きみ",
+            "start": 0,
+            "end": 1
+          },
+          {
+            "base": "叶",
+            "reading": "かな",
+            "start": 2,
+            "end": 3
+          }
+        ],
+        "romaji": "kimi to kanaete mitai",
+        "translationZh": "想试着和你一起实现"
+      },
+      "grammarCards": [
+        {
+          "token": "君と",
+          "reading": "きみと",
+          "romaji": "kimi to",
+          "posZh": "名词＋格助词",
+          "grammarStructureZh": "名词＋格助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "和你一起",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "叶えてみたい",
+          "reading": "かなえてみたい",
+          "romaji": "kanae te mi tai",
+          "posZh": "てみる＋たい（尝试愿望）",
+          "grammarStructureZh": "てみる＋たい（尝试愿望）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "想试着实现",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l039",
+      "startMs": 153042,
+      "endMs": 153781,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "感傷ばっか",
+          "qrcParts": [
+            {
+              "text": "感",
+              "startMs": 153042,
+              "endMs": 153242,
+              "durationMs": 200
+            },
+            {
+              "text": "傷",
+              "startMs": 153242,
+              "endMs": 153442,
+              "durationMs": 200
+            },
+            {
+              "text": "ば",
+              "startMs": 153442,
+              "endMs": 153555,
+              "durationMs": 113
+            },
+            {
+              "text": "っ",
+              "startMs": 153555,
+              "endMs": 153668,
+              "durationMs": 113
+            },
+            {
+              "text": "か",
+              "startMs": 153668,
+              "endMs": 153781,
+              "durationMs": 113
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "感傷ばっか",
+        "furigana": [
+          {
+            "base": "感傷",
+            "reading": "かんしょう",
+            "start": 0,
+            "end": 2
+          }
+        ],
+        "romaji": "kanshou bakka",
+        "translationZh": "满是感伤"
+      },
+      "grammarCards": [
+        {
+          "token": "感傷ばっか",
+          "reading": "かんしょうばっか",
+          "romaji": "kanshou bakka",
+          "posZh": "名词＋副助词",
+          "grammarStructureZh": "名词＋副助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "尽是感伤",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted"
+      }
+    },
+    {
+      "id": "l040",
+      "startMs": 153802,
+      "endMs": 156152,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "なんで心に壁を",
+          "qrcParts": [
+            {
+              "text": "な",
+              "startMs": 153802,
+              "endMs": 154012,
+              "durationMs": 210
+            },
+            {
+              "text": "ん",
+              "startMs": 154012,
+              "endMs": 154082,
+              "durationMs": 70
+            },
+            {
+              "text": "で",
+              "startMs": 154082,
+              "endMs": 154232,
+              "durationMs": 150
+            },
+            {
+              "text": "心",
+              "startMs": 154232,
+              "endMs": 154852,
+              "durationMs": 620
+            },
+            {
+              "text": "に",
+              "startMs": 154852,
+              "endMs": 155052,
+              "durationMs": 200
+            },
+            {
+              "text": "壁",
+              "startMs": 155052,
+              "endMs": 155652,
+              "durationMs": 600
+            },
+            {
+              "text": "を",
+              "startMs": 155652,
+              "endMs": 156152,
+              "durationMs": 500
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "なんで心に壁を",
+        "furigana": [
+          {
+            "base": "心",
+            "reading": "こころ",
+            "start": 3,
+            "end": 4
+          },
+          {
+            "base": "壁",
+            "reading": "かべ",
+            "start": 5,
+            "end": 6
+          }
+        ],
+        "romaji": "nande kokoro ni kabe o",
+        "translationZh": "为什么要在心里筑起一道墙"
+      },
+      "grammarCards": [
+        {
+          "token": "なんで",
+          "reading": "なんで",
+          "romaji": "nande",
+          "posZh": "副词性疑问词",
+          "grammarStructureZh": "副词性疑问词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "为什么",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "心に",
+          "reading": "こころに",
+          "romaji": "kokoro ni",
+          "posZh": "名词＋格助词",
+          "grammarStructureZh": "名词＋格助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "在心里",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "壁を",
+          "reading": "かべを",
+          "romaji": "kabe o",
+          "posZh": "名词＋格助词",
+          "grammarStructureZh": "名词＋格助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "墙；内心的隔阂",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l041",
+      "startMs": 156372,
+      "endMs": 159052,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "つくってしまうんだろう",
+          "qrcParts": [
+            {
+              "text": "つ",
+              "startMs": 156372,
+              "endMs": 156505,
+              "durationMs": 133
+            },
+            {
+              "text": "く",
+              "startMs": 156505,
+              "endMs": 156638,
+              "durationMs": 133
+            },
+            {
+              "text": "っ",
+              "startMs": 156638,
+              "endMs": 156772,
+              "durationMs": 134
+            },
+            {
+              "text": "て",
+              "startMs": 156772,
+              "endMs": 157082,
+              "durationMs": 310
+            },
+            {
+              "text": "し",
+              "startMs": 157082,
+              "endMs": 157432,
+              "durationMs": 350
+            },
+            {
+              "text": "ま",
+              "startMs": 157432,
+              "endMs": 157622,
+              "durationMs": 190
+            },
+            {
+              "text": "う",
+              "startMs": 157622,
+              "endMs": 157962,
+              "durationMs": 340
+            },
+            {
+              "text": "ん",
+              "startMs": 157962,
+              "endMs": 158032,
+              "durationMs": 70
+            },
+            {
+              "text": "だ",
+              "startMs": 158032,
+              "endMs": 158232,
+              "durationMs": 200
+            },
+            {
+              "text": "ろ",
+              "startMs": 158232,
+              "endMs": 159032,
+              "durationMs": 800
+            },
+            {
+              "text": "う",
+              "startMs": 159032,
+              "endMs": 159052,
+              "durationMs": 20
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "つくってしまうんだろう",
+        "furigana": [],
+        "romaji": "tsukutte shimaun darou",
+        "translationZh": "总会这样做呢"
+      },
+      "grammarCards": [
+        {
+          "token": "つくってしまうん",
+          "reading": "つくってしまうん",
+          "romaji": "tsukutte shimau n",
+          "posZh": "てしまう＋ん（解释）",
+          "grammarStructureZh": "てしまう＋ん（解释）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "不由得筑起；竟会建起",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "だろう",
+          "reading": "だろう",
+          "romaji": "daro u",
+          "posZh": "解释推量",
+          "grammarStructureZh": "解释推量",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "推量／自问“为什么会呢”",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l042",
+      "startMs": 159632,
+      "endMs": 162682,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "誰かの希望になれるなら",
+          "qrcParts": [
+            {
+              "text": "誰",
+              "startMs": 159632,
+              "endMs": 159812,
+              "durationMs": 180
+            },
+            {
+              "text": "か",
+              "startMs": 159812,
+              "endMs": 160032,
+              "durationMs": 220
+            },
+            {
+              "text": "の",
+              "startMs": 160032,
+              "endMs": 160392,
+              "durationMs": 360
+            },
+            {
+              "text": "希",
+              "startMs": 160392,
+              "endMs": 160807,
+              "durationMs": 415
+            },
+            {
+              "text": "望",
+              "startMs": 160807,
+              "endMs": 161222,
+              "durationMs": 415
+            },
+            {
+              "text": "に",
+              "startMs": 161222,
+              "endMs": 161442,
+              "durationMs": 220
+            },
+            {
+              "text": "な",
+              "startMs": 161442,
+              "endMs": 161622,
+              "durationMs": 180
+            },
+            {
+              "text": "れ",
+              "startMs": 161622,
+              "endMs": 162112,
+              "durationMs": 490
+            },
+            {
+              "text": "る",
+              "startMs": 162112,
+              "endMs": 162202,
+              "durationMs": 90
+            },
+            {
+              "text": "な",
+              "startMs": 162202,
+              "endMs": 162452,
+              "durationMs": 250
+            },
+            {
+              "text": "ら",
+              "startMs": 162452,
+              "endMs": 162682,
+              "durationMs": 230
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "誰かの希望になれるなら",
+        "furigana": [
+          {
+            "base": "誰",
+            "reading": "だれ",
+            "start": 0,
+            "end": 1
+          },
+          {
+            "base": "希望",
+            "reading": "きぼう",
+            "start": 3,
+            "end": 5
+          }
+        ],
+        "romaji": "dareka no kibou ni nareru nara",
+        "translationZh": "如果能够成为某个人的希望的话"
+      },
+      "grammarCards": [
+        {
+          "token": "誰か",
+          "reading": "だれか",
+          "romaji": "dare ka",
+          "posZh": "不定代词",
+          "grammarStructureZh": "不定代词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "某人",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "posZh": "格助词",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "表示所属或修饰关系",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "希望",
+          "reading": "きぼう",
+          "romaji": "kibou",
+          "posZh": "名词",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "希望",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "に",
+          "reading": "に",
+          "romaji": "ni",
+          "posZh": "格助词",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "提示变化结果",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "なれるなら",
+          "reading": "なれるなら",
+          "romaji": "nareru nara",
+          "posZh": "动词（可能＋条件）",
+          "grammarStructureZh": "动词（可能＋条件）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "如果能够成为…的话",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l043",
+      "startMs": 162852,
+      "endMs": 169242,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "誰にも言えない痛み 引き連れてさ",
+          "qrcParts": [
+            {
+              "text": "誰",
+              "startMs": 162852,
+              "endMs": 163092,
+              "durationMs": 240
+            },
+            {
+              "text": "に",
+              "startMs": 163092,
+              "endMs": 163262,
+              "durationMs": 170
+            },
+            {
+              "text": "も",
+              "startMs": 163262,
+              "endMs": 163602,
+              "durationMs": 340
+            },
+            {
+              "text": "言",
+              "startMs": 163602,
+              "endMs": 163752,
+              "durationMs": 150
+            },
+            {
+              "text": "え",
+              "startMs": 163752,
+              "endMs": 163862,
+              "durationMs": 110
+            },
+            {
+              "text": "な",
+              "startMs": 163862,
+              "endMs": 164052,
+              "durationMs": 190
+            },
+            {
+              "text": "い",
+              "startMs": 164052,
+              "endMs": 164402,
+              "durationMs": 350
+            },
+            {
+              "text": "痛",
+              "startMs": 164402,
+              "endMs": 164622,
+              "durationMs": 220
+            },
+            {
+              "text": "み",
+              "startMs": 164622,
+              "endMs": 165172,
+              "durationMs": 550
+            },
+            {
+              "text": " ",
+              "startMs": 165172,
+              "endMs": 165172,
+              "durationMs": 0
+            },
+            {
+              "text": "引",
+              "startMs": 165172,
+              "endMs": 165262,
+              "durationMs": 90
+            },
+            {
+              "text": "き",
+              "startMs": 165262,
+              "endMs": 165282,
+              "durationMs": 20
+            },
+            {
+              "text": "連",
+              "startMs": 165282,
+              "endMs": 165612,
+              "durationMs": 330
+            },
+            {
+              "text": "れ",
+              "startMs": 165612,
+              "endMs": 165972,
+              "durationMs": 360
+            },
+            {
+              "text": "て",
+              "startMs": 165972,
+              "endMs": 166172,
+              "durationMs": 200
+            },
+            {
+              "text": "さ",
+              "startMs": 166172,
+              "endMs": 169242,
+              "durationMs": 3070
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "誰にも言えない痛み 引き連れてさ",
+        "furigana": [
+          {
+            "base": "誰",
+            "reading": "だれ",
+            "start": 0,
+            "end": 1
+          },
+          {
+            "base": "言",
+            "reading": "い",
+            "start": 3,
+            "end": 4
+          },
+          {
+            "base": "痛",
+            "reading": "いた",
+            "start": 7,
+            "end": 8
+          },
+          {
+            "base": "引",
+            "reading": "ひ",
+            "start": 10,
+            "end": 11
+          },
+          {
+            "base": "連",
+            "reading": "つ",
+            "start": 12,
+            "end": 13
+          }
+        ],
+        "romaji": "darenimo ienai itami hikitsurete sa",
+        "translationZh": "带着无法向任何人诉说的痛苦"
+      },
+      "grammarCards": [
+        {
+          "token": "誰にも",
+          "reading": "だれにも",
+          "romaji": "dare ni mo",
+          "posZh": "疑问代词＋に＋も（否定呼应）",
+          "grammarStructureZh": "疑问代词＋に＋も（否定呼应）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "任何人也不；谁也不",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "言えない",
+          "reading": "いえない",
+          "romaji": "ie nai",
+          "posZh": "动词（可能否定）",
+          "grammarStructureZh": "动词（可能否定）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "无法说出",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "痛み",
+          "reading": "いたみ",
+          "romaji": "itami",
+          "posZh": "名词",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "痛苦；疼痛",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "引き連れてさ",
+          "reading": "ひきつれてさ",
+          "romaji": "hikitsure te sa",
+          "posZh": "动词て形＋さ（终助词）",
+          "grammarStructureZh": "动词て形＋さ（终助词）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "带着；携着（语气加强）",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l044",
+      "startMs": 169612,
+      "endMs": 171932,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "ただ独りでも",
+          "qrcParts": [
+            {
+              "text": "た",
+              "startMs": 169612,
+              "endMs": 169792,
+              "durationMs": 180
+            },
+            {
+              "text": "だ",
+              "startMs": 169792,
+              "endMs": 170142,
+              "durationMs": 350
+            },
+            {
+              "text": "独",
+              "startMs": 170142,
+              "endMs": 170597,
+              "durationMs": 455
+            },
+            {
+              "text": "り",
+              "startMs": 170597,
+              "endMs": 171052,
+              "durationMs": 455
+            },
+            {
+              "text": "で",
+              "startMs": 171052,
+              "endMs": 171202,
+              "durationMs": 150
+            },
+            {
+              "text": "も",
+              "startMs": 171202,
+              "endMs": 171932,
+              "durationMs": 730
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "ただ独りでも",
+        "furigana": [
+          {
+            "base": "独",
+            "reading": "ひと",
+            "start": 2,
+            "end": 3
+          }
+        ],
+        "romaji": "tada hitori demo",
+        "translationZh": "即使只是孤身一人"
+      },
+      "grammarCards": [
+        {
+          "token": "ただ",
+          "reading": "ただ",
+          "romaji": "tada",
+          "posZh": "副词",
+          "grammarStructureZh": "副词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "只是；仅仅",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "独りでも",
+          "reading": "ひとりでも",
+          "romaji": "hitori de mo",
+          "posZh": "名词＋助词",
+          "grammarStructureZh": "名词＋助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "即使独自一人",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    },
+    {
+      "id": "l045",
+      "startMs": 172392,
+      "endMs": 175402,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "紛れもない自分を信じて",
+          "qrcParts": [
+            {
+              "text": "紛",
+              "startMs": 172392,
+              "endMs": 172607,
+              "durationMs": 215
+            },
+            {
+              "text": "れ",
+              "startMs": 172607,
+              "endMs": 172822,
+              "durationMs": 215
+            },
+            {
+              "text": "も",
+              "startMs": 172822,
+              "endMs": 173182,
+              "durationMs": 360
+            },
+            {
+              "text": "な",
+              "startMs": 173182,
+              "endMs": 173352,
+              "durationMs": 170
+            },
+            {
+              "text": "い",
+              "startMs": 173352,
+              "endMs": 173372,
+              "durationMs": 20
+            },
+            {
+              "text": "自",
+              "startMs": 173372,
+              "endMs": 173727,
+              "durationMs": 355
+            },
+            {
+              "text": "分",
+              "startMs": 173727,
+              "endMs": 174082,
+              "durationMs": 355
+            },
+            {
+              "text": "を",
+              "startMs": 174082,
+              "endMs": 174162,
+              "durationMs": 80
+            },
+            {
+              "text": "信",
+              "startMs": 174162,
+              "endMs": 174682,
+              "durationMs": 520
+            },
+            {
+              "text": "じ",
+              "startMs": 174682,
+              "endMs": 175202,
+              "durationMs": 520
+            },
+            {
+              "text": "て",
+              "startMs": 175202,
+              "endMs": 175402,
+              "durationMs": 200
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "紛れもない自分を信じて",
+        "furigana": [
+          {
+            "base": "紛",
+            "reading": "まぎ",
+            "start": 0,
+            "end": 1
+          },
+          {
+            "base": "自分",
+            "reading": "じぶん",
+            "start": 5,
+            "end": 7
+          },
+          {
+            "base": "信",
+            "reading": "しん",
+            "start": 8,
+            "end": 9
+          }
+        ],
+        "romaji": "magire mo nai jibun o shinjite",
+        "translationZh": "相信那个毫无疑问的自己"
+      },
+      "grammarCards": [
+        {
+          "token": "紛れもない",
+          "reading": "まぎれもない",
+          "romaji": "magire mo nai",
+          "posZh": "固定表达",
+          "grammarStructureZh": "固定表达",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "毫无疑问的；确凿的",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "自分を",
+          "reading": "じぶんを",
+          "romaji": "jibun o",
+          "posZh": "名词＋格助词",
+          "grammarStructureZh": "名词＋格助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "自己；把自己作为对象",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "信じて",
+          "reading": "しんじて",
+          "romaji": "shinji te",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "动词（て形）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "相信；请相信",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted"
+      }
+    },
+    {
+      "id": "l046",
+      "startMs": 175632,
+      "endMs": 182022,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "傷つき堕ちるたび 歌えばいい",
+          "qrcParts": [
+            {
+              "text": "傷",
+              "startMs": 175632,
+              "endMs": 175895,
+              "durationMs": 263
+            },
+            {
+              "text": "つ",
+              "startMs": 175895,
+              "endMs": 176158,
+              "durationMs": 263
+            },
+            {
+              "text": "き",
+              "startMs": 176158,
+              "endMs": 176422,
+              "durationMs": 264
+            },
+            {
+              "text": "堕",
+              "startMs": 176422,
+              "endMs": 176492,
+              "durationMs": 70
+            },
+            {
+              "text": "ち",
+              "startMs": 176492,
+              "endMs": 176662,
+              "durationMs": 170
+            },
+            {
+              "text": "る",
+              "startMs": 176662,
+              "endMs": 176772,
+              "durationMs": 110
+            },
+            {
+              "text": "た",
+              "startMs": 176772,
+              "endMs": 177182,
+              "durationMs": 410
+            },
+            {
+              "text": "び",
+              "startMs": 177182,
+              "endMs": 177362,
+              "durationMs": 180
+            },
+            {
+              "text": " ",
+              "startMs": 177362,
+              "endMs": 177362,
+              "durationMs": 0
+            },
+            {
+              "text": "歌",
+              "startMs": 177362,
+              "endMs": 177887,
+              "durationMs": 525
+            },
+            {
+              "text": "え",
+              "startMs": 177887,
+              "endMs": 178412,
+              "durationMs": 525
+            },
+            {
+              "text": "ば",
+              "startMs": 178412,
+              "endMs": 178802,
+              "durationMs": 390
+            },
+            {
+              "text": "い",
+              "startMs": 178802,
+              "endMs": 182012,
+              "durationMs": 3210
+            },
+            {
+              "text": "い",
+              "startMs": 182012,
+              "endMs": 182022,
+              "durationMs": 10
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "傷つき堕ちるたび 歌えばいい",
+        "furigana": [
+          {
+            "base": "傷",
+            "reading": "きず",
+            "start": 0,
+            "end": 1
+          },
+          {
+            "base": "堕",
+            "reading": "お",
+            "start": 3,
+            "end": 4
+          },
+          {
+            "base": "歌",
+            "reading": "うた",
+            "start": 9,
+            "end": 10
+          }
+        ],
+        "romaji": "kizutsuki ochiru tabi utaeba ii",
+        "translationZh": "每当受伤、坠落时，歌唱就好"
+      },
+      "grammarCards": [
+        {
+          "token": "傷つき堕ちる",
+          "reading": "きずつきおちる",
+          "romaji": "kizutsuki ochiru",
+          "posZh": "动词连用形＋动词（并列）",
+          "grammarStructureZh": "动词连用形＋动词（并列）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "受伤并坠落",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "たび",
+          "reading": "たび",
+          "romaji": "tabi",
+          "posZh": "形式名词",
+          "grammarStructureZh": "形式名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "每当…的时候",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "歌えばいい",
+          "reading": "うたえばいい",
+          "romaji": "utae ba ii",
+          "posZh": "动词（ば形＋いい）",
+          "grammarStructureZh": "动词（ば形＋いい）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "歌唱就好；只要唱就行",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "status": "human-confirmed",
+      "fieldProvenance": {
+        "caption": "lexical/translation assisted review + user accepted",
+        "grammarCards": "lexical/grammar/translation assisted review + user accepted",
+        "correctionReview": "three-role correction review + integration audit + user accepted"
+      }
+    }
+  ],
+  "metadataPolicy": "QRC title, artist, album and credits rows l001-l005 excluded from display"
+}

@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "role": "music",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\AppData\\Roaming\\baidunetdisk\\BNZ.6a942680736cf53\\感情グラス - 01-01 - 感情グラス／上伊那ぼたん(CV. 鈴代紗弓).flac",
+      "frozenAsset": "source/music.flac",
+      "bytes": 52061106,
+      "sha256": "91a43fcdbdfe35a1d43c98b8b7ae0a4118d2ad44037ba6702c4336bf2e09e365",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "flac",
+            "codec_type": "audio",
+            "sample_rate": "48000",
+            "bits_per_raw_sample": "24"
+          },
+          {
+            "index": 1,
+            "codec_name": "mjpeg",
+            "codec_type": "video",
+            "width": 1200,
+            "height": 1200,
+            "bits_per_raw_sample": "8"
+          }
+        ],
+        "format": {
+          "format_name": "flac",
+          "duration": "240.276146"
+        }
+      }
+    },
+    {
+      "role": "cover",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\AppData\\Roaming\\baidunetdisk\\BNZ.6a942680736cf53\\感情グラス - 01-01 - 感情グラス／上伊那ぼたん(CV. 鈴代紗弓).flac",
+      "frozenAsset": "source/cover.jpg",
+      "bytes": 117220,
+      "sha256": "f070c920e9970aa0c4b1bf6c3d03673da196d0ce89716f90f7ccae9ea2742be9",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "mjpeg",
+            "codec_type": "video",
+            "width": 1200,
+            "height": 1200,
+            "bits_per_raw_sample": "8"
+          }
+        ],
+        "format": {
+          "format_name": "image2",
+          "duration": "0.040000"
+        }
+      }
+    },
+    {
+      "role": "background",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\Videos\\TubeGet\\第1話 エンディングムービー｜TVアニメ『上伊那ぼたん、酔へる姿は百合の花』.mp4",
+      "frozenAsset": "source/background.mp4",
+      "bytes": 51534829,
+      "sha256": "d45f850a9ea8b3938451aaf37fc451a82630eb65e6745bb0f5e839b4fdcaec66",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "bits_per_raw_sample": "8"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "48000"
+          }
+        ],
+        "format": {
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "duration": "90.097000"
+        }
+      }
+    },
+    {
+      "role": "background-ep03",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\Videos\\TubeGet\\第3話 エンディングムービー｜TVアニメ『上伊那ぼたん、酔へる姿は百合の花』.mp4",
+      "frozenAsset": "source/background-ep03.mp4",
+      "bytes": 19452691,
+      "sha256": "252e90fec55e543a55a2c49bb35e6549c6e2e5913c23aae4254ef01212b7c4a7",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "24000/1001",
+            "bits_per_raw_sample": "8"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "48000"
+          }
+        ],
+        "format": {
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "duration": "90.097000"
+        }
+      }
+    },
+    {
+      "role": "background-ep08",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\Videos\\TubeGet\\第8話 エンディングムービー｜TVアニメ『上伊那ぼたん、酔へる姿は百合の花』.mp4",
+      "frozenAsset": "source/background-ep08.mp4",
+      "bytes": 22464736,
+      "sha256": "2f77220260943a1b64777db4b18937900cd8133508e00d0f231cf49f32f39bb2",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "24000/1001",
+            "bits_per_raw_sample": "8"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "48000"
+          }
+        ],
+        "format": {
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "duration": "90.097000"
+        }
+      }
+    },
+    {
+      "role": "qm",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\AppData\\Roaming\\Tencent\\QQMusic\\QQMusicCache\\QQMusicLyricNew\\鈴代紗弓 - 感情グラス - 240 - 感情グラス_qm.qrc",
+      "frozenAsset": "source/lyrics_qm.qrc",
+      "bytes": 4419,
+      "sha256": "cf1e57725b289b6f33e3f4c1646239c0ffc87bb015fa7c9fff75114da5565548",
+      "probe": {
+        "probeError": "C:\\project\\musicjlpt\\projects\\kanjou-glass\\source\\lyrics_qm.qrc: Invalid data found when processing input"
+      }
+    },
+    {
+      "role": "qmRoma",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\AppData\\Roaming\\Tencent\\QQMusic\\QQMusicCache\\QQMusicLyricNew\\鈴代紗弓 - 感情グラス - 240 - 感情グラス_qmRoma.qrc",
+      "frozenAsset": "source/lyrics_qmRoma.qrc",
+      "bytes": 3531,
+      "sha256": "cca9092bbc42a7935fee56e8a6c2126848b8335f25e83342f612ca36a7675df0",
+      "probe": {
+        "probeError": "C:\\project\\musicjlpt\\projects\\kanjou-glass\\source\\lyrics_qmRoma.qrc: Invalid data found when processing input"
+      }
+    },
+    {
+      "role": "qmts",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\AppData\\Roaming\\Tencent\\QQMusic\\QQMusicCache\\QQMusicLyricNew\\鈴代紗弓 - 感情グラス - 240 - 感情グラス_qmts.qrc",
+      "frozenAsset": "source/lyrics_qmts.qrc",
+      "bytes": 1475,
+      "sha256": "f350ea3e68f93b65c24cc6d221d8348579f1d26801487d330993dda9b4dc9a0d",
+      "probe": {
+        "probeError": "C:\\project\\musicjlpt\\projects\\kanjou-glass\\source\\lyrics_qmts.qrc: Invalid data found when processing input"
+      }
+    }
+  ]
+}

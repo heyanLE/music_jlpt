@@ -1,0 +1,707 @@
+{
+  "schemaVersion": 1,
+  "decision": "整体采纳",
+  "sources": [
+    "project\\proposals\\assisted-review-a.json",
+    "project\\proposals\\assisted-review-b.json",
+    "project\\proposals\\assisted-review-c.json"
+  ],
+  "mergedFrames": 67,
+  "changes": [
+    {
+      "frameId": "l001",
+      "translationChanged": true,
+      "cardCountBefore": 6,
+      "cardCountAfter": 6,
+      "tokenStructureChanged": false,
+      "proposalConfidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E4%BC%9A%E3%81%84%E3%81%9F%E3%81%84"
+      ]
+    },
+    {
+      "frameId": "l002",
+      "translationChanged": true,
+      "cardCountBefore": 5,
+      "cardCountAfter": 5,
+      "tokenStructureChanged": false,
+      "proposalConfidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E4%BE%8B%E3%81%88%E3%81%B0"
+      ]
+    },
+    {
+      "frameId": "l003",
+      "translationChanged": true,
+      "cardCountBefore": 8,
+      "cardCountAfter": 5,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E5%8D%8A%E5%88%86%E3%81%93"
+      ]
+    },
+    {
+      "frameId": "l004",
+      "translationChanged": true,
+      "cardCountBefore": 5,
+      "cardCountAfter": 4,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E5%8D%83%E5%88%87%E3%82%8B"
+      ]
+    },
+    {
+      "frameId": "l005",
+      "translationChanged": true,
+      "cardCountBefore": 3,
+      "cardCountAfter": 3,
+      "tokenStructureChanged": false,
+      "proposalConfidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E3%81%95%E3%82%88%E3%81%AA%E3%82%89"
+      ]
+    },
+    {
+      "frameId": "l006",
+      "translationChanged": true,
+      "cardCountBefore": 6,
+      "cardCountAfter": 4,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E6%B0%B8%E9%81%A0"
+      ]
+    },
+    {
+      "frameId": "l007",
+      "translationChanged": true,
+      "cardCountBefore": 7,
+      "cardCountAfter": 5,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E3%81%84%E3%81%AA%E3%81%84"
+      ]
+    },
+    {
+      "frameId": "l008",
+      "translationChanged": true,
+      "cardCountBefore": 7,
+      "cardCountAfter": 5,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E5%BE%8C%E6%82%94"
+      ]
+    },
+    {
+      "frameId": "l009",
+      "translationChanged": true,
+      "cardCountBefore": 6,
+      "cardCountAfter": 4,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E8%A8%80%E3%81%88%E3%82%8B"
+      ]
+    },
+    {
+      "frameId": "l010",
+      "translationChanged": true,
+      "cardCountBefore": 8,
+      "cardCountAfter": 5,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E6%A3%98"
+      ]
+    },
+    {
+      "frameId": "l011",
+      "translationChanged": true,
+      "cardCountBefore": 7,
+      "cardCountAfter": 5,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E3%81%84%E3%81%AA%E3%81%84"
+      ]
+    },
+    {
+      "frameId": "l012",
+      "translationChanged": true,
+      "cardCountBefore": 8,
+      "cardCountAfter": 5,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E3%81%AA%E3%81%A3%E3%81%A1%E3%82%83%E3%81%86"
+      ]
+    },
+    {
+      "frameId": "l013",
+      "translationChanged": true,
+      "cardCountBefore": 5,
+      "cardCountAfter": 3,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E8%80%83%E3%81%88%E3%82%8B"
+      ]
+    },
+    {
+      "frameId": "l014",
+      "translationChanged": true,
+      "cardCountBefore": 9,
+      "cardCountAfter": 6,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E4%BC%9A%E3%81%84%E3%81%9F%E3%81%84"
+      ]
+    },
+    {
+      "frameId": "l015",
+      "translationChanged": true,
+      "cardCountBefore": 6,
+      "cardCountAfter": 5,
+      "tokenStructureChanged": false,
+      "proposalConfidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E7%94%9F%E3%81%8D%E3%82%8B"
+      ]
+    },
+    {
+      "frameId": "l016",
+      "translationChanged": true,
+      "cardCountBefore": 8,
+      "cardCountAfter": 5,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E8%A8%98%E5%BF%B5%E6%97%A5"
+      ]
+    },
+    {
+      "frameId": "l017",
+      "translationChanged": true,
+      "cardCountBefore": 5,
+      "cardCountAfter": 5,
+      "tokenStructureChanged": false,
+      "proposalConfidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E5%BD%93%E3%81%9F%E3%82%8A%E5%89%8D"
+      ]
+    },
+    {
+      "frameId": "l018",
+      "translationChanged": true,
+      "cardCountBefore": 7,
+      "cardCountAfter": 5,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E6%B1%BA%E3%81%97%E3%81%A6"
+      ]
+    },
+    {
+      "frameId": "l019",
+      "translationChanged": true,
+      "cardCountBefore": 6,
+      "cardCountAfter": 5,
+      "tokenStructureChanged": false,
+      "proposalConfidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E7%94%9F%E3%81%8D%E3%82%8B"
+      ]
+    },
+    {
+      "frameId": "l020",
+      "translationChanged": true,
+      "cardCountBefore": 5,
+      "cardCountAfter": 5,
+      "tokenStructureChanged": false,
+      "proposalConfidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E8%A9%B1%E3%81%9B%E3%82%8B"
+      ]
+    },
+    {
+      "frameId": "l021",
+      "translationChanged": true,
+      "cardCountBefore": 6,
+      "cardCountAfter": 6,
+      "tokenStructureChanged": false,
+      "proposalConfidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E7%AC%91%E3%81%88%E3%82%8B"
+      ]
+    },
+    {
+      "frameId": "l022",
+      "translationChanged": true,
+      "cardCountBefore": 5,
+      "cardCountAfter": 4,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": [
+        "https://jisho.org/search/%E5%87%BA%E4%BC%9A%E3%81%86"
+      ]
+    },
+    {
+      "frameId": "l023",
+      "translationChanged": true,
+      "cardCountBefore": 8,
+      "cardCountAfter": 7,
+      "tokenStructureChanged": true,
+      "proposalConfidence": 0.98,
+      "evidence": [
+        "goo 国语辞书：幸せ者＝幸運な人",
+        "句法：主题 は＋断定 だ"
+      ]
+    },
+    {
+      "frameId": "l024",
+      "translationChanged": true,
+      "cardCountBefore": 5,
+      "cardCountAfter": 5,
+      "tokenStructureChanged": false,
+      "proposalConfidence": 0.94,
+      "evidence": [
+        "与 l025 的 心臓があったなら 构成跨行条件句"
+      ]
+    },
+    {
+      "frameId": "l025",
+      "translationChanged": true,
+      "cardCountBefore": 6,
+      "cardCountAfter": 5,
+      "tokenStructureChanged": true,
+      "proposalConfidence": 0.96,
+      "evidence": [
+        "ある 的过去形 あった＋条件表达 なら"
+      ]
+    },
+    {
+      "frameId": "l026",
+      "translationChanged": true,
+      "cardCountBefore": 5,
+      "cardCountAfter": 5,
+      "tokenStructureChanged": false,
+      "proposalConfidence": 0.96,
+      "evidence": [
+        "与 l027–l028 构成 宾语＋共同者＋生きていく 的跨行句"
+      ]
+    },
+    {
+      "frameId": "l027",
+      "translationChanged": true,
+      "cardCountBefore": 2,
+      "cardCountAfter": 2,
+      "tokenStructureChanged": false,
+      "proposalConfidence": 0.98,
+      "evidence": [
+        "まで 表示时间／程度的终点"
+      ]
+    },
+    {
+      "frameId": "l028",
+      "translationChanged": true,
+      "cardCountBefore": 8,
+      "cardCountAfter": 3,
+      "tokenStructureChanged": true,
+      "proposalConfidence": 0.91,
+      "evidence": [
+        "～ていく 表示持续发展；んだろうか 为说明性疑问表达"
+      ]
+    },
+    {
+      "frameId": "l029",
+      "translationChanged": true,
+      "cardCountBefore": 5,
+      "cardCountAfter": 5,
+      "tokenStructureChanged": false,
+      "proposalConfidence": 0.98,
+      "evidence": [
+        "与 l030 的 絶望をさ乗り越えれば 构成跨行条件句"
+      ]
+    },
+    {
+      "frameId": "l030",
+      "translationChanged": true,
+      "cardCountBefore": 5,
+      "cardCountAfter": 5,
+      "tokenStructureChanged": true,
+      "proposalConfidence": 0.97,
+      "evidence": [
+        "goo 国语辞书：乗り越える可指克服困难；ば 为假定形接续"
+      ]
+    },
+    {
+      "frameId": "l031",
+      "translationChanged": true,
+      "cardCountBefore": 5,
+      "cardCountAfter": 5,
+      "tokenStructureChanged": false,
+      "proposalConfidence": 0.97,
+      "evidence": [
+        "で 标记状态发生场所；与 l032–l033 构成跨行句"
+      ]
+    },
+    {
+      "frameId": "l032",
+      "translationChanged": true,
+      "cardCountBefore": 2,
+      "cardCountAfter": 2,
+      "tokenStructureChanged": false,
+      "proposalConfidence": 0.98,
+      "evidence": [
+        "英语 happy ending 的片假外来语写法"
+      ]
+    },
+    {
+      "frameId": "l033",
+      "translationChanged": true,
+      "cardCountBefore": 5,
+      "cardCountAfter": 4,
+      "tokenStructureChanged": true,
+      "proposalConfidence": 0.9,
+      "evidence": [
+        "終わる 的可能形 終われる；た＋のだ 在口语中缩约为 たんだ"
+      ]
+    },
+    {
+      "frameId": "l034",
+      "translationChanged": true,
+      "cardCountBefore": 7,
+      "cardCountAfter": 6,
+      "tokenStructureChanged": true,
+      "proposalConfidence": 0.94,
+      "evidence": [
+        "～はずの 表示本应如此；これから先 为固定时间短语"
+      ]
+    },
+    {
+      "frameId": "l035",
+      "translationChanged": true,
+      "cardCountBefore": 5,
+      "cardCountAfter": 2,
+      "tokenStructureChanged": true,
+      "proposalConfidence": 0.98,
+      "evidence": [
+        "数量词＋分 表示相当于该数量的份额／量"
+      ]
+    },
+    {
+      "frameId": "l036",
+      "translationChanged": false,
+      "cardCountBefore": 6,
+      "cardCountAfter": 3,
+      "tokenStructureChanged": true,
+      "proposalConfidence": 0.99,
+      "evidence": [
+        "日语固定日常问候语"
+      ]
+    },
+    {
+      "frameId": "l037",
+      "translationChanged": true,
+      "cardCountBefore": 4,
+      "cardCountAfter": 3,
+      "tokenStructureChanged": true,
+      "proposalConfidence": 0.99,
+      "evidence": [
+        "日语固定日常问候／致歉语"
+      ]
+    },
+    {
+      "frameId": "l038",
+      "translationChanged": true,
+      "cardCountBefore": 5,
+      "cardCountAfter": 5,
+      "tokenStructureChanged": true,
+      "proposalConfidence": 0.96,
+      "evidence": [
+        "たち 附在引用表达后，使其指代为一组话语"
+      ]
+    },
+    {
+      "frameId": "l039",
+      "translationChanged": true,
+      "cardCountBefore": 7,
+      "cardCountAfter": 7,
+      "tokenStructureChanged": false,
+      "proposalConfidence": 0.95,
+      "evidence": [
+        "～ばいいの 为询问应当如何做的表达"
+      ]
+    },
+    {
+      "frameId": "l040",
+      "translationChanged": true,
+      "cardCountBefore": 7,
+      "cardCountAfter": 5,
+      "tokenStructureChanged": true,
+      "proposalConfidence": 0.97,
+      "evidence": [
+        "いる 的否定形 いない；のなら 用于基于某前提提出后项"
+      ]
+    },
+    {
+      "frameId": "l041",
+      "translationChanged": true,
+      "cardCountBefore": 6,
+      "cardCountAfter": 5,
+      "tokenStructureChanged": true,
+      "proposalConfidence": 0.98,
+      "evidence": [
+        "くれる 为向说话人一方给予；も 表示追加"
+      ]
+    },
+    {
+      "frameId": "l042",
+      "translationChanged": true,
+      "cardCountBefore": 7,
+      "cardCountAfter": 6,
+      "tokenStructureChanged": true,
+      "proposalConfidence": 0.98,
+      "evidence": [
+        "生きる 修饰 意味；くれる 为向说话人一方给予"
+      ]
+    },
+    {
+      "frameId": "l043",
+      "translationChanged": true,
+      "cardCountBefore": 8,
+      "cardCountAfter": 6,
+      "tokenStructureChanged": true,
+      "proposalConfidence": 0.95,
+      "evidence": [
+        "～たらいい 表示‘怎样做才好’；もらう 表示接受／获得"
+      ]
+    },
+    {
+      "frameId": "l044",
+      "translationChanged": true,
+      "cardCountBefore": 6,
+      "cardCountAfter": 6,
+      "tokenStructureChanged": false,
+      "proposalConfidence": 0.99,
+      "evidence": [
+        "动词连用形＋たい 表示愿望"
+      ]
+    },
+    {
+      "frameId": "l045",
+      "translationChanged": true,
+      "cardCountBefore": 5,
+      "cardCountAfter": 5,
+      "tokenStructureChanged": false,
+      "proposalConfidence": 0.98,
+      "evidence": [
+        "どうして 为原因疑问副词；句末 さ 用于加强口语语气"
+      ]
+    },
+    {
+      "frameId": "l046",
+      "translationChanged": true,
+      "cardCountBefore": 6,
+      "cardCountAfter": 5,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": "句法：名词+と+一緒に为‘和…一起’；歌词后句以リボンで結びつけて承接宾语。"
+    },
+    {
+      "frameId": "l047",
+      "translationChanged": true,
+      "cardCountBefore": 5,
+      "cardCountAfter": 4,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": "リボン为英语 ribbon 的外来语；で标示工具手段；結びつける为他动词‘连接、系在一起’的て形。"
+    },
+    {
+      "frameId": "l048",
+      "translationChanged": true,
+      "cardCountBefore": 4,
+      "cardCountAfter": 3,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": "プレゼントする意为‘赠送’；句末の用于口语疑问。"
+    },
+    {
+      "frameId": "l049",
+      "translationChanged": true,
+      "cardCountBefore": 6,
+      "cardCountAfter": 5,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": "目が覚める是‘醒来’的固定表达；たら表示完成后的条件或时间承接。"
+    },
+    {
+      "frameId": "l050",
+      "translationChanged": true,
+      "cardCountBefore": 6,
+      "cardCountAfter": 6,
+      "tokenStructureChanged": false,
+      "proposalConfidence": "high",
+      "evidence": "って为と的口语引用形式；言える为言う的可能形；こと将前项名词化。"
+    },
+    {
+      "frameId": "l051",
+      "translationChanged": true,
+      "cardCountBefore": 5,
+      "cardCountAfter": 4,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": "言ったら为言う的过去条件形；句末さ为口语强调。"
+    },
+    {
+      "frameId": "l052",
+      "translationChanged": true,
+      "cardCountBefore": 5,
+      "cardCountAfter": 4,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": "待ってる是待っている的口语缩略；こと将小句名词化。"
+    },
+    {
+      "frameId": "l053",
+      "translationChanged": true,
+      "cardCountBefore": 6,
+      "cardCountAfter": 3,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": "分かり合う为相互理解；合えず为可能形否定的ず形，连接后项。"
+    },
+    {
+      "frameId": "l054",
+      "translationChanged": true,
+      "cardCountBefore": 5,
+      "cardCountAfter": 4,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": "謝れる为謝る的可能形；ごめんね为道歉固定语。"
+    },
+    {
+      "frameId": "l055",
+      "translationChanged": true,
+      "cardCountBefore": 9,
+      "cardCountAfter": 7,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": "どれも为疑问代词どれ加副助词も，表示‘无论哪一个都’；よって承接下句思える，为口语引用。"
+    },
+    {
+      "frameId": "l056",
+      "translationChanged": true,
+      "cardCountBefore": 5,
+      "cardCountAfter": 4,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": "出会えた为出会う的可能形过去式，表达‘得以遇见’。"
+    },
+    {
+      "frameId": "l057",
+      "translationChanged": true,
+      "cardCountBefore": 9,
+      "cardCountAfter": 7,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": "大好きだ为形容动词性表达；が标示好き的对象，でした为过去敬体。"
+    },
+    {
+      "frameId": "l058",
+      "translationChanged": true,
+      "cardCountBefore": 6,
+      "cardCountAfter": 5,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": "生きれる是生きられる的口语ら抜き可能表达；なら提出假设条件。"
+    },
+    {
+      "frameId": "l059",
+      "translationChanged": true,
+      "cardCountBefore": 8,
+      "cardCountAfter": 4,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": "名词+にして表示使其成为某状态；祝おう为祝う的意志形。"
+    },
+    {
+      "frameId": "l060",
+      "translationChanged": true,
+      "cardCountBefore": 5,
+      "cardCountAfter": 5,
+      "tokenStructureChanged": false,
+      "proposalConfidence": "high",
+      "evidence": "小学馆《大辞泉》释当たり前为理所当然、普通；此处あたりまえに修饰ある。https://kotobank.jp/word/%E5%BD%93%E3%82%8A%E5%89%8D-425367"
+    },
+    {
+      "frameId": "l061",
+      "translationChanged": true,
+      "cardCountBefore": 7,
+      "cardCountAfter": 3,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": "决して与否定形呼应；动词连用形+はしない通过は强调否定；ように表示目的或祈愿。"
+    },
+    {
+      "frameId": "l062",
+      "translationChanged": true,
+      "cardCountBefore": 6,
+      "cardCountAfter": 5,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": "与l058相同的重复句，采用同一词卡。生きれる为口语可能表达。"
+    },
+    {
+      "frameId": "l063",
+      "translationChanged": true,
+      "cardCountBefore": 5,
+      "cardCountAfter": 5,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": "話せる为話す的可能形；なら提出假设条件。"
+    },
+    {
+      "frameId": "l064",
+      "translationChanged": true,
+      "cardCountBefore": 6,
+      "cardCountAfter": 6,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": "ならって承接l065的思える，构成口语引用‘如果…的话’。"
+    },
+    {
+      "frameId": "l065",
+      "translationChanged": true,
+      "cardCountBefore": 5,
+      "cardCountAfter": 4,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": "与l056重复，采用同一词卡。出会えた是出会う的可能形过去式。"
+    },
+    {
+      "frameId": "l066",
+      "translationChanged": true,
+      "cardCountBefore": 8,
+      "cardCountAfter": 7,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": "幸せ者由幸せ+者构成，词典释义为‘幸运的人、果报者’。https://kotobank.jp/word/%E5%B9%B8%E3%81%9B%E8%80%85-515406"
+    },
+    {
+      "frameId": "l067",
+      "translationChanged": true,
+      "cardCountBefore": 7,
+      "cardCountAfter": 6,
+      "tokenStructureChanged": true,
+      "proposalConfidence": "high",
+      "evidence": "与l066共用幸せもの这一复合名词；词典释义为‘幸运的人、果报者’。https://kotobank.jp/word/%E5%B9%B8%E3%81%9B%E8%80%85-515406"
+    }
+  ],
+  "framesSha256": "ad84543d620def3d69179e5994a2fcd1a43dcc037855e87a80318af9ed78391a"
+}

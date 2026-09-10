@@ -1,0 +1,1319 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "lexical",
+  "reviewRound": 2,
+  "status": "proposal-only",
+  "scope": {
+    "frameIds": [
+      "l001",
+      "l002",
+      "l003",
+      "l004",
+      "l005",
+      "l006",
+      "l007",
+      "l008",
+      "l009",
+      "l010",
+      "l011",
+      "l012",
+      "l013",
+      "l014",
+      "l015",
+      "l016",
+      "l017",
+      "l018",
+      "l019",
+      "l020",
+      "l021",
+      "l022",
+      "l023",
+      "l024",
+      "l025",
+      "l026",
+      "l027",
+      "l028",
+      "l029",
+      "l030",
+      "l031",
+      "l032",
+      "l033",
+      "l034",
+      "l035",
+      "l036",
+      "l037",
+      "l038",
+      "l039",
+      "l040",
+      "l041",
+      "l042",
+      "l043",
+      "l044",
+      "l045"
+    ]
+  },
+  "baseFrameSha256": "7e730357a5d9a6adf121d4f23c7fc86a263769209d78a4a8444f2fba122f48d6",
+  "reviewMethod": {
+    "independentBaseline": "正式frames.json；没有使用第一轮提案作为正确性先验。",
+    "audioAuditionPerformed": false,
+    "referencePolicy": "仅使用最新正式/confirmed/correction文件，不使用参照待联网核对旧稿。",
+    "readingConclusion": "未发现有文本证据支持替换现有reading或caption.furigana的错误。",
+    "romajiPolicy": "不批量改全部活用/助词空格；两处拆分同步，加四处保留长块的可选可读性建议。",
+    "liveContentMutated": false
+  },
+  "changes": [
+    {
+      "frameId": "l011",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "今天；如今",
+      "new": "如今；现今",
+      "confidence": 0.92,
+      "evidence": [
+        "S04：漢字ペディア区分「今日」的きょう与コンニチ；后者还表示这段时期、现今。",
+        "Q01：冻结 QQ kana 明示こん＋にち，roma 对应 ko n ni chi。此处以「あの頃」作过去参照，卡义优先如今；并非读音纠错，也没有实际听辨。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "今日",
+      "category": "contextual-lexical-meaning"
+    },
+    {
+      "frameId": "l029",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "溢れだしそうなほど",
+          "reading": "あふれだしそうなほど",
+          "romaji": "afuredashisounahodo",
+          "grammarStructureZh": "动词＋そう＋ほど",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "多到仿佛快溢出来"
+        },
+        {
+          "token": "詰め込んだ",
+          "reading": "つめこんだ",
+          "romaji": "tsumekonda",
+          "grammarStructureZh": "复合动词（过去）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "塞满了；强塞进去"
+        }
+      ],
+      "new": [
+        {
+          "token": "溢れだしそうな",
+          "reading": "あふれだしそうな",
+          "romaji": "afuredashi sou na",
+          "grammarStructureZh": "复合动词＋そうな",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "快要溢出来的"
+        },
+        {
+          "token": "ほど",
+          "reading": "ほど",
+          "romaji": "hodo",
+          "grammarStructureZh": "副助词（程度）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "表示填塞达到的程度"
+        },
+        {
+          "token": "詰め込んだ",
+          "reading": "つめこんだ",
+          "romaji": "tsumekonda",
+          "grammarStructureZh": "复合动词（过去・连体）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "塞满了的"
+        }
+      ],
+      "confidence": 0.95,
+      "evidence": [
+        "基准首卡把复合动词、样态そうな、程度ほど叠在同一9字块，结构只写「动词＋そう＋ほど」而难以逐项对应；建议在完整「溢れだしそうな」之后分出ほど，不拆坏溢れだす或そうな。",
+        "Q01：QQ读音为 a fu re da shi so u na ho do tsu me ko n da；新卡读音仅按原连续串分配，没有增删读音。",
+        "上下文推断：詰め込んだ连体修饰下一行「他人の箱」；不是看到他人箱子前先往自己的箱子塞。提案含简短连体卡义；QQ整句中文不改。",
+        "R01/R02：借鉴已确认项目按意义、完整活用组织学习单元，并让独立程度标记可见；这是教学边界建议，不是词典强制分词。"
+      ],
+      "changesTokenStructure": true,
+      "targetToken": "溢れだしそうなほど／詰め込んだ",
+      "category": "learning-unit-resegmentation"
+    },
+    {
+      "frameId": "l029",
+      "field": "caption.romaji",
+      "old": "afuredashisounahodo tsumekonda",
+      "new": "afuredashi sou na hodo tsumekonda",
+      "confidence": 0.99,
+      "evidence": [
+        "与本轮 l029 新卡串同步；afuredashi、sou、na、hodo 对应可读语法块，保留原读音及促音/拨音完整性。"
+      ],
+      "changesTokenStructure": true,
+      "targetToken": "溢れだしそうなほど詰め込んだ",
+      "category": "structure-dependent-romaji",
+      "dependsOn": "l029:grammarCards"
+    },
+    {
+      "frameId": "l031",
+      "field": "grammarCards.0.grammarStructureZh",
+      "old": "形容动词连体形",
+      "new": "形容动词（熟字训・连体）",
+      "confidence": 0.99,
+      "evidence": [
+        "S01/S02：日本汉字能力检定协会将下手（へた）列为〈下手〉，凡例中〈〉标熟字训/当て字。",
+        "S03：文部科学省资料直接以「下手＝へた」说明熟字训，足以区分这里不是泛称难读字。",
+        "顶部现有 ruby 只覆盖「下手」而不包括正文「な」，读音与Q01一致，无需改变顶部注音。保留形容动词和连体身份。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "下手な",
+      "category": "verified-jukujikun-classification"
+    },
+    {
+      "frameId": "l032",
+      "field": "grammarCards.1.grammarStructureZh",
+      "old": "ていない的口语缩约",
+      "new": "动词（ていない缩约）",
+      "confidence": 0.98,
+      "evidence": [
+        "基准仅「ていない的口语缩约」说明省略却遗漏词性；出来る在此是动词。出来てない＝出来ていない的口语形式，补回动词身份即可。",
+        "Q01：de ki te na i 支持现有读音/romaji；不将出来る任意标成可能助动词，也不把表记难读等同熟字训。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "出来てない",
+      "category": "lexical-class-preservation"
+    },
+    {
+      "frameId": "l035",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "このままでいい",
+          "reading": "このままでいい",
+          "romaji": "konomamadeii",
+          "grammarStructureZh": "状态表达＋でいい",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "维持现状就好"
+        },
+        {
+          "token": "なんて",
+          "reading": "なんて",
+          "romaji": "nante",
+          "grammarStructureZh": "副助词（引用）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "引用并轻视前述想法"
+        }
+      ],
+      "new": [
+        {
+          "token": "このままで",
+          "reading": "このままで",
+          "romaji": "kono mama de",
+          "grammarStructureZh": "名词短语＋で",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "保持这样"
+        },
+        {
+          "token": "いい",
+          "reading": "いい",
+          "romaji": "ii",
+          "grammarStructureZh": "形容词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "可以；就好"
+        },
+        {
+          "token": "なんて",
+          "reading": "なんて",
+          "romaji": "nante",
+          "grammarStructureZh": "副助词（引用）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "引用并轻视前述想法"
+        }
+      ],
+      "confidence": 0.97,
+      "evidence": [
+        "「このままでいい」同时包含维持状态的名词短语和形容词评价，分为「このままで／いい」便于独立学会いい，仍保留このままで为完整状态块；不机械拆この／まま／で。",
+        "R01：已确认项目 l023 独立「このままで」，l018 独立「いい」且纠正其误标助词。参考的是学习单元和词性清晰度，不是照搬错误旧稿。",
+        "Q01：纯假名行，无顶部振假名；三个新卡仍完整串回原日文，なんて保留引用功能，整句QQ中文不改。"
+      ],
+      "changesTokenStructure": true,
+      "targetToken": "このままでいい",
+      "category": "learning-unit-resegmentation"
+    },
+    {
+      "frameId": "l035",
+      "field": "caption.romaji",
+      "old": "konomamadeii nante",
+      "new": "kono mama de ii nante",
+      "confidence": 0.99,
+      "evidence": [
+        "与 l035 新学习单元同步，kono mama de／ii／nante 不改变任何读音。"
+      ],
+      "changesTokenStructure": true,
+      "targetToken": "このままでいいなんて",
+      "category": "structure-dependent-romaji",
+      "dependsOn": "l035:grammarCards"
+    },
+    {
+      "frameId": "l009",
+      "field": "grammarCards.2.romaji",
+      "old": "yokuittamonode",
+      "new": "yoku itta mono de",
+      "confidence": 0.96,
+      "evidence": [
+        "惯用评论「よく言ったもの（だ）」保持一张卡；不拆为字典字面「经常说」，仅将语法块读清，itta的促音tt保持完整。",
+        "局部可读性建议：已重新审核词义和是否固定搭配，并决定保留边界。不是按第一轮批量套空格；其余短活用形式原样保留。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "よく言ったもので",
+      "category": "limited-readability-with-boundary-retained",
+      "adoptionPriority": "optional"
+    },
+    {
+      "frameId": "l009",
+      "field": "caption.romaji",
+      "old": "kyoukashodoori to wa yokuittamonode",
+      "new": "kyoukashodoori to wa yoku itta mono de",
+      "confidence": 0.99,
+      "evidence": [
+        "只与该行词卡的局部romaji分块同步，不影响caption.japanese、ruby、QRC时码或高亮边界。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "教科書通りとはよく言ったもので",
+      "category": "limited-readability-sync",
+      "adoptionPriority": "optional",
+      "dependsOn": "l009:grammarCards.2.romaji"
+    },
+    {
+      "frameId": "l023",
+      "field": "grammarCards.0.romaji",
+      "old": "atashideatte",
+      "new": "atashi de atte",
+      "confidence": 0.96,
+      "evidence": [
+        "保留「あたしであって」的同一性断定中顿，不改成让步；它与参照的名词/代词＋助动表达一样可作为完整卡，只使代词与であって可读。",
+        "局部可读性建议：已重新审核词义和是否固定搭配，并决定保留边界。不是按第一轮批量套空格；其余短活用形式原样保留。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "あたしであって",
+      "category": "limited-readability-with-boundary-retained",
+      "adoptionPriority": "optional"
+    },
+    {
+      "frameId": "l023",
+      "field": "caption.romaji",
+      "old": "atashideatte soredake darou",
+      "new": "atashi de atte soredake darou",
+      "confidence": 0.99,
+      "evidence": [
+        "只与该行词卡的局部romaji分块同步，不影响caption.japanese、ruby、QRC时码或高亮边界。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "あたしであってそれだけだろう",
+      "category": "limited-readability-sync",
+      "adoptionPriority": "optional",
+      "dependsOn": "l023:grammarCards.0.romaji"
+    },
+    {
+      "frameId": "l026",
+      "field": "grammarCards.0.romaji",
+      "old": "tohounikureteimasu",
+      "new": "tohou ni kurete imasu",
+      "confidence": 0.96,
+      "evidence": [
+        "S07将途方に暮れる作为完整惯用语收录，不能逐词硬译途方/暮れる。保留全卡，同时显出词组和ている礼貌活用；不切断kurete。",
+        "局部可读性建议：已重新审核词义和是否固定搭配，并决定保留边界。不是按第一轮批量套空格；其余短活用形式原样保留。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "途方に暮れています",
+      "category": "limited-readability-with-boundary-retained",
+      "adoptionPriority": "optional"
+    },
+    {
+      "frameId": "l026",
+      "field": "caption.romaji",
+      "old": "tohounikureteimasu ga",
+      "new": "tohou ni kurete imasu ga",
+      "confidence": 0.99,
+      "evidence": [
+        "只与该行词卡的局部romaji分块同步，不影响caption.japanese、ruby、QRC时码或高亮边界。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "途方に暮れていますが",
+      "category": "limited-readability-sync",
+      "adoptionPriority": "optional",
+      "dependsOn": "l026:grammarCards.0.romaji"
+    },
+    {
+      "frameId": "l043",
+      "field": "grammarCards.0.romaji",
+      "old": "atashiigaija",
+      "new": "atashi igai ja",
+      "confidence": 0.96,
+      "evidence": [
+        "保留「あたし以外じゃ」的排除范围短语，避免单独长romaji的以外卡挤占字面范围；参照已确认「想像の中じゃ」的完整归属，仅显出atashi／igai／ja。",
+        "局部可读性建议：已重新审核词义和是否固定搭配，并决定保留边界。不是按第一轮批量套空格；其余短活用形式原样保留。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "あたし以外じゃ",
+      "category": "limited-readability-with-boundary-retained",
+      "adoptionPriority": "optional"
+    },
+    {
+      "frameId": "l043",
+      "field": "caption.romaji",
+      "old": "atashiigaija ikirarenai yo",
+      "new": "atashi igai ja ikirarenai yo",
+      "confidence": 0.99,
+      "evidence": [
+        "只与该行词卡的局部romaji分块同步，不影响caption.japanese、ruby、QRC时码或高亮边界。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "あたし以外じゃ生きられないよ",
+      "category": "limited-readability-sync",
+      "adoptionPriority": "optional",
+      "dependsOn": "l043:grammarCards.0.romaji"
+    }
+  ],
+  "frameAssessments": [
+    {
+      "frameId": "l001",
+      "decision": "keep",
+      "assessment": "やけに为整体副词，不拆成やけ＋に；白いんだ／長いんだ各含完整形容词和解释语气，可保留四卡。QQしろ／なが与仅白、長上ruby吻合；不照搬逐音节roma。白的物理色彩/空白隐喻范围交translation角色，不凭QQ中文加入时间对象。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l002",
+      "decision": "keep",
+      "assessment": "コタエ是和语答え的片假名表现，不是English loanword；不加sourceWord或顶部外语词源。答案名词、主题は与副词だいたい分开可学，kotae/wa/daitai无误。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l003",
+      "decision": "keep",
+      "assessment": "カタチ同样是和语形式/外表，不把片假名当外来语。常識=じょうしき、darou长音均与QQ相符，只有常識获ruby；ばかり／の能各自展示限定与修饰，无需为减少卡数强并。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l004",
+      "decision": "keep",
+      "assessment": "指先=ゆびさき、震=ふる正确，普通训读不误标熟字训；震えようとも是完整意志形让步，可保留同卡，不拆出无独立本义的よう。当前roman虽连写但短且保留全部音。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l005",
+      "decision": "keep",
+      "assessment": "地図には保留地图的实义及场所提示，ないはずの保留完整预期否定修饰，三叉路是さんさろ而非さんしゃろ。今=いま；连续汉字ruby地図/三叉路无假名重复。与l006构成遇到岔路的句子，不能按跨行QQ中文重分词义。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l006",
+      "decision": "keep",
+      "assessment": "ぶつかっている是ぶつかる的ている状态块，促音写tt正确且不能写成tsu；のですが作为说明后续的语气块可保留。不新增纯假名ruby，也不将ぶつかる按物理碰撞义狭化。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l007",
+      "decision": "keep",
+      "assessment": "何=なに有QQ明确支持，不改成なん。頼りに是依靠表达，名词頼り的义仍在；只在頼标たよ，不重复り。を规范roma为o与QQ的wo表记差异不构成唱读错误。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l008",
+      "decision": "keep",
+      "assessment": "進めばいい保留完整ば形＋いい建议/适当条件，のでしょうか完整委婉问句；不是把進めば误作可能形。進上rubyすす正确，所有长音和元音均吻合QQ。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l009",
+      "decision": "limited-readability",
+      "assessment": "重新判定よく言ったもので为惯用评论，中顿保留，不把よく单独改译为经常。教科書通り中どおり读音正确，顶部教科書通=きょうかしょどお不重复り；保留三卡，仅对较长惯用卡提出可选词块romaji。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": [
+        "grammarCards.2.romaji",
+        "caption.romaji"
+      ]
+    },
+    {
+      "frameId": "l010",
+      "decision": "keep",
+      "assessment": "難しい=むずかしい，言葉=ことば，だらけ是接尾程度表达，词边界合理。難的rubyむずか和言葉整体ruby符合汉字限定，不因复合训读就追加熟字训标签。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l011",
+      "decision": "change",
+      "assessment": "保留今日=こんにち：冻结QQ kana及roma相互支持，但未听辨音频。此读为今コン＋日ニチ的音读，不沿用参照项目きょう的熟字训分类；建议卡义如今/现今以对应あの頃。あの頃から、少しも、変わらない均为合适短块。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": [
+        "grammarCards.0.zhMeaning"
+      ]
+    },
+    {
+      "frameId": "l012",
+      "decision": "keep",
+      "assessment": "空欄=くうらん的双元音uu完整；埋めれば来自うめる，解けますか来自とける，原ruby均只标汉字。完整条件和礼貌疑问无需再拆；不把解ける写成解く的机械五段可能式。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l013",
+      "decision": "keep",
+      "assessment": "いつの日か为不确定未来某日的固定时间表达，保留一张卡比拆いつ/の/日/か更合适。日=ひ且仅日获注音。整句QQ疑问语气可另审，但不以之推翻卡片某一天的词义。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l014",
+      "decision": "keep",
+      "assessment": "あなた与条件なら分开，どうやって表示方式且含やる的促音形式，douyatte保留tt正确。无汉字，不生成ruby；无需拆成どう/やって以凑卡。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l015",
+      "decision": "keep",
+      "assessment": "先=さき、進=すす与QQ一致，へと整体方向提示可保留。QQ roma写he但助词读音转写e为规范化表记，不声称音频差异；完整進みますか无必要拆散。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l016",
+      "decision": "keep",
+      "assessment": "作为l001独立复核同一表达：やけに/やたら均副词，白いんだ/長いんだ完整活用且相同读音、汉字ruby正确；重复卡束保持一致，不覆盖其已有整句中文。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l017",
+      "decision": "keep",
+      "assessment": "再次确认コタエ是和语片假名，不加英文源词。三张短卡与l002一致、だいたい不是量词，roma和无汉字的顶部策略均保留。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l018",
+      "decision": "keep",
+      "assessment": "与l003逐项对照，カタチ=かたち、常識=じょうしき，两者词性名词未混淆；限定ばかり和修饰の边界可用，没有英文或loanword注释需要追加。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l019",
+      "decision": "keep",
+      "assessment": "复核指先ゆびさき及震ふる，保留震えようとも作为完整让步而非未来意愿；与l004卡片和ruby保持一致，没有新证据要求读音更换。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l020",
+      "decision": "keep",
+      "assessment": "正解せいかい为普通音读名词，無いんだ带存在否定和解释，保持三卡。无假名重复ruby，nainda保留n、不机械拆nai的一个音。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l021",
+      "decision": "keep",
+      "assessment": "負けまけ在这里是名词失败，不按負ける动词连用形单独译动作。なんて保留语境功能；無仅标な，整卡否定解释保留。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l022",
+      "decision": "keep",
+      "assessment": "あたし是口语代词，生涯しょうがい是时间名词，均保留词性与短词中文。生涯普通音读，不标熟字训；QQ shou gai长音被正确整理成shougai。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l023",
+      "decision": "limited-readability",
+      "assessment": "在完整句子中あたしであって表达我就是我并承接それだけ，不是であっても让步。短语本身保留，不为卡数拆代词和系词；可选atashi de atte便于看清。atte的促音保持，纯假名不加ruby。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": [
+        "grammarCards.0.romaji",
+        "caption.romaji"
+      ]
+    },
+    {
+      "frameId": "l024",
+      "decision": "keep",
+      "assessment": "かき乱す是复合动词，かき乱しても是完整让步，保留同卡。明日=あした由QQ明示且词典承认此整体训读，现有熟字训标签和只覆盖明日的ruby保留；不改成あす/みょうにち。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l025",
+      "decision": "keep",
+      "assessment": "役立たない=やくだたない、所為=せい均有QQ支持；所為にする是归咎短语宜保留。所為整块ruby避免教出独立所=せ，但词典仅△并非〈〉，且大辞泉将せい联系到しょい音变，故不追加熟字训。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l026",
+      "decision": "limited-readability",
+      "assessment": "途方に暮れる有词典独立惯用语释义，不应拆散为方向和天黑。连同ています保留整卡，建议可选tohou ni kurete imasu显出固定搭配和状态礼貌活用；途方/暮的ruby与QQ一致。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": [
+        "grammarCards.0.romaji",
+        "caption.romaji"
+      ]
+    },
+    {
+      "frameId": "l027",
+      "decision": "keep",
+      "assessment": "強がる是完整词汇动词逞强，不误拆为强形容词＋观察情感がる教学公式；強がったとして可作假定让步学习块。QQ tsuyogatta的tt正确，強=つよ仅汉字ruby保留。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l028",
+      "decision": "keep",
+      "assessment": "結果けっか的促音kk无误，おそらく独立副词、同じ读おなじ且仅同上标おな；与副词可能性相连的结果比较清楚，词边界无须修改。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l029",
+      "decision": "change-structure",
+      "assessment": "建议溢れだしそうな／ほど／詰め込んだ三卡：保留复合动词和完整样态连体形，独立程度标记，句尾动词的连体义对应下一句他人の箱。QQあふれだし而非こぼれだし，顶部溢/詰/込注音无误；联动roma但不改QRC或原文。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": [
+        "grammarCards",
+        "caption.romaji"
+      ]
+    },
+    {
+      "frameId": "l030",
+      "decision": "keep",
+      "assessment": "他人=たにん而非ひと有QQ明确支持；横目に作为状态惯用搭配保留，不能按侧眼器官字面译。上行詰め込んだ修饰本行他人的箱子，现有noun实义保留；ruby覆盖他人、箱、横目而不注助词。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l031",
+      "decision": "change",
+      "assessment": "下手=へた有词典与文科省直接熟字训分类证据，给现有形容动词连体形加标签。愛想笑い=あいそわらい字典与QQ一致，不擅改あいそうわらい；其应酬笑名词保留，不追加整个词熟字训。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": [
+        "grammarCards.0.grammarStructureZh"
+      ]
+    },
+    {
+      "frameId": "l032",
+      "decision": "change",
+      "assessment": "やっぱり促音pp及出来てない=できてない均正确。保留整个口语ていない缩约，仅补第三字段缺失的动词身份；出来上rubyでき为连续汉字标注，不凭此判熟字训。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": [
+        "grammarCards.1.grammarStructureZh"
+      ]
+    },
+    {
+      "frameId": "l033",
+      "decision": "keep",
+      "assessment": "こんな／空欄／さえ／なければ各是可独立学习单位，空欄名词中文未被抽象功能抹除。さえ与条件なければ语义呼应，但无必要跨名词合成长卡；くうらん读音和ruby正确。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l034",
+      "decision": "keep",
+      "assessment": "あなた代词、も助词与思うでしょう完整推量块合理。思=おも、omou的ou都正确；卡义是否需去掉与も重复的也由translation角色细化，不据中文调整音读。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l035",
+      "decision": "change-structure",
+      "assessment": "参照已确认このままで和いい的独立教学方式，拆成このままで／いい／なんて，恢复いい的形容词身份和可单独理解的含义。保留状态名词块及なんて引用功能；全假名无需ruby，联动romaji。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": [
+        "grammarCards",
+        "caption.romaji"
+      ]
+    },
+    {
+      "frameId": "l036",
+      "decision": "keep",
+      "assessment": "それだけ在反驳前句时指唯独那一想法，不与l023机械强同义；間違いだ是名词加断定完整块。間違上标まちが正确，不重复已有い；无需额外拆卡。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l037",
+      "decision": "keep",
+      "assessment": "空っぽなんだ含形容动词解释式，促音pp及n均完整；空仅标から而不重复っぽ。ひとつも与否定呼应宜保留；没有写汉字一つ，不新增无对应ruby，也不认定填的必然是字。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l038",
+      "decision": "keep",
+      "assessment": "無くなった由ない＋なる形成消失/不见表达，整个结果变化宜保留，natta促音tt正确。のか与后句のか构成选项，不改变前项未知信息；仅無标な。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l039",
+      "decision": "keep",
+      "assessment": "始まった／のか／分からない／けど边界清楚并与l038相接。始=はじ、分=わ和hajimatta/wakaranai均正确，不因问句将分からない当名词或改变读音。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l040",
+      "decision": "keep",
+      "assessment": "行く=いく有QQ支持，不换ゆく；行くしか与句后无存在否定配合，保留前进这一短动作块。方法ほうほう、無な的ruby正确，無いんだろう为完整解释推量，未见拆分必要。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l041",
+      "decision": "keep",
+      "assessment": "正解せいかい、価値かち音读无误。なんだ在此是反问何だ，不与無いんだ里的解释んだ误并；保留六卡及正解/价值实义，不新增外语注释。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l042",
+      "decision": "keep",
+      "assessment": "复核重复「あたしは生涯」，口语代词/时间名词分开合理；しょうがい与l022一致且不能按障害之意误译。顶部只注生涯。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l043",
+      "decision": "limited-readability",
+      "assessment": "あたし以外じゃ是排除其他身份的范围块，适合完整保留并与生きられない可能否定配合，不拆坏じゃ所属。可选atashi igai ja仅提升读音可读性；以外いがい、生い正确，不给纯假名あたし加ruby。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": [
+        "grammarCards.0.romaji",
+        "caption.romaji"
+      ]
+    },
+    {
+      "frameId": "l044",
+      "decision": "keep",
+      "assessment": "与l024逐项复核同一句，かき乱しても复合动词让步和明日あした熟字训均保留；原始QQ分别明确a shi ta，同卡同音不因两次时长不同换字或改时序。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    },
+    {
+      "frameId": "l045",
+      "decision": "keep",
+      "assessment": "足掻いても=あがいても与QQ及漢字ペディア吻合；どう…ても构成完整无论如何表达，保留同卡。足掻上标あが而不重复いて，标△/▲的难读词不贸然称熟字训；明日仍按整体あした标注并保留熟字训标签。",
+      "reviewed": [
+        "token-boundaries",
+        "reading",
+        "romaji",
+        "kanji-only-ruby",
+        "jukujikun-classification",
+        "loanword-and-English-exclusion"
+      ],
+      "proposedFields": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "Q01",
+      "type": "frozen-supplied-source",
+      "title": "QQ 音乐日文QRC假名及罗马音",
+      "paths": [
+        "project/timing/qm-decoded.qrc",
+        "project/timing/roma-decoded.qrc",
+        "project/timing/qm.json",
+        "project/timing/roma.json"
+      ],
+      "supports": "45句文本读音对照和时码原样；是随附文本证据，不是实际听辨。"
+    },
+    {
+      "id": "R01",
+      "type": "human-confirmed-format-reference",
+      "title": "dare-ni-mo-narenai-watashi-dakara-v3 最新正式内容及已确认词卡",
+      "paths": [
+        "C:/project/musicjlpt/projects/dare-ni-mo-narenai-watashi-dakara-v3/project/frames.json",
+        "C:/project/musicjlpt/projects/dare-ni-mo-narenai-watashi-dakara-v3/deliverables/review/dare-ni-mo-narenai-watashi-dakara-v3-confirmed-review.md"
+      ],
+      "supports": "简短含义和词性、完整活用、可读词块；不把该项目已有读音/同义标签直接移植。"
+    },
+    {
+      "id": "R02",
+      "type": "confirmed-correction-context",
+      "title": "参照项目修正复核",
+      "path": "C:/project/musicjlpt/projects/dare-ni-mo-narenai-watashi-dakara-v3/deliverables/review/dare-ni-mo-narenai-watashi-dakara-v3-correction-review.md",
+      "supports": "避免误切じゃ、避免促音tsu、仅汉字振假名、熟字训需具体证据。"
+    },
+    {
+      "id": "S01",
+      "type": "primary-dictionary-publisher",
+      "title": "日本漢字能力検定協会・漢字ペディア「下手（へた）」",
+      "url": "https://www.kanjipedia.jp/kotoba/0000619000",
+      "accessed": "2026-09-04",
+      "supports": "へた读法、技能不佳义，〈下手〉标记。"
+    },
+    {
+      "id": "S02",
+      "type": "primary-dictionary-publisher",
+      "title": "漢字ペディア・言葉について（凡例）",
+      "url": "https://www.kanjipedia.jp/include/popup_kotoba.html",
+      "accessed": "2026-09-04",
+      "supports": "〈〉与△/▲分类不同；熟字训定义是整个词的训读，不能以整块ruby反推分类。"
+    },
+    {
+      "id": "S03",
+      "type": "primary-education-authority",
+      "title": "文部科学省・視覚障害教育資料 第3節 墨字についての学習内容と方法",
+      "url": "https://www.mext.go.jp/content/20231116-mxt_tokubetu01-000032539_44.pdf",
+      "accessed": "2026-09-04",
+      "supports": "明确以へた作为下手的熟字训，区别したて/しもて普通训读。"
+    },
+    {
+      "id": "S04",
+      "type": "primary-dictionary-publisher",
+      "title": "漢字ペディア「今日」",
+      "url": "https://www.kanjipedia.jp/kotoba/0002418800",
+      "accessed": "2026-09-04",
+      "supports": "きょう与コンニチ是不同读法；コンニチ还包括如今、现今的范围。"
+    },
+    {
+      "id": "S05",
+      "type": "primary-dictionary-publisher",
+      "title": "漢字ペディア「明日」",
+      "url": "https://www.kanjipedia.jp/kotoba/0006679700",
+      "accessed": "2026-09-04",
+      "supports": "整体明日列〈〉，承认あした变读；该页「あしたはあしたのかぜがふく」也保持〈明日〉。具体歌曲选音以Q01为依据。"
+    },
+    {
+      "id": "S06",
+      "type": "primary-dictionary-publisher",
+      "title": "漢字ペディア「所為（せい）」",
+      "url": "https://www.kanjipedia.jp/kotoba/0003285700",
+      "accessed": "2026-09-04",
+      "supports": "读せい，表示坏结果的原因，标△而非〈〉。"
+    },
+    {
+      "id": "S06b",
+      "type": "publisher-dictionary-syndication",
+      "title": "小学館 デジタル大辞泉/精選版日本国語大辞典「所為」（コトバンク収録）",
+      "url": "https://kotobank.jp/word/%E6%89%80%E7%82%BA-530273",
+      "accessed": "2026-09-04",
+      "supports": "せい为名词；词源谨慎提出しょい字音变化说，不能直接归作和语熟字训。"
+    },
+    {
+      "id": "S07",
+      "type": "publisher-dictionary-syndication",
+      "title": "小学館 デジタル大辞泉「途方に暮れる」（コトバンク収録）",
+      "url": "https://kotobank.jp/word/%E9%80%94%E6%96%B9%E3%81%AB%E6%9A%AE%E3%82%8C%E3%82%8B-584720",
+      "accessed": "2026-09-04",
+      "supports": "完整惯用语，意为手段用尽而不知如何是好。"
+    },
+    {
+      "id": "S08",
+      "type": "primary-dictionary-publisher",
+      "title": "漢字ペディア「足搔く」",
+      "url": "https://www.kanjipedia.jp/kotoba/0004336300",
+      "accessed": "2026-09-04",
+      "supports": "あがく读音和挣扎/焦急努力义；其△/▲不同于熟字训〈〉，不据难读擅加标签。保留原歌词字体掻。"
+    },
+    {
+      "id": "S09",
+      "type": "publisher-dictionary-syndication",
+      "title": "小学館 デジタル大辞泉「愛想笑い」（コトバンク収録）",
+      "url": "https://kotobank.jp/word/%E6%84%9B%E6%83%B3%E7%AC%91%E3%81%84-421485",
+      "accessed": "2026-09-04",
+      "supports": "あいそわらい读法、名词、为了讨好/应酬而笑的词义。"
+    }
+  ],
+  "uncertainties": [
+    {
+      "frameIds": [
+        "l011"
+      ],
+      "issue": "今日实际音频唱读未听辨",
+      "evidence": "QQ kana/roma都支持こんにち，词典允许该读法；保持当前读音，不称唱读确认。",
+      "action": "若用户/其他角色实际听辨与文本不同，再以音频证据复核。"
+    },
+    {
+      "frameIds": [
+        "l025",
+        "l045"
+      ],
+      "issue": "难读词和熟字训不能等同",
+      "evidence": "所為与足搔く在采用的权威词典不是〈〉分类；所為另有音变说。",
+      "action": "继续整块汉字ruby以保证显示准确，但不默认加熟字训标签。"
+    },
+    {
+      "frameIds": [
+        "l029",
+        "l035"
+      ],
+      "issue": "教学分词可有不止一合理方案",
+      "evidence": "本轮拆分基于多结构清晰度，词典没有规定视频卡必须这样切。",
+      "action": "待主代理按1730px单行卡、26px中文及romaji相邻范围测量并让用户选择；不授权修改时码。"
+    },
+    {
+      "frameIds": [
+        "l009",
+        "l023",
+        "l026",
+        "l043"
+      ],
+      "issue": "可选romaji分块仅可读性建议",
+      "evidence": "这些连续串的读音本身没有错，且用户未批准批量空格风格迁移。",
+      "action": "可整组省略这四行的optional改动，不影响硬性词性/分类和两处分卡提案；接受时caption与卡片需同步。"
+    },
+    {
+      "frameIds": [
+        "l001",
+        "l016",
+        "l029",
+        "l030",
+        "l037",
+        "l041"
+      ],
+      "issue": "QQ中文的隐喻、跨行调序或解释性增补超出lexical默认修改范围",
+      "evidence": "本轮以日文连续语义判断学习块，而不把整句来源中文逐卡硬贴。",
+      "action": "源译疑点由translation角色单列；本文件没有caption.translationZh变更。"
+    }
+  ],
+  "captionSyncChecks": [
+    {
+      "frameId": "l029",
+      "furiganaDecision": "unchanged",
+      "reason": "原溢=あふ、詰=つ、込=こ均只覆盖汉字且不依赖旧卡边界；拆分不需要无意义同值提案。",
+      "romajiProposal": "afuredashi sou na hodo tsumekonda"
+    },
+    {
+      "frameId": "l035",
+      "furiganaDecision": "unchanged-empty",
+      "reason": "整行纯假名，仍为[]。",
+      "romajiProposal": "kono mama de ii nante"
+    }
+  ],
+  "preservationChecks": {
+    "rawJapanesePreserved": true,
+    "allQQTranslationsPreserved": true,
+    "qrcAndFrameTimingPreserved": true,
+    "nextLinePolicyPreserved": true,
+    "existingCardMetadataPreserved": true,
+    "sourceWordAdded": false,
+    "englishLyricsPresent": false
+  },
+  "sourceTranslationIssues": [],
+  "summary": {
+    "framesReviewed": 45,
+    "structuralFrames": [
+      "l029",
+      "l035"
+    ],
+    "readingChanges": 0,
+    "rubyChanges": 0,
+    "verifiedClassificationFrames": [
+      "l031"
+    ],
+    "lexicalMeaningFrames": [
+      "l011"
+    ],
+    "missingWordClassFrames": [
+      "l032"
+    ],
+    "optionalReadabilityFrames": [
+      "l009",
+      "l023",
+      "l026",
+      "l043"
+    ]
+  }
+}

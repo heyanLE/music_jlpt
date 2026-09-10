@@ -1,0 +1,5558 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "integration",
+  "status": "completed",
+  "reviewRound": "round2",
+  "baseFrameSha256": "7e730357a5d9a6adf121d4f23c7fc86a263769209d78a4a8444f2fba122f48d6",
+  "sourceProposalFiles": [
+    "project/proposals/round2/lexical.json",
+    "project/proposals/round2/grammar.json",
+    "project/proposals/round2/translation.json"
+  ],
+  "conflicts": [],
+  "integrationDecisions": {
+    "schemaVersion": 1,
+    "exclude": {
+      "lexical:7": "可选空格风格建议，读音无错误；本轮不纳入默认内容修正。",
+      "lexical:8": "对应可选词卡罗马音被排除，句级同步也不改。",
+      "lexical:9": "可选空格风格建议，读音无错误；本轮不纳入默认内容修正。",
+      "lexical:10": "对应可选词卡罗马音被排除，句级同步也不改。",
+      "lexical:11": "可选空格风格建议，读音无错误；本轮不纳入默认内容修正。",
+      "lexical:12": "对应可选词卡罗马音被排除，句级同步也不改。",
+      "lexical:13": "可选空格风格建议，读音无错误；本轮不纳入默认内容修正。",
+      "lexical:14": "对应可选词卡罗马音被排除，句级同步也不改。",
+      "translation:0": "原词义均有效；仅删同义词不足以构成必须修改，保留。",
+      "translation:1": "原词义均有效；不为缩短而删去可用释义。",
+      "translation:3": "与l001同步保留有效原释义。",
+      "translation:4": "与l001同步保留有效原释义。",
+      "translation:6": "だいたい可表大体/通常，现稿未错；不在不足证据下仅保留大多。",
+      "translation:7": "与l002同步保留。",
+      "translation:12": "ている的当前状态原卡已有覆盖；碰上了只是简化，不构成实质纠错。",
+      "translation:13": "原卡已包含前进才好，保持完整ばいい教学块与合理释义。",
+      "translation:15": "难懂/晦涩均符合文意，保留而不重复制造同义编辑。",
+      "translation:16": "词语/话语均为言葉的有效释义，保留。",
+      "translation:17": "净是/满是均符合だらけ，保留。",
+      "translation:19": "一点也/丝毫也均有效，保留。",
+      "translation:20": "跨句连体为合理读法但不是唯一，保留没有改变，修饰关系置于备注。",
+      "translation:21": "いつの日か的未来不定表达原卡总有一天/某一天均可，不删除有效读法。",
+      "translation:22": "原how释义准确，纯同义删减不纳入。",
+      "translation:28": "生涯原卡直接给一生/终其一生，已符合名词实义规则，无须改。",
+      "translation:29": "与l022同步保留原卡。",
+      "translation:33": "归咎于/怪罪于均覆盖せいにする，保留既有短释义。",
+      "translation:35": "おそらく的大概/恐怕均为合理不确定推测义，保留。",
+      "translation:36": "一样/相同均合理，保留。",
+      "translation:37": "原长块已拆；语义按grammar:4分配为快要溢出来的＋ほど程度功能，禁止套用旧下标覆盖新首卡。",
+      "translation:40": "笨拙/不自然均适合下手な愛想笑い，保留。",
+      "translation:41": "应酬的笑/赔笑均可理解，保留词义，只核定未必是谄媚。",
+      "translation:42": "果然/终究还是均适合当前上下文，纯措辞合并不纳入。",
+      "translation:45": "原唯独那件事能指代上一句说法，无强制改成这一点的依据。",
+      "translation:46": "消失/不见均正确，保留。",
+      "translation:49": "不知道/分不清均适合后接两个疑问分句，保留。",
+      "translation:52": "办法/方法均为直接名词释义，保留。",
+      "translation:54": "算什么/又怎样已正确体现反问，无需只留一个。",
+      "translation:55": "若不是我自己已保留身份范围且不添加扮演他人含义；替换仅是语境化转述，保留原卡并在备注阐明身份解读。",
+      "translation:56": "没法活与无法活下去基本等义且前者更生硬；保留原卡，不把措辞差异当纠错。"
+    },
+    "bundleChoices": {
+      "l029": {
+        "proposalId": "grammar:4",
+        "reason": "两角色分词完全一致；采用文法版保留动词身份并明确そうな为样态。ほど独立显示程度功能；詰め込んだ保留连体义。"
+      },
+      "l035": {
+        "proposalId": "grammar:7",
+        "reason": "两角色边界一致；采用文法版明确で的状态作用，保留いい为形容词。中文短句由翻译意见另行核定。"
+      }
+    },
+    "fieldChoices": {
+      "l032.grammarCards.1.grammarStructureZh": {
+        "proposalId": "lexical:4",
+        "reason": "两角色均补动词身份；采用缩约明确省略い这一现象，字数也更短。"
+      },
+      "l011.grammarCards.0.zhMeaning": {
+        "proposalId": "translation:18",
+        "reason": "以あの頃对比现在的语境选如今，避免两个完全同义的词；不声称こんにち词典上没有今天义。"
+      },
+      "l023.grammarCards.0.zhMeaning": {
+        "proposalId": "translation:30",
+        "reason": "谓语系词表达身份而不是作为的处境；选是我自己保留短卡，不把补出的而与省略号塞进含义。"
+      },
+      "l038.grammarCards.1.functionZh": {
+        "proposalId": "grammar:11",
+        "reason": "与后续分からない共同构成间接疑问，是否更清楚体现疑问语义。"
+      },
+      "l039.grammarCards.1.functionZh": {
+        "proposalId": "grammar:13",
+        "reason": "与l038采用同一功能句式，两个可能选项保持平行。"
+      },
+      "l001.grammarCards.3.zhMeaning": {
+        "proposalId": "translation:2",
+        "value": "漫长啊",
+        "reason": "移除与やたら重复的十分，但保留原卡自然的中文漫长，不换成孤立而生硬的长啊。"
+      },
+      "l016.grammarCards.3.zhMeaning": {
+        "proposalId": "translation:5",
+        "value": "漫长啊",
+        "reason": "重复歌词同步l001同一卡义。"
+      }
+    },
+    "overrides": [
+      {
+        "frameId": "l035",
+        "field": "grammarCards.0.zhMeaning",
+        "new": "维持现状",
+        "reason": "采用translation的拆分映射意见：このままで为状态，避免把いい的就可以提前放入状态卡。"
+      },
+      {
+        "frameId": "l035",
+        "field": "grammarCards.1.zhMeaning",
+        "new": "就可以",
+        "reason": "采用translation的拆分映射意见，いい独立显示简短许可/认可义；整段想法由后句否定，不等于作者建议维持现状。"
+      }
+    ]
+  },
+  "appliedProposals": [
+    {
+      "id": "grammar:4",
+      "role": "grammar",
+      "frameId": "l029",
+      "targetToken": "溢れだしそうなほど／詰め込んだ",
+      "targetTokens": [
+        "溢れだしそうなほど",
+        "詰め込んだ"
+      ],
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "溢れだしそうなほど",
+          "reading": "あふれだしそうなほど",
+          "romaji": "afuredashisounahodo",
+          "grammarStructureZh": "动词＋そう＋ほど",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "多到仿佛快溢出来"
+        },
+        {
+          "token": "詰め込んだ",
+          "reading": "つめこんだ",
+          "romaji": "tsumekonda",
+          "grammarStructureZh": "复合动词（过去）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "塞满了；强塞进去"
+        }
+      ],
+      "new": [
+        {
+          "token": "溢れだしそうな",
+          "reading": "あふれだしそうな",
+          "romaji": "afuredashi sou na",
+          "grammarStructureZh": "复合动词＋そうな（样态）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "快要溢出来的"
+        },
+        {
+          "token": "ほど",
+          "reading": "ほど",
+          "romaji": "hodo",
+          "grammarStructureZh": "副助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "标示填塞达到的程度"
+        },
+        {
+          "token": "詰め込んだ",
+          "reading": "つめこんだ",
+          "romaji": "tsumekonda",
+          "grammarStructureZh": "复合动词（过去・连体）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "塞满了的"
+        }
+      ],
+      "confidence": 0.96,
+      "evidence": [
+        "S01：动词去ます接そう，そうな为样态的连体形，不是传闻；S02：ほど表示程度。",
+        "原长块同时包样态和程度两个可独立学习结构；拆成“溢れだしそうな／ほど”，不拆坏复合动词溢れだす。",
+        "跨句推断：詰め込んだ连体修饰l030的他人の箱，不宜按QQ跨行调序翻成“我塞满自己的箱子后”。将た形的连体作用显示在简短标签中。"
+      ],
+      "changesTokenStructure": true,
+      "originalField": "grammarCards"
+    },
+    {
+      "id": "grammar:7",
+      "role": "grammar",
+      "frameId": "l035",
+      "targetToken": "このままでいい",
+      "targetTokens": [
+        "このままでいい"
+      ],
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "このままでいい",
+          "reading": "このままでいい",
+          "romaji": "konomamadeii",
+          "grammarStructureZh": "状态表达＋でいい",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "维持现状就好"
+        },
+        {
+          "token": "なんて",
+          "reading": "なんて",
+          "romaji": "nante",
+          "grammarStructureZh": "副助词（引用）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "引用并轻视前述想法"
+        }
+      ],
+      "new": [
+        {
+          "token": "このままで",
+          "reading": "このままで",
+          "romaji": "kono mama de",
+          "grammarStructureZh": "名词短语＋で（状态）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "就保持这样"
+        },
+        {
+          "token": "いい",
+          "reading": "いい",
+          "romaji": "ii",
+          "grammarStructureZh": "形容词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "可以；就好"
+        },
+        {
+          "token": "なんて",
+          "reading": "なんて",
+          "romaji": "nante",
+          "grammarStructureZh": "副助词（引用）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "引用并轻视前述想法"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "R01/R02：已确认参照分别保留“このままで”状态块，并把いい明确标成形容词。",
+        "此处“当前状态”与“可以”是两个可独立学习单元；拆成このままで／いい，而保留なんて引用下一句所否定的想法。",
+        "与l036组成“维持这样就好——唯独这种想法不对”；不是叙述人赞同维持现状。"
+      ],
+      "changesTokenStructure": true,
+      "originalField": "grammarCards"
+    },
+    {
+      "id": "translation:18",
+      "role": "translation",
+      "frameId": "l011",
+      "token": "今日",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "今天；如今",
+      "new": "如今",
+      "confidence": 0.94,
+      "evidence": [
+        "与あの頃对照，选择当前／如今义；こんにち也可指本日，因此这是语境取义，不是读音排他的词典结论。",
+        "S6"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "mappedField": "grammarCards.0.zhMeaning",
+      "integrationReason": "以あの頃对比现在的语境选如今，避免两个完全同义的词；不声称こんにち词典上没有今天义。"
+    },
+    {
+      "id": "lexical:2",
+      "role": "lexical",
+      "frameId": "l029",
+      "field": "caption.romaji",
+      "old": "afuredashisounahodo tsumekonda",
+      "new": "afuredashi sou na hodo tsumekonda",
+      "confidence": 0.99,
+      "evidence": [
+        "与本轮 l029 新卡串同步；afuredashi、sou、na、hodo 对应可读语法块，保留原读音及促音/拨音完整性。"
+      ],
+      "changesTokenStructure": true,
+      "targetToken": "溢れだしそうなほど詰め込んだ",
+      "category": "structure-dependent-romaji",
+      "dependsOn": "l029:grammarCards",
+      "originalField": "caption.romaji",
+      "mappedField": "caption.romaji",
+      "integrationReason": "Unopposed field or identical role agreement."
+    },
+    {
+      "id": "lexical:3",
+      "role": "lexical",
+      "frameId": "l031",
+      "field": "grammarCards.0.grammarStructureZh",
+      "old": "形容动词连体形",
+      "new": "形容动词（熟字训・连体）",
+      "confidence": 0.99,
+      "evidence": [
+        "S01/S02：日本汉字能力检定协会将下手（へた）列为〈下手〉，凡例中〈〉标熟字训/当て字。",
+        "S03：文部科学省资料直接以「下手＝へた」说明熟字训，足以区分这里不是泛称难读字。",
+        "顶部现有 ruby 只覆盖「下手」而不包括正文「な」，读音与Q01一致，无需改变顶部注音。保留形容动词和连体身份。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "下手な",
+      "category": "verified-jukujikun-classification",
+      "originalField": "grammarCards.0.grammarStructureZh",
+      "mappedField": "grammarCards.0.grammarStructureZh",
+      "integrationReason": "Unopposed field or identical role agreement."
+    },
+    {
+      "id": "lexical:4",
+      "role": "lexical",
+      "frameId": "l032",
+      "field": "grammarCards.1.grammarStructureZh",
+      "old": "ていない的口语缩约",
+      "new": "动词（ていない缩约）",
+      "confidence": 0.98,
+      "evidence": [
+        "基准仅「ていない的口语缩约」说明省略却遗漏词性；出来る在此是动词。出来てない＝出来ていない的口语形式，补回动词身份即可。",
+        "Q01：de ki te na i 支持现有读音/romaji；不将出来る任意标成可能助动词，也不把表记难读等同熟字训。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "出来てない",
+      "category": "lexical-class-preservation",
+      "originalField": "grammarCards.1.grammarStructureZh",
+      "mappedField": "grammarCards.1.grammarStructureZh",
+      "integrationReason": "两角色均补动词身份；采用缩约明确省略い这一现象，字数也更短。"
+    },
+    {
+      "id": "lexical:6",
+      "role": "lexical",
+      "frameId": "l035",
+      "field": "caption.romaji",
+      "old": "konomamadeii nante",
+      "new": "kono mama de ii nante",
+      "confidence": 0.99,
+      "evidence": [
+        "与 l035 新学习单元同步，kono mama de／ii／nante 不改变任何读音。"
+      ],
+      "changesTokenStructure": true,
+      "targetToken": "このままでいいなんて",
+      "category": "structure-dependent-romaji",
+      "dependsOn": "l035:grammarCards",
+      "originalField": "caption.romaji",
+      "mappedField": "caption.romaji",
+      "integrationReason": "Unopposed field or identical role agreement."
+    },
+    {
+      "id": "grammar:0",
+      "role": "grammar",
+      "frameId": "l005",
+      "targetToken": "ないはずの",
+      "field": "grammarCards.1.grammarStructureZh",
+      "old": "否定＋はず＋の",
+      "new": "形容词＋はずの（推定）",
+      "confidence": 0.96,
+      "evidence": [
+        "「地図にはない」的ない是表示不存在的形容词；はず表按道理的推定，の把整个短语连到三叉路。不将ない误写成附着于动词的否定助动词。",
+        "S05：筈的当然、道理义；完整块只有一个推定关系，保留整卡。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[1].grammarStructureZh",
+      "mappedField": "grammarCards.1.grammarStructureZh",
+      "integrationReason": "Unopposed field or identical role agreement."
+    },
+    {
+      "id": "grammar:1",
+      "role": "grammar",
+      "frameId": "l006",
+      "targetToken": "のですが",
+      "field": "grammarCards.1.functionZh",
+      "old": "说明情况并引出后文",
+      "new": "说明困境并引出询问",
+      "confidence": 0.96,
+      "evidence": [
+        "跨句推断：l005–l008为“现在遇到了本不应有的岔路，该依靠什么前进呢”；が在此承接背景并铺垫提问，不能只默认强转折。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[1].functionZh",
+      "mappedField": "grammarCards.1.functionZh",
+      "integrationReason": "Unopposed field or identical role agreement."
+    },
+    {
+      "id": "translation:30",
+      "role": "translation",
+      "frameId": "l023",
+      "token": "あたしであって",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "作为我自己",
+      "new": "是我自己",
+      "confidence": 0.98,
+      "evidence": [
+        "承接l022的あたしは生涯，为身份断定あたしである的て形；不是以某身份去做某事的方式状语。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "mappedField": "grammarCards.0.zhMeaning",
+      "integrationReason": "谓语系词表达身份而不是作为的处境；选是我自己保留短卡，不把补出的而与省略号塞进含义。"
+    },
+    {
+      "id": "grammar:3",
+      "role": "grammar",
+      "frameId": "l025",
+      "targetToken": "所為にして",
+      "field": "grammarCards.3.grammarStructureZh",
+      "old": "固定短语（て形）",
+      "new": "名词＋にする（て形）",
+      "confidence": 0.96,
+      "evidence": [
+        "S06：所為（せい）为名词，用作原因归属；所為にする整体为归咎于，して是する的て形。保留固定短语，不拆成“所為／に／して”。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[3].grammarStructureZh",
+      "mappedField": "grammarCards.3.grammarStructureZh",
+      "integrationReason": "Unopposed field or identical role agreement."
+    },
+    {
+      "id": "grammar:9",
+      "role": "grammar",
+      "frameId": "l038",
+      "targetToken": "無くなった",
+      "field": "grammarCards.0.grammarStructureZh",
+      "old": "形容词连用形＋なる",
+      "new": "形容词＋なる（过去）",
+      "confidence": 0.96,
+      "evidence": [
+        "無い的连用形無く接なる，なった是なる的过去形；补出当前词形已发生的变化，不误标成受身，也不是亡くなる的死亡义。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].grammarStructureZh",
+      "mappedField": "grammarCards.0.grammarStructureZh",
+      "integrationReason": "Unopposed field or identical role agreement."
+    },
+    {
+      "id": "grammar:10",
+      "role": "grammar",
+      "frameId": "l038",
+      "targetToken": "のか",
+      "field": "grammarCards.1.grammarStructureZh",
+      "old": "解释＋疑问",
+      "new": "解释＋间接疑问",
+      "confidence": 0.96,
+      "evidence": [
+        "跨句推断：l038的“無くなったのか”与l039的“始まったのか”并列，合由分からない统摄，不是两次直接向听众发问。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[1].grammarStructureZh",
+      "mappedField": "grammarCards.1.grammarStructureZh",
+      "integrationReason": "Unopposed field or identical role agreement."
+    },
+    {
+      "id": "grammar:11",
+      "role": "grammar",
+      "frameId": "l038",
+      "targetToken": "のか",
+      "field": "grammarCards.1.functionZh",
+      "old": "提出疑问或不确定选项",
+      "new": "引出“是否已消失”的选项",
+      "confidence": 0.96,
+      "evidence": [
+        "由l038–l039连续结构判断，将泛化“疑问或选项”落实为并列间接疑问的第一项。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[1].functionZh",
+      "mappedField": "grammarCards.1.functionZh",
+      "integrationReason": "与后续分からない共同构成间接疑问，是否更清楚体现疑问语义。"
+    },
+    {
+      "id": "grammar:12",
+      "role": "grammar",
+      "frameId": "l039",
+      "targetToken": "のか",
+      "field": "grammarCards.1.grammarStructureZh",
+      "old": "解释＋疑问",
+      "new": "解释＋间接疑问",
+      "confidence": 0.96,
+      "evidence": [
+        "跨句推断：“無くなったのか／始まったのか／分からない”是无法判断两种情况；与上一句保持相同结构。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[1].grammarStructureZh",
+      "mappedField": "grammarCards.1.grammarStructureZh",
+      "integrationReason": "Unopposed field or identical role agreement."
+    },
+    {
+      "id": "grammar:13",
+      "role": "grammar",
+      "frameId": "l039",
+      "targetToken": "のか",
+      "field": "grammarCards.1.functionZh",
+      "old": "提出不确定选项",
+      "new": "引出“是否已开始”的选项",
+      "confidence": 0.96,
+      "evidence": [
+        "此か将始まった作为分からない的内容，与前句のか构成选择关系。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[1].functionZh",
+      "mappedField": "grammarCards.1.functionZh",
+      "integrationReason": "与l038采用同一功能句式，两个可能选项保持平行。"
+    },
+    {
+      "id": "translation:2",
+      "role": "translation",
+      "frameId": "l001",
+      "token": "長いんだ",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "十分漫长啊",
+      "new": "长啊",
+      "confidence": 0.94,
+      "evidence": [
+        "程度由独立的やたら卡承担；長い本身不指定时间，删除十分并避免用漫长把长度解释锁死为时间。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[3].zhMeaning",
+      "mappedField": "grammarCards.3.zhMeaning",
+      "integrationReason": "移除与やたら重复的十分，但保留原卡自然的中文漫长，不换成孤立而生硬的长啊。"
+    },
+    {
+      "id": "translation:5",
+      "role": "translation",
+      "frameId": "l016",
+      "token": "長いんだ",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "十分漫长啊",
+      "new": "长啊",
+      "confidence": 0.94,
+      "evidence": [
+        "程度由独立的やたら卡承担；長い本身不指定时间，删除十分并避免用漫长把长度解释锁死为时间。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[3].zhMeaning",
+      "mappedField": "grammarCards.3.zhMeaning",
+      "integrationReason": "重复歌词同步l001同一卡义。"
+    },
+    {
+      "id": "translation:8",
+      "role": "translation",
+      "frameId": "l003",
+      "token": "カタチ",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "形式；外表",
+      "new": "形式",
+      "confidence": 0.96,
+      "evidence": [
+        "カタチばかり所批评的是只有形式而无实质，保留名词的具体中文，不改成抽象助词功能。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "mappedField": "grammarCards.0.zhMeaning",
+      "integrationReason": "Unopposed field or identical role agreement."
+    },
+    {
+      "id": "translation:9",
+      "role": "translation",
+      "frameId": "l003",
+      "token": "ばかり",
+      "field": "grammarCards.1.functionZh",
+      "old": "限定为仅仅如此",
+      "new": "限定只有形式",
+      "confidence": 0.98,
+      "evidence": [
+        "此处限定的是カタチ，不是频繁发生、概数或刚完成。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[1].functionZh",
+      "mappedField": "grammarCards.1.functionZh",
+      "integrationReason": "Unopposed field or identical role agreement."
+    },
+    {
+      "id": "translation:10",
+      "role": "translation",
+      "frameId": "l018",
+      "token": "カタチ",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "形式；外表",
+      "new": "形式",
+      "confidence": 0.96,
+      "evidence": [
+        "カタチばかり所批评的是只有形式而无实质，保留名词的具体中文，不改成抽象助词功能。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "mappedField": "grammarCards.0.zhMeaning",
+      "integrationReason": "Unopposed field or identical role agreement."
+    },
+    {
+      "id": "translation:11",
+      "role": "translation",
+      "frameId": "l018",
+      "token": "ばかり",
+      "field": "grammarCards.1.functionZh",
+      "old": "限定为仅仅如此",
+      "new": "限定只有形式",
+      "confidence": 0.98,
+      "evidence": [
+        "此处限定的是カタチ，不是频繁发生、概数或刚完成。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[1].functionZh",
+      "mappedField": "grammarCards.1.functionZh",
+      "integrationReason": "Unopposed field or identical role agreement."
+    },
+    {
+      "id": "translation:14",
+      "role": "translation",
+      "frameId": "l009",
+      "token": "よく言ったもので",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "这话倒真说得好",
+      "new": "这话说得真贴切",
+      "confidence": 0.94,
+      "evidence": [
+        "评价教科書通り这个说法是否说中了情况，中文贴切比说得好更能排除鼓励遵照课本的误读；是否含反讽另列不确定性。",
+        "S11：よく有うまく／立派に义。",
+        "S12仅为近义表达旁证，不将言い得て妙冒充该歌词原词条。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "mappedField": "grammarCards.2.zhMeaning",
+      "integrationReason": "Unopposed field or identical role agreement."
+    },
+    {
+      "id": "translation:23",
+      "role": "translation",
+      "frameId": "l015",
+      "token": "進みますか",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "会前进吗",
+      "new": "前进呢",
+      "confidence": 0.93,
+      "evidence": [
+        "疑问焦点来自l014的どうやって，整句是如何前进，不是是否会前进；用呢承接前卡的方式问句。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "mappedField": "grammarCards.2.zhMeaning",
+      "integrationReason": "Unopposed field or identical role agreement."
+    },
+    {
+      "id": "translation:24",
+      "role": "translation",
+      "frameId": "l020",
+      "token": "無いんだ",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "并不存在啊",
+      "new": "没有啊",
+      "confidence": 0.96,
+      "evidence": [
+        "统一同形词卡的简短否定义；んだ不单独编码并、根本等程度或转折。句中主题和数量分别由其他卡承担。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "mappedField": "grammarCards.2.zhMeaning",
+      "integrationReason": "Unopposed field or identical role agreement."
+    },
+    {
+      "id": "translation:25",
+      "role": "translation",
+      "frameId": "l021",
+      "token": "無いんだ",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "并不存在啊",
+      "new": "没有啊",
+      "confidence": 0.96,
+      "evidence": [
+        "统一同形词卡的简短否定义；んだ不单独编码并、根本等程度或转折。句中主题和数量分别由其他卡承担。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "mappedField": "grammarCards.2.zhMeaning",
+      "integrationReason": "Unopposed field or identical role agreement."
+    },
+    {
+      "id": "translation:26",
+      "role": "translation",
+      "frameId": "l037",
+      "token": "無いんだ",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "并不存在啊",
+      "new": "没有啊",
+      "confidence": 0.96,
+      "evidence": [
+        "统一同形词卡的简短否定义；んだ不单独编码并、根本等程度或转折。句中主题和数量分别由其他卡承担。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "mappedField": "grammarCards.2.zhMeaning",
+      "integrationReason": "Unopposed field or identical role agreement."
+    },
+    {
+      "id": "translation:27",
+      "role": "translation",
+      "frameId": "l041",
+      "token": "無いんだ",
+      "field": "grammarCards.5.zhMeaning",
+      "old": "根本不存在啊",
+      "new": "没有啊",
+      "confidence": 0.96,
+      "evidence": [
+        "统一同形词卡的简短否定义；んだ不单独编码并、根本等程度或转折。句中主题和数量分别由其他卡承担。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[5].zhMeaning",
+      "mappedField": "grammarCards.5.zhMeaning",
+      "integrationReason": "Unopposed field or identical role agreement."
+    },
+    {
+      "id": "translation:31",
+      "role": "translation",
+      "frameId": "l024",
+      "token": "これ以上",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "再这样；更进一步",
+      "new": "再进一步",
+      "confidence": 0.95,
+      "evidence": [
+        "これ以上表达超出当前程度；再这样只表示方式相同，漏掉以上的程度增量。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "mappedField": "grammarCards.0.zhMeaning",
+      "integrationReason": "Unopposed field or identical role agreement."
+    },
+    {
+      "id": "translation:32",
+      "role": "translation",
+      "frameId": "l044",
+      "token": "これ以上",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "再这样；更进一步",
+      "new": "再进一步",
+      "confidence": 0.95,
+      "evidence": [
+        "これ以上表达超出当前程度；再这样只表示方式相同，漏掉以上的程度增量。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "mappedField": "grammarCards.0.zhMeaning",
+      "integrationReason": "Unopposed field or identical role agreement."
+    },
+    {
+      "id": "translation:34",
+      "role": "translation",
+      "frameId": "l027",
+      "token": "強がったとして",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "即使逞强；假定逞强",
+      "new": "即使逞强",
+      "confidence": 0.96,
+      "evidence": [
+        "与l028结果大概相同连读，保留假设让步；た在此不等于已经实际逞强了，不并列假定逞强。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "mappedField": "grammarCards.0.zhMeaning",
+      "integrationReason": "Unopposed field or identical role agreement."
+    },
+    {
+      "id": "translation:38",
+      "role": "translation",
+      "frameId": "l029",
+      "token": "詰め込んだ",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "塞满了；强塞进去",
+      "new": "塞满了的",
+      "confidence": 0.96,
+      "evidence": [
+        "该た形优先连体修饰l030的他人の箱，保留装满义及结果性，不增加自己、别人装入等未明示施事。",
+        "S2"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[1].zhMeaning",
+      "mappedField": "grammarCards.2.zhMeaning",
+      "integrationReason": "Unopposed field or identical role agreement."
+    },
+    {
+      "id": "translation:39",
+      "role": "translation",
+      "frameId": "l030",
+      "token": "横目に",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "斜眼看着；侧目而视",
+      "new": "瞥着",
+      "confidence": 0.94,
+      "evidence": [
+        "此处是以侧眼看、稍看一眼的状态；旧译侧目而视在中文容易附加愤怒／畏惧，不宜写入词卡。是否不愿介入另列不确定性。",
+        "S3"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[4].zhMeaning",
+      "mappedField": "grammarCards.4.zhMeaning",
+      "integrationReason": "Unopposed field or identical role agreement."
+    },
+    {
+      "id": "translation:43",
+      "role": "translation",
+      "frameId": "l034",
+      "token": "思うでしょう",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "也会这么想吧",
+      "new": "会这么想吧",
+      "confidence": 0.99,
+      "evidence": [
+        "同样也的意义已在独立も卡，不应在动词卡重复计入；这么承接l033的想法。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "mappedField": "grammarCards.2.zhMeaning",
+      "integrationReason": "Unopposed field or identical role agreement."
+    },
+    {
+      "id": "translation:44",
+      "role": "translation",
+      "frameId": "l035",
+      "token": "なんて",
+      "field": "grammarCards.1.functionZh",
+      "old": "引用并轻视前述想法",
+      "new": "引述并带不以为然语气",
+      "confidence": 0.97,
+      "evidence": [
+        "引述このままでいい这一想法，借下一句说明反对态度；不把なんて本身教成否定词或沿QQ单独当成肯定建议。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[1].functionZh",
+      "mappedField": "grammarCards.2.functionZh",
+      "integrationReason": "Unopposed field or identical role agreement."
+    },
+    {
+      "id": "translation:50",
+      "role": "translation",
+      "frameId": "l039",
+      "token": "けど",
+      "field": "grammarCards.3.functionZh",
+      "old": "承接转折或保留语气",
+      "new": "转折，引出继续前行",
+      "confidence": 0.96,
+      "evidence": [
+        "虽然分不清是消失还是开始，却只能往前走；实际后文已经出现，不应仍写转折或保留的未决泛注。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[3].functionZh",
+      "mappedField": "grammarCards.3.functionZh",
+      "integrationReason": "Unopposed field or identical role agreement."
+    },
+    {
+      "id": "translation:51",
+      "role": "translation",
+      "frameId": "l040",
+      "token": "行くしか",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "只有前进这一选择",
+      "new": "除了前进",
+      "confidence": 0.97,
+      "evidence": [
+        "与后面的方法は無い组成除了前进没有办法；不在第一卡预先加入这一选择和全句结论。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "mappedField": "grammarCards.0.zhMeaning",
+      "integrationReason": "Unopposed field or identical role agreement."
+    },
+    {
+      "id": "translation:53",
+      "role": "translation",
+      "frameId": "l040",
+      "token": "無いんだろう",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "没有其他的了吧",
+      "new": "没有吧",
+      "confidence": 0.96,
+      "evidence": [
+        "其他的排除关系来自前卡しか；删除了，避免添加先前曾有现在没有的变化义；だろう保留推量确认语气。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[3].zhMeaning",
+      "mappedField": "grammarCards.3.zhMeaning",
+      "integrationReason": "Unopposed field or identical role agreement."
+    }
+  ],
+  "excludedProposals": [
+    {
+      "id": "lexical:7",
+      "role": "lexical",
+      "frameId": "l009",
+      "field": "grammarCards.2.romaji",
+      "old": "yokuittamonode",
+      "new": "yoku itta mono de",
+      "confidence": 0.96,
+      "evidence": [
+        "惯用评论「よく言ったもの（だ）」保持一张卡；不拆为字典字面「经常说」，仅将语法块读清，itta的促音tt保持完整。",
+        "局部可读性建议：已重新审核词义和是否固定搭配，并决定保留边界。不是按第一轮批量套空格；其余短活用形式原样保留。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "よく言ったもので",
+      "category": "limited-readability-with-boundary-retained",
+      "adoptionPriority": "optional",
+      "originalField": "grammarCards.2.romaji",
+      "resolution": "可选空格风格建议，读音无错误；本轮不纳入默认内容修正。"
+    },
+    {
+      "id": "lexical:8",
+      "role": "lexical",
+      "frameId": "l009",
+      "field": "caption.romaji",
+      "old": "kyoukashodoori to wa yokuittamonode",
+      "new": "kyoukashodoori to wa yoku itta mono de",
+      "confidence": 0.99,
+      "evidence": [
+        "只与该行词卡的局部romaji分块同步，不影响caption.japanese、ruby、QRC时码或高亮边界。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "教科書通りとはよく言ったもので",
+      "category": "limited-readability-sync",
+      "adoptionPriority": "optional",
+      "dependsOn": "l009:grammarCards.2.romaji",
+      "originalField": "caption.romaji",
+      "resolution": "对应可选词卡罗马音被排除，句级同步也不改。"
+    },
+    {
+      "id": "lexical:9",
+      "role": "lexical",
+      "frameId": "l023",
+      "field": "grammarCards.0.romaji",
+      "old": "atashideatte",
+      "new": "atashi de atte",
+      "confidence": 0.96,
+      "evidence": [
+        "保留「あたしであって」的同一性断定中顿，不改成让步；它与参照的名词/代词＋助动表达一样可作为完整卡，只使代词与であって可读。",
+        "局部可读性建议：已重新审核词义和是否固定搭配，并决定保留边界。不是按第一轮批量套空格；其余短活用形式原样保留。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "あたしであって",
+      "category": "limited-readability-with-boundary-retained",
+      "adoptionPriority": "optional",
+      "originalField": "grammarCards.0.romaji",
+      "resolution": "可选空格风格建议，读音无错误；本轮不纳入默认内容修正。"
+    },
+    {
+      "id": "lexical:10",
+      "role": "lexical",
+      "frameId": "l023",
+      "field": "caption.romaji",
+      "old": "atashideatte soredake darou",
+      "new": "atashi de atte soredake darou",
+      "confidence": 0.99,
+      "evidence": [
+        "只与该行词卡的局部romaji分块同步，不影响caption.japanese、ruby、QRC时码或高亮边界。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "あたしであってそれだけだろう",
+      "category": "limited-readability-sync",
+      "adoptionPriority": "optional",
+      "dependsOn": "l023:grammarCards.0.romaji",
+      "originalField": "caption.romaji",
+      "resolution": "对应可选词卡罗马音被排除，句级同步也不改。"
+    },
+    {
+      "id": "lexical:11",
+      "role": "lexical",
+      "frameId": "l026",
+      "field": "grammarCards.0.romaji",
+      "old": "tohounikureteimasu",
+      "new": "tohou ni kurete imasu",
+      "confidence": 0.96,
+      "evidence": [
+        "S07将途方に暮れる作为完整惯用语收录，不能逐词硬译途方/暮れる。保留全卡，同时显出词组和ている礼貌活用；不切断kurete。",
+        "局部可读性建议：已重新审核词义和是否固定搭配，并决定保留边界。不是按第一轮批量套空格；其余短活用形式原样保留。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "途方に暮れています",
+      "category": "limited-readability-with-boundary-retained",
+      "adoptionPriority": "optional",
+      "originalField": "grammarCards.0.romaji",
+      "resolution": "可选空格风格建议，读音无错误；本轮不纳入默认内容修正。"
+    },
+    {
+      "id": "lexical:12",
+      "role": "lexical",
+      "frameId": "l026",
+      "field": "caption.romaji",
+      "old": "tohounikureteimasu ga",
+      "new": "tohou ni kurete imasu ga",
+      "confidence": 0.99,
+      "evidence": [
+        "只与该行词卡的局部romaji分块同步，不影响caption.japanese、ruby、QRC时码或高亮边界。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "途方に暮れていますが",
+      "category": "limited-readability-sync",
+      "adoptionPriority": "optional",
+      "dependsOn": "l026:grammarCards.0.romaji",
+      "originalField": "caption.romaji",
+      "resolution": "对应可选词卡罗马音被排除，句级同步也不改。"
+    },
+    {
+      "id": "lexical:13",
+      "role": "lexical",
+      "frameId": "l043",
+      "field": "grammarCards.0.romaji",
+      "old": "atashiigaija",
+      "new": "atashi igai ja",
+      "confidence": 0.96,
+      "evidence": [
+        "保留「あたし以外じゃ」的排除范围短语，避免单独长romaji的以外卡挤占字面范围；参照已确认「想像の中じゃ」的完整归属，仅显出atashi／igai／ja。",
+        "局部可读性建议：已重新审核词义和是否固定搭配，并决定保留边界。不是按第一轮批量套空格；其余短活用形式原样保留。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "あたし以外じゃ",
+      "category": "limited-readability-with-boundary-retained",
+      "adoptionPriority": "optional",
+      "originalField": "grammarCards.0.romaji",
+      "resolution": "可选空格风格建议，读音无错误；本轮不纳入默认内容修正。"
+    },
+    {
+      "id": "lexical:14",
+      "role": "lexical",
+      "frameId": "l043",
+      "field": "caption.romaji",
+      "old": "atashiigaija ikirarenai yo",
+      "new": "atashi igai ja ikirarenai yo",
+      "confidence": 0.99,
+      "evidence": [
+        "只与该行词卡的局部romaji分块同步，不影响caption.japanese、ruby、QRC时码或高亮边界。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "あたし以外じゃ生きられないよ",
+      "category": "limited-readability-sync",
+      "adoptionPriority": "optional",
+      "dependsOn": "l043:grammarCards.0.romaji",
+      "originalField": "caption.romaji",
+      "resolution": "对应可选词卡罗马音被排除，句级同步也不改。"
+    },
+    {
+      "id": "translation:0",
+      "role": "translation",
+      "frameId": "l001",
+      "token": "やけに",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "格外；异常地",
+      "new": "格外地",
+      "confidence": 0.96,
+      "evidence": [
+        "选取此处超出通常程度的单一副词义；不在后面的形容词卡再重复程度。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "resolution": "原词义均有效；仅删同义词不足以构成必须修改，保留。"
+    },
+    {
+      "id": "translation:1",
+      "role": "translation",
+      "frameId": "l001",
+      "token": "やたら",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "过分地；特别地",
+      "new": "过分地",
+      "confidence": 0.96,
+      "evidence": [
+        "在長い前取程度过甚义，不并排堆放轻重不一的同义释义。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "resolution": "原词义均有效；不为缩短而删去可用释义。"
+    },
+    {
+      "id": "translation:3",
+      "role": "translation",
+      "frameId": "l016",
+      "token": "やけに",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "格外；异常地",
+      "new": "格外地",
+      "confidence": 0.96,
+      "evidence": [
+        "选取此处超出通常程度的单一副词义；不在后面的形容词卡再重复程度。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "resolution": "与l001同步保留有效原释义。"
+    },
+    {
+      "id": "translation:4",
+      "role": "translation",
+      "frameId": "l016",
+      "token": "やたら",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "过分地；特别地",
+      "new": "过分地",
+      "confidence": 0.96,
+      "evidence": [
+        "在長い前取程度过甚义，不并排堆放轻重不一的同义释义。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "resolution": "与l001同步保留有效原释义。"
+    },
+    {
+      "id": "translation:6",
+      "role": "translation",
+      "frameId": "l002",
+      "token": "だいたい",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "大致；大多",
+      "new": "大多",
+      "confidence": 0.91,
+      "evidence": [
+        "结合后句カタチばかりの常識だろう，是概括答案的总体情形；此处不必把大致与大多两个尺度并列。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "resolution": "だいたい可表大体/通常，现稿未错；不在不足证据下仅保留大多。"
+    },
+    {
+      "id": "translation:7",
+      "role": "translation",
+      "frameId": "l017",
+      "token": "だいたい",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "大致；大多",
+      "new": "大多",
+      "confidence": 0.91,
+      "evidence": [
+        "结合后句カタチばかりの常識だろう，是概括答案的总体情形；此处不必把大致与大多两个尺度并列。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "resolution": "与l002同步保留。"
+    },
+    {
+      "id": "translation:12",
+      "role": "translation",
+      "frameId": "l006",
+      "token": "ぶつかっている",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "正遇到；碰上了",
+      "new": "碰上了",
+      "confidence": 0.94,
+      "evidence": [
+        "与l005的今和三叉路に连读，描述眼下已碰上岔路的状态；删去正遇到与碰上了两种时体说法并列。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "resolution": "ている的当前状态原卡已有覆盖；碰上了只是简化，不构成实质纠错。"
+    },
+    {
+      "id": "translation:13",
+      "role": "translation",
+      "frameId": "l008",
+      "token": "進めばいい",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "该往前走；前进才好",
+      "new": "前进才好",
+      "confidence": 0.96,
+      "evidence": [
+        "何を頼りに…のでしょうか是寻求指引的疑问，不是在告诉对方该往前走；疑问语气由后卡解释。",
+        "S10：ばいい的表面形式不能独立决定本句是建议；这里的疑问判断来自冻结日文上下文。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "resolution": "原卡已包含前进才好，保持完整ばいい教学块与合理释义。"
+    },
+    {
+      "id": "translation:15",
+      "role": "translation",
+      "frameId": "l010",
+      "token": "難しい",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "晦涩的；难懂的",
+      "new": "难懂的",
+      "confidence": 0.96,
+      "evidence": [
+        "修饰言葉，选择理解困难义；不把难懂与更强的晦涩并列。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "resolution": "难懂/晦涩均符合文意，保留而不重复制造同义编辑。"
+    },
+    {
+      "id": "translation:16",
+      "role": "translation",
+      "frameId": "l010",
+      "token": "言葉",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "词语；话语",
+      "new": "词语",
+      "confidence": 0.93,
+      "evidence": [
+        "与教科書、難しい、空欄的上下文相连，词语足以表达名词义；不需要另堆话语。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[1].zhMeaning",
+      "resolution": "词语/话语均为言葉的有效释义，保留。"
+    },
+    {
+      "id": "translation:17",
+      "role": "translation",
+      "frameId": "l010",
+      "token": "だらけ",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "净是；满是",
+      "new": "满是",
+      "confidence": 0.96,
+      "evidence": [
+        "保留大量充斥且常有负面评价的核心义；负面语气可由结构字段说明。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "resolution": "净是/满是均符合だらけ，保留。"
+    },
+    {
+      "id": "translation:19",
+      "role": "translation",
+      "frameId": "l011",
+      "token": "少しも",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "一点也；丝毫也",
+      "new": "一点也",
+      "confidence": 0.96,
+      "evidence": [
+        "与変わらない呼应；不在本卡先补不，再与后卡重复否定。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "resolution": "一点也/丝毫也均有效，保留。"
+    },
+    {
+      "id": "translation:20",
+      "role": "translation",
+      "frameId": "l011",
+      "token": "変わらない",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "没有改变",
+      "new": "没有改变的",
+      "confidence": 0.9,
+      "evidence": [
+        "优先按l011–l012跨行连续句法分析，あの頃から少しも変わらない前修饰この空欄；的帮助读者接住后行名词，而非受QQ分行支配。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[3].zhMeaning",
+      "resolution": "跨句连体为合理读法但不是唯一，保留没有改变，修饰关系置于备注。"
+    },
+    {
+      "id": "translation:21",
+      "role": "translation",
+      "frameId": "l013",
+      "token": "いつの日か",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "总有一天；某一天",
+      "new": "某一天",
+      "confidence": 0.96,
+      "evidence": [
+        "未来的不确定日子；删除总有一天所暗带的确定期待，尤其不能按QQ讲成究竟何时。",
+        "S9：何時条直接给出いつの日か的未来不定时释义。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "resolution": "いつの日か的未来不定表达原卡总有一天/某一天均可，不删除有效读法。"
+    },
+    {
+      "id": "translation:22",
+      "role": "translation",
+      "frameId": "l014",
+      "token": "どうやって",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "用什么方式；如何",
+      "new": "用什么方式",
+      "confidence": 0.96,
+      "evidence": [
+        "本句问方法而非原因；保留一个易接到l015的完整释义。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "resolution": "原how释义准确，纯同义删减不纳入。"
+    },
+    {
+      "id": "translation:28",
+      "role": "translation",
+      "frameId": "l022",
+      "token": "生涯",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "一生；终其一生",
+      "new": "一生",
+      "confidence": 0.96,
+      "evidence": [
+        "名词直接给时间名词义；终其一生可用于整句意译，不必作为第二个同义释义。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "resolution": "生涯原卡直接给一生/终其一生，已符合名词实义规则，无须改。"
+    },
+    {
+      "id": "translation:29",
+      "role": "translation",
+      "frameId": "l042",
+      "token": "生涯",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "一生；终其一生",
+      "new": "一生",
+      "confidence": 0.96,
+      "evidence": [
+        "名词直接给时间名词义；终其一生可用于整句意译，不必作为第二个同义释义。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "resolution": "与l022同步保留原卡。"
+    },
+    {
+      "id": "translation:33",
+      "role": "translation",
+      "frameId": "l025",
+      "token": "所為にして",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "归咎于；怪罪于",
+      "new": "归咎于",
+      "confidence": 0.99,
+      "evidence": [
+        "せいにする是把原因／责任归给前面的地図，不能读成客观陈述因地图而困惑；只保留一个简洁释义。",
+        "S4"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[3].zhMeaning",
+      "resolution": "归咎于/怪罪于均覆盖せいにする，保留既有短释义。"
+    },
+    {
+      "id": "translation:35",
+      "role": "translation",
+      "frameId": "l028",
+      "token": "おそらく",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "大概；恐怕",
+      "new": "大概",
+      "confidence": 0.96,
+      "evidence": [
+        "这里为结果相同的推测，不需要额外强化担忧色彩。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "resolution": "おそらく的大概/恐怕均为合理不确定推测义，保留。"
+    },
+    {
+      "id": "translation:36",
+      "role": "translation",
+      "frameId": "l028",
+      "token": "同じ",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "一样；相同",
+      "new": "一样",
+      "confidence": 0.96,
+      "evidence": [
+        "直接给出单一形容性中文，避免一样／相同的重复释义。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[3].zhMeaning",
+      "resolution": "一样/相同均合理，保留。"
+    },
+    {
+      "id": "translation:37",
+      "role": "translation",
+      "frameId": "l029",
+      "token": "溢れだしそうなほど",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "多到仿佛快溢出来",
+      "new": "到快要溢出的程度",
+      "confidence": 0.97,
+      "evidence": [
+        "そう描述将要发生的样态，ほど表示装入的程度；去掉多到仿佛快的叠加，使其清楚连接詰め込んだ。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "resolution": "原长块已拆；语义按grammar:4分配为快要溢出来的＋ほど程度功能，禁止套用旧下标覆盖新首卡。"
+    },
+    {
+      "id": "translation:40",
+      "role": "translation",
+      "frameId": "l031",
+      "token": "下手な",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "笨拙的；不自然的",
+      "new": "笨拙的",
+      "confidence": 0.96,
+      "evidence": [
+        "在不擅长应酬式微笑的上下文里，保留不熟练义；不把不同强度的评价堆在短卡。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "resolution": "笨拙/不自然均适合下手な愛想笑い，保留。"
+    },
+    {
+      "id": "translation:41",
+      "role": "translation",
+      "frameId": "l031",
+      "token": "愛想笑い",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "应酬的笑；赔笑",
+      "new": "应酬的笑",
+      "confidence": 0.96,
+      "evidence": [
+        "表示为照顾社交气氛而作出的笑，不必强化为谄媚或赔罪；保留完整名词。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[1].zhMeaning",
+      "resolution": "应酬的笑/赔笑均可理解，保留词义，只核定未必是谄媚。"
+    },
+    {
+      "id": "translation:42",
+      "role": "translation",
+      "frameId": "l032",
+      "token": "やっぱり",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "果然；终究还是",
+      "new": "果然还是",
+      "confidence": 0.94,
+      "evidence": [
+        "继l031说连笨拙应酬笑都做不到，兼顾如预期和仍然如此的语气；不加入终究所暗示的长程结果。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "resolution": "果然/终究还是均适合当前上下文，纯措辞合并不纳入。"
+    },
+    {
+      "id": "translation:45",
+      "role": "translation",
+      "frameId": "l036",
+      "token": "それだけ",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "唯独那件事",
+      "new": "唯独这一点",
+      "confidence": 0.97,
+      "evidence": [
+        "それ回指上一行维持现状就好的想法，不是另一个未指明事件；区别于l023仅此而已。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "resolution": "原唯独那件事能指代上一句说法，无强制改成这一点的依据。"
+    },
+    {
+      "id": "translation:46",
+      "role": "translation",
+      "frameId": "l038",
+      "token": "無くなった",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "消失了；不见了",
+      "new": "不见了",
+      "confidence": 0.96,
+      "evidence": [
+        "保留由有变无的完成状态，与下一行开始了构成备选；不加失去梦想等具体对象。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "resolution": "消失/不见均正确，保留。"
+    },
+    {
+      "id": "translation:49",
+      "role": "translation",
+      "frameId": "l039",
+      "token": "分からない",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "不知道；分不清",
+      "new": "分不清",
+      "confidence": 0.98,
+      "evidence": [
+        "判断l038–l039两种可能的区别，取分不清义；不是把上一行的QQ译文机械移入本卡。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "resolution": "不知道/分不清均适合后接两个疑问分句，保留。"
+    },
+    {
+      "id": "translation:52",
+      "role": "translation",
+      "frameId": "l040",
+      "token": "方法",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "办法；方法",
+      "new": "办法",
+      "confidence": 0.96,
+      "evidence": [
+        "名词只给直接中文，不与同义词方法并列。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[1].zhMeaning",
+      "resolution": "办法/方法均为直接名词释义，保留。"
+    },
+    {
+      "id": "translation:54",
+      "role": "translation",
+      "frameId": "l041",
+      "token": "なんだ",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "算什么；又怎样",
+      "new": "算什么",
+      "confidence": 0.99,
+      "evidence": [
+        "此为轻视正确答案的反问，不是求定义；选单一自然中文保留力度。",
+        "S5：大辞泉同构例地位が何だ、金が何だ。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "resolution": "算什么/又怎样已正确体现反问，无需只留一个。"
+    },
+    {
+      "id": "translation:55",
+      "role": "translation",
+      "frameId": "l043",
+      "token": "あたし以外じゃ",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "若不是我自己",
+      "new": "若以别人的身份",
+      "confidence": 0.94,
+      "evidence": [
+        "l042已经明确主语あたし；以外では此处谈活着时的身份／状态，不是换成别人作生きられない的主语。",
+        "S7：生きる除生存还可表示生活、过日子；本句身份解读来自l022–l023与l042–l043的呼应。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "resolution": "若不是我自己已保留身份范围且不添加扮演他人含义；替换仅是语境化转述，保留原卡并在备注阐明身份解读。"
+    },
+    {
+      "id": "translation:56",
+      "role": "translation",
+      "frameId": "l043",
+      "token": "生きられない",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "无法活下去",
+      "new": "没法活",
+      "confidence": 0.93,
+      "evidence": [
+        "保留可能否定，不把他人的身份重复塞进动词卡；删除活下去所偏重的持续存活方向，合读为没法以别人的身份活。",
+        "S7"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[1].zhMeaning",
+      "resolution": "没法活与无法活下去基本等义且前者更生硬；保留原卡，不把措辞差异当纠错。"
+    },
+    {
+      "id": "lexical:1",
+      "role": "lexical",
+      "frameId": "l029",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "溢れだしそうなほど",
+          "reading": "あふれだしそうなほど",
+          "romaji": "afuredashisounahodo",
+          "grammarStructureZh": "动词＋そう＋ほど",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "多到仿佛快溢出来"
+        },
+        {
+          "token": "詰め込んだ",
+          "reading": "つめこんだ",
+          "romaji": "tsumekonda",
+          "grammarStructureZh": "复合动词（过去）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "塞满了；强塞进去"
+        }
+      ],
+      "new": [
+        {
+          "token": "溢れだしそうな",
+          "reading": "あふれだしそうな",
+          "romaji": "afuredashi sou na",
+          "grammarStructureZh": "复合动词＋そうな",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "快要溢出来的"
+        },
+        {
+          "token": "ほど",
+          "reading": "ほど",
+          "romaji": "hodo",
+          "grammarStructureZh": "副助词（程度）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "表示填塞达到的程度"
+        },
+        {
+          "token": "詰め込んだ",
+          "reading": "つめこんだ",
+          "romaji": "tsumekonda",
+          "grammarStructureZh": "复合动词（过去・连体）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "塞满了的"
+        }
+      ],
+      "confidence": 0.95,
+      "evidence": [
+        "基准首卡把复合动词、样态そうな、程度ほど叠在同一9字块，结构只写「动词＋そう＋ほど」而难以逐项对应；建议在完整「溢れだしそうな」之后分出ほど，不拆坏溢れだす或そうな。",
+        "Q01：QQ读音为 a fu re da shi so u na ho do tsu me ko n da；新卡读音仅按原连续串分配，没有增删读音。",
+        "上下文推断：詰め込んだ连体修饰下一行「他人の箱」；不是看到他人箱子前先往自己的箱子塞。提案含简短连体卡义；QQ整句中文不改。",
+        "R01/R02：借鉴已确认项目按意义、完整活用组织学习单元，并让独立程度标记可见；这是教学边界建议，不是词典强制分词。"
+      ],
+      "changesTokenStructure": true,
+      "targetToken": "溢れだしそうなほど／詰め込んだ",
+      "category": "learning-unit-resegmentation",
+      "originalField": "grammarCards",
+      "resolution": "两角色分词完全一致；采用文法版保留动词身份并明确そうな为样态。ほど独立显示程度功能；詰め込んだ保留连体义。"
+    },
+    {
+      "id": "lexical:5",
+      "role": "lexical",
+      "frameId": "l035",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "このままでいい",
+          "reading": "このままでいい",
+          "romaji": "konomamadeii",
+          "grammarStructureZh": "状态表达＋でいい",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "维持现状就好"
+        },
+        {
+          "token": "なんて",
+          "reading": "なんて",
+          "romaji": "nante",
+          "grammarStructureZh": "副助词（引用）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "引用并轻视前述想法"
+        }
+      ],
+      "new": [
+        {
+          "token": "このままで",
+          "reading": "このままで",
+          "romaji": "kono mama de",
+          "grammarStructureZh": "名词短语＋で",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "保持这样"
+        },
+        {
+          "token": "いい",
+          "reading": "いい",
+          "romaji": "ii",
+          "grammarStructureZh": "形容词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "可以；就好"
+        },
+        {
+          "token": "なんて",
+          "reading": "なんて",
+          "romaji": "nante",
+          "grammarStructureZh": "副助词（引用）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "引用并轻视前述想法"
+        }
+      ],
+      "confidence": 0.97,
+      "evidence": [
+        "「このままでいい」同时包含维持状态的名词短语和形容词评价，分为「このままで／いい」便于独立学会いい，仍保留このままで为完整状态块；不机械拆この／まま／で。",
+        "R01：已确认项目 l023 独立「このままで」，l018 独立「いい」且纠正其误标助词。参考的是学习单元和词性清晰度，不是照搬错误旧稿。",
+        "Q01：纯假名行，无顶部振假名；三个新卡仍完整串回原日文，なんて保留引用功能，整句QQ中文不改。"
+      ],
+      "changesTokenStructure": true,
+      "targetToken": "このままでいい",
+      "category": "learning-unit-resegmentation",
+      "originalField": "grammarCards",
+      "resolution": "两角色边界一致；采用文法版明确で的状态作用，保留いい为形容词。中文短句由翻译意见另行核定。"
+    },
+    {
+      "id": "lexical:0",
+      "role": "lexical",
+      "frameId": "l011",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "今天；如今",
+      "new": "如今；现今",
+      "confidence": 0.92,
+      "evidence": [
+        "S04：漢字ペディア区分「今日」的きょう与コンニチ；后者还表示这段时期、现今。",
+        "Q01：冻结 QQ kana 明示こん＋にち，roma 对应 ko n ni chi。此处以「あの頃」作过去参照，卡义优先如今；并非读音纠错，也没有实际听辨。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "今日",
+      "category": "contextual-lexical-meaning",
+      "originalField": "grammarCards.0.zhMeaning",
+      "mappedField": "grammarCards.0.zhMeaning",
+      "resolution": "以あの頃对比现在的语境选如今，避免两个完全同义的词；不声称こんにち词典上没有今天义。"
+    },
+    {
+      "id": "grammar:5",
+      "role": "grammar",
+      "frameId": "l029",
+      "targetToken": "溢れだしそうなほど",
+      "field": "caption.romaji",
+      "old": "afuredashisounahodo tsumekonda",
+      "new": "afuredashi sou na hodo tsumekonda",
+      "confidence": 0.97,
+      "evidence": [
+        "与上项教学边界同步；整句日文与振假名、原始QRC时间均不变。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "caption.romaji",
+      "mappedField": "caption.romaji",
+      "resolution": "Identical proposal coalesced."
+    },
+    {
+      "id": "grammar:6",
+      "role": "grammar",
+      "frameId": "l032",
+      "targetToken": "出来てない",
+      "field": "grammarCards.1.grammarStructureZh",
+      "old": "ていない的口语缩约",
+      "new": "动词（ていない口语形）",
+      "confidence": 0.96,
+      "evidence": [
+        "S03：出来る是动词；S04：ていない可以表示未实现、未完成。出来てない是出来ていない省略い的口语形式，补回动词身份，但不将できる误当某一动词新造的可能形。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[1].grammarStructureZh",
+      "mappedField": "grammarCards.1.grammarStructureZh",
+      "resolution": "两角色均补动词身份；采用缩约明确省略い这一现象，字数也更短。"
+    },
+    {
+      "id": "grammar:8",
+      "role": "grammar",
+      "frameId": "l035",
+      "targetToken": "このままでいい",
+      "field": "caption.romaji",
+      "old": "konomamadeii nante",
+      "new": "kono mama de ii nante",
+      "confidence": 0.99,
+      "evidence": [
+        "与上项拆分同步，不改日文、振假名或时间。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "caption.romaji",
+      "mappedField": "caption.romaji",
+      "resolution": "Identical proposal coalesced."
+    },
+    {
+      "id": "grammar:2",
+      "role": "grammar",
+      "frameId": "l023",
+      "targetToken": "あたしであって",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "作为我自己",
+      "new": "我就是我，而……",
+      "confidence": 0.96,
+      "evidence": [
+        "S09：である是判断、断定表达；であって是其て形。这里承接“あたしは生涯”，做身份判断，不是“以我为手段”或另起行动方式。",
+        "学习块保留代词＋系词，中文显示断定及中顿，不照搬QQ整句的“活出”补入词卡。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "mappedField": "grammarCards.0.zhMeaning",
+      "resolution": "谓语系词表达身份而不是作为的处境；选是我自己保留短卡，不把补出的而与省略号塞进含义。"
+    },
+    {
+      "id": "translation:47",
+      "role": "translation",
+      "frameId": "l038",
+      "token": "のか",
+      "field": "grammarCards.1.functionZh",
+      "old": "提出疑问或不确定选项",
+      "new": "列举不见了这一可能",
+      "confidence": 0.98,
+      "evidence": [
+        "与l039的のか成对，两个未知选项共同作为分からない的内容；不是向对方发出的独立问句。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[1].functionZh",
+      "mappedField": "grammarCards.1.functionZh",
+      "resolution": "与后续分からない共同构成间接疑问，是否更清楚体现疑问语义。"
+    },
+    {
+      "id": "translation:48",
+      "role": "translation",
+      "frameId": "l039",
+      "token": "のか",
+      "field": "grammarCards.1.functionZh",
+      "old": "提出不确定选项",
+      "new": "列举开始了这一可能",
+      "confidence": 0.98,
+      "evidence": [
+        "与l038的のか成对，统辖于后面的分からない；使跨行间接疑問关系可见。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[1].functionZh",
+      "mappedField": "grammarCards.1.functionZh",
+      "resolution": "与l038采用同一功能句式，两个可能选项保持平行。"
+    }
+  ],
+  "recommendedChanges": [
+    {
+      "frameId": "l001",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "やけに",
+          "reading": "やけに",
+          "romaji": "yakeni",
+          "grammarStructureZh": "副词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "格外；异常地"
+        },
+        {
+          "token": "白いんだ",
+          "reading": "しろいんだ",
+          "romaji": "shiroinda",
+          "grammarStructureZh": "形容词＋解释语气",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "一片空白啊"
+        },
+        {
+          "token": "やたら",
+          "reading": "やたら",
+          "romaji": "yatara",
+          "grammarStructureZh": "副词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "过分地；特别地"
+        },
+        {
+          "token": "長いんだ",
+          "reading": "ながいんだ",
+          "romaji": "nagainda",
+          "grammarStructureZh": "形容词＋解释语气",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "十分漫长啊"
+        }
+      ],
+      "new": [
+        {
+          "token": "やけに",
+          "reading": "やけに",
+          "romaji": "yakeni",
+          "grammarStructureZh": "副词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "格外；异常地"
+        },
+        {
+          "token": "白いんだ",
+          "reading": "しろいんだ",
+          "romaji": "shiroinda",
+          "grammarStructureZh": "形容词＋解释语气",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "一片空白啊"
+        },
+        {
+          "token": "やたら",
+          "reading": "やたら",
+          "romaji": "yatara",
+          "grammarStructureZh": "副词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "过分地；特别地"
+        },
+        {
+          "token": "長いんだ",
+          "reading": "ながいんだ",
+          "romaji": "nagainda",
+          "grammarStructureZh": "形容词＋解释语气",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "漫长啊"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent round2 role proposals and explicit integration decisions; see sourceProposalFiles/integrationDecisions."
+      ]
+    },
+    {
+      "frameId": "l003",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "カタチ",
+          "reading": "かたち",
+          "romaji": "katachi",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "形式；外表"
+        },
+        {
+          "token": "ばかり",
+          "reading": "ばかり",
+          "romaji": "bakari",
+          "grammarStructureZh": "副助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "限定为仅仅如此"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "连接修饰语与名词"
+        },
+        {
+          "token": "常識",
+          "reading": "じょうしき",
+          "romaji": "joushiki",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "常识"
+        },
+        {
+          "token": "だろう",
+          "reading": "だろう",
+          "romaji": "darou",
+          "grammarStructureZh": "推量助动词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "大概是吧"
+        }
+      ],
+      "new": [
+        {
+          "token": "カタチ",
+          "reading": "かたち",
+          "romaji": "katachi",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "形式"
+        },
+        {
+          "token": "ばかり",
+          "reading": "ばかり",
+          "romaji": "bakari",
+          "grammarStructureZh": "副助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "限定只有形式"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "连接修饰语与名词"
+        },
+        {
+          "token": "常識",
+          "reading": "じょうしき",
+          "romaji": "joushiki",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "常识"
+        },
+        {
+          "token": "だろう",
+          "reading": "だろう",
+          "romaji": "darou",
+          "grammarStructureZh": "推量助动词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "大概是吧"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent round2 role proposals and explicit integration decisions; see sourceProposalFiles/integrationDecisions."
+      ]
+    },
+    {
+      "frameId": "l005",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "地図には",
+          "reading": "ちずには",
+          "romaji": "chizu ni wa",
+          "grammarStructureZh": "名词＋に＋主题提示",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "在地图上"
+        },
+        {
+          "token": "ないはずの",
+          "reading": "ないはずの",
+          "romaji": "naihazuno",
+          "grammarStructureZh": "否定＋はず＋の",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "本应不存在的"
+        },
+        {
+          "token": "三叉路",
+          "reading": "さんさろ",
+          "romaji": "sansaro",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "三岔路口"
+        },
+        {
+          "token": "に",
+          "reading": "に",
+          "romaji": "ni",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "提示碰到的对象"
+        },
+        {
+          "token": "今",
+          "reading": "いま",
+          "romaji": "ima",
+          "grammarStructureZh": "名词（时间）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "此刻"
+        }
+      ],
+      "new": [
+        {
+          "token": "地図には",
+          "reading": "ちずには",
+          "romaji": "chizu ni wa",
+          "grammarStructureZh": "名词＋に＋主题提示",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "在地图上"
+        },
+        {
+          "token": "ないはずの",
+          "reading": "ないはずの",
+          "romaji": "naihazuno",
+          "grammarStructureZh": "形容词＋はずの（推定）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "本应不存在的"
+        },
+        {
+          "token": "三叉路",
+          "reading": "さんさろ",
+          "romaji": "sansaro",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "三岔路口"
+        },
+        {
+          "token": "に",
+          "reading": "に",
+          "romaji": "ni",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "提示碰到的对象"
+        },
+        {
+          "token": "今",
+          "reading": "いま",
+          "romaji": "ima",
+          "grammarStructureZh": "名词（时间）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "此刻"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent round2 role proposals and explicit integration decisions; see sourceProposalFiles/integrationDecisions."
+      ]
+    },
+    {
+      "frameId": "l006",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "ぶつかっている",
+          "reading": "ぶつかっている",
+          "romaji": "butsukatteiru",
+          "grammarStructureZh": "动词ている（状态）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "正遇到；碰上了"
+        },
+        {
+          "token": "のですが",
+          "reading": "のですが",
+          "romaji": "no desu ga",
+          "grammarStructureZh": "解释＋礼貌中顿",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "说明情况并引出后文"
+        }
+      ],
+      "new": [
+        {
+          "token": "ぶつかっている",
+          "reading": "ぶつかっている",
+          "romaji": "butsukatteiru",
+          "grammarStructureZh": "动词ている（状态）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "正遇到；碰上了"
+        },
+        {
+          "token": "のですが",
+          "reading": "のですが",
+          "romaji": "no desu ga",
+          "grammarStructureZh": "解释＋礼貌中顿",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "说明困境并引出询问"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent round2 role proposals and explicit integration decisions; see sourceProposalFiles/integrationDecisions."
+      ]
+    },
+    {
+      "frameId": "l009",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "教科書通り",
+          "reading": "きょうかしょどおり",
+          "romaji": "kyoukashodoori",
+          "grammarStructureZh": "名词＋通り",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "照课本所写"
+        },
+        {
+          "token": "とは",
+          "reading": "とは",
+          "romaji": "to wa",
+          "grammarStructureZh": "引用＋主题提示",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "引用说法并提示话题"
+        },
+        {
+          "token": "よく言ったもので",
+          "reading": "よくいったもので",
+          "romaji": "yokuittamonode",
+          "grammarStructureZh": "惯用表达＋中顿",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "这话倒真说得好"
+        }
+      ],
+      "new": [
+        {
+          "token": "教科書通り",
+          "reading": "きょうかしょどおり",
+          "romaji": "kyoukashodoori",
+          "grammarStructureZh": "名词＋通り",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "照课本所写"
+        },
+        {
+          "token": "とは",
+          "reading": "とは",
+          "romaji": "to wa",
+          "grammarStructureZh": "引用＋主题提示",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "引用说法并提示话题"
+        },
+        {
+          "token": "よく言ったもので",
+          "reading": "よくいったもので",
+          "romaji": "yokuittamonode",
+          "grammarStructureZh": "惯用表达＋中顿",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "这话说得真贴切"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent round2 role proposals and explicit integration decisions; see sourceProposalFiles/integrationDecisions."
+      ]
+    },
+    {
+      "frameId": "l011",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "今日",
+          "reading": "こんにち",
+          "romaji": "konnichi",
+          "grammarStructureZh": "名词（时间）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "今天；如今"
+        },
+        {
+          "token": "あの頃から",
+          "reading": "あのころから",
+          "romaji": "anokorokara",
+          "grammarStructureZh": "名词短语＋から",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "从那时候开始"
+        },
+        {
+          "token": "少しも",
+          "reading": "すこしも",
+          "romaji": "sukoshimo",
+          "grammarStructureZh": "副词＋も（否定呼应）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "一点也；丝毫也"
+        },
+        {
+          "token": "変わらない",
+          "reading": "かわらない",
+          "romaji": "kawaranai",
+          "grammarStructureZh": "动词否定形",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "没有改变"
+        }
+      ],
+      "new": [
+        {
+          "token": "今日",
+          "reading": "こんにち",
+          "romaji": "konnichi",
+          "grammarStructureZh": "名词（时间）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "如今"
+        },
+        {
+          "token": "あの頃から",
+          "reading": "あのころから",
+          "romaji": "anokorokara",
+          "grammarStructureZh": "名词短语＋から",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "从那时候开始"
+        },
+        {
+          "token": "少しも",
+          "reading": "すこしも",
+          "romaji": "sukoshimo",
+          "grammarStructureZh": "副词＋も（否定呼应）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "一点也；丝毫也"
+        },
+        {
+          "token": "変わらない",
+          "reading": "かわらない",
+          "romaji": "kawaranai",
+          "grammarStructureZh": "动词否定形",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "没有改变"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent round2 role proposals and explicit integration decisions; see sourceProposalFiles/integrationDecisions."
+      ]
+    },
+    {
+      "frameId": "l015",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "先",
+          "reading": "さき",
+          "romaji": "saki",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "前方"
+        },
+        {
+          "token": "へと",
+          "reading": "へと",
+          "romaji": "e to",
+          "grammarStructureZh": "方向助词组合",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "强调移动方向"
+        },
+        {
+          "token": "進みますか",
+          "reading": "すすみますか",
+          "romaji": "susumimasuka",
+          "grammarStructureZh": "动词＋礼貌疑问",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "会前进吗"
+        }
+      ],
+      "new": [
+        {
+          "token": "先",
+          "reading": "さき",
+          "romaji": "saki",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "前方"
+        },
+        {
+          "token": "へと",
+          "reading": "へと",
+          "romaji": "e to",
+          "grammarStructureZh": "方向助词组合",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "强调移动方向"
+        },
+        {
+          "token": "進みますか",
+          "reading": "すすみますか",
+          "romaji": "susumimasuka",
+          "grammarStructureZh": "动词＋礼貌疑问",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "前进呢"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent round2 role proposals and explicit integration decisions; see sourceProposalFiles/integrationDecisions."
+      ]
+    },
+    {
+      "frameId": "l016",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "やけに",
+          "reading": "やけに",
+          "romaji": "yakeni",
+          "grammarStructureZh": "副词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "格外；异常地"
+        },
+        {
+          "token": "白いんだ",
+          "reading": "しろいんだ",
+          "romaji": "shiroinda",
+          "grammarStructureZh": "形容词＋解释语气",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "一片空白啊"
+        },
+        {
+          "token": "やたら",
+          "reading": "やたら",
+          "romaji": "yatara",
+          "grammarStructureZh": "副词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "过分地；特别地"
+        },
+        {
+          "token": "長いんだ",
+          "reading": "ながいんだ",
+          "romaji": "nagainda",
+          "grammarStructureZh": "形容词＋解释语气",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "十分漫长啊"
+        }
+      ],
+      "new": [
+        {
+          "token": "やけに",
+          "reading": "やけに",
+          "romaji": "yakeni",
+          "grammarStructureZh": "副词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "格外；异常地"
+        },
+        {
+          "token": "白いんだ",
+          "reading": "しろいんだ",
+          "romaji": "shiroinda",
+          "grammarStructureZh": "形容词＋解释语气",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "一片空白啊"
+        },
+        {
+          "token": "やたら",
+          "reading": "やたら",
+          "romaji": "yatara",
+          "grammarStructureZh": "副词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "过分地；特别地"
+        },
+        {
+          "token": "長いんだ",
+          "reading": "ながいんだ",
+          "romaji": "nagainda",
+          "grammarStructureZh": "形容词＋解释语气",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "漫长啊"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent round2 role proposals and explicit integration decisions; see sourceProposalFiles/integrationDecisions."
+      ]
+    },
+    {
+      "frameId": "l018",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "カタチ",
+          "reading": "かたち",
+          "romaji": "katachi",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "形式；外表"
+        },
+        {
+          "token": "ばかり",
+          "reading": "ばかり",
+          "romaji": "bakari",
+          "grammarStructureZh": "副助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "限定为仅仅如此"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "连接修饰语与名词"
+        },
+        {
+          "token": "常識",
+          "reading": "じょうしき",
+          "romaji": "joushiki",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "常识"
+        },
+        {
+          "token": "だろう",
+          "reading": "だろう",
+          "romaji": "darou",
+          "grammarStructureZh": "推量助动词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "大概是吧"
+        }
+      ],
+      "new": [
+        {
+          "token": "カタチ",
+          "reading": "かたち",
+          "romaji": "katachi",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "形式"
+        },
+        {
+          "token": "ばかり",
+          "reading": "ばかり",
+          "romaji": "bakari",
+          "grammarStructureZh": "副助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "限定只有形式"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "连接修饰语与名词"
+        },
+        {
+          "token": "常識",
+          "reading": "じょうしき",
+          "romaji": "joushiki",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "常识"
+        },
+        {
+          "token": "だろう",
+          "reading": "だろう",
+          "romaji": "darou",
+          "grammarStructureZh": "推量助动词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "大概是吧"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent round2 role proposals and explicit integration decisions; see sourceProposalFiles/integrationDecisions."
+      ]
+    },
+    {
+      "frameId": "l020",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "正解",
+          "reading": "せいかい",
+          "romaji": "seikai",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "正确答案"
+        },
+        {
+          "token": "は",
+          "reading": "は",
+          "romaji": "wa",
+          "grammarStructureZh": "提示助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "提示主题"
+        },
+        {
+          "token": "無いんだ",
+          "reading": "ないんだ",
+          "romaji": "nainda",
+          "grammarStructureZh": "形容词否定意义＋解释",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "并不存在啊"
+        }
+      ],
+      "new": [
+        {
+          "token": "正解",
+          "reading": "せいかい",
+          "romaji": "seikai",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "正确答案"
+        },
+        {
+          "token": "は",
+          "reading": "は",
+          "romaji": "wa",
+          "grammarStructureZh": "提示助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "提示主题"
+        },
+        {
+          "token": "無いんだ",
+          "reading": "ないんだ",
+          "romaji": "nainda",
+          "grammarStructureZh": "形容词否定意义＋解释",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "没有啊"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent round2 role proposals and explicit integration decisions; see sourceProposalFiles/integrationDecisions."
+      ]
+    },
+    {
+      "frameId": "l021",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "負け",
+          "reading": "まけ",
+          "romaji": "make",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "失败"
+        },
+        {
+          "token": "なんて",
+          "reading": "なんて",
+          "romaji": "nante",
+          "grammarStructureZh": "副助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "引出并轻视所谓的事物"
+        },
+        {
+          "token": "無いんだ",
+          "reading": "ないんだ",
+          "romaji": "nainda",
+          "grammarStructureZh": "形容词否定意义＋解释",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "并不存在啊"
+        }
+      ],
+      "new": [
+        {
+          "token": "負け",
+          "reading": "まけ",
+          "romaji": "make",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "失败"
+        },
+        {
+          "token": "なんて",
+          "reading": "なんて",
+          "romaji": "nante",
+          "grammarStructureZh": "副助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "引出并轻视所谓的事物"
+        },
+        {
+          "token": "無いんだ",
+          "reading": "ないんだ",
+          "romaji": "nainda",
+          "grammarStructureZh": "形容词否定意义＋解释",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "没有啊"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent round2 role proposals and explicit integration decisions; see sourceProposalFiles/integrationDecisions."
+      ]
+    },
+    {
+      "frameId": "l023",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "あたしであって",
+          "reading": "あたしであって",
+          "romaji": "atashideatte",
+          "grammarStructureZh": "代词＋である的て形",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "作为我自己"
+        },
+        {
+          "token": "それだけ",
+          "reading": "それだけ",
+          "romaji": "soredake",
+          "grammarStructureZh": "代词＋限定",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "仅此而已"
+        },
+        {
+          "token": "だろう",
+          "reading": "だろう",
+          "romaji": "darou",
+          "grammarStructureZh": "推量助动词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "是这样吧"
+        }
+      ],
+      "new": [
+        {
+          "token": "あたしであって",
+          "reading": "あたしであって",
+          "romaji": "atashideatte",
+          "grammarStructureZh": "代词＋である的て形",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "是我自己"
+        },
+        {
+          "token": "それだけ",
+          "reading": "それだけ",
+          "romaji": "soredake",
+          "grammarStructureZh": "代词＋限定",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "仅此而已"
+        },
+        {
+          "token": "だろう",
+          "reading": "だろう",
+          "romaji": "darou",
+          "grammarStructureZh": "推量助动词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "是这样吧"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent round2 role proposals and explicit integration decisions; see sourceProposalFiles/integrationDecisions."
+      ]
+    },
+    {
+      "frameId": "l024",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "これ以上",
+          "reading": "これいじょう",
+          "romaji": "koreijou",
+          "grammarStructureZh": "指示表达＋以上",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "再这样；更进一步"
+        },
+        {
+          "token": "かき乱しても",
+          "reading": "かきみだしても",
+          "romaji": "kakimidashitemo",
+          "grammarStructureZh": "复合动词＋ても",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "即使搅乱"
+        },
+        {
+          "token": "明日",
+          "reading": "あした",
+          "romaji": "ashita",
+          "grammarStructureZh": "名词（时间；熟字训）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "明天"
+        },
+        {
+          "token": "は",
+          "reading": "は",
+          "romaji": "wa",
+          "grammarStructureZh": "提示助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "提示主题"
+        },
+        {
+          "token": "ない",
+          "reading": "ない",
+          "romaji": "nai",
+          "grammarStructureZh": "形容词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "不存在"
+        }
+      ],
+      "new": [
+        {
+          "token": "これ以上",
+          "reading": "これいじょう",
+          "romaji": "koreijou",
+          "grammarStructureZh": "指示表达＋以上",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "再进一步"
+        },
+        {
+          "token": "かき乱しても",
+          "reading": "かきみだしても",
+          "romaji": "kakimidashitemo",
+          "grammarStructureZh": "复合动词＋ても",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "即使搅乱"
+        },
+        {
+          "token": "明日",
+          "reading": "あした",
+          "romaji": "ashita",
+          "grammarStructureZh": "名词（时间；熟字训）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "明天"
+        },
+        {
+          "token": "は",
+          "reading": "は",
+          "romaji": "wa",
+          "grammarStructureZh": "提示助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "提示主题"
+        },
+        {
+          "token": "ない",
+          "reading": "ない",
+          "romaji": "nai",
+          "grammarStructureZh": "形容词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "不存在"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent round2 role proposals and explicit integration decisions; see sourceProposalFiles/integrationDecisions."
+      ]
+    },
+    {
+      "frameId": "l025",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "役立たない",
+          "reading": "やくだたない",
+          "romaji": "yakudatanai",
+          "grammarStructureZh": "动词否定形",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "派不上用场的"
+        },
+        {
+          "token": "地図",
+          "reading": "ちず",
+          "romaji": "chizu",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "地图"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "连接归咎的对象"
+        },
+        {
+          "token": "所為にして",
+          "reading": "せいにして",
+          "romaji": "seinishite",
+          "grammarStructureZh": "固定短语（て形）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "归咎于；怪罪于"
+        },
+        {
+          "token": "今",
+          "reading": "いま",
+          "romaji": "ima",
+          "grammarStructureZh": "名词（时间）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "此刻"
+        }
+      ],
+      "new": [
+        {
+          "token": "役立たない",
+          "reading": "やくだたない",
+          "romaji": "yakudatanai",
+          "grammarStructureZh": "动词否定形",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "派不上用场的"
+        },
+        {
+          "token": "地図",
+          "reading": "ちず",
+          "romaji": "chizu",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "地图"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "连接归咎的对象"
+        },
+        {
+          "token": "所為にして",
+          "reading": "せいにして",
+          "romaji": "seinishite",
+          "grammarStructureZh": "名词＋にする（て形）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "归咎于；怪罪于"
+        },
+        {
+          "token": "今",
+          "reading": "いま",
+          "romaji": "ima",
+          "grammarStructureZh": "名词（时间）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "此刻"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent round2 role proposals and explicit integration decisions; see sourceProposalFiles/integrationDecisions."
+      ]
+    },
+    {
+      "frameId": "l027",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "強がったとして",
+          "reading": "つよがったとして",
+          "romaji": "tsuyogattatoshite",
+          "grammarStructureZh": "动词た形＋として",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "即使逞强；假定逞强"
+        }
+      ],
+      "new": [
+        {
+          "token": "強がったとして",
+          "reading": "つよがったとして",
+          "romaji": "tsuyogattatoshite",
+          "grammarStructureZh": "动词た形＋として",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "即使逞强"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent round2 role proposals and explicit integration decisions; see sourceProposalFiles/integrationDecisions."
+      ]
+    },
+    {
+      "frameId": "l029",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "溢れだしそうなほど",
+          "reading": "あふれだしそうなほど",
+          "romaji": "afuredashisounahodo",
+          "grammarStructureZh": "动词＋そう＋ほど",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "多到仿佛快溢出来"
+        },
+        {
+          "token": "詰め込んだ",
+          "reading": "つめこんだ",
+          "romaji": "tsumekonda",
+          "grammarStructureZh": "复合动词（过去）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "塞满了；强塞进去"
+        }
+      ],
+      "new": [
+        {
+          "token": "溢れだしそうな",
+          "reading": "あふれだしそうな",
+          "romaji": "afuredashi sou na",
+          "grammarStructureZh": "复合动词＋そうな（样态）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "快要溢出来的"
+        },
+        {
+          "token": "ほど",
+          "reading": "ほど",
+          "romaji": "hodo",
+          "grammarStructureZh": "副助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "标示填塞达到的程度"
+        },
+        {
+          "token": "詰め込んだ",
+          "reading": "つめこんだ",
+          "romaji": "tsumekonda",
+          "grammarStructureZh": "复合动词（过去・连体）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "塞满了的"
+        }
+      ],
+      "changesTokenStructure": true,
+      "evidence": [
+        "Independent round2 role proposals and explicit integration decisions; see sourceProposalFiles/integrationDecisions."
+      ]
+    },
+    {
+      "frameId": "l029",
+      "field": "caption.romaji",
+      "old": "afuredashisounahodo tsumekonda",
+      "new": "afuredashi sou na hodo tsumekonda",
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent round2 role proposals and explicit integration decisions; see sourceProposalFiles/integrationDecisions."
+      ]
+    },
+    {
+      "frameId": "l030",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "他人",
+          "reading": "たにん",
+          "romaji": "tanin",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "别人"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "表示所属"
+        },
+        {
+          "token": "箱",
+          "reading": "はこ",
+          "romaji": "hako",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "箱子"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "o",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "提示瞥视的对象"
+        },
+        {
+          "token": "横目に",
+          "reading": "よこめに",
+          "romaji": "yokomeni",
+          "grammarStructureZh": "名词＋に（状态）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "斜眼看着；侧目而视"
+        }
+      ],
+      "new": [
+        {
+          "token": "他人",
+          "reading": "たにん",
+          "romaji": "tanin",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "别人"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "表示所属"
+        },
+        {
+          "token": "箱",
+          "reading": "はこ",
+          "romaji": "hako",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "箱子"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "o",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "提示瞥视的对象"
+        },
+        {
+          "token": "横目に",
+          "reading": "よこめに",
+          "romaji": "yokomeni",
+          "grammarStructureZh": "名词＋に（状态）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "瞥着"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent round2 role proposals and explicit integration decisions; see sourceProposalFiles/integrationDecisions."
+      ]
+    },
+    {
+      "frameId": "l031",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "下手な",
+          "reading": "へたな",
+          "romaji": "hetana",
+          "grammarStructureZh": "形容动词连体形",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "笨拙的；不自然的"
+        },
+        {
+          "token": "愛想笑い",
+          "reading": "あいそわらい",
+          "romaji": "aisowarai",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "应酬的笑；赔笑"
+        },
+        {
+          "token": "すら",
+          "reading": "すら",
+          "romaji": "sura",
+          "grammarStructureZh": "副助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "举出极端例子，表示连"
+        }
+      ],
+      "new": [
+        {
+          "token": "下手な",
+          "reading": "へたな",
+          "romaji": "hetana",
+          "grammarStructureZh": "形容动词（熟字训・连体）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "笨拙的；不自然的"
+        },
+        {
+          "token": "愛想笑い",
+          "reading": "あいそわらい",
+          "romaji": "aisowarai",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "应酬的笑；赔笑"
+        },
+        {
+          "token": "すら",
+          "reading": "すら",
+          "romaji": "sura",
+          "grammarStructureZh": "副助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "举出极端例子，表示连"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent round2 role proposals and explicit integration decisions; see sourceProposalFiles/integrationDecisions."
+      ]
+    },
+    {
+      "frameId": "l032",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "やっぱり",
+          "reading": "やっぱり",
+          "romaji": "yappari",
+          "grammarStructureZh": "副词（口语）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "果然；终究还是"
+        },
+        {
+          "token": "出来てない",
+          "reading": "できてない",
+          "romaji": "dekitenai",
+          "grammarStructureZh": "ていない的口语缩约",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "没能做到"
+        }
+      ],
+      "new": [
+        {
+          "token": "やっぱり",
+          "reading": "やっぱり",
+          "romaji": "yappari",
+          "grammarStructureZh": "副词（口语）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "果然；终究还是"
+        },
+        {
+          "token": "出来てない",
+          "reading": "できてない",
+          "romaji": "dekitenai",
+          "grammarStructureZh": "动词（ていない缩约）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "没能做到"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent round2 role proposals and explicit integration decisions; see sourceProposalFiles/integrationDecisions."
+      ]
+    },
+    {
+      "frameId": "l034",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "あなた",
+          "reading": "あなた",
+          "romaji": "anata",
+          "grammarStructureZh": "代词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "你"
+        },
+        {
+          "token": "も",
+          "reading": "も",
+          "romaji": "mo",
+          "grammarStructureZh": "提示助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "表示同样如此"
+        },
+        {
+          "token": "思うでしょう",
+          "reading": "おもうでしょう",
+          "romaji": "omoudeshou",
+          "grammarStructureZh": "动词＋推量",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "也会这么想吧"
+        }
+      ],
+      "new": [
+        {
+          "token": "あなた",
+          "reading": "あなた",
+          "romaji": "anata",
+          "grammarStructureZh": "代词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "你"
+        },
+        {
+          "token": "も",
+          "reading": "も",
+          "romaji": "mo",
+          "grammarStructureZh": "提示助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "表示同样如此"
+        },
+        {
+          "token": "思うでしょう",
+          "reading": "おもうでしょう",
+          "romaji": "omoudeshou",
+          "grammarStructureZh": "动词＋推量",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "会这么想吧"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent round2 role proposals and explicit integration decisions; see sourceProposalFiles/integrationDecisions."
+      ]
+    },
+    {
+      "frameId": "l035",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "このままでいい",
+          "reading": "このままでいい",
+          "romaji": "konomamadeii",
+          "grammarStructureZh": "状态表达＋でいい",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "维持现状就好"
+        },
+        {
+          "token": "なんて",
+          "reading": "なんて",
+          "romaji": "nante",
+          "grammarStructureZh": "副助词（引用）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "引用并轻视前述想法"
+        }
+      ],
+      "new": [
+        {
+          "token": "このままで",
+          "reading": "このままで",
+          "romaji": "kono mama de",
+          "grammarStructureZh": "名词短语＋で（状态）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "维持现状"
+        },
+        {
+          "token": "いい",
+          "reading": "いい",
+          "romaji": "ii",
+          "grammarStructureZh": "形容词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "就可以"
+        },
+        {
+          "token": "なんて",
+          "reading": "なんて",
+          "romaji": "nante",
+          "grammarStructureZh": "副助词（引用）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "引述并带不以为然语气"
+        }
+      ],
+      "changesTokenStructure": true,
+      "evidence": [
+        "Independent round2 role proposals and explicit integration decisions; see sourceProposalFiles/integrationDecisions."
+      ]
+    },
+    {
+      "frameId": "l035",
+      "field": "caption.romaji",
+      "old": "konomamadeii nante",
+      "new": "kono mama de ii nante",
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent round2 role proposals and explicit integration decisions; see sourceProposalFiles/integrationDecisions."
+      ]
+    },
+    {
+      "frameId": "l037",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "空っぽなんだ",
+          "reading": "からっぽなんだ",
+          "romaji": "karapponanda",
+          "grammarStructureZh": "形容动词＋解释",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "空空如也啊"
+        },
+        {
+          "token": "ひとつも",
+          "reading": "ひとつも",
+          "romaji": "hitotsumo",
+          "grammarStructureZh": "数量词＋も（否定呼应）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "连一个也"
+        },
+        {
+          "token": "無いんだ",
+          "reading": "ないんだ",
+          "romaji": "nainda",
+          "grammarStructureZh": "形容词否定意义＋解释",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "并不存在啊"
+        }
+      ],
+      "new": [
+        {
+          "token": "空っぽなんだ",
+          "reading": "からっぽなんだ",
+          "romaji": "karapponanda",
+          "grammarStructureZh": "形容动词＋解释",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "空空如也啊"
+        },
+        {
+          "token": "ひとつも",
+          "reading": "ひとつも",
+          "romaji": "hitotsumo",
+          "grammarStructureZh": "数量词＋も（否定呼应）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "连一个也"
+        },
+        {
+          "token": "無いんだ",
+          "reading": "ないんだ",
+          "romaji": "nainda",
+          "grammarStructureZh": "形容词否定意义＋解释",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "没有啊"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent round2 role proposals and explicit integration decisions; see sourceProposalFiles/integrationDecisions."
+      ]
+    },
+    {
+      "frameId": "l038",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "無くなった",
+          "reading": "なくなった",
+          "romaji": "nakunatta",
+          "grammarStructureZh": "形容词连用形＋なる",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "消失了；不见了"
+        },
+        {
+          "token": "のか",
+          "reading": "のか",
+          "romaji": "noka",
+          "grammarStructureZh": "解释＋疑问",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "提出疑问或不确定选项"
+        }
+      ],
+      "new": [
+        {
+          "token": "無くなった",
+          "reading": "なくなった",
+          "romaji": "nakunatta",
+          "grammarStructureZh": "形容词＋なる（过去）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "消失了；不见了"
+        },
+        {
+          "token": "のか",
+          "reading": "のか",
+          "romaji": "noka",
+          "grammarStructureZh": "解释＋间接疑问",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "引出“是否已消失”的选项"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent round2 role proposals and explicit integration decisions; see sourceProposalFiles/integrationDecisions."
+      ]
+    },
+    {
+      "frameId": "l039",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "始まった",
+          "reading": "はじまった",
+          "romaji": "hajimatta",
+          "grammarStructureZh": "动词过去形",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "开始了"
+        },
+        {
+          "token": "のか",
+          "reading": "のか",
+          "romaji": "noka",
+          "grammarStructureZh": "解释＋疑问",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "提出不确定选项"
+        },
+        {
+          "token": "分からない",
+          "reading": "わからない",
+          "romaji": "wakaranai",
+          "grammarStructureZh": "动词否定形",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "不知道；分不清"
+        },
+        {
+          "token": "けど",
+          "reading": "けど",
+          "romaji": "kedo",
+          "grammarStructureZh": "接续助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "承接转折或保留语气"
+        }
+      ],
+      "new": [
+        {
+          "token": "始まった",
+          "reading": "はじまった",
+          "romaji": "hajimatta",
+          "grammarStructureZh": "动词过去形",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "开始了"
+        },
+        {
+          "token": "のか",
+          "reading": "のか",
+          "romaji": "noka",
+          "grammarStructureZh": "解释＋间接疑问",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "引出“是否已开始”的选项"
+        },
+        {
+          "token": "分からない",
+          "reading": "わからない",
+          "romaji": "wakaranai",
+          "grammarStructureZh": "动词否定形",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "不知道；分不清"
+        },
+        {
+          "token": "けど",
+          "reading": "けど",
+          "romaji": "kedo",
+          "grammarStructureZh": "接续助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "转折，引出继续前行"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent round2 role proposals and explicit integration decisions; see sourceProposalFiles/integrationDecisions."
+      ]
+    },
+    {
+      "frameId": "l040",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "行くしか",
+          "reading": "いくしか",
+          "romaji": "ikushika",
+          "grammarStructureZh": "动词＋しか（否定呼应）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "只有前进这一选择"
+        },
+        {
+          "token": "方法",
+          "reading": "ほうほう",
+          "romaji": "houhou",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "办法；方法"
+        },
+        {
+          "token": "は",
+          "reading": "は",
+          "romaji": "wa",
+          "grammarStructureZh": "提示助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "提示主题"
+        },
+        {
+          "token": "無いんだろう",
+          "reading": "ないんだろう",
+          "romaji": "naindarou",
+          "grammarStructureZh": "形容词＋解释推量",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "没有其他的了吧"
+        }
+      ],
+      "new": [
+        {
+          "token": "行くしか",
+          "reading": "いくしか",
+          "romaji": "ikushika",
+          "grammarStructureZh": "动词＋しか（否定呼应）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "除了前进"
+        },
+        {
+          "token": "方法",
+          "reading": "ほうほう",
+          "romaji": "houhou",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "办法；方法"
+        },
+        {
+          "token": "は",
+          "reading": "は",
+          "romaji": "wa",
+          "grammarStructureZh": "提示助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "提示主题"
+        },
+        {
+          "token": "無いんだろう",
+          "reading": "ないんだろう",
+          "romaji": "naindarou",
+          "grammarStructureZh": "形容词＋解释推量",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "没有吧"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent round2 role proposals and explicit integration decisions; see sourceProposalFiles/integrationDecisions."
+      ]
+    },
+    {
+      "frameId": "l041",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "正解",
+          "reading": "せいかい",
+          "romaji": "seikai",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "正确答案"
+        },
+        {
+          "token": "が",
+          "reading": "が",
+          "romaji": "ga",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "提示反问所针对的对象"
+        },
+        {
+          "token": "なんだ",
+          "reading": "なんだ",
+          "romaji": "nanda",
+          "grammarStructureZh": "疑问词＋断定（反问）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "算什么；又怎样"
+        },
+        {
+          "token": "価値",
+          "reading": "かち",
+          "romaji": "kachi",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "价值"
+        },
+        {
+          "token": "なんて",
+          "reading": "なんて",
+          "romaji": "nante",
+          "grammarStructureZh": "副助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "轻视所谓的事物"
+        },
+        {
+          "token": "無いんだ",
+          "reading": "ないんだ",
+          "romaji": "nainda",
+          "grammarStructureZh": "形容词否定意义＋解释",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "根本不存在啊"
+        }
+      ],
+      "new": [
+        {
+          "token": "正解",
+          "reading": "せいかい",
+          "romaji": "seikai",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "正确答案"
+        },
+        {
+          "token": "が",
+          "reading": "が",
+          "romaji": "ga",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "提示反问所针对的对象"
+        },
+        {
+          "token": "なんだ",
+          "reading": "なんだ",
+          "romaji": "nanda",
+          "grammarStructureZh": "疑问词＋断定（反问）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "算什么；又怎样"
+        },
+        {
+          "token": "価値",
+          "reading": "かち",
+          "romaji": "kachi",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "价值"
+        },
+        {
+          "token": "なんて",
+          "reading": "なんて",
+          "romaji": "nante",
+          "grammarStructureZh": "副助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "轻视所谓的事物"
+        },
+        {
+          "token": "無いんだ",
+          "reading": "ないんだ",
+          "romaji": "nainda",
+          "grammarStructureZh": "形容词否定意义＋解释",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "没有啊"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent round2 role proposals and explicit integration decisions; see sourceProposalFiles/integrationDecisions."
+      ]
+    },
+    {
+      "frameId": "l044",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "これ以上",
+          "reading": "これいじょう",
+          "romaji": "koreijou",
+          "grammarStructureZh": "指示表达＋以上",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "再这样；更进一步"
+        },
+        {
+          "token": "かき乱しても",
+          "reading": "かきみだしても",
+          "romaji": "kakimidashitemo",
+          "grammarStructureZh": "复合动词＋ても",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "即使搅乱"
+        },
+        {
+          "token": "明日",
+          "reading": "あした",
+          "romaji": "ashita",
+          "grammarStructureZh": "名词（时间；熟字训）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "明天"
+        },
+        {
+          "token": "は",
+          "reading": "は",
+          "romaji": "wa",
+          "grammarStructureZh": "提示助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "提示主题"
+        },
+        {
+          "token": "ない",
+          "reading": "ない",
+          "romaji": "nai",
+          "grammarStructureZh": "形容词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "不存在"
+        }
+      ],
+      "new": [
+        {
+          "token": "これ以上",
+          "reading": "これいじょう",
+          "romaji": "koreijou",
+          "grammarStructureZh": "指示表达＋以上",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "再进一步"
+        },
+        {
+          "token": "かき乱しても",
+          "reading": "かきみだしても",
+          "romaji": "kakimidashitemo",
+          "grammarStructureZh": "复合动词＋ても",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "即使搅乱"
+        },
+        {
+          "token": "明日",
+          "reading": "あした",
+          "romaji": "ashita",
+          "grammarStructureZh": "名词（时间；熟字训）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "明天"
+        },
+        {
+          "token": "は",
+          "reading": "は",
+          "romaji": "wa",
+          "grammarStructureZh": "提示助词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "提示主题"
+        },
+        {
+          "token": "ない",
+          "reading": "ない",
+          "romaji": "nai",
+          "grammarStructureZh": "形容词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "不存在"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent round2 role proposals and explicit integration decisions; see sourceProposalFiles/integrationDecisions."
+      ]
+    }
+  ],
+  "checks": {
+    "allOldValuesMatched": true,
+    "allRolesCover45Frames": true,
+    "qqTranslationsPreserved": true,
+    "repeatsConsistent": true,
+    "liveFramesUnchanged": true,
+    "all45ProposedLayoutsPassed": true,
+    "romajiBoundingBoxesNoOverlap": true,
+    "sampledStructureVisualPassed": true
+  },
+  "sourceTranslationPolicy": "Advisory only, never included in batch card acceptance.",
+  "counts": {
+    "frames": 45,
+    "cardsBefore": 151,
+    "cardsProposed": 153,
+    "changedFrames": 27,
+    "structureChangedFrames": [
+      "l029",
+      "l035"
+    ]
+  },
+  "uncertainties": {
+    "lexical": [
+      {
+        "frameIds": [
+          "l011"
+        ],
+        "issue": "今日实际音频唱读未听辨",
+        "evidence": "QQ kana/roma都支持こんにち，词典允许该读法；保持当前读音，不称唱读确认。",
+        "action": "若用户/其他角色实际听辨与文本不同，再以音频证据复核。"
+      },
+      {
+        "frameIds": [
+          "l025",
+          "l045"
+        ],
+        "issue": "难读词和熟字训不能等同",
+        "evidence": "所為与足搔く在采用的权威词典不是〈〉分类；所為另有音变说。",
+        "action": "继续整块汉字ruby以保证显示准确，但不默认加熟字训标签。"
+      },
+      {
+        "frameIds": [
+          "l029",
+          "l035"
+        ],
+        "issue": "教学分词可有不止一合理方案",
+        "evidence": "本轮拆分基于多结构清晰度，词典没有规定视频卡必须这样切。",
+        "action": "待主代理按1730px单行卡、26px中文及romaji相邻范围测量并让用户选择；不授权修改时码。"
+      },
+      {
+        "frameIds": [
+          "l009",
+          "l023",
+          "l026",
+          "l043"
+        ],
+        "issue": "可选romaji分块仅可读性建议",
+        "evidence": "这些连续串的读音本身没有错，且用户未批准批量空格风格迁移。",
+        "action": "可整组省略这四行的optional改动，不影响硬性词性/分类和两处分卡提案；接受时caption与卡片需同步。"
+      },
+      {
+        "frameIds": [
+          "l001",
+          "l016",
+          "l029",
+          "l030",
+          "l037",
+          "l041"
+        ],
+        "issue": "QQ中文的隐喻、跨行调序或解释性增补超出lexical默认修改范围",
+        "evidence": "本轮以日文连续语义判断学习块，而不把整句来源中文逐卡硬贴。",
+        "action": "源译疑点由translation角色单列；本文件没有caption.translationZh变更。"
+      }
+    ],
+    "grammar": [
+      {
+        "frameIds": [
+          "l011",
+          "l012"
+        ],
+        "targetToken": "変わらない／この空欄",
+        "issue": "変わらない的终止形、连体形同形；可读作跨句修饰この空欄的关系从句，QQ中文分行不能决定日文句法边界。",
+        "recommendation": "保留动词否定形及词卡没有改变，跨句说明中允许“一点没变的这个空白栏”；不擅加句号或将中文行断当作定论。",
+        "status": "non-blocking-cross-line-interpretation"
+      },
+      {
+        "frameIds": [
+          "l012"
+        ],
+        "targetToken": "解けますか",
+        "issue": "解ける兼有词典自动词义，且与解く可能形同形。歌词省略主语，不宜断言唯一形态来源。",
+        "recommendation": "维持“自动词＋礼貌疑问”为可辩护现稿；若整合更偏重能力解读，可用“动词（解答・礼貌疑问）”回避排他结论，但不要写成长公式。",
+        "status": "non-blocking-interpretation"
+      },
+      {
+        "frameIds": [
+          "l029",
+          "l030"
+        ],
+        "targetToken": "詰め込んだ",
+        "issue": "关系从句施事省略；语法明确修饰他人の箱，但不能单凭这一点确认由谁塞入。",
+        "recommendation": "卡义保留“塞满了的”，不补我/别人作施事；整句QQ译疑点另列。",
+        "status": "scope-limited"
+      },
+      {
+        "frameIds": [
+          "l011",
+          "l024",
+          "l025",
+          "l031",
+          "l044",
+          "l045"
+        ],
+        "targetToken": "今日／明日／所為／下手／足掻く",
+        "issue": "读音与熟字训分类涉及词汇角色证据；本角色未实际听音。",
+        "recommendation": "保留当前读音，不将こんにち、せい、あがく机械统称熟字训；有词汇证据时再整合。",
+        "status": "lexical-role-cross-check"
+      },
+      {
+        "frameIds": [
+          "l004",
+          "l019"
+        ],
+        "targetToken": "震えようとも",
+        "issue": "意志形是教学上的形态名称，本处语义是推量让步，不是震える的主观意愿。",
+        "recommendation": "保留当前“动词意志形＋とも（让步）”，在审核说明区解释语义，不加长卡面。",
+        "status": "explained"
+      }
+    ],
+    "translation": [
+      {
+        "frameIds": [
+          "l001",
+          "l016"
+        ],
+        "topic": "白／長的具体所指",
+        "assessment": "空欄支持白い的空白意象，但日文未直接明说紙、人生或時間；原白いんだ中文一片空白啊暂保留为有根据的语境意译，不作字典本义。長い不锁死为时间。",
+        "requiresListening": false
+      },
+      {
+        "frameIds": [
+          "l009"
+        ],
+        "topic": "よく言ったもので的评价语气",
+        "assessment": "可听出或读出反讽，但目前仅文本未足以判定反讽强度；不在卡里硬写讽刺。网络只支撑词义，不声称查得官方解释。",
+        "requiresListening": false
+      },
+      {
+        "frameIds": [
+          "l011",
+          "l012"
+        ],
+        "topic": "跨行修饰范围",
+        "assessment": "推荐変わらない连体修饰この空欄；歌词无标点而存在l011独立陈述的较弱读法，最终整合可保留没有改变并在备注解释连体关系。今日=如今是语境选择，非读音排他。",
+        "requiresListening": false
+      },
+      {
+        "frameIds": [
+          "l029",
+          "l030"
+        ],
+        "topic": "装入行为施事及横目に",
+        "assessment": "词序强烈支持他人の箱为修饰中心，但未明示谁塞入、塞入什么；横目に词典还有看而不介入的义，此歌不足以写死轻蔑或嫉妒，卡用中性瞥着。",
+        "requiresListening": false
+      },
+      {
+        "frameIds": [
+          "l043"
+        ],
+        "topic": "身份而非物理存续",
+        "assessment": "基于l022–l023／l042–l043呼应理解为不能以他人的身份活，非改换主语为别人；不能把词典一般生きる义当成作者已明确说明的唯一象征意义。",
+        "requiresListening": false
+      }
+    ]
+  },
+  "proposalFrameSha256": "19d4715a2b03e4ea75295273d68d33f43d26c9d6d9b20b4614ed3fbc37a4a123",
+  "qaReport": "project/qa/round2-layout-report.json",
+  "qaReportSha256": "61eb4989a5961d0878882e7dd7a01b420a18988f51a2f927cb878fad738783f5",
+  "sourceTranslationIssuesFile": "deliverables/review/kara-no-hako-round2-source-translations.md",
+  "decisionRequired": "explicit-user-content-decision; no content merged and no render authorized"
+}

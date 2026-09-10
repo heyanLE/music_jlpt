@@ -1,0 +1,25 @@
+{
+  "status": "superseded-by-new-review-request-not-accepted",
+  "files": [
+    {
+      "source": "project\\review\\assisted-review-audit.json",
+      "archive": "project\\review\\round1-archive\\assisted-review-audit.json",
+      "sha256": "bce9026d798665fcb3682fce774a255326584e6ece3ba663a7b8329a3ebe4897"
+    },
+    {
+      "source": "project\\review\\integration-report.json",
+      "archive": "project\\review\\round1-archive\\integration-report.json",
+      "sha256": "bf117c5227ee0e12f1917aab8ec0b12bf78e67fc6724c1afde1885a0fd10030d"
+    },
+    {
+      "source": "project\\review\\integrated-proposed-frames.json",
+      "archive": "project\\review\\round1-archive\\integrated-proposed-frames.json",
+      "sha256": "e1099f538b1c79b35596d7ef6dcd7fce46d9175ccdc182b5088fe25c2fcfdaea"
+    },
+    {
+      "source": "deliverables\\review\\kara-no-hako-review-changes.md",
+      "archive": "project\\review\\round1-archive\\kara-no-hako-review-changes.md",
+      "sha256": "0478e253614dce07fea1309de595bb9028501034b746524df2f725487a07c370"
+    }
+  ]
+}

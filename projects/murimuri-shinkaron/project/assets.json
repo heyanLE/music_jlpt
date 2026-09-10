@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "sourceManifest": "source/source-manifest.json",
+  "assets": [
+    {
+      "role": "music",
+      "frozen": "music.flac",
+      "original": "C:\\baidunetdiskdownload\\ムリムリ進化論.flac",
+      "bytes": 79806415,
+      "sha256": "656894b283f66b3d39e4de9c8a832d3d08ebecfbc6d8eb321b02ff5446fc0078",
+      "stream": {
+        "codec": "flac",
+        "sampleRate": 96000,
+        "channels": 2,
+        "bitDepth": 24,
+        "durationMs": 194933
+      }
+    },
+    {
+      "role": "cover",
+      "frozen": "cover.jpg",
+      "original": "embedded artwork extracted from source/music.flac",
+      "bytes": 185762,
+      "sha256": "b8a90e1c7c7bee6713a06d6b2b7eb7c7aa89c4abef6a491107fa6677742c2552",
+      "stream": {
+        "codec": "mjpeg",
+        "width": 1417,
+        "height": 1417
+      }
+    },
+    {
+      "role": "background-stage1",
+      "frozen": "background-stage1.mp4",
+      "original": "C:\\Users\\eke_l\\Desktop\\【2025年7月】我怎么可能成为你的恋人,不行不行!(※不是不可能!_)OP「ムリムリ進化論」.IMG_2222.30907894438.mp4",
+      "bytes": 43636386,
+      "sha256": "b3d31bcac242ad6f63f6b288d40043f63a3ecaac93d87a305e23351c7499387e",
+      "stream": {
+        "codec": "h264",
+        "width": 1580,
+        "height": 886,
+        "durationMs": 89899,
+        "sourceAudio": "aac-muted"
+      }
+    },
+    {
+      "role": "lyrics-qm",
+      "frozen": "lyrics_qm.qrc",
+      "original": "C:\\Users\\eke_l\\AppData\\Roaming\\Tencent\\QQMusic\\QQMusicCache\\QQMusicLyricNew\\七音阿卡莉 (NANAOAKARI) - ムリムリ進化論 - 194 - ムリムリ進化論_qm.qrc",
+      "bytes": 8443,
+      "sha256": "60cdce75c83362f35594c53b0b480fe1c932740c72070346d92abb1e680d8ddc"
+    },
+    {
+      "role": "lyrics-qmRoma",
+      "frozen": "lyrics_qmRoma.qrc",
+      "original": "C:\\Users\\eke_l\\AppData\\Roaming\\Tencent\\QQMusic\\QQMusicCache\\QQMusicLyricNew\\七音阿卡莉 (NANAOAKARI) - ムリムリ進化論 - 194 - ムリムリ進化論_qmRoma.qrc",
+      "bytes": 7331,
+      "sha256": "64cbae364e0b16af6e597cbf29feb2487a1d74ac263b8e20f73f146e21bb68ae"
+    },
+    {
+      "role": "lyrics-qmts",
+      "frozen": "lyrics_qmts.qrc",
+      "original": "C:\\Users\\eke_l\\AppData\\Roaming\\Tencent\\QQMusic\\QQMusicCache\\QQMusicLyricNew\\七音阿卡莉 (NANAOAKARI) - ムリムリ進化論 - 194 - ムリムリ進化論_qmts.qrc",
+      "bytes": 2675,
+      "sha256": "7601070245aaac39dc0f0f3bd6a5051a6361d246db251ea4d66efad2d135ffe3"
+    }
+  ],
+  "templateHashes": {
+    "foreground.json": "ea4f87fd91c72f9abc4f0a4ea3d32537b2bd796c024532a7ed21bbf389774ba8",
+    "background-stage1-video.json": "f361455331d7d5dad83dfaad9911f0c4002e00c508ad9c60db6c1dc05748174e",
+    "background-stage2-gaussian.json": "0fd27b7e7e979aa3eeebdb0ec2f935f9b74a545f5c20c72123b73044289a4383",
+    "overlay.json": "30ee09e93ccae74a90bf21e866eb531b0664222bef14f5741a4bf46634f7ddc2"
+  }
+}

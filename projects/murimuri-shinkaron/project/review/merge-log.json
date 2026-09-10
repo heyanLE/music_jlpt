@@ -1,0 +1,1358 @@
+{
+  "schemaVersion": 1,
+  "authorization": "user: 整体采纳",
+  "scope": "all",
+  "framesBeforeSha256": "d0ac8a3bbac287fd9dd3bf626e0fbb448d69f02220cd16f90faa2072fd93e6c9",
+  "framesAfterSha256": "da062b95cdfe4b8675797ae641e8254cb5cbf0ae804ab84bf81c7545db1bdc40",
+  "mergedProposalFiles": [
+    "assisted-review-a.json",
+    "assisted-review-b.json",
+    "assisted-review-c.json"
+  ],
+  "records": [
+    {
+      "frameId": "l001",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "（不行不行！）"
+      },
+      "cardCount": {
+        "old": 4,
+        "new": 1
+      },
+      "changesTokenStructure": true,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l002",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "每一夜都在怕生。"
+      },
+      "cardCount": {
+        "old": 6,
+        "new": 2
+      },
+      "changesTokenStructure": true,
+      "confidence": "medium"
+    },
+    {
+      "frameId": "l003",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "（不行不行！）"
+      },
+      "cardCount": {
+        "old": 4,
+        "new": 1
+      },
+      "changesTokenStructure": true,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l004",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "两个人以上时该怎么应对？"
+      },
+      "cardCount": {
+        "old": 5,
+        "new": 3
+      },
+      "changesTokenStructure": true,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l005",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "（不行不行！）"
+      },
+      "cardCount": {
+        "old": 4,
+        "new": 1
+      },
+      "changesTokenStructure": true,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l006",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "就算被盯着看，"
+      },
+      "cardCount": {
+        "old": 4,
+        "new": 1
+      },
+      "changesTokenStructure": true,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l007",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "我也什么都说不出来呀？"
+      },
+      "cardCount": {
+        "old": 5,
+        "new": 3
+      },
+      "changesTokenStructure": true,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l008",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "（不行不行！）"
+      },
+      "cardCount": {
+        "old": 4,
+        "new": 1
+      },
+      "changesTokenStructure": true,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l009",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "欢迎来到“这里”。"
+      },
+      "cardCount": {
+        "old": 3,
+        "new": 3
+      },
+      "changesTokenStructure": true,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l010",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "欢迎来到“阴暗派”。"
+      },
+      "cardCount": {
+        "old": 3,
+        "new": 2
+      },
+      "changesTokenStructure": true,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l011",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "那、那、那、那个……"
+      },
+      "cardCount": {
+        "old": 4,
+        "new": 1
+      },
+      "changesTokenStructure": true,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l012",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "最近在这附近见过叫作“光”的东西吗？"
+      },
+      "cardCount": {
+        "old": 9,
+        "new": 6
+      },
+      "changesTokenStructure": true,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l013",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "呃……我就是以那个为目标，"
+      },
+      "cardCount": {
+        "old": 4,
+        "new": 3
+      },
+      "changesTokenStructure": true,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l014",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "确实是这样迈步走来的。"
+      },
+      "cardCount": {
+        "old": 8,
+        "new": 3
+      },
+      "changesTokenStructure": true,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l015",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "没错，是超绝进化后的充实生活。"
+      },
+      "cardCount": {
+        "old": 6,
+        "new": 5
+      },
+      "changesTokenStructure": true,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l016",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "要用这双手抓住它！"
+      },
+      "cardCount": {
+        "old": 4,
+        "new": 4
+      },
+      "changesTokenStructure": false,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l017",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "话虽如此，要是现在突然开始了呢？"
+      },
+      "cardCount": {
+        "old": 8,
+        "new": 4
+      },
+      "changesTokenStructure": true,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l018",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "（啊啊啊、哇哇哇……）"
+      },
+      "cardCount": {
+        "old": 3,
+        "new": 1
+      },
+      "changesTokenStructure": true,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l019",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "万年候补的完成形——话说，"
+      },
+      "cardCount": {
+        "old": 7,
+        "new": 5
+      },
+      "changesTokenStructure": true,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l020",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "每分每秒，我脑海里全是反省点。"
+      },
+      "cardCount": {
+        "old": 8,
+        "new": 4
+      },
+      "changesTokenStructure": true,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l021",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "装出的别扭姿态与人设，"
+      },
+      "cardCount": {
+        "old": 5,
+        "new": 5
+      },
+      "changesTokenStructure": true,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l022",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "正是因为它们并不匹配。"
+      },
+      "cardCount": {
+        "old": 5,
+        "new": 2
+      },
+      "changesTokenStructure": true,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l023",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "但在你面前，"
+      },
+      "cardCount": {
+        "old": 6,
+        "new": 5
+      },
+      "changesTokenStructure": true,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l024",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "却莫名地很自然。"
+      },
+      "cardCount": {
+        "old": 2,
+        "new": 2
+      },
+      "changesTokenStructure": true,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l025",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "等、等等，先别说那个词！"
+      },
+      "cardCount": {
+        "old": 6,
+        "new": 4
+      },
+      "changesTokenStructure": true,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l026",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "我想和你一起去往同一个世界。"
+      },
+      "cardCount": {
+        "old": 9,
+        "new": 6
+      },
+      "changesTokenStructure": true,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l027",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "卷入了内向派与阳光派的，"
+      },
+      "cardCount": {
+        "old": 6,
+        "new": 3
+      },
+      "changesTokenStructure": true,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l028",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "命运的大革命。"
+      },
+      "cardCount": {
+        "old": 4,
+        "new": 3
+      },
+      "changesTokenStructure": true,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l029",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "像我这样的话，"
+      },
+      "cardCount": {
+        "old": 3,
+        "new": 3
+      },
+      "changesTokenStructure": true,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l030",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "说着“办不到、办不到”这种话，"
+      },
+      "cardCount": {
+        "old": 5,
+        "new": 3
+      },
+      "changesTokenStructure": true,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l031",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "待审中文翻译",
+        "new": "想逃避的话，这一天实在太漫长。"
+      },
+      "cardCount": {
+        "old": 6,
+        "new": 4
+      },
+      "changesTokenStructure": true,
+      "confidence": "high"
+    },
+    {
+      "frameId": "l032",
+      "proposal": "assisted-review-a.json",
+      "translation": {
+        "old": "将会朝着太阳伸展",
+        "new": "阴郁的心情，"
+      },
+      "cardCount": {
+        "old": 5,
+        "new": 3
+      },
+      "changesTokenStructure": true,
+      "confidence": "medium"
+    },
+    {
+      "frameId": "l033",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "将会朝着太阳伸展",
+        "new": "不由得朝着太阳伸展出去，"
+      },
+      "cardCount": {
+        "old": 5,
+        "new": 3
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.97
+    },
+    {
+      "frameId": "l034",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "要我放弃心动什么的 (不行不行)",
+        "new": "要我放弃这份心动什么的，（不行不行！）"
+      },
+      "cardCount": {
+        "old": 7,
+        "new": 4
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.98
+    },
+    {
+      "frameId": "l035",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "强行播撒而下的那道璀璨光芒",
+        "new": "硬是撒出去的闪闪亮光，"
+      },
+      "cardCount": {
+        "old": 5,
+        "new": 3
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.96
+    },
+    {
+      "frameId": "l036",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "或许也会存在被你发现的可能",
+        "new": "或许会被你察觉什么的，"
+      },
+      "cardCount": {
+        "old": 8,
+        "new": 5
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l037",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "这颗兜兜转转的心",
+        "new": "这颗百转千回的心，"
+      },
+      "cardCount": {
+        "old": 4,
+        "new": 3
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l038",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "希望能够朝你靠近",
+        "new": "想要靠近你！"
+      },
+      "cardCount": {
+        "old": 4,
+        "new": 3
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.99
+    },
+    {
+      "frameId": "l039",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "我渴望奔赴你的身边",
+        "new": "——我想成为阳角。"
+      },
+      "cardCount": {
+        "old": 3,
+        "new": 2
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.91
+    },
+    {
+      "frameId": "l040",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "(不行不行)",
+        "new": "（不行不行！）"
+      },
+      "cardCount": {
+        "old": 4,
+        "new": 1
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.99
+    },
+    {
+      "frameId": "l041",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "依然要用目光捕捉每个人的身影",
+        "new": "用眼睛捕捉一个又一个人！"
+      },
+      "cardCount": {
+        "old": 8,
+        "new": 5
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.82
+    },
+    {
+      "frameId": "l042",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "(不行不行)",
+        "new": "（不行不行！）"
+      },
+      "cardCount": {
+        "old": 4,
+        "new": 1
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.99
+    },
+    {
+      "frameId": "l043",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "就算超过两人也欢迎至极",
+        "new": "就算两个人以上也大欢迎！"
+      },
+      "cardCount": {
+        "old": 5,
+        "new": 4
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.98
+    },
+    {
+      "frameId": "l044",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "(不行不行)",
+        "new": "（不行不行！）"
+      },
+      "cardCount": {
+        "old": 4,
+        "new": 1
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.99
+    },
+    {
+      "frameId": "l045",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "但是被盯着看还是会觉得害羞啊",
+        "new": "要是被盯着看，我会害羞的呀！"
+      },
+      "cardCount": {
+        "old": 6,
+        "new": 3
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.97
+    },
+    {
+      "frameId": "l046",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "(不行不行)",
+        "new": "（不行不行！）"
+      },
+      "cardCount": {
+        "old": 4,
+        "new": 1
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.99
+    },
+    {
+      "frameId": "l047",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "朝你身旁前进 奔赴光芒所在",
+        "new": "向你身边前进，朝向光照来的方向！"
+      },
+      "cardCount": {
+        "old": 8,
+        "new": 7
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.96
+    },
+    {
+      "frameId": "l048",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "啊啊 或许还是行不通",
+        "new": "啊，果然还是不行吧。"
+      },
+      "cardCount": {
+        "old": 4,
+        "new": 4
+      },
+      "changesTokenStructure": false,
+      "confidence": 0.98
+    },
+    {
+      "frameId": "l049",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "毕竟只是在假装努力",
+        "new": "因为我只是在假装努力而已。"
+      },
+      "cardCount": {
+        "old": 5,
+        "new": 3
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.98
+    },
+    {
+      "frameId": "l050",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "既然如此我要重启自己了",
+        "new": "那就再次重启吧，"
+      },
+      "cardCount": {
+        "old": 7,
+        "new": 3
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.98
+    },
+    {
+      "frameId": "l051",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "再见了各位",
+        "new": "再见了，各位！"
+      },
+      "cardCount": {
+        "old": 2,
+        "new": 2
+      },
+      "changesTokenStructure": false,
+      "confidence": 0.99
+    },
+    {
+      "frameId": "l052",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "心里正念叨着这些的时候",
+        "new": "正当我在心里说着这种话时，"
+      },
+      "cardCount": {
+        "old": 7,
+        "new": 4
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.96
+    },
+    {
+      "frameId": "l053",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "突然就手忙脚乱",
+        "new": "啊哇哇哇哇哇！"
+      },
+      "cardCount": {
+        "old": 4,
+        "new": 1
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.94
+    },
+    {
+      "frameId": "l054",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "若是招人喜欢就不用这么辛苦了",
+        "new": "要是有讨人喜欢的本事，就不用这么辛苦了！"
+      },
+      "cardCount": {
+        "old": 6,
+        "new": 3
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.98
+    },
+    {
+      "frameId": "l055",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "不过流行的社交话题永远都与我无缘",
+        "new": "我和流行的话题没有缘分！"
+      },
+      "cardCount": {
+        "old": 8,
+        "new": 7
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.98
+    },
+    {
+      "frameId": "l056",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "缺乏勇气 而且不善言谈",
+        "new": "没有勇气，话也说不出口！"
+      },
+      "cardCount": {
+        "old": 7,
+        "new": 6
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.99
+    },
+    {
+      "frameId": "l057",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "大家的“普通”其实都不算普通",
+        "new": "大家所谓的『普通』，对我来说并不普通！"
+      },
+      "cardCount": {
+        "old": 7,
+        "new": 5
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.97
+    },
+    {
+      "frameId": "l058",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "但是",
+        "new": "但是，"
+      },
+      "cardCount": {
+        "old": 1,
+        "new": 1
+      },
+      "changesTokenStructure": false,
+      "confidence": 0.99
+    },
+    {
+      "frameId": "l059",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "我希望能在你世界有一席之地",
+        "new": "我想试着映入你的世界。"
+      },
+      "cardCount": {
+        "old": 9,
+        "new": 5
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.97
+    },
+    {
+      "frameId": "l060",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "这份心意大概毫无虚假",
+        "new": "这份心意大概不是假的！"
+      },
+      "cardCount": {
+        "old": 6,
+        "new": 4
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.99
+    },
+    {
+      "frameId": "l061",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "但是但是果然我做不到 好可怕",
+        "new": "可是、可是，果然还是不行，太可怕了。"
+      },
+      "cardCount": {
+        "old": 8,
+        "new": 4
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.99
+    },
+    {
+      "frameId": "l062",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "但是但是但是",
+        "new": "可是、可是、可是……"
+      },
+      "cardCount": {
+        "old": 4,
+        "new": 1
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.99
+    },
+    {
+      "frameId": "l063",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "但是但是但是",
+        "new": "果然，我还是没法彻底放弃。"
+      },
+      "cardCount": {
+        "old": 5,
+        "new": 2
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.98
+    },
+    {
+      "frameId": "l064",
+      "proposal": "assisted-review-b.json",
+      "translation": {
+        "old": "这颗心总是乌云密布",
+        "new": "这颗总是阴沉沉的心，"
+      },
+      "cardCount": {
+        "old": 6,
+        "new": 5
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l065",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "这样的自己",
+        "new": "那样的自己"
+      },
+      "cardCount": {
+        "old": 3,
+        "new": 3
+      },
+      "changesTokenStructure": false,
+      "confidence": 0.98
+    },
+    {
+      "frameId": "l066",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "一直都让我厌倦无比",
+        "new": "我一直厌倦着那样的自己"
+      },
+      "cardCount": {
+        "old": 7,
+        "new": 3
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.96
+    },
+    {
+      "frameId": "l067",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "跨越阴暗积极的交界线",
+        "new": "跨越阴暗面与阳光面的"
+      },
+      "cardCount": {
+        "old": 6,
+        "new": 3
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.91
+    },
+    {
+      "frameId": "l068",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "打造自我进化论",
+        "new": "我的进化论"
+      },
+      "cardCount": {
+        "old": 4,
+        "new": 3
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.99
+    },
+    {
+      "frameId": "l069",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "渴望挣脱桎梏我的一切 不论是这个标签",
+        "new": "我想把一切都摘掉，连这个标签也一样"
+      },
+      "cardCount": {
+        "old": 8,
+        "new": 5
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.94
+    },
+    {
+      "frameId": "l070",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "还是这条早就已经铺好的",
+        "new": "这条仿佛已经注定的"
+      },
+      "cardCount": {
+        "old": 6,
+        "new": 2
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.94
+    },
+    {
+      "frameId": "l071",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "既定轨道",
+        "new": "既定轨道上也一样"
+      },
+      "cardCount": {
+        "old": 3,
+        "new": 3
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l072",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "在前所未有的这个春日里",
+        "new": "前无古人、后无来者，仅此一次的"
+      },
+      "cardCount": {
+        "old": 10,
+        "new": 3
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.97
+    },
+    {
+      "frameId": "l073",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "仍想感受到动摇的心绪",
+        "new": "仍想在这个春天里摇摆"
+      },
+      "cardCount": {
+        "old": 6,
+        "new": 5
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.88
+    },
+    {
+      "frameId": "l074",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "不论阳光还是阴影 都要用尽全力挣扎向前",
+        "new": "无论阳光还是阴影，都全力挣扎着前进吧"
+      },
+      "cardCount": {
+        "old": 11,
+        "new": 5
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.97
+    },
+    {
+      "frameId": "l075",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "啊啊 正因有阴影的存在",
+        "new": "啊，正因为有这道阴影"
+      },
+      "cardCount": {
+        "old": 6,
+        "new": 5
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.98
+    },
+    {
+      "frameId": "l076",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "我才更懂你的阳光有多温暖",
+        "new": "我才懂得你这份阳光的温暖"
+      },
+      "cardCount": {
+        "old": 8,
+        "new": 6
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.98
+    },
+    {
+      "frameId": "l077",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "嘴上说着不行不行 不行不行",
+        "new": "说着「不行不行」之类的话"
+      },
+      "cardCount": {
+        "old": 5,
+        "new": 2
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.98
+    },
+    {
+      "frameId": "l078",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "可用来逃避的一生实在是太过短暂",
+        "new": "用来逃避的一生实在太短暂"
+      },
+      "cardCount": {
+        "old": 7,
+        "new": 3
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.97
+    },
+    {
+      "frameId": "l079",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "我这颗始终都向着你的心",
+        "new": "那颗朝向你的心才是"
+      },
+      "cardCount": {
+        "old": 5,
+        "new": 5
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.97
+    },
+    {
+      "frameId": "l080",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "本就是太阳",
+        "new": "太阳"
+      },
+      "cardCount": {
+        "old": 3,
+        "new": 2
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.99
+    },
+    {
+      "frameId": "l081",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "这份悸动只属于此时此刻 (不行不行)",
+        "new": "这样的心跳只有此刻才有（不行不行）"
+      },
+      "cardCount": {
+        "old": 8,
+        "new": 4
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.82
+    },
+    {
+      "frameId": "l082",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "秘密下 积攒累积的这份思念",
+        "new": "暗中积攒起来的心意之类"
+      },
+      "cardCount": {
+        "old": 6,
+        "new": 4
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.96
+    },
+    {
+      "frameId": "l083",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "其实还远远没有尽数传达给你",
+        "new": "还远远没能把心意传达给你"
+      },
+      "cardCount": {
+        "old": 8,
+        "new": 5
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.98
+    },
+    {
+      "frameId": "l084",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "面对不合时宜的逆光",
+        "new": "即便是不合时宜的逆光"
+      },
+      "cardCount": {
+        "old": 4,
+        "new": 3
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.98
+    },
+    {
+      "frameId": "l085",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "我依然想要朝你靠近",
+        "new": "也想和你靠近"
+      },
+      "cardCount": {
+        "old": 4,
+        "new": 3
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.98
+    },
+    {
+      "frameId": "l086",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "我渴望奔赴你的身边",
+        "new": "我想成为阳光面的那一边"
+      },
+      "cardCount": {
+        "old": 3,
+        "new": 2
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.86
+    },
+    {
+      "frameId": "l087",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "若是感到疲惫的话",
+        "new": "唔，若是感到疲惫的话"
+      },
+      "cardCount": {
+        "old": 3,
+        "new": 2
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.99
+    },
+    {
+      "frameId": "l088",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "那就回归阴暗面的怀抱吧",
+        "new": "欢迎来到阴暗面"
+      },
+      "cardCount": {
+        "old": 3,
+        "new": 2
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.94
+    },
+    {
+      "frameId": "l089",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "(不行不行)",
+        "new": "（不行不行）"
+      },
+      "cardCount": {
+        "old": 4,
+        "new": 1
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.99
+    },
+    {
+      "frameId": "l090",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "依然要用目光捕捉每个人的身影",
+        "new": "用眼睛捕捉每一个人"
+      },
+      "cardCount": {
+        "old": 8,
+        "new": 5
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.79
+    },
+    {
+      "frameId": "l091",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "(不行不行)",
+        "new": "（不行不行）"
+      },
+      "cardCount": {
+        "old": 4,
+        "new": 1
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.99
+    },
+    {
+      "frameId": "l092",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "就算超过两人也欢迎至极",
+        "new": "两个人以上也热烈欢迎"
+      },
+      "cardCount": {
+        "old": 5,
+        "new": 3
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.99
+    },
+    {
+      "frameId": "l093",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "(不行不行)",
+        "new": "（不行不行）"
+      },
+      "cardCount": {
+        "old": 4,
+        "new": 1
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.99
+    },
+    {
+      "frameId": "l094",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "但是被盯着看还是会觉得害羞啊",
+        "new": "被盯着看就会害羞啊"
+      },
+      "cardCount": {
+        "old": 6,
+        "new": 3
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.99
+    },
+    {
+      "frameId": "l095",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "(不行不行)",
+        "new": "（不行不行）"
+      },
+      "cardCount": {
+        "old": 4,
+        "new": 1
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.99
+    },
+    {
+      "frameId": "l096",
+      "proposal": "assisted-review-c.json",
+      "translation": {
+        "old": "朝你身旁前进 奔赴光芒所在",
+        "new": "向着你所在之处前进，奔向光所照耀的方向"
+      },
+      "cardCount": {
+        "old": 8,
+        "new": 7
+      },
+      "changesTokenStructure": true,
+      "confidence": 0.98
+    }
+  ]
+}

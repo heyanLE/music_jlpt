@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "runId": "20260822-r02-stage2-retain-last",
+  "output": "deliverables/final/murimuri-shinkaron--16x9--20260822-r02-stage2-retain-last.mkv",
+  "qaReport": "project/qa/20260822-r02-stage2-retain-last/qa-report.json",
+  "frameSha256": "da062b95cdfe4b8675797ae641e8254cb5cbf0ae804ab84bf81c7545db1bdc40",
+  "audio": { "codec": "flac", "sampleRate": 96000, "bitDepth": 24, "reencoded": false },
+  "video": { "codec": "h264", "width": 1920, "height": 1080, "fps": 30, "cfr": true }
+}

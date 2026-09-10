@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "path": "source/background.mp4",
+      "sha256": "aa6cd00157dfa2656601ec42ea67977152f37021bd69d03ca0511da162573ef7"
+    },
+    {
+      "path": "source/cover.jpg",
+      "sha256": "9ef08932a22feabdd804c62fd4e16f82fe3ffc28e0bdb5ffa7f7aef57878c091"
+    },
+    {
+      "path": "source/lyrics_qm.qrc",
+      "sha256": "ca447aee7b55a061d5a056d8f1aeb04e5df36f8d750a0aedd00e5f147c1e4deb"
+    },
+    {
+      "path": "source/lyrics_qmRoma.qrc",
+      "sha256": "7bffb6eb96cf43c3845a7326ce8b5d2b0fcd287c5a79eb02ff88538fdf94e0b2"
+    },
+    {
+      "path": "source/lyrics_qmts.qrc",
+      "sha256": "c53bbc2e40c31bc88a7b90a5c40855c4658b4cceef64958e91ce378b31ca00e4"
+    },
+    {
+      "path": "source/music.flac",
+      "sha256": "cbe2c1bce9568d7178beb96171f6b3cbf0db9d0d1e15dc32f24f16fa9ba55972"
+    },
+    {
+      "path": "source/source-manifest.json",
+      "sha256": "ff5b1fcfecdc5877e8e43461a7d8de474b43c604c85e7fd401dde5cd8a1f5a3c"
+    }
+  ],
+  "templates": [
+    {
+      "path": "project/templates/foreground.json",
+      "sha256": "ea4f87fd91c72f9abc4f0a4ea3d32537b2bd796c024532a7ed21bbf389774ba8"
+    },
+    {
+      "path": "project/templates/background.json",
+      "sha256": "f361455331d7d5dad83dfaad9911f0c4002e00c508ad9c60db6c1dc05748174e"
+    },
+    {
+      "path": "project/templates/overlay.json",
+      "sha256": "dc0d1e38f3feecc8eb913789dc21e3f68afe8523cdd3db7c8eb9928e1bcb067b"
+    }
+  ]
+}

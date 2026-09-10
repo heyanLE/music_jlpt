@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "algorithm": "multi-window-normalized-waveform-correlation-v1",
+  "sampleRate": 2000,
+  "windowSeconds": 8.0,
+  "videoDurationSeconds": 229.2045,
+  "matches": [
+    {
+      "videoStartSeconds": 3.0,
+      "musicStartSeconds": 0.878,
+      "videoMinusMusicSeconds": 2.122,
+      "score": 0.94735,
+      "windowRms": 0.164022
+    },
+    {
+      "videoStartSeconds": 18.0,
+      "musicStartSeconds": 15.879,
+      "videoMinusMusicSeconds": 2.121,
+      "score": 0.94731,
+      "windowRms": 0.203069
+    },
+    {
+      "videoStartSeconds": 33.0,
+      "musicStartSeconds": 30.878,
+      "videoMinusMusicSeconds": 2.122,
+      "score": 0.94397,
+      "windowRms": 0.205798
+    },
+    {
+      "videoStartSeconds": 48.0,
+      "musicStartSeconds": 45.879,
+      "videoMinusMusicSeconds": 2.121,
+      "score": 0.93372,
+      "windowRms": 0.211288
+    },
+    {
+      "videoStartSeconds": 63.0,
+      "musicStartSeconds": 60.879,
+      "videoMinusMusicSeconds": 2.121,
+      "score": 0.92276,
+      "windowRms": 0.2064
+    },
+    {
+      "videoStartSeconds": 78.0,
+      "musicStartSeconds": 75.879,
+      "videoMinusMusicSeconds": 2.121,
+      "score": 0.9446,
+      "windowRms": 0.143286
+    },
+    {
+      "videoStartSeconds": 93.0,
+      "musicStartSeconds": 90.879,
+      "videoMinusMusicSeconds": 2.121,
+      "score": 0.91993,
+      "windowRms": 0.199768
+    },
+    {
+      "videoStartSeconds": 108.0,
+      "musicStartSeconds": 105.879,
+      "videoMinusMusicSeconds": 2.121,
+      "score": 0.96232,
+      "windowRms": 0.184013
+    },
+    {
+      "videoStartSeconds": 123.0,
+      "musicStartSeconds": 120.879,
+      "videoMinusMusicSeconds": 2.121,
+      "score": 0.91823,
+      "windowRms": 0.207208
+    },
+    {
+      "videoStartSeconds": 138.0,
+      "musicStartSeconds": 135.879,
+      "videoMinusMusicSeconds": 2.121,
+      "score": 0.92704,
+      "windowRms": 0.217811
+    },
+    {
+      "videoStartSeconds": 153.0,
+      "musicStartSeconds": 150.879,
+      "videoMinusMusicSeconds": 2.121,
+      "score": 0.92288,
+      "windowRms": 0.210252
+    },
+    {
+      "videoStartSeconds": 168.0,
+      "musicStartSeconds": 165.879,
+      "videoMinusMusicSeconds": 2.121,
+      "score": 0.93108,
+      "windowRms": 0.212298
+    },
+    {
+      "videoStartSeconds": 183.0,
+      "musicStartSeconds": 180.879,
+      "videoMinusMusicSeconds": 2.121,
+      "score": 0.93621,
+      "windowRms": 0.211529
+    },
+    {
+      "videoStartSeconds": 198.0,
+      "musicStartSeconds": 195.879,
+      "videoMinusMusicSeconds": 2.121,
+      "score": 0.94829,
+      "windowRms": 0.199449
+    }
+  ],
+  "summary": {
+    "strongMatchCount": 14,
+    "medianVideoMinusMusicSeconds": 2.121,
+    "consistentWithin80msCount": 14,
+    "linearAlignmentLikely": true
+  }
+}

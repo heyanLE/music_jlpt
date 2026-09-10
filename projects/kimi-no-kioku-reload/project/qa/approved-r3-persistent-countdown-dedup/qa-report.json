@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 2,
+  "result": "passed",
+  "candidate": "project/work/approved-r3-persistent-countdown-dedup/16x9/kimi-no-kioku-reload--16x9--approved-r3-persistent-countdown-dedup.mp4",
+  "candidateSha256": "4d6521ac3318f95cbd13eae63ae7e76dd343cb9d56a929b1e7767dd1e33ba36d",
+  "renderReport": "project/work/approved-r3-persistent-countdown-dedup/16x9/render-report.json",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "pix_fmt": "yuv420p",
+        "r_frame_rate": "30/1",
+        "bits_per_raw_sample": "8"
+      },
+      {
+        "codec_name": "mp3",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "399.500000"
+    }
+  },
+  "screenshots": [
+    {
+      "name": "first-lyric",
+      "timestampMs": 17601,
+      "path": "project/qa/approved-r3-persistent-countdown-dedup/first-lyric.png"
+    },
+    {
+      "name": "last-lyric",
+      "timestampMs": 321071,
+      "path": "project/qa/approved-r3-persistent-countdown-dedup/last-lyric.png"
+    },
+    {
+      "name": "maximum-cards",
+      "timestampMs": 210988,
+      "path": "project/qa/approved-r3-persistent-countdown-dedup/maximum-cards.png"
+    },
+    {
+      "name": "pure-english",
+      "timestampMs": 99016,
+      "path": "project/qa/approved-r3-persistent-countdown-dedup/pure-english.png"
+    },
+    {
+      "name": "mixed-language",
+      "timestampMs": 78117,
+      "path": "project/qa/approved-r3-persistent-countdown-dedup/mixed-language.png"
+    },
+    {
+      "name": "transition-stage2-kotone",
+      "timestampMs": 80006,
+      "path": "project/qa/approved-r3-persistent-countdown-dedup/transition-stage2-kotone.png"
+    },
+    {
+      "name": "transition-stage3-yukari",
+      "timestampMs": 159912,
+      "path": "project/qa/approved-r3-persistent-countdown-dedup/transition-stage3-yukari.png"
+    },
+    {
+      "name": "transition-stage4-mitsuru",
+      "timestampMs": 239818,
+      "path": "project/qa/approved-r3-persistent-countdown-dedup/transition-stage4-mitsuru.png"
+    },
+    {
+      "name": "transition-stage5-fuuka",
+      "timestampMs": 319724,
+      "path": "project/qa/approved-r3-persistent-countdown-dedup/transition-stage5-fuuka.png"
+    },
+    {
+      "name": "follow-gap",
+      "timestampMs": 68054,
+      "path": "project/qa/approved-r3-persistent-countdown-dedup/follow-gap.png"
+    },
+    {
+      "name": "persistent-gap",
+      "timestampMs": 59275,
+      "path": "project/qa/approved-r3-persistent-countdown-dedup/persistent-gap.png"
+    }
+  ],
+  "requiredVisualChecks": [
+    "three-layer order",
+    "background fit and transitions",
+    "foreground gap mode",
+    "annotation anchors",
+    "English timing",
+    "one-row cards and two-line meaning",
+    "transparent persistent spectrum",
+    "final line"
+  ],
+  "additionalScreenshots": [
+    "project/qa/approved-r3-persistent-countdown-dedup/prelude.png",
+    "project/qa/approved-r3-persistent-countdown-dedup/countdown-3.png",
+    "project/qa/approved-r3-persistent-countdown-dedup/countdown-2.png",
+    "project/qa/approved-r3-persistent-countdown-dedup/countdown-1.png",
+    "project/qa/approved-r3-persistent-countdown-dedup/l029-furigana.png",
+    "project/qa/approved-r3-persistent-countdown-dedup/l038-dedup.png",
+    "project/qa/approved-r3-persistent-countdown-dedup/tail-persistent.png"
+  ],
+  "visualReview": {
+    "status": "passed",
+    "findings": [
+      "学习前景从前奏首帧持续显示，间奏与尾奏不消失。",
+      "首句前 3 秒依次显示 3、2、1，位置清晰且不遮挡歌词或词卡。",
+      "l029 的 駆、抜 均显示汉字上方平假名注音。",
+      "l038 的三次 いつだって 保留完整歌词、罗马音和演唱高亮，词卡仅显示一组。",
+      "频谱透明且从头到尾持续，五段背景转场画面正常。",
+      "末句持续到输出结束。"
+    ]
+  }
+}

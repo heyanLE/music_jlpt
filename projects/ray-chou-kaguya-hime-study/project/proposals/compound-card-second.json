@@ -1,0 +1,1608 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "compound-card-second",
+  "baseFrameSha256": "861d3de32bf64379407e1147f403c7309c06940fc76ee8e68b69b8e51998ed50",
+  "scope": {
+    "allowedFields": [
+      "grammarCards"
+    ],
+    "forbiddenFields": [
+      "caption.translationZh",
+      "caption.japanese",
+      "caption.furigana",
+      "caption.romaji"
+    ],
+    "policy": "仅修正长词和合并词卡的释义/结构；释义必须覆盖完整 token，不触碰 QMTS 整句中文。"
+  },
+  "sources": [
+    {
+      "title": "goo 国語辞書・デジタル大辞泉（小学館）",
+      "url": "https://dictionary.goo.ne.jp/word/%E5%A1%97%E6%9B%BF%E3%81%88%E3%82%8B/"
+    },
+    {
+      "title": "日本語教育用标准活用规则",
+      "note": "ている、ていく、たって、なくなる、んだろう等的组合以当前完整词卡和冻结歌词上下文复核。"
+    }
+  ],
+  "changes": [
+    {
+      "frameId": "l018",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "ごまかして",
+          "reading": "ごまかして",
+          "romaji": "gomakashite",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "蒙混；掩饰"
+        },
+        {
+          "token": "笑っていくよ",
+          "reading": "わらっていくよ",
+          "romaji": "waratte iku yo",
+          "grammarStructureZh": "补助动词",
+          "posZh": "待语法审阅",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "functionZh": "表示动作将继续下去"
+        }
+      ],
+      "new": [
+        {
+          "token": "ごまかして",
+          "reading": "ごまかして",
+          "romaji": "gomakashite",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "蒙混；掩饰"
+        },
+        {
+          "token": "笑っていくよ",
+          "reading": "わらっていくよ",
+          "romaji": "waratte iku yo",
+          "grammarStructureZh": "动词て形＋いく＋终助词",
+          "posZh": "待语法审阅",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "compound-card second review proposal",
+            "meaningOrFunction": "compound-card second review proposal"
+          },
+          "functionZh": "笑着继续走下去；会一直笑下去"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "对每个长词/合并词按完整显示 token 重写释义；不再只说明末尾助动词、助词或活用。",
+        "小学馆《デジタル大辞泉》对塗り替える释义包含“改成完全不同的东西、更新”，与本句“塗り替えていく”相符：https://dictionary.goo.ne.jp/word/%E5%A1%97%E6%9B%BF%E3%81%88%E3%82%8B/",
+        "小学馆《デジタル大辞泉》与活用规则：ている表示进行/结果持续，ていく表示动作、变化向后持续；释义结合当前整词和上下文确定。"
+      ],
+      "changesTokenStructure": false,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l020",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "忘れたって",
+          "reading": "わすれたって",
+          "romaji": "wasuretatte",
+          "grammarStructureZh": "接续助词",
+          "posZh": "待语法审阅",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "functionZh": "与た构成让步：即使忘了也…"
+        },
+        {
+          "token": "消えやしない",
+          "reading": "きえやしない",
+          "romaji": "kieyashinai",
+          "grammarStructureZh": "否定助动词",
+          "posZh": "待语法审阅",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "functionZh": "与ない构成强烈否定：绝不会…"
+        }
+      ],
+      "new": [
+        {
+          "token": "忘れたって",
+          "reading": "わすれたって",
+          "romaji": "wasuretatte",
+          "grammarStructureZh": "动词过去式＋たって",
+          "posZh": "待语法审阅",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "compound-card second review proposal",
+            "meaningOrFunction": "compound-card second review proposal"
+          },
+          "functionZh": "即使忘了也…"
+        },
+        {
+          "token": "消えやしない",
+          "reading": "きえやしない",
+          "romaji": "kieyashinai",
+          "grammarStructureZh": "动词否定强调",
+          "posZh": "待语法审阅",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "compound-card second review proposal",
+            "meaningOrFunction": "compound-card second review proposal"
+          },
+          "zhMeaning": "绝不会消失"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "对每个长词/合并词按完整显示 token 重写释义；不再只说明末尾助动词、助词或活用。",
+        "小学馆《デジタル大辞泉》对塗り替える释义包含“改成完全不同的东西、更新”，与本句“塗り替えていく”相符：https://dictionary.goo.ne.jp/word/%E5%A1%97%E6%9B%BF%E3%81%88%E3%82%8B/",
+        "小学馆《デジタル大辞泉》与活用规则：ている表示进行/结果持续，ていく表示动作、变化向后持续；释义结合当前整词和上下文确定。"
+      ],
+      "changesTokenStructure": false,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l022",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "現実が",
+          "reading": "げんじつが",
+          "romaji": "genjitsu ga",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "现实（作主语）"
+        },
+        {
+          "token": "塗り替えていくよ",
+          "reading": "ぬりかえていくよ",
+          "romaji": "nurikaete iku yo",
+          "grammarStructureZh": "补助动词",
+          "posZh": "待语法审阅",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "functionZh": "表示变化将持续推进"
+        }
+      ],
+      "new": [
+        {
+          "token": "現実が",
+          "reading": "げんじつが",
+          "romaji": "genjitsu ga",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "现实（作主语）"
+        },
+        {
+          "token": "塗り替えていくよ",
+          "reading": "ぬりかえていくよ",
+          "romaji": "nurikaete iku yo",
+          "grammarStructureZh": "动词て形＋いく＋终助词",
+          "posZh": "待语法审阅",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "compound-card second review proposal",
+            "meaningOrFunction": "compound-card second review proposal"
+          },
+          "functionZh": "会不断改写；彻底改变下去"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "对每个长词/合并词按完整显示 token 重写释义；不再只说明末尾助动词、助词或活用。",
+        "小学馆《デジタル大辞泉》对塗り替える释义包含“改成完全不同的东西、更新”，与本句“塗り替えていく”相符：https://dictionary.goo.ne.jp/word/%E5%A1%97%E6%9B%BF%E3%81%88%E3%82%8B/",
+        "小学馆《デジタル大辞泉》与活用规则：ている表示进行/结果持续，ていく表示动作、变化向后持续；释义结合当前整词和上下文确定。"
+      ],
+      "changesTokenStructure": false,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l024",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "輝きになって",
+          "reading": "かがやきになって",
+          "romaji": "kagayaki ni natte",
+          "grammarStructureZh": "变化表达",
+          "posZh": "待语法审阅",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "functionZh": "与に构成“变成…”"
+        },
+        {
+          "token": "残っている",
+          "reading": "のこっている",
+          "romaji": "nokotte iru",
+          "grammarStructureZh": "补助动词",
+          "posZh": "待语法审阅",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "functionZh": "表示结果仍持续存在"
+        }
+      ],
+      "new": [
+        {
+          "token": "輝きになって",
+          "reading": "かがやきになって",
+          "romaji": "kagayaki ni natte",
+          "grammarStructureZh": "名词＋に＋なるて形",
+          "posZh": "待语法审阅",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "compound-card second review proposal",
+            "meaningOrFunction": "compound-card second review proposal"
+          },
+          "functionZh": "变成光辉；化作光芒"
+        },
+        {
+          "token": "残っている",
+          "reading": "のこっている",
+          "romaji": "nokotte iru",
+          "grammarStructureZh": "动词て形＋いる",
+          "posZh": "待语法审阅",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "compound-card second review proposal",
+            "meaningOrFunction": "compound-card second review proposal"
+          },
+          "functionZh": "仍然留存着；还保留着"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "对每个长词/合并词按完整显示 token 重写释义；不再只说明末尾助动词、助词或活用。",
+        "小学馆《デジタル大辞泉》对塗り替える释义包含“改成完全不同的东西、更新”，与本句“塗り替えていく”相符：https://dictionary.goo.ne.jp/word/%E5%A1%97%E6%9B%BF%E3%81%88%E3%82%8B/",
+        "小学馆《デジタル大辞泉》与活用规则：ている表示进行/结果持续，ていく表示动作、变化向后持续；释义结合当前整词和上下文确定。"
+      ],
+      "changesTokenStructure": false,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l026",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "何のため",
+          "reading": "なんのため",
+          "romaji": "nan no tame",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "为了什么"
+        },
+        {
+          "token": "だったんだろうな",
+          "reading": "だったんだろうな",
+          "romaji": "datta n darou na",
+          "grammarStructureZh": "终助词",
+          "posZh": "待语法审阅",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "functionZh": "加强自言自语、自问语气"
+        }
+      ],
+      "new": [
+        {
+          "token": "何のため",
+          "reading": "なんのため",
+          "romaji": "nan no tame",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "为了什么"
+        },
+        {
+          "token": "だったんだろうな",
+          "reading": "だったんだろうな",
+          "romaji": "datta n darou na",
+          "grammarStructureZh": "断定过去式＋のだ＋推量＋な",
+          "posZh": "待语法审阅",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "compound-card second review proposal",
+            "meaningOrFunction": "compound-card second review proposal"
+          },
+          "functionZh": "究竟是…呢；想必是…吧"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "对每个长词/合并词按完整显示 token 重写释义；不再只说明末尾助动词、助词或活用。",
+        "小学馆《デジタル大辞泉》对塗り替える释义包含“改成完全不同的东西、更新”，与本句“塗り替えていく”相符：https://dictionary.goo.ne.jp/word/%E5%A1%97%E6%9B%BF%E3%81%88%E3%82%8B/",
+        "小学馆《デジタル大辞泉》与活用规则：ている表示进行/结果持续，ていく表示动作、变化向后持续；释义结合当前整词和上下文确定。"
+      ],
+      "changesTokenStructure": false,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l028",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "前に",
+          "reading": "まえに",
+          "romaji": "mae ni",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "在…之前"
+        },
+        {
+          "token": "長く",
+          "reading": "ながく",
+          "romaji": "nagaku",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "长久地"
+        },
+        {
+          "token": "伸ばしている",
+          "reading": "のばしている",
+          "romaji": "nobashite iru",
+          "grammarStructureZh": "补助动词",
+          "posZh": "待语法审阅",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "functionZh": "表示动作正在持续"
+        }
+      ],
+      "new": [
+        {
+          "token": "前に",
+          "reading": "まえに",
+          "romaji": "mae ni",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "在…之前"
+        },
+        {
+          "token": "長く",
+          "reading": "ながく",
+          "romaji": "nagaku",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "长久地"
+        },
+        {
+          "token": "伸ばしている",
+          "reading": "のばしている",
+          "romaji": "nobashite iru",
+          "grammarStructureZh": "动词て形＋いる",
+          "posZh": "待语法审阅",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "compound-card second review proposal",
+            "meaningOrFunction": "compound-card second review proposal"
+          },
+          "functionZh": "正延伸着；正拉长着"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "对每个长词/合并词按完整显示 token 重写释义；不再只说明末尾助动词、助词或活用。",
+        "小学馆《デジタル大辞泉》对塗り替える释义包含“改成完全不同的东西、更新”，与本句“塗り替えていく”相符：https://dictionary.goo.ne.jp/word/%E5%A1%97%E6%9B%BF%E3%81%88%E3%82%8B/",
+        "小学馆《デジタル大辞泉》与活用规则：ている表示进行/结果持续，ていく表示动作、变化向后持续；释义结合当前整词和上下文确定。"
+      ],
+      "changesTokenStructure": false,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l032",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "君と",
+          "reading": "きみと",
+          "romaji": "kimi to",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "和你一起"
+        },
+        {
+          "token": "会ってから",
+          "reading": "あってから",
+          "romaji": "atte kara",
+          "grammarStructureZh": "接续助词",
+          "posZh": "待语法审阅",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "functionZh": "表示先发生“相会”，再做后项"
+        },
+        {
+          "token": "また",
+          "reading": "また",
+          "romaji": "mata",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "再次"
+        },
+        {
+          "token": "行こう",
+          "reading": "いこう",
+          "romaji": "ikou",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "一起走吧"
+        }
+      ],
+      "new": [
+        {
+          "token": "君と",
+          "reading": "きみと",
+          "romaji": "kimi to",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "和你一起"
+        },
+        {
+          "token": "会ってから",
+          "reading": "あってから",
+          "romaji": "atte kara",
+          "grammarStructureZh": "动词て形＋から",
+          "posZh": "待语法审阅",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "compound-card second review proposal",
+            "meaningOrFunction": "compound-card second review proposal"
+          },
+          "functionZh": "见面之后；相会后再…"
+        },
+        {
+          "token": "また",
+          "reading": "また",
+          "romaji": "mata",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "再次"
+        },
+        {
+          "token": "行こう",
+          "reading": "いこう",
+          "romaji": "ikou",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "一起走吧"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "对每个长词/合并词按完整显示 token 重写释义；不再只说明末尾助动词、助词或活用。",
+        "小学馆《デジタル大辞泉》对塗り替える释义包含“改成完全不同的东西、更新”，与本句“塗り替えていく”相符：https://dictionary.goo.ne.jp/word/%E5%A1%97%E6%9B%BF%E3%81%88%E3%82%8B/",
+        "小学馆《デジタル大辞泉》与活用规则：ている表示进行/结果持续，ていく表示动作、变化向后持续；释义结合当前整词和上下文确定。"
+      ],
+      "changesTokenStructure": false,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l037",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "あまり",
+          "reading": "あまり",
+          "romaji": "amari",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "过于；太"
+        },
+        {
+          "token": "泣かなくなっても",
+          "reading": "なかなくなっても",
+          "romaji": "nakanakunatte mo",
+          "grammarStructureZh": "接续助词",
+          "posZh": "待语法审阅",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "functionZh": "表示让步：即使…也…"
+        }
+      ],
+      "new": [
+        {
+          "token": "あまり",
+          "reading": "あまり",
+          "romaji": "amari",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "过于；太"
+        },
+        {
+          "token": "泣かなくなっても",
+          "reading": "なかなくなっても",
+          "romaji": "nakanakunatte mo",
+          "grammarStructureZh": "动词否定＋なるて形＋も",
+          "posZh": "待语法审阅",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "compound-card second review proposal",
+            "meaningOrFunction": "compound-card second review proposal"
+          },
+          "functionZh": "即使变得不再哭泣也…"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "对每个长词/合并词按完整显示 token 重写释义；不再只说明末尾助动词、助词或活用。",
+        "小学馆《デジタル大辞泉》对塗り替える释义包含“改成完全不同的东西、更新”，与本句“塗り替えていく”相符：https://dictionary.goo.ne.jp/word/%E5%A1%97%E6%9B%BF%E3%81%88%E3%82%8B/",
+        "小学馆《デジタル大辞泉》与活用规则：ている表示进行/结果持续，ていく表示动作、变化向后持续；释义结合当前整词和上下文确定。"
+      ],
+      "changesTokenStructure": false,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l040",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "忘れたって",
+          "reading": "わすれたって",
+          "romaji": "wasuretatte",
+          "grammarStructureZh": "接续助词",
+          "posZh": "待语法审阅",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "functionZh": "与た构成让步：即使忘了也…"
+        },
+        {
+          "token": "消えやしない",
+          "reading": "きえやしない",
+          "romaji": "kieyashinai",
+          "grammarStructureZh": "否定助动词",
+          "posZh": "待语法审阅",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "functionZh": "与ない构成强烈否定：绝不会…"
+        }
+      ],
+      "new": [
+        {
+          "token": "忘れたって",
+          "reading": "わすれたって",
+          "romaji": "wasuretatte",
+          "grammarStructureZh": "动词过去式＋たって",
+          "posZh": "待语法审阅",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "compound-card second review proposal",
+            "meaningOrFunction": "compound-card second review proposal"
+          },
+          "functionZh": "即使忘了也…"
+        },
+        {
+          "token": "消えやしない",
+          "reading": "きえやしない",
+          "romaji": "kieyashinai",
+          "grammarStructureZh": "动词否定强调",
+          "posZh": "待语法审阅",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "compound-card second review proposal",
+            "meaningOrFunction": "compound-card second review proposal"
+          },
+          "zhMeaning": "绝不会消失"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "对每个长词/合并词按完整显示 token 重写释义；不再只说明末尾助动词、助词或活用。",
+        "小学馆《デジタル大辞泉》对塗り替える释义包含“改成完全不同的东西、更新”，与本句“塗り替えていく”相符：https://dictionary.goo.ne.jp/word/%E5%A1%97%E6%9B%BF%E3%81%88%E3%82%8B/",
+        "小学馆《デジタル大辞泉》与活用规则：ている表示进行/结果持续，ていく表示动作、变化向后持续；释义结合当前整词和上下文确定。"
+      ],
+      "changesTokenStructure": false,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l042",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "きっと",
+          "reading": "きっと",
+          "romaji": "kitto",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "一定；想必"
+        },
+        {
+          "token": "あったんだろうな",
+          "reading": "あったんだろうな",
+          "romaji": "atta n darou na",
+          "grammarStructureZh": "终助词",
+          "posZh": "待语法审阅",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "functionZh": "加强自言自语、感叹语气"
+        }
+      ],
+      "new": [
+        {
+          "token": "きっと",
+          "reading": "きっと",
+          "romaji": "kitto",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "一定；想必"
+        },
+        {
+          "token": "あったんだろうな",
+          "reading": "あったんだろうな",
+          "romaji": "atta n darou na",
+          "grammarStructureZh": "动词过去式＋のだ＋推量＋な",
+          "posZh": "待语法审阅",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "compound-card second review proposal",
+            "meaningOrFunction": "compound-card second review proposal"
+          },
+          "functionZh": "一定曾有过吧；想必存在过吧"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "对每个长词/合并词按完整显示 token 重写释义；不再只说明末尾助动词、助词或活用。",
+        "小学馆《デジタル大辞泉》对塗り替える释义包含“改成完全不同的东西、更新”，与本句“塗り替えていく”相符：https://dictionary.goo.ne.jp/word/%E5%A1%97%E6%9B%BF%E3%81%88%E3%82%8B/",
+        "小学馆《デジタル大辞泉》与活用规则：ている表示进行/结果持续，ていく表示动作、变化向后持续；释义结合当前整词和上下文确定。"
+      ],
+      "changesTokenStructure": false,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l043",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "恐らく",
+          "reading": "おそらく",
+          "romaji": "osoraku",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "恐怕；大概"
+        },
+        {
+          "token": "ありきたり",
+          "reading": "ありきたり",
+          "romaji": "arikitari",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "常见；平凡"
+        },
+        {
+          "token": "なんだろうけど",
+          "reading": "なんだろうけど",
+          "romaji": "nan darou kedo",
+          "grammarStructureZh": "接续助词",
+          "posZh": "待语法审阅",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "functionZh": "表示转折、铺垫后续"
+        }
+      ],
+      "new": [
+        {
+          "token": "恐らく",
+          "reading": "おそらく",
+          "romaji": "osoraku",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "恐怕；大概"
+        },
+        {
+          "token": "ありきたり",
+          "reading": "ありきたり",
+          "romaji": "arikitari",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "常见；平凡"
+        },
+        {
+          "token": "なんだろうけど",
+          "reading": "なんだろうけど",
+          "romaji": "nan darou kedo",
+          "grammarStructureZh": "断定＋推量＋けど",
+          "posZh": "待语法审阅",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "compound-card second review proposal",
+            "meaningOrFunction": "compound-card second review proposal"
+          },
+          "functionZh": "大概是…吧，不过…"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "对每个长词/合并词按完整显示 token 重写释义；不再只说明末尾助动词、助词或活用。",
+        "小学馆《デジタル大辞泉》对塗り替える释义包含“改成完全不同的东西、更新”，与本句“塗り替えていく”相符：https://dictionary.goo.ne.jp/word/%E5%A1%97%E6%9B%BF%E3%81%88%E3%82%8B/",
+        "小学馆《デジタル大辞泉》与活用规则：ている表示进行/结果持续，ていく表示动作、变化向后持续；释义结合当前整词和上下文确定。"
+      ],
+      "changesTokenStructure": false,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l046",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "出会った",
+          "reading": "であった",
+          "romaji": "deatta",
+          "grammarStructureZh": "形式名词＋并列助词",
+          "posZh": "动词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "functionZh": "将“相遇”名词化，并以と标记其为“相连”的对象"
+        },
+        {
+          "token": "事",
+          "reading": "こと",
+          "romaji": "koto",
+          "grammarStructureZh": "形式名词",
+          "posZh": "名词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "事情；这一事实"
+        },
+        {
+          "token": "と",
+          "reading": "と",
+          "romaji": "to",
+          "grammarStructureZh": "格助词",
+          "posZh": "格助词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "functionZh": "表示共同或连接对象"
+        },
+        {
+          "token": "繋がっている",
+          "reading": "つながっている",
+          "romaji": "tsunagatte iru",
+          "grammarStructureZh": "动词持续状态",
+          "posZh": "动词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "正相连着；持续相连"
+        }
+      ],
+      "new": [
+        {
+          "token": "出会った",
+          "reading": "であった",
+          "romaji": "deatta",
+          "grammarStructureZh": "动词过去式",
+          "posZh": "动词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "compound-card second review proposal",
+            "meaningOrFunction": "compound-card second review proposal"
+          },
+          "zhMeaning": "相遇了；邂逅了"
+        },
+        {
+          "token": "事",
+          "reading": "こと",
+          "romaji": "koto",
+          "grammarStructureZh": "形式名词",
+          "posZh": "名词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "事情；这一事实"
+        },
+        {
+          "token": "と",
+          "reading": "と",
+          "romaji": "to",
+          "grammarStructureZh": "格助词",
+          "posZh": "格助词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "functionZh": "表示共同或连接对象"
+        },
+        {
+          "token": "繋がっている",
+          "reading": "つながっている",
+          "romaji": "tsunagatte iru",
+          "grammarStructureZh": "动词持续状态",
+          "posZh": "动词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "正相连着；持续相连"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "对每个长词/合并词按完整显示 token 重写释义；不再只说明末尾助动词、助词或活用。",
+        "小学馆《デジタル大辞泉》对塗り替える释义包含“改成完全不同的东西、更新”，与本句“塗り替えていく”相符：https://dictionary.goo.ne.jp/word/%E5%A1%97%E6%9B%BF%E3%81%88%E3%82%8B/",
+        "小学馆《デジタル大辞泉》与活用规则：ている表示进行/结果持续，ていく表示动作、变化向后持续；释义结合当前整词和上下文确定。"
+      ],
+      "changesTokenStructure": false,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l050",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "皆",
+          "reading": "みな",
+          "romaji": "mina",
+          "grammarStructureZh": "名词",
+          "posZh": "名词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "targeted lexical completion after user approval",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "zhMeaning": "大家"
+        },
+        {
+          "token": "と",
+          "reading": "と",
+          "romaji": "to",
+          "grammarStructureZh": "格助词",
+          "posZh": "格助词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "pending assisted review",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "functionZh": "表示比较的对象：与大家相比"
+        },
+        {
+          "token": "比べ",
+          "reading": "くらべ",
+          "romaji": "kurabe",
+          "grammarStructureZh": "动词",
+          "posZh": "动词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "targeted lexical completion after user approval",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "zhMeaning": "比较"
+        },
+        {
+          "token": "て",
+          "reading": "て",
+          "romaji": "te",
+          "grammarStructureZh": "接续助词",
+          "posZh": "助词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "targeted lexical completion after user approval",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "zhMeaning": "连接后续动作"
+        },
+        {
+          "token": "どうか",
+          "reading": "どうか",
+          "romaji": "douka",
+          "grammarStructureZh": "疑问副词＋选择助词",
+          "posZh": "副词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "targeted lexical completion after user approval",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "zhMeaning": "请；务必"
+        },
+        {
+          "token": "なんて",
+          "reading": "なんて",
+          "romaji": "nante",
+          "grammarStructureZh": "副助词",
+          "posZh": "助词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "pending assisted review",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "functionZh": "列举、轻描淡写地提出“如何”之类的判断"
+        }
+      ],
+      "new": [
+        {
+          "token": "皆",
+          "reading": "みな",
+          "romaji": "mina",
+          "grammarStructureZh": "名词",
+          "posZh": "名词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "targeted lexical completion after user approval",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "zhMeaning": "大家"
+        },
+        {
+          "token": "と",
+          "reading": "と",
+          "romaji": "to",
+          "grammarStructureZh": "格助词",
+          "posZh": "格助词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "pending assisted review",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "functionZh": "表示比较的对象：与大家相比"
+        },
+        {
+          "token": "比べ",
+          "reading": "くらべ",
+          "romaji": "kurabe",
+          "grammarStructureZh": "动词",
+          "posZh": "动词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "targeted lexical completion after user approval",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "zhMeaning": "比较"
+        },
+        {
+          "token": "て",
+          "reading": "て",
+          "romaji": "te",
+          "grammarStructureZh": "接续助词",
+          "posZh": "助词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "targeted lexical completion after user approval",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "zhMeaning": "连接后续动作"
+        },
+        {
+          "token": "どうか",
+          "reading": "どうか",
+          "romaji": "douka",
+          "grammarStructureZh": "疑问副词",
+          "posZh": "副词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "compound-card second review proposal",
+            "grammarStructureZh": "compound-card second review proposal"
+          },
+          "zhMeaning": "怎么样；是否如何"
+        },
+        {
+          "token": "なんて",
+          "reading": "なんて",
+          "romaji": "nante",
+          "grammarStructureZh": "副助词",
+          "posZh": "助词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "pending assisted review",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "functionZh": "列举、轻描淡写地提出“如何”之类的判断"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "对每个长词/合并词按完整显示 token 重写释义；不再只说明末尾助动词、助词或活用。",
+        "小学馆《デジタル大辞泉》对塗り替える释义包含“改成完全不同的东西、更新”，与本句“塗り替えていく”相符：https://dictionary.goo.ne.jp/word/%E5%A1%97%E6%9B%BF%E3%81%88%E3%82%8B/",
+        "小学馆《デジタル大辞泉》与活用规则：ている表示进行/结果持续，ていく表示动作、变化向后持续；释义结合当前整词和上下文确定。"
+      ],
+      "changesTokenStructure": false,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l053",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "あまり",
+          "reading": "あまり",
+          "romaji": "amari",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "过于；太"
+        },
+        {
+          "token": "泣かなくなっても",
+          "reading": "なかなくなっても",
+          "romaji": "nakanakunatte mo",
+          "grammarStructureZh": "接续助词",
+          "posZh": "待语法审阅",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "functionZh": "表示让步：即使…也…"
+        }
+      ],
+      "new": [
+        {
+          "token": "あまり",
+          "reading": "あまり",
+          "romaji": "amari",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "过于；太"
+        },
+        {
+          "token": "泣かなくなっても",
+          "reading": "なかなくなっても",
+          "romaji": "nakanakunatte mo",
+          "grammarStructureZh": "动词否定＋なるて形＋も",
+          "posZh": "待语法审阅",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "compound-card second review proposal",
+            "meaningOrFunction": "compound-card second review proposal"
+          },
+          "functionZh": "即使变得不再哭泣也…"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "对每个长词/合并词按完整显示 token 重写释义；不再只说明末尾助动词、助词或活用。",
+        "小学馆《デジタル大辞泉》对塗り替える释义包含“改成完全不同的东西、更新”，与本句“塗り替えていく”相符：https://dictionary.goo.ne.jp/word/%E5%A1%97%E6%9B%BF%E3%81%88%E3%82%8B/",
+        "小学馆《デジタル大辞泉》与活用规则：ている表示进行/结果持续，ていく表示动作、变化向后持续；释义结合当前整词和上下文确定。"
+      ],
+      "changesTokenStructure": false,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l054",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "ごまかして",
+          "reading": "ごまかして",
+          "romaji": "gomakashite",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "蒙混；掩饰"
+        },
+        {
+          "token": "笑っていくよ",
+          "reading": "わらっていくよ",
+          "romaji": "waratte iku yo",
+          "grammarStructureZh": "补助动词",
+          "posZh": "待语法审阅",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "functionZh": "表示动作将继续下去"
+        }
+      ],
+      "new": [
+        {
+          "token": "ごまかして",
+          "reading": "ごまかして",
+          "romaji": "gomakashite",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "蒙混；掩饰"
+        },
+        {
+          "token": "笑っていくよ",
+          "reading": "わらっていくよ",
+          "romaji": "waratte iku yo",
+          "grammarStructureZh": "动词て形＋いく＋终助词",
+          "posZh": "待语法审阅",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "compound-card second review proposal",
+            "meaningOrFunction": "compound-card second review proposal"
+          },
+          "functionZh": "笑着继续走下去；会一直笑下去"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "对每个长词/合并词按完整显示 token 重写释义；不再只说明末尾助动词、助词或活用。",
+        "小学馆《デジタル大辞泉》对塗り替える释义包含“改成完全不同的东西、更新”，与本句“塗り替えていく”相符：https://dictionary.goo.ne.jp/word/%E5%A1%97%E6%9B%BF%E3%81%88%E3%82%8B/",
+        "小学馆《デジタル大辞泉》与活用规则：ている表示进行/结果持续，ていく表示动作、变化向后持续；释义结合当前整词和上下文确定。"
+      ],
+      "changesTokenStructure": false,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l056",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "忘れたって",
+          "reading": "わすれたって",
+          "romaji": "wasuretatte",
+          "grammarStructureZh": "接续助词",
+          "posZh": "待语法审阅",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "functionZh": "与た构成让步：即使忘了也…"
+        },
+        {
+          "token": "消えやしない",
+          "reading": "きえやしない",
+          "romaji": "kieyashinai",
+          "grammarStructureZh": "否定助动词",
+          "posZh": "待语法审阅",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "functionZh": "与ない构成强烈否定：绝不会…"
+        }
+      ],
+      "new": [
+        {
+          "token": "忘れたって",
+          "reading": "わすれたって",
+          "romaji": "wasuretatte",
+          "grammarStructureZh": "动词过去式＋たって",
+          "posZh": "待语法审阅",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "compound-card second review proposal",
+            "meaningOrFunction": "compound-card second review proposal"
+          },
+          "functionZh": "即使忘了也…"
+        },
+        {
+          "token": "消えやしない",
+          "reading": "きえやしない",
+          "romaji": "kieyashinai",
+          "grammarStructureZh": "动词否定强调",
+          "posZh": "待语法审阅",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "compound-card second review proposal",
+            "meaningOrFunction": "compound-card second review proposal"
+          },
+          "zhMeaning": "绝不会消失"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "对每个长词/合并词按完整显示 token 重写释义；不再只说明末尾助动词、助词或活用。",
+        "小学馆《デジタル大辞泉》对塗り替える释义包含“改成完全不同的东西、更新”，与本句“塗り替えていく”相符：https://dictionary.goo.ne.jp/word/%E5%A1%97%E6%9B%BF%E3%81%88%E3%82%8B/",
+        "小学馆《デジタル大辞泉》与活用规则：ている表示进行/结果持续，ていく表示动作、变化向后持续；释义结合当前整词和上下文确定。"
+      ],
+      "changesTokenStructure": false,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    }
+  ]
+}

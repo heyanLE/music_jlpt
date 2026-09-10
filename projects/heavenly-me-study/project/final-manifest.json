@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "output": "deliverables/final/heavenly-me-study--16x9--heavenly-approved-r1.mkv",
+  "outputSha256": "741c50ff85506445dd45793d2cdfab3144e4db1d0eccbd0936f673ad945307e0",
+  "qaReport": "project/qa/heavenly-approved-r1/qa-report.json",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "30/1",
+        "bits_per_raw_sample": "8"
+      },
+      {
+        "codec_name": "flac",
+        "codec_type": "audio",
+        "sample_rate": "48000",
+        "r_frame_rate": "0/0",
+        "bits_per_raw_sample": "24"
+      }
+    ],
+    "format": {
+      "duration": "191.333000"
+    }
+  }
+}

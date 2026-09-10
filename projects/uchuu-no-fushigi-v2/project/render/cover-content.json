@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "slug": "uchuu-no-fushigi-v2",
+  "title": "宇宙的\n不可思议",
+  "artist": "夢限大みゅーたいぷ",
+  "subtitle": "梦限大 ED",
+  "subtitleScale": 2.0,
+  "series": "快速学唱",
+  "benefits": ["歌词同步高亮", "假名注释", "罗马音", "逐词拆解"],
+  "outputs": [
+    { "name": "16x9", "width": 1920, "height": 1080, "artworkFocus": "center" },
+    { "name": "4x3", "width": 1440, "height": 1080, "artworkFocus": "center" }
+  ]
+}

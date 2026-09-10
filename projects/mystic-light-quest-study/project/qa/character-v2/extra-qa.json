@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "status": "passed",
+  "candidateSha256": "77567226ff7430c88984acfc2b42a0182ea01a5a2a0978c6fc0f79f749fec019",
+  "audio": {
+    "pcmSha256": "SHA256=835b3e0a1cc206f4a0098693aea3e988c6f660b04535d53ceb4da9597abb9c1e",
+    "wavFlacCandidateIdentical": true,
+    "flacPacketHash": "SHA256=96971a004d63c14f9a55521a98ef01bdccdd20775df6806feeff669361c73fb2",
+    "packetCopyIdentical": true
+  },
+  "probe": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "start_time": "0.000000",
+        "bits_per_raw_sample": "8",
+        "nb_read_frames": "6210"
+      },
+      {
+        "codec_name": "flac",
+        "codec_type": "audio",
+        "sample_rate": "48000",
+        "channels": 2,
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "start_time": "0.000000",
+        "bits_per_raw_sample": "24",
+        "nb_read_frames": "2157"
+      }
+    ],
+    "format": {
+      "duration": "207.000000"
+    }
+  },
+  "cfrAll6210FramesChecked": true,
+  "backgroundAlignmentChecks": [
+    {
+      "outputSeconds": 10,
+      "backgroundCorrelation": 0.9989321256431223
+    },
+    {
+      "outputSeconds": 40,
+      "backgroundCorrelation": 0.9997739414660873
+    },
+    {
+      "outputSeconds": 80,
+      "backgroundCorrelation": 0.9990415243683839
+    },
+    {
+      "outputSeconds": 140,
+      "backgroundCorrelation": 0.9998392814564554
+    },
+    {
+      "outputSeconds": 185,
+      "backgroundCorrelation": 0.9980107474298503
+    }
+  ],
+  "samples": [
+    {
+      "name": "opening",
+      "timestampMs": 1000,
+      "path": "project/qa/character-v2/opening.png"
+    },
+    {
+      "name": "song-reading-l018",
+      "timestampMs": 96900,
+      "path": "project/qa/character-v2/song-reading-l018.png"
+    },
+    {
+      "name": "merged-idiom-l025",
+      "timestampMs": 126500,
+      "path": "project/qa/character-v2/merged-idiom-l025.png"
+    },
+    {
+      "name": "repeat-loanword-l029",
+      "timestampMs": 141200,
+      "path": "project/qa/character-v2/repeat-loanword-l029.png"
+    },
+    {
+      "name": "two-line-card-l011",
+      "timestampMs": 55000,
+      "path": "project/qa/character-v2/two-line-card-l011.png"
+    },
+    {
+      "name": "tail-hold",
+      "timestampMs": 205950,
+      "path": "project/qa/character-v2/tail-hold.png"
+    },
+    {
+      "name": "tail-clear",
+      "timestampMs": 206500,
+      "path": "project/qa/character-v2/tail-clear.png"
+    },
+    {
+      "name": "character-first",
+      "timestampMs": 12050,
+      "path": "project/qa/character-v2/character-first.png"
+    },
+    {
+      "name": "character-second",
+      "timestampMs": 12330,
+      "path": "project/qa/character-v2/character-second.png"
+    },
+    {
+      "name": "character-fourth",
+      "timestampMs": 12750,
+      "path": "project/qa/character-v2/character-fourth.png"
+    },
+    {
+      "name": "character-seventh",
+      "timestampMs": 13990,
+      "path": "project/qa/character-v2/character-seventh.png"
+    }
+  ],
+  "visualStatus": "All eleven screenshots inspected. Consecutive ko/ko then ra/hajime change only the active Japanese character; annotation and romaji stay token-wide. Approved readings, idiom, repeated loanword, balanced card wrapping, initial blank and final hold/clear remain correct."
+}

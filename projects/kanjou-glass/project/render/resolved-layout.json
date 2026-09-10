@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "templateId": "study-current-v3",
+  "canvas": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  },
+  "scale": {
+    "x": 1.0,
+    "y": 1.0,
+    "uniform": 1.0
+  },
+  "palette": {
+    "schemaVersion": 1,
+    "algorithm": "saturated-cover-pixel-hsv-v1",
+    "cover": "C:\\project\\musicjlpt\\projects\\kanjou-glass\\source\\cover.jpg",
+    "accent": "#206040",
+    "activeTint": "#42EB96",
+    "body": "#184730",
+    "cardFill": {
+      "color": "#206040",
+      "alpha": 0.75
+    }
+  },
+  "font": {
+    "role": "cjk-bold",
+    "minimumWeight": 700,
+    "fallback": [
+      "Microsoft YaHei Bold",
+      "Noto Sans CJK Bold"
+    ]
+  },
+  "cover": {
+    "rectPx": [
+      850,
+      35,
+      220,
+      220
+    ]
+  },
+  "cards": {
+    "rectPx": [
+      95,
+      600,
+      1730,
+      250
+    ],
+    "gapPx": 12,
+    "fieldLayout": {
+      "token": {
+        "topPx": 625,
+        "fontSize": 37,
+        "fontWeight": 700,
+        "maxLines": 1,
+        "overflow": "shrink-or-fail"
+      },
+      "meaning": {
+        "oneLineTopPx": 695,
+        "twoLineTopPx": 678,
+        "lineHeightPx": 32,
+        "fontSize": 26,
+        "fontWeight": 700,
+        "maxLines": 2,
+        "overflow": "wrap-at-fixed-size-or-fail"
+      },
+      "grammarStructure": {
+        "topPx": 770,
+        "fontSize": 25,
+        "fontWeight": 700,
+        "maxLines": 1,
+        "overflow": "shrink-or-fail"
+      },
+      "horizontalAlign": "center",
+      "verticalFlow": "independent-fields"
+    }
+  },
+  "lyric": {
+    "layout": "inline-source-order",
+    "maxWidth": 0.9,
+    "overflow": "shrink-then-wrap",
+    "minimumFontScale": 0.76,
+    "tokenAnchors": "shared-lyric-romaji-annotation",
+    "annotation": {
+      "kanjiOnly": true,
+      "furiganaAlign": "left-to-kanji-run",
+      "loanwordSource": "sourceWord",
+      "loanwordAlign": "center-over-token",
+      "topPx": 295,
+      "fontSize": 28,
+      "loanwordFontSize": 23
+    },
+    "japanese": {
+      "topPx": 330,
+      "fontSize": 70,
+      "fontWeight": 700
+    },
+    "english": {
+      "topPx": 352,
+      "fontSize": 70,
+      "fontWeight": 700,
+      "furigana": false,
+      "romaji": false,
+      "cards": false
+    },
+    "romaji": {
+      "japaneseOnly": true,
+      "topPx": 430,
+      "fontSize": 34,
+      "fontWeight": 700,
+      "anchor": "center-under-token"
+    },
+    "translation": {
+      "optional": true,
+      "defaultEnabled": true,
+      "anchor": "center",
+      "topPx": 500,
+      "fontSize": 45,
+      "fontWeight": 700,
+      "maxLines": 2,
+      "overflow": "wrap-then-shrink-or-fail"
+    },
+    "highlight": {
+      "targets": [
+        "japanese",
+        "furigana",
+        "loanwordAnnotation",
+        "romaji",
+        "english"
+      ],
+      "cards": false
+    }
+  },
+  "strokePx": {
+    "japanese": 4,
+    "english": 4,
+    "furigana": 2,
+    "loanwordAnnotation": 2,
+    "romaji": 2,
+    "translation": 3,
+    "cardFields": 2
+  },
+  "constraints": {
+    "meaningMaxLines": 2,
+    "tokenMaxLines": 1,
+    "grammarStructureMaxLines": 1,
+    "cardsSingleRow": true
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "status": "proposed-requires-user-merge-authorization",
+  "reviewers": ["semantic-early", "grammar-middle", "semantic-late"],
+  "source": "project/frames.reviewed.safe.json",
+  "humanConfirmedFieldsDetected": false,
+  "globalProposals": [
+    {
+      "id": "furigana-kanji-only",
+      "change": "Regenerate caption furigana from each selected token reading, placing hiragana only above kanji runs; preserve literal kana unannotated.",
+      "confidence": "high"
+    },
+    {
+      "id": "caption-romaji-normalization",
+      "change": "Generate Japanese-token romaji from confirmed token readings as continuous words; retain English in original source position without cards or Japanese annotations.",
+      "confidence": "high"
+    }
+  ],
+  "cardChanges": [
+    {"frameId":"l004","token":"だけ","set":{"functionZh":"限定范围：只／仅","posZh":"副助词"},"confidence":"high"},
+    {"frameId":"l004","token":"独り","set":{"zhMeaning":"独自","posZh":"副词"},"confidence":"high"},
+    {"frameId":"l007","token":"よ","set":{"functionZh":"句末告知／强调","posZh":"终助词"},"confidence":"high"},
+    {"frameId":"l011","token":"つないだ","set":{"zhMeaning":"牵起的；相连的","posZh":"动词（过去形）"},"confidence":"high"},
+    {"frameId":"l011","token":"に","set":{"functionZh":"受影响的原因／对象（因……而）","posZh":"格助词"},"confidence":"high"},
+    {"frameId":"l013","token":"このまま","set":{"zhMeaning":"就这样","posZh":"副词性名词"},"confidence":"high"},
+    {"frameId":"l014","token":"幾つ","set":{"zhMeaning":"多少个","posZh":"疑问代词"},"confidence":"high"},
+    {"frameId":"l014","token":"だろう","set":{"zhMeaning":"……了多少次呢／……了吧","posZh":"助动词"},"confidence":"high"},
+    {"frameId":"l016","token":"だろう","set":{"zhMeaning":"……了吧／……了吗","posZh":"助动词"},"confidence":"high"},
+    {"frameId":"l018","token":"なのに","set":{"functionZh":"表示逆接：明明……却……","posZh":"接续助词"},"confidence":"high"},
+    {"frameId":"l025","token":"変えてしまっても","options":[
+      {"action":"keep-merged","meaning":"即使全都改变了","pos":"动词＋让步表达"},
+      {"action":"split","cards":[{"token":"変えて","reading":"かえて","romaji":"kaete","zhMeaning":"改变了","posZh":"动词"},{"token":"しまっても","reading":"しまっても","romaji":"shimattemo","functionZh":"即使彻底……了也","posZh":"补助动词＋接续助词"}]}
+    ],"confidence":"needs-user-choice","reason":"分析者对学习粒度有分歧，结构改动不可自动合并。"},
+    {"frameId":"l030","token":"呼び疲れ","set":{"zhMeaning":"呼喊到疲惫","posZh":"复合动词（连用形）"},"confidence":"medium"},
+    {"frameId":"l041","token":"気付けば","set":{"reading":"きづけば","romaji":"kizukeba","zhMeaning":"一留意到就；回过神来就","posZh":"动词（ば形）"},"confidence":"high"},
+    {"frameId":"l046","token":"未来","set":{"reading":"あした","romaji":"ashita","zhMeaning":"未来","posZh":"名词"},"confidence":"high"}
+  ],
+  "translationReviewOnly": [
+    {"frameId":"l001","proposal":"唤醒梦想的晨光。","confidence":"medium"},
+    {"frameId":"l002","proposal":"再次照亮。","confidence":"medium"},
+    {"frameId":"l013","proposal":"亲爱的朋友们，就这样一直……","confidence":"medium"},
+    {"frameId":"l033","proposal":"你的笑容。","confidence":"medium"},
+    {"frameId":"l034","proposal":"Stay high——我都忘了呀。","confidence":"medium"},
+    {"frameId":"l036","proposal":"那一定是你给我的 true feel 的光辉。","confidence":"medium"},
+    {"frameId":"l043","proposal":"通往明日的大门，一定始终葱茏地敞开着。","confidence":"medium"},
+    {"frameId":"l046","proposal":"前往与你相遇的未来。","confidence":"high"}
+  ],
+  "notes": [
+    "English display units remain card-free and unannotated.",
+    "Katakana loanword sourceWord values for スカイブルー and ドア remain valid.",
+    "No proposal has been merged into the render source."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "stage": "delivered",
+  "renderAuthorization": true,
+  "notes": [
+    "Sources frozen; choose preset, spectrum and alignment with configure_layers.py.",
+    "Layer configuration resolved by configure_layers.py: custom; spectrum=on; offsetMs=0.",
+    "64 sung lyric rows retained after excluding verified title/credit rows before 17.501 s; setup validation passed.",
+    "Cover badge disabled by user; source MP3 remains stream-copy only.",
+    "All 64 reviewed frames are approved; fixed-template layout validation passed.",
+    "Foreground timeline compiled with 64 full QRC matches and zero unmatched rows.",
+    "Render plan approved-r1 is prepared; explicit wording such as 确认渲染 is still required by the render gate.",
+    "QA-passed candidate promoted: kimi-no-kioku-reload--16x9--approved-r1.mp4",
+    "QA-passed candidate promoted: kimi-no-kioku-reload--16x9--approved-r3-persistent-countdown-dedup.mp4"
+  ]
+}

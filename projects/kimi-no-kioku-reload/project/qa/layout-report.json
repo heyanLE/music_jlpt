@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "stage": "draft",
+  "result": "passed",
+  "frameCount": 64,
+  "cardCount": 295,
+  "renderedFrameCount": 64,
+  "maxCardCount": 9,
+  "maxCardCountFrame": "l038",
+  "oneRowGrammarCards": true,
+  "meaningMaxLines": 2,
+  "selectedSamples": {
+    "longestLyric": "l014",
+    "maximumCardCount": "l038",
+    "longestMeaningOrFunction": "l002",
+    "mixedJapaneseEnglish": "l014",
+    "loanwordCandidate": null,
+    "pureEnglish": "l020"
+  },
+  "previewPaths": {
+    "longestLyric": "C:\\project\\musicjlpt\\projects\\kimi-no-kioku-reload\\project\\qa\\draft-preview-longestLyric.png",
+    "maximumCardCount": "C:\\project\\musicjlpt\\projects\\kimi-no-kioku-reload\\project\\qa\\draft-preview-maximumCardCount.png",
+    "longestMeaningOrFunction": "C:\\project\\musicjlpt\\projects\\kimi-no-kioku-reload\\project\\qa\\draft-preview-longestMeaningOrFunction.png",
+    "mixedJapaneseEnglish": "C:\\project\\musicjlpt\\projects\\kimi-no-kioku-reload\\project\\qa\\draft-preview-mixedJapaneseEnglish.png",
+    "loanwordCandidate": null,
+    "pureEnglish": "C:\\project\\musicjlpt\\projects\\kimi-no-kioku-reload\\project\\qa\\draft-preview-pureEnglish.png"
+  },
+  "failures": [],
+  "reviewDocument": "C:\\project\\musicjlpt\\projects\\kimi-no-kioku-reload\\deliverables\\review\\kimi-no-kioku-reload-review.md"
+}

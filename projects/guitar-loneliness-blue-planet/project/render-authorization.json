@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 3,
+  "authorization": "user: 歌词不要太早出来，后面歌词间有消失，首次也等到倒计时出来再出来",
+  "authorizedAt": "2026-09-08T17:25:22.732299+00:00",
+  "renderAuthorized": true,
+  "inputManifestSha256": "21f03bb16815b5bb06a02ebc7d0573a6566760adaf5ade0d2fb8a0e4e7a51e4f",
+  "sourceManifestSha256": "7a0639392d074279ad6947cf64e3044d1695a52e302eba2fb4528791fa8c363f",
+  "frameSha256": "de4c24778cb60ce8b1685bb06c73111eefb0888a1e5c53334f11c300f6cf2850",
+  "paletteSha256": "1962f217dfb801d55b61518b5286686b64dc0c2683646e8975977e4607f8518d",
+  "presentationSha256": "466739c330564082a21b5e856635670eb22159328a76d82bbb01ab2ef719265c",
+  "sceneSha256": "06d7323a55cfe35073daedcdeea25baf7d9b268b2ef2ce565a26c67382b8c002",
+  "foregroundTemplateSha256": "5a48ecd1bd2c1f4da9f5d4b10388aa08efebddeb694912a4d9d8fdd14351ccfb",
+  "overlayTemplateSha256": "94e142f44d067f1a782352065dadbf483c872f2519afc2c734f833b98122f52b",
+  "rendererSha256": "4df9eced946442a83cb02e219b8264bb2a6cdfbc74199b0bf80d7e235dda2936",
+  "assistedReviewAuditSha256": "5920a458b513b5527952f8f9c333150e89b9807922909b9d79482a3c4aedb63c",
+  "mergeLogSha256": "b496edd8ac1ce852e7cbd23fc547140c316cf7f7734115d34530b79229ae0f6f",
+  "reviewDecisionSha256": "04ace06afa5b70e9d64312c186dc61b13fda6fb951c42fe7ed7d366e9ed7cc62",
+  "customDependencyHashes": {
+    "project/render/render_custom.py": "4df9eced946442a83cb02e219b8264bb2a6cdfbc74199b0bf80d7e235dda2936",
+    "project/render/foreground_renderer.py": "9b68e0d812603732d1a31f398c961304f1f9e7796010599c73a1494ee12fb3a5",
+    "project/render/foreground_options.py": "0432d424c3194854e296b292238a8ba46c88e92ef25f936010422df8147ebf2d",
+    "project/render/build_foreground_timeline.py": "477dc7330174284e265783f981d9d00169bcaa15cf49ea935319968a009ea41c",
+    "project/render/render_foobar_spectrum.py": "f7856ec0f1978a450c214b3458923ca53889579aa44fe2221e9b82b20db7789c",
+    "project/render/verify_render_gate.py": "cd3737e9cf3952d1b78f06d7cf48fa88d12194028d7655db25bb4a6844f89340",
+    "project/timing/qm.json": "46336e97f490544877a41bddae15a3f13385158e17203a656f44ea6804453633",
+    "project/templates/background.json": "7ef972cc93680d57e546b11fead4e6f7fa165050050b875f0654e3c70ea4f8a5",
+    "project/render/render-plan.json": "3453b32229d270d69773866097efc15360ffac5e9ce259297114d3058c708d43",
+    "project/work/audio/program-lossless.flac": "b9b92d31bb166e5ca8e8a79d7e1d0d018801b6ddc7734969cfe11387e42718f9",
+    "source/background.mp4": "041ca4ec6a94d8cc02e212753a07f07507bf307828d8b06a86759b50007af98d",
+    "source/cover.jpg": "f13f6a048c203f494392287cf030823a32d5ed5526b872cae8544273a7b5e094",
+    "source/music.flac": "bf10240dd0337134adfd1a5e270b72cbcf27ff14eae5434c690fea1b640f0e34"
+  }
+}

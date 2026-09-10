@@ -1,0 +1,313 @@
+{
+  "schemaVersion": 1,
+  "sourceManifest": "source/source-manifest.json",
+  "assets": [
+    {
+      "role": "music",
+      "originalAbsolutePath": "C:\\baidunetdiskdownload\\001-芽吹くとき_46228978.flac",
+      "frozenAsset": "source/music.flac",
+      "bytes": 86725023,
+      "sha256": "23f7c4f5782e7016f80d9dbfc36b68fb696199255ac037b38252a3f27146141b",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "flac",
+            "codec_type": "audio",
+            "sample_rate": "96000",
+            "bits_per_raw_sample": "24"
+          },
+          {
+            "index": 1,
+            "codec_name": "mjpeg",
+            "codec_type": "video",
+            "width": 1417,
+            "height": 1417,
+            "bits_per_raw_sample": "8"
+          }
+        ],
+        "format": {
+          "format_name": "flac",
+          "duration": "219.293542"
+        }
+      }
+    },
+    {
+      "role": "coverOriginal",
+      "originalAbsolutePath": "C:\\project\\musicjlpt\\projects\\mebuku-toki-alignment\\cover-from-kanjou-glass.jpg",
+      "frozenAsset": "source/cover-original.jpg",
+      "bytes": 49996,
+      "sha256": "b0459ccb88965f62f401b8c7c351ea111ac6aa4854ceb15c0dd5169be12e22b8",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "mjpeg",
+            "codec_type": "video",
+            "width": 500,
+            "height": 500,
+            "bits_per_raw_sample": "8"
+          }
+        ],
+        "format": {
+          "format_name": "image2",
+          "duration": "0.040000"
+        }
+      }
+    },
+    {
+      "role": "cover",
+      "originalAbsolutePath": "C:\\project\\musicjlpt\\projects\\mebuku-toki-alignment\\cover-from-kanjou-glass.jpg",
+      "frozenAsset": "source/cover.jpg",
+      "bytes": 118622,
+      "sha256": "04526bf2618ac10facb961bb5346e202dd3dc5ff0d0fa0dddf9d6c387c43bfe3",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "mjpeg",
+            "codec_type": "video",
+            "width": 500,
+            "height": 500,
+            "bits_per_raw_sample": "8"
+          }
+        ],
+        "format": {
+          "format_name": "image2",
+          "duration": "0.040000"
+        }
+      }
+    },
+    {
+      "role": "background",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\Videos\\TubeGet\\オープニングムービー完全版｜TVアニメ『上伊那ぼたん、酔へる姿は百合の花』.mp4",
+      "frozenAsset": "source/background.mp4",
+      "bytes": 6146766,
+      "sha256": "b00caf22aedf1cc2d65ea862ac80450672431a0509a3d62cb5152181ed3d4b36",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 480,
+            "height": 360,
+            "bits_per_raw_sample": "8"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100"
+          }
+        ],
+        "format": {
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "duration": "102.957279"
+        }
+      }
+    },
+    {
+      "role": "qm",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\AppData\\Roaming\\Tencent\\QQMusic\\QQMusicCache\\QQMusicLyricNew\\yonige - 芽吹くとき (Blooming With you) - 219 - 芽吹くとき (Blooming With you)_qm.qrc",
+      "frozenAsset": "source/lyrics_qm.qrc",
+      "bytes": 3667,
+      "sha256": "dc176b5e26fcab6465f61d1d4106297fd80aec8771830418d2408a376061df94",
+      "probe": {
+        "probeError": "[mp3 @ 0000023da0e8e400] Failed to find two consecutive MPEG audio frames.\nC:\\project\\musicjlpt\\projects\\mebuku-toki\\source\\lyrics_qm.qrc: Invalid data found when processing input"
+      }
+    },
+    {
+      "role": "qmRoma",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\AppData\\Roaming\\Tencent\\QQMusic\\QQMusicCache\\QQMusicLyricNew\\yonige - 芽吹くとき (Blooming With you) - 219 - 芽吹くとき (Blooming With you)_qmRoma.qrc",
+      "frozenAsset": "source/lyrics_qmRoma.qrc",
+      "bytes": 3075,
+      "sha256": "10bd6e5ad1b2cd6b252c83c8bde6e69f61177406384195428212c129d356c626",
+      "probe": {
+        "probeError": "[mp3 @ 0000024dad4ee400] Failed to find two consecutive MPEG audio frames.\nC:\\project\\musicjlpt\\projects\\mebuku-toki\\source\\lyrics_qmRoma.qrc: Invalid data found when processing input"
+      }
+    },
+    {
+      "role": "qmts",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\AppData\\Roaming\\Tencent\\QQMusic\\QQMusicCache\\QQMusicLyricNew\\yonige - 芽吹くとき (Blooming With you) - 219 - 芽吹くとき (Blooming With you)_qmts.qrc",
+      "frozenAsset": "source/lyrics_qmts.qrc",
+      "bytes": 1219,
+      "sha256": "5b5ea16f40f42e9ffb66ed1a6bc692f5b5fcc3ca1bd58fa74dedbcd9b63b6246",
+      "probe": {
+        "probeError": "C:\\project\\musicjlpt\\projects\\mebuku-toki\\source\\lyrics_qmts.qrc: Invalid data found when processing input"
+      }
+    },
+    {
+      "role": "backgroundSecond",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\Videos\\TubeGet\\yonige「芽吹くとき」 official music video.mp4",
+      "frozenAsset": "source/background-2.mp4",
+      "bytes": 14289907,
+      "sha256": "35e40ea9dd26ade0983f1808ab757ec965943774693ee0cc63ec0921f75814f1",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 574,
+            "height": 360,
+            "bits_per_raw_sample": "8"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "44100"
+          }
+        ],
+        "format": {
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "duration": "229.204172"
+        }
+      }
+    },
+    {
+      "role": "coverSourceMedia",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\Music\\鈴代紗弓 - 感情グラス.flac",
+      "frozenAsset": "source/cover-source-media.flac",
+      "bytes": 27504716,
+      "sha256": "1810b75af1558a52842d3476c6f8fc162212d7fcabf8b675014594cde70683c7",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "flac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "bits_per_raw_sample": "16"
+          },
+          {
+            "index": 1,
+            "codec_name": "mjpeg",
+            "codec_type": "video",
+            "width": 500,
+            "height": 500,
+            "bits_per_raw_sample": "8"
+          }
+        ],
+        "format": {
+          "format_name": "flac",
+          "duration": "240.276145"
+        }
+      }
+    },
+    {
+      "role": "lyricsTimingReference",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\Music\\yonige - 芽吹くとき (Blooming With you).flac",
+      "frozenAsset": "source/lyrics-timing-reference.flac",
+      "bytes": 27997582,
+      "sha256": "3953aebc394a09e62bdc063cbae66d73054d0aebab56dc72694b82beb617f56a",
+      "usage": "clock-calibration-only",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "flac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "bits_per_raw_sample": "16"
+          },
+          {
+            "index": 1,
+            "codec_name": "mjpeg",
+            "codec_type": "video",
+            "bits_per_raw_sample": "8"
+          }
+        ],
+        "format": {
+          "format_name": "flac",
+          "duration": "219.200000"
+        }
+      }
+    }
+  ],
+  "active": {
+    "music": {
+      "asset": "source/music.flac",
+      "origin": "direct-copy",
+      "preserveCodec": true,
+      "clock": "music",
+      "sampleRateHz": 96000,
+      "bitsPerSample": 24,
+      "finalContainer": "mkv",
+      "finalAudioCodec": "copy"
+    },
+    "cover": {
+      "asset": "source/cover.jpg",
+      "origin": "embedded-art-from-separately-frozen-media",
+      "sourceMedia": "source/cover-source-media.flac",
+      "sourceTitle": "感情グラス",
+      "sourceArtist": "上伊那ぼたん（CV.鈴代紗弓）"
+    },
+    "lyrics": {
+      "format": "qq-music",
+      "qm": "source/lyrics_qm.qrc",
+      "qmRoma": "source/lyrics_qmRoma.qrc",
+      "qmts": "source/lyrics_qmts.qrc",
+      "timingReference": {
+        "asset": "source/lyrics-timing-reference.flac",
+        "usage": "clock-calibration-only",
+        "sha256": "3953aebc394a09e62bdc063cbae66d73054d0aebab56dc72694b82beb617f56a"
+      },
+      "clockNormalization": {
+        "method": "multi-window-normalized-waveform-correlation",
+        "sourceClock": "qq-reference-audio",
+        "targetClock": "final-music",
+        "measuredCorrectionMs": -776.6213151927435,
+        "correctionMs": -777,
+        "evidence": "project/qa/lyrics-clock-offset-report.json"
+      }
+    },
+    "backgroundAssets": [
+      {
+        "id": "anime-opening",
+        "asset": "source/background.mp4",
+        "order": 1
+      },
+      {
+        "id": "official-mv",
+        "asset": "source/background-2.mp4",
+        "order": 2
+      }
+    ],
+    "alignment": {
+      "method": "manual",
+      "offsetMs": 0,
+      "definition": "signed output timestamp assigned to music time zero",
+      "appliesTo": [
+        "music",
+        "lyrics",
+        "spectrum"
+      ],
+      "backgroundClock": "output",
+      "evidence": "The former 5.327 s container/output prelude was removed at user request. Music time zero is output time zero; the complete FLAC master, including its intrinsic head, is preserved and stream-copied without input seeking. The first background source starts at 5.327 s to preserve the established picture/music match.",
+      "trimmedOutputStartMs": 5327,
+      "masterHeadPolicy": "preserve-complete-source-no-input-seek",
+      "lyricsClockPolicy": "normalize QRC reference clock to final-music clock before applying the global offset"
+    }
+  },
+  "templateSha256": {
+    "foreground.json": "a5fa64614553081b74df9b71e504efa794f71f5cab563c2b6eacf6a88b7da317",
+    "background.json": "a640555b9a042ff049db4447dfd6e1c261258957526545b4d78dc4267d197a95",
+    "overlay.json": "94e142f44d067f1a782352065dadbf483c872f2519afc2c734f833b98122f52b"
+  }
+}

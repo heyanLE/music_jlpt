@@ -1,0 +1,443 @@
+{
+  "schemaVersion": 2,
+  "userWording": "采纳全部提案",
+  "framesBeforeSha256": "b91c4f3499f05d48bc3aaa7110bcaf542f6059ad4c53af5bb9b7c24ecee0e168",
+  "framesAfterSha256": "3dc254008433b82a16d798b2b63086d55a3806f6daf85a282bbc13ad166b8ae3",
+  "mergedProposalFiles": [
+    "project/proposals/lexical-v2.json",
+    "project/proposals/grammar-v2.json",
+    "project/proposals/translation-v2.json",
+    "project/review/full-card-proposed-frames.json"
+  ],
+  "appliedFrames": [
+    {
+      "frameId": "l006",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l007",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l008",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l009",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l010",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l011",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l012",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l013",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l014",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l015",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l016",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l017",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l018",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l019",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l020",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l021",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l022",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l023",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l024",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l025",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l026",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l027",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l028",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l029",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l030",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l031",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l032",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l033",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l034",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l035",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l036",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l037",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l038",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l039",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l040",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l041",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l042",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l043",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l044",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l045",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l046",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l047",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l048",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l049",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l050",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l051",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l052",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l053",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l054",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l055",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l056",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l057",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l058",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l059",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l060",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l061",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l062",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l063",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l064",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l065",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    },
+    {
+      "frameId": "l066",
+      "fields": [
+        "caption",
+        "grammarCards"
+      ]
+    }
+  ],
+  "cardCount": 259,
+  "metadataPolicy": "QRC metadata rows l001-l005 excluded before this merge"
+}

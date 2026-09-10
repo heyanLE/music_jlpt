@@ -1,0 +1,17 @@
+{
+  "method": "Use the tentative Chinese sentence translation as a semantic anchor; keep Japanese syntax as the authority when they conflict.",
+  "mergePatterns": [
+    { "pattern": "だから", "roleZh": "所以、因此", "posZh": "接续词" },
+    { "pattern": "どうでもいい", "roleZh": "无关紧要", "posZh": "固定表达" },
+    { "pattern": "うんざりで", "roleZh": "厌烦到了…的程度", "posZh": "形容动词活用" },
+    { "pattern": "よりも", "roleZh": "比较基准（比…更）", "posZh": "助词组合" },
+    { "pattern": "ばかりで", "roleZh": "尽是…；只顾…", "posZh": "副助词组合" },
+    { "pattern": "みたいの", "roleZh": "想要…（口语句尾）", "posZh": "愿望表达" },
+    { "pattern": "やしない", "roleZh": "根本不会…（强否定）", "posZh": "否定表达" },
+    { "pattern": "としても", "roleZh": "即使…也…", "posZh": "让步假设" },
+    { "pattern": "なくちゃ", "roleZh": "不…不行／必须…", "posZh": "口语义务表达" },
+    { "pattern": "どれほどか", "roleZh": "有多么…呢", "posZh": "程度疑问" },
+    { "pattern": "だけじゃなくて", "roleZh": "不仅是…", "posZh": "递进连接" }
+  ],
+  "particleReview": "Only standalone particles receive a function card. When a particle is part of a merged pattern, display the pattern role instead."
+}

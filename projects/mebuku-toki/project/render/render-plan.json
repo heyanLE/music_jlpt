@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 2,
+  "runId": "final-r03-zero-start",
+  "canvas": {
+    "name": "16x9",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  },
+  "candidate": "project/work/final-r03-zero-start/16x9/mebuku-toki--16x9--final-r03-zero-start.mkv",
+  "renderer": "project/render/render_final.py",
+  "rendererSha256": "c67026e0e5833502cad7b9278b0e8faaac12f0dbe042234d9261ad13b1c0e66c",
+  "activeHashes": {
+    "inputManifest": "2907f46573607699991dd3801d0b8e4d7db2db3cb7b8b5f90f471908e40a7a74",
+    "sourceManifest": "9ac54c5e8c96ca9b19dfa32873f2920d6b473e7daed07dce18afbaeefcab1ec5",
+    "frames": "23e9efa719fa5c4c800b16fe9d3775643674c9b4332291f82aa7c4d5716f99e4",
+    "palette": "52a1fa704e94d2b72f464b6e0c6cf25ae53a8695e5399256886cb73bfe23c3cc",
+    "presentation": "eff7938b401949aa91965fb0b2167f7ae94364fbdfbbf10acec2be6882ae85d4",
+    "sceneTimeline": "46a3e2caf455d85da94c6b007f7be63086ba5418e67213d0c415bcaf9a5e3d29",
+    "foregroundTemplate": "a5fa64614553081b74df9b71e504efa794f71f5cab563c2b6eacf6a88b7da317",
+    "overlayTemplate": "94e142f44d067f1a782352065dadbf483c872f2519afc2c734f833b98122f52b"
+  },
+  "threeLayerOrder": [
+    "background",
+    "foreground",
+    "floatingOverlay"
+  ],
+  "background": {
+    "mode": "custom-dual-video-continuation",
+    "firstSegmentSourceStartMs": 5327,
+    "firstSegmentEndMs": 97630,
+    "secondSourceStartMs": 99751,
+    "fit": "height-center-pillarbox",
+    "sourceAudio": "mute"
+  },
+  "alignment": {
+    "globalMusicOffsetMs": 0,
+    "lyricsSourceClockCorrectionMs": -777,
+    "lyricsOutputOffsetMs": -777,
+    "appliesTo": [
+      "music",
+      "lyrics",
+      "spectrum"
+    ],
+    "policy": "Normalize the QQ reference clock to the final-music clock. Music time zero is output time zero; preserve and stream-copy the complete FLAC master without input seeking. The first background source begins at 5.327 s after removing only the old container/output prelude."
+  },
+  "foreground": {
+    "templateId": "study-current-v3",
+    "mode": "follow-lyrics",
+    "highlight": "token"
+  },
+  "floatingOverlay": {
+    "id": "spectrum-foobar-bars",
+    "enabled": true,
+    "persistent": true,
+    "background": "transparent"
+  },
+  "audio": {
+    "inputCodec": "flac",
+    "sampleRateHz": 96000,
+    "bitsPerSample": 24,
+    "outputContainer": "mkv",
+    "codecPolicy": "stream-copy"
+  }
+}

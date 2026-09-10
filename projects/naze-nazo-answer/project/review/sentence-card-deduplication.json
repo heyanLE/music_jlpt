@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "userWording": "同一局里一样的词卡只出现一次",
+  "dedupeRule": "same token, reading, romaji, meaning/function and grammar structure within one frame",
+  "affectedFrames": [
+    {
+      "id": "l001",
+      "removedExactDuplicates": [
+        "なぜ"
+      ]
+    },
+    {
+      "id": "l002",
+      "removedExactDuplicates": [
+        "なぞ"
+      ]
+    },
+    {
+      "id": "l003",
+      "removedExactDuplicates": [
+        "点",
+        "あら"
+      ]
+    },
+    {
+      "id": "l004",
+      "removedExactDuplicates": [
+        "かな"
+      ]
+    },
+    {
+      "id": "l006",
+      "removedExactDuplicates": [
+        "だめ"
+      ]
+    },
+    {
+      "id": "l009",
+      "removedExactDuplicates": [
+        "何とか"
+      ]
+    },
+    {
+      "id": "l010",
+      "removedExactDuplicates": [
+        "なぞ"
+      ]
+    },
+    {
+      "id": "l011",
+      "removedExactDuplicates": [
+        "か"
+      ]
+    },
+    {
+      "id": "l012",
+      "removedExactDuplicates": [
+        "なぜ"
+      ]
+    },
+    {
+      "id": "l015",
+      "removedExactDuplicates": [
+        "ほら"
+      ]
+    },
+    {
+      "id": "l016",
+      "removedExactDuplicates": [
+        "かも"
+      ]
+    },
+    {
+      "id": "l018",
+      "removedExactDuplicates": [
+        "ね"
+      ]
+    },
+    {
+      "id": "l021",
+      "removedExactDuplicates": [
+        "そばで",
+        "そばで"
+      ]
+    },
+    {
+      "id": "l022",
+      "removedExactDuplicates": [
+        "なぞ"
+      ]
+    },
+    {
+      "id": "l024",
+      "removedExactDuplicates": [
+        "なぜ"
+      ]
+    },
+    {
+      "id": "l025",
+      "removedExactDuplicates": [
+        "ミス"
+      ]
+    },
+    {
+      "id": "l030",
+      "removedExactDuplicates": [
+        "1人",
+        "1人"
+      ]
+    },
+    {
+      "id": "l031",
+      "removedExactDuplicates": [
+        "なぞ"
+      ]
+    },
+    {
+      "id": "l032",
+      "removedExactDuplicates": [
+        "か"
+      ]
+    },
+    {
+      "id": "l033",
+      "removedExactDuplicates": [
+        "なぜ"
+      ]
+    },
+    {
+      "id": "l036",
+      "removedExactDuplicates": [
+        "なぜ"
+      ]
+    }
+  ],
+  "framesSha256": "ca3065cf4865ff10706cdd816ba7ce335e1cbe421a0aac513e2fe74553c73b13"
+}

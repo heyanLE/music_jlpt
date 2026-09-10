@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "status": "passed",
+  "candidateSha256": "761ba049a30ec85316f48c46f477b5dfb9871614278bd640e02ab6af36391b8d",
+  "audio": {
+    "pcmSha256": "SHA256=835b3e0a1cc206f4a0098693aea3e988c6f660b04535d53ceb4da9597abb9c1e",
+    "wavFlacCandidateIdentical": true,
+    "flacPacketHash": "SHA256=96971a004d63c14f9a55521a98ef01bdccdd20775df6806feeff669361c73fb2",
+    "packetCopyIdentical": true
+  },
+  "probe": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "start_time": "0.000000",
+        "bits_per_raw_sample": "8",
+        "nb_read_frames": "6210"
+      },
+      {
+        "codec_name": "flac",
+        "codec_type": "audio",
+        "sample_rate": "48000",
+        "channels": 2,
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "start_time": "0.000000",
+        "bits_per_raw_sample": "24",
+        "nb_read_frames": "2157"
+      }
+    ],
+    "format": {
+      "duration": "207.000000"
+    }
+  },
+  "cfrAll6210FramesChecked": true,
+  "backgroundAlignmentChecks": [
+    {
+      "outputSeconds": 10,
+      "backgroundCorrelation": 0.9989321256431223
+    },
+    {
+      "outputSeconds": 40,
+      "backgroundCorrelation": 0.9997874354576299
+    },
+    {
+      "outputSeconds": 80,
+      "backgroundCorrelation": 0.9990415243683839
+    },
+    {
+      "outputSeconds": 140,
+      "backgroundCorrelation": 0.9998389533039646
+    },
+    {
+      "outputSeconds": 185,
+      "backgroundCorrelation": 0.9980365598713159
+    }
+  ],
+  "samples": [
+    {
+      "name": "opening",
+      "timestampMs": 1000,
+      "path": "project/qa/approved-v1/opening.png"
+    },
+    {
+      "name": "song-reading-l018",
+      "timestampMs": 96900,
+      "path": "project/qa/approved-v1/song-reading-l018.png"
+    },
+    {
+      "name": "merged-idiom-l025",
+      "timestampMs": 126500,
+      "path": "project/qa/approved-v1/merged-idiom-l025.png"
+    },
+    {
+      "name": "repeat-loanword-l029",
+      "timestampMs": 141200,
+      "path": "project/qa/approved-v1/repeat-loanword-l029.png"
+    },
+    {
+      "name": "two-line-card-l011",
+      "timestampMs": 55000,
+      "path": "project/qa/approved-v1/two-line-card-l011.png"
+    },
+    {
+      "name": "tail-hold",
+      "timestampMs": 205950,
+      "path": "project/qa/approved-v1/tail-hold.png"
+    },
+    {
+      "name": "tail-clear",
+      "timestampMs": 206500,
+      "path": "project/qa/approved-v1/tail-clear.png"
+    }
+  ],
+  "visualStatus": "All seven extra screenshots inspected. Approved l018 reading, merged l025, repeated loanword, wrapped l011, opening visibility and final tail hold/clear are correct."
+}

@@ -1,0 +1,1552 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "lexical-round2",
+  "baseFrameSha256": "e1211ebdfb696726502e3392894067d0a6d6eebb7c8647b24df28536709f6542",
+  "scope": {
+    "allowedFields": [
+      "grammarCards",
+      "caption.furigana",
+      "caption.romaji"
+    ],
+    "forbiddenFields": [
+      "caption.translationZh"
+    ],
+    "policy": "仅高置信词汇切分、读音、罗马音与外来语复核；不修改整句中文。"
+  },
+  "sources": [
+    {
+      "title": "goo 国語辞書・小学館類語例解辞典",
+      "url": "https://dictionary.goo.ne.jp/"
+    },
+    {
+      "title": "日本語教育用的标准活用与格助词切分",
+      "note": "与当前冻结的 QM/罗马音逐字对照。"
+    }
+  ],
+  "changes": [
+    {
+      "frameId": "l005",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "君",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "grammarStructureZh": "名词",
+          "posZh": "名词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "targeted lexical completion after user approval",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "zhMeaning": "你"
+        },
+        {
+          "token": "と",
+          "reading": "と",
+          "romaji": "to",
+          "grammarStructureZh": "格助词",
+          "posZh": "格助词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "pending assisted review",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "functionZh": "表示共同经历的对象"
+        },
+        {
+          "token": "い",
+          "reading": "い",
+          "romaji": "i",
+          "grammarStructureZh": "动词",
+          "posZh": "动词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "targeted lexical completion after user approval",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "zhMeaning": "在；存在"
+        },
+        {
+          "token": "た",
+          "reading": "た",
+          "romaji": "ta",
+          "grammarStructureZh": "助动词",
+          "posZh": "助动词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "targeted lexical completion after user approval",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "zhMeaning": "过去；完成"
+        },
+        {
+          "token": "時",
+          "reading": "とき",
+          "romaji": "toki",
+          "grammarStructureZh": "名词",
+          "posZh": "名词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "targeted lexical completion after user approval",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "zhMeaning": "时候"
+        },
+        {
+          "token": "は",
+          "reading": "は",
+          "romaji": "ha",
+          "grammarStructureZh": "提示助词",
+          "posZh": "提示助词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "pending assisted review",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "functionZh": "提示主题"
+        },
+        {
+          "token": "見え",
+          "reading": "みえ",
+          "romaji": "mie",
+          "grammarStructureZh": "动词",
+          "posZh": "动词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "targeted lexical completion after user approval",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "zhMeaning": "能看见；显得"
+        },
+        {
+          "token": "た",
+          "reading": "た",
+          "romaji": "ta",
+          "grammarStructureZh": "助动词",
+          "posZh": "助动词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "targeted lexical completion after user approval",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "zhMeaning": "过去；完成"
+        }
+      ],
+      "new": [
+        {
+          "token": "君",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "grammarStructureZh": "名词",
+          "posZh": "名词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "你"
+        },
+        {
+          "token": "と",
+          "reading": "と",
+          "romaji": "to",
+          "grammarStructureZh": "格助词",
+          "posZh": "格助词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "functionZh": "表示共同的对象"
+        },
+        {
+          "token": "いた",
+          "reading": "いた",
+          "romaji": "ita",
+          "grammarStructureZh": "动词过去式",
+          "posZh": "动词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "在；存在（过去式）"
+        },
+        {
+          "token": "時",
+          "reading": "とき",
+          "romaji": "toki",
+          "grammarStructureZh": "名词",
+          "posZh": "名词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "时候"
+        },
+        {
+          "token": "は",
+          "reading": "は",
+          "romaji": "wa",
+          "grammarStructureZh": "提示助词",
+          "posZh": "提示助词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "functionZh": "提示主题"
+        },
+        {
+          "token": "見えた",
+          "reading": "みえた",
+          "romaji": "mieta",
+          "grammarStructureZh": "动词过去式",
+          "posZh": "动词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "看得见；显现（过去式）"
+        }
+      ],
+      "confidence": 0.99,
+      "evidence": [
+        "国語辞書的活用切分与歌唱读音复核",
+        "いる→いた、見える→見えた均为可唯一确定的过去式；避免将两个词干与た拆成孤立词卡。"
+      ],
+      "changesTokenStructure": true,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l005",
+      "field": "caption.romaji",
+      "old": "kimi to i ta toki ha mie ta",
+      "new": "kimi to ita toki wa mieta",
+      "confidence": 0.99,
+      "evidence": [
+        "词形合并后按读音重写罗马音",
+        "助词は按实际读音写作 wa。"
+      ],
+      "changesTokenStructure": false,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l012",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "ちゃんと",
+          "reading": "ちゃんと",
+          "romaji": "chanto",
+          "grammarStructureZh": "副词",
+          "posZh": "副词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "targeted lexical completion after user approval",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "zhMeaning": "好好地；确实地"
+        },
+        {
+          "token": "寂しく",
+          "reading": "さびしく",
+          "romaji": "sabishiku",
+          "grammarStructureZh": "形容词",
+          "posZh": "形容词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "targeted lexical completion after user approval",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "zhMeaning": "寂寞地"
+        },
+        {
+          "token": "なれ",
+          "reading": "なれ",
+          "romaji": "nare",
+          "grammarStructureZh": "动词",
+          "posZh": "动词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "targeted lexical completion after user approval",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "zhMeaning": "变得；能够成为"
+        },
+        {
+          "token": "た",
+          "reading": "た",
+          "romaji": "ta",
+          "grammarStructureZh": "助动词",
+          "posZh": "助动词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "targeted lexical completion after user approval",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "zhMeaning": "过去；完成"
+        },
+        {
+          "token": "から",
+          "reading": "から",
+          "romaji": "kara",
+          "grammarStructureZh": "接续助词",
+          "posZh": "格助词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "pending assisted review",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "functionZh": "表示原因、理由：因为…"
+        }
+      ],
+      "new": [
+        {
+          "token": "ちゃんと",
+          "reading": "ちゃんと",
+          "romaji": "chanto",
+          "grammarStructureZh": "副词",
+          "posZh": "副词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "好好地；确实地"
+        },
+        {
+          "token": "寂しく",
+          "reading": "さびしく",
+          "romaji": "sabishiku",
+          "grammarStructureZh": "形容词连用形",
+          "posZh": "形容词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "寂寞地"
+        },
+        {
+          "token": "なれた",
+          "reading": "なれた",
+          "romaji": "nareta",
+          "grammarStructureZh": "动词过去式",
+          "posZh": "动词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "变得；能够成为（过去式）"
+        },
+        {
+          "token": "から",
+          "reading": "から",
+          "romaji": "kara",
+          "grammarStructureZh": "接续助词",
+          "posZh": "接续助词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "functionZh": "表示原因、理由"
+        }
+      ],
+      "confidence": 0.99,
+      "evidence": [
+        "国語辞書的活用切分与歌唱读音复核",
+        "なれる的过去式なれた不可拆成なれ＋た作为两张独立词汇卡。"
+      ],
+      "changesTokenStructure": true,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l012",
+      "field": "caption.romaji",
+      "old": "chanto sabishiku nare ta kara",
+      "new": "chanto sabishiku nareta kara",
+      "confidence": 0.99,
+      "evidence": [
+        "词形合并后按读音重写罗马音",
+        "なれた合写。"
+      ],
+      "changesTokenStructure": false,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l021",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "理想で",
+          "reading": "りそうで",
+          "romaji": "risou de",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "以理想"
+        },
+        {
+          "token": "作った",
+          "reading": "つくった",
+          "romaji": "tsukutta",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "制作；构筑"
+        },
+        {
+          "token": "道を",
+          "reading": "みちを",
+          "romaji": "michi wo",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "道路；人生道路"
+        }
+      ],
+      "new": [
+        {
+          "token": "理想",
+          "reading": "りそう",
+          "romaji": "risou",
+          "grammarStructureZh": "名词",
+          "posZh": "名词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "理想"
+        },
+        {
+          "token": "で",
+          "reading": "で",
+          "romaji": "de",
+          "grammarStructureZh": "格助词",
+          "posZh": "格助词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "functionZh": "表示方式、手段"
+        },
+        {
+          "token": "作った",
+          "reading": "つくった",
+          "romaji": "tsukutta",
+          "grammarStructureZh": "动词过去式",
+          "posZh": "动词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "制作；构筑（过去式）"
+        },
+        {
+          "token": "道",
+          "reading": "みち",
+          "romaji": "michi",
+          "grammarStructureZh": "名词",
+          "posZh": "名词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "道路；人生道路"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "wo",
+          "grammarStructureZh": "格助词",
+          "posZh": "格助词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "functionZh": "标记动作对象"
+        }
+      ],
+      "confidence": 0.99,
+      "evidence": [
+        "国語辞書的活用切分与歌唱读音复核",
+        "理想で、道を均为名词＋格助词，需保留助词的独立学习卡。"
+      ],
+      "changesTokenStructure": true,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l034",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "終わら",
+          "reading": "おわら",
+          "romaji": "owara",
+          "grammarStructureZh": "动词",
+          "posZh": "动词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "targeted lexical completion after user approval",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "zhMeaning": "结束"
+        },
+        {
+          "token": "ない",
+          "reading": "ない",
+          "romaji": "nai",
+          "grammarStructureZh": "助动词",
+          "posZh": "助动词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "targeted lexical completion after user approval",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "zhMeaning": "不；没有"
+        },
+        {
+          "token": "暗闇",
+          "reading": "くらやみ",
+          "romaji": "kurayami",
+          "grammarStructureZh": "名词",
+          "posZh": "名词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "targeted lexical completion after user approval",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "zhMeaning": "黑暗"
+        },
+        {
+          "token": "に",
+          "reading": "に",
+          "romaji": "ni",
+          "grammarStructureZh": "格助词",
+          "posZh": "格助词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "pending assisted review",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "functionZh": "提示对象／到达点"
+        },
+        {
+          "token": "も",
+          "reading": "も",
+          "romaji": "mo",
+          "grammarStructureZh": "副助词",
+          "posZh": "副助词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "pending assisted review",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "functionZh": "与に构成にも，表示“即使在…中也”"
+        }
+      ],
+      "new": [
+        {
+          "token": "終わらない",
+          "reading": "おわらない",
+          "romaji": "owaranai",
+          "grammarStructureZh": "动词否定形",
+          "posZh": "动词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "不会结束；无尽的"
+        },
+        {
+          "token": "暗闇",
+          "reading": "くらやみ",
+          "romaji": "kurayami",
+          "grammarStructureZh": "名词",
+          "posZh": "名词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "黑暗"
+        },
+        {
+          "token": "に",
+          "reading": "に",
+          "romaji": "ni",
+          "grammarStructureZh": "格助词",
+          "posZh": "格助词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "functionZh": "提示对象、处所"
+        },
+        {
+          "token": "も",
+          "reading": "も",
+          "romaji": "mo",
+          "grammarStructureZh": "副助词",
+          "posZh": "副助词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "functionZh": "表示追加或让步"
+        }
+      ],
+      "confidence": 0.99,
+      "evidence": [
+        "国語辞書的活用切分与歌唱读音复核",
+        "終わる的未然形＋ない构成一个否定活用，不能将终わら作为孤立动词词卡。"
+      ],
+      "changesTokenStructure": true,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l034",
+      "field": "caption.romaji",
+      "old": "owara nai kurayami ni mo",
+      "new": "owaranai kurayami ni mo",
+      "confidence": 0.99,
+      "evidence": [
+        "词形合并后按读音重写罗马音",
+        "否定形合写。"
+      ],
+      "changesTokenStructure": false,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l035",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "星",
+          "reading": "ほし",
+          "romaji": "hoshi",
+          "grammarStructureZh": "名词",
+          "posZh": "名词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "targeted lexical completion after user approval",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "zhMeaning": "星星"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "wo",
+          "grammarStructureZh": "格助词",
+          "posZh": "格助词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "pending assisted review",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "functionZh": "标记动作对象"
+        },
+        {
+          "token": "思い浮かべ",
+          "reading": "おもいうかべ",
+          "romaji": "omoiukabe",
+          "grammarStructureZh": "动词",
+          "posZh": "动词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "targeted lexical completion after user approval",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "zhMeaning": "想起；浮现于脑海"
+        },
+        {
+          "token": "た",
+          "reading": "た",
+          "romaji": "ta",
+          "grammarStructureZh": "条件表达",
+          "posZh": "助动词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "pending assisted review",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "functionZh": "表示假定：如果浮现出星星…"
+        },
+        {
+          "token": "なら",
+          "reading": "なら",
+          "romaji": "nara",
+          "grammarStructureZh": "助动词",
+          "posZh": "助动词",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "janome-ipadic draft",
+            "reading": "janome-ipadic draft",
+            "romaji": "pykakasi draft",
+            "meaningOrFunction": "targeted lexical completion after user approval",
+            "grammarStructureZh": "janome-ipadic draft"
+          },
+          "zhMeaning": "如果是；既然"
+        }
+      ],
+      "new": [
+        {
+          "token": "星",
+          "reading": "ほし",
+          "romaji": "hoshi",
+          "grammarStructureZh": "名词",
+          "posZh": "名词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "星星"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "wo",
+          "grammarStructureZh": "格助词",
+          "posZh": "格助词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "functionZh": "标记动作对象"
+        },
+        {
+          "token": "思い浮かべた",
+          "reading": "おもいうかべた",
+          "romaji": "omoiukabeta",
+          "grammarStructureZh": "动词过去式",
+          "posZh": "动词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "在脑海中浮现；想起（过去式）"
+        },
+        {
+          "token": "なら",
+          "reading": "なら",
+          "romaji": "nara",
+          "grammarStructureZh": "条件表达",
+          "posZh": "助动词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "functionZh": "表示假定条件：如果…"
+        }
+      ],
+      "confidence": 0.99,
+      "evidence": [
+        "国語辞書的活用切分与歌唱读音复核",
+        "思い浮かべる是固定复合动词；思い浮かべた必须作为完整过去式呈现。"
+      ],
+      "changesTokenStructure": true,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l035",
+      "field": "caption.romaji",
+      "old": "hoshi wo omoiukabe ta nara",
+      "new": "hoshi wo omoiukabeta nara",
+      "confidence": 0.99,
+      "evidence": [
+        "词形合并后按读音重写罗马音",
+        "复合动词过去式合写。"
+      ],
+      "changesTokenStructure": false,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l041",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "伝えたかった",
+          "reading": "つたえたかった",
+          "romaji": "tsutaetakatta",
+          "grammarStructureZh": "愿望表达过去式",
+          "posZh": "待语法审阅",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "想传达"
+        },
+        {
+          "token": "事が",
+          "reading": "ことが",
+          "romaji": "koto ga",
+          "grammarStructureZh": "形式名词",
+          "posZh": "待语法审阅",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "functionZh": "将“想传达”这一内容名词化"
+        }
+      ],
+      "new": [
+        {
+          "token": "伝えたかった",
+          "reading": "つたえたかった",
+          "romaji": "tsutaetakatta",
+          "grammarStructureZh": "愿望表达过去式",
+          "posZh": "动词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "曾想传达"
+        },
+        {
+          "token": "事",
+          "reading": "こと",
+          "romaji": "koto",
+          "grammarStructureZh": "形式名词",
+          "posZh": "名词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "事情；内容"
+        },
+        {
+          "token": "が",
+          "reading": "が",
+          "romaji": "ga",
+          "grammarStructureZh": "格助词",
+          "posZh": "格助词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "functionZh": "标记主语"
+        }
+      ],
+      "confidence": 0.99,
+      "evidence": [
+        "国語辞書的活用切分与歌唱读音复核",
+        "事が为形式名词＋主格助词，合并会掩盖が的功能。"
+      ],
+      "changesTokenStructure": true,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l045",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "お別れ",
+          "reading": "おわかれ",
+          "romaji": "owakare",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "分别"
+        },
+        {
+          "token": "した",
+          "reading": "した",
+          "romaji": "shita",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "做了；进行了"
+        },
+        {
+          "token": "事は",
+          "reading": "ことは",
+          "romaji": "koto wa",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "事情（作主题）"
+        }
+      ],
+      "new": [
+        {
+          "token": "お別れ",
+          "reading": "おわかれ",
+          "romaji": "owakare",
+          "grammarStructureZh": "名词",
+          "posZh": "名词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "分别"
+        },
+        {
+          "token": "した",
+          "reading": "した",
+          "romaji": "shita",
+          "grammarStructureZh": "动词过去式",
+          "posZh": "动词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "做；进行（过去式）"
+        },
+        {
+          "token": "事",
+          "reading": "こと",
+          "romaji": "koto",
+          "grammarStructureZh": "形式名词",
+          "posZh": "名词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "事情；这一事实"
+        },
+        {
+          "token": "は",
+          "reading": "は",
+          "romaji": "wa",
+          "grammarStructureZh": "提示助词",
+          "posZh": "提示助词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "functionZh": "提示主题"
+        }
+      ],
+      "confidence": 0.99,
+      "evidence": [
+        "国語辞書的活用切分与歌唱读音复核",
+        "事は为形式名词＋提示助词，应保留独立助词卡。"
+      ],
+      "changesTokenStructure": true,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l045",
+      "field": "caption.romaji",
+      "old": "owakare shita koto wa",
+      "new": "owakare shita koto wa",
+      "confidence": 0.99,
+      "evidence": [
+        "词形合并后按读音重写罗马音",
+        "助词は按实际读音写作 wa。"
+      ],
+      "changesTokenStructure": false,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l046",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "出会った事と",
+          "reading": "であったことと",
+          "romaji": "deatta koto to",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "functionZh": "表示“与…相连”的对象"
+        },
+        {
+          "token": "繋がっている",
+          "reading": "つながっている",
+          "romaji": "tsunagatte iru",
+          "grammarStructureZh": "补助动词",
+          "posZh": "待语法审阅",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "functionZh": "表示相连的状态持续"
+        }
+      ],
+      "new": [
+        {
+          "token": "出会った",
+          "reading": "であった",
+          "romaji": "deatta",
+          "grammarStructureZh": "动词过去式",
+          "posZh": "动词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "相遇（过去式）"
+        },
+        {
+          "token": "事",
+          "reading": "こと",
+          "romaji": "koto",
+          "grammarStructureZh": "形式名词",
+          "posZh": "名词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "事情；这一事实"
+        },
+        {
+          "token": "と",
+          "reading": "と",
+          "romaji": "to",
+          "grammarStructureZh": "格助词",
+          "posZh": "格助词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "functionZh": "表示共同或连接对象"
+        },
+        {
+          "token": "繋がっている",
+          "reading": "つながっている",
+          "romaji": "tsunagatte iru",
+          "grammarStructureZh": "动词持续状态",
+          "posZh": "动词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "正相连着；持续相连"
+        }
+      ],
+      "confidence": 0.99,
+      "evidence": [
+        "国語辞書的活用切分与歌唱读音复核",
+        "出会った事と由过去式、形式名词、格助词组成，不宜压成单一词卡。"
+      ],
+      "changesTokenStructure": true,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l048",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "透明だから",
+          "reading": "とうめいだから",
+          "romaji": "toumei da kara",
+          "grammarStructureZh": "接续助词",
+          "posZh": "待语法审阅",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "functionZh": "与だ构成原因：因为…"
+        },
+        {
+          "token": "無くならない",
+          "reading": "なくならない",
+          "romaji": "nakunaranai",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "不会消失"
+        }
+      ],
+      "new": [
+        {
+          "token": "透明",
+          "reading": "とうめい",
+          "romaji": "toumei",
+          "grammarStructureZh": "名词／形容动词词干",
+          "posZh": "名词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "透明"
+        },
+        {
+          "token": "だから",
+          "reading": "だから",
+          "romaji": "dakara",
+          "grammarStructureZh": "接续助词",
+          "posZh": "接续助词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "functionZh": "表示原因：因为…"
+        },
+        {
+          "token": "無くならない",
+          "reading": "なくならない",
+          "romaji": "nakunaranai",
+          "grammarStructureZh": "动词否定形",
+          "posZh": "动词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "不会消失"
+        }
+      ],
+      "confidence": 0.99,
+      "evidence": [
+        "国語辞書的活用切分与歌唱读音复核",
+        "透明だから为名词性谓语＋だから，拆分后可正确展示原因表达。"
+      ],
+      "changesTokenStructure": true,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l057",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "大丈夫だ",
+          "reading": "だいじょうぶだ",
+          "romaji": "daijoubu da",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "没关系；没问题"
+        },
+        {
+          "token": "この",
+          "reading": "この",
+          "romaji": "kono",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "zhMeaning": "这个"
+        },
+        {
+          "token": "光の始まりには",
+          "reading": "ひかりのはじまりには",
+          "romaji": "hikari no hajimari ni wa",
+          "grammarStructureZh": "词汇",
+          "posZh": "词汇",
+          "status": "assisted-accepted",
+          "fieldProvenance": {
+            "token": "lexical v2 proposal",
+            "reading": "lexical v2 proposal",
+            "romaji": "lexical v2 proposal",
+            "grammarStructureZh": "lexical v2 proposal"
+          },
+          "functionZh": "与に构成には，提示时间、场合为主题"
+        }
+      ],
+      "new": [
+        {
+          "token": "大丈夫だ",
+          "reading": "だいじょうぶだ",
+          "romaji": "daijoubu da",
+          "grammarStructureZh": "名词性谓语",
+          "posZh": "名词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "没关系；没问题"
+        },
+        {
+          "token": "この",
+          "reading": "この",
+          "romaji": "kono",
+          "grammarStructureZh": "连体词",
+          "posZh": "连体词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "这个"
+        },
+        {
+          "token": "光",
+          "reading": "ひかり",
+          "romaji": "hikari",
+          "grammarStructureZh": "名词",
+          "posZh": "名词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "光芒"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "grammarStructureZh": "格助词",
+          "posZh": "格助词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "functionZh": "表示所属或修饰"
+        },
+        {
+          "token": "始まり",
+          "reading": "はじまり",
+          "romaji": "hajimari",
+          "grammarStructureZh": "名词",
+          "posZh": "名词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "zhMeaning": "开始；起点"
+        },
+        {
+          "token": "に",
+          "reading": "に",
+          "romaji": "ni",
+          "grammarStructureZh": "格助词",
+          "posZh": "格助词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "functionZh": "提示时间或场合"
+        },
+        {
+          "token": "は",
+          "reading": "は",
+          "romaji": "wa",
+          "grammarStructureZh": "提示助词",
+          "posZh": "提示助词",
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "token": "lexical round2 proposal",
+            "reading": "lexical round2 proposal",
+            "romaji": "lexical round2 proposal",
+            "grammarStructureZh": "lexical round2 proposal"
+          },
+          "functionZh": "提示主题"
+        }
+      ],
+      "confidence": 0.99,
+      "evidence": [
+        "国語辞書的活用切分与歌唱读音复核",
+        "光の始まりには是名词短语＋助词，需拆分为可学习的词和助词卡。"
+      ],
+      "changesTokenStructure": true,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    },
+    {
+      "frameId": "l057",
+      "field": "caption.romaji",
+      "old": "daijoubu da kono hikari no hajimari ni wa",
+      "new": "daijoubu da kono hikari no hajimari ni wa",
+      "confidence": 0.99,
+      "evidence": [
+        "词形合并后按读音重写罗马音",
+        "助词は按实际读音写作 wa。"
+      ],
+      "changesTokenStructure": false,
+      "doesNotModify": [
+        "caption.translationZh"
+      ]
+    }
+  ],
+  "summary": {
+    "highConfidenceChanges": 16,
+    "grammarCardRevisions": 10,
+    "captionRomajiRevisions": 6,
+    "captionFuriganaRevisions": 0,
+    "loanwordRevisions": 0,
+    "notes": [
+      "メロディー→melody 的外来语注释已存在，未重复提案。",
+      "没有发现可由当前词面唯一确定、需要新增或修正的汉字振假名。"
+    ]
+  }
+}

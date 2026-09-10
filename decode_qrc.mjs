@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+import lyric from './tmp-qrc/node_modules/smart-lyric/dist/index.js';
+const {qrc} = lyric;
+const source='C:/Users/eke_l/AppData/Roaming/Tencent/QQMusic/QQMusicCache/QQMusicLyricNew/遠野ひかる - LOVE 2000 - 263 - LOVE 2000_qm.qrc';
+const output='C:/project/musicjlpt/output/love2000.qrc.xml';
+const raw=qrc.decrypt(fs.readFileSync(source));
+fs.writeFileSync(output,raw,'utf8');
+const parsed=qrc.parse(raw);
+fs.writeFileSync('C:/project/musicjlpt/output/love2000.qrc.parsed.json',JSON.stringify(parsed,null,2),'utf8');
+console.log(JSON.stringify({rawChars:raw.length,preview:raw.slice(0,500),parsedType:typeof parsed},null,2));

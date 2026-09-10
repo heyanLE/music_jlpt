@@ -1,0 +1,56 @@
+# Local runtimes and disposable workspace scratch (never remove original files).
+/.tools/
+/.tmp*/
+/.failed-freezes/
+/npmshim/
+/output/
+/work/
+/tmp-*/
+/qa-*/
+/project-skill-script-smoke/
+/skill-updates/
+**/__pycache__/
+**/*.pyc
+**/node_modules/
+**/python-site/
+**/.venv/
+.env
+.env.*
+!.env.example
+*.local.json
+*.key
+*.pem
+**/credentials.json
+**/auth.json
+
+# Work folders contain useful bespoke scripts/review evidence: retain text,
+# but not generated frames, render candidates or installed binaries.
+projects/**/project/work/**/*
+!projects/**/project/work/**/
+!projects/**/project/work/**/*.py
+!projects/**/project/work/**/*.mjs
+!projects/**/project/work/**/*.js
+!projects/**/project/work/**/*.ps1
+!projects/**/project/work/**/*.json
+!projects/**/project/work/**/*.md
+!projects/**/project/work/**/*.txt
+!projects/**/project/work/**/*.csv
+projects/**/project/work/**/node_modules/
+projects/**/project/work/**/python-site/
+projects/**/project/work/**/__pycache__/
+projects/**/project/work/*-deps/
+projects/**/project/work/**/site-packages/
+projects/**/project/work/**/Lib/
+projects/**/project/work/**/lib/
+projects/**/project/work/**/Scripts/
+projects/**/project/work/**/vendor/
+projects/**/project/work/**/ffmpeg-progress.txt
+projects/**/project/work/**/*.concat.txt
+
+# Large reproducible preview batches; keep QA reports and representative images.
+projects/**/qa/**/*frames*/
+projects/**/qa/**/foreground/
+projects/**/qa/**/state-*.png
+
+# Machine transfer reports are private local evidence, not project authority.
+/transfer/*.local.json

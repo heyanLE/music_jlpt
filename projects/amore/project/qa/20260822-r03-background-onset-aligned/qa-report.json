@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "runId": "20260822-r03-background-onset-aligned",
+  "result": "pass",
+  "candidate": "project/work/20260822-r03-background-onset-aligned/amore--16x9--20260822-r03-background-onset-aligned.mkv",
+  "alignment": {
+    "backgroundSilenceDetected": { "startSeconds": 0, "endSeconds": 3.183208, "thresholdDb": -45, "minimumDurationSeconds": 0.2 },
+    "appliedOffsetMs": 3183,
+    "firstFinalAudioPacketPtsSeconds": 3.183,
+    "firstQrcLyricStartMs": 691,
+    "firstDisplayedLyricStartMs": 3874
+  },
+  "checks": {
+    "projectValidation": "pass",
+    "qrcTiming": { "full": 67, "unmatched": 0 },
+    "video": { "codec": "h264", "width": 1920, "height": 1080, "fps": "30/1", "cfr": true, "durationSeconds": 279.166 },
+    "audio": { "codec": "flac", "copiedWithoutReencoding": true, "sampleRateHz": 44100, "channels": 2, "bitsPerRawSample": 16, "startTimestampSeconds": 3.183 },
+    "foreground": "all QRC-driven lyrics, annotations, translation, cards and token highlights shifted 3183 ms",
+    "spectrum": "same 3183 ms audio-clock shift; quiet baseline before FLAC begins"
+  },
+  "screenshots": [
+    { "timeSeconds": 1, "file": "opening-silent.png", "purpose": "opening background, no lyrics/cards, quiet spectrum baseline" },
+    { "timeSeconds": 3.5, "file": "before-first-lyric.png", "purpose": "FLAC has begun but first lyric remains correctly delayed" },
+    { "timeSeconds": 4.1, "file": "first-lyric-shifted.png", "purpose": "first QRC lyric and cards at shifted timing" }
+  ]
+}

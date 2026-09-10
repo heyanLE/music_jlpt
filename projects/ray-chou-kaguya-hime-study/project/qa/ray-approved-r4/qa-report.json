@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 2,
+  "result": "passed",
+  "candidate": "project/work/ray-approved-r4-final/16x9/ray-chou-kaguya-hime-study--16x9--ray-approved-r4-final.mkv",
+  "candidateSha256": "da5730ef3df7f68ae567122b5bfd9aea6bbafd5d2eeb6068c75035ec82503137",
+  "renderReport": null,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "pix_fmt": "yuv420p",
+        "r_frame_rate": "30/1",
+        "bits_per_raw_sample": "8"
+      },
+      {
+        "codec_name": "flac",
+        "codec_type": "audio",
+        "sample_rate": "48000",
+        "r_frame_rate": "0/0",
+        "bits_per_raw_sample": "24"
+      }
+    ],
+    "format": {
+      "duration": "321.194000"
+    }
+  },
+  "screenshots": [
+    {
+      "name": "first-lyric",
+      "timestampMs": 7400,
+      "path": "project/qa/ray-approved-r4/first-lyric.png"
+    },
+    {
+      "name": "last-lyric",
+      "timestampMs": 247071,
+      "path": "project/qa/ray-approved-r4/last-lyric.png"
+    },
+    {
+      "name": "maximum-cards",
+      "timestampMs": 101847,
+      "path": "project/qa/ray-approved-r4/maximum-cards.png"
+    },
+    {
+      "name": "loanword",
+      "timestampMs": 54386,
+      "path": "project/qa/ray-approved-r4/loanword.png"
+    },
+    {
+      "name": "transition-stage2-cover-gaussian",
+      "timestampMs": 149702,
+      "path": "project/qa/ray-approved-r4/transition-stage2-cover-gaussian.png"
+    },
+    {
+      "name": "cover-visible-before-override",
+      "timestampMs": 71900,
+      "path": "project/qa/ray-approved-r4/special-071900.png"
+    },
+    {
+      "name": "cover-hidden-after-override-start",
+      "timestampMs": 72100,
+      "path": "project/qa/ray-approved-r4/special-072100.png"
+    },
+    {
+      "name": "cover-hidden-before-override-end",
+      "timestampMs": 75900,
+      "path": "project/qa/ray-approved-r4/special-075900.png"
+    },
+    {
+      "name": "cover-visible-after-override",
+      "timestampMs": 76100,
+      "path": "project/qa/ray-approved-r4/special-076100.png"
+    }
+  ],
+  "requiredVisualChecks": [
+    "three-layer order",
+    "background fit and transitions",
+    "foreground gap mode",
+    "annotation anchors",
+    "English timing",
+    "one-row cards and two-line meaning",
+    "transparent persistent spectrum",
+    "final line"
+  ],
+  "visualFindings": [
+    "At 71.900 s the normal top-centre foreground cover is visible.",
+    "At 72.100 s and 75.900 s only the top-centre foreground cover is hidden; lyrics, annotations, romaji, Chinese translation, cards, highlighting, veil, background, and spectrum remain present.",
+    "At 76.100 s the normal top-centre foreground cover is visible again.",
+    "First and last lyric, maximum-card, loanword-selection, and Gaussian-transition samples preserve the approved foreground geometry and three-layer order.",
+    "Video is 1920x1080 CFR 30 fps; the continuous audio stream is 48 kHz 24-bit FLAC and decodes without errors."
+  ]
+}

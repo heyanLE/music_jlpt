@@ -1,0 +1,2331 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "integration",
+  "status": "completed",
+  "baseFrameSha256": "e661777b0d81f1d153833da14a440e1fd566f9ebf13bf75192a24a67200826f8",
+  "sourceProposals": [
+    "project/proposals/grammar.json",
+    "project/proposals/translation.json",
+    "project/proposals/lexical.json"
+  ],
+  "oldValuesVerified": 421,
+  "conflicts": [
+    {
+      "frameId": "l009",
+      "token": "こんなに",
+      "sourceCardIndices": [
+        0,
+        1
+      ],
+      "resolution": "Use explicit coordinated whole-token semantics, never concatenate meanings of fragments."
+    },
+    {
+      "frameId": "l009",
+      "token": "こんなに",
+      "sourceCardIndices": [
+        2,
+        3
+      ],
+      "resolution": "Use explicit coordinated whole-token semantics, never concatenate meanings of fragments."
+    },
+    {
+      "frameId": "l010",
+      "token": "のに",
+      "sourceCardIndices": [
+        5,
+        6
+      ],
+      "resolution": "Use explicit coordinated whole-token semantics, never concatenate meanings of fragments."
+    },
+    {
+      "frameId": "l014",
+      "token": "みたいな",
+      "sourceCardIndices": [
+        1,
+        2
+      ],
+      "resolution": "Use explicit coordinated whole-token semantics, never concatenate meanings of fragments."
+    },
+    {
+      "frameId": "l043",
+      "token": "みたいな",
+      "sourceCardIndices": [
+        1,
+        2
+      ],
+      "resolution": "Use explicit coordinated whole-token semantics, never concatenate meanings of fragments."
+    },
+    {
+      "frameId": "l021",
+      "token": "なんとなく",
+      "sourceCardIndices": [
+        0,
+        1,
+        2
+      ],
+      "resolution": "Use explicit coordinated whole-token semantics, never concatenate meanings of fragments."
+    },
+    {
+      "frameId": "l021",
+      "token": "なんだ",
+      "sourceCardIndices": [
+        3,
+        4
+      ],
+      "resolution": "Use explicit coordinated whole-token semantics, never concatenate meanings of fragments."
+    },
+    {
+      "frameId": "l023",
+      "token": "300mm",
+      "sourceCardIndices": [],
+      "resolution": "Use explicit coordinated whole-token semantics, never concatenate meanings of fragments."
+    },
+    {
+      "frameId": "l024",
+      "token": "にとっちゃ",
+      "sourceCardIndices": [
+        1,
+        2,
+        3
+      ],
+      "resolution": "Use explicit coordinated whole-token semantics, never concatenate meanings of fragments."
+    },
+    {
+      "frameId": "l026",
+      "token": "なんにも",
+      "sourceCardIndices": [
+        0,
+        1
+      ],
+      "resolution": "Use explicit coordinated whole-token semantics, never concatenate meanings of fragments."
+    },
+    {
+      "frameId": "l027",
+      "token": "だけど",
+      "sourceCardIndices": [
+        0,
+        1
+      ],
+      "resolution": "Use explicit coordinated whole-token semantics, never concatenate meanings of fragments."
+    },
+    {
+      "frameId": "l029",
+      "token": "何か",
+      "sourceCardIndices": [
+        0,
+        1
+      ],
+      "resolution": "Use explicit coordinated whole-token semantics, never concatenate meanings of fragments."
+    },
+    {
+      "frameId": "l029",
+      "token": "ような",
+      "sourceCardIndices": [
+        5,
+        6
+      ],
+      "resolution": "Use explicit coordinated whole-token semantics, never concatenate meanings of fragments."
+    },
+    {
+      "frameId": "l030",
+      "token": "そんなに",
+      "sourceCardIndices": [
+        2,
+        3
+      ],
+      "resolution": "Use explicit coordinated whole-token semantics, never concatenate meanings of fragments."
+    },
+    {
+      "frameId": "l032",
+      "token": "色濃く",
+      "sourceCardIndices": [
+        1,
+        2
+      ],
+      "resolution": "Use explicit coordinated whole-token semantics, never concatenate meanings of fragments."
+    },
+    {
+      "frameId": "l033",
+      "token": "なんで",
+      "sourceCardIndices": [
+        0,
+        1
+      ],
+      "resolution": "Use explicit coordinated whole-token semantics, never concatenate meanings of fragments."
+    },
+    {
+      "frameId": "l039",
+      "token": "幾億年",
+      "sourceCardIndices": [
+        2,
+        3,
+        4
+      ],
+      "resolution": "Use explicit coordinated whole-token semantics, never concatenate meanings of fragments."
+    },
+    {
+      "frameId": "l041",
+      "token": "聴け",
+      "sourceCardIndices": [
+        1
+      ],
+      "resolution": "Use explicit coordinated whole-token semantics, never concatenate meanings of fragments."
+    },
+    {
+      "frameId": "l041",
+      "token": "よ",
+      "sourceCardIndices": [
+        1
+      ],
+      "resolution": "Use explicit coordinated whole-token semantics, never concatenate meanings of fragments."
+    },
+    {
+      "frameId": "l045",
+      "token": "なんか",
+      "sourceCardIndices": [
+        0,
+        1
+      ],
+      "resolution": "Use explicit coordinated whole-token semantics, never concatenate meanings of fragments."
+    },
+    {
+      "frameId": "l029",
+      "token": "何か",
+      "old": "某种东西；某种变化",
+      "new": "某种东西",
+      "resolution": "Translation-role second-pass review: keep token meaning concise and exclude the following predicate."
+    },
+    {
+      "frameId": "l021",
+      "token": "なんとなく",
+      "old": "不为什么；只是随意地",
+      "new": "漫不经心",
+      "resolution": "Translation-role second-pass review: keep token meaning concise and exclude the following predicate."
+    }
+  ],
+  "unresolved": [
+    {
+      "frameId": "l023",
+      "token": "300mm",
+      "issue": "Unit reading さんびゃくみり needs listening confirmation; QQ romanization retains literal mm."
+    }
+  ],
+  "recommendedChanges": [
+    {
+      "role": "grammar",
+      "frameId": "l001",
+      "field": "grammarCards.1.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l001",
+      "field": "grammarCards.7.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l001",
+      "field": "grammarCards.5.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l001",
+      "field": "grammarCards.7.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l002",
+      "field": "grammarCards.3.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l002",
+      "field": "grammarCards.4.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l002",
+      "field": "grammarCards.1.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l002",
+      "field": "grammarCards.3.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l003",
+      "field": "grammarCards.1.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l003",
+      "field": "grammarCards.3.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l003",
+      "field": "grammarCards.5.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l004",
+      "field": "grammarCards.1.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l004",
+      "field": "grammarCards.3.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l004",
+      "field": "grammarCards.4.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l004",
+      "field": "grammarCards.3.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l005",
+      "field": "grammarCards.1.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l005",
+      "field": "grammarCards.4.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l005",
+      "field": "grammarCards.5.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l005",
+      "field": "grammarCards.1.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l005",
+      "field": "grammarCards.5.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l005",
+      "field": "grammarCards.6.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l006",
+      "field": "grammarCards.2.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l006",
+      "field": "grammarCards.1.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l006",
+      "field": "grammarCards.4.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l007",
+      "field": "grammarCards.3.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l007",
+      "field": "grammarCards.1.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l008",
+      "field": "grammarCards.4.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l008",
+      "field": "grammarCards.1.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l008",
+      "field": "grammarCards.3.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l009",
+      "field": "grammarCards.0.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l009",
+      "field": "grammarCards.1.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l009",
+      "field": "grammarCards.2.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l009",
+      "field": "grammarCards.3.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l010",
+      "field": "grammarCards.4.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l010",
+      "field": "grammarCards.5.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l010",
+      "field": "grammarCards.6.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l010",
+      "field": "grammarCards.1.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l010",
+      "field": "grammarCards.3.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l010",
+      "field": "grammarCards.5.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l010",
+      "field": "grammarCards.6.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l011",
+      "field": "grammarCards.0.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l011",
+      "field": "grammarCards.1.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l011",
+      "field": "grammarCards.7.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l011",
+      "field": "grammarCards.2.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l011",
+      "field": "grammarCards.4.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l011",
+      "field": "grammarCards.6.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l012",
+      "field": "grammarCards.0.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l012",
+      "field": "grammarCards.1.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l013",
+      "field": "grammarCards.3.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l013",
+      "field": "grammarCards.1.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l013",
+      "field": "grammarCards.2.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l014",
+      "field": "grammarCards.1.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l014",
+      "field": "grammarCards.2.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l015",
+      "field": "grammarCards.0.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l015",
+      "field": "grammarCards.3.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l015",
+      "field": "grammarCards.2.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l015",
+      "field": "grammarCards.4.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l016",
+      "field": "grammarCards.1.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l016",
+      "field": "grammarCards.1.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l017",
+      "field": "grammarCards.2.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l017",
+      "field": "grammarCards.3.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l017",
+      "field": "grammarCards.1.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l017",
+      "field": "grammarCards.3.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l018",
+      "field": "grammarCards.0.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l018",
+      "field": "grammarCards.1.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l018",
+      "field": "grammarCards.4.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l018",
+      "field": "grammarCards.3.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l018",
+      "field": "grammarCards.5.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l019",
+      "field": "grammarCards.0.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l019",
+      "field": "grammarCards.1.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l019",
+      "field": "grammarCards.3.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l020",
+      "field": "grammarCards.2.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l020",
+      "field": "grammarCards.1.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l020",
+      "field": "grammarCards.4.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l021",
+      "field": "grammarCards.0.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l021",
+      "field": "grammarCards.1.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l021",
+      "field": "grammarCards.2.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l021",
+      "field": "grammarCards.3.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l021",
+      "field": "grammarCards.4.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l021",
+      "field": "grammarCards.1.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l022",
+      "field": "grammarCards.0.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l022",
+      "field": "grammarCards.4.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l022",
+      "field": "grammarCards.2.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l023",
+      "field": "grammarCards.5.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l023",
+      "field": "grammarCards.6.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l023",
+      "field": "grammarCards.1.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l023",
+      "field": "grammarCards.3.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l024",
+      "field": "grammarCards.1.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l024",
+      "field": "grammarCards.2.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l024",
+      "field": "grammarCards.3.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l024",
+      "field": "grammarCards.7.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l024",
+      "field": "grammarCards.8.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l024",
+      "field": "grammarCards.1.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l024",
+      "field": "grammarCards.3.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l024",
+      "field": "grammarCards.5.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l024",
+      "field": "grammarCards.8.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l025",
+      "field": "grammarCards.2.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l025",
+      "field": "grammarCards.5.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l025",
+      "field": "grammarCards.1.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l025",
+      "field": "grammarCards.4.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l025",
+      "field": "grammarCards.6.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l026",
+      "field": "grammarCards.2.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l026",
+      "field": "grammarCards.5.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l026",
+      "field": "grammarCards.6.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l026",
+      "field": "grammarCards.1.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l026",
+      "field": "grammarCards.4.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l026",
+      "field": "grammarCards.6.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l027",
+      "field": "grammarCards.0.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l027",
+      "field": "grammarCards.1.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l027",
+      "field": "grammarCards.2.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l027",
+      "field": "grammarCards.5.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l027",
+      "field": "grammarCards.1.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l027",
+      "field": "grammarCards.2.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l027",
+      "field": "grammarCards.5.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l028",
+      "field": "grammarCards.3.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l028",
+      "field": "grammarCards.2.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l029",
+      "field": "grammarCards.1.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l029",
+      "field": "grammarCards.3.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l029",
+      "field": "grammarCards.4.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l029",
+      "field": "grammarCards.5.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l029",
+      "field": "grammarCards.6.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l029",
+      "field": "grammarCards.1.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l029",
+      "field": "grammarCards.2.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l030",
+      "field": "grammarCards.2.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l030",
+      "field": "grammarCards.3.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l030",
+      "field": "grammarCards.4.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l030",
+      "field": "grammarCards.5.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l030",
+      "field": "grammarCards.5.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l030",
+      "field": "grammarCards.6.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l031",
+      "field": "grammarCards.1.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l031",
+      "field": "grammarCards.4.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l032",
+      "field": "grammarCards.2.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l032",
+      "field": "grammarCards.3.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l032",
+      "field": "grammarCards.4.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l033",
+      "field": "grammarCards.0.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l033",
+      "field": "grammarCards.1.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l033",
+      "field": "grammarCards.2.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l033",
+      "field": "grammarCards.1.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l034",
+      "field": "grammarCards.0.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l034",
+      "field": "grammarCards.1.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l034",
+      "field": "grammarCards.2.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l034",
+      "field": "grammarCards.3.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l034",
+      "field": "grammarCards.2.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l035",
+      "field": "grammarCards.0.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l035",
+      "field": "grammarCards.1.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l035",
+      "field": "grammarCards.4.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l035",
+      "field": "grammarCards.3.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l035",
+      "field": "grammarCards.5.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l036",
+      "field": "grammarCards.1.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l036",
+      "field": "grammarCards.2.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l036",
+      "field": "grammarCards.1.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l036",
+      "field": "grammarCards.2.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l038",
+      "field": "grammarCards.4.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l038",
+      "field": "grammarCards.5.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l038",
+      "field": "grammarCards.1.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l038",
+      "field": "grammarCards.3.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l039",
+      "field": "grammarCards.0.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l039",
+      "field": "grammarCards.1.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l039",
+      "field": "grammarCards.2.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l039",
+      "field": "grammarCards.3.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l039",
+      "field": "grammarCards.4.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l040",
+      "field": "grammarCards.1.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l040",
+      "field": "grammarCards.3.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l040",
+      "field": "grammarCards.1.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l040",
+      "field": "grammarCards.3.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l041",
+      "field": "grammarCards.0.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l041",
+      "field": "grammarCards.1.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l042",
+      "field": "grammarCards.6.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l042",
+      "field": "grammarCards.3.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l042",
+      "field": "grammarCards.5.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l043",
+      "field": "grammarCards.1.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l043",
+      "field": "grammarCards.2.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l044",
+      "field": "grammarCards.0.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l044",
+      "field": "grammarCards.3.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l044",
+      "field": "grammarCards.2.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l044",
+      "field": "grammarCards.4.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l045",
+      "field": "grammarCards.1.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l045",
+      "field": "grammarCards.3.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l045",
+      "field": "grammarCards.4.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l045",
+      "field": "grammarCards.1.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l045",
+      "field": "grammarCards.2.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l046",
+      "field": "grammarCards.0.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l046",
+      "field": "grammarCards.1.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l046",
+      "field": "grammarCards.1.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l046",
+      "field": "grammarCards.2.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l047",
+      "field": "grammarCards.0.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l047",
+      "field": "grammarCards.1.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l047",
+      "field": "grammarCards.4.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l047",
+      "field": "grammarCards.3.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l047",
+      "field": "grammarCards.5.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l048",
+      "field": "grammarCards.0.grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l048",
+      "field": "grammarCards.1.functionZh"
+    },
+    {
+      "role": "grammar",
+      "frameId": "l048",
+      "field": "grammarCards.3.functionZh"
+    },
+    {
+      "role": "translation",
+      "frameId": "l001",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l001",
+      "field": "grammarCards.1.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l001",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l001",
+      "field": "grammarCards.3.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l001",
+      "field": "grammarCards.4.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l001",
+      "field": "grammarCards.6.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l001",
+      "field": "grammarCards.8.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l002",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l002",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l002",
+      "field": "grammarCards.4.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l003",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l003",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l003",
+      "field": "grammarCards.4.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l004",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l004",
+      "field": "grammarCards.1.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l004",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l004",
+      "field": "grammarCards.4.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l005",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l005",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l005",
+      "field": "grammarCards.3.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l005",
+      "field": "grammarCards.4.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l006",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l006",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l006",
+      "field": "grammarCards.3.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l006",
+      "field": "grammarCards.5.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l007",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l007",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l007",
+      "field": "grammarCards.3.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l008",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l008",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l008",
+      "field": "grammarCards.4.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l009",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l009",
+      "field": "grammarCards.1.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l009",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l009",
+      "field": "grammarCards.3.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l010",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l010",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l010",
+      "field": "grammarCards.4.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l011",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l011",
+      "field": "grammarCards.1.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l011",
+      "field": "grammarCards.3.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l011",
+      "field": "grammarCards.5.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l011",
+      "field": "grammarCards.7.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l012",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l012",
+      "field": "grammarCards.1.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l013",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l013",
+      "field": "grammarCards.3.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l014",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l014",
+      "field": "grammarCards.1.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l014",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l014",
+      "field": "grammarCards.3.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l015",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l015",
+      "field": "grammarCards.1.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l015",
+      "field": "grammarCards.3.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l016",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l017",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l017",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l018",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l018",
+      "field": "grammarCards.1.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l018",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l018",
+      "field": "grammarCards.4.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l019",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l019",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l020",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l020",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l020",
+      "field": "grammarCards.3.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l021",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l021",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l021",
+      "field": "grammarCards.3.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l021",
+      "field": "grammarCards.4.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l022",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l022",
+      "field": "grammarCards.1.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l022",
+      "field": "grammarCards.3.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l022",
+      "field": "grammarCards.4.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l023",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l023",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l023",
+      "field": "grammarCards.4.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l023",
+      "field": "grammarCards.5.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l023",
+      "field": "grammarCards.6.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l024",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l024",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l024",
+      "field": "grammarCards.4.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l024",
+      "field": "grammarCards.6.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l024",
+      "field": "grammarCards.7.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l025",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l025",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l025",
+      "field": "grammarCards.3.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l025",
+      "field": "grammarCards.5.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l026",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l026",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l026",
+      "field": "grammarCards.3.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l026",
+      "field": "grammarCards.5.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l026",
+      "field": "grammarCards.6.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l027",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l027",
+      "field": "grammarCards.3.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l027",
+      "field": "grammarCards.4.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l027",
+      "field": "grammarCards.5.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l028",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l028",
+      "field": "grammarCards.1.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l028",
+      "field": "grammarCards.3.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l029",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l029",
+      "field": "grammarCards.3.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l029",
+      "field": "grammarCards.4.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l029",
+      "field": "grammarCards.5.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l029",
+      "field": "grammarCards.6.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l030",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l030",
+      "field": "grammarCards.1.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l030",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l030",
+      "field": "grammarCards.3.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l030",
+      "field": "grammarCards.4.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l031",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l031",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l031",
+      "field": "grammarCards.3.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l032",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l032",
+      "field": "grammarCards.1.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l032",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l032",
+      "field": "grammarCards.3.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l032",
+      "field": "grammarCards.4.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l033",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l033",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l034",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l034",
+      "field": "grammarCards.1.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l034",
+      "field": "grammarCards.3.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l035",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l035",
+      "field": "grammarCards.1.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l035",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l035",
+      "field": "grammarCards.4.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l036",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l036",
+      "field": "grammarCards.3.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l037",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l037",
+      "field": "grammarCards.1.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l037",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l038",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l038",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l038",
+      "field": "grammarCards.4.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l038",
+      "field": "grammarCards.5.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l039",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l039",
+      "field": "grammarCards.1.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l039",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l039",
+      "field": "grammarCards.3.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l039",
+      "field": "grammarCards.4.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l040",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l040",
+      "field": "grammarCards.1.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l040",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l040",
+      "field": "grammarCards.4.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l041",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l041",
+      "field": "grammarCards.1.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l042",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l042",
+      "field": "grammarCards.1.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l042",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l042",
+      "field": "grammarCards.4.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l042",
+      "field": "grammarCards.6.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l043",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l043",
+      "field": "grammarCards.1.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l043",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l043",
+      "field": "grammarCards.3.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l044",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l044",
+      "field": "grammarCards.1.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l044",
+      "field": "grammarCards.3.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l045",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l045",
+      "field": "grammarCards.3.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l045",
+      "field": "grammarCards.4.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l046",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l046",
+      "field": "grammarCards.3.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l047",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l047",
+      "field": "grammarCards.1.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l047",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l047",
+      "field": "grammarCards.4.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l048",
+      "field": "grammarCards.0.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l048",
+      "field": "grammarCards.2.zhMeaning"
+    },
+    {
+      "role": "translation",
+      "frameId": "l020",
+      "field": "caption.translationZh"
+    },
+    {
+      "role": "translation",
+      "frameId": "l021",
+      "field": "caption.translationZh"
+    },
+    {
+      "role": "translation",
+      "frameId": "l023",
+      "field": "caption.translationZh"
+    },
+    {
+      "role": "translation",
+      "frameId": "l041",
+      "field": "caption.translationZh"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l004",
+      "field": "grammarCards.0.reading"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l004",
+      "field": "grammarCards.0.romaji"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l004",
+      "field": "caption.romaji"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l004",
+      "field": "caption.furigana"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l028",
+      "field": "grammarCards.3.reading"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l028",
+      "field": "grammarCards.3.romaji"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l028",
+      "field": "caption.romaji"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l028",
+      "field": "caption.furigana"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l015",
+      "field": "grammarCards.0.dictionaryForm"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l044",
+      "field": "grammarCards.0.dictionaryForm"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l020",
+      "field": "grammarCards.0"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l009",
+      "field": "grammarCards"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l009",
+      "field": "caption.romaji"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l010",
+      "field": "grammarCards"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l010",
+      "field": "caption.romaji"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l014",
+      "field": "grammarCards"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l014",
+      "field": "caption.romaji"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l014",
+      "field": "caption.furigana"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l043",
+      "field": "grammarCards"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l043",
+      "field": "caption.romaji"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l043",
+      "field": "caption.furigana"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l021",
+      "field": "grammarCards"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l021",
+      "field": "caption.romaji"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l023",
+      "field": "grammarCards"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l023",
+      "field": "caption.romaji"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l023",
+      "field": "caption.furigana"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l023",
+      "field": "displayUnits.0.kind"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l024",
+      "field": "grammarCards"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l024",
+      "field": "caption.romaji"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l024",
+      "field": "caption.furigana"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l026",
+      "field": "grammarCards"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l026",
+      "field": "caption.romaji"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l026",
+      "field": "caption.furigana"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l027",
+      "field": "grammarCards"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l027",
+      "field": "caption.romaji"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l027",
+      "field": "caption.furigana"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l029",
+      "field": "grammarCards"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l029",
+      "field": "caption.romaji"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l029",
+      "field": "caption.furigana"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l030",
+      "field": "grammarCards"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l030",
+      "field": "caption.romaji"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l030",
+      "field": "caption.furigana"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l032",
+      "field": "grammarCards"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l032",
+      "field": "caption.romaji"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l032",
+      "field": "caption.furigana"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l033",
+      "field": "grammarCards"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l033",
+      "field": "caption.romaji"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l039",
+      "field": "grammarCards"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l039",
+      "field": "caption.romaji"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l039",
+      "field": "caption.furigana"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l041",
+      "field": "grammarCards"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l041",
+      "field": "caption.romaji"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l045",
+      "field": "grammarCards"
+    },
+    {
+      "role": "lexical",
+      "frameId": "l045",
+      "field": "caption.romaji"
+    }
+  ],
+  "proposedSnapshot": "project/review/frames-proposed.json",
+  "activeFramesUnchanged": true,
+  "contentApproval": false,
+  "userDirectedStyleRevision": {
+    "policy": "project/review/concise-card-policy.json",
+    "sha256": "69d60cf86bad65798460d7653920e0c3b50981fe2b59f2b4779331b6f960b027",
+    "changes": 88,
+    "log": "project/review/concise-card-change-log.json",
+    "grammarLabelChanges": 42,
+    "grammarLabelLog": "project/review/grammar-label-change-log.json"
+  }
+}

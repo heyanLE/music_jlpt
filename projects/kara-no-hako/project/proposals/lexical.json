@@ -1,0 +1,1708 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "lexical",
+  "scope": {
+    "frameIds": [
+      "l001",
+      "l002",
+      "l003",
+      "l004",
+      "l005",
+      "l006",
+      "l007",
+      "l008",
+      "l009",
+      "l010",
+      "l011",
+      "l012",
+      "l013",
+      "l014",
+      "l015",
+      "l016",
+      "l017",
+      "l018",
+      "l019",
+      "l020",
+      "l021",
+      "l022",
+      "l023",
+      "l024",
+      "l025",
+      "l026",
+      "l027",
+      "l028",
+      "l029",
+      "l030",
+      "l031",
+      "l032",
+      "l033",
+      "l034",
+      "l035",
+      "l036",
+      "l037",
+      "l038",
+      "l039",
+      "l040",
+      "l041",
+      "l042",
+      "l043",
+      "l044",
+      "l045"
+    ]
+  },
+  "baseFrameSha256": "7e730357a5d9a6adf121d4f23c7fc86a263769209d78a4a8444f2fba122f48d6",
+  "status": "completed-with-unresolved-audio-check",
+  "reviewMethod": {
+    "independentRole": true,
+    "checked": [
+      "token boundaries and learning chunks",
+      "all card kana readings",
+      "all card and caption romaji",
+      "kanji-only ruby bases/readings/offsets",
+      "QQ kana/roma cross-check",
+      "fixed expressions and compounds",
+      "English exclusion",
+      "loanword status",
+      "repeated lines"
+    ],
+    "romanizationPolicy": "词内按现有假名对应式Hepburn连写（ou/oo/uu及促音保留），独立词/助词/补助动词/解释形式分写；动词活用词尾和复合词词干不机械拆音节。所有罗马音建议都仅插入空格，并非认定旧拼写音值错误。",
+    "tokenPolicy": "保留全部原学习块。学习块可包含多个词，罗马音可以在块内分词。此次不修改token、reading、furigana、meaning、grammar、status、reviewRequired、sourceRomaji、displayUnits或时序。",
+    "approval": "本文件只有提案，不表示用户确认；所有生产词卡仍是draft。",
+    "audioAuditionPerformed": false
+  },
+  "changes": [
+    {
+      "frameId": "l001",
+      "field": "grammarCards.1.romaji",
+      "old": "shiroinda",
+      "new": "shiroi n da",
+      "confidence": 0.96,
+      "evidence": [
+        "白い与解释形式ん＋だ分开，保留しろい的词内长元音。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l001",
+      "field": "grammarCards.3.romaji",
+      "old": "nagainda",
+      "new": "nagai n da",
+      "confidence": 0.96,
+      "evidence": [
+        "長い与解释形式ん＋だ分开。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l001",
+      "field": "caption.romaji",
+      "old": "yakeni shiroinda yatara nagainda",
+      "new": "yakeni shiroi n da yatara nagai n da",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l004",
+      "field": "grammarCards.2.romaji",
+      "old": "furueyoutomo",
+      "new": "furueyou tomo",
+      "confidence": 0.96,
+      "evidence": [
+        "震えよう是活用词形，后接让步助词とも，分开能避免将整串误当一个词。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l004",
+      "field": "caption.romaji",
+      "old": "yubisaki ga furueyoutomo",
+      "new": "yubisaki ga furueyou tomo",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l005",
+      "field": "grammarCards.1.romaji",
+      "old": "naihazuno",
+      "new": "nai hazu no",
+      "confidence": 0.96,
+      "evidence": [
+        "ない／はず／の构成三个语法单位。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l005",
+      "field": "caption.romaji",
+      "old": "chizu ni wa naihazuno sansaro ni ima",
+      "new": "chizu ni wa nai hazu no sansaro ni ima",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l006",
+      "field": "grammarCards.0.romaji",
+      "old": "butsukatteiru",
+      "new": "butsukatte iru",
+      "confidence": 0.96,
+      "evidence": [
+        "ぶつかって与补助动词いる分开；不拆促音tt。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l006",
+      "field": "caption.romaji",
+      "old": "butsukatteiru no desu ga",
+      "new": "butsukatte iru no desu ga",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l007",
+      "field": "grammarCards.2.romaji",
+      "old": "tayorini",
+      "new": "tayori ni",
+      "confidence": 0.96,
+      "evidence": [
+        "頼り是名词，に是后接助词。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l007",
+      "field": "caption.romaji",
+      "old": "nani o tayorini",
+      "new": "nani o tayori ni",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l008",
+      "field": "grammarCards.0.romaji",
+      "old": "susumebaii",
+      "new": "susumeba ii",
+      "confidence": 0.96,
+      "evidence": [
+        "進めば是条件活用词形，いい是独立形容词。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l008",
+      "field": "caption.romaji",
+      "old": "susumebaii no deshou ka",
+      "new": "susumeba ii no deshou ka",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l009",
+      "field": "grammarCards.2.romaji",
+      "old": "yokuittamonode",
+      "new": "yoku itta mono de",
+      "confidence": 0.96,
+      "evidence": [
+        "よく／言った／もの／で组成惯用语，惯用语可保持一张卡但其罗马音应保留词间边界。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l009",
+      "field": "caption.romaji",
+      "old": "kyoukashodoori to wa yokuittamonode",
+      "new": "kyoukashodoori to wa yoku itta mono de",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l011",
+      "field": "grammarCards.1.romaji",
+      "old": "anokorokara",
+      "new": "ano koro kara",
+      "confidence": 0.96,
+      "evidence": [
+        "あの／頃／から分别是连体词、时间名词与起点助词。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l011",
+      "field": "grammarCards.2.romaji",
+      "old": "sukoshimo",
+      "new": "sukoshi mo",
+      "confidence": 0.96,
+      "evidence": [
+        "少し与否定呼应助词も分开。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l011",
+      "field": "caption.romaji",
+      "old": "konnichi anokorokara sukoshimo kawaranai",
+      "new": "konnichi ano koro kara sukoshi mo kawaranai",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l012",
+      "field": "grammarCards.4.romaji",
+      "old": "tokemasuka",
+      "new": "tokemasu ka",
+      "confidence": 0.96,
+      "evidence": [
+        "解けます保持礼貌活用连写，问句助词か单列。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l012",
+      "field": "caption.romaji",
+      "old": "kono kuuran o umereba tokemasuka",
+      "new": "kono kuuran o umereba tokemasu ka",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l013",
+      "field": "grammarCards.0.romaji",
+      "old": "itsunohika",
+      "new": "itsu no hi ka",
+      "confidence": 0.96,
+      "evidence": [
+        "いつ／の／日／か各自分开；不改变此固定时间表达为一张卡。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l013",
+      "field": "caption.romaji",
+      "old": "itsunohika",
+      "new": "itsu no hi ka",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l014",
+      "field": "grammarCards.2.romaji",
+      "old": "douyatte",
+      "new": "dou yatte",
+      "confidence": 0.96,
+      "evidence": [
+        "どう与やって是不同词，やって保留促音tt。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l014",
+      "field": "caption.romaji",
+      "old": "anata nara douyatte",
+      "new": "anata nara dou yatte",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l015",
+      "field": "grammarCards.2.romaji",
+      "old": "susumimasuka",
+      "new": "susumimasu ka",
+      "confidence": 0.96,
+      "evidence": [
+        "進みます保持礼貌活用连写，问句助词か单列。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l015",
+      "field": "caption.romaji",
+      "old": "saki e to susumimasuka",
+      "new": "saki e to susumimasu ka",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l016",
+      "field": "grammarCards.1.romaji",
+      "old": "shiroinda",
+      "new": "shiroi n da",
+      "confidence": 0.96,
+      "evidence": [
+        "白い与解释形式ん＋だ分开，保留しろい的词内长元音。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l016",
+      "field": "grammarCards.3.romaji",
+      "old": "nagainda",
+      "new": "nagai n da",
+      "confidence": 0.96,
+      "evidence": [
+        "長い与解释形式ん＋だ分开。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l016",
+      "field": "caption.romaji",
+      "old": "yakeni shiroinda yatara nagainda",
+      "new": "yakeni shiroi n da yatara nagai n da",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l019",
+      "field": "grammarCards.2.romaji",
+      "old": "furueyoutomo",
+      "new": "furueyou tomo",
+      "confidence": 0.96,
+      "evidence": [
+        "震えよう是活用词形，后接让步助词とも，分开能避免将整串误当一个词。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l019",
+      "field": "caption.romaji",
+      "old": "yubisaki ga furueyoutomo",
+      "new": "yubisaki ga furueyou tomo",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l020",
+      "field": "grammarCards.2.romaji",
+      "old": "nainda",
+      "new": "nai n da",
+      "confidence": 0.96,
+      "evidence": [
+        "ない与解释形式ん＋だ分开。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l020",
+      "field": "caption.romaji",
+      "old": "seikai wa nainda",
+      "new": "seikai wa nai n da",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l021",
+      "field": "grammarCards.2.romaji",
+      "old": "nainda",
+      "new": "nai n da",
+      "confidence": 0.96,
+      "evidence": [
+        "ない与解释形式ん＋だ分开。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l021",
+      "field": "caption.romaji",
+      "old": "make nante nainda",
+      "new": "make nante nai n da",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l023",
+      "field": "grammarCards.0.romaji",
+      "old": "atashideatte",
+      "new": "atashi de atte",
+      "confidence": 0.96,
+      "evidence": [
+        "あたし／で／あって分开；不拆あって的促音。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l023",
+      "field": "grammarCards.1.romaji",
+      "old": "soredake",
+      "new": "sore dake",
+      "confidence": 0.96,
+      "evidence": [
+        "指示代词それ与限定助词だけ分开。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l023",
+      "field": "caption.romaji",
+      "old": "atashideatte soredake darou",
+      "new": "atashi de atte sore dake darou",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l024",
+      "field": "grammarCards.0.romaji",
+      "old": "koreijou",
+      "new": "kore ijou",
+      "confidence": 0.96,
+      "evidence": [
+        "指示词これ与以上分开。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l024",
+      "field": "grammarCards.1.romaji",
+      "old": "kakimidashitemo",
+      "new": "kakimidashite mo",
+      "confidence": 0.96,
+      "evidence": [
+        "かき乱す是复合动词，不拆其词干；て形后接让步も分开。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l024",
+      "field": "caption.romaji",
+      "old": "koreijou kakimidashitemo ashita wa nai",
+      "new": "kore ijou kakimidashite mo ashita wa nai",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l025",
+      "field": "grammarCards.3.romaji",
+      "old": "seinishite",
+      "new": "sei ni shite",
+      "confidence": 0.96,
+      "evidence": [
+        "所為／に／して分开，所為仍按せい/sei。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l025",
+      "field": "caption.romaji",
+      "old": "yakudatanai chizu no seinishite ima",
+      "new": "yakudatanai chizu no sei ni shite ima",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l026",
+      "field": "grammarCards.0.romaji",
+      "old": "tohounikureteimasu",
+      "new": "tohou ni kurete imasu",
+      "confidence": 0.96,
+      "evidence": [
+        "途方／に／暮れて／います分开；整条惯用表达仍保持一张卡。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l026",
+      "field": "caption.romaji",
+      "old": "tohounikureteimasu ga",
+      "new": "tohou ni kurete imasu ga",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l027",
+      "field": "grammarCards.0.romaji",
+      "old": "tsuyogattatoshite",
+      "new": "tsuyogatta to shite",
+      "confidence": 0.96,
+      "evidence": [
+        "強がった／と／して分开；不改变原有学习块与假设结构。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l027",
+      "field": "caption.romaji",
+      "old": "tsuyogattatoshite",
+      "new": "tsuyogatta to shite",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l029",
+      "field": "grammarCards.0.romaji",
+      "old": "afuredashisounahodo",
+      "new": "afuredashi sou na hodo",
+      "confidence": 0.96,
+      "evidence": [
+        "复合动词词干溢れだし与样态そう、连体な、程度ほど分开。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l029",
+      "field": "caption.romaji",
+      "old": "afuredashisounahodo tsumekonda",
+      "new": "afuredashi sou na hodo tsumekonda",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l030",
+      "field": "grammarCards.4.romaji",
+      "old": "yokomeni",
+      "new": "yokome ni",
+      "confidence": 0.96,
+      "evidence": [
+        "横目是名词，に是后接助词；不拆横目内部。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l030",
+      "field": "caption.romaji",
+      "old": "tanin no hako o yokomeni",
+      "new": "tanin no hako o yokome ni",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l031",
+      "field": "grammarCards.0.romaji",
+      "old": "hetana",
+      "new": "heta na",
+      "confidence": 0.96,
+      "evidence": [
+        "下手（へた）与连体な分开；熟字训整体读音不变。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l031",
+      "field": "caption.romaji",
+      "old": "hetana aisowarai sura",
+      "new": "heta na aisowarai sura",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l032",
+      "field": "grammarCards.1.romaji",
+      "old": "dekitenai",
+      "new": "dekite nai",
+      "confidence": 0.96,
+      "evidence": [
+        "出来て与缩约否定ない分开；不擅自把歌中没有的い补回。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l032",
+      "field": "caption.romaji",
+      "old": "yappari dekitenai",
+      "new": "yappari dekite nai",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l034",
+      "field": "grammarCards.2.romaji",
+      "old": "omoudeshou",
+      "new": "omou deshou",
+      "confidence": 0.96,
+      "evidence": [
+        "思う与推量でしょう分开。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l034",
+      "field": "caption.romaji",
+      "old": "anata mo omoudeshou",
+      "new": "anata mo omou deshou",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l035",
+      "field": "grammarCards.0.romaji",
+      "old": "konomamadeii",
+      "new": "kono mama de ii",
+      "confidence": 0.96,
+      "evidence": [
+        "この／まま／で／いい分开；固定表达可继续保留一张卡。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l035",
+      "field": "caption.romaji",
+      "old": "konomamadeii nante",
+      "new": "kono mama de ii nante",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l036",
+      "field": "grammarCards.0.romaji",
+      "old": "soredake",
+      "new": "sore dake",
+      "confidence": 0.96,
+      "evidence": [
+        "指示代词それ与限定助词だけ分开。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l036",
+      "field": "grammarCards.2.romaji",
+      "old": "machigaida",
+      "new": "machigai da",
+      "confidence": 0.96,
+      "evidence": [
+        "名词間違い与断定だ分开。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l036",
+      "field": "caption.romaji",
+      "old": "soredake wa machigaida",
+      "new": "sore dake wa machigai da",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l037",
+      "field": "grammarCards.0.romaji",
+      "old": "karapponanda",
+      "new": "karappo na n da",
+      "confidence": 0.96,
+      "evidence": [
+        "空っぽ／な／ん／だ分开；空っぽ内部促音pp保留。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l037",
+      "field": "grammarCards.1.romaji",
+      "old": "hitotsumo",
+      "new": "hitotsu mo",
+      "confidence": 0.96,
+      "evidence": [
+        "数量词ひとつ与否定呼应助词も分开。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l037",
+      "field": "grammarCards.2.romaji",
+      "old": "nainda",
+      "new": "nai n da",
+      "confidence": 0.96,
+      "evidence": [
+        "ない与解释形式ん＋だ分开。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l037",
+      "field": "caption.romaji",
+      "old": "karapponanda hitotsumo nainda",
+      "new": "karappo na n da hitotsu mo nai n da",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l038",
+      "field": "grammarCards.0.romaji",
+      "old": "nakunatta",
+      "new": "naku natta",
+      "confidence": 0.96,
+      "evidence": [
+        "無い的连用形なく与变化动词なった分开。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l038",
+      "field": "grammarCards.1.romaji",
+      "old": "noka",
+      "new": "no ka",
+      "confidence": 0.96,
+      "evidence": [
+        "解释/不确定形式の与疑问助词か分开。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l038",
+      "field": "caption.romaji",
+      "old": "nakunatta noka",
+      "new": "naku natta no ka",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l039",
+      "field": "grammarCards.1.romaji",
+      "old": "noka",
+      "new": "no ka",
+      "confidence": 0.96,
+      "evidence": [
+        "解释/不确定形式の与疑问助词か分开。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l039",
+      "field": "caption.romaji",
+      "old": "hajimatta noka wakaranai kedo",
+      "new": "hajimatta no ka wakaranai kedo",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l040",
+      "field": "grammarCards.0.romaji",
+      "old": "ikushika",
+      "new": "iku shika",
+      "confidence": 0.96,
+      "evidence": [
+        "動词行く与限定助词しか分开。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l040",
+      "field": "grammarCards.3.romaji",
+      "old": "naindarou",
+      "new": "nai n darou",
+      "confidence": 0.96,
+      "evidence": [
+        "ない／ん／だろう分开。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l040",
+      "field": "caption.romaji",
+      "old": "ikushika houhou wa naindarou",
+      "new": "iku shika houhou wa nai n darou",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l041",
+      "field": "grammarCards.2.romaji",
+      "old": "nanda",
+      "new": "nan da",
+      "confidence": 0.96,
+      "evidence": [
+        "此处为反问的何（なん）＋だ，不是解释语气んだ；以nan da显示边界。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l041",
+      "field": "grammarCards.5.romaji",
+      "old": "nainda",
+      "new": "nai n da",
+      "confidence": 0.96,
+      "evidence": [
+        "ない与解释形式ん＋だ分开。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l041",
+      "field": "caption.romaji",
+      "old": "seikai ga nanda kachi nante nainda",
+      "new": "seikai ga nan da kachi nante nai n da",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l043",
+      "field": "grammarCards.0.romaji",
+      "old": "atashiigaija",
+      "new": "atashi igai ja",
+      "confidence": 0.96,
+      "evidence": [
+        "あたし／以外／じゃ分开；保留原唱缩约じゃ，不展开では。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l043",
+      "field": "caption.romaji",
+      "old": "atashiigaija ikirarenai yo",
+      "new": "atashi igai ja ikirarenai yo",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l044",
+      "field": "grammarCards.0.romaji",
+      "old": "koreijou",
+      "new": "kore ijou",
+      "confidence": 0.96,
+      "evidence": [
+        "指示词これ与以上分开。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l044",
+      "field": "grammarCards.1.romaji",
+      "old": "kakimidashitemo",
+      "new": "kakimidashite mo",
+      "confidence": 0.96,
+      "evidence": [
+        "かき乱す是复合动词，不拆其词干；て形后接让步も分开。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l044",
+      "field": "caption.romaji",
+      "old": "koreijou kakimidashitemo ashita wa nai",
+      "new": "kore ijou kakimidashite mo ashita wa nai",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l045",
+      "field": "grammarCards.0.romaji",
+      "old": "douagaitemo",
+      "new": "dou agaite mo",
+      "confidence": 0.96,
+      "evidence": [
+        "どう／足掻いて／も分开；足掻く活用为あがいて不变。",
+        "按词罗马音的一致性提案：仅插入词界空格，不改假名、音节、卡片token或QRC匹配单位。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l045",
+      "field": "caption.romaji",
+      "old": "douagaitemo ashita wa nai",
+      "new": "dou agaite mo ashita wa nai",
+      "confidence": 0.96,
+      "evidence": [
+        "与本帧各词卡的按词罗马音保持一致；只增加独立词、助词与解释形式边界的空格。",
+        "QQ roma原始时序及所有音节不变；原始sourceRomaji保留以便追溯。"
+      ],
+      "changesTokenStructure": false
+    }
+  ],
+  "coverage": [
+    {
+      "frameId": "l001",
+      "reviewed": true,
+      "checkedCardCount": 4,
+      "checkedRubyCount": 2,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "逐词核对やけに、白い、やたら、長い；白/しろ、長/なが注音仅覆盖汉字；与l016一致。"
+    },
+    {
+      "frameId": "l002",
+      "reviewed": true,
+      "checkedCardCount": 3,
+      "checkedRubyCount": 0,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "no lexical changes proposed",
+      "notes": "コタエ是答え的片假名强调写法，不是英语借词；保留こたえ/kotae，は按发音wa；无需词源注释。"
+    },
+    {
+      "frameId": "l003",
+      "reviewed": true,
+      "checkedCardCount": 5,
+      "checkedRubyCount": 1,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "no lexical changes proposed",
+      "notes": "カタチ是形的片假名强调写法，不是英语借词；常識じょうしき、だろう长音与来源一致；与l018一致。"
+    },
+    {
+      "frameId": "l004",
+      "reviewed": true,
+      "checkedCardCount": 3,
+      "checkedRubyCount": 2,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "指先ゆびさき、震えるふるえる及意志形震えよう核对通过；保留让步词组学习块。"
+    },
+    {
+      "frameId": "l005",
+      "reviewed": true,
+      "checkedCardCount": 5,
+      "checkedRubyCount": 3,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "地図ちず、三叉路さんさろ、今いま均与kana/roma一致；三叉路保持复合名词；には已有词间空格。"
+    },
+    {
+      "frameId": "l006",
+      "reviewed": true,
+      "checkedCardCount": 2,
+      "checkedRubyCount": 0,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "全假名不需要ruby；ぶつかっている促音和补助动词读音正确；のですが保留分词no desu ga。"
+    },
+    {
+      "frameId": "l007",
+      "reviewed": true,
+      "checkedCardCount": 3,
+      "checkedRubyCount": 2,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "何按此处source読みなに而非なん；頼りたより的汉字注音仅たよ；を按发音o而非机械wo。"
+    },
+    {
+      "frameId": "l008",
+      "reviewed": true,
+      "checkedCardCount": 2,
+      "checkedRubyCount": 1,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "進めばすすめば读音正确；条件形与いい需词间空格；のでしょうか既有no deshou ka可保留。"
+    },
+    {
+      "frameId": "l009",
+      "reviewed": true,
+      "checkedCardCount": 3,
+      "checkedRubyCount": 2,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "教科書通りきょうかしょどおり为复合表达，どおり保留oo不写dou；よく言ったもので的促音、阅读单位核对通过。"
+    },
+    {
+      "frameId": "l010",
+      "reviewed": true,
+      "checkedCardCount": 3,
+      "checkedRubyCount": 2,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "no lexical changes proposed",
+      "notes": "難しいむずかしい、言葉ことば及だらけ读音与来源一致；送假名不重复注音。"
+    },
+    {
+      "frameId": "l011",
+      "reviewed": true,
+      "checkedCardCount": 4,
+      "checkedRubyCount": 4,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "今日的source kana给こん＋にち，roma给ko n ni chi，暂保留こんにち；实际唱读未听觉确认。あの頃から、少しも分词改空格。"
+    },
+    {
+      "frameId": "l012",
+      "reviewed": true,
+      "checkedCardCount": 5,
+      "checkedRubyCount": 3,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "空欄くうらん、埋めればうめれば、解けますかとけますか与source一致；を按发音o。"
+    },
+    {
+      "frameId": "l013",
+      "reviewed": true,
+      "checkedCardCount": 1,
+      "checkedRubyCount": 1,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "いつの日か保留为固定时间表达一张卡；日ひ仅注汉字，romaji按词分隔。"
+    },
+    {
+      "frameId": "l014",
+      "reviewed": true,
+      "checkedCardCount": 3,
+      "checkedRubyCount": 0,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "あなた、なら、どうやって读音核对通过；どう与やって可分写，促音tt保留。"
+    },
+    {
+      "frameId": "l015",
+      "reviewed": true,
+      "checkedCardCount": 3,
+      "checkedRubyCount": 2,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "先さき、進みますすすみます核对通过；方向へ读e而非source机械he；へと的e to已正确。"
+    },
+    {
+      "frameId": "l016",
+      "reviewed": true,
+      "checkedCardCount": 4,
+      "checkedRubyCount": 2,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "逐词独立核对本行的白/長与促音以外音节，再核对与l001卡片和注音一致。"
+    },
+    {
+      "frameId": "l017",
+      "reviewed": true,
+      "checkedCardCount": 3,
+      "checkedRubyCount": 0,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "no lexical changes proposed",
+      "notes": "独立核对本行コタエ/こたえ与主题は/wa；不是外来语，与l002一致。"
+    },
+    {
+      "frameId": "l018",
+      "reviewed": true,
+      "checkedCardCount": 5,
+      "checkedRubyCount": 1,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "no lexical changes proposed",
+      "notes": "独立核对本行カタチ/かたち、常識/じょうしき；不是外来语，与l003一致。"
+    },
+    {
+      "frameId": "l019",
+      "reviewed": true,
+      "checkedCardCount": 3,
+      "checkedRubyCount": 2,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "独立核对本行指先/ゆびさき、震えよう/ふるえよう；读音及学习块与l004一致。"
+    },
+    {
+      "frameId": "l020",
+      "reviewed": true,
+      "checkedCardCount": 3,
+      "checkedRubyCount": 2,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "正解せいかい、無いない与解释んだ核对通过；無字只标な，送假名い不重复。"
+    },
+    {
+      "frameId": "l021",
+      "reviewed": true,
+      "checkedCardCount": 3,
+      "checkedRubyCount": 2,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "負けまけ、なんて、無いない核对通过；負只标ま，なんて自身不拆成何と。"
+    },
+    {
+      "frameId": "l022",
+      "reviewed": true,
+      "checkedCardCount": 3,
+      "checkedRubyCount": 1,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "no lexical changes proposed",
+      "notes": "あたし为口语代词不是错字；生涯しょうがい的长音shougai与source一致。"
+    },
+    {
+      "frameId": "l023",
+      "reviewed": true,
+      "checkedCardCount": 3,
+      "checkedRubyCount": 0,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "あたし、であって、それだけ、だろう读音与source一致；促音tt保留，独立词/助词罗马音分隔。"
+    },
+    {
+      "frameId": "l024",
+      "reviewed": true,
+      "checkedCardCount": 5,
+      "checkedRubyCount": 3,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "明日由QQ整体kanaあした及roma a shi ta双重支持；整体ruby不拆明/日，熟字训标签可保留。かき乱す复合动词保持。"
+    },
+    {
+      "frameId": "l025",
+      "reviewed": true,
+      "checkedCardCount": 5,
+      "checkedRubyCount": 4,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "所為按せい而非しょい，来源和汉字ペディア支持；役立たない为やくだたない，地図为ちず；所為整体ruby保持。"
+    },
+    {
+      "frameId": "l026",
+      "reviewed": true,
+      "checkedCardCount": 2,
+      "checkedRubyCount": 2,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "途方に暮れる为固定惯用表达，不拆意义；とほう、くれる读音正确；仅将romaji内部词界显示出来。"
+    },
+    {
+      "frameId": "l027",
+      "reviewed": true,
+      "checkedCardCount": 1,
+      "checkedRubyCount": 1,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "強がるつよがる及过去形つよがった促音核对通过；として虽为学习块仍可在罗马音中按词分隔。"
+    },
+    {
+      "frameId": "l028",
+      "reviewed": true,
+      "checkedCardCount": 4,
+      "checkedRubyCount": 2,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "no lexical changes proposed",
+      "notes": "結果けっか促音kk、同じおなじ及おそらく均与source一致；本行无需词汇修改。"
+    },
+    {
+      "frameId": "l029",
+      "reviewed": true,
+      "checkedCardCount": 2,
+      "checkedRubyCount": 3,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "溢れだすあふれだす及詰め込むつめこむ为复合动词，词根不拆；样态与程度词分隔。跨行修饰意义交翻译/语法角色。"
+    },
+    {
+      "frameId": "l030",
+      "reviewed": true,
+      "checkedCardCount": 5,
+      "checkedRubyCount": 3,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "他人たにん（不擅改ひと）、箱はこ、横目よこめ与source一致；横目内部不拆，末助词に分隔。"
+    },
+    {
+      "frameId": "l031",
+      "reviewed": true,
+      "checkedCardCount": 3,
+      "checkedRubyCount": 2,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "下手按へた而非したて；愛想笑い按sourceあいそわらい而非あいそうわらい；两者均保持整体汉字读音。"
+    },
+    {
+      "frameId": "l032",
+      "reviewed": true,
+      "checkedCardCount": 2,
+      "checkedRubyCount": 1,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "やっぱり的促音pp正确；出来てない为source缩约原形，不能擅补できていない；出来/でき整体ruby有效。"
+    },
+    {
+      "frameId": "l033",
+      "reviewed": true,
+      "checkedCardCount": 4,
+      "checkedRubyCount": 1,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "no lexical changes proposed",
+      "notes": "こんな、空欄くうらん、さえ、なければ读音核对通过；无外来语，无需词汇修改。"
+    },
+    {
+      "frameId": "l034",
+      "reviewed": true,
+      "checkedCardCount": 3,
+      "checkedRubyCount": 1,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "思うおもう长音按假名omou保留；でしょうdeshou独立分写；思字只标おも。"
+    },
+    {
+      "frameId": "l035",
+      "reviewed": true,
+      "checkedCardCount": 2,
+      "checkedRubyCount": 0,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "このままでいい的四个词分写；なんて是整体口语助词，不机械拆音节。"
+    },
+    {
+      "frameId": "l036",
+      "reviewed": true,
+      "checkedCardCount": 3,
+      "checkedRubyCount": 1,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "それ与だけ分写；間違いまちがい为名词，だ独立；間違只标まちが，末い不重复注音。"
+    },
+    {
+      "frameId": "l037",
+      "reviewed": true,
+      "checkedCardCount": 3,
+      "checkedRubyCount": 2,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "空っぽからっぽ保留pp，ひとつも的も独立，無い与解释形式分写；空字只标から。"
+    },
+    {
+      "frameId": "l038",
+      "reviewed": true,
+      "checkedCardCount": 2,
+      "checkedRubyCount": 1,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "無くなった由なく＋なった构成，促音tt正确；のか分写，不改变原句与时间。"
+    },
+    {
+      "frameId": "l039",
+      "reviewed": true,
+      "checkedCardCount": 4,
+      "checkedRubyCount": 2,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "始まったはじまった、分からないわからない核对通过；不擅改分かる的汉字或词干；のか分写。"
+    },
+    {
+      "frameId": "l040",
+      "reviewed": true,
+      "checkedCardCount": 4,
+      "checkedRubyCount": 3,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "行く按sourceいく而非ゆく，方法ほうほう正确；しか与动词分写；日文原问号及时序不改。"
+    },
+    {
+      "frameId": "l041",
+      "reviewed": true,
+      "checkedCardCount": 6,
+      "checkedRubyCount": 3,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "正解せいかい、価値かち正确；此なんだ为なん＋だ反问，与无いんだ的解释形式不同，分别显示nan da和nai n da。"
+    },
+    {
+      "frameId": "l042",
+      "reviewed": true,
+      "checkedCardCount": 3,
+      "checkedRubyCount": 1,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "no lexical changes proposed",
+      "notes": "独立核对本行あたし、生涯しょうがい及は/wa，再确认与l022一致。"
+    },
+    {
+      "frameId": "l043",
+      "reviewed": true,
+      "checkedCardCount": 3,
+      "checkedRubyCount": 2,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "以外いがい、生きられないいきられない、じゃja均与source一致；あたし／以外／じゃ分写，可能否定活用仍连写。"
+    },
+    {
+      "frameId": "l044",
+      "reviewed": true,
+      "checkedCardCount": 5,
+      "checkedRubyCount": 3,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "独立核对本行明日的source a shi ta及整体ruby，与l024一致；かき乱す和以上读音保持。"
+    },
+    {
+      "frameId": "l045",
+      "reviewed": true,
+      "checkedCardCount": 4,
+      "checkedRubyCount": 2,
+      "tokenCoverage": "all cards in this frame",
+      "romajiAndReading": "all cards and full caption checked against supplied kana/roma",
+      "ruby": "all bases/readings/offsets checked; literal kana excluded",
+      "englishAndLoanwords": "No English lyric units. No verified foreign loanword requiring source-language annotation.",
+      "result": "whitespace-only romaji proposals",
+      "notes": "足掻くあがく在此活用足掻いてあがいて，不读あしかく；明日source仍为あした，整体ruby正确；どう与动词、も分写。"
+    }
+  ],
+  "unresolved": [
+    {
+      "frameId": "l011",
+      "field": "caption.furigana.0.reading / grammarCards.0.reading / grammarCards.0.romaji",
+      "issue": "今日的实际唱读未完成听觉确认。",
+      "retainedDraft": "こんにち / konnichi",
+      "sourceEvidence": [
+        "timing/qm-decoded.qrc kana依次给こん、にち；今日对应33103–33991 ms。",
+        "timing/roma.json与roma-decoded.qrc同区间为ko n ni chi；两者可能来自同一QQ编辑，不能当成两个独立听辨来源。",
+        "https://kotobank.jp/word/%E4%BB%8A%E6%97%A5-477559"
+      ],
+      "requiredAction": "原音频source/music.flac的约33.10–33.99秒需由可听辨人员确认；现有工具没有可用音频听辨/转录接口，故不声称已听过。若唱こんにち，继续保留；除非取得反证，不提议改为きょう。"
+    }
+  ],
+  "retainedFindings": [
+    {
+      "frameIds": [
+        "l002",
+        "l003",
+        "l017",
+        "l018"
+      ],
+      "finding": "コタエ/カタチ属于日本语词答え/形的片假名写法，不添加answer/shape等英文来源注释。",
+      "evidence": [
+        "词形、句法与本曲source kana/roma一致；片假名本身不构成外来语证据。"
+      ]
+    },
+    {
+      "frameIds": [
+        "l024",
+        "l044",
+        "l045"
+      ],
+      "finding": "明日保留整体熟字训あした/ashita；QQ三处均明确给あした，不能按常用单字音拆分。",
+      "evidence": [
+        "https://kanjibunka.com/kanji-faq/old-faq/q0497/",
+        "timing/qm-decoded.qrc三处均有2あ(...)し(...)た(...)整体对应明日；timing/roma.json均为a shi ta。"
+      ]
+    },
+    {
+      "frameIds": [
+        "l025"
+      ],
+      "finding": "所為保留整体せい/sei，不改しょい，也不将所/為分别读字音。",
+      "evidence": [
+        "https://www.kanjipedia.jp/kotoba/0003285700",
+        "https://kotobank.jp/word/%E6%89%80%E7%82%BA-530273",
+        "timing/roma.json为se i ni shi te。"
+      ]
+    },
+    {
+      "frameIds": [
+        "l031"
+      ],
+      "finding": "下手保留へた；愛想笑い保留来源あいそわらい。",
+      "evidence": [
+        "https://www.kanjipedia.jp/kotoba/0000619000",
+        "https://kotobank.jp/word/%E6%84%9B%E6%83%B3-421457",
+        "QQ kana/roma给he ta na a i so wa ra i；未听觉核验，但无文本反证。"
+      ]
+    },
+    {
+      "frameIds": [
+        "l045"
+      ],
+      "finding": "足掻いて保留あがいて，足掻/あが整体标注满足kanji-only ruby。",
+      "evidence": [
+        "https://kotobank.jp/word/%E8%B6%B3%E6%8E%BB%E3%81%8F-422576",
+        "timing/roma.json给a ga i te。"
+      ]
+    }
+  ],
+  "verification": {
+    "frameCount": 45,
+    "allDeclaredFramesReviewed": true,
+    "allFrameAndCardStatusesObserved": "draft",
+    "rubyOffsetOrKanaOverannotationErrorsFound": 0,
+    "englishUnitsFound": 0,
+    "tokenStructureChangesProposed": 0,
+    "productionFilesEdited": false,
+    "rendered": false,
+    "needsPostMergeLayoutCheck": "新增空格可能略增宽；采纳后应重新跑排版机械校验，本复审未渲染。"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 4,
+  "slug": "guitar-loneliness-blue-planet",
+  "runId": "inputs-v1",
+  "stage": "inputs_confirmed",
+  "music": {
+    "asset": "source/music.flac",
+    "origin": "direct-copy",
+    "preserveCodec": true,
+    "clock": "music"
+  },
+  "cover": {
+    "asset": "source/cover.jpg"
+  },
+  "lyrics": {
+    "format": "qq-music",
+    "qm": "source/lyrics_qm.qrc",
+    "qmRoma": "source/lyrics_qmRoma.qrc",
+    "qmts": "source/lyrics_qmts.qrc"
+  },
+  "backgroundAsset": "source/background.mp4",
+  "alignment": {
+    "method": "manual",
+    "offsetMs": 20877,
+    "definition": "signed output timestamp assigned to music time zero",
+    "appliesTo": [
+      "music",
+      "lyrics",
+      "spectrum"
+    ],
+    "backgroundClock": "output",
+    "evidence": "Five PCM matching windows agree: original-video time = music time + 36.877 s; user trims 16 s, so output offset is 20.877 s"
+  },
+  "outputs": [
+    {
+      "name": "16x9",
+      "width": 1920,
+      "height": 1080,
+      "fps": 30
+    }
+  ],
+  "pipelinePreset": "custom"
+}

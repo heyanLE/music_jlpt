@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 2,
+  "candidate": "C:\\project\\musicjlpt\\projects\\kimi-no-kioku-reload\\project\\work\\approved-r1\\16x9\\kimi-no-kioku-reload--16x9--approved-r1.mp4",
+  "candidateSha256": "9c241674b9a7125eb455a83b1876ed3387bac77c1c8157181905027236d810cc",
+  "activeHashes": {
+    "inputManifest": "ce48905136ab2e1ca47fcef2a0821b4dbab04821a47c3b6ff6ef025092d9a762",
+    "presentation": "f59443b0451533bfdf5bf98c4028168aeab10a3b48d528012b2e6746e59183e5",
+    "sceneTimeline": "f1182f77f6b1e480e1d80dfefe14983be9db663993bd1b21ecf273507d7ac729",
+    "frames": "6021ae7adbc3b21b824d087d9acc0e4426b843a689f059cdd96a730354453325"
+  },
+  "layers": [
+    "background",
+    "foreground",
+    "floatingOverlay"
+  ],
+  "scenes": [
+    {
+      "id": "stage1-makoto",
+      "startMs": 0,
+      "endMs": 79906,
+      "mode": "video-loop",
+      "asset": "source/background.mp4",
+      "fit": "height-center-pillarbox",
+      "sourceAudio": "mute",
+      "foregroundMode": "follow-lyrics",
+      "transitionIn": {
+        "kind": "none",
+        "durationMs": 0,
+        "scope": "background-only"
+      },
+      "transitionOut": {
+        "kind": "black-fade",
+        "durationMs": 500,
+        "scope": "background-only"
+      }
+    },
+    {
+      "id": "stage2-kotone",
+      "startMs": 79906,
+      "endMs": 159812,
+      "mode": "video-loop",
+      "asset": "source/background-02-kotone.mp4",
+      "fit": "height-center-pillarbox",
+      "sourceAudio": "mute",
+      "foregroundMode": "follow-lyrics",
+      "transitionIn": {
+        "kind": "black-fade",
+        "durationMs": 500,
+        "scope": "background-only"
+      },
+      "transitionOut": {
+        "kind": "black-fade",
+        "durationMs": 500,
+        "scope": "background-only"
+      }
+    },
+    {
+      "id": "stage3-yukari",
+      "startMs": 159812,
+      "endMs": 239718,
+      "mode": "video-loop",
+      "asset": "source/background-03-yukari.mp4",
+      "fit": "height-center-pillarbox",
+      "sourceAudio": "mute",
+      "foregroundMode": "follow-lyrics",
+      "transitionIn": {
+        "kind": "black-fade",
+        "durationMs": 500,
+        "scope": "background-only"
+      },
+      "transitionOut": {
+        "kind": "black-fade",
+        "durationMs": 500,
+        "scope": "background-only"
+      }
+    },
+    {
+      "id": "stage4-mitsuru",
+      "startMs": 239718,
+      "endMs": 319624,
+      "mode": "video-loop",
+      "asset": "source/background-04-mitsuru.mp4",
+      "fit": "height-center-pillarbox",
+      "sourceAudio": "mute",
+      "foregroundMode": "follow-lyrics",
+      "transitionIn": {
+        "kind": "black-fade",
+        "durationMs": 500,
+        "scope": "background-only"
+      },
+      "transitionOut": {
+        "kind": "black-fade",
+        "durationMs": 500,
+        "scope": "background-only"
+      }
+    },
+    {
+      "id": "stage5-fuuka",
+      "startMs": 319624,
+      "endMs": 399530,
+      "mode": "video-loop",
+      "asset": "source/background-05-fuuka.mp4",
+      "fit": "height-center-pillarbox",
+      "sourceAudio": "mute",
+      "foregroundMode": "follow-lyrics",
+      "transitionIn": {
+        "kind": "black-fade",
+        "durationMs": 500,
+        "scope": "background-only"
+      },
+      "transitionOut": {
+        "kind": "none",
+        "durationMs": 0,
+        "scope": "background-only"
+      }
+    }
+  ],
+  "foregroundDefaultMode": "follow-lyrics",
+  "durationMs": 399530,
+  "offsetMs": 0,
+  "audioCodecPolicy": "stream-copy",
+  "foregroundTimeline": {
+    "full": 64,
+    "adjacentRows": 0,
+    "lineFallback": 0,
+    "unmatched": 0,
+    "blankSegments": 6,
+    "neutralSegments": 76,
+    "activeSegments": 636
+  }
+}

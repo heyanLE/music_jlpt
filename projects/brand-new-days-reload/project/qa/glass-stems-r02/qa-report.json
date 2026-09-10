@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "runId": "20260815-r02",
+  "result": "passed",
+  "output": "deliverables/final/brand-new-days-reload--cover-wave-glass-stems--20260815-r02.mp4",
+  "video": { "codec": "h264", "width": 1920, "height": 1080, "fps": 30, "cfr": true, "durationSeconds": 352.6 },
+  "audio": { "codec": "aac", "sampleRate": 44100, "channels": 2 },
+  "checks": {
+    "glassStemsRealtime": true,
+    "frequencyLayerHasNoOpaqueBlackBacking": true,
+    "mixedJapaneseEnglishLine": "passed",
+    "kanjiOnlyFurigana": "passed",
+    "katakanaSourceWordAnnotation": "passed",
+    "cardMeaningFunctionWrap": "passed",
+    "l025SplitCards": "passed"
+  },
+  "screenshots": [
+    "project/qa/glass-stems-r02/loanword.png",
+    "project/qa/glass-stems-r02/long-card.png"
+  ]
+}

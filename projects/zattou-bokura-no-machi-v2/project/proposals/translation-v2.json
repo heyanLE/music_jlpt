@@ -1,0 +1,3876 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "translation",
+  "scope": {
+    "frameIds": [
+      "l006",
+      "l007",
+      "l008",
+      "l009",
+      "l010",
+      "l011",
+      "l012",
+      "l013",
+      "l014",
+      "l015",
+      "l016",
+      "l017",
+      "l018",
+      "l019",
+      "l020",
+      "l021",
+      "l022",
+      "l023",
+      "l024",
+      "l025",
+      "l026",
+      "l027",
+      "l028",
+      "l029",
+      "l030",
+      "l031",
+      "l032",
+      "l033",
+      "l034",
+      "l035",
+      "l036",
+      "l037",
+      "l038",
+      "l039",
+      "l040",
+      "l041",
+      "l042",
+      "l043",
+      "l044",
+      "l045",
+      "l046",
+      "l047",
+      "l048",
+      "l049",
+      "l050",
+      "l051",
+      "l052",
+      "l053",
+      "l054",
+      "l055",
+      "l056",
+      "l057",
+      "l058",
+      "l059",
+      "l060",
+      "l061",
+      "l062",
+      "l063",
+      "l064",
+      "l065",
+      "l066"
+    ]
+  },
+  "baseFrameSha256": "b91c4f3499f05d48bc3aaa7110bcaf542f6059ad4c53af5bb9b7c24ecee0e168",
+  "changes": [
+    {
+      "frameId": "l006",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "やり残した",
+          "zhMeaning": "留下未完成的",
+          "posZh": "复合动词（た形）",
+          "grammarStructureZh": "やり残した：留下未完成的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "鼓動",
+          "zhMeaning": "心跳",
+          "posZh": "名词",
+          "grammarStructureZh": "鼓動：心跳",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "が",
+          "functionZh": "提示主语",
+          "posZh": "助词",
+          "grammarStructureZh": "が：提示主语",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "この",
+          "zhMeaning": "这、这个",
+          "posZh": "连体词",
+          "grammarStructureZh": "この：这、这个",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "夜",
+          "zhMeaning": "夜晚",
+          "posZh": "名词",
+          "grammarStructureZh": "夜：夜晚",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "を",
+          "functionZh": "提示动作对象",
+          "posZh": "助词",
+          "grammarStructureZh": "を：提示动作对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "覆って",
+          "zhMeaning": "覆盖、笼罩",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "覆って：覆盖、笼罩",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l007",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "僕ら",
+          "zhMeaning": "我们",
+          "posZh": "代词",
+          "grammarStructureZh": "僕ら：我们",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "を",
+          "functionZh": "提示动作对象",
+          "posZh": "助词",
+          "grammarStructureZh": "を：提示动作对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "包んで",
+          "zhMeaning": "包裹着、包住并",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "包んで：包裹着、包住并",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "粉々",
+          "zhMeaning": "粉碎、碎片",
+          "posZh": "名词",
+          "grammarStructureZh": "粉々：粉碎、碎片",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "に",
+          "functionZh": "表示变化结果/状态",
+          "posZh": "助词",
+          "grammarStructureZh": "に：表示变化结果/状态",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "なる",
+          "zhMeaning": "变成",
+          "posZh": "动词",
+          "grammarStructureZh": "なる：变成",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "前",
+          "zhMeaning": "之前",
+          "posZh": "名词",
+          "grammarStructureZh": "前：之前",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "に",
+          "functionZh": "表示时间界限",
+          "posZh": "助词",
+          "grammarStructureZh": "に：表示时间界限",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l008",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "頼りなくても",
+          "zhMeaning": "即使不可靠也",
+          "posZh": "形容词让步形",
+          "grammarStructureZh": "頼りなくても：即使不可靠也",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "いい",
+          "zhMeaning": "可以、无妨",
+          "posZh": "形容词",
+          "grammarStructureZh": "いい：可以、无妨",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "その",
+          "zhMeaning": "那、那个",
+          "posZh": "连体词",
+          "grammarStructureZh": "その：那、那个",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "手",
+          "zhMeaning": "手；援手",
+          "posZh": "名词",
+          "grammarStructureZh": "手：手；援手",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "を",
+          "functionZh": "提示动作对象",
+          "posZh": "助词",
+          "grammarStructureZh": "を：提示动作对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l009",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "この",
+          "zhMeaning": "这、这个",
+          "posZh": "连体词",
+          "grammarStructureZh": "この：这、这个",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "手",
+          "zhMeaning": "手",
+          "posZh": "名词",
+          "grammarStructureZh": "手：手",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "は",
+          "functionZh": "提示主题并形成对比/强调",
+          "posZh": "助词",
+          "grammarStructureZh": "は：提示主题并形成对比/强调",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "自分",
+          "zhMeaning": "自己",
+          "posZh": "名词",
+          "grammarStructureZh": "自分：自己",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "自身",
+          "zhMeaning": "自身、本身",
+          "posZh": "名词",
+          "grammarStructureZh": "自身：自身、本身",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "の",
+          "functionZh": "所属修饰",
+          "posZh": "助词",
+          "grammarStructureZh": "の：所属修饰",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "もの",
+          "zhMeaning": "东西；属于……的东西",
+          "posZh": "形式名词",
+          "grammarStructureZh": "もの：东西；属于……的东西",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "さ",
+          "functionZh": "加强陈述语气",
+          "posZh": "终助词",
+          "grammarStructureZh": "さ：加强陈述语气",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l010",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "変わらない",
+          "zhMeaning": "不会改变",
+          "posZh": "动词否定形",
+          "grammarStructureZh": "変わらない：不会改变",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "はず",
+          "zhMeaning": "按理应当；预期",
+          "posZh": "形式名词",
+          "grammarStructureZh": "はず：按理应当；预期",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "は",
+          "functionZh": "提示主题并强调否定",
+          "posZh": "助词",
+          "grammarStructureZh": "は：提示主题并强调否定",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "ない",
+          "zhMeaning": "没有；不",
+          "posZh": "形容词",
+          "grammarStructureZh": "ない：没有；不",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "よ",
+          "functionZh": "提示、强调给听者",
+          "posZh": "终助词",
+          "grammarStructureZh": "よ：提示、强调给听者",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l011",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "手",
+          "zhMeaning": "手",
+          "posZh": "名词",
+          "grammarStructureZh": "手：手",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "を",
+          "functionZh": "提示动作对象",
+          "posZh": "助词",
+          "grammarStructureZh": "を：提示动作对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "伸ばして",
+          "zhMeaning": "伸出（手）",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "伸ばして：伸出（手）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l012",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "雑踏",
+          "zhMeaning": "拥挤的人潮、喧闹街头",
+          "posZh": "名词",
+          "grammarStructureZh": "雑踏：拥挤的人潮、喧闹街头",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "の",
+          "functionZh": "所属修饰",
+          "posZh": "助词",
+          "grammarStructureZh": "の：所属修饰",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "中",
+          "zhMeaning": "之中",
+          "posZh": "名词",
+          "grammarStructureZh": "中：之中",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "で",
+          "functionZh": "表示动作发生的场所",
+          "posZh": "助词",
+          "grammarStructureZh": "で：表示动作发生的场所",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "声",
+          "zhMeaning": "声音",
+          "posZh": "名词",
+          "grammarStructureZh": "声：声音",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "無き",
+          "zhMeaning": "没有……的",
+          "posZh": "连体词性表达",
+          "grammarStructureZh": "無き：没有……的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "声",
+          "zhMeaning": "声音",
+          "posZh": "名词",
+          "grammarStructureZh": "声：声音",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "で",
+          "functionZh": "表示动作方式/状态",
+          "posZh": "助词",
+          "grammarStructureZh": "で：表示动作方式/状态",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "泣いて",
+          "zhMeaning": "哭泣着",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "泣いて：哭泣着",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "いる",
+          "zhMeaning": "正在；持续",
+          "posZh": "补助动词",
+          "grammarStructureZh": "いる：正在；持续",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l013",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "足跡",
+          "zhMeaning": "足迹",
+          "posZh": "名词",
+          "grammarStructureZh": "足跡：足迹",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "が",
+          "functionZh": "提示主语",
+          "posZh": "助词",
+          "grammarStructureZh": "が：提示主语",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "今",
+          "zhMeaning": "此刻、现在",
+          "posZh": "名词",
+          "grammarStructureZh": "今：此刻、现在",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "誰か",
+          "zhMeaning": "某人",
+          "posZh": "不定代词",
+          "grammarStructureZh": "誰か：某人",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "の",
+          "functionZh": "所属修饰",
+          "posZh": "助词",
+          "grammarStructureZh": "の：所属修饰",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "声",
+          "zhMeaning": "声音",
+          "posZh": "名词",
+          "grammarStructureZh": "声：声音",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "を",
+          "functionZh": "提示动作对象",
+          "posZh": "助词",
+          "grammarStructureZh": "を：提示动作对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "消した",
+          "zhMeaning": "消去了、抹去了",
+          "posZh": "动词（た形）",
+          "grammarStructureZh": "消した：消去了、抹去了",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "朝",
+          "zhMeaning": "清晨",
+          "posZh": "名词",
+          "grammarStructureZh": "朝：清晨",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l014",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "いつ",
+          "zhMeaning": "何时",
+          "posZh": "疑问代词",
+          "grammarStructureZh": "いつ：何时",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "に",
+          "functionZh": "表示变化到达的时间",
+          "posZh": "助词",
+          "grammarStructureZh": "に：表示变化到达的时间",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "なっても",
+          "zhMeaning": "即使变成……也",
+          "posZh": "让步表达",
+          "grammarStructureZh": "なっても：即使变成……也",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "枯れる",
+          "zhMeaning": "枯萎、枯竭",
+          "posZh": "动词",
+          "grammarStructureZh": "枯れる：枯萎、枯竭",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "こと",
+          "zhMeaning": "事情；……这一情况",
+          "posZh": "形式名词",
+          "grammarStructureZh": "こと：事情；……这一情况",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "の",
+          "functionZh": "连接修饰",
+          "posZh": "助词",
+          "grammarStructureZh": "の：连接修饰",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "ない",
+          "zhMeaning": "没有；不",
+          "posZh": "形容词",
+          "grammarStructureZh": "ない：没有；不",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l015",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "腐敗",
+          "zhMeaning": "腐败",
+          "posZh": "名词",
+          "grammarStructureZh": "腐敗：腐败",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "した",
+          "zhMeaning": "做了的；已……的",
+          "posZh": "动词（た形）",
+          "grammarStructureZh": "した：做了的；已……的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "街",
+          "zhMeaning": "城市、街道",
+          "posZh": "名词",
+          "grammarStructureZh": "街：城市、街道",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "の",
+          "functionZh": "所属修饰",
+          "posZh": "助词",
+          "grammarStructureZh": "の：所属修饰",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "泥水",
+          "zhMeaning": "泥水",
+          "posZh": "名词",
+          "grammarStructureZh": "泥水：泥水",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "が",
+          "functionZh": "提示主语",
+          "posZh": "助词",
+          "grammarStructureZh": "が：提示主语",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "冷たい",
+          "zhMeaning": "冰冷的",
+          "posZh": "形容词",
+          "grammarStructureZh": "冷たい：冰冷的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l016",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "何",
+          "zhMeaning": "什么",
+          "posZh": "疑问代词",
+          "grammarStructureZh": "何：什么",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "にも",
+          "functionZh": "与否定呼应，表示‘什么也’",
+          "posZh": "助词",
+          "grammarStructureZh": "にも：与否定呼应，表示‘什么也’",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "変わらない",
+          "zhMeaning": "不改变",
+          "posZh": "动词否定形",
+          "grammarStructureZh": "変わらない：不改变",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "世界",
+          "zhMeaning": "世界",
+          "posZh": "名词",
+          "grammarStructureZh": "世界：世界",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "で",
+          "functionZh": "表示范围、场合",
+          "posZh": "助词",
+          "grammarStructureZh": "で：表示范围、场合",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l017",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "今日",
+          "zhMeaning": "今天",
+          "posZh": "名词",
+          "grammarStructureZh": "今日：今天",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "だって",
+          "functionZh": "即使是……也；……依然",
+          "posZh": "提示表达",
+          "grammarStructureZh": "だって：即使是……也；……依然",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "生きて",
+          "zhMeaning": "活着、生活着",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "生きて：活着、生活着",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "ゆく",
+          "zhMeaning": "持续……下去",
+          "posZh": "补助动词",
+          "grammarStructureZh": "ゆく：持续……下去",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "んだ",
+          "functionZh": "说明、强调语气",
+          "posZh": "终助表达",
+          "grammarStructureZh": "んだ：说明、强调语气",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l018",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "くだらない",
+          "zhMeaning": "毫无意义的、无聊的",
+          "posZh": "形容词",
+          "grammarStructureZh": "くだらない：毫无意义的、无聊的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "けど",
+          "functionZh": "表示转折或铺垫",
+          "posZh": "接续助词",
+          "grammarStructureZh": "けど：表示转折或铺垫",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "仕方ない",
+          "zhMeaning": "没办法、无可奈何",
+          "posZh": "固定表达",
+          "grammarStructureZh": "仕方ない：没办法、无可奈何",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "でしょ",
+          "functionZh": "表示确认、推测‘吧’",
+          "posZh": "助动词",
+          "grammarStructureZh": "でしょ：表示确认、推测‘吧’",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l019",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "僕ら",
+          "zhMeaning": "我们",
+          "posZh": "代词",
+          "grammarStructureZh": "僕ら：我们",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "は",
+          "functionZh": "提示主题",
+          "posZh": "助词",
+          "grammarStructureZh": "は：提示主题",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "もう",
+          "zhMeaning": "已经",
+          "posZh": "副词",
+          "grammarStructureZh": "もう：已经",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "歩き",
+          "zhMeaning": "走、迈步",
+          "posZh": "动词连用形",
+          "grammarStructureZh": "歩き：走、迈步",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "始めた",
+          "zhMeaning": "开始了",
+          "posZh": "补助动词（た形）",
+          "grammarStructureZh": "始めた：开始了",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "んだ",
+          "functionZh": "说明、强调语气",
+          "posZh": "终助表达",
+          "grammarStructureZh": "んだ：说明、强调语气",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l020",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "嘘",
+          "zhMeaning": "谎言",
+          "posZh": "名词",
+          "grammarStructureZh": "嘘：谎言",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "みたいな",
+          "zhMeaning": "像……一样的",
+          "posZh": "比况表达",
+          "grammarStructureZh": "みたいな：像……一样的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "馬鹿",
+          "zhMeaning": "傻瓜",
+          "posZh": "名词",
+          "grammarStructureZh": "馬鹿：傻瓜",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "みたいな",
+          "zhMeaning": "像……一样的",
+          "posZh": "比况表达",
+          "grammarStructureZh": "みたいな：像……一样的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l021",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "どうしようもない",
+          "zhMeaning": "无可奈何、无药可救",
+          "posZh": "固定表达",
+          "grammarStructureZh": "どうしようもない：无可奈何、无药可救",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "僕ら",
+          "zhMeaning": "我们",
+          "posZh": "代词",
+          "grammarStructureZh": "僕ら：我们",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "の",
+          "functionZh": "所属修饰",
+          "posZh": "助词",
+          "grammarStructureZh": "の：所属修饰",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "街",
+          "zhMeaning": "城市、街道",
+          "posZh": "名词",
+          "grammarStructureZh": "街：城市、街道",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l022",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "それでも",
+          "zhMeaning": "即便如此、尽管如此",
+          "posZh": "接续副词",
+          "grammarStructureZh": "それでも：即便如此、尽管如此",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l023",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "この",
+          "zhMeaning": "这、这个",
+          "posZh": "连体词",
+          "grammarStructureZh": "この：这、这个",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "眼",
+          "zhMeaning": "眼睛",
+          "posZh": "名词",
+          "grammarStructureZh": "眼：眼睛",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "で",
+          "functionZh": "表示手段、工具",
+          "posZh": "助词",
+          "grammarStructureZh": "で：表示手段、工具",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "確かに",
+          "zhMeaning": "确实地、的确",
+          "posZh": "副词",
+          "grammarStructureZh": "確かに：确实地、的确",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "見えた",
+          "zhMeaning": "看见了；能看见",
+          "posZh": "动词（た形）",
+          "grammarStructureZh": "見えた：看见了；能看见",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "んだ",
+          "functionZh": "说明、强调语气",
+          "posZh": "终助表达",
+          "grammarStructureZh": "んだ：说明、强调语气",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l024",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "この",
+          "zhMeaning": "这、这个",
+          "posZh": "连体词",
+          "grammarStructureZh": "この：这、这个",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "手",
+          "zhMeaning": "手",
+          "posZh": "名词",
+          "grammarStructureZh": "手：手",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "で",
+          "functionZh": "表示手段、工具",
+          "posZh": "助词",
+          "grammarStructureZh": "で：表示手段、工具",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "確かに",
+          "zhMeaning": "确实地、的确",
+          "posZh": "副词",
+          "grammarStructureZh": "確かに：确实地、的确",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "触れた",
+          "zhMeaning": "触碰到了",
+          "posZh": "动词（た形）",
+          "grammarStructureZh": "触れた：触碰到了",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "んだ",
+          "functionZh": "说明、强调语气",
+          "posZh": "终助表达",
+          "grammarStructureZh": "んだ：说明、强调语气",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l025",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "ねえ",
+          "zhMeaning": "喂；呐（唤起注意）",
+          "posZh": "感叹词",
+          "grammarStructureZh": "ねえ：喂；呐（唤起注意）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "ほら",
+          "zhMeaning": "你看；瞧",
+          "posZh": "感叹词",
+          "grammarStructureZh": "ほら：你看；瞧",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "ほら",
+          "zhMeaning": "你看；瞧",
+          "posZh": "感叹词",
+          "grammarStructureZh": "ほら：你看；瞧",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l026",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "ほら",
+          "zhMeaning": "你看；瞧",
+          "posZh": "感叹词",
+          "grammarStructureZh": "ほら：你看；瞧",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "また",
+          "zhMeaning": "又、再次",
+          "posZh": "副词",
+          "grammarStructureZh": "また：又、再次",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "吹いた",
+          "zhMeaning": "吹起了、拂过了",
+          "posZh": "动词（た形）",
+          "grammarStructureZh": "吹いた：吹起了、拂过了",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "馬鹿",
+          "zhMeaning": "傻瓜",
+          "posZh": "名词",
+          "grammarStructureZh": "馬鹿：傻瓜",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "みたいだ",
+          "zhMeaning": "像……一样",
+          "posZh": "比况表达",
+          "grammarStructureZh": "みたいだ：像……一样",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l027",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "どうしようもない",
+          "zhMeaning": "无可奈何、无药可救",
+          "posZh": "固定表达",
+          "grammarStructureZh": "どうしようもない：无可奈何、无药可救",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "闇",
+          "zhMeaning": "黑暗",
+          "posZh": "名词",
+          "grammarStructureZh": "闇：黑暗",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "を",
+          "functionZh": "提示动作对象",
+          "posZh": "助词",
+          "grammarStructureZh": "を：提示动作对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "照らせ",
+          "zhMeaning": "照亮吧",
+          "posZh": "动词命令形",
+          "grammarStructureZh": "照らせ：照亮吧",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l028",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "夢",
+          "zhMeaning": "梦境",
+          "posZh": "名词",
+          "grammarStructureZh": "夢：梦境",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "じゃない",
+          "zhMeaning": "不是",
+          "posZh": "否定表达",
+          "grammarStructureZh": "じゃない：不是",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l029",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "どうせ",
+          "zhMeaning": "反正、终究",
+          "posZh": "副词",
+          "grammarStructureZh": "どうせ：反正、终究",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "終わってる",
+          "zhMeaning": "已经结束了、完了",
+          "posZh": "动词（口语完成状态）",
+          "grammarStructureZh": "終わってる：已经结束了、完了",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "街",
+          "zhMeaning": "城市、街道",
+          "posZh": "名词",
+          "grammarStructureZh": "街：城市、街道",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "だって",
+          "functionZh": "即使是……也",
+          "posZh": "提示表达",
+          "grammarStructureZh": "だって：即使是……也",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l030",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "諦めたって",
+          "zhMeaning": "即使放弃也",
+          "posZh": "让步表达",
+          "grammarStructureZh": "諦めたって：即使放弃也",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "変わんない",
+          "zhMeaning": "不会改变",
+          "posZh": "动词否定口语形",
+          "grammarStructureZh": "変わんない：不会改变",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "ぜ",
+          "functionZh": "加强断言语气",
+          "posZh": "终助词",
+          "grammarStructureZh": "ぜ：加强断言语气",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l031",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "ああ",
+          "zhMeaning": "啊啊",
+          "posZh": "感叹词",
+          "grammarStructureZh": "ああ：啊啊",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "まだ",
+          "zhMeaning": "仍然、还",
+          "posZh": "副词",
+          "grammarStructureZh": "まだ：仍然、还",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "まだ",
+          "zhMeaning": "仍然、还",
+          "posZh": "副词",
+          "grammarStructureZh": "まだ：仍然、还",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "まだ",
+          "zhMeaning": "仍然、还",
+          "posZh": "副词",
+          "grammarStructureZh": "まだ：仍然、还",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l032",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "やり残した",
+          "zhMeaning": "留下未完成的",
+          "posZh": "复合动词（た形）",
+          "grammarStructureZh": "やり残した：留下未完成的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "鼓動",
+          "zhMeaning": "心跳",
+          "posZh": "名词",
+          "grammarStructureZh": "鼓動：心跳",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "が",
+          "functionZh": "提示主语",
+          "posZh": "助词",
+          "grammarStructureZh": "が：提示主语",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "この",
+          "zhMeaning": "这、这个",
+          "posZh": "连体词",
+          "grammarStructureZh": "この：这、这个",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "夜",
+          "zhMeaning": "夜晚",
+          "posZh": "名词",
+          "grammarStructureZh": "夜：夜晚",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "を",
+          "functionZh": "提示动作对象",
+          "posZh": "助词",
+          "grammarStructureZh": "を：提示动作对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "覆って",
+          "zhMeaning": "覆盖、笼罩",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "覆って：覆盖、笼罩",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l033",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "僕ら",
+          "zhMeaning": "我们",
+          "posZh": "代词",
+          "grammarStructureZh": "僕ら：我们",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "を",
+          "functionZh": "提示动作对象",
+          "posZh": "助词",
+          "grammarStructureZh": "を：提示动作对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "包んで",
+          "zhMeaning": "包裹着、包住并",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "包んで：包裹着、包住并",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "粉々",
+          "zhMeaning": "粉碎、碎片",
+          "posZh": "名词",
+          "grammarStructureZh": "粉々：粉碎、碎片",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "に",
+          "functionZh": "表示变化结果/状态",
+          "posZh": "助词",
+          "grammarStructureZh": "に：表示变化结果/状态",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "なる",
+          "zhMeaning": "变成",
+          "posZh": "动词",
+          "grammarStructureZh": "なる：变成",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "前",
+          "zhMeaning": "之前",
+          "posZh": "名词",
+          "grammarStructureZh": "前：之前",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "に",
+          "functionZh": "表示时间界限",
+          "posZh": "助词",
+          "grammarStructureZh": "に：表示时间界限",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l034",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "頼りなくても",
+          "zhMeaning": "即使不可靠也",
+          "posZh": "形容词让步形",
+          "grammarStructureZh": "頼りなくても：即使不可靠也",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "いい",
+          "zhMeaning": "可以、无妨",
+          "posZh": "形容词",
+          "grammarStructureZh": "いい：可以、无妨",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "その",
+          "zhMeaning": "那、那个",
+          "posZh": "连体词",
+          "grammarStructureZh": "その：那、那个",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "手",
+          "zhMeaning": "手；援手",
+          "posZh": "名词",
+          "grammarStructureZh": "手：手；援手",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "を",
+          "functionZh": "提示动作对象",
+          "posZh": "助词",
+          "grammarStructureZh": "を：提示动作对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l035",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "この",
+          "zhMeaning": "这、这个",
+          "posZh": "连体词",
+          "grammarStructureZh": "この：这、这个",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "手",
+          "zhMeaning": "手",
+          "posZh": "名词",
+          "grammarStructureZh": "手：手",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "は",
+          "functionZh": "提示主题并形成对比/强调",
+          "posZh": "助词",
+          "grammarStructureZh": "は：提示主题并形成对比/强调",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "自分",
+          "zhMeaning": "自己",
+          "posZh": "名词",
+          "grammarStructureZh": "自分：自己",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "自身",
+          "zhMeaning": "自身、本身",
+          "posZh": "名词",
+          "grammarStructureZh": "自身：自身、本身",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "の",
+          "functionZh": "所属修饰",
+          "posZh": "助词",
+          "grammarStructureZh": "の：所属修饰",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "もの",
+          "zhMeaning": "东西；属于……的东西",
+          "posZh": "形式名词",
+          "grammarStructureZh": "もの：东西；属于……的东西",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "さ",
+          "functionZh": "加强陈述语气",
+          "posZh": "终助词",
+          "grammarStructureZh": "さ：加强陈述语气",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l036",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "変わらない",
+          "zhMeaning": "不会改变",
+          "posZh": "动词否定形",
+          "grammarStructureZh": "変わらない：不会改变",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "はず",
+          "zhMeaning": "按理应当；预期",
+          "posZh": "形式名词",
+          "grammarStructureZh": "はず：按理应当；预期",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "は",
+          "functionZh": "提示主题并强调否定",
+          "posZh": "助词",
+          "grammarStructureZh": "は：提示主题并强调否定",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "ない",
+          "zhMeaning": "没有；不",
+          "posZh": "形容词",
+          "grammarStructureZh": "ない：没有；不",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "よ",
+          "functionZh": "提示、强调给听者",
+          "posZh": "终助词",
+          "grammarStructureZh": "よ：提示、强调给听者",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l037",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "手",
+          "zhMeaning": "手",
+          "posZh": "名词",
+          "grammarStructureZh": "手：手",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "を",
+          "functionZh": "提示动作对象",
+          "posZh": "助词",
+          "grammarStructureZh": "を：提示动作对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "伸ばして",
+          "zhMeaning": "伸出（手）",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "伸ばして：伸出（手）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l038",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "永遠",
+          "zhMeaning": "永恒",
+          "posZh": "名词",
+          "grammarStructureZh": "永遠：永恒",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "の",
+          "functionZh": "所属修饰",
+          "posZh": "助词",
+          "grammarStructureZh": "の：所属修饰",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "中",
+          "zhMeaning": "之中",
+          "posZh": "名词",
+          "grammarStructureZh": "中：之中",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "で",
+          "functionZh": "表示范围、场合",
+          "posZh": "助词",
+          "grammarStructureZh": "で：表示范围、场合",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "迷わない",
+          "zhMeaning": "不迷失、不犹豫",
+          "posZh": "动词否定形",
+          "grammarStructureZh": "迷わない：不迷失、不犹豫",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "為",
+          "zhMeaning": "为了；目的",
+          "posZh": "名词",
+          "grammarStructureZh": "為：为了；目的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "の",
+          "functionZh": "所属修饰",
+          "posZh": "助词",
+          "grammarStructureZh": "の：所属修饰",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "温もり",
+          "zhMeaning": "温暖、暖意",
+          "posZh": "名词",
+          "grammarStructureZh": "温もり：温暖、暖意",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l039",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "軽薄",
+          "zhMeaning": "轻率、轻浮",
+          "posZh": "形容动词词干",
+          "grammarStructureZh": "軽薄：轻率、轻浮",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "な",
+          "functionZh": "连接形容动词与名词",
+          "posZh": "助动词",
+          "grammarStructureZh": "な：连接形容动词与名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "君",
+          "zhMeaning": "你",
+          "posZh": "代词",
+          "grammarStructureZh": "君：你",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "に",
+          "functionZh": "表示对象、方向",
+          "posZh": "助词",
+          "grammarStructureZh": "に：表示对象、方向",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l040",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "届く",
+          "zhMeaning": "传达、送到",
+          "posZh": "动词",
+          "grammarStructureZh": "届く：传达、送到",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "こと",
+          "zhMeaning": "事情；……这一情况",
+          "posZh": "形式名词",
+          "grammarStructureZh": "こと：事情；……这一情况",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "なく",
+          "functionZh": "表示‘不……而’",
+          "posZh": "接续助词",
+          "grammarStructureZh": "なく：表示‘不……而’",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "散って",
+          "zhMeaning": "消散着",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "散って：消散着",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "ゆく",
+          "zhMeaning": "逐渐……下去",
+          "posZh": "补助动词",
+          "grammarStructureZh": "ゆく：逐渐……下去",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l041",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "想像",
+          "zhMeaning": "想象",
+          "posZh": "名词",
+          "grammarStructureZh": "想像：想象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "通り",
+          "zhMeaning": "如同、按照",
+          "posZh": "形式名词",
+          "grammarStructureZh": "通り：如同、按照",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "そんな",
+          "zhMeaning": "那样的",
+          "posZh": "连体词",
+          "grammarStructureZh": "そんな：那样的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "はず",
+          "zhMeaning": "按理应当；预期",
+          "posZh": "形式名词",
+          "grammarStructureZh": "はず：按理应当；预期",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "は",
+          "functionZh": "提示主题并强调否定",
+          "posZh": "助词",
+          "grammarStructureZh": "は：提示主题并强调否定",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "ない",
+          "zhMeaning": "没有；不",
+          "posZh": "形容词",
+          "grammarStructureZh": "ない：没有；不",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l042",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "逃げりゃ",
+          "zhMeaning": "如果逃跑的话（逃げれば的口语缩约）",
+          "posZh": "条件表达",
+          "grammarStructureZh": "逃げりゃ：如果逃跑的话（逃げれば的口语缩约）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "いい",
+          "zhMeaning": "可以、无妨",
+          "posZh": "形容词",
+          "grammarStructureZh": "いい：可以、无妨",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "でしょ",
+          "functionZh": "表示确认、推测‘吧’",
+          "posZh": "助动词",
+          "grammarStructureZh": "でしょ：表示确认、推测‘吧’",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l043",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "簡単",
+          "zhMeaning": "简单、轻易",
+          "posZh": "形容动词词干",
+          "grammarStructureZh": "簡単：简单、轻易",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "に",
+          "functionZh": "使形容动词作状语",
+          "posZh": "助词",
+          "grammarStructureZh": "に：使形容动词作状语",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "言わない",
+          "zhMeaning": "不说",
+          "posZh": "动词否定形",
+          "grammarStructureZh": "言わない：不说",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "で",
+          "functionZh": "表示否定请求‘不要……’",
+          "posZh": "接续助词",
+          "grammarStructureZh": "で：表示否定请求‘不要……’",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l044",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "いつも",
+          "zhMeaning": "总是、平时",
+          "posZh": "副词",
+          "grammarStructureZh": "いつも：总是、平时",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "通り",
+          "zhMeaning": "如同、按照",
+          "posZh": "形式名词",
+          "grammarStructureZh": "通り：如同、按照",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "の",
+          "functionZh": "所属修饰",
+          "posZh": "助词",
+          "grammarStructureZh": "の：所属修饰",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "世界",
+          "zhMeaning": "世界",
+          "posZh": "名词",
+          "grammarStructureZh": "世界：世界",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "を",
+          "functionZh": "提示动作对象",
+          "posZh": "助词",
+          "grammarStructureZh": "を：提示动作对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l045",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "今日",
+          "zhMeaning": "今天",
+          "posZh": "名词",
+          "grammarStructureZh": "今日：今天",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "だって",
+          "functionZh": "即使是……也；……依然",
+          "posZh": "提示表达",
+          "grammarStructureZh": "だって：即使是……也；……依然",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "駆けて",
+          "zhMeaning": "奔跑着",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "駆けて：奔跑着",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "ゆく",
+          "zhMeaning": "持续……下去",
+          "posZh": "补助动词",
+          "grammarStructureZh": "ゆく：持续……下去",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "んだ",
+          "functionZh": "说明、强调语气",
+          "posZh": "终助表达",
+          "grammarStructureZh": "んだ：说明、强调语气",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l046",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "滑り",
+          "zhMeaning": "滑、滑落",
+          "posZh": "动词连用形",
+          "grammarStructureZh": "滑り：滑、滑落",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "落ちたら",
+          "zhMeaning": "如果落下的话",
+          "posZh": "条件表达",
+          "grammarStructureZh": "落ちたら：如果落下的话",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "掴んで",
+          "zhMeaning": "抓住",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "掴んで：抓住",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "やろう",
+          "zhMeaning": "我来……吧；为你……",
+          "posZh": "补助动词意志形",
+          "grammarStructureZh": "やろう：我来……吧；为你……",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l047",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "灰色",
+          "zhMeaning": "灰色",
+          "posZh": "名词",
+          "grammarStructureZh": "灰色：灰色",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "の",
+          "functionZh": "所属修饰",
+          "posZh": "助词",
+          "grammarStructureZh": "の：所属修饰",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "空",
+          "zhMeaning": "天空",
+          "posZh": "名词",
+          "grammarStructureZh": "空：天空",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "その",
+          "zhMeaning": "那、那个",
+          "posZh": "连体词",
+          "grammarStructureZh": "その：那、那个",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "中",
+          "zhMeaning": "之中",
+          "posZh": "名词",
+          "grammarStructureZh": "中：之中",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "で",
+          "functionZh": "表示范围、场合",
+          "posZh": "助词",
+          "grammarStructureZh": "で：表示范围、场合",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "煌めく",
+          "zhMeaning": "闪耀、闪烁",
+          "posZh": "动词",
+          "grammarStructureZh": "煌めく：闪耀、闪烁",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "青さ",
+          "zhMeaning": "蔚蓝；蓝色的程度",
+          "posZh": "名词",
+          "grammarStructureZh": "青さ：蔚蓝；蓝色的程度",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "を",
+          "functionZh": "提示动作对象",
+          "posZh": "助词",
+          "grammarStructureZh": "を：提示动作对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l048",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "嘘",
+          "zhMeaning": "谎言",
+          "posZh": "名词",
+          "grammarStructureZh": "嘘：谎言",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "みたいな",
+          "zhMeaning": "像……一样的",
+          "posZh": "比况表达",
+          "grammarStructureZh": "みたいな：像……一样的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "馬鹿",
+          "zhMeaning": "傻瓜",
+          "posZh": "名词",
+          "grammarStructureZh": "馬鹿：傻瓜",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "みたいな",
+          "zhMeaning": "像……一样的",
+          "posZh": "比况表达",
+          "grammarStructureZh": "みたいな：像……一样的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l049",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "どうしようもない",
+          "zhMeaning": "无可奈何、无药可救",
+          "posZh": "固定表达",
+          "grammarStructureZh": "どうしようもない：无可奈何、无药可救",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "僕ら",
+          "zhMeaning": "我们",
+          "posZh": "代词",
+          "grammarStructureZh": "僕ら：我们",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "の",
+          "functionZh": "所属修饰",
+          "posZh": "助词",
+          "grammarStructureZh": "の：所属修饰",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "街",
+          "zhMeaning": "城市、街道",
+          "posZh": "名词",
+          "grammarStructureZh": "街：城市、街道",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l050",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "それでも",
+          "zhMeaning": "即便如此、尽管如此",
+          "posZh": "接续副词",
+          "grammarStructureZh": "それでも：即便如此、尽管如此",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l051",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "この",
+          "zhMeaning": "这、这个",
+          "posZh": "连体词",
+          "grammarStructureZh": "この：这、这个",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "眼",
+          "zhMeaning": "眼睛",
+          "posZh": "名词",
+          "grammarStructureZh": "眼：眼睛",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "で",
+          "functionZh": "表示手段、工具",
+          "posZh": "助词",
+          "grammarStructureZh": "で：表示手段、工具",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "確かに",
+          "zhMeaning": "确实地、的确",
+          "posZh": "副词",
+          "grammarStructureZh": "確かに：确实地、的确",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "見えた",
+          "zhMeaning": "看见了；能看见",
+          "posZh": "动词（た形）",
+          "grammarStructureZh": "見えた：看见了；能看见",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "んだ",
+          "functionZh": "说明、强调语气",
+          "posZh": "终助表达",
+          "grammarStructureZh": "んだ：说明、强调语气",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l052",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "この",
+          "zhMeaning": "这、这个",
+          "posZh": "连体词",
+          "grammarStructureZh": "この：这、这个",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "手",
+          "zhMeaning": "手",
+          "posZh": "名词",
+          "grammarStructureZh": "手：手",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "で",
+          "functionZh": "表示手段、工具",
+          "posZh": "助词",
+          "grammarStructureZh": "で：表示手段、工具",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "確かに",
+          "zhMeaning": "确实地、的确",
+          "posZh": "副词",
+          "grammarStructureZh": "確かに：确实地、的确",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "触れた",
+          "zhMeaning": "触碰到了",
+          "posZh": "动词（た形）",
+          "grammarStructureZh": "触れた：触碰到了",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "んだ",
+          "functionZh": "说明、强调语气",
+          "posZh": "终助表达",
+          "grammarStructureZh": "んだ：说明、强调语气",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l053",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "ねえ",
+          "zhMeaning": "喂；呐（唤起注意）",
+          "posZh": "感叹词",
+          "grammarStructureZh": "ねえ：喂；呐（唤起注意）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "ほら",
+          "zhMeaning": "你看；瞧",
+          "posZh": "感叹词",
+          "grammarStructureZh": "ほら：你看；瞧",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "ほら",
+          "zhMeaning": "你看；瞧",
+          "posZh": "感叹词",
+          "grammarStructureZh": "ほら：你看；瞧",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l054",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "ほら",
+          "zhMeaning": "你看；瞧",
+          "posZh": "感叹词",
+          "grammarStructureZh": "ほら：你看；瞧",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "また",
+          "zhMeaning": "又、再次",
+          "posZh": "副词",
+          "grammarStructureZh": "また：又、再次",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "吹いた",
+          "zhMeaning": "吹起了、拂过了",
+          "posZh": "动词（た形）",
+          "grammarStructureZh": "吹いた：吹起了、拂过了",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "馬鹿",
+          "zhMeaning": "傻瓜",
+          "posZh": "名词",
+          "grammarStructureZh": "馬鹿：傻瓜",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "みたいだ",
+          "zhMeaning": "像……一样",
+          "posZh": "比况表达",
+          "grammarStructureZh": "みたいだ：像……一样",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l055",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "どうしようもない",
+          "zhMeaning": "无可奈何、无药可救",
+          "posZh": "固定表达",
+          "grammarStructureZh": "どうしようもない：无可奈何、无药可救",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "闇",
+          "zhMeaning": "黑暗",
+          "posZh": "名词",
+          "grammarStructureZh": "闇：黑暗",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "を",
+          "functionZh": "提示动作对象",
+          "posZh": "助词",
+          "grammarStructureZh": "を：提示动作对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "照らせ",
+          "zhMeaning": "照亮吧",
+          "posZh": "动词命令形",
+          "grammarStructureZh": "照らせ：照亮吧",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l056",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "夢",
+          "zhMeaning": "梦境",
+          "posZh": "名词",
+          "grammarStructureZh": "夢：梦境",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "じゃない",
+          "zhMeaning": "不是",
+          "posZh": "否定表达",
+          "grammarStructureZh": "じゃない：不是",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l057",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "どうせ",
+          "zhMeaning": "反正、终究",
+          "posZh": "副词",
+          "grammarStructureZh": "どうせ：反正、终究",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "終わってる",
+          "zhMeaning": "已经结束了、完了",
+          "posZh": "动词（口语完成状态）",
+          "grammarStructureZh": "終わってる：已经结束了、完了",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "街",
+          "zhMeaning": "城市、街道",
+          "posZh": "名词",
+          "grammarStructureZh": "街：城市、街道",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "だって",
+          "functionZh": "即使是……也",
+          "posZh": "提示表达",
+          "grammarStructureZh": "だって：即使是……也",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l058",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "諦めたって",
+          "zhMeaning": "即使放弃也",
+          "posZh": "让步表达",
+          "grammarStructureZh": "諦めたって：即使放弃也",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "変わんない",
+          "zhMeaning": "不会改变",
+          "posZh": "动词否定口语形",
+          "grammarStructureZh": "変わんない：不会改变",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "ぜ",
+          "functionZh": "加强断言语气",
+          "posZh": "终助词",
+          "grammarStructureZh": "ぜ：加强断言语气",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l059",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "ああ",
+          "zhMeaning": "啊啊",
+          "posZh": "感叹词",
+          "grammarStructureZh": "ああ：啊啊",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "まだ",
+          "zhMeaning": "仍然、还",
+          "posZh": "副词",
+          "grammarStructureZh": "まだ：仍然、还",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "まだ",
+          "zhMeaning": "仍然、还",
+          "posZh": "副词",
+          "grammarStructureZh": "まだ：仍然、还",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "まだ",
+          "zhMeaning": "仍然、还",
+          "posZh": "副词",
+          "grammarStructureZh": "まだ：仍然、还",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l060",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "やり残した",
+          "zhMeaning": "留下未完成的",
+          "posZh": "复合动词（た形）",
+          "grammarStructureZh": "やり残した：留下未完成的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "鼓動",
+          "zhMeaning": "心跳",
+          "posZh": "名词",
+          "grammarStructureZh": "鼓動：心跳",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "が",
+          "functionZh": "提示主语",
+          "posZh": "助词",
+          "grammarStructureZh": "が：提示主语",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "この",
+          "zhMeaning": "这、这个",
+          "posZh": "连体词",
+          "grammarStructureZh": "この：这、这个",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "夜",
+          "zhMeaning": "夜晚",
+          "posZh": "名词",
+          "grammarStructureZh": "夜：夜晚",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "を",
+          "functionZh": "提示动作对象",
+          "posZh": "助词",
+          "grammarStructureZh": "を：提示动作对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "覆って",
+          "zhMeaning": "覆盖、笼罩",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "覆って：覆盖、笼罩",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l061",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "僕ら",
+          "zhMeaning": "我们",
+          "posZh": "代词",
+          "grammarStructureZh": "僕ら：我们",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "を",
+          "functionZh": "提示动作对象",
+          "posZh": "助词",
+          "grammarStructureZh": "を：提示动作对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "包んで",
+          "zhMeaning": "包裹着、包住并",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "包んで：包裹着、包住并",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "粉々",
+          "zhMeaning": "粉碎、碎片",
+          "posZh": "名词",
+          "grammarStructureZh": "粉々：粉碎、碎片",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "に",
+          "functionZh": "表示变化结果/状态",
+          "posZh": "助词",
+          "grammarStructureZh": "に：表示变化结果/状态",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "なる",
+          "zhMeaning": "变成",
+          "posZh": "动词",
+          "grammarStructureZh": "なる：变成",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "前",
+          "zhMeaning": "之前",
+          "posZh": "名词",
+          "grammarStructureZh": "前：之前",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "に",
+          "functionZh": "表示时间界限",
+          "posZh": "助词",
+          "grammarStructureZh": "に：表示时间界限",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l062",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "頼りなくても",
+          "zhMeaning": "即使不可靠也",
+          "posZh": "形容词让步形",
+          "grammarStructureZh": "頼りなくても：即使不可靠也",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "いい",
+          "zhMeaning": "可以、无妨",
+          "posZh": "形容词",
+          "grammarStructureZh": "いい：可以、无妨",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "その",
+          "zhMeaning": "那、那个",
+          "posZh": "连体词",
+          "grammarStructureZh": "その：那、那个",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "手",
+          "zhMeaning": "手；援手",
+          "posZh": "名词",
+          "grammarStructureZh": "手：手；援手",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "を",
+          "functionZh": "提示动作对象",
+          "posZh": "助词",
+          "grammarStructureZh": "を：提示动作对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l063",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "この",
+          "zhMeaning": "这、这个",
+          "posZh": "连体词",
+          "grammarStructureZh": "この：这、这个",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "手",
+          "zhMeaning": "手",
+          "posZh": "名词",
+          "grammarStructureZh": "手：手",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "は",
+          "functionZh": "提示主题并形成对比/强调",
+          "posZh": "助词",
+          "grammarStructureZh": "は：提示主题并形成对比/强调",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "自分",
+          "zhMeaning": "自己",
+          "posZh": "名词",
+          "grammarStructureZh": "自分：自己",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "自身",
+          "zhMeaning": "自身、本身",
+          "posZh": "名词",
+          "grammarStructureZh": "自身：自身、本身",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "の",
+          "functionZh": "所属修饰",
+          "posZh": "助词",
+          "grammarStructureZh": "の：所属修饰",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "もの",
+          "zhMeaning": "东西；属于……的东西",
+          "posZh": "形式名词",
+          "grammarStructureZh": "もの：东西；属于……的东西",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "さ",
+          "functionZh": "加强陈述语气",
+          "posZh": "终助词",
+          "grammarStructureZh": "さ：加强陈述语气",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l064",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "変わらない",
+          "zhMeaning": "不会改变",
+          "posZh": "动词否定形",
+          "grammarStructureZh": "変わらない：不会改变",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "はず",
+          "zhMeaning": "按理应当；预期",
+          "posZh": "形式名词",
+          "grammarStructureZh": "はず：按理应当；预期",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "は",
+          "functionZh": "提示主题并强调否定",
+          "posZh": "助词",
+          "grammarStructureZh": "は：提示主题并强调否定",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "ない",
+          "zhMeaning": "没有；不",
+          "posZh": "形容词",
+          "grammarStructureZh": "ない：没有；不",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "よ",
+          "functionZh": "提示、强调给听者",
+          "posZh": "终助词",
+          "grammarStructureZh": "よ：提示、强调给听者",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l065",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "手",
+          "zhMeaning": "手",
+          "posZh": "名词",
+          "grammarStructureZh": "手：手",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "を",
+          "functionZh": "提示动作对象",
+          "posZh": "助词",
+          "grammarStructureZh": "を：提示动作对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "伸ばして",
+          "zhMeaning": "伸出（手）",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "伸ばして：伸出（手）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    },
+    {
+      "frameId": "l066",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "何もかも",
+          "zhMeaning": "一切、全部",
+          "posZh": "代词性表达",
+          "grammarStructureZh": "何もかも：一切、全部",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "君",
+          "zhMeaning": "你",
+          "posZh": "代词",
+          "grammarStructureZh": "君：你",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "次第",
+          "zhMeaning": "取决于；全看",
+          "posZh": "名词",
+          "grammarStructureZh": "次第：取决于；全看",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "で",
+          "functionZh": "表示依据、决定因素",
+          "posZh": "助词",
+          "grammarStructureZh": "で：表示依据、决定因素",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "僕",
+          "zhMeaning": "我",
+          "posZh": "代词",
+          "grammarStructureZh": "僕：我",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "次第",
+          "zhMeaning": "取决于；全看",
+          "posZh": "名词",
+          "grammarStructureZh": "次第：取决于；全看",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        },
+        {
+          "token": "さ",
+          "functionZh": "加强陈述语气",
+          "posZh": "终助词",
+          "grammarStructureZh": "さ：加强陈述语气",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "Full-token coverage; QMTS complete-sentence Chinese anchors lexical meanings and particle functions."
+    }
+  ],
+  "coverage": {
+    "assertion": "normalize(concat(card.token)) == normalize(caption.japanese)",
+    "frames": [
+      {
+        "frameId": "l006",
+        "expected": "やり残した鼓動がこの夜を覆って",
+        "actual": "やり残した鼓動がこの夜を覆って",
+        "passed": true,
+        "tokenCount": 7
+      },
+      {
+        "frameId": "l007",
+        "expected": "僕らを包んで粉々になる前に",
+        "actual": "僕らを包んで粉々になる前に",
+        "passed": true,
+        "tokenCount": 8
+      },
+      {
+        "frameId": "l008",
+        "expected": "頼りなくてもいいその手を",
+        "actual": "頼りなくてもいいその手を",
+        "passed": true,
+        "tokenCount": 5
+      },
+      {
+        "frameId": "l009",
+        "expected": "この手は自分自身のものさ",
+        "actual": "この手は自分自身のものさ",
+        "passed": true,
+        "tokenCount": 8
+      },
+      {
+        "frameId": "l010",
+        "expected": "変わらないはずはないよ",
+        "actual": "変わらないはずはないよ",
+        "passed": true,
+        "tokenCount": 5
+      },
+      {
+        "frameId": "l011",
+        "expected": "手を伸ばして",
+        "actual": "手を伸ばして",
+        "passed": true,
+        "tokenCount": 3
+      },
+      {
+        "frameId": "l012",
+        "expected": "雑踏の中で声無き声で泣いている",
+        "actual": "雑踏の中で声無き声で泣いている",
+        "passed": true,
+        "tokenCount": 10
+      },
+      {
+        "frameId": "l013",
+        "expected": "足跡が今誰かの声を消した朝",
+        "actual": "足跡が今誰かの声を消した朝",
+        "passed": true,
+        "tokenCount": 9
+      },
+      {
+        "frameId": "l014",
+        "expected": "いつになっても枯れることのない",
+        "actual": "いつになっても枯れることのない",
+        "passed": true,
+        "tokenCount": 7
+      },
+      {
+        "frameId": "l015",
+        "expected": "腐敗した街の泥水が冷たい",
+        "actual": "腐敗した街の泥水が冷たい",
+        "passed": true,
+        "tokenCount": 7
+      },
+      {
+        "frameId": "l016",
+        "expected": "何にも変わらない世界で",
+        "actual": "何にも変わらない世界で",
+        "passed": true,
+        "tokenCount": 5
+      },
+      {
+        "frameId": "l017",
+        "expected": "今日だって生きてゆくんだ",
+        "actual": "今日だって生きてゆくんだ",
+        "passed": true,
+        "tokenCount": 5
+      },
+      {
+        "frameId": "l018",
+        "expected": "くだらないけど仕方ないでしょ",
+        "actual": "くだらないけど仕方ないでしょ",
+        "passed": true,
+        "tokenCount": 4
+      },
+      {
+        "frameId": "l019",
+        "expected": "僕らはもう歩き始めたんだ",
+        "actual": "僕らはもう歩き始めたんだ",
+        "passed": true,
+        "tokenCount": 6
+      },
+      {
+        "frameId": "l020",
+        "expected": "嘘みたいな馬鹿みたいな",
+        "actual": "嘘みたいな馬鹿みたいな",
+        "passed": true,
+        "tokenCount": 4
+      },
+      {
+        "frameId": "l021",
+        "expected": "どうしようもない僕らの街",
+        "actual": "どうしようもない僕らの街",
+        "passed": true,
+        "tokenCount": 4
+      },
+      {
+        "frameId": "l022",
+        "expected": "それでも",
+        "actual": "それでも",
+        "passed": true,
+        "tokenCount": 1
+      },
+      {
+        "frameId": "l023",
+        "expected": "この眼で確かに見えたんだ",
+        "actual": "この眼で確かに見えたんだ",
+        "passed": true,
+        "tokenCount": 6
+      },
+      {
+        "frameId": "l024",
+        "expected": "この手で確かに触れたんだ",
+        "actual": "この手で確かに触れたんだ",
+        "passed": true,
+        "tokenCount": 6
+      },
+      {
+        "frameId": "l025",
+        "expected": "ねえほらほら",
+        "actual": "ねえほらほら",
+        "passed": true,
+        "tokenCount": 3
+      },
+      {
+        "frameId": "l026",
+        "expected": "ほらまた吹いた馬鹿みたいだ",
+        "actual": "ほらまた吹いた馬鹿みたいだ",
+        "passed": true,
+        "tokenCount": 5
+      },
+      {
+        "frameId": "l027",
+        "expected": "どうしようもない闇を照らせ",
+        "actual": "どうしようもない闇を照らせ",
+        "passed": true,
+        "tokenCount": 4
+      },
+      {
+        "frameId": "l028",
+        "expected": "夢じゃない",
+        "actual": "夢じゃない",
+        "passed": true,
+        "tokenCount": 2
+      },
+      {
+        "frameId": "l029",
+        "expected": "どうせ終わってる街だって",
+        "actual": "どうせ終わってる街だって",
+        "passed": true,
+        "tokenCount": 4
+      },
+      {
+        "frameId": "l030",
+        "expected": "諦めたって変わんないぜ",
+        "actual": "諦めたって変わんないぜ",
+        "passed": true,
+        "tokenCount": 3
+      },
+      {
+        "frameId": "l031",
+        "expected": "ああまだまだまだ",
+        "actual": "ああまだまだまだ",
+        "passed": true,
+        "tokenCount": 4
+      },
+      {
+        "frameId": "l032",
+        "expected": "やり残した鼓動がこの夜を覆って",
+        "actual": "やり残した鼓動がこの夜を覆って",
+        "passed": true,
+        "tokenCount": 7
+      },
+      {
+        "frameId": "l033",
+        "expected": "僕らを包んで粉々になる前に",
+        "actual": "僕らを包んで粉々になる前に",
+        "passed": true,
+        "tokenCount": 8
+      },
+      {
+        "frameId": "l034",
+        "expected": "頼りなくてもいいその手を",
+        "actual": "頼りなくてもいいその手を",
+        "passed": true,
+        "tokenCount": 5
+      },
+      {
+        "frameId": "l035",
+        "expected": "この手は自分自身のものさ",
+        "actual": "この手は自分自身のものさ",
+        "passed": true,
+        "tokenCount": 8
+      },
+      {
+        "frameId": "l036",
+        "expected": "変わらないはずはないよ",
+        "actual": "変わらないはずはないよ",
+        "passed": true,
+        "tokenCount": 5
+      },
+      {
+        "frameId": "l037",
+        "expected": "手を伸ばして",
+        "actual": "手を伸ばして",
+        "passed": true,
+        "tokenCount": 3
+      },
+      {
+        "frameId": "l038",
+        "expected": "永遠の中で迷わない為の温もり",
+        "actual": "永遠の中で迷わない為の温もり",
+        "passed": true,
+        "tokenCount": 8
+      },
+      {
+        "frameId": "l039",
+        "expected": "軽薄な君に",
+        "actual": "軽薄な君に",
+        "passed": true,
+        "tokenCount": 4
+      },
+      {
+        "frameId": "l040",
+        "expected": "届くことなく散ってゆく",
+        "actual": "届くことなく散ってゆく",
+        "passed": true,
+        "tokenCount": 5
+      },
+      {
+        "frameId": "l041",
+        "expected": "想像通りそんなはずはない",
+        "actual": "想像通りそんなはずはない",
+        "passed": true,
+        "tokenCount": 6
+      },
+      {
+        "frameId": "l042",
+        "expected": "逃げりゃいいでしょ",
+        "actual": "逃げりゃいいでしょ",
+        "passed": true,
+        "tokenCount": 3
+      },
+      {
+        "frameId": "l043",
+        "expected": "簡単に言わないで",
+        "actual": "簡単に言わないで",
+        "passed": true,
+        "tokenCount": 4
+      },
+      {
+        "frameId": "l044",
+        "expected": "いつも通りの世界を",
+        "actual": "いつも通りの世界を",
+        "passed": true,
+        "tokenCount": 5
+      },
+      {
+        "frameId": "l045",
+        "expected": "今日だって駆けてゆくんだ",
+        "actual": "今日だって駆けてゆくんだ",
+        "passed": true,
+        "tokenCount": 5
+      },
+      {
+        "frameId": "l046",
+        "expected": "滑り落ちたら掴んでやろう",
+        "actual": "滑り落ちたら掴んでやろう",
+        "passed": true,
+        "tokenCount": 4
+      },
+      {
+        "frameId": "l047",
+        "expected": "灰色の空その中で煌めく青さを",
+        "actual": "灰色の空その中で煌めく青さを",
+        "passed": true,
+        "tokenCount": 9
+      },
+      {
+        "frameId": "l048",
+        "expected": "嘘みたいな馬鹿みたいな",
+        "actual": "嘘みたいな馬鹿みたいな",
+        "passed": true,
+        "tokenCount": 4
+      },
+      {
+        "frameId": "l049",
+        "expected": "どうしようもない僕らの街",
+        "actual": "どうしようもない僕らの街",
+        "passed": true,
+        "tokenCount": 4
+      },
+      {
+        "frameId": "l050",
+        "expected": "それでも",
+        "actual": "それでも",
+        "passed": true,
+        "tokenCount": 1
+      },
+      {
+        "frameId": "l051",
+        "expected": "この眼で確かに見えたんだ",
+        "actual": "この眼で確かに見えたんだ",
+        "passed": true,
+        "tokenCount": 6
+      },
+      {
+        "frameId": "l052",
+        "expected": "この手で確かに触れたんだ",
+        "actual": "この手で確かに触れたんだ",
+        "passed": true,
+        "tokenCount": 6
+      },
+      {
+        "frameId": "l053",
+        "expected": "ねえほらほら",
+        "actual": "ねえほらほら",
+        "passed": true,
+        "tokenCount": 3
+      },
+      {
+        "frameId": "l054",
+        "expected": "ほらまた吹いた馬鹿みたいだ",
+        "actual": "ほらまた吹いた馬鹿みたいだ",
+        "passed": true,
+        "tokenCount": 5
+      },
+      {
+        "frameId": "l055",
+        "expected": "どうしようもない闇を照らせ",
+        "actual": "どうしようもない闇を照らせ",
+        "passed": true,
+        "tokenCount": 4
+      },
+      {
+        "frameId": "l056",
+        "expected": "夢じゃない",
+        "actual": "夢じゃない",
+        "passed": true,
+        "tokenCount": 2
+      },
+      {
+        "frameId": "l057",
+        "expected": "どうせ終わってる街だって",
+        "actual": "どうせ終わってる街だって",
+        "passed": true,
+        "tokenCount": 4
+      },
+      {
+        "frameId": "l058",
+        "expected": "諦めたって変わんないぜ",
+        "actual": "諦めたって変わんないぜ",
+        "passed": true,
+        "tokenCount": 3
+      },
+      {
+        "frameId": "l059",
+        "expected": "ああまだまだまだ",
+        "actual": "ああまだまだまだ",
+        "passed": true,
+        "tokenCount": 4
+      },
+      {
+        "frameId": "l060",
+        "expected": "やり残した鼓動がこの夜を覆って",
+        "actual": "やり残した鼓動がこの夜を覆って",
+        "passed": true,
+        "tokenCount": 7
+      },
+      {
+        "frameId": "l061",
+        "expected": "僕らを包んで粉々になる前に",
+        "actual": "僕らを包んで粉々になる前に",
+        "passed": true,
+        "tokenCount": 8
+      },
+      {
+        "frameId": "l062",
+        "expected": "頼りなくてもいいその手を",
+        "actual": "頼りなくてもいいその手を",
+        "passed": true,
+        "tokenCount": 5
+      },
+      {
+        "frameId": "l063",
+        "expected": "この手は自分自身のものさ",
+        "actual": "この手は自分自身のものさ",
+        "passed": true,
+        "tokenCount": 8
+      },
+      {
+        "frameId": "l064",
+        "expected": "変わらないはずはないよ",
+        "actual": "変わらないはずはないよ",
+        "passed": true,
+        "tokenCount": 5
+      },
+      {
+        "frameId": "l065",
+        "expected": "手を伸ばして",
+        "actual": "手を伸ばして",
+        "passed": true,
+        "tokenCount": 3
+      },
+      {
+        "frameId": "l066",
+        "expected": "何もかも君次第で僕次第さ",
+        "actual": "何もかも君次第で僕次第さ",
+        "passed": true,
+        "tokenCount": 7
+      }
+    ],
+    "passed": true
+  },
+  "notes": [
+    "61/61 lyric frames covered; no QRC metadata frames.",
+    "Particles use functionZh; every other card uses zhMeaning.",
+    "Repeated lyric lines use the same full token-card values."
+  ]
+}

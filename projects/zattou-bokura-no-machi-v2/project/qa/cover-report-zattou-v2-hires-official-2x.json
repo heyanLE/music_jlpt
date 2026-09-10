@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 2,
+  "renderer": "platform-cover-v1-established-layout",
+  "font": "C:\\Windows\\Fonts\\msyhbd.ttc",
+  "palette": {
+    "schemaVersion": 1,
+    "algorithm": "saturated-cover-pixel-hsv-v1",
+    "cover": "C:\\project\\musicjlpt\\projects\\zattou-bokura-no-machi-v2\\source\\cover.jpg",
+    "accent": "#102040",
+    "activeTint": "#3B75EB",
+    "body": "#122447",
+    "cardFill": {
+      "color": "#102040",
+      "alpha": 0.75
+    }
+  },
+  "outputs": [
+    {
+      "name": "16x9",
+      "path": "C:\\project\\musicjlpt\\projects\\zattou-bokura-no-machi-v2\\deliverables\\final\\zattou-bokura-no-machi-v2--cover-16x9--zattou-v2-hires-official-2x.png",
+      "width": 1920,
+      "height": 1080,
+      "artworkFocus": "center",
+      "bounds": {
+        "series": [
+          868,
+          189,
+          1300,
+          295
+        ],
+        "title": [
+          868,
+          349,
+          1433,
+          587
+        ],
+        "artist": [
+          868,
+          623,
+          1300,
+          673
+        ],
+        "subtitle": [
+          868,
+          712,
+          1838,
+          784
+        ],
+        "benefitsRow1": [
+          868,
+          817,
+          1585,
+          881
+        ],
+        "benefitsRow2": [
+          868,
+          903,
+          1390,
+          967
+        ],
+        "benefitsUnderline": [
+          868,
+          994,
+          1271,
+          1007
+        ],
+        "badge": [
+          1659,
+          35,
+          1885,
+          261
+        ]
+      }
+    },
+    {
+      "name": "4x3",
+      "path": "C:\\project\\musicjlpt\\projects\\zattou-bokura-no-machi-v2\\deliverables\\final\\zattou-bokura-no-machi-v2--cover-4x3--zattou-v2-hires-official-2x.png",
+      "width": 1440,
+      "height": 1080,
+      "artworkFocus": "center",
+      "bounds": {
+        "series": [
+          653,
+          189,
+          1085,
+          295
+        ],
+        "title": [
+          653,
+          349,
+          1218,
+          587
+        ],
+        "artist": [
+          653,
+          623,
+          1085,
+          673
+        ],
+        "subtitle": [
+          653,
+          706,
+          1399,
+          762
+        ],
+        "benefitsRow1": [
+          653,
+          795,
+          1370,
+          859
+        ],
+        "benefitsRow2": [
+          653,
+          881,
+          1175,
+          945
+        ],
+        "benefitsUnderline": [
+          653,
+          972,
+          955,
+          985
+        ],
+        "badge": [
+          1179,
+          35,
+          1405,
+          261
+        ]
+      }
+    }
+  ]
+}

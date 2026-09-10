@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 2,
+  "result": "pending-visual-review",
+  "candidate": "project/work/ray-approved-r1-final/16x9/ray-chou-kaguya-hime-study--16x9--ray-approved-r1-final.mkv",
+  "candidateSha256": "7b7e17298811c3320b50d8952271f1d599947e77d2c770920dc422c136bd02e9",
+  "renderReport": null,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "pix_fmt": "yuv420p",
+        "r_frame_rate": "30/1",
+        "bits_per_raw_sample": "8"
+      },
+      {
+        "codec_name": "flac",
+        "codec_type": "audio",
+        "sample_rate": "48000",
+        "r_frame_rate": "0/0",
+        "bits_per_raw_sample": "24"
+      }
+    ],
+    "format": {
+      "duration": "321.200000"
+    }
+  },
+  "screenshots": [
+    {
+      "name": "first-lyric",
+      "timestampMs": 7400,
+      "path": "project/qa/ray-approved-r1-final/first-lyric.png"
+    },
+    {
+      "name": "last-lyric",
+      "timestampMs": 247071,
+      "path": "project/qa/ray-approved-r1-final/last-lyric.png"
+    },
+    {
+      "name": "maximum-cards",
+      "timestampMs": 101847,
+      "path": "project/qa/ray-approved-r1-final/maximum-cards.png"
+    },
+    {
+      "name": "loanword",
+      "timestampMs": 54386,
+      "path": "project/qa/ray-approved-r1-final/loanword.png"
+    },
+    {
+      "name": "transition-stage2-cover-gaussian",
+      "timestampMs": 149702,
+      "path": "project/qa/ray-approved-r1-final/transition-stage2-cover-gaussian.png"
+    },
+    {
+      "name": "follow-gap",
+      "timestampMs": 11100,
+      "path": "project/qa/ray-approved-r1-final/follow-gap.png"
+    },
+    {
+      "name": "persistent-gap",
+      "timestampMs": 7400,
+      "path": "project/qa/ray-approved-r1-final/persistent-gap.png"
+    }
+  ],
+  "requiredVisualChecks": [
+    "three-layer order",
+    "background fit and transitions",
+    "foreground gap mode",
+    "annotation anchors",
+    "English timing",
+    "one-row cards and two-line meaning",
+    "transparent persistent spectrum",
+    "final line"
+  ]
+}

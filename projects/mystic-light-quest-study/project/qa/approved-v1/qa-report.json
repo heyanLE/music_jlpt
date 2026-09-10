@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 2,
+  "result": "passed",
+  "visualFindings": [
+    "Inspected all eight automatic screenshots and all seven additional screenshots in extra-qa.json.",
+    "First/last lyric and l018 show synchronized Japanese, kanji-only ruby and token romaji highlight. English is in source order and highlights without cards or duplicate annotations.",
+    "l008/l029 oasis annotation is present; ruby and romaji do not collide. l025 approved idiom remains one card with both kanji runs anchored correctly.",
+    "Maximum-card line stays one row; l011 longer meaning wraps within its card at fixed size. Cards remain semitransparent blue and do not highlight.",
+    "Opening and follow-gap contain only original footage. The auto sample named persistent-gap is actually the 500 ms tail hold in follow mode. Tail-hold retains the last line; tail-clear hides cover, veil and cards.",
+    "Background retains original aspect ratio, baked subtitles and original letterboxing. No spectrum and no Gaussian transition are requested for this project.",
+    "Extra QA proves 6210 CFR video frames, 207 s duration, FLAC 48kHz/24-bit stereo stream copy, identical PCM to both source WAV and FLAC, and five background alignment samples with correlations above 0.998."
+  ],
+  "extraEvidence": "project/qa/approved-v1/extra-qa.json",
+  "validationPolicy": "Project-local renderer is explicitly hash-authorized; use shared verify_render_gate.py with --renderer and common draft structural validation. Shared validate_project.py --stage render only accepts its own renderer hash.",
+  "candidate": "project/work/approved-v1/16x9/mystic-light-quest-study--16x9--approved-v1.mkv",
+  "candidateSha256": "761ba049a30ec85316f48c46f477b5dfb9871614278bd640e02ab6af36391b8d",
+  "renderReport": "project/work/approved-v1/16x9/render-report.json",
+  "probe": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "pix_fmt": "yuv420p",
+        "r_frame_rate": "30/1",
+        "bits_per_raw_sample": "8"
+      },
+      {
+        "codec_name": "flac",
+        "codec_type": "audio",
+        "sample_rate": "48000",
+        "r_frame_rate": "0/0",
+        "bits_per_raw_sample": "24"
+      }
+    ],
+    "format": {
+      "duration": "207.000000"
+    }
+  },
+  "screenshots": [
+    {
+      "name": "first-lyric",
+      "timestampMs": 12008,
+      "path": "project/qa/approved-v1/first-lyric.png"
+    },
+    {
+      "name": "last-lyric",
+      "timestampMs": 200970,
+      "path": "project/qa/approved-v1/last-lyric.png"
+    },
+    {
+      "name": "maximum-cards",
+      "timestampMs": 42012,
+      "path": "project/qa/approved-v1/maximum-cards.png"
+    },
+    {
+      "name": "pure-english",
+      "timestampMs": 68971,
+      "path": "project/qa/approved-v1/pure-english.png"
+    },
+    {
+      "name": "mixed-language",
+      "timestampMs": 18006,
+      "path": "project/qa/approved-v1/mixed-language.png"
+    },
+    {
+      "name": "loanword",
+      "timestampMs": 45013,
+      "path": "project/qa/approved-v1/loanword.png"
+    },
+    {
+      "name": "follow-gap",
+      "timestampMs": 24346,
+      "path": "project/qa/approved-v1/follow-gap.png"
+    },
+    {
+      "name": "persistent-gap",
+      "timestampMs": 23846,
+      "path": "project/qa/approved-v1/persistent-gap.png"
+    }
+  ],
+  "requiredVisualChecks": [
+    "three-layer order",
+    "background fit and transitions",
+    "foreground gap mode",
+    "annotation anchors",
+    "English timing",
+    "one-row cards and two-line meaning",
+    "transparent persistent spectrum",
+    "final line"
+  ]
+}

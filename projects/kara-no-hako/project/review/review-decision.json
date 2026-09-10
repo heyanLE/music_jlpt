@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "content": "approved",
+  "scope": "all-second-round-card-proposals",
+  "renderAuthorized": false,
+  "userWording": "采纳第二轮全部词卡提案",
+  "frameSha256": "fa9e1b1219c019d38510c2040614aa3ba65cbf6c3ac201708d89f8e78e30881c",
+  "assistedReviewAuditSha256": "38c4dacc32b565f25b691b6af9d9d4a6e2929f3b35add6b03b936a2516cb88d3",
+  "mergeLogSha256": "aa7aa1b6894772a9e5db1f4155df3caa713a26b646e247fcaf94800f39a4c4d9",
+  "sourceTranslationIssuesApproved": false
+}

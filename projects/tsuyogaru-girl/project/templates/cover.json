@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "study-cover-current-v1",
+  "copy": {
+    "heading": "快速学唱",
+    "title": "争强好胜的女孩",
+    "artist": "ぼっちぼろまる feat. もっさ",
+    "subtitle": "败犬女主太多了 OP",
+    "features": ["逐词高亮 · 文法拆解", "罗马音 · 假名"]
+  },
+  "exports": ["16x9", "4x3"],
+  "theme": "palette-only",
+  "mobilePriority": true
+}

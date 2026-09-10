@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "algorithm": "saturated-cover-pixel-hsv-v1",
+  "cover": "C:\\project\\musicjlpt\\projects\\mystic-light-quest-study\\source\\cover.jpg",
+  "accent": "#405070",
+  "activeTint": "#427AEB",
+  "body": "#273247",
+  "cardFill": {
+    "color": "#405070",
+    "alpha": 0.75
+  }
+}

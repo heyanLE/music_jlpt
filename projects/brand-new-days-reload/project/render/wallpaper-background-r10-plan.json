@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "runId": "20260817-r10-wallpaper-background",
+  "background": {
+    "source": "source/aigis-animated-wallpaper.mp4",
+    "sha256": "538d6e05c27f61764be390df96c155d04e79ccba99a37dac9c01588064bc331d",
+    "sourceAudio": "muted",
+    "loop": true,
+    "preserveAspectRatio": true,
+    "startAtSongSeconds": 23
+  },
+  "timeline": {
+    "introSourceRangeSeconds": [245, 268],
+    "introVisualFadeOutSeconds": [22, 23],
+    "wallpaperAndForegroundFadeInSeconds": [23, 24],
+    "songAudioContinuous": true,
+    "foobarSpectrumContinuous": true,
+    "totalDurationSeconds": 352.6
+  },
+  "output": "deliverables/final/brand-new-days-reload--intro-fade--aigis-wallpaper--foobar-spectrum--english-fixed--20260817-r10.mp4"
+}

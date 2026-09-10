@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "scope": "l001-l070",
+  "basis": "QMTS full-sentence Chinese translations mapped by timestamp",
+  "preservedUserCorrections": ["l001:負け", "l068:負け", "l069:負け"],
+  "proposalSummary": "Semantic recheck only; no proposal is merged automatically.",
+  "changes": [
+    {"frameId":"l007","token":"天然由来","old":"天然来源的","new":"天生自带的、与生俱来的","confidence":"high","structural":false},
+    {"frameId":"l008","token":"敗北群像劇","old":"失败者群像剧","new":"失败群像剧；失败者们的群像剧","confidence":"high","structural":false},
+    {"frameId":"l009","replaceTokens":["ドキドキして","ズキズキする"],"reason":"拟声词与する必须作为状态表达整体学习","confidence":"high","structural":true},
+    {"frameId":"l016","replaceTokens":["謎に"],"new":"莫名地、不可思议地","confidence":"high","structural":true},
+    {"frameId":"l019","replaceTokens":["ピースして"],"new":"保持和平／保持平和状态","confidence":"medium","structural":true},
+    {"frameId":"l020","replaceTokens":["負けてやれ"],"new":"尽管失败吧／索性输个痛快吧","confidence":"high","structural":true},
+    {"frameId":"l021","replaceTokens":["強くなる"],"new":"变得坚强","confidence":"high","structural":true},
+    {"frameId":"l038","replaceTokens":["命中","3%"],"new":"命中率；3%","confidence":"high","structural":true},
+    {"frameId":"l043","token":"コンティニュー","old":"继续、续关","new":"续关、继续挑战","confidence":"high","structural":false},
+    {"frameId":"l047","replaceTokens":["胸に秘め"],"new":"深藏于心中","confidence":"high","structural":true},
+    {"frameId":"l051","replaceTokens":["信じ続け","ながら"],"new":"持续相信、始终坚信；同时……","confidence":"high","structural":true},
+    {"frameId":"l052","replaceTokens":["大人になる"],"new":"长大成人","confidence":"high","structural":true},
+    {"frameId":"l054","token":"食べ尽くそう","old":"吃尽、彻底吞下吧","new":"彻底品味／全盘接受吧","confidence":"medium","structural":false},
+    {"frameId":"l059","replaceTokens":["ヒロインになる"],"new":"成为女主角","confidence":"high","structural":true}
+  ]
+}

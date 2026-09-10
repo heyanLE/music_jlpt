@@ -1,0 +1,2691 @@
+{
+  "schemaVersion": 3,
+  "reviewRole": "grammar",
+  "scope": {
+    "frameIds": [
+      "l006",
+      "l007",
+      "l008",
+      "l009",
+      "l010",
+      "l011",
+      "l012",
+      "l013",
+      "l014",
+      "l015",
+      "l016",
+      "l017",
+      "l018",
+      "l019",
+      "l020",
+      "l021",
+      "l022",
+      "l023",
+      "l024",
+      "l025",
+      "l026",
+      "l027",
+      "l028",
+      "l029",
+      "l030",
+      "l031",
+      "l032",
+      "l033",
+      "l034",
+      "l035",
+      "l036",
+      "l037",
+      "l038",
+      "l039",
+      "l040",
+      "l041",
+      "l042",
+      "l043",
+      "l044",
+      "l045",
+      "l046",
+      "l047",
+      "l048",
+      "l049",
+      "l050",
+      "l051",
+      "l052",
+      "l053",
+      "l054",
+      "l055",
+      "l056",
+      "l057",
+      "l058",
+      "l059",
+      "l060",
+      "l061",
+      "l062",
+      "l063",
+      "l064",
+      "l065",
+      "l066"
+    ],
+    "coverage": "all-japanese-lyric-frames"
+  },
+  "baseFrameSha256": "b91c4f3499f05d48bc3aaa7110bcaf542f6059ad4c53af5bb9b7c24ecee0e168",
+  "changes": [
+    {
+      "frameId": "l006",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "やり残した",
+          "reading": "やりのこした",
+          "romaji": "yarinokoshita",
+          "posZh": "复合动词（た形）",
+          "grammarStructureZh": "やり残す：做后仍有未完成部分",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "留下未完成的"
+        },
+        {
+          "token": "が",
+          "reading": "が",
+          "romaji": "ga",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋が＋谓语",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示主语"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "o",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋を＋他动词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示动作对象"
+        },
+        {
+          "token": "覆って",
+          "reading": "おおって",
+          "romaji": "ootte",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "覆う的て形，连接后项",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "覆盖、笼罩"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l007",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "僕ら",
+          "reading": "ぼくら",
+          "romaji": "bokura",
+          "posZh": "代词",
+          "grammarStructureZh": "第一人称复数",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "我们"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "o",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋を＋他动词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示动作对象"
+        },
+        {
+          "token": "包んで",
+          "reading": "つつんで",
+          "romaji": "tsutsunde",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "包む的て形，连接动作",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "包裹着、包围着"
+        },
+        {
+          "token": "粉々になる前に",
+          "reading": "こなごなになるまえに",
+          "romaji": "konagona ni naru mae ni",
+          "posZh": "时间表达",
+          "grammarStructureZh": "动词基本形＋前に",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "在粉碎之前"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l008",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "頼りなくてもいい",
+          "reading": "たよりなくてもいい",
+          "romaji": "tayorinakute mo ii",
+          "posZh": "形容词句型",
+          "grammarStructureZh": "形容词くて＋もいい：即使…也可以",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不依赖也可以"
+        },
+        {
+          "token": "その手",
+          "reading": "そのて",
+          "romaji": "sono te",
+          "posZh": "连体词＋名词",
+          "grammarStructureZh": "その修饰手",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "那双手"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "o",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋を＋他动词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示动作对象"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l009",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "この手",
+          "reading": "このて",
+          "romaji": "kono te",
+          "posZh": "连体词＋名词",
+          "grammarStructureZh": "この修饰手",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "这双手"
+        },
+        {
+          "token": "自分自身",
+          "reading": "じぶんじしん",
+          "romaji": "jibun jishin",
+          "posZh": "名词",
+          "grammarStructureZh": "自身加强自分",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "自己本身"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋の＋名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "表示所属"
+        },
+        {
+          "token": "ものさ",
+          "reading": "ものさ",
+          "romaji": "mono sa",
+          "posZh": "名词＋终助词",
+          "grammarStructureZh": "もの＋さ，带强调语气",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "是…的啊"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l010",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "変わらない",
+          "reading": "かわらない",
+          "romaji": "kawaranai",
+          "posZh": "动词（否定形）",
+          "grammarStructureZh": "変わる的ない形",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不会改变"
+        },
+        {
+          "token": "はずはない",
+          "reading": "はずはない",
+          "romaji": "hazu wa nai",
+          "posZh": "句型",
+          "grammarStructureZh": "动词普通形＋はずはない：强烈否定",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不可能、不会"
+        },
+        {
+          "token": "よ",
+          "reading": "よ",
+          "romaji": "yo",
+          "posZh": "终助词",
+          "grammarStructureZh": "句末提醒、强调",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "加强断言"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l011",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "手を伸ばして",
+          "reading": "てをのばして",
+          "romaji": "te o nobashite",
+          "posZh": "惯用搭配",
+          "grammarStructureZh": "手を伸ばす的て形",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "伸出手"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "o",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋を＋他动词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示动作对象"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l012",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "雑踏の中で",
+          "reading": "ざっとうのなかで",
+          "romaji": "zattou no naka de",
+          "posZh": "地点表达",
+          "grammarStructureZh": "名词＋の中で：在…之中",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "在拥挤人潮中"
+        },
+        {
+          "token": "声無き声",
+          "reading": "こえなきこえ",
+          "romaji": "koe naki koe",
+          "posZh": "连体表达",
+          "grammarStructureZh": "名词＋無き：没有…的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "无声之声"
+        },
+        {
+          "token": "で",
+          "reading": "で",
+          "romaji": "de",
+          "posZh": "助词",
+          "grammarStructureZh": "以某种状态进行动作",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "表示方式、状态"
+        },
+        {
+          "token": "泣いている",
+          "reading": "ないている",
+          "romaji": "naite iru",
+          "posZh": "持续体",
+          "grammarStructureZh": "动词て形＋いる：动作进行中",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "正在哭泣"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l013",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "足跡",
+          "reading": "あしあと",
+          "romaji": "ashiato",
+          "posZh": "名词",
+          "grammarStructureZh": "留下的脚印",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "足迹"
+        },
+        {
+          "token": "が",
+          "reading": "が",
+          "romaji": "ga",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋が＋谓语",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示主语"
+        },
+        {
+          "token": "誰か",
+          "reading": "だれか",
+          "romaji": "dareka",
+          "posZh": "不定代词",
+          "grammarStructureZh": "疑问词＋か：不特定对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "某人"
+        },
+        {
+          "token": "消した",
+          "reading": "けした",
+          "romaji": "keshita",
+          "posZh": "动词（た形）",
+          "grammarStructureZh": "消す的た形，修饰朝",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "抹去、消除了"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l014",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "いつになっても",
+          "reading": "いつになっても",
+          "romaji": "itsu ni natte mo",
+          "posZh": "让步表达",
+          "grammarStructureZh": "疑问词＋になっても：无论…都",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "无论到何时都"
+        },
+        {
+          "token": "枯れることのない",
+          "reading": "かれることのない",
+          "romaji": "kareru koto no nai",
+          "posZh": "否定连体表达",
+          "grammarStructureZh": "动词基本形＋ことのない：不会…的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不会枯萎的"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l015",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "腐敗した",
+          "reading": "ふはいした",
+          "romaji": "fuhai shita",
+          "posZh": "名词＋する（た形）",
+          "grammarStructureZh": "腐敗する的た形，修饰街",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "腐败的"
+        },
+        {
+          "token": "街の泥水",
+          "reading": "まちのどろみず",
+          "romaji": "machi no doromizu",
+          "posZh": "名词短语",
+          "grammarStructureZh": "名词＋の＋名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "城市的泥水"
+        },
+        {
+          "token": "冷たい",
+          "reading": "つめたい",
+          "romaji": "tsumetai",
+          "posZh": "形容词",
+          "grammarStructureZh": "い形容词作谓语",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "冰冷"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l016",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "何にも",
+          "reading": "なににも",
+          "romaji": "nani ni mo",
+          "posZh": "否定呼应",
+          "grammarStructureZh": "何に＋も与否定谓语呼应",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "无论什么都"
+        },
+        {
+          "token": "変わらない",
+          "reading": "かわらない",
+          "romaji": "kawaranai",
+          "posZh": "动词（否定形）",
+          "grammarStructureZh": "変わる的ない形",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不改变的"
+        },
+        {
+          "token": "世界で",
+          "reading": "せかいで",
+          "romaji": "sekai de",
+          "posZh": "地点助词",
+          "grammarStructureZh": "名词＋で：动作发生的场所",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "在世界中"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l017",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "今日だって",
+          "reading": "きょうだって",
+          "romaji": "kyou datte",
+          "posZh": "提示／让步",
+          "grammarStructureZh": "名词＋だって：也、即使",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "即使是今天也"
+        },
+        {
+          "token": "生きてゆく",
+          "reading": "いきてゆく",
+          "romaji": "ikite yuku",
+          "posZh": "补助动词",
+          "grammarStructureZh": "动词て形＋ゆく：向未来持续",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "活下去"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l018",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "くだらない",
+          "reading": "くだらない",
+          "romaji": "kudaranai",
+          "posZh": "形容词",
+          "grammarStructureZh": "い形容词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "无聊、没意义"
+        },
+        {
+          "token": "けど",
+          "reading": "けど",
+          "romaji": "kedo",
+          "posZh": "接续助词",
+          "grammarStructureZh": "普通形＋けど：转折",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "但是、不过"
+        },
+        {
+          "token": "仕方ない",
+          "reading": "しかたない",
+          "romaji": "shikata nai",
+          "posZh": "固定表达",
+          "grammarStructureZh": "仕方がない的口语省略",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "无可奈何"
+        },
+        {
+          "token": "でしょ",
+          "reading": "でしょ",
+          "romaji": "desho",
+          "posZh": "助动词／终助词",
+          "grammarStructureZh": "です＋しょう的口语，用于确认",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "对吧"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l019",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "僕らは",
+          "reading": "ぼくらは",
+          "romaji": "bokura wa",
+          "posZh": "提示主题",
+          "grammarStructureZh": "名词＋は：提出话题",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "至于我们"
+        },
+        {
+          "token": "もう",
+          "reading": "もう",
+          "romaji": "mou",
+          "posZh": "副词",
+          "grammarStructureZh": "表示状态变化已经完成",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "已经"
+        },
+        {
+          "token": "歩き始めた",
+          "reading": "あるきはじめた",
+          "romaji": "arukihajimeta",
+          "posZh": "复合动词（た形）",
+          "grammarStructureZh": "动词词干＋始める：开始做",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "开始迈步"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l020",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "嘘みたいな",
+          "reading": "うそみたいな",
+          "romaji": "uso mitai na",
+          "posZh": "比况表达",
+          "grammarStructureZh": "名词＋みたいな：像…一样的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "像谎言一样的"
+        },
+        {
+          "token": "馬鹿みたいな",
+          "reading": "ばかみたいな",
+          "romaji": "baka mitai na",
+          "posZh": "比况表达",
+          "grammarStructureZh": "名词＋みたいな：像…一样的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "像傻瓜一样的"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l021",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "どうしようもない",
+          "reading": "どうしようもない",
+          "romaji": "doushiyou mo nai",
+          "posZh": "固定表达",
+          "grammarStructureZh": "どうすることもできない之意",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "无可救药、毫无办法"
+        },
+        {
+          "token": "僕らの街",
+          "reading": "ぼくらのまち",
+          "romaji": "bokura no machi",
+          "posZh": "名词短语",
+          "grammarStructureZh": "名词＋の＋名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "我们的城市"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l022",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "それでも",
+          "reading": "それでも",
+          "romaji": "sore demo",
+          "posZh": "接续词",
+          "grammarStructureZh": "それ＋でも：即使那样也",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "即便如此"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l023",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "この眼で",
+          "reading": "このめで",
+          "romaji": "kono me de",
+          "posZh": "方式表达",
+          "grammarStructureZh": "名词＋で：以…作为手段",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "用这双眼睛"
+        },
+        {
+          "token": "確かに",
+          "reading": "たしかに",
+          "romaji": "tashika ni",
+          "posZh": "副词",
+          "grammarStructureZh": "强调判断真实",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "确实、的确"
+        },
+        {
+          "token": "見えたんだ",
+          "reading": "みえたんだ",
+          "romaji": "mietan da",
+          "posZh": "说明语气",
+          "grammarStructureZh": "見える的た形＋のだ口语",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "看见了啊"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l024",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "この手で",
+          "reading": "このてで",
+          "romaji": "kono te de",
+          "posZh": "方式表达",
+          "grammarStructureZh": "名词＋で：以…作为手段",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "用这双手"
+        },
+        {
+          "token": "確かに",
+          "reading": "たしかに",
+          "romaji": "tashika ni",
+          "posZh": "副词",
+          "grammarStructureZh": "强调判断真实",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "确实、的确"
+        },
+        {
+          "token": "触れたんだ",
+          "reading": "ふれたんだ",
+          "romaji": "furetan da",
+          "posZh": "说明语气",
+          "grammarStructureZh": "触れる的た形＋のだ口语",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "触碰到了啊"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l025",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "ねえ",
+          "reading": "ねえ",
+          "romaji": "nee",
+          "posZh": "感叹词",
+          "grammarStructureZh": "用于唤起对方注意",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "喂、你看"
+        },
+        {
+          "token": "ほら",
+          "reading": "ほら",
+          "romaji": "hora",
+          "posZh": "感叹词",
+          "grammarStructureZh": "催促对方注意",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "你看、瞧"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l026",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "ほら",
+          "reading": "ほら",
+          "romaji": "hora",
+          "posZh": "感叹词",
+          "grammarStructureZh": "催促对方注意",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "你看、瞧"
+        },
+        {
+          "token": "また",
+          "reading": "また",
+          "romaji": "mata",
+          "posZh": "副词",
+          "grammarStructureZh": "表示重复发生",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "再次、又"
+        },
+        {
+          "token": "吹いた",
+          "reading": "ふいた",
+          "romaji": "fuita",
+          "posZh": "动词（た形）",
+          "grammarStructureZh": "吹く的た形",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "吹起了"
+        },
+        {
+          "token": "馬鹿みたいだ",
+          "reading": "ばかみたいだ",
+          "romaji": "baka mitai da",
+          "posZh": "比况表达",
+          "grammarStructureZh": "名词＋みたいだ：像…一样",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "像傻瓜一样"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l027",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "どうしようもない",
+          "reading": "どうしようもない",
+          "romaji": "doushiyou mo nai",
+          "posZh": "固定表达",
+          "grammarStructureZh": "どうすることもできない之意",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "无可救药、毫无办法"
+        },
+        {
+          "token": "闇を",
+          "reading": "やみを",
+          "romaji": "yami o",
+          "posZh": "名词＋助词",
+          "grammarStructureZh": "を标记照らせ的对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "黑暗（作对象）"
+        },
+        {
+          "token": "照らせ",
+          "reading": "てらせ",
+          "romaji": "terase",
+          "posZh": "动词（命令形）",
+          "grammarStructureZh": "照らす的命令形",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "照亮吧"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l028",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "夢じゃない",
+          "reading": "ゆめじゃない",
+          "romaji": "yume ja nai",
+          "posZh": "否定判断",
+          "grammarStructureZh": "名词＋じゃない：不是…",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不是梦"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l029",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "どうせ",
+          "reading": "douse",
+          "romaji": "dou se",
+          "posZh": "副词",
+          "grammarStructureZh": "表示不抱期待的判断",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "反正、横竖"
+        },
+        {
+          "token": "終わってる",
+          "reading": "おわってる",
+          "romaji": "owatteru",
+          "posZh": "结果状态",
+          "grammarStructureZh": "終わっている的口语缩约",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "已经完了"
+        },
+        {
+          "token": "街だって",
+          "reading": "まちだって",
+          "romaji": "machi datte",
+          "posZh": "提示／让步",
+          "grammarStructureZh": "名词＋だって：也、即使",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "即使是城市也"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l030",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "諦めたって",
+          "reading": "あきらめたって",
+          "romaji": "akirametatte",
+          "posZh": "让步表达",
+          "grammarStructureZh": "动词た形＋って（＝ても）：即使…也",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "即使放弃"
+        },
+        {
+          "token": "変わんない",
+          "reading": "かわんない",
+          "romaji": "kawannai",
+          "posZh": "动词（口语否定）",
+          "grammarStructureZh": "変わらない的口语缩约",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不会改变"
+        },
+        {
+          "token": "ぜ",
+          "reading": "ぜ",
+          "romaji": "ze",
+          "posZh": "终助词",
+          "grammarStructureZh": "较强硬的句末语气",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "加强断言"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l031",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "ああ",
+          "reading": "ああ",
+          "romaji": "aa",
+          "posZh": "感叹词",
+          "grammarStructureZh": "表达感叹或呼应",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "啊啊"
+        },
+        {
+          "token": "まだ",
+          "reading": "まだ",
+          "romaji": "mada",
+          "posZh": "副词",
+          "grammarStructureZh": "表示状态尚未结束",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "仍然、还"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l032",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "やり残した",
+          "reading": "やりのこした",
+          "romaji": "yarinokoshita",
+          "posZh": "复合动词（た形）",
+          "grammarStructureZh": "やり残す：做后仍有未完成部分",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "留下未完成的"
+        },
+        {
+          "token": "が",
+          "reading": "が",
+          "romaji": "ga",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋が＋谓语",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示主语"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "o",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋を＋他动词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示动作对象"
+        },
+        {
+          "token": "覆って",
+          "reading": "おおって",
+          "romaji": "ootte",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "覆う的て形，连接后项",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "覆盖、笼罩"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l033",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "僕ら",
+          "reading": "ぼくら",
+          "romaji": "bokura",
+          "posZh": "代词",
+          "grammarStructureZh": "第一人称复数",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "我们"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "o",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋を＋他动词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示动作对象"
+        },
+        {
+          "token": "包んで",
+          "reading": "つつんで",
+          "romaji": "tsutsunde",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "包む的て形，连接动作",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "包裹着、包围着"
+        },
+        {
+          "token": "粉々になる前に",
+          "reading": "こなごなになるまえに",
+          "romaji": "konagona ni naru mae ni",
+          "posZh": "时间表达",
+          "grammarStructureZh": "动词基本形＋前に",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "在粉碎之前"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l034",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "頼りなくてもいい",
+          "reading": "たよりなくてもいい",
+          "romaji": "tayorinakute mo ii",
+          "posZh": "形容词句型",
+          "grammarStructureZh": "形容词くて＋もいい：即使…也可以",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不依赖也可以"
+        },
+        {
+          "token": "その手",
+          "reading": "そのて",
+          "romaji": "sono te",
+          "posZh": "连体词＋名词",
+          "grammarStructureZh": "その修饰手",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "那双手"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "o",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋を＋他动词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示动作对象"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l035",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "この手",
+          "reading": "このて",
+          "romaji": "kono te",
+          "posZh": "连体词＋名词",
+          "grammarStructureZh": "この修饰手",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "这双手"
+        },
+        {
+          "token": "自分自身",
+          "reading": "じぶんじしん",
+          "romaji": "jibun jishin",
+          "posZh": "名词",
+          "grammarStructureZh": "自身加强自分",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "自己本身"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋の＋名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "表示所属"
+        },
+        {
+          "token": "ものさ",
+          "reading": "ものさ",
+          "romaji": "mono sa",
+          "posZh": "名词＋终助词",
+          "grammarStructureZh": "もの＋さ，带强调语气",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "是…的啊"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l036",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "変わらない",
+          "reading": "かわらない",
+          "romaji": "kawaranai",
+          "posZh": "动词（否定形）",
+          "grammarStructureZh": "変わる的ない形",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不会改变"
+        },
+        {
+          "token": "はずはない",
+          "reading": "はずはない",
+          "romaji": "hazu wa nai",
+          "posZh": "句型",
+          "grammarStructureZh": "动词普通形＋はずはない：强烈否定",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不可能、不会"
+        },
+        {
+          "token": "よ",
+          "reading": "よ",
+          "romaji": "yo",
+          "posZh": "终助词",
+          "grammarStructureZh": "句末提醒、强调",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "加强断言"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l037",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "手を伸ばして",
+          "reading": "てをのばして",
+          "romaji": "te o nobashite",
+          "posZh": "惯用搭配",
+          "grammarStructureZh": "手を伸ばす的て形",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "伸出手"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "o",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋を＋他动词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示动作对象"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l038",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "永遠の中で",
+          "reading": "えいえんのなかで",
+          "romaji": "eien no naka de",
+          "posZh": "地点表达",
+          "grammarStructureZh": "名词＋の中で：在…之中",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "在永恒之中"
+        },
+        {
+          "token": "迷わない為の",
+          "reading": "まよわないための",
+          "romaji": "mayowanai tame no",
+          "posZh": "目的表达",
+          "grammarStructureZh": "否定形＋ための：为了不…的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "为了不迷失的"
+        },
+        {
+          "token": "温もり",
+          "reading": "ぬくもり",
+          "romaji": "nukumori",
+          "posZh": "名词",
+          "grammarStructureZh": "温暖的感觉",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "温暖"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l039",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "軽薄な",
+          "reading": "けいはくな",
+          "romaji": "keihaku na",
+          "posZh": "形容动词",
+          "grammarStructureZh": "な形容词连体形",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "轻浮的"
+        },
+        {
+          "token": "君に",
+          "reading": "きみに",
+          "romaji": "kimi ni",
+          "posZh": "对象表达",
+          "grammarStructureZh": "名词＋に：动作指向对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "对你、向你"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l040",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "届くことなく",
+          "reading": "とどくことなく",
+          "romaji": "todoku koto naku",
+          "posZh": "否定连接",
+          "grammarStructureZh": "动词基本形＋ことなく：没有…就",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "未能传达到"
+        },
+        {
+          "token": "散ってゆく",
+          "reading": "ちってゆく",
+          "romaji": "chitte yuku",
+          "posZh": "补助动词",
+          "grammarStructureZh": "动词て形＋ゆく：向未来变化",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "渐渐消散"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l041",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "想像通り",
+          "reading": "そうぞうどおり",
+          "romaji": "souzou doori",
+          "posZh": "表达",
+          "grammarStructureZh": "名词＋通り：按照…",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "如想象一般"
+        },
+        {
+          "token": "そんなはずはない",
+          "reading": "sonna hazu wa nai",
+          "romaji": "sonna hazu wa nai",
+          "posZh": "固定句型",
+          "grammarStructureZh": "そんな＋はずはない：不可能如此",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不可能那样"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l042",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "逃げりゃ",
+          "reading": "にげりゃ",
+          "romaji": "nigerya",
+          "posZh": "条件形（口语）",
+          "grammarStructureZh": "逃げれば的口语缩约",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "只要逃的话"
+        },
+        {
+          "token": "いいでしょ",
+          "reading": "いいでしょ",
+          "romaji": "ii desho",
+          "posZh": "许可／确认",
+          "grammarStructureZh": "いい＋でしょ：可以吧",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "就可以了吧"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l043",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "簡単に",
+          "reading": "かんたんに",
+          "romaji": "kantan ni",
+          "posZh": "形容动词副词形",
+          "grammarStructureZh": "な形容词＋に",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "轻易地"
+        },
+        {
+          "token": "言わないで",
+          "reading": "いわないで",
+          "romaji": "iwanai de",
+          "posZh": "否定请求",
+          "grammarStructureZh": "动词ない形＋で：请不要…",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不要说"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l044",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "いつも通りの",
+          "reading": "いつもどおりの",
+          "romaji": "itsumo doori no",
+          "posZh": "表达",
+          "grammarStructureZh": "いつも通り＋の：一如既往的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "一如往常的"
+        },
+        {
+          "token": "世界を",
+          "reading": "せかいを",
+          "romaji": "sekai o",
+          "posZh": "名词＋助词",
+          "grammarStructureZh": "を标记駆けてゆく的对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "世界（作对象）"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l045",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "今日だって",
+          "reading": "きょうだって",
+          "romaji": "kyou datte",
+          "posZh": "提示／让步",
+          "grammarStructureZh": "名词＋だって：也、即使",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "即使是今天也"
+        },
+        {
+          "token": "駆けてゆく",
+          "reading": "かけてゆく",
+          "romaji": "kakete yuku",
+          "posZh": "补助动词",
+          "grammarStructureZh": "动词て形＋ゆく：向未来持续",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "奔跑向前"
+        },
+        {
+          "token": "んだ",
+          "reading": "んだ",
+          "romaji": "n da",
+          "posZh": "说明语气",
+          "grammarStructureZh": "のだ的口语形式",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "正是如此、啊"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l046",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "滑り落ちたら",
+          "reading": "すべりおちたら",
+          "romaji": "suberi ochitara",
+          "posZh": "假定条件",
+          "grammarStructureZh": "动词た形＋ら：如果…",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "如果滑落的话"
+        },
+        {
+          "token": "掴んで",
+          "reading": "つかんで",
+          "romaji": "tsukande",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "掴む的て形",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "抓住、紧握"
+        },
+        {
+          "token": "やろう",
+          "reading": "やろう",
+          "romaji": "yarou",
+          "posZh": "意志形",
+          "grammarStructureZh": "やる的意志形，表示决心",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "来做吧、会做给你看"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l047",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "灰色の空",
+          "reading": "はいいろのそら",
+          "romaji": "haiiro no sora",
+          "posZh": "名词短语",
+          "grammarStructureZh": "名词＋の＋名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "灰色的天空"
+        },
+        {
+          "token": "その中で",
+          "reading": "そのなかで",
+          "romaji": "sono naka de",
+          "posZh": "地点表达",
+          "grammarStructureZh": "名词＋の中で",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "在那之中"
+        },
+        {
+          "token": "煌めく",
+          "reading": "きらめく",
+          "romaji": "kirameku",
+          "posZh": "动词",
+          "grammarStructureZh": "修饰青さ",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "闪耀、闪烁"
+        },
+        {
+          "token": "青さを",
+          "reading": "あおさを",
+          "romaji": "aosa o",
+          "posZh": "名词＋助词",
+          "grammarStructureZh": "を标记省略的动作对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "蓝色（作对象）"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l048",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "嘘みたいな",
+          "reading": "うそみたいな",
+          "romaji": "uso mitai na",
+          "posZh": "比况表达",
+          "grammarStructureZh": "名词＋みたいな：像…一样的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "像谎言一样的"
+        },
+        {
+          "token": "馬鹿みたいな",
+          "reading": "ばかみたいな",
+          "romaji": "baka mitai na",
+          "posZh": "比况表达",
+          "grammarStructureZh": "名词＋みたいな：像…一样的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "像傻瓜一样的"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l049",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "どうしようもない",
+          "reading": "どうしようもない",
+          "romaji": "doushiyou mo nai",
+          "posZh": "固定表达",
+          "grammarStructureZh": "どうすることもできない之意",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "无可救药、毫无办法"
+        },
+        {
+          "token": "僕らの街",
+          "reading": "ぼくらのまち",
+          "romaji": "bokura no machi",
+          "posZh": "名词短语",
+          "grammarStructureZh": "名词＋の＋名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "我们的城市"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l050",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "それでも",
+          "reading": "それでも",
+          "romaji": "sore demo",
+          "posZh": "接续词",
+          "grammarStructureZh": "それ＋でも：即使那样也",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "即便如此"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l051",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "この眼で",
+          "reading": "このめで",
+          "romaji": "kono me de",
+          "posZh": "方式表达",
+          "grammarStructureZh": "名词＋で：以…作为手段",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "用这双眼睛"
+        },
+        {
+          "token": "確かに",
+          "reading": "たしかに",
+          "romaji": "tashika ni",
+          "posZh": "副词",
+          "grammarStructureZh": "强调判断真实",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "确实、的确"
+        },
+        {
+          "token": "見えたんだ",
+          "reading": "みえたんだ",
+          "romaji": "mietan da",
+          "posZh": "说明语气",
+          "grammarStructureZh": "見える的た形＋のだ口语",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "看见了啊"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l052",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "この手で",
+          "reading": "このてで",
+          "romaji": "kono te de",
+          "posZh": "方式表达",
+          "grammarStructureZh": "名词＋で：以…作为手段",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "用这双手"
+        },
+        {
+          "token": "確かに",
+          "reading": "たしかに",
+          "romaji": "tashika ni",
+          "posZh": "副词",
+          "grammarStructureZh": "强调判断真实",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "确实、的确"
+        },
+        {
+          "token": "触れたんだ",
+          "reading": "ふれたんだ",
+          "romaji": "furetan da",
+          "posZh": "说明语气",
+          "grammarStructureZh": "触れる的た形＋のだ口语",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "触碰到了啊"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l053",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "ねえ",
+          "reading": "ねえ",
+          "romaji": "nee",
+          "posZh": "感叹词",
+          "grammarStructureZh": "用于唤起对方注意",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "喂、你看"
+        },
+        {
+          "token": "ほら",
+          "reading": "ほら",
+          "romaji": "hora",
+          "posZh": "感叹词",
+          "grammarStructureZh": "催促对方注意",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "你看、瞧"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l054",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "ほら",
+          "reading": "ほら",
+          "romaji": "hora",
+          "posZh": "感叹词",
+          "grammarStructureZh": "催促对方注意",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "你看、瞧"
+        },
+        {
+          "token": "また",
+          "reading": "また",
+          "romaji": "mata",
+          "posZh": "副词",
+          "grammarStructureZh": "表示重复发生",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "再次、又"
+        },
+        {
+          "token": "吹いた",
+          "reading": "ふいた",
+          "romaji": "fuita",
+          "posZh": "动词（た形）",
+          "grammarStructureZh": "吹く的た形",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "吹起了"
+        },
+        {
+          "token": "馬鹿みたいだ",
+          "reading": "ばかみたいだ",
+          "romaji": "baka mitai da",
+          "posZh": "比况表达",
+          "grammarStructureZh": "名词＋みたいだ：像…一样",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "像傻瓜一样"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l055",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "どうしようもない",
+          "reading": "どうしようもない",
+          "romaji": "doushiyou mo nai",
+          "posZh": "固定表达",
+          "grammarStructureZh": "どうすることもできない之意",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "无可救药、毫无办法"
+        },
+        {
+          "token": "闇を",
+          "reading": "やみを",
+          "romaji": "yami o",
+          "posZh": "名词＋助词",
+          "grammarStructureZh": "を标记照らせ的对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "黑暗（作对象）"
+        },
+        {
+          "token": "照らせ",
+          "reading": "てらせ",
+          "romaji": "terase",
+          "posZh": "动词（命令形）",
+          "grammarStructureZh": "照らす的命令形",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "照亮吧"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l056",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "夢じゃない",
+          "reading": "ゆめじゃない",
+          "romaji": "yume ja nai",
+          "posZh": "否定判断",
+          "grammarStructureZh": "名词＋じゃない：不是…",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不是梦"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l057",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "どうせ",
+          "reading": "douse",
+          "romaji": "dou se",
+          "posZh": "副词",
+          "grammarStructureZh": "表示不抱期待的判断",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "反正、横竖"
+        },
+        {
+          "token": "終わってる",
+          "reading": "おわってる",
+          "romaji": "owatteru",
+          "posZh": "结果状态",
+          "grammarStructureZh": "終わっている的口语缩约",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "已经完了"
+        },
+        {
+          "token": "街だって",
+          "reading": "まちだって",
+          "romaji": "machi datte",
+          "posZh": "提示／让步",
+          "grammarStructureZh": "名词＋だって：也、即使",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "即使是城市也"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l058",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "諦めたって",
+          "reading": "あきらめたって",
+          "romaji": "akirametatte",
+          "posZh": "让步表达",
+          "grammarStructureZh": "动词た形＋って（＝ても）：即使…也",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "即使放弃"
+        },
+        {
+          "token": "変わんない",
+          "reading": "かわんない",
+          "romaji": "kawannai",
+          "posZh": "动词（口语否定）",
+          "grammarStructureZh": "変わらない的口语缩约",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不会改变"
+        },
+        {
+          "token": "ぜ",
+          "reading": "ぜ",
+          "romaji": "ze",
+          "posZh": "终助词",
+          "grammarStructureZh": "较强硬的句末语气",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "加强断言"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l059",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "ああ",
+          "reading": "ああ",
+          "romaji": "aa",
+          "posZh": "感叹词",
+          "grammarStructureZh": "表达感叹或呼应",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "啊啊"
+        },
+        {
+          "token": "まだ",
+          "reading": "まだ",
+          "romaji": "mada",
+          "posZh": "副词",
+          "grammarStructureZh": "表示状态尚未结束",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "仍然、还"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l060",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "やり残した",
+          "reading": "やりのこした",
+          "romaji": "yarinokoshita",
+          "posZh": "复合动词（た形）",
+          "grammarStructureZh": "やり残す：做后仍有未完成部分",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "留下未完成的"
+        },
+        {
+          "token": "が",
+          "reading": "が",
+          "romaji": "ga",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋が＋谓语",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示主语"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "o",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋を＋他动词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示动作对象"
+        },
+        {
+          "token": "覆って",
+          "reading": "おおって",
+          "romaji": "ootte",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "覆う的て形，连接后项",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "覆盖、笼罩"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l061",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "僕ら",
+          "reading": "ぼくら",
+          "romaji": "bokura",
+          "posZh": "代词",
+          "grammarStructureZh": "第一人称复数",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "我们"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "o",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋を＋他动词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示动作对象"
+        },
+        {
+          "token": "包んで",
+          "reading": "つつんで",
+          "romaji": "tsutsunde",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "包む的て形，连接动作",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "包裹着、包围着"
+        },
+        {
+          "token": "粉々になる前に",
+          "reading": "こなごなになるまえに",
+          "romaji": "konagona ni naru mae ni",
+          "posZh": "时间表达",
+          "grammarStructureZh": "动词基本形＋前に",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "在粉碎之前"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l062",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "頼りなくてもいい",
+          "reading": "たよりなくてもいい",
+          "romaji": "tayorinakute mo ii",
+          "posZh": "形容词句型",
+          "grammarStructureZh": "形容词くて＋もいい：即使…也可以",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不依赖也可以"
+        },
+        {
+          "token": "その手",
+          "reading": "そのて",
+          "romaji": "sono te",
+          "posZh": "连体词＋名词",
+          "grammarStructureZh": "その修饰手",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "那双手"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "o",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋を＋他动词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示动作对象"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l063",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "この手",
+          "reading": "このて",
+          "romaji": "kono te",
+          "posZh": "连体词＋名词",
+          "grammarStructureZh": "この修饰手",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "这双手"
+        },
+        {
+          "token": "自分自身",
+          "reading": "じぶんじしん",
+          "romaji": "jibun jishin",
+          "posZh": "名词",
+          "grammarStructureZh": "自身加强自分",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "自己本身"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋の＋名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "表示所属"
+        },
+        {
+          "token": "ものさ",
+          "reading": "ものさ",
+          "romaji": "mono sa",
+          "posZh": "名词＋终助词",
+          "grammarStructureZh": "もの＋さ，带强调语气",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "是…的啊"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l064",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "変わらない",
+          "reading": "かわらない",
+          "romaji": "kawaranai",
+          "posZh": "动词（否定形）",
+          "grammarStructureZh": "変わる的ない形",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不会改变"
+        },
+        {
+          "token": "はずはない",
+          "reading": "はずはない",
+          "romaji": "hazu wa nai",
+          "posZh": "句型",
+          "grammarStructureZh": "动词普通形＋はずはない：强烈否定",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不可能、不会"
+        },
+        {
+          "token": "よ",
+          "reading": "よ",
+          "romaji": "yo",
+          "posZh": "终助词",
+          "grammarStructureZh": "句末提醒、强调",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "加强断言"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l065",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "手を伸ばして",
+          "reading": "てをのばして",
+          "romaji": "te o nobashite",
+          "posZh": "惯用搭配",
+          "grammarStructureZh": "手を伸ばす的て形",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "伸出手"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "o",
+          "posZh": "助词",
+          "grammarStructureZh": "名词＋を＋他动词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示动作对象"
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l066",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "何もかも",
+          "reading": "なにもかも",
+          "romaji": "nani mo kamo",
+          "posZh": "副词性名词",
+          "grammarStructureZh": "何も＋かも：所有一切",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "一切、所有"
+        },
+        {
+          "token": "君次第で",
+          "reading": "きみしだいで",
+          "romaji": "kimi shidai de",
+          "posZh": "句型",
+          "grammarStructureZh": "名词＋次第で：取决于…",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "取决于你"
+        },
+        {
+          "token": "僕次第さ",
+          "reading": "ぼくしだいさ",
+          "romaji": "boku shidai sa",
+          "posZh": "句型＋终助词",
+          "grammarStructureZh": "名词＋次第＋さ：取决于…啊",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "取决于我啊"
+        }
+      ],
+      "confidence": 0.94,
+      "evidence": [
+        "完整重建：短卡字段固定为词条、读音、罗马音、释义/功能、词性；复句优先合并为固定搭配或活用。"
+      ],
+      "changesTokenStructure": true
+    }
+  ],
+  "reviewNotes": [
+    "所有61条实际歌词均有 grammarCards 新值；副歌重复行显式继承同一语义束。",
+    "助词仅使用 functionZh；动词的て/で形作为活用整体，不拆成助词。",
+    "grammarStructureZh 为审阅数据，卡面仅应显示 posZh。"
+  ]
+}

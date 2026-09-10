@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 3,
+  "userWording": "采纳全部提案",
+  "scope": "complete reviewed content merge chain",
+  "framesBeforeSha256": "47ebcf1e932515884183515726d710170c189193e90caf57e8d402879be19b00",
+  "framesAfterSha256": "833b4143b013151e2e42593417ff7d09d97a8f084792fd0fff0ed6863fbc1d33",
+  "mergedChangeCount": 479,
+  "stages": [
+    {
+      "name": "assisted-review",
+      "mergedChangeCount": 429,
+      "log": "project/review/merge-log-round1.json"
+    },
+    {
+      "name": "layout-corrections",
+      "mergedChangeCount": 25,
+      "log": "project/review/layout-correction-merge-log.json"
+    },
+    {
+      "name": "final-fit-corrections",
+      "mergedChangeCount": 13,
+      "log": "project/review/final-fit-merge-log.json"
+    },
+    {
+      "name": "narrow-card-meaning-preserving-fixes",
+      "mergedChangeCount": 10,
+      "logs": [
+        "project/review/narrow-card-fix-log.json",
+        "project/review/narrow-card-zu-ni-fix-log.json"
+      ]
+    },
+    {
+      "name": "user-requested-furigana-completion",
+      "mergedChangeCount": 2,
+      "frameId": "l029",
+      "changes": [
+        "駆→か",
+        "抜→ぬ"
+      ],
+      "userWording": "有一些句子汉字丢了假名注释"
+    }
+  ],
+  "layoutReport": "project/qa/merged-layout-report.json",
+  "layoutResult": "passed"
+}

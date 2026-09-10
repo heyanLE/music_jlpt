@@ -1,0 +1,4474 @@
+{
+  "schemaVersion": 1,
+  "format": "qq-qrc-word-timed",
+  "lines": [
+    {
+      "startMs": 0,
+      "endMs": 153,
+      "durationMs": 153,
+      "text": "Amore - ReoNa (レオナ)",
+      "parts": [
+        {
+          "text": "Amore - ",
+          "startMs": 0,
+          "durationMs": 25
+        },
+        {
+          "text": "ReoNa (",
+          "startMs": 26,
+          "durationMs": 25
+        },
+        {
+          "text": "レ",
+          "startMs": 51,
+          "durationMs": 25
+        },
+        {
+          "text": "オ",
+          "startMs": 77,
+          "durationMs": 25
+        },
+        {
+          "text": "ナ",
+          "startMs": 102,
+          "durationMs": 25
+        },
+        {
+          "text": ")",
+          "startMs": 128,
+          "durationMs": 25
+        }
+      ]
+    },
+    {
+      "startMs": 153,
+      "endMs": 281,
+      "durationMs": 128,
+      "text": "词：Pan （LIVE LAB.）",
+      "parts": [
+        {
+          "text": "词",
+          "startMs": 153,
+          "durationMs": 25
+        },
+        {
+          "text": "：",
+          "startMs": 179,
+          "durationMs": 25
+        },
+        {
+          "text": "Pan （",
+          "startMs": 204,
+          "durationMs": 25
+        },
+        {
+          "text": "LIVE ",
+          "startMs": 230,
+          "durationMs": 25
+        },
+        {
+          "text": "LAB.）",
+          "startMs": 256,
+          "durationMs": 25
+        }
+      ]
+    },
+    {
+      "startMs": 281,
+      "endMs": 459,
+      "durationMs": 178,
+      "text": "曲：Pan （LIVE LAB.）",
+      "parts": [
+        {
+          "text": "曲",
+          "startMs": 281,
+          "durationMs": 76
+        },
+        {
+          "text": "：",
+          "startMs": 358,
+          "durationMs": 25
+        },
+        {
+          "text": "Pan （",
+          "startMs": 383,
+          "durationMs": 25
+        },
+        {
+          "text": "LIVE ",
+          "startMs": 409,
+          "durationMs": 25
+        },
+        {
+          "text": "LAB.）",
+          "startMs": 434,
+          "durationMs": 25
+        }
+      ]
+    },
+    {
+      "startMs": 460,
+      "endMs": 689,
+      "durationMs": 229,
+      "text": "编曲：Pan （LIVE LAB.）",
+      "parts": [
+        {
+          "text": "编",
+          "startMs": 460,
+          "durationMs": 51
+        },
+        {
+          "text": "曲",
+          "startMs": 511,
+          "durationMs": 76
+        },
+        {
+          "text": "：",
+          "startMs": 588,
+          "durationMs": 25
+        },
+        {
+          "text": "Pan （",
+          "startMs": 613,
+          "durationMs": 25
+        },
+        {
+          "text": "LIVE ",
+          "startMs": 639,
+          "durationMs": 25
+        },
+        {
+          "text": "LAB.）",
+          "startMs": 664,
+          "durationMs": 25
+        }
+      ]
+    },
+    {
+      "startMs": 691,
+      "endMs": 5772,
+      "durationMs": 5081,
+      "text": "会いたい きみに会いたい",
+      "parts": [
+        {
+          "text": "会",
+          "startMs": 691,
+          "durationMs": 215
+        },
+        {
+          "text": "い",
+          "startMs": 906,
+          "durationMs": 208
+        },
+        {
+          "text": "た",
+          "startMs": 1114,
+          "durationMs": 1104
+        },
+        {
+          "text": "い",
+          "startMs": 2218,
+          "durationMs": 273
+        },
+        {
+          "text": " ",
+          "startMs": 2491,
+          "durationMs": 537
+        },
+        {
+          "text": "き",
+          "startMs": 3028,
+          "durationMs": 207
+        },
+        {
+          "text": "み",
+          "startMs": 3235,
+          "durationMs": 193
+        },
+        {
+          "text": "に",
+          "startMs": 3428,
+          "durationMs": 217
+        },
+        {
+          "text": "会",
+          "startMs": 3645,
+          "durationMs": 216
+        },
+        {
+          "text": "い",
+          "startMs": 3861,
+          "durationMs": 265
+        },
+        {
+          "text": "た",
+          "startMs": 4126,
+          "durationMs": 1423
+        },
+        {
+          "text": "い",
+          "startMs": 5549,
+          "durationMs": 223
+        }
+      ]
+    },
+    {
+      "startMs": 19336,
+      "endMs": 22450,
+      "durationMs": 3114,
+      "text": "たとえば きみと僕を",
+      "parts": [
+        {
+          "text": "た",
+          "startMs": 19336,
+          "durationMs": 224
+        },
+        {
+          "text": "と",
+          "startMs": 19560,
+          "durationMs": 265
+        },
+        {
+          "text": "え",
+          "startMs": 20064,
+          "durationMs": 216
+        },
+        {
+          "text": "ば",
+          "startMs": 20280,
+          "durationMs": 360
+        },
+        {
+          "text": " ",
+          "startMs": 20640,
+          "durationMs": 0
+        },
+        {
+          "text": "き",
+          "startMs": 20873,
+          "durationMs": 222
+        },
+        {
+          "text": "み",
+          "startMs": 21095,
+          "durationMs": 236
+        },
+        {
+          "text": "と",
+          "startMs": 21586,
+          "durationMs": 224
+        },
+        {
+          "text": "僕",
+          "startMs": 21810,
+          "durationMs": 416
+        },
+        {
+          "text": "を",
+          "startMs": 22226,
+          "durationMs": 224
+        }
+      ]
+    },
+    {
+      "startMs": 22450,
+      "endMs": 26075,
+      "durationMs": 3625,
+      "text": "2つ足してさ はんぶんこに",
+      "parts": [
+        {
+          "text": "2",
+          "startMs": 22450,
+          "durationMs": 512
+        },
+        {
+          "text": "つ",
+          "startMs": 22962,
+          "durationMs": 67
+        },
+        {
+          "text": "足",
+          "startMs": 23254,
+          "durationMs": 215
+        },
+        {
+          "text": "し",
+          "startMs": 23469,
+          "durationMs": 345
+        },
+        {
+          "text": "て",
+          "startMs": 24037,
+          "durationMs": 216
+        },
+        {
+          "text": "さ",
+          "startMs": 24253,
+          "durationMs": 287
+        },
+        {
+          "text": " ",
+          "startMs": 24540,
+          "durationMs": 240
+        },
+        {
+          "text": "は",
+          "startMs": 24780,
+          "durationMs": 160
+        },
+        {
+          "text": "ん",
+          "startMs": 24940,
+          "durationMs": 160
+        },
+        {
+          "text": "ぶ",
+          "startMs": 25100,
+          "durationMs": 232
+        },
+        {
+          "text": "ん",
+          "startMs": 25332,
+          "durationMs": 207
+        },
+        {
+          "text": "こ",
+          "startMs": 25539,
+          "durationMs": 240
+        },
+        {
+          "text": "に",
+          "startMs": 25779,
+          "durationMs": 296
+        }
+      ]
+    },
+    {
+      "startMs": 26331,
+      "endMs": 28594,
+      "durationMs": 2263,
+      "text": "ちぎる魔法があれば",
+      "parts": [
+        {
+          "text": "ち",
+          "startMs": 26331,
+          "durationMs": 217
+        },
+        {
+          "text": "ぎ",
+          "startMs": 26548,
+          "durationMs": 183
+        },
+        {
+          "text": "る",
+          "startMs": 26731,
+          "durationMs": 169
+        },
+        {
+          "text": "魔",
+          "startMs": 27084,
+          "durationMs": 248
+        },
+        {
+          "text": "法",
+          "startMs": 27332,
+          "durationMs": 313
+        },
+        {
+          "text": "が",
+          "startMs": 27853,
+          "durationMs": 98
+        },
+        {
+          "text": "あ",
+          "startMs": 27951,
+          "durationMs": 223
+        },
+        {
+          "text": "れ",
+          "startMs": 28174,
+          "durationMs": 233
+        },
+        {
+          "text": "ば",
+          "startMs": 28407,
+          "durationMs": 187
+        }
+      ]
+    },
+    {
+      "startMs": 28594,
+      "endMs": 29920,
+      "durationMs": 1326,
+      "text": "サヨナラのない",
+      "parts": [
+        {
+          "text": "サ",
+          "startMs": 28594,
+          "durationMs": 223
+        },
+        {
+          "text": "ヨ",
+          "startMs": 28817,
+          "durationMs": 216
+        },
+        {
+          "text": "ナ",
+          "startMs": 29033,
+          "durationMs": 200
+        },
+        {
+          "text": "ラ",
+          "startMs": 29233,
+          "durationMs": 208
+        },
+        {
+          "text": "の",
+          "startMs": 29441,
+          "durationMs": 208
+        },
+        {
+          "text": "な",
+          "startMs": 29649,
+          "durationMs": 192
+        },
+        {
+          "text": "い",
+          "startMs": 29841,
+          "durationMs": 79
+        }
+      ]
+    },
+    {
+      "startMs": 30072,
+      "endMs": 31875,
+      "durationMs": 1803,
+      "text": "永遠になれるのかな",
+      "parts": [
+        {
+          "text": "永",
+          "startMs": 30072,
+          "durationMs": 344
+        },
+        {
+          "text": "遠",
+          "startMs": 30416,
+          "durationMs": 384
+        },
+        {
+          "text": "に",
+          "startMs": 30800,
+          "durationMs": 200
+        },
+        {
+          "text": "な",
+          "startMs": 31000,
+          "durationMs": 224
+        },
+        {
+          "text": "れ",
+          "startMs": 31224,
+          "durationMs": 173
+        },
+        {
+          "text": "る",
+          "startMs": 31397,
+          "durationMs": 89
+        },
+        {
+          "text": "の",
+          "startMs": 31486,
+          "durationMs": 80
+        },
+        {
+          "text": "か",
+          "startMs": 31566,
+          "durationMs": 128
+        },
+        {
+          "text": "な",
+          "startMs": 31694,
+          "durationMs": 181
+        }
+      ]
+    },
+    {
+      "startMs": 31875,
+      "endMs": 34797,
+      "durationMs": 2922,
+      "text": "明日 きみがいないのなら",
+      "parts": [
+        {
+          "text": "明日",
+          "startMs": 31875,
+          "durationMs": 584
+        },
+        {
+          "text": " ",
+          "startMs": 32459,
+          "durationMs": 0
+        },
+        {
+          "text": "き",
+          "startMs": 32603,
+          "durationMs": 176
+        },
+        {
+          "text": "み",
+          "startMs": 32779,
+          "durationMs": 208
+        },
+        {
+          "text": "が",
+          "startMs": 32987,
+          "durationMs": 225
+        },
+        {
+          "text": "い",
+          "startMs": 33212,
+          "durationMs": 215
+        },
+        {
+          "text": "な",
+          "startMs": 33427,
+          "durationMs": 209
+        },
+        {
+          "text": "い",
+          "startMs": 33636,
+          "durationMs": 106
+        },
+        {
+          "text": "の",
+          "startMs": 33742,
+          "durationMs": 208
+        },
+        {
+          "text": "な",
+          "startMs": 33950,
+          "durationMs": 185
+        },
+        {
+          "text": "ら",
+          "startMs": 34135,
+          "durationMs": 662
+        }
+      ]
+    },
+    {
+      "startMs": 34797,
+      "endMs": 37802,
+      "durationMs": 3005,
+      "text": "僕は後悔するのだろう",
+      "parts": [
+        {
+          "text": "僕",
+          "startMs": 34797,
+          "durationMs": 408
+        },
+        {
+          "text": "は",
+          "startMs": 35205,
+          "durationMs": 408
+        },
+        {
+          "text": "後",
+          "startMs": 35613,
+          "durationMs": 344
+        },
+        {
+          "text": "悔",
+          "startMs": 35957,
+          "durationMs": 448
+        },
+        {
+          "text": "す",
+          "startMs": 36405,
+          "durationMs": 193
+        },
+        {
+          "text": "る",
+          "startMs": 36598,
+          "durationMs": 199
+        },
+        {
+          "text": "の",
+          "startMs": 36797,
+          "durationMs": 200
+        },
+        {
+          "text": "だ",
+          "startMs": 36997,
+          "durationMs": 208
+        },
+        {
+          "text": "ろ",
+          "startMs": 37205,
+          "durationMs": 304
+        },
+        {
+          "text": "う",
+          "startMs": 37509,
+          "durationMs": 293
+        }
+      ]
+    },
+    {
+      "startMs": 38009,
+      "endMs": 40807,
+      "durationMs": 2798,
+      "text": "言えなかった言葉たちが",
+      "parts": [
+        {
+          "text": "言",
+          "startMs": 38009,
+          "durationMs": 192
+        },
+        {
+          "text": "え",
+          "startMs": 38201,
+          "durationMs": 216
+        },
+        {
+          "text": "な",
+          "startMs": 38417,
+          "durationMs": 296
+        },
+        {
+          "text": "か",
+          "startMs": 38905,
+          "durationMs": 136
+        },
+        {
+          "text": "っ",
+          "startMs": 39042,
+          "durationMs": 136
+        },
+        {
+          "text": "た",
+          "startMs": 39178,
+          "durationMs": 155
+        },
+        {
+          "text": "言",
+          "startMs": 39333,
+          "durationMs": 408
+        },
+        {
+          "text": "葉",
+          "startMs": 39741,
+          "durationMs": 200
+        },
+        {
+          "text": "た",
+          "startMs": 39941,
+          "durationMs": 175
+        },
+        {
+          "text": "ち",
+          "startMs": 40116,
+          "durationMs": 217
+        },
+        {
+          "text": "が",
+          "startMs": 40333,
+          "durationMs": 474
+        }
+      ]
+    },
+    {
+      "startMs": 41030,
+      "endMs": 44065,
+      "durationMs": 3035,
+      "text": "棘になって刺さるのだろう",
+      "parts": [
+        {
+          "text": "棘",
+          "startMs": 41030,
+          "durationMs": 431
+        },
+        {
+          "text": "に",
+          "startMs": 41461,
+          "durationMs": 433
+        },
+        {
+          "text": "な",
+          "startMs": 41894,
+          "durationMs": 184
+        },
+        {
+          "text": "っ",
+          "startMs": 42078,
+          "durationMs": 184
+        },
+        {
+          "text": "て",
+          "startMs": 42262,
+          "durationMs": 208
+        },
+        {
+          "text": "刺",
+          "startMs": 42470,
+          "durationMs": 208
+        },
+        {
+          "text": "さ",
+          "startMs": 42678,
+          "durationMs": 208
+        },
+        {
+          "text": "る",
+          "startMs": 42886,
+          "durationMs": 207
+        },
+        {
+          "text": "の",
+          "startMs": 43093,
+          "durationMs": 201
+        },
+        {
+          "text": "だ",
+          "startMs": 43294,
+          "durationMs": 200
+        },
+        {
+          "text": "ろ",
+          "startMs": 43494,
+          "durationMs": 276
+        },
+        {
+          "text": "う",
+          "startMs": 43770,
+          "durationMs": 295
+        }
+      ]
+    },
+    {
+      "startMs": 44247,
+      "endMs": 47298,
+      "durationMs": 3051,
+      "text": "明日 きみがいないのなら",
+      "parts": [
+        {
+          "text": "明日",
+          "startMs": 44247,
+          "durationMs": 466
+        },
+        {
+          "text": " ",
+          "startMs": 44713,
+          "durationMs": 224
+        },
+        {
+          "text": "き",
+          "startMs": 44937,
+          "durationMs": 200
+        },
+        {
+          "text": "み",
+          "startMs": 45137,
+          "durationMs": 185
+        },
+        {
+          "text": "が",
+          "startMs": 45322,
+          "durationMs": 182
+        },
+        {
+          "text": "い",
+          "startMs": 45504,
+          "durationMs": 193
+        },
+        {
+          "text": "な",
+          "startMs": 45697,
+          "durationMs": 176
+        },
+        {
+          "text": "い",
+          "startMs": 45873,
+          "durationMs": 272
+        },
+        {
+          "text": "の",
+          "startMs": 46145,
+          "durationMs": 184
+        },
+        {
+          "text": "な",
+          "startMs": 46329,
+          "durationMs": 200
+        },
+        {
+          "text": "ら",
+          "startMs": 46529,
+          "durationMs": 769
+        }
+      ]
+    },
+    {
+      "startMs": 47298,
+      "endMs": 50230,
+      "durationMs": 2932,
+      "text": "僕はどうなっちゃうんだろう",
+      "parts": [
+        {
+          "text": "僕",
+          "startMs": 47298,
+          "durationMs": 448
+        },
+        {
+          "text": "は",
+          "startMs": 47746,
+          "durationMs": 316
+        },
+        {
+          "text": "ど",
+          "startMs": 48062,
+          "durationMs": 208
+        },
+        {
+          "text": "う",
+          "startMs": 48270,
+          "durationMs": 208
+        },
+        {
+          "text": "な",
+          "startMs": 48478,
+          "durationMs": 220
+        },
+        {
+          "text": "っ",
+          "startMs": 48698,
+          "durationMs": 220
+        },
+        {
+          "text": "ち",
+          "startMs": 48918,
+          "durationMs": 107
+        },
+        {
+          "text": "ゃ",
+          "startMs": 49025,
+          "durationMs": 107
+        },
+        {
+          "text": "う",
+          "startMs": 49133,
+          "durationMs": 124
+        },
+        {
+          "text": "ん",
+          "startMs": 49257,
+          "durationMs": 95
+        },
+        {
+          "text": "だ",
+          "startMs": 49353,
+          "durationMs": 224
+        },
+        {
+          "text": "ろ",
+          "startMs": 49577,
+          "durationMs": 232
+        },
+        {
+          "text": "う",
+          "startMs": 49809,
+          "durationMs": 421
+        }
+      ]
+    },
+    {
+      "startMs": 50341,
+      "endMs": 53201,
+      "durationMs": 2860,
+      "text": "そんな事考えてたら",
+      "parts": [
+        {
+          "text": "そ",
+          "startMs": 50341,
+          "durationMs": 184
+        },
+        {
+          "text": "ん",
+          "startMs": 50525,
+          "durationMs": 184
+        },
+        {
+          "text": "な",
+          "startMs": 50709,
+          "durationMs": 416
+        },
+        {
+          "text": "事",
+          "startMs": 51125,
+          "durationMs": 496
+        },
+        {
+          "text": "考",
+          "startMs": 51621,
+          "durationMs": 640
+        },
+        {
+          "text": "え",
+          "startMs": 52261,
+          "durationMs": 256
+        },
+        {
+          "text": "て",
+          "startMs": 52517,
+          "durationMs": 192
+        },
+        {
+          "text": "た",
+          "startMs": 52709,
+          "durationMs": 208
+        },
+        {
+          "text": "ら",
+          "startMs": 52917,
+          "durationMs": 284
+        }
+      ]
+    },
+    {
+      "startMs": 53457,
+      "endMs": 56270,
+      "durationMs": 2813,
+      "text": "きみに会いたくなったんだよ",
+      "parts": [
+        {
+          "text": "き",
+          "startMs": 53457,
+          "durationMs": 199
+        },
+        {
+          "text": "み",
+          "startMs": 53656,
+          "durationMs": 224
+        },
+        {
+          "text": "に",
+          "startMs": 53880,
+          "durationMs": 217
+        },
+        {
+          "text": "会",
+          "startMs": 54097,
+          "durationMs": 200
+        },
+        {
+          "text": "い",
+          "startMs": 54297,
+          "durationMs": 200
+        },
+        {
+          "text": "た",
+          "startMs": 54497,
+          "durationMs": 216
+        },
+        {
+          "text": "く",
+          "startMs": 54713,
+          "durationMs": 231
+        },
+        {
+          "text": "な",
+          "startMs": 54944,
+          "durationMs": 192
+        },
+        {
+          "text": "っ",
+          "startMs": 55136,
+          "durationMs": 190
+        },
+        {
+          "text": "た",
+          "startMs": 55327,
+          "durationMs": 192
+        },
+        {
+          "text": "ん",
+          "startMs": 55519,
+          "durationMs": 192
+        },
+        {
+          "text": "だ",
+          "startMs": 55711,
+          "durationMs": 232
+        },
+        {
+          "text": "よ",
+          "startMs": 55943,
+          "durationMs": 327
+        }
+      ]
+    },
+    {
+      "startMs": 56695,
+      "endMs": 59610,
+      "durationMs": 2915,
+      "text": "明日 きみと生きれるなら",
+      "parts": [
+        {
+          "text": "明日",
+          "startMs": 56695,
+          "durationMs": 585
+        },
+        {
+          "text": " ",
+          "startMs": 57280,
+          "durationMs": 224
+        },
+        {
+          "text": "き",
+          "startMs": 57504,
+          "durationMs": 224
+        },
+        {
+          "text": "み",
+          "startMs": 57728,
+          "durationMs": 207
+        },
+        {
+          "text": "と",
+          "startMs": 57935,
+          "durationMs": 193
+        },
+        {
+          "text": "生",
+          "startMs": 58128,
+          "durationMs": 191
+        },
+        {
+          "text": "き",
+          "startMs": 58319,
+          "durationMs": 35
+        },
+        {
+          "text": "れ",
+          "startMs": 58354,
+          "durationMs": 223
+        },
+        {
+          "text": "る",
+          "startMs": 58577,
+          "durationMs": 233
+        },
+        {
+          "text": "な",
+          "startMs": 58810,
+          "durationMs": 207
+        },
+        {
+          "text": "ら",
+          "startMs": 59017,
+          "durationMs": 593
+        }
+      ]
+    },
+    {
+      "startMs": 59785,
+      "endMs": 62750,
+      "durationMs": 2965,
+      "text": "毎日記念日にして祝おう",
+      "parts": [
+        {
+          "text": "毎",
+          "startMs": 59785,
+          "durationMs": 384
+        },
+        {
+          "text": "日",
+          "startMs": 60169,
+          "durationMs": 419
+        },
+        {
+          "text": "記",
+          "startMs": 60588,
+          "durationMs": 256
+        },
+        {
+          "text": "念",
+          "startMs": 60844,
+          "durationMs": 264
+        },
+        {
+          "text": "日",
+          "startMs": 61108,
+          "durationMs": 192
+        },
+        {
+          "text": "に",
+          "startMs": 61300,
+          "durationMs": 239
+        },
+        {
+          "text": "し",
+          "startMs": 61539,
+          "durationMs": 201
+        },
+        {
+          "text": "て",
+          "startMs": 61740,
+          "durationMs": 91
+        },
+        {
+          "text": "祝",
+          "startMs": 61831,
+          "durationMs": 375
+        },
+        {
+          "text": "お",
+          "startMs": 62206,
+          "durationMs": 268
+        },
+        {
+          "text": "う",
+          "startMs": 62474,
+          "durationMs": 276
+        }
+      ]
+    },
+    {
+      "startMs": 62806,
+      "endMs": 65598,
+      "durationMs": 2792,
+      "text": "あたりまえにある奇跡を",
+      "parts": [
+        {
+          "text": "あ",
+          "startMs": 62806,
+          "durationMs": 216
+        },
+        {
+          "text": "た",
+          "startMs": 63022,
+          "durationMs": 239
+        },
+        {
+          "text": "り",
+          "startMs": 63261,
+          "durationMs": 361
+        },
+        {
+          "text": "ま",
+          "startMs": 63622,
+          "durationMs": 224
+        },
+        {
+          "text": "え",
+          "startMs": 63846,
+          "durationMs": 256
+        },
+        {
+          "text": "に",
+          "startMs": 64102,
+          "durationMs": 215
+        },
+        {
+          "text": "あ",
+          "startMs": 64317,
+          "durationMs": 208
+        },
+        {
+          "text": "る",
+          "startMs": 64525,
+          "durationMs": 192
+        },
+        {
+          "text": "奇",
+          "startMs": 64717,
+          "durationMs": 208
+        },
+        {
+          "text": "跡",
+          "startMs": 64925,
+          "durationMs": 394
+        },
+        {
+          "text": "を",
+          "startMs": 65319,
+          "durationMs": 279
+        }
+      ]
+    },
+    {
+      "startMs": 65901,
+      "endMs": 68815,
+      "durationMs": 2914,
+      "text": "決して忘れはしないように",
+      "parts": [
+        {
+          "text": "決",
+          "startMs": 65901,
+          "durationMs": 191
+        },
+        {
+          "text": "し",
+          "startMs": 66092,
+          "durationMs": 264
+        },
+        {
+          "text": "て",
+          "startMs": 66356,
+          "durationMs": 289
+        },
+        {
+          "text": "忘",
+          "startMs": 66836,
+          "durationMs": 408
+        },
+        {
+          "text": "れ",
+          "startMs": 67244,
+          "durationMs": 35
+        },
+        {
+          "text": "は",
+          "startMs": 67279,
+          "durationMs": 224
+        },
+        {
+          "text": "し",
+          "startMs": 67503,
+          "durationMs": 224
+        },
+        {
+          "text": "な",
+          "startMs": 67727,
+          "durationMs": 176
+        },
+        {
+          "text": "い",
+          "startMs": 67903,
+          "durationMs": 263
+        },
+        {
+          "text": "よ",
+          "startMs": 68166,
+          "durationMs": 120
+        },
+        {
+          "text": "う",
+          "startMs": 68286,
+          "durationMs": 120
+        },
+        {
+          "text": "に",
+          "startMs": 68407,
+          "durationMs": 408
+        }
+      ]
+    },
+    {
+      "startMs": 69143,
+      "endMs": 72090,
+      "durationMs": 2947,
+      "text": "明日 きみと生きれるなら",
+      "parts": [
+        {
+          "text": "明日",
+          "startMs": 69143,
+          "durationMs": 508
+        },
+        {
+          "text": " ",
+          "startMs": 69651,
+          "durationMs": 248
+        },
+        {
+          "text": "き",
+          "startMs": 69899,
+          "durationMs": 208
+        },
+        {
+          "text": "み",
+          "startMs": 70107,
+          "durationMs": 216
+        },
+        {
+          "text": "と",
+          "startMs": 70323,
+          "durationMs": 116
+        },
+        {
+          "text": "生",
+          "startMs": 70439,
+          "durationMs": 200
+        },
+        {
+          "text": "き",
+          "startMs": 70639,
+          "durationMs": 239
+        },
+        {
+          "text": "れ",
+          "startMs": 70878,
+          "durationMs": 216
+        },
+        {
+          "text": "る",
+          "startMs": 71094,
+          "durationMs": 232
+        },
+        {
+          "text": "な",
+          "startMs": 71326,
+          "durationMs": 201
+        },
+        {
+          "text": "ら",
+          "startMs": 71527,
+          "durationMs": 563
+        }
+      ]
+    },
+    {
+      "startMs": 72315,
+      "endMs": 75185,
+      "durationMs": 2870,
+      "text": "明日 きみと話せるなら",
+      "parts": [
+        {
+          "text": "明日",
+          "startMs": 72315,
+          "durationMs": 488
+        },
+        {
+          "text": " ",
+          "startMs": 72803,
+          "durationMs": 224
+        },
+        {
+          "text": "き",
+          "startMs": 73027,
+          "durationMs": 192
+        },
+        {
+          "text": "み",
+          "startMs": 73219,
+          "durationMs": 183
+        },
+        {
+          "text": "と",
+          "startMs": 73402,
+          "durationMs": 200
+        },
+        {
+          "text": "話",
+          "startMs": 73602,
+          "durationMs": 400
+        },
+        {
+          "text": "せ",
+          "startMs": 74002,
+          "durationMs": 192
+        },
+        {
+          "text": "る",
+          "startMs": 74194,
+          "durationMs": 193
+        },
+        {
+          "text": "な",
+          "startMs": 74387,
+          "durationMs": 183
+        },
+        {
+          "text": "ら",
+          "startMs": 74570,
+          "durationMs": 615
+        }
+      ]
+    },
+    {
+      "startMs": 75409,
+      "endMs": 78505,
+      "durationMs": 3096,
+      "text": "明日 きみと笑えるならって",
+      "parts": [
+        {
+          "text": "明日",
+          "startMs": 75409,
+          "durationMs": 533
+        },
+        {
+          "text": " ",
+          "startMs": 75942,
+          "durationMs": 214
+        },
+        {
+          "text": "き",
+          "startMs": 76156,
+          "durationMs": 192
+        },
+        {
+          "text": "み",
+          "startMs": 76348,
+          "durationMs": 209
+        },
+        {
+          "text": "と",
+          "startMs": 76557,
+          "durationMs": 142
+        },
+        {
+          "text": "笑",
+          "startMs": 76699,
+          "durationMs": 416
+        },
+        {
+          "text": "え",
+          "startMs": 77115,
+          "durationMs": 200
+        },
+        {
+          "text": "る",
+          "startMs": 77315,
+          "durationMs": 122
+        },
+        {
+          "text": "な",
+          "startMs": 77437,
+          "durationMs": 256
+        },
+        {
+          "text": "ら",
+          "startMs": 77693,
+          "durationMs": 156
+        },
+        {
+          "text": "っ",
+          "startMs": 77849,
+          "durationMs": 250
+        },
+        {
+          "text": "て",
+          "startMs": 78298,
+          "durationMs": 207
+        }
+      ]
+    },
+    {
+      "startMs": 78505,
+      "endMs": 81234,
+      "durationMs": 2729,
+      "text": "思える きみと出会えた",
+      "parts": [
+        {
+          "text": "思",
+          "startMs": 78505,
+          "durationMs": 302
+        },
+        {
+          "text": "え",
+          "startMs": 78807,
+          "durationMs": 263
+        },
+        {
+          "text": "る",
+          "startMs": 79070,
+          "durationMs": 240
+        },
+        {
+          "text": " ",
+          "startMs": 79310,
+          "durationMs": 0
+        },
+        {
+          "text": "き",
+          "startMs": 79310,
+          "durationMs": 192
+        },
+        {
+          "text": "み",
+          "startMs": 79502,
+          "durationMs": 185
+        },
+        {
+          "text": "と",
+          "startMs": 79687,
+          "durationMs": 316
+        },
+        {
+          "text": "出",
+          "startMs": 80003,
+          "durationMs": 216
+        },
+        {
+          "text": "会",
+          "startMs": 80219,
+          "durationMs": 172
+        },
+        {
+          "text": "え",
+          "startMs": 80391,
+          "durationMs": 241
+        },
+        {
+          "text": "た",
+          "startMs": 80632,
+          "durationMs": 602
+        }
+      ]
+    },
+    {
+      "startMs": 81571,
+      "endMs": 87513,
+      "durationMs": 5942,
+      "text": "僕は 僕は きっと 幸せものだ",
+      "parts": [
+        {
+          "text": "僕",
+          "startMs": 81571,
+          "durationMs": 432
+        },
+        {
+          "text": "は",
+          "startMs": 82003,
+          "durationMs": 548
+        },
+        {
+          "text": " ",
+          "startMs": 82551,
+          "durationMs": 584
+        },
+        {
+          "text": "僕",
+          "startMs": 83135,
+          "durationMs": 480
+        },
+        {
+          "text": "は",
+          "startMs": 83615,
+          "durationMs": 168
+        },
+        {
+          "text": " ",
+          "startMs": 83783,
+          "durationMs": 257
+        },
+        {
+          "text": "き",
+          "startMs": 84040,
+          "durationMs": 227
+        },
+        {
+          "text": "っ",
+          "startMs": 84268,
+          "durationMs": 199
+        },
+        {
+          "text": "と",
+          "startMs": 84467,
+          "durationMs": 271
+        },
+        {
+          "text": " ",
+          "startMs": 84738,
+          "durationMs": 0
+        },
+        {
+          "text": "幸",
+          "startMs": 84738,
+          "durationMs": 590
+        },
+        {
+          "text": "せ",
+          "startMs": 85328,
+          "durationMs": 385
+        },
+        {
+          "text": "も",
+          "startMs": 85713,
+          "durationMs": 216
+        },
+        {
+          "text": "の",
+          "startMs": 85929,
+          "durationMs": 225
+        },
+        {
+          "text": "だ",
+          "startMs": 86154,
+          "durationMs": 1359
+        }
+      ]
+    },
+    {
+      "startMs": 100483,
+      "endMs": 103508,
+      "durationMs": 3025,
+      "text": "ねえ あといくつ僕らに",
+      "parts": [
+        {
+          "text": "ね",
+          "startMs": 100483,
+          "durationMs": 144
+        },
+        {
+          "text": "え",
+          "startMs": 100627,
+          "durationMs": 256
+        },
+        {
+          "text": " ",
+          "startMs": 100883,
+          "durationMs": 264
+        },
+        {
+          "text": "あ",
+          "startMs": 101147,
+          "durationMs": 216
+        },
+        {
+          "text": "と",
+          "startMs": 101363,
+          "durationMs": 270
+        },
+        {
+          "text": "い",
+          "startMs": 101928,
+          "durationMs": 241
+        },
+        {
+          "text": "く",
+          "startMs": 102169,
+          "durationMs": 154
+        },
+        {
+          "text": "つ",
+          "startMs": 102323,
+          "durationMs": 74
+        },
+        {
+          "text": "僕",
+          "startMs": 102637,
+          "durationMs": 424
+        },
+        {
+          "text": "ら",
+          "startMs": 103061,
+          "durationMs": 239
+        },
+        {
+          "text": "に",
+          "startMs": 103300,
+          "durationMs": 208
+        }
+      ]
+    },
+    {
+      "startMs": 103508,
+      "endMs": 107106,
+      "durationMs": 3598,
+      "text": "心臓がさ あったなら",
+      "parts": [
+        {
+          "text": "心",
+          "startMs": 103508,
+          "durationMs": 546
+        },
+        {
+          "text": "臓",
+          "startMs": 104303,
+          "durationMs": 474
+        },
+        {
+          "text": "が",
+          "startMs": 105017,
+          "durationMs": 241
+        },
+        {
+          "text": "さ",
+          "startMs": 105258,
+          "durationMs": 303
+        },
+        {
+          "text": " ",
+          "startMs": 105561,
+          "durationMs": 312
+        },
+        {
+          "text": "あ",
+          "startMs": 105873,
+          "durationMs": 172
+        },
+        {
+          "text": "っ",
+          "startMs": 106046,
+          "durationMs": 172
+        },
+        {
+          "text": "た",
+          "startMs": 106218,
+          "durationMs": 334
+        },
+        {
+          "text": "な",
+          "startMs": 106552,
+          "durationMs": 265
+        },
+        {
+          "text": "ら",
+          "startMs": 106817,
+          "durationMs": 289
+        }
+      ]
+    },
+    {
+      "startMs": 107347,
+      "endMs": 109697,
+      "durationMs": 2350,
+      "text": "この世界を きみと",
+      "parts": [
+        {
+          "text": "こ",
+          "startMs": 107347,
+          "durationMs": 248
+        },
+        {
+          "text": "の",
+          "startMs": 107595,
+          "durationMs": 353
+        },
+        {
+          "text": "世",
+          "startMs": 108171,
+          "durationMs": 200
+        },
+        {
+          "text": "界",
+          "startMs": 108371,
+          "durationMs": 214
+        },
+        {
+          "text": "を",
+          "startMs": 108825,
+          "durationMs": 201
+        },
+        {
+          "text": " ",
+          "startMs": 109026,
+          "durationMs": 0
+        },
+        {
+          "text": "き",
+          "startMs": 109026,
+          "durationMs": 223
+        },
+        {
+          "text": "み",
+          "startMs": 109249,
+          "durationMs": 216
+        },
+        {
+          "text": "と",
+          "startMs": 109465,
+          "durationMs": 232
+        }
+      ]
+    },
+    {
+      "startMs": 109697,
+      "endMs": 110543,
+      "durationMs": 846,
+      "text": "飽きるまで",
+      "parts": [
+        {
+          "text": "飽",
+          "startMs": 109697,
+          "durationMs": 208
+        },
+        {
+          "text": "き",
+          "startMs": 109905,
+          "durationMs": 217
+        },
+        {
+          "text": "る",
+          "startMs": 110122,
+          "durationMs": 200
+        },
+        {
+          "text": "ま",
+          "startMs": 110322,
+          "durationMs": 184
+        },
+        {
+          "text": "で",
+          "startMs": 110506,
+          "durationMs": 37
+        }
+      ]
+    },
+    {
+      "startMs": 110543,
+      "endMs": 112940,
+      "durationMs": 2397,
+      "text": "生きていけたんだろうか",
+      "parts": [
+        {
+          "text": "生",
+          "startMs": 110543,
+          "durationMs": 222
+        },
+        {
+          "text": "き",
+          "startMs": 110765,
+          "durationMs": 233
+        },
+        {
+          "text": "て",
+          "startMs": 110998,
+          "durationMs": 186
+        },
+        {
+          "text": "い",
+          "startMs": 111184,
+          "durationMs": 224
+        },
+        {
+          "text": "け",
+          "startMs": 111408,
+          "durationMs": 208
+        },
+        {
+          "text": "た",
+          "startMs": 111616,
+          "durationMs": 116
+        },
+        {
+          "text": "ん",
+          "startMs": 111732,
+          "durationMs": 116
+        },
+        {
+          "text": "だ",
+          "startMs": 111848,
+          "durationMs": 239
+        },
+        {
+          "text": "ろ",
+          "startMs": 112087,
+          "durationMs": 128
+        },
+        {
+          "text": "う",
+          "startMs": 112215,
+          "durationMs": 309
+        },
+        {
+          "text": "か",
+          "startMs": 112524,
+          "durationMs": 416
+        }
+      ]
+    },
+    {
+      "startMs": 112940,
+      "endMs": 115880,
+      "durationMs": 2940,
+      "text": "ねえ あといくつ僕らは",
+      "parts": [
+        {
+          "text": "ね",
+          "startMs": 112940,
+          "durationMs": 154
+        },
+        {
+          "text": "え",
+          "startMs": 113094,
+          "durationMs": 249
+        },
+        {
+          "text": " ",
+          "startMs": 113344,
+          "durationMs": 248
+        },
+        {
+          "text": "あ",
+          "startMs": 113592,
+          "durationMs": 216
+        },
+        {
+          "text": "と",
+          "startMs": 113808,
+          "durationMs": 297
+        },
+        {
+          "text": "い",
+          "startMs": 114329,
+          "durationMs": 232
+        },
+        {
+          "text": "く",
+          "startMs": 114561,
+          "durationMs": 155
+        },
+        {
+          "text": "つ",
+          "startMs": 114716,
+          "durationMs": 128
+        },
+        {
+          "text": "僕",
+          "startMs": 115108,
+          "durationMs": 496
+        },
+        {
+          "text": "ら",
+          "startMs": 115604,
+          "durationMs": 208
+        },
+        {
+          "text": "は",
+          "startMs": 115812,
+          "durationMs": 68
+        }
+      ]
+    },
+    {
+      "startMs": 115880,
+      "endMs": 119602,
+      "durationMs": 3722,
+      "text": "絶望をさ 乗り越えれば",
+      "parts": [
+        {
+          "text": "絶",
+          "startMs": 115880,
+          "durationMs": 544
+        },
+        {
+          "text": "望",
+          "startMs": 116664,
+          "durationMs": 618
+        },
+        {
+          "text": "を",
+          "startMs": 117507,
+          "durationMs": 191
+        },
+        {
+          "text": "さ",
+          "startMs": 117698,
+          "durationMs": 299
+        },
+        {
+          "text": " ",
+          "startMs": 117997,
+          "durationMs": 0
+        },
+        {
+          "text": "乗",
+          "startMs": 118221,
+          "durationMs": 225
+        },
+        {
+          "text": "り",
+          "startMs": 118446,
+          "durationMs": 180
+        },
+        {
+          "text": "越",
+          "startMs": 118626,
+          "durationMs": 184
+        },
+        {
+          "text": "え",
+          "startMs": 118810,
+          "durationMs": 223
+        },
+        {
+          "text": "れ",
+          "startMs": 119033,
+          "durationMs": 209
+        },
+        {
+          "text": "ば",
+          "startMs": 119242,
+          "durationMs": 360
+        }
+      ]
+    },
+    {
+      "startMs": 119842,
+      "endMs": 122250,
+      "durationMs": 2408,
+      "text": "この世界で きみと",
+      "parts": [
+        {
+          "text": "こ",
+          "startMs": 119842,
+          "durationMs": 192
+        },
+        {
+          "text": "の",
+          "startMs": 120034,
+          "durationMs": 336
+        },
+        {
+          "text": "世",
+          "startMs": 120602,
+          "durationMs": 192
+        },
+        {
+          "text": "界",
+          "startMs": 120794,
+          "durationMs": 337
+        },
+        {
+          "text": "で",
+          "startMs": 121347,
+          "durationMs": 224
+        },
+        {
+          "text": " ",
+          "startMs": 121571,
+          "durationMs": 0
+        },
+        {
+          "text": "き",
+          "startMs": 121571,
+          "durationMs": 239
+        },
+        {
+          "text": "み",
+          "startMs": 121810,
+          "durationMs": 177
+        },
+        {
+          "text": "と",
+          "startMs": 121987,
+          "durationMs": 263
+        }
+      ]
+    },
+    {
+      "startMs": 122250,
+      "endMs": 123856,
+      "durationMs": 1606,
+      "text": "ハッピーエンドで",
+      "parts": [
+        {
+          "text": "ハ",
+          "startMs": 122250,
+          "durationMs": 96
+        },
+        {
+          "text": "ッ",
+          "startMs": 122346,
+          "durationMs": 175
+        },
+        {
+          "text": "ピ",
+          "startMs": 122521,
+          "durationMs": 192
+        },
+        {
+          "text": "ー",
+          "startMs": 122714,
+          "durationMs": 192
+        },
+        {
+          "text": "エ",
+          "startMs": 122906,
+          "durationMs": 105
+        },
+        {
+          "text": "ン",
+          "startMs": 123011,
+          "durationMs": 497
+        },
+        {
+          "text": "ド",
+          "startMs": 123508,
+          "durationMs": 247
+        },
+        {
+          "text": "で",
+          "startMs": 123755,
+          "durationMs": 101
+        }
+      ]
+    },
+    {
+      "startMs": 123856,
+      "endMs": 125863,
+      "durationMs": 2007,
+      "text": "終われたんだよ なあ",
+      "parts": [
+        {
+          "text": "終",
+          "startMs": 123856,
+          "durationMs": 248
+        },
+        {
+          "text": "わ",
+          "startMs": 124104,
+          "durationMs": 168
+        },
+        {
+          "text": "れ",
+          "startMs": 124272,
+          "durationMs": 232
+        },
+        {
+          "text": "た",
+          "startMs": 124504,
+          "durationMs": 224
+        },
+        {
+          "text": "ん",
+          "startMs": 124728,
+          "durationMs": 317
+        },
+        {
+          "text": "だ",
+          "startMs": 125045,
+          "durationMs": 191
+        },
+        {
+          "text": "よ",
+          "startMs": 125236,
+          "durationMs": 224
+        },
+        {
+          "text": " ",
+          "startMs": 125460,
+          "durationMs": 0
+        },
+        {
+          "text": "な",
+          "startMs": 125460,
+          "durationMs": 292
+        },
+        {
+          "text": "あ",
+          "startMs": 125752,
+          "durationMs": 111
+        }
+      ]
+    },
+    {
+      "startMs": 126063,
+      "endMs": 129758,
+      "durationMs": 3695,
+      "text": "きみにあげるはずのこれから先",
+      "parts": [
+        {
+          "text": "き",
+          "startMs": 126063,
+          "durationMs": 167
+        },
+        {
+          "text": "み",
+          "startMs": 126230,
+          "durationMs": 192
+        },
+        {
+          "text": "に",
+          "startMs": 126422,
+          "durationMs": 219
+        },
+        {
+          "text": "あ",
+          "startMs": 126849,
+          "durationMs": 176
+        },
+        {
+          "text": "げ",
+          "startMs": 127025,
+          "durationMs": 208
+        },
+        {
+          "text": "る",
+          "startMs": 127233,
+          "durationMs": 179
+        },
+        {
+          "text": "は",
+          "startMs": 127619,
+          "durationMs": 201
+        },
+        {
+          "text": "ず",
+          "startMs": 127820,
+          "durationMs": 239
+        },
+        {
+          "text": "の",
+          "startMs": 128059,
+          "durationMs": 216
+        },
+        {
+          "text": "こ",
+          "startMs": 128275,
+          "durationMs": 192
+        },
+        {
+          "text": "れ",
+          "startMs": 128467,
+          "durationMs": 192
+        },
+        {
+          "text": "か",
+          "startMs": 128659,
+          "durationMs": 294
+        },
+        {
+          "text": "ら",
+          "startMs": 129146,
+          "durationMs": 175
+        },
+        {
+          "text": "先",
+          "startMs": 129321,
+          "durationMs": 437
+        }
+      ]
+    },
+    {
+      "startMs": 129940,
+      "endMs": 132035,
+      "durationMs": 2095,
+      "text": "何十年分の",
+      "parts": [
+        {
+          "text": "何",
+          "startMs": 129940,
+          "durationMs": 377
+        },
+        {
+          "text": "十",
+          "startMs": 130317,
+          "durationMs": 352
+        },
+        {
+          "text": "年",
+          "startMs": 130669,
+          "durationMs": 580
+        },
+        {
+          "text": "分",
+          "startMs": 131249,
+          "durationMs": 418
+        },
+        {
+          "text": "の",
+          "startMs": 131667,
+          "durationMs": 368
+        }
+      ]
+    },
+    {
+      "startMs": 132035,
+      "endMs": 134577,
+      "durationMs": 2542,
+      "text": "「おかえり」「いってきます」「おはよう」",
+      "parts": [
+        {
+          "text": "「",
+          "startMs": 132035,
+          "durationMs": 185
+        },
+        {
+          "text": "お",
+          "startMs": 132220,
+          "durationMs": 151
+        },
+        {
+          "text": "か",
+          "startMs": 132371,
+          "durationMs": 186
+        },
+        {
+          "text": "え",
+          "startMs": 132557,
+          "durationMs": 216
+        },
+        {
+          "text": "り",
+          "startMs": 132773,
+          "durationMs": 151
+        },
+        {
+          "text": "」「",
+          "startMs": 132924,
+          "durationMs": 127
+        },
+        {
+          "text": "い",
+          "startMs": 133051,
+          "durationMs": 88
+        },
+        {
+          "text": "っ",
+          "startMs": 133139,
+          "durationMs": 88
+        },
+        {
+          "text": "て",
+          "startMs": 133227,
+          "durationMs": 184
+        },
+        {
+          "text": "き",
+          "startMs": 133411,
+          "durationMs": 144
+        },
+        {
+          "text": "ま",
+          "startMs": 133555,
+          "durationMs": 144
+        },
+        {
+          "text": "す",
+          "startMs": 133699,
+          "durationMs": 80
+        },
+        {
+          "text": "」「",
+          "startMs": 133779,
+          "durationMs": 161
+        },
+        {
+          "text": "お",
+          "startMs": 133940,
+          "durationMs": 175
+        },
+        {
+          "text": "は",
+          "startMs": 134115,
+          "durationMs": 183
+        },
+        {
+          "text": "よ",
+          "startMs": 134298,
+          "durationMs": 88
+        },
+        {
+          "text": "う",
+          "startMs": 134386,
+          "durationMs": 21
+        },
+        {
+          "text": "」",
+          "startMs": 134408,
+          "durationMs": 169
+        }
+      ]
+    },
+    {
+      "startMs": 134577,
+      "endMs": 136994,
+      "durationMs": 2417,
+      "text": "「おやすみ」「ありがとう」「ごめんね」",
+      "parts": [
+        {
+          "text": "「",
+          "startMs": 134577,
+          "durationMs": 160
+        },
+        {
+          "text": "お",
+          "startMs": 134737,
+          "durationMs": 167
+        },
+        {
+          "text": "や",
+          "startMs": 134904,
+          "durationMs": 192
+        },
+        {
+          "text": "す",
+          "startMs": 135096,
+          "durationMs": 135
+        },
+        {
+          "text": "み",
+          "startMs": 135231,
+          "durationMs": 52
+        },
+        {
+          "text": "」「",
+          "startMs": 135283,
+          "durationMs": 191
+        },
+        {
+          "text": "あ",
+          "startMs": 135474,
+          "durationMs": 176
+        },
+        {
+          "text": "り",
+          "startMs": 135650,
+          "durationMs": 82
+        },
+        {
+          "text": "が",
+          "startMs": 135732,
+          "durationMs": 169
+        },
+        {
+          "text": "と",
+          "startMs": 135901,
+          "durationMs": 93
+        },
+        {
+          "text": "う",
+          "startMs": 135994,
+          "durationMs": 74
+        },
+        {
+          "text": "」「",
+          "startMs": 136068,
+          "durationMs": 209
+        },
+        {
+          "text": "ご",
+          "startMs": 136277,
+          "durationMs": 175
+        },
+        {
+          "text": "め",
+          "startMs": 136452,
+          "durationMs": 145
+        },
+        {
+          "text": "ん",
+          "startMs": 136597,
+          "durationMs": 145
+        },
+        {
+          "text": "ね",
+          "startMs": 136742,
+          "durationMs": 75
+        },
+        {
+          "text": "」",
+          "startMs": 136817,
+          "durationMs": 177
+        }
+      ]
+    },
+    {
+      "startMs": 136994,
+      "endMs": 139360,
+      "durationMs": 2366,
+      "text": "「大好きだよ」 たちは",
+      "parts": [
+        {
+          "text": "「",
+          "startMs": 136994,
+          "durationMs": 56
+        },
+        {
+          "text": "大",
+          "startMs": 137050,
+          "durationMs": 384
+        },
+        {
+          "text": "好",
+          "startMs": 137434,
+          "durationMs": 176
+        },
+        {
+          "text": "き",
+          "startMs": 137610,
+          "durationMs": 161
+        },
+        {
+          "text": "だ",
+          "startMs": 137771,
+          "durationMs": 182
+        },
+        {
+          "text": "よ",
+          "startMs": 137953,
+          "durationMs": 400
+        },
+        {
+          "text": "」 ",
+          "startMs": 138353,
+          "durationMs": 216
+        },
+        {
+          "text": "た",
+          "startMs": 138569,
+          "durationMs": 176
+        },
+        {
+          "text": "ち",
+          "startMs": 138745,
+          "durationMs": 152
+        },
+        {
+          "text": "は",
+          "startMs": 138897,
+          "durationMs": 463
+        }
+      ]
+    },
+    {
+      "startMs": 140079,
+      "endMs": 143920,
+      "durationMs": 3841,
+      "text": "誰に使えばいいの ねえ",
+      "parts": [
+        {
+          "text": "誰",
+          "startMs": 140079,
+          "durationMs": 423
+        },
+        {
+          "text": "に",
+          "startMs": 140502,
+          "durationMs": 185
+        },
+        {
+          "text": "使",
+          "startMs": 140687,
+          "durationMs": 352
+        },
+        {
+          "text": "え",
+          "startMs": 141039,
+          "durationMs": 346
+        },
+        {
+          "text": "ば",
+          "startMs": 141385,
+          "durationMs": 205
+        },
+        {
+          "text": "い",
+          "startMs": 141590,
+          "durationMs": 212
+        },
+        {
+          "text": "い",
+          "startMs": 141802,
+          "durationMs": 514
+        },
+        {
+          "text": "の",
+          "startMs": 142317,
+          "durationMs": 560
+        },
+        {
+          "text": " ",
+          "startMs": 142877,
+          "durationMs": 400
+        },
+        {
+          "text": "ね",
+          "startMs": 143277,
+          "durationMs": 412
+        },
+        {
+          "text": "え",
+          "startMs": 143689,
+          "durationMs": 231
+        }
+      ]
+    },
+    {
+      "startMs": 143921,
+      "endMs": 146932,
+      "durationMs": 3011,
+      "text": "明日 きみがいないのなら",
+      "parts": [
+        {
+          "text": "明日",
+          "startMs": 143921,
+          "durationMs": 687
+        },
+        {
+          "text": " ",
+          "startMs": 144608,
+          "durationMs": 0
+        },
+        {
+          "text": "き",
+          "startMs": 144608,
+          "durationMs": 225
+        },
+        {
+          "text": "み",
+          "startMs": 144833,
+          "durationMs": 240
+        },
+        {
+          "text": "が",
+          "startMs": 145073,
+          "durationMs": 111
+        },
+        {
+          "text": "い",
+          "startMs": 145184,
+          "durationMs": 199
+        },
+        {
+          "text": "な",
+          "startMs": 145383,
+          "durationMs": 249
+        },
+        {
+          "text": "い",
+          "startMs": 145632,
+          "durationMs": 264
+        },
+        {
+          "text": "の",
+          "startMs": 145896,
+          "durationMs": 209
+        },
+        {
+          "text": "な",
+          "startMs": 146105,
+          "durationMs": 207
+        },
+        {
+          "text": "ら",
+          "startMs": 146312,
+          "durationMs": 620
+        }
+      ]
+    },
+    {
+      "startMs": 147125,
+      "endMs": 149995,
+      "durationMs": 2870,
+      "text": "きみがくれた「大丈夫」も",
+      "parts": [
+        {
+          "text": "き",
+          "startMs": 147125,
+          "durationMs": 175
+        },
+        {
+          "text": "み",
+          "startMs": 147300,
+          "durationMs": 185
+        },
+        {
+          "text": "が",
+          "startMs": 147485,
+          "durationMs": 144
+        },
+        {
+          "text": "く",
+          "startMs": 147822,
+          "durationMs": 217
+        },
+        {
+          "text": "れ",
+          "startMs": 148039,
+          "durationMs": 191
+        },
+        {
+          "text": "た",
+          "startMs": 148230,
+          "durationMs": 209
+        },
+        {
+          "text": "「",
+          "startMs": 148439,
+          "durationMs": 0
+        },
+        {
+          "text": "大",
+          "startMs": 148439,
+          "durationMs": 423
+        },
+        {
+          "text": "丈",
+          "startMs": 148862,
+          "durationMs": 352
+        },
+        {
+          "text": "夫",
+          "startMs": 149214,
+          "durationMs": 215
+        },
+        {
+          "text": "」",
+          "startMs": 149429,
+          "durationMs": 0
+        },
+        {
+          "text": "も",
+          "startMs": 149429,
+          "durationMs": 566
+        }
+      ]
+    },
+    {
+      "startMs": 150195,
+      "endMs": 153000,
+      "durationMs": 2805,
+      "text": "きみがくれた生きる意味も",
+      "parts": [
+        {
+          "text": "き",
+          "startMs": 150195,
+          "durationMs": 199
+        },
+        {
+          "text": "み",
+          "startMs": 150394,
+          "durationMs": 194
+        },
+        {
+          "text": "が",
+          "startMs": 150588,
+          "durationMs": 164
+        },
+        {
+          "text": "く",
+          "startMs": 150942,
+          "durationMs": 192
+        },
+        {
+          "text": "れ",
+          "startMs": 151134,
+          "durationMs": 193
+        },
+        {
+          "text": "た",
+          "startMs": 151327,
+          "durationMs": 208
+        },
+        {
+          "text": "生",
+          "startMs": 151535,
+          "durationMs": 191
+        },
+        {
+          "text": "き",
+          "startMs": 151726,
+          "durationMs": 201
+        },
+        {
+          "text": "る",
+          "startMs": 151927,
+          "durationMs": 193
+        },
+        {
+          "text": "意",
+          "startMs": 152120,
+          "durationMs": 206
+        },
+        {
+          "text": "味",
+          "startMs": 152326,
+          "durationMs": 177
+        },
+        {
+          "text": "も",
+          "startMs": 152503,
+          "durationMs": 497
+        }
+      ]
+    },
+    {
+      "startMs": 153153,
+      "endMs": 159552,
+      "durationMs": 6399,
+      "text": "誰に貰ったらいいんだよ",
+      "parts": [
+        {
+          "text": "誰",
+          "startMs": 153153,
+          "durationMs": 418
+        },
+        {
+          "text": "に",
+          "startMs": 153571,
+          "durationMs": 215
+        },
+        {
+          "text": "貰",
+          "startMs": 153786,
+          "durationMs": 419
+        },
+        {
+          "text": "っ",
+          "startMs": 154206,
+          "durationMs": 211
+        },
+        {
+          "text": "た",
+          "startMs": 154417,
+          "durationMs": 256
+        },
+        {
+          "text": "ら",
+          "startMs": 154673,
+          "durationMs": 225
+        },
+        {
+          "text": "い",
+          "startMs": 154898,
+          "durationMs": 192
+        },
+        {
+          "text": "い",
+          "startMs": 155090,
+          "durationMs": 223
+        },
+        {
+          "text": "ん",
+          "startMs": 155313,
+          "durationMs": 204
+        },
+        {
+          "text": "だ",
+          "startMs": 155844,
+          "durationMs": 381
+        },
+        {
+          "text": "よ",
+          "startMs": 156616,
+          "durationMs": 2936
+        }
+      ]
+    },
+    {
+      "startMs": 162829,
+      "endMs": 168555,
+      "durationMs": 5726,
+      "text": "会いたい きみに会いたい",
+      "parts": [
+        {
+          "text": "会",
+          "startMs": 162829,
+          "durationMs": 183
+        },
+        {
+          "text": "い",
+          "startMs": 163012,
+          "durationMs": 232
+        },
+        {
+          "text": "た",
+          "startMs": 163244,
+          "durationMs": 1375
+        },
+        {
+          "text": "い",
+          "startMs": 164619,
+          "durationMs": 67
+        },
+        {
+          "text": " ",
+          "startMs": 164686,
+          "durationMs": 335
+        },
+        {
+          "text": "き",
+          "startMs": 165021,
+          "durationMs": 250
+        },
+        {
+          "text": "み",
+          "startMs": 165271,
+          "durationMs": 247
+        },
+        {
+          "text": "に",
+          "startMs": 165518,
+          "durationMs": 181
+        },
+        {
+          "text": "会",
+          "startMs": 165897,
+          "durationMs": 217
+        },
+        {
+          "text": "い",
+          "startMs": 166114,
+          "durationMs": 270
+        },
+        {
+          "text": "た",
+          "startMs": 166384,
+          "durationMs": 2001
+        },
+        {
+          "text": "い",
+          "startMs": 168385,
+          "durationMs": 170
+        }
+      ]
+    },
+    {
+      "startMs": 181619,
+      "endMs": 184602,
+      "durationMs": 2983,
+      "text": "ねえ どうして神様はさ",
+      "parts": [
+        {
+          "text": "ね",
+          "startMs": 181619,
+          "durationMs": 165
+        },
+        {
+          "text": "え",
+          "startMs": 181784,
+          "durationMs": 165
+        },
+        {
+          "text": " ",
+          "startMs": 181949,
+          "durationMs": 165
+        },
+        {
+          "text": "ど",
+          "startMs": 182114,
+          "durationMs": 160
+        },
+        {
+          "text": "う",
+          "startMs": 182274,
+          "durationMs": 160
+        },
+        {
+          "text": "し",
+          "startMs": 182435,
+          "durationMs": 199
+        },
+        {
+          "text": "て",
+          "startMs": 182634,
+          "durationMs": 201
+        },
+        {
+          "text": "神",
+          "startMs": 182835,
+          "durationMs": 371
+        },
+        {
+          "text": "様",
+          "startMs": 183206,
+          "durationMs": 816
+        },
+        {
+          "text": "は",
+          "startMs": 184022,
+          "durationMs": 233
+        },
+        {
+          "text": "さ",
+          "startMs": 184255,
+          "durationMs": 347
+        }
+      ]
+    },
+    {
+      "startMs": 184817,
+      "endMs": 187784,
+      "durationMs": 2967,
+      "text": "出会いと一緒にサヨナラを",
+      "parts": [
+        {
+          "text": "出",
+          "startMs": 184817,
+          "durationMs": 215
+        },
+        {
+          "text": "会",
+          "startMs": 185032,
+          "durationMs": 201
+        },
+        {
+          "text": "い",
+          "startMs": 185233,
+          "durationMs": 224
+        },
+        {
+          "text": "と",
+          "startMs": 185457,
+          "durationMs": 240
+        },
+        {
+          "text": "一",
+          "startMs": 185697,
+          "durationMs": 328
+        },
+        {
+          "text": "緒",
+          "startMs": 186025,
+          "durationMs": 216
+        },
+        {
+          "text": "に",
+          "startMs": 186241,
+          "durationMs": 178
+        },
+        {
+          "text": "サ",
+          "startMs": 186419,
+          "durationMs": 225
+        },
+        {
+          "text": "ヨ",
+          "startMs": 186644,
+          "durationMs": 351
+        },
+        {
+          "text": "ナ",
+          "startMs": 186995,
+          "durationMs": 192
+        },
+        {
+          "text": "ラ",
+          "startMs": 187187,
+          "durationMs": 233
+        },
+        {
+          "text": "を",
+          "startMs": 187420,
+          "durationMs": 364
+        }
+      ]
+    },
+    {
+      "startMs": 188326,
+      "endMs": 191513,
+      "durationMs": 3187,
+      "text": "きつくリボンで結びつけて",
+      "parts": [
+        {
+          "text": "き",
+          "startMs": 188326,
+          "durationMs": 232
+        },
+        {
+          "text": "つ",
+          "startMs": 188558,
+          "durationMs": 256
+        },
+        {
+          "text": "く",
+          "startMs": 188814,
+          "durationMs": 263
+        },
+        {
+          "text": "リ",
+          "startMs": 189077,
+          "durationMs": 242
+        },
+        {
+          "text": "ボ",
+          "startMs": 189319,
+          "durationMs": 211
+        },
+        {
+          "text": "ン",
+          "startMs": 189531,
+          "durationMs": 211
+        },
+        {
+          "text": "で",
+          "startMs": 189742,
+          "durationMs": 217
+        },
+        {
+          "text": "結",
+          "startMs": 189959,
+          "durationMs": 563
+        },
+        {
+          "text": "び",
+          "startMs": 190522,
+          "durationMs": 156
+        },
+        {
+          "text": "つ",
+          "startMs": 190678,
+          "durationMs": 232
+        },
+        {
+          "text": "け",
+          "startMs": 190910,
+          "durationMs": 232
+        },
+        {
+          "text": "て",
+          "startMs": 191142,
+          "durationMs": 371
+        }
+      ]
+    },
+    {
+      "startMs": 191999,
+      "endMs": 197256,
+      "durationMs": 5257,
+      "text": "プレゼントしたの?",
+      "parts": [
+        {
+          "text": "プ",
+          "startMs": 191999,
+          "durationMs": 201
+        },
+        {
+          "text": "レ",
+          "startMs": 192200,
+          "durationMs": 240
+        },
+        {
+          "text": "ゼ",
+          "startMs": 192440,
+          "durationMs": 184
+        },
+        {
+          "text": "ン",
+          "startMs": 192624,
+          "durationMs": 170
+        },
+        {
+          "text": "ト",
+          "startMs": 192794,
+          "durationMs": 257
+        },
+        {
+          "text": "し",
+          "startMs": 193051,
+          "durationMs": 527
+        },
+        {
+          "text": "た",
+          "startMs": 193578,
+          "durationMs": 264
+        },
+        {
+          "text": "の",
+          "startMs": 193842,
+          "durationMs": 3289
+        },
+        {
+          "text": "?",
+          "startMs": 197131,
+          "durationMs": 125
+        }
+      ]
+    },
+    {
+      "startMs": 200043,
+      "endMs": 202958,
+      "durationMs": 2915,
+      "text": "明日 朝目が覚めたら",
+      "parts": [
+        {
+          "text": "明日",
+          "startMs": 200043,
+          "durationMs": 586
+        },
+        {
+          "text": " ",
+          "startMs": 200629,
+          "durationMs": 223
+        },
+        {
+          "text": "朝",
+          "startMs": 200852,
+          "durationMs": 561
+        },
+        {
+          "text": "目",
+          "startMs": 201413,
+          "durationMs": 159
+        },
+        {
+          "text": "が",
+          "startMs": 201572,
+          "durationMs": 209
+        },
+        {
+          "text": "覚",
+          "startMs": 201781,
+          "durationMs": 224
+        },
+        {
+          "text": "め",
+          "startMs": 202005,
+          "durationMs": 224
+        },
+        {
+          "text": "た",
+          "startMs": 202229,
+          "durationMs": 224
+        },
+        {
+          "text": "ら",
+          "startMs": 202453,
+          "durationMs": 505
+        }
+      ]
+    },
+    {
+      "startMs": 202958,
+      "endMs": 205997,
+      "durationMs": 3039,
+      "text": "「おはよう」って きみに言えること",
+      "parts": [
+        {
+          "text": "「",
+          "startMs": 202958,
+          "durationMs": 192
+        },
+        {
+          "text": "お",
+          "startMs": 203150,
+          "durationMs": 191
+        },
+        {
+          "text": "は",
+          "startMs": 203341,
+          "durationMs": 193
+        },
+        {
+          "text": "よ",
+          "startMs": 203534,
+          "durationMs": 93
+        },
+        {
+          "text": "う",
+          "startMs": 203628,
+          "durationMs": 126
+        },
+        {
+          "text": "」",
+          "startMs": 203754,
+          "durationMs": 112
+        },
+        {
+          "text": "っ",
+          "startMs": 203866,
+          "durationMs": 112
+        },
+        {
+          "text": "て",
+          "startMs": 203978,
+          "durationMs": 199
+        },
+        {
+          "text": " ",
+          "startMs": 204177,
+          "durationMs": 0
+        },
+        {
+          "text": "き",
+          "startMs": 204177,
+          "durationMs": 193
+        },
+        {
+          "text": "み",
+          "startMs": 204370,
+          "durationMs": 216
+        },
+        {
+          "text": "に",
+          "startMs": 204586,
+          "durationMs": 231
+        },
+        {
+          "text": "言",
+          "startMs": 204817,
+          "durationMs": 185
+        },
+        {
+          "text": "え",
+          "startMs": 205002,
+          "durationMs": 192
+        },
+        {
+          "text": "る",
+          "startMs": 205194,
+          "durationMs": 216
+        },
+        {
+          "text": "こ",
+          "startMs": 205410,
+          "durationMs": 201
+        },
+        {
+          "text": "と",
+          "startMs": 205611,
+          "durationMs": 386
+        }
+      ]
+    },
+    {
+      "startMs": 206136,
+      "endMs": 208853,
+      "durationMs": 2717,
+      "text": "「ただいま」って言ったらさ",
+      "parts": [
+        {
+          "text": "「",
+          "startMs": 206136,
+          "durationMs": 265
+        },
+        {
+          "text": "た",
+          "startMs": 206401,
+          "durationMs": 191
+        },
+        {
+          "text": "だ",
+          "startMs": 206592,
+          "durationMs": 185
+        },
+        {
+          "text": "い",
+          "startMs": 206777,
+          "durationMs": 327
+        },
+        {
+          "text": "ま",
+          "startMs": 207104,
+          "durationMs": 176
+        },
+        {
+          "text": "」",
+          "startMs": 207280,
+          "durationMs": 146
+        },
+        {
+          "text": "っ",
+          "startMs": 207426,
+          "durationMs": 30
+        },
+        {
+          "text": "て",
+          "startMs": 207456,
+          "durationMs": 209
+        },
+        {
+          "text": "言",
+          "startMs": 207665,
+          "durationMs": 92
+        },
+        {
+          "text": "っ",
+          "startMs": 207757,
+          "durationMs": 245
+        },
+        {
+          "text": "た",
+          "startMs": 208002,
+          "durationMs": 183
+        },
+        {
+          "text": "ら",
+          "startMs": 208185,
+          "durationMs": 216
+        },
+        {
+          "text": "さ",
+          "startMs": 208401,
+          "durationMs": 452
+        }
+      ]
+    },
+    {
+      "startMs": 209204,
+      "endMs": 212192,
+      "durationMs": 2988,
+      "text": "「おかえり」が待ってること",
+      "parts": [
+        {
+          "text": "「",
+          "startMs": 209204,
+          "durationMs": 299
+        },
+        {
+          "text": "お",
+          "startMs": 209503,
+          "durationMs": 173
+        },
+        {
+          "text": "か",
+          "startMs": 209676,
+          "durationMs": 216
+        },
+        {
+          "text": "え",
+          "startMs": 209892,
+          "durationMs": 352
+        },
+        {
+          "text": "り",
+          "startMs": 210244,
+          "durationMs": 353
+        },
+        {
+          "text": "」",
+          "startMs": 210597,
+          "durationMs": 0
+        },
+        {
+          "text": "が",
+          "startMs": 210597,
+          "durationMs": 192
+        },
+        {
+          "text": "待",
+          "startMs": 210789,
+          "durationMs": 91
+        },
+        {
+          "text": "っ",
+          "startMs": 210881,
+          "durationMs": 247
+        },
+        {
+          "text": "て",
+          "startMs": 211128,
+          "durationMs": 199
+        },
+        {
+          "text": "る",
+          "startMs": 211327,
+          "durationMs": 209
+        },
+        {
+          "text": "こ",
+          "startMs": 211536,
+          "durationMs": 184
+        },
+        {
+          "text": "と",
+          "startMs": 211720,
+          "durationMs": 472
+        }
+      ]
+    },
+    {
+      "startMs": 212512,
+      "endMs": 215395,
+      "durationMs": 2883,
+      "text": "分かり合えず喧嘩すること",
+      "parts": [
+        {
+          "text": "分",
+          "startMs": 212512,
+          "durationMs": 193
+        },
+        {
+          "text": "か",
+          "startMs": 212705,
+          "durationMs": 191
+        },
+        {
+          "text": "り",
+          "startMs": 212896,
+          "durationMs": 199
+        },
+        {
+          "text": "合",
+          "startMs": 213095,
+          "durationMs": 193
+        },
+        {
+          "text": "え",
+          "startMs": 213288,
+          "durationMs": 191
+        },
+        {
+          "text": "ず",
+          "startMs": 213479,
+          "durationMs": 208
+        },
+        {
+          "text": "喧",
+          "startMs": 213687,
+          "durationMs": 352
+        },
+        {
+          "text": "嘩",
+          "startMs": 214039,
+          "durationMs": 225
+        },
+        {
+          "text": "す",
+          "startMs": 214264,
+          "durationMs": 216
+        },
+        {
+          "text": "る",
+          "startMs": 214480,
+          "durationMs": 200
+        },
+        {
+          "text": "こ",
+          "startMs": 214680,
+          "durationMs": 176
+        },
+        {
+          "text": "と",
+          "startMs": 214856,
+          "durationMs": 539
+        }
+      ]
+    },
+    {
+      "startMs": 215395,
+      "endMs": 218516,
+      "durationMs": 3121,
+      "text": "「ごめんね」って謝れること",
+      "parts": [
+        {
+          "text": "「",
+          "startMs": 215395,
+          "durationMs": 192
+        },
+        {
+          "text": "ご",
+          "startMs": 215587,
+          "durationMs": 184
+        },
+        {
+          "text": "め",
+          "startMs": 215771,
+          "durationMs": 232
+        },
+        {
+          "text": "ん",
+          "startMs": 216003,
+          "durationMs": 232
+        },
+        {
+          "text": "ね",
+          "startMs": 216235,
+          "durationMs": 104
+        },
+        {
+          "text": "」",
+          "startMs": 216340,
+          "durationMs": 104
+        },
+        {
+          "text": "っ",
+          "startMs": 216444,
+          "durationMs": 190
+        },
+        {
+          "text": "て",
+          "startMs": 216634,
+          "durationMs": 193
+        },
+        {
+          "text": "謝",
+          "startMs": 216827,
+          "durationMs": 575
+        },
+        {
+          "text": "れ",
+          "startMs": 217402,
+          "durationMs": 233
+        },
+        {
+          "text": "る",
+          "startMs": 217635,
+          "durationMs": 209
+        },
+        {
+          "text": "こ",
+          "startMs": 217844,
+          "durationMs": 199
+        },
+        {
+          "text": "と",
+          "startMs": 218043,
+          "durationMs": 473
+        }
+      ]
+    },
+    {
+      "startMs": 218738,
+      "endMs": 221896,
+      "durationMs": 3158,
+      "text": "そのどれもが奇跡だったよって",
+      "parts": [
+        {
+          "text": "そ",
+          "startMs": 218738,
+          "durationMs": 192
+        },
+        {
+          "text": "の",
+          "startMs": 218930,
+          "durationMs": 208
+        },
+        {
+          "text": "ど",
+          "startMs": 219138,
+          "durationMs": 216
+        },
+        {
+          "text": "れ",
+          "startMs": 219354,
+          "durationMs": 216
+        },
+        {
+          "text": "も",
+          "startMs": 219570,
+          "durationMs": 200
+        },
+        {
+          "text": "が",
+          "startMs": 219770,
+          "durationMs": 200
+        },
+        {
+          "text": "奇",
+          "startMs": 219970,
+          "durationMs": 200
+        },
+        {
+          "text": "跡",
+          "startMs": 220170,
+          "durationMs": 384
+        },
+        {
+          "text": "だ",
+          "startMs": 220554,
+          "durationMs": 116
+        },
+        {
+          "text": "っ",
+          "startMs": 220670,
+          "durationMs": 116
+        },
+        {
+          "text": "た",
+          "startMs": 220786,
+          "durationMs": 224
+        },
+        {
+          "text": "よ",
+          "startMs": 221010,
+          "durationMs": 416
+        },
+        {
+          "text": "っ",
+          "startMs": 221426,
+          "durationMs": 93
+        },
+        {
+          "text": "て",
+          "startMs": 221734,
+          "durationMs": 162
+        }
+      ]
+    },
+    {
+      "startMs": 221896,
+      "endMs": 224606,
+      "durationMs": 2710,
+      "text": "思える きみと出会えた",
+      "parts": [
+        {
+          "text": "思",
+          "startMs": 221896,
+          "durationMs": 292
+        },
+        {
+          "text": "え",
+          "startMs": 222188,
+          "durationMs": 232
+        },
+        {
+          "text": "る",
+          "startMs": 222420,
+          "durationMs": 241
+        },
+        {
+          "text": " ",
+          "startMs": 222661,
+          "durationMs": 0
+        },
+        {
+          "text": "き",
+          "startMs": 222661,
+          "durationMs": 200
+        },
+        {
+          "text": "み",
+          "startMs": 222861,
+          "durationMs": 192
+        },
+        {
+          "text": "と",
+          "startMs": 223053,
+          "durationMs": 349
+        },
+        {
+          "text": "出",
+          "startMs": 223402,
+          "durationMs": 200
+        },
+        {
+          "text": "会",
+          "startMs": 223602,
+          "durationMs": 184
+        },
+        {
+          "text": "え",
+          "startMs": 223786,
+          "durationMs": 223
+        },
+        {
+          "text": "た",
+          "startMs": 224009,
+          "durationMs": 597
+        }
+      ]
+    },
+    {
+      "startMs": 224999,
+      "endMs": 230369,
+      "durationMs": 5370,
+      "text": "僕は 僕は きみが大好きでした",
+      "parts": [
+        {
+          "text": "僕",
+          "startMs": 224999,
+          "durationMs": 440
+        },
+        {
+          "text": "は",
+          "startMs": 225439,
+          "durationMs": 250
+        },
+        {
+          "text": " ",
+          "startMs": 225689,
+          "durationMs": 896
+        },
+        {
+          "text": "僕",
+          "startMs": 226585,
+          "durationMs": 408
+        },
+        {
+          "text": "は",
+          "startMs": 226993,
+          "durationMs": 330
+        },
+        {
+          "text": " ",
+          "startMs": 227323,
+          "durationMs": 231
+        },
+        {
+          "text": "き",
+          "startMs": 227554,
+          "durationMs": 209
+        },
+        {
+          "text": "み",
+          "startMs": 227763,
+          "durationMs": 185
+        },
+        {
+          "text": "が",
+          "startMs": 227948,
+          "durationMs": 80
+        },
+        {
+          "text": "大",
+          "startMs": 228028,
+          "durationMs": 560
+        },
+        {
+          "text": "好",
+          "startMs": 228588,
+          "durationMs": 376
+        },
+        {
+          "text": "き",
+          "startMs": 228964,
+          "durationMs": 201
+        },
+        {
+          "text": "で",
+          "startMs": 229165,
+          "durationMs": 214
+        },
+        {
+          "text": "し",
+          "startMs": 229379,
+          "durationMs": 176
+        },
+        {
+          "text": "た",
+          "startMs": 229555,
+          "durationMs": 814
+        }
+      ]
+    },
+    {
+      "startMs": 231264,
+      "endMs": 234150,
+      "durationMs": 2886,
+      "text": "明日 きみと生きれるなら",
+      "parts": [
+        {
+          "text": "明日",
+          "startMs": 231264,
+          "durationMs": 511
+        },
+        {
+          "text": " ",
+          "startMs": 231775,
+          "durationMs": 207
+        },
+        {
+          "text": "き",
+          "startMs": 231982,
+          "durationMs": 201
+        },
+        {
+          "text": "み",
+          "startMs": 232183,
+          "durationMs": 208
+        },
+        {
+          "text": "と",
+          "startMs": 232391,
+          "durationMs": 201
+        },
+        {
+          "text": "生",
+          "startMs": 232592,
+          "durationMs": 184
+        },
+        {
+          "text": "き",
+          "startMs": 232776,
+          "durationMs": 206
+        },
+        {
+          "text": "れ",
+          "startMs": 232982,
+          "durationMs": 209
+        },
+        {
+          "text": "る",
+          "startMs": 233191,
+          "durationMs": 182
+        },
+        {
+          "text": "な",
+          "startMs": 233373,
+          "durationMs": 177
+        },
+        {
+          "text": "ら",
+          "startMs": 233550,
+          "durationMs": 600
+        }
+      ]
+    },
+    {
+      "startMs": 234375,
+      "endMs": 237304,
+      "durationMs": 2929,
+      "text": "毎日記念日にして祝おう",
+      "parts": [
+        {
+          "text": "毎",
+          "startMs": 234375,
+          "durationMs": 391
+        },
+        {
+          "text": "日",
+          "startMs": 234766,
+          "durationMs": 480
+        },
+        {
+          "text": "記",
+          "startMs": 235246,
+          "durationMs": 201
+        },
+        {
+          "text": "念",
+          "startMs": 235447,
+          "durationMs": 231
+        },
+        {
+          "text": "日",
+          "startMs": 235678,
+          "durationMs": 218
+        },
+        {
+          "text": "に",
+          "startMs": 235896,
+          "durationMs": 207
+        },
+        {
+          "text": "し",
+          "startMs": 236103,
+          "durationMs": 199
+        },
+        {
+          "text": "て",
+          "startMs": 236302,
+          "durationMs": 192
+        },
+        {
+          "text": "祝",
+          "startMs": 236494,
+          "durationMs": 328
+        },
+        {
+          "text": "お",
+          "startMs": 236822,
+          "durationMs": 208
+        },
+        {
+          "text": "う",
+          "startMs": 237031,
+          "durationMs": 273
+        }
+      ]
+    },
+    {
+      "startMs": 237528,
+      "endMs": 240218,
+      "durationMs": 2690,
+      "text": "あたりまえにある奇跡を",
+      "parts": [
+        {
+          "text": "あ",
+          "startMs": 237528,
+          "durationMs": 209
+        },
+        {
+          "text": "た",
+          "startMs": 237737,
+          "durationMs": 224
+        },
+        {
+          "text": "り",
+          "startMs": 237961,
+          "durationMs": 39
+        },
+        {
+          "text": "ま",
+          "startMs": 238208,
+          "durationMs": 217
+        },
+        {
+          "text": "え",
+          "startMs": 238425,
+          "durationMs": 224
+        },
+        {
+          "text": "に",
+          "startMs": 238649,
+          "durationMs": 199
+        },
+        {
+          "text": "あ",
+          "startMs": 238848,
+          "durationMs": 201
+        },
+        {
+          "text": "る",
+          "startMs": 239049,
+          "durationMs": 191
+        },
+        {
+          "text": "奇",
+          "startMs": 239240,
+          "durationMs": 200
+        },
+        {
+          "text": "跡",
+          "startMs": 239440,
+          "durationMs": 376
+        },
+        {
+          "text": "を",
+          "startMs": 239816,
+          "durationMs": 402
+        }
+      ]
+    },
+    {
+      "startMs": 240518,
+      "endMs": 243385,
+      "durationMs": 2867,
+      "text": "決して忘れはしないように",
+      "parts": [
+        {
+          "text": "決",
+          "startMs": 240518,
+          "durationMs": 231
+        },
+        {
+          "text": "し",
+          "startMs": 240749,
+          "durationMs": 193
+        },
+        {
+          "text": "て",
+          "startMs": 240942,
+          "durationMs": 176
+        },
+        {
+          "text": "忘",
+          "startMs": 241344,
+          "durationMs": 416
+        },
+        {
+          "text": "れ",
+          "startMs": 241760,
+          "durationMs": 206
+        },
+        {
+          "text": "は",
+          "startMs": 241966,
+          "durationMs": 233
+        },
+        {
+          "text": "し",
+          "startMs": 242199,
+          "durationMs": 175
+        },
+        {
+          "text": "な",
+          "startMs": 242374,
+          "durationMs": 217
+        },
+        {
+          "text": "い",
+          "startMs": 242591,
+          "durationMs": 216
+        },
+        {
+          "text": "よ",
+          "startMs": 242807,
+          "durationMs": 95
+        },
+        {
+          "text": "う",
+          "startMs": 242903,
+          "durationMs": 95
+        },
+        {
+          "text": "に",
+          "startMs": 242998,
+          "durationMs": 387
+        }
+      ]
+    },
+    {
+      "startMs": 243713,
+      "endMs": 246609,
+      "durationMs": 2896,
+      "text": "明日 きみと生きれるなら",
+      "parts": [
+        {
+          "text": "明日",
+          "startMs": 243713,
+          "durationMs": 680
+        },
+        {
+          "text": " ",
+          "startMs": 244393,
+          "durationMs": 0
+        },
+        {
+          "text": "き",
+          "startMs": 244578,
+          "durationMs": 215
+        },
+        {
+          "text": "み",
+          "startMs": 244793,
+          "durationMs": 200
+        },
+        {
+          "text": "と",
+          "startMs": 244993,
+          "durationMs": 200
+        },
+        {
+          "text": "生",
+          "startMs": 245193,
+          "durationMs": 184
+        },
+        {
+          "text": "き",
+          "startMs": 245377,
+          "durationMs": 192
+        },
+        {
+          "text": "れ",
+          "startMs": 245569,
+          "durationMs": 176
+        },
+        {
+          "text": "る",
+          "startMs": 245745,
+          "durationMs": 176
+        },
+        {
+          "text": "な",
+          "startMs": 245921,
+          "durationMs": 168
+        },
+        {
+          "text": "ら",
+          "startMs": 246089,
+          "durationMs": 520
+        }
+      ]
+    },
+    {
+      "startMs": 246826,
+      "endMs": 249689,
+      "durationMs": 2863,
+      "text": "明日 きみと話せるなら",
+      "parts": [
+        {
+          "text": "明日",
+          "startMs": 246826,
+          "durationMs": 616
+        },
+        {
+          "text": " ",
+          "startMs": 247442,
+          "durationMs": 0
+        },
+        {
+          "text": "き",
+          "startMs": 247618,
+          "durationMs": 201
+        },
+        {
+          "text": "み",
+          "startMs": 247819,
+          "durationMs": 198
+        },
+        {
+          "text": "と",
+          "startMs": 248017,
+          "durationMs": 175
+        },
+        {
+          "text": "話",
+          "startMs": 248192,
+          "durationMs": 385
+        },
+        {
+          "text": "せ",
+          "startMs": 248577,
+          "durationMs": 225
+        },
+        {
+          "text": "る",
+          "startMs": 248802,
+          "durationMs": 159
+        },
+        {
+          "text": "な",
+          "startMs": 248961,
+          "durationMs": 193
+        },
+        {
+          "text": "ら",
+          "startMs": 249154,
+          "durationMs": 535
+        }
+      ]
+    },
+    {
+      "startMs": 249889,
+      "endMs": 252968,
+      "durationMs": 3079,
+      "text": "明日 きみと笑えるならって",
+      "parts": [
+        {
+          "text": "明日",
+          "startMs": 249889,
+          "durationMs": 735
+        },
+        {
+          "text": " ",
+          "startMs": 250624,
+          "durationMs": 0
+        },
+        {
+          "text": "き",
+          "startMs": 250624,
+          "durationMs": 233
+        },
+        {
+          "text": "み",
+          "startMs": 250857,
+          "durationMs": 200
+        },
+        {
+          "text": "と",
+          "startMs": 251057,
+          "durationMs": 224
+        },
+        {
+          "text": "笑",
+          "startMs": 251281,
+          "durationMs": 416
+        },
+        {
+          "text": "え",
+          "startMs": 251697,
+          "durationMs": 239
+        },
+        {
+          "text": "る",
+          "startMs": 251936,
+          "durationMs": 209
+        },
+        {
+          "text": "な",
+          "startMs": 252145,
+          "durationMs": 160
+        },
+        {
+          "text": "ら",
+          "startMs": 252305,
+          "durationMs": 188
+        },
+        {
+          "text": "っ",
+          "startMs": 252493,
+          "durationMs": 66
+        },
+        {
+          "text": "て",
+          "startMs": 252768,
+          "durationMs": 200
+        }
+      ]
+    },
+    {
+      "startMs": 252968,
+      "endMs": 255656,
+      "durationMs": 2688,
+      "text": "思える きみと出会えた",
+      "parts": [
+        {
+          "text": "思",
+          "startMs": 252968,
+          "durationMs": 397
+        },
+        {
+          "text": "え",
+          "startMs": 253365,
+          "durationMs": 239
+        },
+        {
+          "text": "る",
+          "startMs": 253604,
+          "durationMs": 209
+        },
+        {
+          "text": " ",
+          "startMs": 253813,
+          "durationMs": 0
+        },
+        {
+          "text": "き",
+          "startMs": 253813,
+          "durationMs": 217
+        },
+        {
+          "text": "み",
+          "startMs": 254030,
+          "durationMs": 190
+        },
+        {
+          "text": "と",
+          "startMs": 254220,
+          "durationMs": 176
+        },
+        {
+          "text": "出",
+          "startMs": 254588,
+          "durationMs": 208
+        },
+        {
+          "text": "会",
+          "startMs": 254796,
+          "durationMs": 304
+        },
+        {
+          "text": "え",
+          "startMs": 255100,
+          "durationMs": 169
+        },
+        {
+          "text": "た",
+          "startMs": 255269,
+          "durationMs": 387
+        }
+      ]
+    },
+    {
+      "startMs": 256239,
+      "endMs": 262061,
+      "durationMs": 5822,
+      "text": "僕は 僕は きっと 幸せものだ",
+      "parts": [
+        {
+          "text": "僕",
+          "startMs": 256239,
+          "durationMs": 385
+        },
+        {
+          "text": "は",
+          "startMs": 256624,
+          "durationMs": 310
+        },
+        {
+          "text": " ",
+          "startMs": 256934,
+          "durationMs": 767
+        },
+        {
+          "text": "僕",
+          "startMs": 257701,
+          "durationMs": 409
+        },
+        {
+          "text": "は",
+          "startMs": 258110,
+          "durationMs": 279
+        },
+        {
+          "text": " ",
+          "startMs": 258389,
+          "durationMs": 278
+        },
+        {
+          "text": "き",
+          "startMs": 258667,
+          "durationMs": 181
+        },
+        {
+          "text": "っ",
+          "startMs": 258848,
+          "durationMs": 181
+        },
+        {
+          "text": "と",
+          "startMs": 259030,
+          "durationMs": 269
+        },
+        {
+          "text": " ",
+          "startMs": 259299,
+          "durationMs": 0
+        },
+        {
+          "text": "幸",
+          "startMs": 259299,
+          "durationMs": 735
+        },
+        {
+          "text": "せ",
+          "startMs": 260034,
+          "durationMs": 185
+        },
+        {
+          "text": "も",
+          "startMs": 260219,
+          "durationMs": 225
+        },
+        {
+          "text": "の",
+          "startMs": 260444,
+          "durationMs": 207
+        },
+        {
+          "text": "だ",
+          "startMs": 260651,
+          "durationMs": 1410
+        }
+      ]
+    },
+    {
+      "startMs": 262308,
+      "endMs": 268793,
+      "durationMs": 6485,
+      "text": "僕は 僕は 幸せものだ",
+      "parts": [
+        {
+          "text": "僕",
+          "startMs": 262308,
+          "durationMs": 415
+        },
+        {
+          "text": "は",
+          "startMs": 262723,
+          "durationMs": 2078
+        },
+        {
+          "text": " ",
+          "startMs": 264801,
+          "durationMs": 0
+        },
+        {
+          "text": "僕",
+          "startMs": 265451,
+          "durationMs": 411
+        },
+        {
+          "text": "は",
+          "startMs": 265862,
+          "durationMs": 545
+        },
+        {
+          "text": " ",
+          "startMs": 266407,
+          "durationMs": 0
+        },
+        {
+          "text": "幸",
+          "startMs": 267004,
+          "durationMs": 656
+        },
+        {
+          "text": "せ",
+          "startMs": 267660,
+          "durationMs": 349
+        },
+        {
+          "text": "も",
+          "startMs": 268009,
+          "durationMs": 218
+        },
+        {
+          "text": "の",
+          "startMs": 268227,
+          "durationMs": 202
+        },
+        {
+          "text": "だ",
+          "startMs": 268429,
+          "durationMs": 364
+        }
+      ]
+    }
+  ]
+}

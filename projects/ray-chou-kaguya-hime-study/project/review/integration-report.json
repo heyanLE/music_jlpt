@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "integration",
+  "status": "completed",
+  "baseFrameSha256": "2cc913ecd2e826499c1825faf348627dd818dd65848ec5e44ef5210dd1aa4b42",
+  "sourceProposals": [
+    {
+      "role": "lexical",
+      "file": "project/proposals/lexical.json",
+      "changes": 57,
+      "scope": 29,
+      "sha256": "d4d5d2a41879e0e97dd19ef285af672c62c8bf5457a99872478f4efdf9125ca9"
+    },
+    {
+      "role": "grammar",
+      "file": "project/proposals/grammar.json",
+      "changes": 138,
+      "scope": 60,
+      "sha256": "0f2ea34a778ccb94e9ac0cb9849af66cf13de3c3feac65caaa367b885d9f097d"
+    },
+    {
+      "role": "translation",
+      "file": "project/proposals/translation.json",
+      "changes": 180,
+      "scope": 60,
+      "sha256": "41272842916fa267029a46a2a7169d524b82c159bea66cc114c2b96f3e7c3481"
+    }
+  ],
+  "audit": {
+    "protectedFrames": [
+      "mv-p001",
+      "mv-p002"
+    ],
+    "protectedFramesTouched": [],
+    "proposalContractIssues": [],
+    "lexicalArrayReplacements": 29,
+    "grammarCardChanges": 138,
+    "translationCardChanges": 160,
+    "unmappableDraftIndexChanges": 152,
+    "repeatedJapaneseGroups": [
+      [
+        "l018",
+        "l054"
+      ],
+      [
+        "l019",
+        "l039",
+        "l055"
+      ],
+      [
+        "l020",
+        "l040",
+        "l056"
+      ],
+      [
+        "l037",
+        "l053"
+      ]
+    ]
+  },
+  "integrationPolicy": {
+    "lexical": "Lexical token boundaries, readings, romaji and loanword annotations are the first-stage proposal.",
+    "grammar": "Apply grammarStructureZh/functionZh only after phrase-boundary rebasing; grammar is canonical for grammar semantics.",
+    "translation": "Apply caption.translationZh independently. Rebase zhMeaning/functionZh only to a unique final phrase token plus occurrence.",
+    "protected": "mv-p001 and mv-p002 are user-supplied and are excluded from all automated changes.",
+    "rawCaption": "Do not alter frozen QRC Japanese display text or timing."
+  },
+  "conflicts": [
+    {
+      "severity": "high",
+      "type": "structural-index-conflict",
+      "frames": [
+        "l001",
+        "l002",
+        "l003",
+        "l004",
+        "l006",
+        "l009",
+        "l010",
+        "l018",
+        "l020",
+        "l021",
+        "l022",
+        "l024",
+        "l025",
+        "l026",
+        "l028",
+        "l032",
+        "l037",
+        "l041",
+        "l042",
+        "l043",
+        "l045",
+        "l046",
+        "l048",
+        "l049",
+        "l053",
+        "l054",
+        "l056",
+        "l057"
+      ],
+      "affectedChanges": 152,
+      "detail": "Lexical proposals replace grammarCards with merged phrase boundaries; later grammar/translation changes target draft-array indexes that no longer identify a unique final token.",
+      "resolution": "Apply lexical card arrays first, then regenerate or manually rebase grammar/translation changes by final phrase token plus occurrence. Do not apply draft indexes directly."
+    },
+    {
+      "severity": "medium",
+      "type": "repeated-line-consistency",
+      "detail": [
+        {
+          "type": "repeated-line-card-inconsistency",
+          "frameIds": [
+            "l020",
+            "l040",
+            "l056"
+          ]
+        },
+        {
+          "type": "repeated-line-translation-inconsistency",
+          "frameIds": [
+            "l037",
+            "l053"
+          ]
+        }
+      ],
+      "resolution": "Use l020/l056 as the canonical merged-card bundle for l040, and choose one explicit Chinese translation for l037/l053 before merge."
+    }
+  ],
+  "recommendedProposalSet": {
+    "lexical": {
+      "file": "project/proposals/lexical.json",
+      "accept": [
+        "caption.furigana",
+        "caption.romaji",
+        "grammarCards phrase grouping",
+        "loanword source"
+      ],
+      "conditions": [
+        "Do not overwrite protected MV captions.",
+        "Use l020/l056 grouping for repeated l040."
+      ]
+    },
+    "grammar": {
+      "file": "project/proposals/grammar.json",
+      "accept": [
+        "grammarStructureZh",
+        "functionZh"
+      ],
+      "conditions": [
+        "Rebase after lexical grouping; do not apply draft indexes directly."
+      ]
+    },
+    "translation": {
+      "file": "project/proposals/translation.json",
+      "accept": [
+        "caption.translationZh",
+        "zhMeaning",
+        "functionZh"
+      ],
+      "conditions": [
+        "Rebase after lexical grouping.",
+        "Resolve l037/l053 differing full-line Chinese before merge."
+      ]
+    }
+  },
+  "recommendation": "Proposal-only pass complete. Rebase all 94 structurally displaced card-field changes, normalize the two repeated-line inconsistencies, then present the consolidated review for explicit user approval; do not edit frames.json in this pass."
+}

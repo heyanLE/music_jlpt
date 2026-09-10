@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "algorithm": "saturated-cover-pixel-hsv-v1",
+  "cover": "C:\\project\\musicjlpt\\projects\\amore\\source\\cover.jpg",
+  "accent": "#E0A080",
+  "activeTint": "#FF8547",
+  "body": "#7D5845",
+  "cardFill": {
+    "color": "#E0A080",
+    "alpha": 0.75
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "result": "passed",
+  "templateId": "study-current-v2",
+  "selectedFrames": [
+    "l001"
+  ],
+  "preview": "C:\\project\\musicjlpt\\projects\\mou-dou-natte-mo-ii-ya-v2\\project\\qa\\content-layout-preview-16x9.png",
+  "checks": {
+    "cardsUseIndependentFields": true,
+    "meaningWrapPolicy": "two-lines",
+    "fontWeight": 700,
+    "sharedTokenAnchors": true,
+    "magicColorSemiTransparentCards": true,
+    "contentIsDraft": true
+  },
+  "note": "Semantic meanings require authorized assisted review."
+}

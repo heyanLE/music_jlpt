@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "scope": "all-draft-frames; proposal-only",
+  "frameSha256": "59d8960999c3b767b3e814fd00676e833b895fd97264f0a083aa9d275dd7810c",
+  "generatedAt": "2026-08-19",
+  "policy": "No proposal is merged automatically. Structural changes require explicit user approval.",
+  "proposals": [
+    {
+      "id": "p-l002-notamaedo",
+      "frameId": "l002",
+      "field": "grammarCards[0]",
+      "old": {"token":"のたまえど","zhMeaning":"即使夸夸其谈","posZh":"动词已然形＋逆接接续"},
+      "new": {"token":"のたまえど","zhMeaning":"即使（有人）煞有介事地说着","posZh":"动词已然形＋逆接接续助词"},
+      "confidence": "high",
+      "structureChange": false,
+      "evidence": "『宣ふ』为“说”的尊敬语，现代常含揶揄、故作姿态的语感；ど接在已然形后表逆接。https://kotobank.jp/word/%E5%AE%A3%E3%81%B5-596955"
+    },
+    {
+      "id": "p-l005-translation",
+      "frameId": "l005",
+      "field": "caption.translationZh",
+      "old": "未被验证的哲学坚持振作",
+      "new": "未经验证的哲学。",
+      "confidence": "high",
+      "structureChange": false,
+      "evidence": "QMTS 当前行把相邻谓语性语意混入本行；日文表面文本仅为名词短语。"
+    },
+    {
+      "id": "p-l008-toka",
+      "frameId": "l008",
+      "field": "grammarCards[3]",
+      "old": {"token":"とか","functionZh":"举例；或是……之类","posZh":"并列／举例助词"},
+      "new": {"token":"とか","functionZh":"举例、列举；“……之类”","posZh":"并列助词"},
+      "confidence": "high",
+      "structureChange": false,
+      "evidence": "保留“举例”功能，统一助词术语。"
+    },
+    {
+      "id": "p-l014-translation",
+      "frameId": "l014",
+      "field": "caption.translationZh",
+      "old": "一无所知 亦无所求",
+      "new": "完全不知道，也根本不需要。",
+      "confidence": "medium",
+      "structureChange": false,
+      "evidence": "全然在此统摄前两项否定；新译保留并列否定而不补入原文没有的对象。"
+    },
+    {
+      "id": "p-l016-split-dance",
+      "frameId": "l016",
+      "field": "grammarCards",
+      "old": [{"token":"ただ"},{"token":"舞って舞う","zhMeaning":"舞着继续跳舞","posZh":"动词て形＋动词"}],
+      "new": [{"token":"ただ","zhMeaning":"只是；只管","posZh":"副词"},{"token":"舞って","zhMeaning":"跳着舞","posZh":"动词て形"},{"token":"舞う","zhMeaning":"起舞；跳舞","posZh":"动词"}],
+      "confidence": "high",
+      "structureChange": true,
+      "evidence": "重复动词由て形连接，拆开后可分别对齐 QRC 的两个舞字时码。"
+    },
+    {
+      "id": "p-l018-translation",
+      "frameId": "l018",
+      "field": "caption.translationZh",
+      "old": "熄灭所有灯光照明",
+      "new": "把所有灯光都熄掉。",
+      "confidence": "high",
+      "structureChange": false,
+      "evidence": "消しちゃって＝消してしまって的口语形，明确动作对象与完成语感。"
+    },
+    {
+      "id": "p-l019-link",
+      "frameId": "l019",
+      "field": "grammarCards[3]",
+      "old": {"token":"リンク","zhMeaning":"连接；链接","posZh":"外来语名词"},
+      "new": {"token":"リンク","zhMeaning":"连接；联结","posZh":"サ变名词","sourceWord":"link"},
+      "confidence": "high",
+      "structureChange": false,
+      "evidence": "外来词在本句承担“与宇宙连接”的动作性语义；保留原词 link。"
+    },
+    {
+      "id": "p-l022-l023-crossline",
+      "frameId": "l022+l023",
+      "field": "caption.translationZh",
+      "old": {"l022":"我的现实","l023":"逐渐融入音韵之中"},
+      "new": {"l022":"在声音之中渐渐消融的","l023":"是我的真实感。","combined":"我的真实感，渐渐消融在声音之中。"},
+      "confidence": "high",
+      "structureChange": false,
+      "evidence": "日文跨行语序为「音の中に溶けていく／僕のリアリティー」，QMTS 两行译文对调。"
+    },
+    {
+      "id": "p-l025-chirinuru",
+      "frameId": "l025",
+      "field": "grammarCards[0]",
+      "old": {"token":"ちりぬる","zhMeaning":"凋零散去的","posZh":"动词古典活用"},
+      "new": {"token":"ちりぬる","zhMeaning":"已凋零、散落的","posZh":"动词连用形＋完了助动词"},
+      "confidence": "medium",
+      "structureChange": false,
+      "evidence": "按古典语法将散り＋ぬる解释为带完成感的连体表达；建议与上下句诗意一并人工确认。"
+    },
+    {
+      "id": "p-l026-l029-crossline",
+      "frameId": "l026-l029",
+      "field": "caption.translationZh",
+      "old": {"l026":"五脏六腑中回响不止的","l027":"是脉搏连缀而成的旋律","l028":"在我的浑身上下游走","l029":"化作跃动飞驰的流星"},
+      "new": {"l026":"在五脏六腑中回响不止的","l027":"是脉动的旋律线；","l028":"流星在我的体内奔流，","l029":"不断跃动。"},
+      "confidence": "medium",
+      "structureChange": false,
+      "evidence": "四行存在修饰语跨行承接；新译避免将“流星”误译成“化作流星”。"
+    },
+    {
+      "id": "p-l030-l032-crossline",
+      "frameId": "l030-l032",
+      "field": "caption.translationZh",
+      "old": {"l030":"汹涌的音浪","l031":"逐渐与呼吸重合","l032":"想要随着音浪尽情摇摆"},
+      "new": {"l030":"与呼吸声逐渐重合的","l031":"节奏波浪中，","l032":"我想随其摇摆。"},
+      "confidence": "medium",
+      "structureChange": false,
+      "evidence": "日文修饰关系为「呼吸音と重なってく／リズムの波に／任せて揺れていたい」，QMTS 语序错位。"
+    },
+    {
+      "id": "p-l034-l035-crossline",
+      "frameId": "l034+l035",
+      "field": "caption.translationZh",
+      "old": {"l034":"既然飞跃大气层来到宇宙","l035":"就在那真空之中 漂浮起舞"},
+      "new": {"l034":"若纵身跃入，那里便已是","l035":"无重力；漂浮着起舞。","combined":"若纵身跃入，那里便已是无重力；漂浮着起舞。"},
+      "confidence": "medium",
+      "structureChange": false,
+      "evidence": "原文没有“大气层、真空”等补充信息；新译仅保留飞入与无重力。"
+    },
+    {
+      "id": "p-l051-split-daremo",
+      "frameId": "l051",
+      "field": "grammarCards",
+      "old": [{"token":"金輪際"},{"token":"誰も","zhMeaning":"谁都；任何人都","posZh":"疑问代词＋副助词"},{"token":"知らない"},{"token":"夜"}],
+      "new": [{"token":"金輪際","zhMeaning":"绝对；无论如何","posZh":"副词"},{"token":"誰","zhMeaning":"谁","posZh":"疑问代词"},{"token":"も","functionZh":"全面否定：谁也不……","posZh":"副助词"},{"token":"知らない","zhMeaning":"不知道的","posZh":"动词否定形"},{"token":"夜","zhMeaning":"夜晚","posZh":"名词"}],
+      "confidence": "high",
+      "structureChange": true,
+      "evidence": "誰＋も与否定形知らない构成“谁也不知道”；金輪際常与否定搭配表“绝对、断然”。https://kotobank.jp/word/%E9%87%91%E8%BC%AA%E9%9A%9B-67654"
+    },
+    {
+      "id": "p-l051-translation",
+      "frameId": "l051",
+      "field": "caption.translationZh",
+      "old": "必然无人知晓的夜晚",
+      "new": "绝对无人知晓的夜晚。",
+      "confidence": "high",
+      "structureChange": false,
+      "evidence": "金輪際与否定表达强烈的“绝对不”；不应译为“必然”。https://kotobank.jp/word/%E9%87%91%E8%BC%AA%E9%9A%9B-67654"
+    },
+    {
+      "id": "p-l053-ahare",
+      "frameId": "l053",
+      "field": "grammarCards[3]",
+      "old": {"token":"あはれ","zhMeaning":"哀伤；悲怜","posZh":"形容动词／感叹词"},
+      "new": {"token":"あはれ","zhMeaning":"啊；何其令人感慨","posZh":"感叹词（古语）"},
+      "confidence": "medium",
+      "structureChange": false,
+      "evidence": "古语「あはれ」可作发出深切感慨的感叹词，语义不只限于悲哀。https://kotobank.jp/word/%E3%81%82%E3%82%8F%E3%82%8C-29014"
+    }
+  ]
+}

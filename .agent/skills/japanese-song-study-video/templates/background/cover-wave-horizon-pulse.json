@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "cover-wave-horizon-pulse",
+  "owns": "background-only",
+  "base": "cover-gaussian",
+  "visualizer": {
+    "style": "horizon-pulse",
+    "position": "bottom",
+    "heightPxAt1920x1080": 150,
+    "audioAnalysis": { "sampleRate": 8000, "windowSamples": 1024, "energySmoothing": "continuous" },
+    "alwaysAnimate": true,
+    "frameRate": 30
+  },
+  "clock": "audio"
+}

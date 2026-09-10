@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "candidate": "C:\\project\\musicjlpt\\projects\\naze-nazo-answer\\project\\work\\naze-approved-r1\\16x9\\naze-nazo-answer--16x9--naze-approved-r1.mkv",
+  "candidateSha256": "c5f9f244f0b629768eb37e42365678239d580e752c2c8e1487adacc36ff2f5d8",
+  "activeHashes": {
+    "inputManifest": "0cb2cce2328536f5ff5dbe62488e6afcc9fee402a5056a2c058c81287a0c9a5f",
+    "presentation": "eff7938b401949aa91965fb0b2167f7ae94364fbdfbbf10acec2be6882ae85d4",
+    "sceneTimeline": "00e3228e18d644b4015c15fedd7cbdeec20efc7d604f93011f91941534ba0b19",
+    "frames": "08d5048142cff9f3a7233b22d16f4d9614248a985d5c388e6b0edf2bf843abfa"
+  },
+  "layers": [
+    "background",
+    "foreground",
+    "floatingOverlay"
+  ],
+  "scenes": [
+    {
+      "id": "stage1-video",
+      "startMs": 0,
+      "endMs": 90000,
+      "mode": "video-clip",
+      "asset": "source/background.mp4",
+      "fit": "height-center-pillarbox",
+      "sourceAudio": "mute",
+      "foregroundMode": "follow-lyrics",
+      "transitionIn": {
+        "kind": "none",
+        "durationMs": 0,
+        "scope": "background-only"
+      },
+      "transitionOut": {
+        "kind": "black-fade",
+        "durationMs": 500,
+        "scope": "background-only"
+      }
+    },
+    {
+      "id": "stage2-cover-gaussian",
+      "startMs": 90000,
+      "endMs": "audio-end",
+      "mode": "cover-gaussian",
+      "asset": "source/cover.jpg",
+      "foregroundMode": "persistent",
+      "transitionIn": {
+        "kind": "black-fade",
+        "durationMs": 500,
+        "scope": "background-only"
+      },
+      "transitionOut": {
+        "kind": "none",
+        "durationMs": 0,
+        "scope": "background-only"
+      }
+    }
+  ],
+  "foregroundDefaultMode": "follow-lyrics",
+  "durationMs": 240413,
+  "offsetMs": 0,
+  "audioCodecPolicy": "stream-copy",
+  "foregroundTimeline": {
+    "full": 38,
+    "adjacentRows": 0,
+    "lineFallback": 0,
+    "unmatched": 0,
+    "blankSegments": 6,
+    "neutralSegments": 38,
+    "activeSegments": 672
+  }
+}

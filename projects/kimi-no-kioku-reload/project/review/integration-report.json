@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "integration",
+  "status": "completed",
+  "baseFrameSha256": "47eb9144bdd4aecaa9b2beec76681e3b3907fa31bafb6ca975429cfb1b881b00",
+  "sourceProposalFiles": [
+    {
+      "role": "lexical",
+      "path": "project/proposals/lexical.json",
+      "sha256": "5b6a558457b04b1c2b826a2173c08007a209d01dd13c98f212901b7980827639",
+      "changeCount": 49
+    },
+    {
+      "role": "grammar",
+      "path": "project/proposals/grammar.json",
+      "sha256": "1a8c5e18339e91f93524410f4cff64f750070b17cd77850d23a7c7d0f317377f",
+      "changeCount": 131
+    },
+    {
+      "role": "translation",
+      "path": "project/proposals/translation.json",
+      "sha256": "9d1b4bdac8e32cd41d3149ce42c07d63c955df6b5f5744f53961d034f8bcdef9",
+      "changeCount": 253
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "lexical-old-value-l008-furigana-3",
+      "type": "old-value-mismatch",
+      "severity": "blocking-for-change",
+      "sourceRole": "lexical",
+      "sourceProposalIndex": 4,
+      "frameId": "l008",
+      "field": "caption.furigana[3].reading",
+      "declaredOld": "めざめたら",
+      "actualOld": "あえる",
+      "proposedNew": "めざ",
+      "resolution": "exclude",
+      "recommendedCorrection": {
+        "field": "caption.furigana[2].reading",
+        "old": "めざめたら",
+        "new": "めざ"
+      }
+    },
+    {
+      "id": "lexical-missing-l008-furigana-4",
+      "type": "field-path-out-of-range",
+      "severity": "blocking-for-change",
+      "sourceRole": "lexical",
+      "sourceProposalIndex": 5,
+      "frameId": "l008",
+      "field": "caption.furigana[4].reading",
+      "declaredOld": "あえる",
+      "actualOld": null,
+      "proposedNew": "あ",
+      "resolution": "exclude",
+      "recommendedCorrection": {
+        "field": "caption.furigana[3].reading",
+        "old": "あえる",
+        "new": "あ"
+      }
+    },
+    {
+      "id": "lexical-missing-l028-furigana-6",
+      "type": "field-path-out-of-range",
+      "severity": "blocking-for-change",
+      "sourceRole": "lexical",
+      "sourceProposalIndex": 19,
+      "frameId": "l028",
+      "field": "caption.furigana[6].reading",
+      "declaredOld": "つづけて",
+      "actualOld": null,
+      "proposedNew": "つづ",
+      "resolution": "exclude",
+      "recommendedCorrection": {
+        "field": "caption.furigana[5].reading",
+        "old": "つづけて",
+        "new": "つづ"
+      }
+    },
+    {
+      "id": "grammar-repeat-l010-l042",
+      "type": "repeated-line-inconsistency",
+      "severity": "blocking-for-change",
+      "sourceRole": "grammar",
+      "sourceProposalIndex": 20,
+      "frameIds": ["l010", "l042"],
+      "field": "grammarCards[0].grammarStructureZh",
+      "proposedOnlyFor": "l010",
+      "proposedNew": "い形容词「はかない」连用形（副词用法）",
+      "resolution": "exclude-until-paired",
+      "recommendedCorrection": {
+        "frameId": "l042",
+        "field": "grammarCards[0].grammarStructureZh",
+        "old": "い形容词",
+        "new": "い形容词「はかない」连用形（副词用法）"
+      }
+    }
+  ],
+  "recommendedProposalSet": {
+    "mode": "all-except-listed",
+    "proposalReferences": [
+      {
+        "role": "lexical",
+        "path": "project/proposals/lexical.json",
+        "includeChangeIndexes": "0-48",
+        "excludeChangeIndexes": [4, 5, 19],
+        "recommendedCount": 46
+      },
+      {
+        "role": "grammar",
+        "path": "project/proposals/grammar.json",
+        "includeChangeIndexes": "0-130",
+        "excludeChangeIndexes": [20],
+        "recommendedCount": 130
+      },
+      {
+        "role": "translation",
+        "path": "project/proposals/translation.json",
+        "includeChangeIndexes": "0-252",
+        "excludeChangeIndexes": [],
+        "recommendedCount": 253
+      }
+    ],
+    "recommendedChangeCount": 429,
+    "pendingCorrectedChangeCount": 4,
+    "mergeAuthorized": false
+  },
+  "auditChecks": {
+    "baseHashMatchesCurrentFrames": true,
+    "proposalBaseHashesAgree": true,
+    "oldValuesMatch": {
+      "lexical": {"matched": 46, "mismatchedOrMissing": 3},
+      "grammar": {"matched": 131, "mismatchedOrMissing": 0},
+      "translation": {"matched": 253, "mismatchedOrMissing": 0}
+    },
+    "protectedFields": {
+      "detected": false,
+      "violations": []
+    },
+    "sameFieldCrossRoleConflicts": [],
+    "repeatedLineConsistency": {
+      "repeatedTextGroups": 23,
+      "consistentGroups": 22,
+      "inconsistentGroups": [{"frameIds": ["l010", "l042"], "field": "grammarCards[0].grammarStructureZh"}]
+    },
+    "tokenStructureDependencies": {
+      "changesTokenStructureTrueCount": 0,
+      "cardIndexStabilityRequired": true,
+      "result": "stable-except-invalid-furigana-paths-listed-as-conflicts"
+    },
+    "englishExclusion": {
+      "pureEnglishFrames": ["l020", "l035", "l052", "l058"],
+      "pureEnglishAnnotationRomajiOrCardChanges": 0,
+      "mixedEnglishFrames": ["l014", "l041", "l046", "l064"],
+      "result": "passed; English substrings remain excluded while Japanese substrings retain cards"
+    },
+    "furiganaRomajiAlignment": {
+      "result": "conditional",
+      "validRecommendedLexicalChanges": 46,
+      "invalidFieldPaths": 3,
+      "note": "The three invalid references have clear corrected paths but require a revised lexical proposal before merge."
+    },
+    "oneRowLayoutRisk": {
+      "draftLayoutReportPassed": true,
+      "riskLevelAfterProposal": "high",
+      "frames": ["l032", "l038", "l055", "l061"],
+      "reason": "Seven- to nine-card rows receive 27-28-character function text; the current draft preview predates these proposal values. Re-run layout validation after any approved merge."
+    }
+  },
+  "notes": [
+    "No proposal was merged and project/frames.json was not edited.",
+    "Particle cards keep exactly one meaning/function field; no recommended proposal introduces a second field on a particle card.",
+    "The translated pure-English lines change only caption.translationZh, which does not violate English annotation/card exclusion."
+  ]
+}

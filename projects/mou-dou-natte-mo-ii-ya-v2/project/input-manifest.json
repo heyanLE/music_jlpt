@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 2,
+  "slug": "mou-dou-natte-mo-ii-ya-v2",
+  "runId": "20260815-inputs-r01",
+  "title": "もうどうなってもいいや",
+  "artist": "星街すいせい",
+  "assets": {
+    "background": { "path": "source/background.mp4", "mode": "video", "sourceAudio": "mute", "loop": "loop-to-audio-duration", "fit": "height-center-pillarbox" },
+    "music": { "path": "source/music.mp3", "durationMs": 203102 },
+    "cover": { "path": "source/cover.jpg", "origin": "embedded-mp3-cover" },
+    "lyrics": { "format": "qq-music", "qm": "source/lyrics.qm.qrc", "qmRoma": "source/lyrics.qmRoma.qrc", "qmts": "source/lyrics.qmts.qrc" }
+  },
+  "backgroundTemplate": "video",
+  "foregroundTemplate": { "id": "study-current-v2", "layoutApproval": "builtin" },
+  "foregroundVisibility": "lyric-only",
+  "veil": { "mode": "lyric-only", "color": "#000000", "opacity": 0.28 },
+  "alignment": { "clock": "audio", "offsetMs": 0 },
+  "outputs": [{ "name": "16x9", "width": 1920, "height": 1080, "fps": 30 }]
+}

@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "userWording": "中文改为这里歌词的中文",
+  "source": "C:\\project\\musicjlpt\\projects\\naze-nazo-answer\\source\\lyrics_qmts.qrc",
+  "translationRows": 66,
+  "changedFrames": [
+    {
+      "id": "l038",
+      "old": "(为为为为 为何?提示 得出答案)",
+      "new": "因为 我们是光之美少女☆ (为为为为 为何?提示 得出答案)"
+    }
+  ],
+  "framesSha256": "fd2d67f9059d2f7bdce388019676e30238aa3ae5ff2d9734e5b8a90e90f6b37c",
+  "sourceSha256": "5424cfb0fe6193bdc49e502c5a820ccfbeac63b783cdcb5542f1790a78bc388a"
+}

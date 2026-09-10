@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "algorithm": "normalized-log-spectral-window-v1",
+  "sampleRate": 8000,
+  "hopMs": 64.0,
+  "queryDurationMs": 12032,
+  "matches": [
+    {
+      "flacStartMs": 8000,
+      "mvStartMs": 27584,
+      "offsetMs": 19584,
+      "score": 0.9755540936031003,
+      "margin": 0.02554561017443846
+    },
+    {
+      "flacStartMs": 14016,
+      "mvStartMs": 33600,
+      "offsetMs": 19584,
+      "score": 0.9717184964102878,
+      "margin": 0.04107673059535777
+    },
+    {
+      "flacStartMs": 19968,
+      "mvStartMs": 39552,
+      "offsetMs": 19584,
+      "score": 0.9691187441152436,
+      "margin": 0.05698989591987336
+    },
+    {
+      "flacStartMs": 28032,
+      "mvStartMs": 47616,
+      "offsetMs": 19584,
+      "score": 0.9746539681215278,
+      "margin": 0.05392173974318604
+    }
+  ],
+  "acceptedOffsetMs": 19584,
+  "offsetSpreadMs": 0,
+  "interpretation": "mv time = flac time + offsetMs for the matched musical program"
+}

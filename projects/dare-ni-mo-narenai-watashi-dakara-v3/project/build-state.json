@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 2,
+  "stage": "delivered",
+  "renderAuthorization": true,
+  "notes": [
+    "Sources frozen; choose preset, spectrum and alignment with configure_layers.py.",
+    "Layer configuration resolved by configure_layers.py: video-then-gaussian-hybrid; spectrum=on; offsetMs=0.",
+    "Setup validation passed. A 13.184-second first-frame Gaussian prelude precedes the video-to-cover-Gaussian preset.",
+    "QRC metadata rows l001-l005 excluded. Card draft created for 41 lyric frames; semantic fields await multi-role review.",
+    "All sealed multi-role proposals accepted; explicit render authorization still required.",
+    "All sealed multi-role proposals accepted; explicit render authorization still required.",
+    "QA-passed candidate promoted: dare-ni-mo-narenai-watashi-dakara-v3--16x9--dare-v3-approved-r1.mkv",
+    "2026-09-02: added episode S1E6 intro from 21:59.000; acoustic match places clean-master zero at episode 22:07.571 and the first-lyric/title-card handoff at 22:20.755; prior render authorization invalidated while approved frames remain unchanged.",
+    "2026-09-02: episode-to-ED background transition changed to a true hard cut; the first 280 ms of the approved learning section will be rebuilt from original background, approved foreground state, and approved spectrum to remove the old baked black fade.",
+    "QA-passed candidate promoted: dare-ni-mo-narenai-watashi-dakara-v3--16x9--episode-intro-hardcut-r1.mkv",
+    "2026-09-02: correction audit opened after user reported 誰一人 at approximately 00:44; render authorization invalidated. Three-role review and integration are sealed against frames SHA256 d512f08f77f118d91b5f235d1d6d260edade12cc8c3e323b21fce19d29aab109; awaiting explicit content decision before merge.",
+    "2026-09-02: user accepted all correction proposals. Integrated 97 reviewed changes plus 6 deterministic pronunciation-romaji QA corrections across 34 frames; frames SHA256 is now 09246f2a624b4fe370b4cf58c6ba66793ac4627437c665d3bcad5ef08c4d6deb. Final rendering remains unauthorized until a separate explicit render instruction.",
+    "QA-passed candidate promoted: dare-ni-mo-narenai-watashi-dakara-v3--16x9--episode-intro-corrected-r2.mkv"
+  ]
+}

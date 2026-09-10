@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "candidate": "C:\\project\\musicjlpt\\projects\\heavenly-me-study\\project\\work\\heavenly-approved-r1\\16x9\\heavenly-me-study--16x9--heavenly-approved-r1.mkv",
+  "candidateSha256": "741c50ff85506445dd45793d2cdfab3144e4db1d0eccbd0936f673ad945307e0",
+  "activeHashes": {
+    "inputManifest": "5119019a0f56d3e87370c6429db002d47973c20705cc6c0478f181a1ce8e8136",
+    "presentation": "3acf8a4668cf2cde8f1c301be409a668a4029a8713fec3690ca10e9b2c71cff5",
+    "sceneTimeline": "94c374ffa9870fddf1c538f78690b8724f522d363eaf60c534abd49e021aead8",
+    "frames": "63a9879cfe4a97295da0edbec889f993d1889e7d1c54595a20cb64e3e902b58c"
+  },
+  "layers": [
+    "background",
+    "foreground",
+    "floatingOverlay-disabled"
+  ],
+  "scenes": [
+    {
+      "id": "main-video-loop",
+      "startMs": 0,
+      "endMs": "audio-end",
+      "mode": "video-loop",
+      "asset": "source/background-trimmed.mp4",
+      "fit": "height-center-pillarbox",
+      "sourceAudio": "mute",
+      "foregroundMode": "follow-lyrics",
+      "transitionIn": {
+        "kind": "none",
+        "durationMs": 0,
+        "scope": "background-only"
+      },
+      "transitionOut": {
+        "kind": "none",
+        "durationMs": 0,
+        "scope": "background-only"
+      }
+    }
+  ],
+  "foregroundDefaultMode": "follow-lyrics",
+  "durationMs": 191327,
+  "offsetMs": 0,
+  "audioCodecPolicy": "stream-copy",
+  "foregroundTimeline": {
+    "full": 44,
+    "adjacentRows": 0,
+    "lineFallback": 0,
+    "unmatched": 0,
+    "blankSegments": 8,
+    "neutralSegments": 19,
+    "activeSegments": 501
+  }
+}

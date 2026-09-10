@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 2,
+  "clock": "output",
+  "preset": "custom",
+  "segments": [
+    {
+      "id": "stage1-makoto",
+      "startMs": 0,
+      "endMs": 79906,
+      "mode": "video-loop",
+      "asset": "source/background.mp4",
+      "fit": "height-center-pillarbox",
+      "sourceAudio": "mute",
+      "foregroundMode": "follow-lyrics",
+      "transitionIn": {
+        "kind": "none",
+        "durationMs": 0,
+        "scope": "background-only"
+      },
+      "transitionOut": {
+        "kind": "black-fade",
+        "durationMs": 500,
+        "scope": "background-only"
+      }
+    },
+    {
+      "id": "stage2-kotone",
+      "startMs": 79906,
+      "endMs": 159812,
+      "mode": "video-loop",
+      "asset": "source/background-02-kotone.mp4",
+      "fit": "height-center-pillarbox",
+      "sourceAudio": "mute",
+      "foregroundMode": "follow-lyrics",
+      "transitionIn": {
+        "kind": "black-fade",
+        "durationMs": 500,
+        "scope": "background-only"
+      },
+      "transitionOut": {
+        "kind": "black-fade",
+        "durationMs": 500,
+        "scope": "background-only"
+      }
+    },
+    {
+      "id": "stage3-yukari",
+      "startMs": 159812,
+      "endMs": 239718,
+      "mode": "video-loop",
+      "asset": "source/background-03-yukari.mp4",
+      "fit": "height-center-pillarbox",
+      "sourceAudio": "mute",
+      "foregroundMode": "follow-lyrics",
+      "transitionIn": {
+        "kind": "black-fade",
+        "durationMs": 500,
+        "scope": "background-only"
+      },
+      "transitionOut": {
+        "kind": "black-fade",
+        "durationMs": 500,
+        "scope": "background-only"
+      }
+    },
+    {
+      "id": "stage4-mitsuru",
+      "startMs": 239718,
+      "endMs": 319624,
+      "mode": "video-loop",
+      "asset": "source/background-04-mitsuru.mp4",
+      "fit": "height-center-pillarbox",
+      "sourceAudio": "mute",
+      "foregroundMode": "follow-lyrics",
+      "transitionIn": {
+        "kind": "black-fade",
+        "durationMs": 500,
+        "scope": "background-only"
+      },
+      "transitionOut": {
+        "kind": "black-fade",
+        "durationMs": 500,
+        "scope": "background-only"
+      }
+    },
+    {
+      "id": "stage5-fuuka",
+      "startMs": 319624,
+      "endMs": 399530,
+      "mode": "video-loop",
+      "asset": "source/background-05-fuuka.mp4",
+      "fit": "height-center-pillarbox",
+      "sourceAudio": "mute",
+      "foregroundMode": "follow-lyrics",
+      "transitionIn": {
+        "kind": "black-fade",
+        "durationMs": 500,
+        "scope": "background-only"
+      },
+      "transitionOut": {
+        "kind": "none",
+        "durationMs": 0,
+        "scope": "background-only"
+      }
+    }
+  ]
+}

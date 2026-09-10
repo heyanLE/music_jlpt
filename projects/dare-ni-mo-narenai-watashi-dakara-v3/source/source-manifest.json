@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "role": "music",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\AppData\\Local\\Temp\\BNZ.6a8abe44142b3c16\\01.誰にもなれない私だから.flac",
+      "frozenAsset": "source/music.flac",
+      "bytes": 23226072,
+      "sha256": "ed6087daa522fc18eab14e0c66ad09b9d6ad8da8cb121e1f46593d699e2e1a84",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "flac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "bits_per_raw_sample": "16"
+          },
+          {
+            "index": 1,
+            "codec_name": "mjpeg",
+            "codec_type": "video",
+            "width": 700,
+            "height": 700,
+            "bits_per_raw_sample": "8"
+          }
+        ],
+        "format": {
+          "format_name": "flac",
+          "duration": "191.146667"
+        }
+      }
+    },
+    {
+      "role": "coverOriginal",
+      "originalAbsolutePath": "C:\\project\\musicjlpt\\dare-ni-mo-narenai-watashi-dakara-derived-cover.jpg",
+      "frozenAsset": "source/cover-original.jpg",
+      "bytes": 32466,
+      "sha256": "93500cd69a03656db55b43091d065da7242bed316211676b2093f6ba08c00ede",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "mjpeg",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "bits_per_raw_sample": "8"
+          }
+        ],
+        "format": {
+          "format_name": "image2",
+          "duration": "0.040000"
+        }
+      }
+    },
+    {
+      "role": "cover",
+      "originalAbsolutePath": "C:\\project\\musicjlpt\\projects\\dare-ni-mo-narenai-watashi-dakara-v3\\source\\music.flac",
+      "frozenAsset": "source/cover.jpg",
+      "bytes": 94284,
+      "sha256": "d20b222f704f8b225b1eda238c01e47fa5c0ad1cc673b0beb7370a5ff911a5ac",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "mjpeg",
+            "codec_type": "video",
+            "width": 700,
+            "height": 700,
+            "bits_per_raw_sample": "8"
+          }
+        ],
+        "format": {
+          "format_name": "image2",
+          "duration": "0.040000"
+        }
+      },
+      "origin": "embedded-attached-picture-from-frozen-music"
+    },
+    {
+      "role": "background",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\Videos\\TubeGet\\【Official Music Video】\\GIRLS BAND CRY - ENDING｜TOGENASHI TOGEARI I'm_Nobody.mp4",
+      "frozenAsset": "source/background.mp4",
+      "bytes": 25769631,
+      "sha256": "2a177bc65a2f35460d0a4ea346e2c9749b34e79cf2fe25d955fd543c5db3289f",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "bits_per_raw_sample": "8"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "48000"
+          }
+        ],
+        "format": {
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "duration": "85.096000"
+        }
+      }
+    },
+    {
+      "role": "episodeIntroBackgroundAndDialogue",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\Desktop\\哭泣少女乐队 _ GIRLS BAND CRY 第06集 S1E6.mp4",
+      "frozenAsset": "source/episode-s1e6.mp4",
+      "bytes": 277256909,
+      "sha256": "152cc119e0f079faccd4e0a5663bd44f8cfdce246cf7e9bcf8ff9624eda4553",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "24000/1001"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "48000",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "start_time": "0.000000",
+          "duration": "1430.229000"
+        }
+      }
+    },
+    {
+      "role": "musicHybrid",
+      "originalAbsolutePath": "C:\\project\\musicjlpt\\projects\\dare-ni-mo-narenai-watashi-dakara-v3\\source\\music-hybrid.flac",
+      "frozenAsset": "source/music-hybrid.flac",
+      "bytes": 23321816,
+      "sha256": "6ec00efe8e785758f8e6ddf3c2ae1d8c01c12957bf623bfb0d6e4e1fcece08d2",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "flac",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 2,
+            "bits_per_raw_sample": "16"
+          }
+        ],
+        "format": {
+          "format_name": "flac",
+          "start_time": "0.000000",
+          "duration": "199.717937"
+        }
+      },
+      "origin": "derived from frozen episode dialogue audio plus frozen clean FLAC master",
+      "recipe": "episode 1319.000000-1340.755250; clean master from 12.684000; 0.500-second linear crossfade; 44.1 kHz 16-bit FLAC"
+    },
+    {
+      "role": "qm",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\AppData\\Roaming\\Tencent\\QQMusic\\QQMusicCache\\QQMusicLyricNew\\トゲナシトゲアリ (TOGENASHI TOGEARI) - 誰にもなれない私だから (正因为是无法成为他人的我) - 189 - 誰にもなれない私だから (正因为是无法成为他人的我)_qm.qrc",
+      "frozenAsset": "source/lyrics_qm.qrc",
+      "bytes": 4627,
+      "sha256": "492033007625a20b6e71d6970a2d9192d553551010963947798774b6aac631c9",
+      "probe": {
+        "probeError": "C:\\project\\musicjlpt\\projects\\dare-ni-mo-narenai-watashi-dakara-v3\\source\\lyrics_qm.qrc: Invalid data found when processing input"
+      }
+    },
+    {
+      "role": "qmRoma",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\AppData\\Roaming\\Tencent\\QQMusic\\QQMusicCache\\QQMusicLyricNew\\トゲナシトゲアリ (TOGENASHI TOGEARI) - 誰にもなれない私だから (正因为是无法成为他人的我) - 189 - 誰にもなれない私だから (正因为是无法成为他人的我)_qmRoma.qrc",
+      "frozenAsset": "source/lyrics_qmRoma.qrc",
+      "bytes": 3931,
+      "sha256": "18b95903127b4a3c94b3b1d9c4558d1be7a5feb0e82c9a1b89a6988f4f726e8c",
+      "probe": {
+        "probeError": "C:\\project\\musicjlpt\\projects\\dare-ni-mo-narenai-watashi-dakara-v3\\source\\lyrics_qmRoma.qrc: Invalid data found when processing input"
+      }
+    },
+    {
+      "role": "qmts",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\AppData\\Roaming\\Tencent\\QQMusic\\QQMusicCache\\QQMusicLyricNew\\トゲナシトゲアリ (TOGENASHI TOGEARI) - 誰にもなれない私だから (正因为是无法成为他人的我) - 189 - 誰にもなれない私だから (正因为是无法成为他人的我)_qmts.qrc",
+      "frozenAsset": "source/lyrics_qmts.qrc",
+      "bytes": 1739,
+      "sha256": "a6ce71c991ac3e57f801cda6d71c994602f03ccb4aea1cfd144a6df8b8ca7a4f",
+      "probe": {
+        "probeError": "C:\\project\\musicjlpt\\projects\\dare-ni-mo-narenai-watashi-dakara-v3\\source\\lyrics_qmts.qrc: Invalid data found when processing input"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "1.0",
+  "stage": "draft",
+  "result": "passed",
+  "frameCount": 40,
+  "renderedFrameCount": 40,
+  "maxCardCount": 9,
+  "maxCardCountFrame": "l032",
+  "oneRowGrammarCards": true,
+  "meaningMaxLines": 2,
+  "mixedEnglishSkipsCards": true,
+  "selectedSamples": {
+    "longestLyric": "l011",
+    "maximumCardCount": "l032",
+    "longestMeaningOrFunction": "l007",
+    "mixedJapaneseEnglish": "l011",
+    "loanwordCandidate": null,
+    "pureEnglish": null
+  },
+  "previewPaths": {
+    "longestLyric": "C:\\project\\musicjlpt\\projects\\hoshi-furu-umi\\project\\qa\\draft-preview-longestLyric.png",
+    "maximumCardCount": "C:\\project\\musicjlpt\\projects\\hoshi-furu-umi\\project\\qa\\draft-preview-maximumCardCount.png",
+    "longestMeaningOrFunction": "C:\\project\\musicjlpt\\projects\\hoshi-furu-umi\\project\\qa\\draft-preview-longestMeaningOrFunction.png",
+    "mixedJapaneseEnglish": "C:\\project\\musicjlpt\\projects\\hoshi-furu-umi\\project\\qa\\draft-preview-mixedJapaneseEnglish.png",
+    "loanwordCandidate": null,
+    "pureEnglish": null
+  },
+  "failures": [],
+  "reviewDocument": "C:\\project\\musicjlpt\\projects\\hoshi-furu-umi\\deliverables\\review\\hoshi-furu-umi-review.md"
+}

@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "userWording": "歌词不要太早出来，后面歌词间有消失，首次也等到倒计时出来再出来",
+  "firstForegroundAtMs": 33050,
+  "firstSingingAtMs": 36050,
+  "entireTimelineFromCountdownUnchanged": true,
+  "preludeForegroundAlpha": [
+    0,
+    0
+  ],
+  "cardsUnchangedSha256": "de4c24778cb60ce8b1685bb06c73111eefb0888a1e5c53334f11c300f6cf2850",
+  "audioAndSpectrumClockChanged": false
+}

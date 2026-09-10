@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "status": "merged-user-approved",
+  "proposalFiles": [
+    "project/proposals/assisted-review-a.json",
+    "project/proposals/assisted-review-b.json",
+    "project/proposals/assisted-review-c.json"
+  ],
+  "frameCount": 67,
+  "mergePolicy": "All 67 proposals were merged after the user's explicit whole-scope approval.",
+  "reviewView": "deliverables/review/amore-review-approved.md"
+}

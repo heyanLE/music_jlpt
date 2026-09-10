@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 2,
+  "result": "pending-visual-review",
+  "candidate": "project/work/final-render-20260823-s2/16x9/togenashi-wrongworld-2--16x9--final-render-20260823-s2.mkv",
+  "candidateSha256": "bc0775f4c94e1434668882898a3dc246ff925b4b4ea3d9a312725a0621580c97",
+  "renderReport": "project/work/final-render-20260823-s2/16x9/render-report.json",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "pix_fmt": "yuv420p",
+        "r_frame_rate": "30/1",
+        "bits_per_raw_sample": "8"
+      },
+      {
+        "codec_name": "flac",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "r_frame_rate": "0/0",
+        "bits_per_raw_sample": "16"
+      }
+    ],
+    "format": {
+      "duration": "185.067000"
+    }
+  },
+  "screenshots": [
+    {
+      "name": "first-lyric",
+      "timestampMs": 100,
+      "path": "project/qa/first-lyric.png"
+    },
+    {
+      "name": "last-lyric",
+      "timestampMs": 166815,
+      "path": "project/qa/last-lyric.png"
+    },
+    {
+      "name": "maximum-cards",
+      "timestampMs": 100,
+      "path": "project/qa/maximum-cards.png"
+    },
+    {
+      "name": "transition-stage2-cover-gaussian",
+      "timestampMs": 90131,
+      "path": "project/qa/transition-stage2-cover-gaussian.png"
+    },
+    {
+      "name": "follow-gap",
+      "timestampMs": 14576,
+      "path": "project/qa/follow-gap.png"
+    },
+    {
+      "name": "persistent-gap",
+      "timestampMs": 14076,
+      "path": "project/qa/persistent-gap.png"
+    }
+  ],
+  "requiredVisualChecks": [
+    "three-layer order",
+    "background fit and transitions",
+    "foreground gap mode",
+    "annotation anchors",
+    "English timing",
+    "one-row cards and two-line meaning",
+    "transparent persistent spectrum",
+    "final line"
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "role": "music",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\Downloads\\85d04fc5a7018f3fd69306027eea1d41.wav",
+      "frozenAsset": "source/music.wav",
+      "bytes": 55103532,
+      "sha256": "b04b86655eef7b96cb97013a556d2448ccd336f07dcae037b1b9cc279d9b656c",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "pcm_s24le",
+            "codec_type": "audio",
+            "sample_rate": "48000",
+            "bits_per_raw_sample": "24"
+          }
+        ],
+        "format": {
+          "format_name": "wav",
+          "duration": "191.327479"
+        }
+      }
+    },
+    {
+      "role": "coverOriginal",
+      "originalAbsolutePath": "C:\\project\\musicjlpt\\.tmp-heavenly-align\\cover-candidate.png",
+      "frozenAsset": "source/cover-original.png",
+      "bytes": 1231967,
+      "sha256": "e31e740dc8991d293f8153d0cf1f449bcd8b290ba7ce42905ee93a30ad211a37",
+      "derivedFrom": "source/background.mp4",
+      "derivation": "frame at 30000 ms, crop 1080x1080 at x=840 y=0",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "png",
+            "codec_type": "video",
+            "width": 1080,
+            "height": 1080
+          }
+        ],
+        "format": {
+          "format_name": "png_pipe"
+        }
+      }
+    },
+    {
+      "role": "cover",
+      "originalAbsolutePath": "C:\\project\\musicjlpt\\.tmp-heavenly-align\\cover-candidate.png",
+      "frozenAsset": "source/cover.jpg",
+      "bytes": 435580,
+      "sha256": "e6b249013a088f68f436e9ba365ed472ea80e7cae70c7cc7a7deb02c6ed293a0",
+      "derivedFrom": "source/cover-original.png",
+      "derivation": "normalized JPEG copy",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "mjpeg",
+            "codec_type": "video",
+            "width": 1080,
+            "height": 1080,
+            "bits_per_raw_sample": "8"
+          }
+        ],
+        "format": {
+          "format_name": "image2",
+          "duration": "0.040000"
+        }
+      }
+    },
+    {
+      "role": "background",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\Desktop\\《明日方舟》EP_-_Heavenly_Me.29718874563.mp4",
+      "frozenAsset": "source/background.mp4",
+      "bytes": 93388799,
+      "sha256": "f20c23ecbbf3aae7577c3cf3eedafaafc582312fec655523b9b81561f92175e6",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "bits_per_raw_sample": "8"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "48000"
+          }
+        ],
+        "format": {
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "duration": "196.766000"
+        }
+      }
+    },
+    {
+      "role": "qm",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\AppData\\Roaming\\Tencent\\QQMusic\\QQMusicCache\\QQMusicLyricNew\\ - Heavenly Me - 191 - Heavenly Me_qm.qrc",
+      "frozenAsset": "source/lyrics_qm.qrc",
+      "bytes": 5211,
+      "sha256": "aaea2b9f103162055eb0f6a23917d1b6e99f3661353c815e4f6c9631c61adbd0",
+      "probe": {
+        "probeError": "C:\\project\\musicjlpt\\projects\\heavenly-me-study\\source\\lyrics_qm.qrc: Invalid data found when processing input"
+      }
+    },
+    {
+      "role": "qmRoma",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\AppData\\Roaming\\Tencent\\QQMusic\\QQMusicCache\\QQMusicLyricNew\\ - Heavenly Me - 191 - Heavenly Me_qmRoma.qrc",
+      "frozenAsset": "source/lyrics_qmRoma.qrc",
+      "bytes": 4555,
+      "sha256": "8854f68ce26855ed664f8dfe54a33044c452ca0ba326c76f9cce0b89117aefcd",
+      "probe": {
+        "probeError": "C:\\project\\musicjlpt\\projects\\heavenly-me-study\\source\\lyrics_qmRoma.qrc: Invalid data found when processing input"
+      }
+    },
+    {
+      "role": "qmts",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\AppData\\Roaming\\Tencent\\QQMusic\\QQMusicCache\\QQMusicLyricNew\\ - Heavenly Me - 191 - Heavenly Me_qmts.qrc",
+      "frozenAsset": "source/lyrics_qmts.qrc",
+      "bytes": 1331,
+      "sha256": "b70dc39442f2d11c38e6b1f1f18fcd791918853e540dce089531044dac7b57d4",
+      "probe": {
+        "probeError": "C:\\project\\musicjlpt\\projects\\heavenly-me-study\\source\\lyrics_qmts.qrc: Invalid data found when processing input"
+      }
+    },
+    {
+      "role": "musicDerived",
+      "frozenAsset": "source/music.flac",
+      "bytes": 45747259,
+      "sha256": "090cb58f098dd207eba05c383ecbaa8b78b22105b73a596e16d4a43c91dddcb0",
+      "derivedFrom": "source/music.wav",
+      "derivation": "lossless PCM-to-FLAC conversion; samples preserved at 48000 Hz, 24-bit, stereo",
+      "probe": {
+        "streams": [
+          {
+            "codec_name": "flac",
+            "codec_type": "audio",
+            "sample_rate": "48000",
+            "channels": 2,
+            "bits_per_raw_sample": "24"
+          }
+        ],
+        "format": {
+          "format_name": "flac",
+          "duration": "191.327479"
+        }
+      }
+    },
+    {
+      "role": "backgroundDerived",
+      "frozenAsset": "source/background-trimmed.mp4",
+      "bytes": 228664168,
+      "sha256": "e84e748046aa1576fb5a7f430cda34b41fcb0a8db9a9173c91f7b16d372fa6ec",
+      "derivedFrom": "source/background.mp4",
+      "derivation": "trim first 2854.625 ms using waveform-correlation evidence; mute; normalize to CFR 30 H.264",
+      "probe": {
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "30/1"
+          }
+        ],
+        "format": {
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "duration": "193.866667"
+        }
+      }
+    },
+    {
+      "role": "coverOriginalV2",
+      "frozenAsset": "source/cover-original-v2.png",
+      "bytes": 1213870,
+      "sha256": "297e4a277903f74f741e61960ce8b875a375dd698b520f21aa3cd529861d5e8b",
+      "derivedFrom": "source/background.mp4",
+      "derivation": "frame at 30000 ms, crop 1080x1080 at x=600 y=0 to center the character in the artwork field",
+      "probe": {
+        "streams": [
+          {
+            "codec_name": "png",
+            "codec_type": "video",
+            "width": 1080,
+            "height": 1080
+          }
+        ],
+        "format": {
+          "format_name": "png_pipe"
+        }
+      }
+    },
+    {
+      "role": "coverV2",
+      "frozenAsset": "source/cover-v2.jpg",
+      "bytes": 239474,
+      "sha256": "b500d69d181ac0fbb28a4f667b5d533b840fdbb74e363f943a156e82551dc93e",
+      "derivedFrom": "source/cover-original-v2.png",
+      "derivation": "normalized JPEG copy",
+      "probe": {
+        "streams": [
+          {
+            "codec_name": "mjpeg",
+            "codec_type": "video",
+            "width": 1080,
+            "height": 1080,
+            "bits_per_raw_sample": "8"
+          }
+        ],
+        "format": {
+          "format_name": "image2",
+          "duration": "0.040000"
+        }
+      }
+    }
+  ]
+}

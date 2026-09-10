@@ -1,0 +1,13 @@
+{
+  "userWording": "确认，先试试",
+  "createdAt": "2026-08-17T16:50:31.343332+00:00",
+  "frameSha256": "c585a758714f7f6361fe5734b8f06f8a4103fd355ec6133f47cb4c0c0602b9f7",
+  "sourceAndTemplateSha256": {
+    "source\\background.mp4": "350b6814773cfd0eb84dc44bfb85e9e4a69203b5fed2e1d1023cd738e0deae1f",
+    "source\\music.flac": "bc4bc7a6457211cde26a682177181f646c31963e35c292fe03a6f558d4155bf3",
+    "source\\cover.jpg": "0b588cdb7ecbd16bd59fd966bcc0126c166ca028938c8422aa26a470426ebe5d",
+    "project\\frames.json": "c585a758714f7f6361fe5734b8f06f8a4103fd355ec6133f47cb4c0c0602b9f7",
+    "project\\templates\\foreground.json": "658981d40a1703c9a60d9e0daa1499246469389fe95b444bc6687047aef42264",
+    "project\\templates\\background.json": "b8360827eaae488c2d79420f872512c491ecaf19cbfc9d3a5f13f4cccaa4ef5d"
+  }
+}

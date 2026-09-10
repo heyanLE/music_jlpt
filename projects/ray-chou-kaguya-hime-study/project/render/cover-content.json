@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "slug": "ray-chou-kaguya-hime-study",
+  "title": "ray",
+  "artist": "かぐや＆月見ヤチヨ",
+  "subtitle": "超时空辉夜姬！ED",
+  "subtitleScale": 2.0,
+  "series": "快速学唱",
+  "badge": {
+    "enabled": true,
+    "asset": "../assets/hi-res-audio-logo.png",
+    "scale": 1.44
+  },
+  "benefits": ["歌词同步高亮", "假名注释", "罗马音", "逐词拆解"],
+  "outputs": [
+    {"name": "16x9", "width": 1920, "height": 1080, "artworkFocus": "center"},
+    {"name": "4x3", "width": 1440, "height": 1080, "artworkFocus": "center"}
+  ]
+}

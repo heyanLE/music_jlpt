@@ -1,0 +1,2858 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "translation",
+  "scope": {
+    "frameIds": [
+      "l001",
+      "l002",
+      "l003",
+      "l004",
+      "l005",
+      "l006",
+      "l007",
+      "l008",
+      "l009",
+      "l010",
+      "l011",
+      "l012",
+      "l013",
+      "l014",
+      "l015",
+      "l016",
+      "l017",
+      "l018",
+      "l019",
+      "l020",
+      "l021",
+      "l022",
+      "l023",
+      "l024",
+      "l025",
+      "l026",
+      "l027",
+      "l028",
+      "l029",
+      "l030",
+      "l031",
+      "l032",
+      "l033",
+      "l034",
+      "l035",
+      "l036",
+      "l037",
+      "l038",
+      "l039",
+      "l040",
+      "l041",
+      "l042",
+      "l043",
+      "l044",
+      "l045",
+      "l046",
+      "l047",
+      "l048",
+      "l049",
+      "l050",
+      "l051",
+      "l052",
+      "l053",
+      "l054",
+      "l055",
+      "l056",
+      "l057",
+      "l058",
+      "l059",
+      "l060",
+      "l061",
+      "l062",
+      "l063",
+      "l064"
+    ]
+  },
+  "baseFrameSha256": "47eb9144bdd4aecaa9b2beec76681e3b3907fa31bafb6ca975429cfb1b881b00",
+  "changes": [
+    {
+      "frameId": "l001",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "风",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l001",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "声音",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l001",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "光；光芒",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l001",
+      "field": "grammarCards.5.zhMeaning",
+      "old": "待联网复核",
+      "new": "颗粒；微粒",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l002",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "打盹；浅睡",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l002",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "你",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l002",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "洒下；倾注",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l003",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "不会忘记",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l003",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "温柔的",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l003",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "微笑",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l004",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "悲伤的",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l004",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "将形容词名词化，表示程度或性质",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l004",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "隐藏了；掩藏的",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l004",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "眼眸",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l005",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "祈愿；期望",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l005",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "事情；关于……",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l005",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "痛苦；难受（て形）",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l006",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "勇敢面对；迎战",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l006",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "勇气",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l006",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "你",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l006",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "得到了",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l007",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "是（断定）",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l007",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "去；出发",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l008",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "梦",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l008",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "里面；之中",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l008",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "醒来之后；如果醒来",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l008",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "再次",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l008",
+      "field": "grammarCards.5.zhMeaning",
+      "old": "待联网复核",
+      "new": "能够重逢",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l009",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "遥远的",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l009",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "记忆",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l009",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "心中；胸口",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l009",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "藏在心中",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l009",
+      "field": "grammarCards.5.zhMeaning",
+      "old": "待联网复核",
+      "new": "歌唱",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l010",
+      "field": "caption.translationZh",
+      "old": "只因虚幻摇曳的世界",
+      "new": "虚幻地摇曳着",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l010",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "虚幻地；短暂地",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l010",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "漂荡；摇曳",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l011",
+      "field": "caption.translationZh",
+      "old": "是由你亲自守护的",
+      "new": "因为这个世界曾由你亲手守护",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l011",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "世界",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l011",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "你",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l011",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "手；亲手",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l011",
+      "field": "grammarCards.6.zhMeaning",
+      "old": "待联网复核",
+      "new": "守护了",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l012",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "现在；如今",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l012",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "只是；唯有",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l012",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "翅膀",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l012",
+      "field": "grammarCards.5.zhMeaning",
+      "old": "待联网复核",
+      "new": "折起；收拢（连用形）",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l012",
+      "field": "grammarCards.6.zhMeaning",
+      "old": "待联网复核",
+      "new": "て形的浊音形式，连接后续动作",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l013",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "慢慢地；安稳地",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l013",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "入睡（连用形）",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l013",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "请……；命令表达",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l014",
+      "field": "caption.translationZh",
+      "old": "愿永恒的宁静萦绕着你",
+      "new": "被永恒的安宁包围，爱将穿越永恒",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l014",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "永远；永恒",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l014",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "安宁；平静",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l014",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "被包围；被笼罩",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l015",
+      "field": "caption.translationZh",
+      "old": "我的臂弯会温柔守候你",
+      "new": "温柔地守望着你",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l015",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "温柔地",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l015",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "守望；照看",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l016",
+      "field": "caption.translationZh",
+      "old": "愿你可以好好地安眠",
+      "new": "用我的这双手守护你，安睡吧",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l016",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "我",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l016",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "这个；这双",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l016",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "手；亲手",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l016",
+      "field": "grammarCards.5.zhMeaning",
+      "old": "待联网复核",
+      "new": "入睡（连用形）",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l016",
+      "field": "grammarCards.6.zhMeaning",
+      "old": "待联网复核",
+      "new": "请……；命令表达",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l017",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "曾笑着",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l017",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "哭泣（て形）",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l017",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "曾经在；持续着",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l017",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "曾生气",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l018",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "你",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l018",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "事情；关于……",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l018",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "记得",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l019",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "不会忘记",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l019",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "何时；无论何时",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l019",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "决不；绝对不",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l020",
+      "field": "caption.translationZh",
+      "old": "直至耗尽我的余生都绝不忘记",
+      "new": "直到我的生命耗尽",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l021",
+      "field": "caption.translationZh",
+      "old": "在十字路口传入我耳畔的",
+      "new": "在十字路口传入耳畔的",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l021",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "十字路口",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l021",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "听得见；传入耳中",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l021",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "来到；逐渐出现",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l022",
+      "field": "caption.translationZh",
+      "old": "是与你无比相似的声音",
+      "new": "是与你十分相似的声音",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l022",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "你",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l022",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "很；十分",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l022",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "相似的",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l022",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "声音",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l023",
+      "field": "caption.translationZh",
+      "old": "回首望去 之后便抬头仰望天空",
+      "new": "回过头来，仰望天空",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l023",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "回过头",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l023",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "天空",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l023",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "仰望",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l024",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "洒落；溢出",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l024",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "看起来要……",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l024",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "连接样态表达与名词",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l024",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "眼泪",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l024",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "忍住；克制",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l025",
+      "field": "caption.translationZh",
+      "old": "待到明天 或是未来某天",
+      "new": "明天一定，或终有一天",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l025",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "明天",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l025",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "何时；无论何时",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l025",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "日子；一天",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l026",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "再；又",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l026",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "一次",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l026",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "你",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l026",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "能够重逢",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l026",
+      "field": "grammarCards.6.zhMeaning",
+      "old": "待联网复核",
+      "new": "相信（连用形）",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l027",
+      "field": "caption.translationZh",
+      "old": "孤身一人深陷迷茫",
+      "new": "独自迷惘",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l027",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "独自一人",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l027",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "迷惘；迷失",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l028",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "雨",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l028",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "夜晚",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l028",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "放晴的",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l028",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "早晨",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l028",
+      "field": "grammarCards.5.zhMeaning",
+      "old": "待联网复核",
+      "new": "等待（连用形）",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l028",
+      "field": "grammarCards.6.zhMeaning",
+      "old": "待联网复核",
+      "new": "继续不断地",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l029",
+      "field": "caption.translationZh",
+      "old": "绝不会忘记 在奔跑的那个夜晚",
+      "new": "我不会忘记，那一同奔跑过的夜晚",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l029",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "不会忘记",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l029",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "奔跑穿越过的",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l029",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "夜晚",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l030",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "耀眼地",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l030",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "闪耀",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l030",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "片刻；一段时光",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l031",
+      "field": "caption.translationZh",
+      "old": "曾与大家一同度过",
+      "new": "曾与大家在一起",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l031",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "大家",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l031",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "一起",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l031",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "曾是；曾经处于",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l032",
+      "field": "caption.translationZh",
+      "old": "可是在不知不觉间我便独自度过了",
+      "new": "却不知道那是无可替代的时光",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l032",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "替代；取代",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l032",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "没有；不可……",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l032",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "时候；时光",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l032",
+      "field": "grammarCards.5.zhMeaning",
+      "old": "待联网复核",
+      "new": "不知道；未察觉",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l033",
+      "field": "caption.translationZh",
+      "old": "那个根本无法替代的时刻",
+      "new": "我就这样度过了那些日子",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l033",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "我",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l033",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "度过",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l033",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "曾经在；持续着",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l034",
+      "field": "caption.translationZh",
+      "old": "此刻也只能怀缅往昔的美好",
+      "new": "如今只愿好好珍藏这份回忆",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l034",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "现在；如今",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l034",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "只是；唯有",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l034",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "珍贵；珍重",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l034",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "变为副词用法，表示珍重地",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l034",
+      "field": "grammarCards.5.zhMeaning",
+      "old": "待联网复核",
+      "new": "追忆；怀念",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l034",
+      "field": "grammarCards.6.zhMeaning",
+      "old": "待联网复核",
+      "new": "意愿表达：愿……；要……",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l035",
+      "field": "caption.translationZh",
+      "old": "待审中文翻译",
+      "new": "我会珍藏这份感受",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l036",
+      "field": "caption.translationZh",
+      "old": "你啊 曾经确确实实地",
+      "new": "你啊，那时确实",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l036",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "你",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l036",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "确实；的确",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l036",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "变为副词用法，表示珍重地",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l036",
+      "field": "grammarCards.5.zhMeaning",
+      "old": "待联网复核",
+      "new": "那个",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l036",
+      "field": "grammarCards.6.zhMeaning",
+      "old": "待联网复核",
+      "new": "时候；时光",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l037",
+      "field": "caption.translationZh",
+      "old": "陪伴在我的身旁",
+      "new": "曾在我的身旁",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l037",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "我",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l037",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "身旁",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l037",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "曾经在；持续着",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l038",
+      "field": "caption.translationZh",
+      "old": "不论何时我都可以立马看到",
+      "new": "无论何时，无论何时，无论何时",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l038",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "何时；无论何时",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l038",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "是（断定）",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l038",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "何时；无论何时",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l038",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "是（断定）",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l038",
+      "field": "grammarCards.6.zhMeaning",
+      "old": "待联网复核",
+      "new": "何时；无论何时",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l038",
+      "field": "grammarCards.7.zhMeaning",
+      "old": "待联网复核",
+      "new": "是（断定）",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l039",
+      "field": "caption.translationZh",
+      "old": "你在身旁欢笑的模样",
+      "new": "都在近旁笑着",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l039",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "就在；紧邻",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l039",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "旁边",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l039",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "笑着",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l039",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "曾经在；持续着",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l040",
+      "field": "caption.translationZh",
+      "old": "哪怕历经失去也想重新拥有你",
+      "new": "即使失去，也要重新找回",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l040",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "失去（て形）",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l040",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "重新找回；夺回",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l041",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "你",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l042",
+      "field": "caption.translationZh",
+      "old": "只因虚幻摇曳的世界",
+      "new": "虚幻地摇曳着",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l042",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "虚幻地；短暂地",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l042",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "漂荡；摇曳",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l043",
+      "field": "caption.translationZh",
+      "old": "是由你亲自守护的",
+      "new": "因为这个世界曾由你亲手守护",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l043",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "世界",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l043",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "你",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l043",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "手；亲手",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l043",
+      "field": "grammarCards.6.zhMeaning",
+      "old": "待联网复核",
+      "new": "守护了",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l044",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "现在；如今",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l044",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "只是；唯有",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l044",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "翅膀",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l044",
+      "field": "grammarCards.5.zhMeaning",
+      "old": "待联网复核",
+      "new": "折起；收拢（连用形）",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l044",
+      "field": "grammarCards.6.zhMeaning",
+      "old": "待联网复核",
+      "new": "て形的浊音形式，连接后续动作",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l045",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "慢慢地；安稳地",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l045",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "入睡（连用形）",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l045",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "请……；命令表达",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l046",
+      "field": "caption.translationZh",
+      "old": "愿永恒的宁静萦绕着你",
+      "new": "被永恒的安宁包围，爱将穿越永恒",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l046",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "永远；永恒",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l046",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "安宁；平静",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l046",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "被包围；被笼罩",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l047",
+      "field": "caption.translationZh",
+      "old": "我的臂弯会温柔守候你",
+      "new": "温柔地守望着你",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l047",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "温柔地",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l047",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "守望；照看",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l048",
+      "field": "caption.translationZh",
+      "old": "愿你可以好好地安眠",
+      "new": "用我的这双手守护你，安睡吧",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l048",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "我",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l048",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "这个；这双",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l048",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "手；亲手",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l048",
+      "field": "grammarCards.5.zhMeaning",
+      "old": "待联网复核",
+      "new": "入睡（连用形）",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l048",
+      "field": "grammarCards.6.zhMeaning",
+      "old": "待联网复核",
+      "new": "请……；命令表达",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l049",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "曾笑着",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l049",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "哭泣（て形）",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l049",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "曾经在；持续着",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l049",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "曾生气",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l050",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "你",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l050",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "事情；关于……",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l050",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "记得",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l051",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "不会忘记",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l051",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "何时；无论何时",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l051",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "决不；绝对不",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l052",
+      "field": "caption.translationZh",
+      "old": "直至耗尽我的余生都绝不忘记",
+      "new": "直到我的生命耗尽",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l053",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "耀眼地",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l053",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "闪耀",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l053",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "片刻；一段时光",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l054",
+      "field": "caption.translationZh",
+      "old": "曾与大家一同度过",
+      "new": "曾与大家在一起",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l054",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "大家",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l054",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "一起",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l054",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "曾是；曾经处于",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l055",
+      "field": "caption.translationZh",
+      "old": "可是在不知不觉间我便独自度过了",
+      "new": "却不知道那是无可替代的时光",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l055",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "替代；取代",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l055",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "没有；不可……",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l055",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "时候；时光",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l055",
+      "field": "grammarCards.5.zhMeaning",
+      "old": "待联网复核",
+      "new": "不知道；未察觉",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l056",
+      "field": "caption.translationZh",
+      "old": "那个根本无法替代的时刻",
+      "new": "我就这样度过了那些日子",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l056",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "我",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l056",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "度过",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l056",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "曾经在；持续着",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l057",
+      "field": "caption.translationZh",
+      "old": "此刻也只能怀缅往昔的美好",
+      "new": "如今只愿好好珍藏这份回忆",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l057",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "现在；如今",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l057",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "只是；唯有",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l057",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "珍贵；珍重",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l057",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "变为副词用法，表示珍重地",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l057",
+      "field": "grammarCards.5.zhMeaning",
+      "old": "待联网复核",
+      "new": "追忆；怀念",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l057",
+      "field": "grammarCards.6.zhMeaning",
+      "old": "待联网复核",
+      "new": "意愿表达：愿……；要……",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l058",
+      "field": "caption.translationZh",
+      "old": "待审中文翻译",
+      "new": "我会珍藏这份感受",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l059",
+      "field": "caption.translationZh",
+      "old": "你啊 曾经确确实实地",
+      "new": "你啊，那时确实",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l059",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "你",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l059",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "确实；的确",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l059",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "变为副词用法，表示珍重地",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l059",
+      "field": "grammarCards.5.zhMeaning",
+      "old": "待联网复核",
+      "new": "那个",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l059",
+      "field": "grammarCards.6.zhMeaning",
+      "old": "待联网复核",
+      "new": "时候；时光",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l060",
+      "field": "caption.translationZh",
+      "old": "陪伴在我的身旁",
+      "new": "曾在我的身旁",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l060",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "我",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l060",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "身旁",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l060",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "曾经在；持续着",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l061",
+      "field": "caption.translationZh",
+      "old": "不论何时我都可以立马看到",
+      "new": "无论何时，无论何时，无论何时",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l061",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "何时；无论何时",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l061",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "是（断定）",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l061",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "何时；无论何时",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l061",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "是（断定）",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l061",
+      "field": "grammarCards.6.zhMeaning",
+      "old": "待联网复核",
+      "new": "何时；无论何时",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l061",
+      "field": "grammarCards.7.zhMeaning",
+      "old": "待联网复核",
+      "new": "是（断定）",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l062",
+      "field": "caption.translationZh",
+      "old": "你在身旁欢笑的模样",
+      "new": "都在近旁笑着",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l062",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "就在；紧邻",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l062",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "旁边",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l062",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "笑着",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l062",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "曾经在；持续着",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l063",
+      "field": "caption.translationZh",
+      "old": "哪怕历经失去也想重新拥有你",
+      "new": "即使失去，也要重新找回",
+      "confidence": 0.96,
+      "evidence": [
+        "逐行对照日文歌词，并结合相邻行补全跨行句意；重复段采用相同译法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l063",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "失去（て形）",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l063",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "重新找回；夺回",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l064",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "你",
+      "confidence": 0.94,
+      "evidence": [
+        "依据该词在本句及相邻歌词中的语义与活用形式释义。"
+      ],
+      "changesTokenStructure": false
+    }
+  ]
+}

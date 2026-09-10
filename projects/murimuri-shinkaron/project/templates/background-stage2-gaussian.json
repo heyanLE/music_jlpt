@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "id": "cover-gaussian",
+  "owns": "background-only",
+  "coverFit": "fill-crop-allowed-background-only",
+  "blurRadius": 30,
+  "darkOverlayOpacity": 0.41,
+  "clock": "manifest-alignment-clock"
+}

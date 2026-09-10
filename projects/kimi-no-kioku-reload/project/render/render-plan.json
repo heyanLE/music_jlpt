@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 2,
+  "state": "ready-for-explicitly-authorized-render",
+  "runId": "approved-r3-persistent-countdown-dedup",
+  "authorizationText": "前景不要消失，一直展示，包括前奏；前奏结束前加三秒倒计时；补齐汉字假名并去重同句词卡",
+  "foregroundVariant": "study-current-v3-static-neighbors-a",
+  "entryPoint": "project/render/render_final.py",
+  "rendererSha256": "20ad75c3a860171752a83bee2efb2501113678126d1a800882d02b86367e035c",
+  "backgroundPreset": "custom-five-equal-looped-videos",
+  "sceneCount": 5,
+  "sceneTransition": {
+    "kind": "black-fade",
+    "durationMs": 500,
+    "scope": "background-only"
+  },
+  "layers": [
+    "background",
+    "foreground",
+    "floatingOverlay"
+  ],
+  "spectrum": {
+    "enabled": true,
+    "persistent": true,
+    "transparent": true,
+    "clock": "output"
+  },
+  "audio": {
+    "asset": "source/music.mp3",
+    "codec": "mp3",
+    "sampleRate": 44100,
+    "bitRate": 320000,
+    "operation": "stream-copy",
+    "container": "mp4",
+    "durationMs": 399530,
+    "offsetMs": 0
+  },
+  "outputs": [
+    {
+      "name": "16x9",
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "candidate": "project/work/approved-r3-persistent-countdown-dedup/16x9/kimi-no-kioku-reload--16x9--approved-r3-persistent-countdown-dedup.mp4"
+    }
+  ],
+  "activeHashes": {
+    "frames": "833b4143b013151e2e42593417ff7d09d97a8f084792fd0fff0ed6863fbc1d33",
+    "reviewDecision": "3c39a5d8b108e7814500744a5aff29f9715e48a3c99099b4a388ff21e88955e5",
+    "mergeLog": "65f002db9ec1c0826b5fd2bd5c1155b3a335b6d9b0ab437a17914e72329e0927",
+    "palette": "b13b4bab73503dd4580706ec1025804cffabc11618b02fbdfb87b881769992b0",
+    "presentation": "f59443b0451533bfdf5bf98c4028168aeab10a3b48d528012b2e6746e59183e5",
+    "sceneTimeline": "f1182f77f6b1e480e1d80dfefe14983be9db663993bd1b21ecf273507d7ac729",
+    "foregroundTemplate": "63c805b44a851185c9f83f93fc77ed341318b78e85aed791bf09804d3c885cdc",
+    "overlayTemplate": "94e142f44d067f1a782352065dadbf483c872f2519afc2c734f833b98122f52b"
+  },
+  "content": {
+    "frames": 64,
+    "cards": 295,
+    "layoutValidation": "passed"
+  },
+  "qaRequired": [
+    "probe",
+    "first-last-lyric",
+    "max-cards",
+    "repeat",
+    "gap",
+    "five-scene-transitions",
+    "spectrum-transparency-persistence",
+    "audio-stream-copy"
+  ]
+}

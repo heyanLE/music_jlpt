@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "algorithm": "saturated-cover-pixel-hsv-v1",
+  "cover": "C:\\project\\musicjlpt\\projects\\togenashi-zatou-bokura-no-machi-v2\\source\\cover.jpg",
+  "accent": "#102040",
+  "activeTint": "#3B75EB",
+  "body": "#122447",
+  "cardFill": {
+    "color": "#102040",
+    "alpha": 0.75
+  }
+}

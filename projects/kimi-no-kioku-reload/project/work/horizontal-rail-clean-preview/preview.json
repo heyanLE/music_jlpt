@@ -1,0 +1,17 @@
+{
+  "sourceVideo": "five-scene custom timeline",
+  "sourceAudio": "source/music.mp3",
+  "content": "project/frames.json",
+  "startMs": 0,
+  "endMs": 399530,
+  "fps": 30,
+  "coverRectPx": [
+    850,
+    35,
+    220,
+    220
+  ],
+  "shiftMs": 480,
+  "sentenceGapPx": 56,
+  "renderMethod": "clean-source-composition"
+}

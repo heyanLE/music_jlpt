@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 2,
+  "result": "passed",
+  "candidate": "project/work/final-r01-approved/16x9/mebuku-toki--16x9--final-r01-approved.mkv",
+  "candidateSha256": "4af88a511b13bc16a0bfa947ded58c61c44a03b7f680dc409092f84266d6a02c",
+  "renderReport": "project/work/final-r01-approved/16x9/render-report.json",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "pix_fmt": "yuv420p",
+        "r_frame_rate": "30/1",
+        "bits_per_raw_sample": "8"
+      },
+      {
+        "codec_name": "flac",
+        "codec_type": "audio",
+        "sample_rate": "96000",
+        "r_frame_rate": "0/0",
+        "bits_per_raw_sample": "24"
+      }
+    ],
+    "format": {
+      "duration": "224.633000"
+    }
+  },
+  "screenshots": [
+    {
+      "name": "first-lyric",
+      "timestampMs": 8096,
+      "path": "project/qa/final-r01-approved/first-lyric.png"
+    },
+    {
+      "name": "last-lyric",
+      "timestampMs": 187260,
+      "path": "project/qa/final-r01-approved/last-lyric.png"
+    },
+    {
+      "name": "maximum-cards",
+      "timestampMs": 62508,
+      "path": "project/qa/final-r01-approved/maximum-cards.png"
+    },
+    {
+      "name": "loanword",
+      "timestampMs": 20904,
+      "path": "project/qa/final-r01-approved/loanword.png"
+    },
+    {
+      "name": "transition-official-mv-continuation",
+      "timestampMs": 103057,
+      "path": "project/qa/final-r01-approved/transition-official-mv-continuation.png"
+    },
+    {
+      "name": "follow-gap",
+      "timestampMs": 31701,
+      "path": "project/qa/final-r01-approved/follow-gap.png"
+    },
+    {
+      "name": "persistent-gap",
+      "timestampMs": 31251,
+      "path": "project/qa/final-r01-approved/persistent-gap.png"
+    }
+  ],
+  "clockCorrection": {
+    "reason": "The generic collector samples frame startMs on the music clock; this project has a positive 5327 ms output offset.",
+    "offsetMs": 5327,
+    "status": "corrected-with-output-clock-samples"
+  },
+  "alignedScreenshots": [
+    {
+      "name": "first-lyric-aligned",
+      "timestampMs": 13423,
+      "path": "project/qa/final-r01-approved/first-lyric-aligned.png"
+    },
+    {
+      "name": "last-lyric-aligned",
+      "timestampMs": 192587,
+      "path": "project/qa/final-r01-approved/last-lyric-aligned.png"
+    },
+    {
+      "name": "maximum-cards-aligned",
+      "timestampMs": 179831,
+      "path": "project/qa/final-r01-approved/maximum-cards-aligned.png"
+    },
+    {
+      "name": "loanword-aligned",
+      "timestampMs": 26231,
+      "path": "project/qa/final-r01-approved/loanword-aligned.png"
+    },
+    {
+      "name": "transition-before",
+      "timestampMs": 102857,
+      "path": "project/qa/final-r01-approved/transition-before.png"
+    },
+    {
+      "name": "transition-after",
+      "timestampMs": 103057,
+      "path": "project/qa/final-r01-approved/transition-after.png"
+    },
+    {
+      "name": "final-tail",
+      "timestampMs": 210300,
+      "path": "project/qa/final-r01-approved/final-tail.png"
+    },
+    {
+      "name": "final-post-tail",
+      "timestampMs": 210900,
+      "path": "project/qa/final-r01-approved/final-post-tail.png"
+    }
+  ],
+  "mechanicalChecks": {
+    "authorizationGate": "passed",
+    "frameSha256": "23e9efa719fa5c4c800b16fe9d3775643674c9b4332291f82aa7c4d5716f99e4",
+    "candidateSha256": "4af88a511b13bc16a0bfa947ded58c61c44a03b7f680dc409092f84266d6a02c",
+    "durationMs": 224633,
+    "expectedDurationMs": 224621,
+    "durationDeltaMs": 12,
+    "resolution": "1920x1080",
+    "frameRate": "30/1 CFR",
+    "audio": "FLAC 96000 Hz 24-bit stream copy",
+    "firstAudioPacketPtsMs": 5327,
+    "foregroundMatches": {
+      "full": 34,
+      "adjacentRows": 0,
+      "lineFallback": 0,
+      "unmatched": 0
+    }
+  },
+  "visualInspection": {
+    "inspected": true,
+    "findings": [
+      "Background clips preserve aspect ratio, fill canvas height, remain centered, and use black pillarboxing without cropping.",
+      "The first clip hands off at 102957 ms and the second clip begins from source time 99751 ms; foreground and spectrum remain continuous across the cut.",
+      "Foreground order, cover, kanji-only furigana, token-aligned romaji, Chinese line translation, outlines, and single-row translucent cards match the approved template.",
+      "The loanword source 'speed' appears above スピード; no pure-English lyric row exists in this project, so pure-English timing is not applicable.",
+      "Eight-card and two-line-meaning samples fit without clipping, extra card rows, artificial separators, or colons.",
+      "The transparent spectrum is present during lyric states, blank gaps, and the scene transition, with no opaque background.",
+      "Follow-lyrics gaps hide the learning foreground after tail protection; the final lyric remains through its 500 ms protection and then clears while the spectrum persists."
+    ]
+  },
+  "requiredVisualChecks": [
+    "three-layer order",
+    "background fit and transitions",
+    "foreground gap mode",
+    "annotation anchors",
+    "English timing",
+    "one-row cards and two-line meaning",
+    "transparent persistent spectrum",
+    "final line"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "stage": "delivered",
+  "renderAuthorization": false,
+  "handoff": {
+    "status": "packaged-awaiting-runtime-validation-on-destination",
+    "entryPoint": "project/render/render_video.py",
+    "dependencyManifest": "project/render/renderer-dependencies.json",
+    "contentChanged": false,
+    "finalChanged": false,
+    "nextAction": "Read TRANSFER.md; verify runtime, LFS media and font. Keep current delivered final. Only rebind authorization and render when requested."
+  },
+  "notes": [
+    "Completed input freeze after approved read of the three QQ Music files.",
+    "Layer configuration resolved by configure_layers.py: video-loop-follow; spectrum=off; offsetMs=0.",
+    "Video intro removed at 3064 ms using six consistent audio matches.",
+    "WAV to FLAC 48kHz/24bit conversion passes decoded PCM SHA256 equality.",
+    "Excluded four verified song-title and songwriter metadata rows; retained 42 lyric rows, source QMTS Chinese.",
+    "Two platform covers exported with existing Hi-Res logo.",
+    "Draft_ready: 42 frames and 138 cards; lexical, grammar and translation agents reviewed all content.",
+    "Integration sealed: 69 source changes become 31 field bundles affecting 28 frames; proposal only, pending explicit user content decision.",
+    "Draft annotation spacing repaired in project/render/render_video.py; all 42 current draft layouts checked. Content and render approvals still outstanding.",
+    "User 全部采纳: applied all integrated proposals, protected 42 lines / 136 cards; content approved, final rendering not authorized.",
+    "QA-passed candidate promoted: mystic-light-quest-study--16x9--approved-v1.mkv",
+    "Requested Japanese-only character highlighting implemented and statically verified. 353 Japanese QRC parts are single characters; other rows and approved content unchanged. Existing delivered video preserved; renewed render authorization pending.",
+    "QA-passed candidate promoted: mystic-light-quest-study--16x9--character-v2.mkv"
+  ]
+}

@@ -1,0 +1,740 @@
+{
+  "algorithm": "48-log-spectral-bands-multisegment-ncc",
+  "sampleRate": 16000,
+  "hopMs": 10,
+  "videoTrimStartMs": 16000,
+  "matches": [
+    {
+      "musicStartSec": 0,
+      "windowSec": 8,
+      "matches": [
+        {
+          "videoStartSec": 36.88,
+          "score": 0.72296,
+          "videoMinusMusicSec": 36.88
+        },
+        {
+          "videoStartSec": 17.86,
+          "score": 0.29243,
+          "videoMinusMusicSec": 17.86
+        },
+        {
+          "videoStartSec": 33.34,
+          "score": 0.27422,
+          "videoMinusMusicSec": 33.34
+        },
+        {
+          "videoStartSec": 77.29,
+          "score": 0.25785,
+          "videoMinusMusicSec": 77.29
+        }
+      ]
+    },
+    {
+      "musicStartSec": 3,
+      "windowSec": 8,
+      "matches": [
+        {
+          "videoStartSec": 39.88,
+          "score": 0.86425,
+          "videoMinusMusicSec": 36.88
+        },
+        {
+          "videoStartSec": 115.73,
+          "score": 0.45034,
+          "videoMinusMusicSec": 112.73
+        },
+        {
+          "videoStartSec": 118.22,
+          "score": 0.33569,
+          "videoMinusMusicSec": 115.22
+        },
+        {
+          "videoStartSec": 113.25,
+          "score": 0.26966,
+          "videoMinusMusicSec": 110.25
+        }
+      ]
+    },
+    {
+      "musicStartSec": 8,
+      "windowSec": 8,
+      "matches": [
+        {
+          "videoStartSec": 44.88,
+          "score": 0.95493,
+          "videoMinusMusicSec": 36.88
+        },
+        {
+          "videoStartSec": 120.73,
+          "score": 0.41937,
+          "videoMinusMusicSec": 112.73
+        },
+        {
+          "videoStartSec": 72.18,
+          "score": 0.22774,
+          "videoMinusMusicSec": 64.18
+        },
+        {
+          "videoStartSec": 14.27,
+          "score": 0.21736,
+          "videoMinusMusicSec": 6.27
+        }
+      ]
+    },
+    {
+      "musicStartSec": 15,
+      "windowSec": 8,
+      "matches": [
+        {
+          "videoStartSec": 51.88,
+          "score": 0.94862,
+          "videoMinusMusicSec": 36.88
+        },
+        {
+          "videoStartSec": 54.05,
+          "score": 0.33566,
+          "videoMinusMusicSec": 39.05
+        },
+        {
+          "videoStartSec": 61.83,
+          "score": 0.25117,
+          "videoMinusMusicSec": 46.83
+        },
+        {
+          "videoStartSec": 5.41,
+          "score": 0.23689,
+          "videoMinusMusicSec": -9.59
+        }
+      ]
+    },
+    {
+      "musicStartSec": 25,
+      "windowSec": 8,
+      "matches": [
+        {
+          "videoStartSec": 61.88,
+          "score": 0.779,
+          "videoMinusMusicSec": 36.88
+        },
+        {
+          "videoStartSec": 51.92,
+          "score": 0.35916,
+          "videoMinusMusicSec": 26.92
+        },
+        {
+          "videoStartSec": 130.86,
+          "score": 0.16404,
+          "videoMinusMusicSec": 105.86
+        },
+        {
+          "videoStartSec": 54.1,
+          "score": 0.13119,
+          "videoMinusMusicSec": 29.1
+        }
+      ]
+    },
+    {
+      "musicStartSec": 40,
+      "windowSec": 8,
+      "matches": [
+        {
+          "videoStartSec": 76.88,
+          "score": 0.83574,
+          "videoMinusMusicSec": 36.88
+        },
+        {
+          "videoStartSec": 74.4,
+          "score": 0.38852,
+          "videoMinusMusicSec": 34.4
+        },
+        {
+          "videoStartSec": 71.93,
+          "score": 0.28775,
+          "videoMinusMusicSec": 31.93
+        },
+        {
+          "videoStartSec": 49.21,
+          "score": 0.28417,
+          "videoMinusMusicSec": 9.21
+        }
+      ]
+    },
+    {
+      "musicStartSec": 55,
+      "windowSec": 8,
+      "matches": [
+        {
+          "videoStartSec": 91.88,
+          "score": 0.77076,
+          "videoMinusMusicSec": 36.88
+        },
+        {
+          "videoStartSec": 101.82,
+          "score": 0.22946,
+          "videoMinusMusicSec": 46.82
+        },
+        {
+          "videoStartSec": 106.8,
+          "score": 0.15261,
+          "videoMinusMusicSec": 51.8
+        },
+        {
+          "videoStartSec": 96.85,
+          "score": 0.14759,
+          "videoMinusMusicSec": 41.85
+        }
+      ]
+    },
+    {
+      "musicStartSec": 70,
+      "windowSec": 8,
+      "matches": [
+        {
+          "videoStartSec": 106.88,
+          "score": 0.83177,
+          "videoMinusMusicSec": 36.88
+        },
+        {
+          "videoStartSec": 101.9,
+          "score": 0.18481,
+          "videoMinusMusicSec": 31.9
+        },
+        {
+          "videoStartSec": 91.95,
+          "score": 0.15525,
+          "videoMinusMusicSec": 21.95
+        },
+        {
+          "videoStartSec": 96.93,
+          "score": 0.11473,
+          "videoMinusMusicSec": 26.93
+        }
+      ]
+    },
+    {
+      "musicStartSec": 85,
+      "windowSec": 8,
+      "matches": [
+        {
+          "videoStartSec": 47.26,
+          "score": 0.29122,
+          "videoMinusMusicSec": -37.74
+        },
+        {
+          "videoStartSec": 5.47,
+          "score": 0.15533,
+          "videoMinusMusicSec": -79.53
+        },
+        {
+          "videoStartSec": 121.87,
+          "score": 0.14953,
+          "videoMinusMusicSec": 36.87
+        },
+        {
+          "videoStartSec": 128.89,
+          "score": 0.13456,
+          "videoMinusMusicSec": 43.89
+        }
+      ]
+    },
+    {
+      "musicStartSec": 100,
+      "windowSec": 8,
+      "matches": [
+        {
+          "videoStartSec": 62.27,
+          "score": 0.36274,
+          "videoMinusMusicSec": -37.73
+        },
+        {
+          "videoStartSec": 52.31,
+          "score": 0.23211,
+          "videoMinusMusicSec": -47.69
+        },
+        {
+          "videoStartSec": 79.67,
+          "score": 0.12956,
+          "videoMinusMusicSec": -20.33
+        },
+        {
+          "videoStartSec": 132.23,
+          "score": 0.12424,
+          "videoMinusMusicSec": 32.23
+        }
+      ]
+    },
+    {
+      "musicStartSec": 115,
+      "windowSec": 8,
+      "matches": [
+        {
+          "videoStartSec": 77.27,
+          "score": 0.31582,
+          "videoMinusMusicSec": -37.73
+        },
+        {
+          "videoStartSec": 74.21,
+          "score": 0.19423,
+          "videoMinusMusicSec": -40.79
+        },
+        {
+          "videoStartSec": 82.56,
+          "score": 0.13616,
+          "videoMinusMusicSec": -32.44
+        },
+        {
+          "videoStartSec": 48.36,
+          "score": 0.12181,
+          "videoMinusMusicSec": -66.64
+        }
+      ]
+    },
+    {
+      "musicStartSec": 135,
+      "windowSec": 8,
+      "matches": [
+        {
+          "videoStartSec": 97.26,
+          "score": 0.43166,
+          "videoMinusMusicSec": -37.74
+        },
+        {
+          "videoStartSec": 92.29,
+          "score": 0.18132,
+          "videoMinusMusicSec": -42.71
+        },
+        {
+          "videoStartSec": 87.32,
+          "score": 0.13906,
+          "videoMinusMusicSec": -47.68
+        },
+        {
+          "videoStartSec": 32.92,
+          "score": 0.12969,
+          "videoMinusMusicSec": -102.08
+        }
+      ]
+    },
+    {
+      "musicStartSec": 160,
+      "windowSec": 8,
+      "matches": [
+        {
+          "videoStartSec": 70.1,
+          "score": 0.41355,
+          "videoMinusMusicSec": -89.9
+        },
+        {
+          "videoStartSec": 72.47,
+          "score": 0.40773,
+          "videoMinusMusicSec": -87.53
+        },
+        {
+          "videoStartSec": 67.87,
+          "score": 0.31657,
+          "videoMinusMusicSec": -92.13
+        },
+        {
+          "videoStartSec": 46.41,
+          "score": 0.29477,
+          "videoMinusMusicSec": -113.59
+        }
+      ]
+    },
+    {
+      "musicStartSec": 185,
+      "windowSec": 8,
+      "matches": [
+        {
+          "videoStartSec": 92.55,
+          "score": 0.34218,
+          "videoMinusMusicSec": -92.45
+        },
+        {
+          "videoStartSec": 38.46,
+          "score": 0.20876,
+          "videoMinusMusicSec": -146.54
+        },
+        {
+          "videoStartSec": 34.85,
+          "score": 0.16851,
+          "videoMinusMusicSec": -150.15
+        },
+        {
+          "videoStartSec": 126.95,
+          "score": 0.16355,
+          "videoMinusMusicSec": -58.05
+        }
+      ]
+    },
+    {
+      "musicStartSec": 205,
+      "windowSec": 8,
+      "matches": [
+        {
+          "videoStartSec": 112.55,
+          "score": 0.35384,
+          "videoMinusMusicSec": -92.45
+        },
+        {
+          "videoStartSec": 36.7,
+          "score": 0.20275,
+          "videoMinusMusicSec": -168.3
+        },
+        {
+          "videoStartSec": 115.04,
+          "score": 0.19087,
+          "videoMinusMusicSec": -89.96
+        },
+        {
+          "videoStartSec": 39.18,
+          "score": 0.18688,
+          "videoMinusMusicSec": -165.82
+        }
+      ]
+    }
+  ],
+  "finePcmMatches": [
+    {
+      "musicStartSec": 8,
+      "offsetSec": 36.877063,
+      "pcmCorrelation": 0.91363
+    },
+    {
+      "musicStartSec": 15,
+      "offsetSec": 36.877187,
+      "pcmCorrelation": 0.89192
+    },
+    {
+      "musicStartSec": 40,
+      "offsetSec": 36.877125,
+      "pcmCorrelation": 0.39955
+    },
+    {
+      "musicStartSec": 55,
+      "offsetSec": 36.877188,
+      "pcmCorrelation": 0.61852
+    },
+    {
+      "musicStartSec": 70,
+      "offsetSec": 36.877188,
+      "pcmCorrelation": 0.76611
+    }
+  ],
+  "rmsWindowMs": 100,
+  "musicRmsDb": [
+    -200.0,
+    -200.0,
+    -200.0,
+    -84.13,
+    -57.26,
+    -37.87,
+    -28.66,
+    -26.62,
+    -25.99,
+    -25.38,
+    -25.79,
+    -24.59,
+    -23.82,
+    -13.8,
+    -15.4,
+    -17.31,
+    -14.62,
+    -14.68,
+    -17.2,
+    -14.63,
+    -14.03,
+    -16.23,
+    -13.95,
+    -13.81,
+    -16.14,
+    -6.81,
+    -6.83,
+    -6.79,
+    -6.67,
+    -7.34,
+    -7.77,
+    -5.53,
+    -6.11,
+    -5.97,
+    -7.89,
+    -7.39,
+    -6.01,
+    -7.03,
+    -7.46,
+    -6.04,
+    -6.82,
+    -5.77,
+    -8.5,
+    -6.58,
+    -5.69,
+    -6.33,
+    -6.87,
+    -5.95,
+    -6.53,
+    -5.22,
+    -5.7,
+    -7.11,
+    -6.84,
+    -6.22,
+    -8.31,
+    -7.8,
+    -4.7,
+    -6.65,
+    -5.97,
+    -7.84,
+    -8.58,
+    -5.71,
+    -7.94,
+    -7.98,
+    -5.28,
+    -6.54,
+    -6.07,
+    -7.78,
+    -7.97,
+    -5.56,
+    -6.52,
+    -5.48,
+    -6.17,
+    -5.53,
+    -5.72,
+    -5.97,
+    -6.7,
+    -6.79,
+    -6.15,
+    -8.67,
+    -6.65,
+    -5.44,
+    -8.16,
+    -6.59,
+    -7.96,
+    -8.43,
+    -5.9,
+    -7.15,
+    -7.51,
+    -5.31,
+    -7.06,
+    -7.84,
+    -8.06,
+    -7.49,
+    -5.8,
+    -6.43,
+    -7.5,
+    -5.68,
+    -5.7,
+    -6.72,
+    -5.85,
+    -7.28,
+    -7.57,
+    -6.19,
+    -6.83,
+    -6.66,
+    -5.44,
+    -7.44,
+    -6.26,
+    -5.84,
+    -8.02,
+    -5.87,
+    -6.34,
+    -7.77,
+    -6.44,
+    -6.72,
+    -7.76,
+    -6.49,
+    -7.41,
+    -6.01,
+    -5.94,
+    -7.91,
+    -6.25,
+    -6.55,
+    -7.96,
+    -8.78,
+    -12.81,
+    -12.91,
+    -12.8,
+    -12.71,
+    -13.77,
+    -12.51,
+    -13.54,
+    -12.59,
+    -13.78,
+    -18.15,
+    -13.43,
+    -14.12,
+    -19.06,
+    -13.14,
+    -12.64,
+    -13.46,
+    -12.32,
+    -12.75,
+    -17.29,
+    -14.06,
+    -12.24,
+    -12.65,
+    -12.63,
+    -8.76
+  ],
+  "videoRmsDb": [
+    -47.75,
+    -48.1,
+    -47.63,
+    -47.13,
+    -48.31,
+    -50.45,
+    -48.54,
+    -49.13,
+    -49.76,
+    -49.29,
+    -46.5,
+    -12.24,
+    -11.43,
+    -18.77,
+    -33.16,
+    -33.93,
+    -40.6,
+    -48.03,
+    -40.26,
+    -13.88,
+    -10.8,
+    -8.3,
+    -18.2,
+    -19.61,
+    -36.95,
+    -18.61,
+    -13.86,
+    -35.21,
+    -16.37,
+    -12.61,
+    -8.52,
+    -10.7,
+    -12.85,
+    -17.8,
+    -19.93,
+    -27.03,
+    -15.7,
+    -40.89,
+    -16.0,
+    -19.87,
+    -18.26,
+    -13.23,
+    -15.93,
+    -29.16,
+    -35.31,
+    -51.02,
+    -28.95,
+    -13.3,
+    -11.85,
+    -9.53,
+    -7.23,
+    -8.06,
+    -9.93,
+    -34.4,
+    -44.18,
+    -47.19,
+    -52.11,
+    -49.53,
+    -51.04,
+    -53.19,
+    -39.88,
+    -39.18,
+    -48.11,
+    -40.85,
+    -53.99,
+    -48.45,
+    -50.65,
+    -50.11,
+    -49.83,
+    -51.33,
+    -49.38,
+    -50.19,
+    -53.12,
+    -26.22,
+    -19.21,
+    -23.57,
+    -37.48,
+    -46.4,
+    -53.95,
+    -51.71,
+    -52.19,
+    -53.42,
+    -51.29,
+    -52.41,
+    -52.13,
+    -52.59,
+    -53.01,
+    -51.65,
+    -19.24,
+    -16.5,
+    -20.89,
+    -29.24,
+    -38.23,
+    -55.59,
+    -53.5,
+    -52.6,
+    -52.77,
+    -54.82,
+    -33.99,
+    -16.62,
+    -21.94,
+    -22.36,
+    -17.01,
+    -14.01,
+    -20.95,
+    -24.0,
+    -37.27,
+    -29.51,
+    -15.12,
+    -10.03,
+    -21.24,
+    -19.1,
+    -32.62,
+    -23.65,
+    -23.1,
+    -18.36,
+    -18.95,
+    -52.67,
+    -52.09,
+    -24.04,
+    -24.41,
+    -21.54,
+    -22.47,
+    -26.46,
+    -22.86,
+    -19.58,
+    -19.2,
+    -21.54,
+    -18.18,
+    -24.94,
+    -52.73,
+    -53.29,
+    -51.91,
+    -54.8,
+    -52.86,
+    -55.2,
+    -51.06,
+    -52.04,
+    -52.52,
+    -52.7,
+    -54.72,
+    -53.29,
+    -52.88,
+    -53.63,
+    -51.03,
+    -52.2,
+    -50.34,
+    -45.45,
+    -40.3,
+    -39.27,
+    -37.63,
+    -37.06,
+    -38.72,
+    -37.82,
+    -37.07,
+    -37.19,
+    -38.04,
+    -36.21,
+    -34.82,
+    -35.04
+  ]
+}

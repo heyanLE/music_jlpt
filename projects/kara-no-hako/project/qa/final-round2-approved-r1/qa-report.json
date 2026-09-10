@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 2,
+  "result": "passed",
+  "candidate": "project/work/round2-approved-r1/16x9/kara-no-hako--16x9--round2-approved-r1.mkv",
+  "candidateSha256": "3d7dd8b0922acbc57c8df2d244d2ee7f4671b53a0323947757ff9b9ecef4d70d",
+  "renderReport": "project/work/round2-approved-r1/16x9/render-report.json",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "pix_fmt": "yuv420p",
+        "r_frame_rate": "30/1",
+        "bits_per_raw_sample": "8"
+      },
+      {
+        "codec_name": "flac",
+        "codec_type": "audio",
+        "sample_rate": "48000",
+        "r_frame_rate": "0/0",
+        "bits_per_raw_sample": "24"
+      }
+    ],
+    "format": {
+      "duration": "183.844000"
+    }
+  },
+  "screenshots": [
+    {
+      "name": "first-lyric",
+      "timestampMs": 671,
+      "path": "project/qa/final-round2-approved-r1/first-lyric.png"
+    },
+    {
+      "name": "last-lyric",
+      "timestampMs": 174602,
+      "path": "project/qa/final-round2-approved-r1/last-lyric.png"
+    },
+    {
+      "name": "maximum-cards",
+      "timestampMs": 151773,
+      "path": "project/qa/final-round2-approved-r1/maximum-cards.png"
+    },
+    {
+      "name": "transition-stage2-cover-gaussian",
+      "timestampMs": 96214,
+      "path": "project/qa/final-round2-approved-r1/transition-stage2-cover-gaussian.png"
+    },
+    {
+      "name": "follow-gap",
+      "timestampMs": 39264,
+      "path": "project/qa/final-round2-approved-r1/follow-gap.png"
+    },
+    {
+      "name": "persistent-gap",
+      "timestampMs": 110500,
+      "path": "project/qa/final-round2-approved-r1/persistent-gap-actual.png",
+      "note": "Corrected to a neutral segment after the persistent-mode scene begins."
+    },
+    {
+      "name": "transition-before",
+      "timestampMs": 95900,
+      "path": "project/qa/final-round2-approved-r1/transition-before.png"
+    },
+    {
+      "name": "transition-mid",
+      "timestampMs": 96114,
+      "path": "project/qa/final-round2-approved-r1/transition-mid.png"
+    },
+    {
+      "name": "transition-after",
+      "timestampMs": 96400,
+      "path": "project/qa/final-round2-approved-r1/transition-after.png"
+    },
+    {
+      "name": "persistent-gap-actual",
+      "timestampMs": 110500,
+      "path": "project/qa/final-round2-approved-r1/persistent-gap-actual.png"
+    },
+    {
+      "name": "long-persistent-gap",
+      "timestampMs": 130000,
+      "path": "project/qa/final-round2-approved-r1/long-persistent-gap.png"
+    },
+    {
+      "name": "final-retained",
+      "timestampMs": 180000,
+      "path": "project/qa/final-round2-approved-r1/final-retained.png"
+    },
+    {
+      "name": "l009",
+      "timestampMs": 28200,
+      "path": "project/qa/final-round2-approved-r1/l009.png"
+    },
+    {
+      "name": "l029",
+      "timestampMs": 99000,
+      "path": "project/qa/final-round2-approved-r1/l029.png"
+    },
+    {
+      "name": "l031",
+      "timestampMs": 106000,
+      "path": "project/qa/final-round2-approved-r1/l031.png"
+    },
+    {
+      "name": "l035",
+      "timestampMs": 121000,
+      "path": "project/qa/final-round2-approved-r1/l035.png"
+    },
+    {
+      "name": "spectrum-motion-01",
+      "timestampMs": 10000,
+      "path": "project/qa/final-round2-approved-r1/spectrum-motion-01.png"
+    },
+    {
+      "name": "spectrum-motion-02",
+      "timestampMs": 10033,
+      "path": "project/qa/final-round2-approved-r1/spectrum-motion-02.png"
+    }
+  ],
+  "requiredVisualChecks": [
+    "three-layer order",
+    "background fit and transitions",
+    "foreground gap mode",
+    "annotation anchors",
+    "English timing",
+    "one-row cards and two-line meaning",
+    "transparent persistent spectrum",
+    "final line"
+  ],
+  "reviewedAt": "2026-09-04",
+  "qaScope": "authorized round2-approved-r1 16x9 final candidate",
+  "technicalFindings": {
+    "container": "Matroska",
+    "durationMs": 183844,
+    "video": "H.264 1920x1080 yuv420p CFR 30/1, starts at 0",
+    "audio": "FLAC 48000 Hz 24-bit, starts at 0, stream-copy",
+    "sourceAudioPacketSha256": "4f44bd10deb164fd37dba13e7b65830fbf7c44a1a6f3202bcc0b10f4ac208d64",
+    "candidateAudioPacketSha256": "4f44bd10deb164fd37dba13e7b65830fbf7c44a1a6f3202bcc0b10f4ac208d64",
+    "audioPacketsBitIdentical": true,
+    "foregroundTimeline": {
+      "full": 45,
+      "adjacentRows": 0,
+      "lineFallback": 0,
+      "unmatched": 0,
+      "blankSegments": 3,
+      "neutralSegments": 26,
+      "activeSegments": 481
+    },
+    "customRendererGate": "PASS; project/render/render_next_line_video.py bound by render-authorization.json and dependency pins"
+  },
+  "visualFindings": {
+    "threeLayerOrder": "Passed: source video/Gaussian background, complete study foreground, and bottom transparent spectrum are ordered correctly.",
+    "backgroundFitAndTransition": "Passed: video fills 1920x1080 without crop; 95.900 s video, 96.114 s black midpoint, and 96.400 s Gaussian samples show a background-only fade.",
+    "foregroundTransitionPersistence": "Passed: cover, next-line preview, current lyric, cards, and spectrum remain visible at the black transition midpoint.",
+    "followLyricsGap": "Passed at 39.264 s: no lyric/cover/card foreground, source video remains visible, spectrum continues.",
+    "persistentGaps": "Passed at 110.500 s and 130.000 s: the prior complete line remains visible with its next-line preview; spectrum continues.",
+    "finalLine": "Passed at lyric start and 180.000 s: final l045 remains through output end; next-line preview is hidden after the final line.",
+    "annotations": "Passed on first, l029, l031, maximum-card, and final samples: hiragana appears only over kanji runs, including 下手=へた and 明日=あした; literal kana is not duplicated.",
+    "romaji": "Passed: anchored under corresponding learning chunks; l029 and l035 resegmentation has no collision; next-line romaji uses the same reviewed chunks.",
+    "cards": "Passed: one translucent horizontal row, no active highlighting, no colon prefixes; 6-card maximum and two resegmented lines fit without clipping; meanings stay within two lines.",
+    "spectrum": "Passed: no opaque background; persists through lyric gaps and scene fade. Consecutive 10.000/10.033 s frames differ in 44,634 pixels, confirming animation.",
+    "englishAndLoanwordRules": "Not applicable: no pure/mixed English lyric rows and no confirmed loanword; コタエ/カタチ are Japanese words in katakana and correctly have no sourceWord."
+  },
+  "sourceTranslations": "Supplied QQ full-line Chinese retained as authorized; seven separate source-translation suggestions remain unaccepted.",
+  "promotionReady": true
+}

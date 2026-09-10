@@ -1,0 +1,586 @@
+{
+  "schemaVersion": 1,
+  "audioOffsetMs": 0,
+  "matches": [
+    {
+      "frameId": "l001",
+      "mode": "full",
+      "qrcStartMs": 1124,
+      "qrcText": "(ムリムリ)"
+    },
+    {
+      "frameId": "l002",
+      "mode": "full",
+      "qrcStartMs": 1843,
+      "qrcText": "ひとよひとよに人見知り"
+    },
+    {
+      "frameId": "l003",
+      "mode": "full",
+      "qrcStartMs": 3798,
+      "qrcText": "(ムリムリ)"
+    },
+    {
+      "frameId": "l004",
+      "mode": "full",
+      "qrcStartMs": 4406,
+      "qrcText": "ふたり以上での立ち回り？"
+    },
+    {
+      "frameId": "l005",
+      "mode": "full",
+      "qrcStartMs": 6406,
+      "qrcText": "(ムリムリ)"
+    },
+    {
+      "frameId": "l006",
+      "mode": "full",
+      "qrcStartMs": 7126,
+      "qrcText": "みつめられても"
+    },
+    {
+      "frameId": "l007",
+      "mode": "full",
+      "qrcStartMs": 8118,
+      "qrcText": "なんにも出ないですよ？"
+    },
+    {
+      "frameId": "l008",
+      "mode": "full",
+      "qrcStartMs": 9117,
+      "qrcText": "(ムリムリ)"
+    },
+    {
+      "frameId": "l009",
+      "mode": "full",
+      "qrcStartMs": 9781,
+      "qrcText": "ようこそ「ここ」へ"
+    },
+    {
+      "frameId": "l010",
+      "mode": "full",
+      "qrcStartMs": 10678,
+      "qrcText": "ウェルカムトゥ陰サイ"
+    },
+    {
+      "frameId": "l011",
+      "mode": "full",
+      "qrcStartMs": 22119,
+      "qrcText": "ア ア ア アノォ"
+    },
+    {
+      "frameId": "l012",
+      "mode": "full",
+      "qrcStartMs": 23169,
+      "qrcText": "最近このへんで「光」って見ました？"
+    },
+    {
+      "frameId": "l013",
+      "mode": "full",
+      "qrcStartMs": 25001,
+      "qrcText": "エエト それ目指して"
+    },
+    {
+      "frameId": "l014",
+      "mode": "full",
+      "qrcStartMs": 26128,
+      "qrcText": "歩き出してきたんです確か"
+    },
+    {
+      "frameId": "l015",
+      "mode": "full",
+      "qrcStartMs": 27736,
+      "qrcText": "そう 超絶進化の充実生活"
+    },
+    {
+      "frameId": "l016",
+      "mode": "full",
+      "qrcStartMs": 29425,
+      "qrcText": "この手につかむ"
+    },
+    {
+      "frameId": "l017",
+      "mode": "full",
+      "qrcStartMs": 30490,
+      "qrcText": "とかいって いま急にはじまったら？"
+    },
+    {
+      "frameId": "l018",
+      "mode": "full",
+      "qrcStartMs": 32155,
+      "qrcText": "(アァワワワワワワワァ)"
+    },
+    {
+      "frameId": "l019",
+      "mode": "full",
+      "qrcStartMs": 33621,
+      "qrcText": "万年補欠の完成形 てか"
+    },
+    {
+      "frameId": "l020",
+      "mode": "full",
+      "qrcStartMs": 35973,
+      "qrcText": "毎分毎秒マイマインドに反省点"
+    },
+    {
+      "frameId": "l021",
+      "mode": "full",
+      "qrcStartMs": 38465,
+      "qrcText": "ぎこちない体作るキャラが"
+    },
+    {
+      "frameId": "l022",
+      "mode": "full",
+      "qrcStartMs": 40002,
+      "qrcText": "ミスマッチだからだ"
+    },
+    {
+      "frameId": "l023",
+      "mode": "full",
+      "qrcStartMs": 41369,
+      "qrcText": "でもキミの前では"
+    },
+    {
+      "frameId": "l024",
+      "mode": "full",
+      "qrcStartMs": 42587,
+      "qrcText": "なんかナチュラル"
+    },
+    {
+      "frameId": "l025",
+      "mode": "full",
+      "qrcStartMs": 43756,
+      "qrcText": "チョ ちょっとまってそのワード"
+    },
+    {
+      "frameId": "l026",
+      "mode": "full",
+      "qrcStartMs": 46115,
+      "qrcText": "同じセカイに行きたいんだキミと"
+    },
+    {
+      "frameId": "l027",
+      "mode": "full",
+      "qrcStartMs": 49260,
+      "qrcText": "陰サイ陽サイ巻き込んだ"
+    },
+    {
+      "frameId": "l028",
+      "mode": "full",
+      "qrcStartMs": 50580,
+      "qrcText": "運命の大革命"
+    },
+    {
+      "frameId": "l029",
+      "mode": "full",
+      "qrcStartMs": 53522,
+      "qrcText": "こんなわたしじゃ"
+    },
+    {
+      "frameId": "l030",
+      "mode": "full",
+      "qrcStartMs": 54582,
+      "qrcText": "ムリムリ ムリムリ なんて"
+    },
+    {
+      "frameId": "l031",
+      "mode": "full",
+      "qrcStartMs": 57097,
+      "qrcText": "逃げるには長すぎるワンデイ"
+    },
+    {
+      "frameId": "l032",
+      "mode": "full",
+      "qrcStartMs": 60013,
+      "qrcText": "陰むしたキモチが"
+    },
+    {
+      "frameId": "l033",
+      "mode": "full",
+      "qrcStartMs": 61341,
+      "qrcText": "太陽へ伸びちゃって"
+    },
+    {
+      "frameId": "l034",
+      "mode": "full",
+      "qrcStartMs": 62656,
+      "qrcText": "トキメキ諦めるとか (ムリムリ)"
+    },
+    {
+      "frameId": "l035",
+      "mode": "full",
+      "qrcStartMs": 65279,
+      "qrcText": "ムリくり振りまいたキラキラ"
+    },
+    {
+      "frameId": "l036",
+      "mode": "full",
+      "qrcStartMs": 67860,
+      "qrcText": "キミに気づかれるかもだとか"
+    },
+    {
+      "frameId": "l037",
+      "mode": "full",
+      "qrcStartMs": 70653,
+      "qrcText": "巡らせるハートは"
+    },
+    {
+      "frameId": "l038",
+      "mode": "full",
+      "qrcStartMs": 71770,
+      "qrcText": "キミに近づきたい"
+    },
+    {
+      "frameId": "l039",
+      "mode": "full",
+      "qrcStartMs": 74340,
+      "qrcText": "アワナビア陽サイ"
+    },
+    {
+      "frameId": "l040",
+      "mode": "full",
+      "qrcStartMs": 75452,
+      "qrcText": "(ムリムリ)"
+    },
+    {
+      "frameId": "l041",
+      "mode": "full",
+      "qrcStartMs": 76140,
+      "qrcText": "ひとよひとよを瞳でキャッチ"
+    },
+    {
+      "frameId": "l042",
+      "mode": "full",
+      "qrcStartMs": 78075,
+      "qrcText": "(ムリムリ)"
+    },
+    {
+      "frameId": "l043",
+      "mode": "full",
+      "qrcStartMs": 78788,
+      "qrcText": "ふたり以上でも大歓迎"
+    },
+    {
+      "frameId": "l044",
+      "mode": "full",
+      "qrcStartMs": 80683,
+      "qrcText": "(ムリムリ)"
+    },
+    {
+      "frameId": "l045",
+      "mode": "full",
+      "qrcStartMs": 81387,
+      "qrcText": "みつめられたら照れちゃうなぁ"
+    },
+    {
+      "frameId": "l046",
+      "mode": "full",
+      "qrcStartMs": 83332,
+      "qrcText": "(ムリムリ)"
+    },
+    {
+      "frameId": "l047",
+      "mode": "full",
+      "qrcStartMs": 83948,
+      "qrcText": "キミのもと進め 光のさす方"
+    },
+    {
+      "frameId": "l048",
+      "mode": "full",
+      "qrcStartMs": 100032,
+      "qrcText": "あぁ やっぱムリかも"
+    },
+    {
+      "frameId": "l049",
+      "mode": "full",
+      "qrcStartMs": 102686,
+      "qrcText": "頑張ったフリだもん"
+    },
+    {
+      "frameId": "l050",
+      "mode": "full",
+      "qrcStartMs": 104723,
+      "qrcText": "そんじゃまた再起動して"
+    },
+    {
+      "frameId": "l051",
+      "mode": "full",
+      "qrcStartMs": 106431,
+      "qrcText": "さらば一同"
+    },
+    {
+      "frameId": "l052",
+      "mode": "full",
+      "qrcStartMs": 107319,
+      "qrcText": "とか内心ゆーてる間に"
+    },
+    {
+      "frameId": "l053",
+      "mode": "full",
+      "qrcStartMs": 108943,
+      "qrcText": "あばばばばば"
+    },
+    {
+      "frameId": "l054",
+      "mode": "full",
+      "qrcStartMs": 110208,
+      "qrcText": "愛嬌あれば苦労しない"
+    },
+    {
+      "frameId": "l055",
+      "mode": "full",
+      "qrcStartMs": 111568,
+      "qrcText": "流行りのトークにゃご縁がない"
+    },
+    {
+      "frameId": "l056",
+      "mode": "full",
+      "qrcStartMs": 112953,
+      "qrcText": "勇気がない 言葉が出ない"
+    },
+    {
+      "frameId": "l057",
+      "mode": "full",
+      "qrcStartMs": 114208,
+      "qrcText": "みんなの普通は普通じゃない"
+    },
+    {
+      "frameId": "l058",
+      "mode": "full",
+      "qrcStartMs": 115407,
+      "qrcText": "でも"
+    },
+    {
+      "frameId": "l059",
+      "mode": "full",
+      "qrcStartMs": 115720,
+      "qrcText": "キミの世界に映り込んでみたい"
+    },
+    {
+      "frameId": "l060",
+      "mode": "full",
+      "qrcStartMs": 116792,
+      "qrcText": "この気持ち多分嘘じゃない"
+    },
+    {
+      "frameId": "l061",
+      "mode": "full",
+      "qrcStartMs": 117992,
+      "qrcText": "でもでもやっぱ無理です怖いです"
+    },
+    {
+      "frameId": "l062",
+      "mode": "full",
+      "qrcStartMs": 119384,
+      "qrcText": "でもでもでも"
+    },
+    {
+      "frameId": "l063",
+      "mode": "full",
+      "qrcStartMs": 120140,
+      "qrcText": "やっぱ諦めきれないです"
+    },
+    {
+      "frameId": "l064",
+      "mode": "full",
+      "qrcStartMs": 123400,
+      "qrcText": "陰ってばっかなこの心"
+    },
+    {
+      "frameId": "l065",
+      "mode": "full",
+      "qrcStartMs": 125727,
+      "qrcText": "そんな自分に"
+    },
+    {
+      "frameId": "l066",
+      "mode": "full",
+      "qrcStartMs": 126895,
+      "qrcText": "飽いていたんだずっと"
+    },
+    {
+      "frameId": "l067",
+      "mode": "full",
+      "qrcStartMs": 128843,
+      "qrcText": "陰サイ陽サイ飛び越えた"
+    },
+    {
+      "frameId": "l068",
+      "mode": "full",
+      "qrcStartMs": 130243,
+      "qrcText": "わたしの進化論"
+    },
+    {
+      "frameId": "l069",
+      "mode": "full",
+      "qrcStartMs": 133023,
+      "qrcText": "ぜんぶ取っちゃいたい このタグも"
+    },
+    {
+      "frameId": "l070",
+      "mode": "full",
+      "qrcStartMs": 136348,
+      "qrcText": "この決まっちゃいそうな"
+    },
+    {
+      "frameId": "l071",
+      "mode": "full",
+      "qrcStartMs": 137954,
+      "qrcText": "レール上も"
+    },
+    {
+      "frameId": "l072",
+      "mode": "full",
+      "qrcStartMs": 139313,
+      "qrcText": "後にも先にも一回限りの"
+    },
+    {
+      "frameId": "l073",
+      "mode": "full",
+      "qrcStartMs": 142132,
+      "qrcText": "この春をまだ揺れたい"
+    },
+    {
+      "frameId": "l074",
+      "mode": "full",
+      "qrcStartMs": 145734,
+      "qrcText": "陽も陰も 全力でもがいていこうぜ"
+    },
+    {
+      "frameId": "l075",
+      "mode": "full",
+      "qrcStartMs": 149241,
+      "qrcText": "あぁ この陰が在るから"
+    },
+    {
+      "frameId": "l076",
+      "mode": "full",
+      "qrcStartMs": 151894,
+      "qrcText": "キミの陽の暖かさがわかる"
+    },
+    {
+      "frameId": "l077",
+      "mode": "full",
+      "qrcStartMs": 155423,
+      "qrcText": "ムリムリ ムリムリ なんて"
+    },
+    {
+      "frameId": "l078",
+      "mode": "full",
+      "qrcStartMs": 157864,
+      "qrcText": "逃げるには短すぎるワンライフ"
+    },
+    {
+      "frameId": "l079",
+      "mode": "full",
+      "qrcStartMs": 160792,
+      "qrcText": "キミに向けるハートこそ"
+    },
+    {
+      "frameId": "l080",
+      "mode": "full",
+      "qrcStartMs": 162078,
+      "qrcText": "太陽だった"
+    },
+    {
+      "frameId": "l081",
+      "mode": "full",
+      "qrcStartMs": 163142,
+      "qrcText": "こんなドキドキ今しかっ(ムリムリ)"
+    },
+    {
+      "frameId": "l082",
+      "mode": "full",
+      "qrcStartMs": 166055,
+      "qrcText": "秘密裏 積み上げた想いとか"
+    },
+    {
+      "frameId": "l083",
+      "mode": "full",
+      "qrcStartMs": 168594,
+      "qrcText": "キミに伝え足りないんだまだ"
+    },
+    {
+      "frameId": "l084",
+      "mode": "full",
+      "qrcStartMs": 171340,
+      "qrcText": "場違いな逆光さえ"
+    },
+    {
+      "frameId": "l085",
+      "mode": "full",
+      "qrcStartMs": 172573,
+      "qrcText": "キミと近づきたい"
+    },
+    {
+      "frameId": "l086",
+      "mode": "full",
+      "qrcStartMs": 175137,
+      "qrcText": "アワナビア陽サイ"
+    },
+    {
+      "frameId": "l087",
+      "mode": "full",
+      "qrcStartMs": 176466,
+      "qrcText": "まぁ疲れたら"
+    },
+    {
+      "frameId": "l088",
+      "mode": "full",
+      "qrcStartMs": 177808,
+      "qrcText": "ウェルカムトゥ陰サイ"
+    },
+    {
+      "frameId": "l089",
+      "mode": "full",
+      "qrcStartMs": 178896,
+      "qrcText": "(ムリムリ)"
+    },
+    {
+      "frameId": "l090",
+      "mode": "full",
+      "qrcStartMs": 179584,
+      "qrcText": "ひとよひとよを瞳でキャッチ"
+    },
+    {
+      "frameId": "l091",
+      "mode": "full",
+      "qrcStartMs": 181461,
+      "qrcText": "(ムリムリ)"
+    },
+    {
+      "frameId": "l092",
+      "mode": "full",
+      "qrcStartMs": 182158,
+      "qrcText": "ふたり以上でも大歓迎"
+    },
+    {
+      "frameId": "l093",
+      "mode": "full",
+      "qrcStartMs": 184014,
+      "qrcText": "(ムリムリ)"
+    },
+    {
+      "frameId": "l094",
+      "mode": "full",
+      "qrcStartMs": 184670,
+      "qrcText": "みつめられたら照れちゃうなぁ"
+    },
+    {
+      "frameId": "l095",
+      "mode": "full",
+      "qrcStartMs": 186774,
+      "qrcText": "(ムリムリ)"
+    },
+    {
+      "frameId": "l096",
+      "mode": "full",
+      "qrcStartMs": 187488,
+      "qrcText": "キミのもと進め 光のさす方"
+    }
+  ],
+  "summary": {
+    "full": 96,
+    "unmatched": 0
+  }
+}

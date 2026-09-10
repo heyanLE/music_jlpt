@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "algorithm": "leading-rms-onset-v1",
+  "windowMs": 50,
+  "result": "usable",
+  "music": {
+    "onsetMs": 350,
+    "noiseFloorDb": -11.03,
+    "thresholdDb": -8.94,
+    "peakDb": -2.94,
+    "marginDb": 6.0,
+    "confidence": "medium"
+  },
+  "background": {
+    "onsetMs": 5650,
+    "noiseFloorDb": -119.99,
+    "thresholdDb": -45.0,
+    "peakDb": -16.54,
+    "marginDb": 28.46,
+    "confidence": "high"
+  },
+  "proposedOffsetMs": 5300,
+  "definition": "backgroundOnsetMs - musicOnsetMs",
+  "confidence": "medium",
+  "guard": {
+    "maxAbsoluteOffsetMs": 30000,
+    "passed": true
+  },
+  "warning": "Onset alignment is valid only when both streams contain the same musical program."
+}

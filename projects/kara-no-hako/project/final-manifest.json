@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "output": "deliverables/final/kara-no-hako--16x9--static-neighbors-r1.mkv",
+  "outputSha256": "a1442bf7787f6de1948f2de446754dc40f8bed5f722a15dcef5b949a439e2741",
+  "qaReport": "project/qa/static-neighbors-r1-auto/qa-report.json",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "30/1",
+        "bits_per_raw_sample": "8"
+      },
+      {
+        "codec_name": "flac",
+        "codec_type": "audio",
+        "sample_rate": "48000",
+        "r_frame_rate": "0/0",
+        "bits_per_raw_sample": "24"
+      }
+    ],
+    "format": {
+      "duration": "183.844000"
+    }
+  }
+}

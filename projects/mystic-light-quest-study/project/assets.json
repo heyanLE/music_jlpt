@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "sourceManifest": "source/source-manifest.json",
+  "sourceManifestSha256": "658dacc82d851ec6da3bcb254d1b7d136441a5b93d20ec9783386d337c981c82",
+  "active": {
+    "music": {
+      "asset": "source/music.flac",
+      "sha256": "d575de67c0e1eea94a791dfc4e72add9f1553d1c1bfac0d0286c91454f799961",
+      "sampleRateHz": 48000,
+      "bitsPerSample": 24,
+      "finalContainer": "mkv",
+      "finalAudioCodec": "copy"
+    },
+    "cover": {
+      "asset": "source/cover.jpg",
+      "sha256": "20531737674ad9fa5f6105829dc825272ecee5865c65a82a042ccc716eb1b34c",
+      "origin": "MV frame at 80s, square crop x540 y0 w1080 h1080"
+    },
+    "background": {
+      "asset": "source/background-trimmed.mp4",
+      "sha256": "8e2354939fe27b450ed7c9cec348b0da4240cc79d72d4ff18ce70d07c56ef16e",
+      "trimStartMs": 3064,
+      "durationMs": 207000
+    },
+    "lyrics": {
+      "minDisplayedLyricMs": 11908
+    },
+    "preset": "video-loop-follow",
+    "spectrum": "off"
+  },
+  "templateSha256": {
+    "background.json": "7024aab8e1d84e4f8b7ab96781c85bff0e5fd716b2f661b53d6df02a149dbec4",
+    "foreground.json": "a5fa64614553081b74df9b71e504efa794f71f5cab563c2b6eacf6a88b7da317",
+    "overlay.json": "096ce548ef31d3c3265a69cd85e446037551ea80577f87dd12bfa424f99c60e7"
+  }
+}

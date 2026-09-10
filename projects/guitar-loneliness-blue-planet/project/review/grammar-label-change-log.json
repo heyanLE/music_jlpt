@@ -1,0 +1,301 @@
+{
+  "schemaVersion": 1,
+  "userWording": "动词形式不需要说是几段，直接说动词\nば形改为假定形",
+  "scope": "Grammar labels only; preserve inflection details, meanings, readings and timing. Not blanket proposal acceptance.",
+  "changes": [
+    {
+      "frameId": "l001",
+      "field": "grammarCards.1.grammarStructureZh",
+      "token": "降る",
+      "old": "五段动词·原形",
+      "new": "动词·原形"
+    },
+    {
+      "frameId": "l002",
+      "field": "grammarCards.4.grammarStructureZh",
+      "token": "知らない",
+      "old": "五段动词·ない形",
+      "new": "动词·ない形"
+    },
+    {
+      "frameId": "l004",
+      "field": "grammarCards.1.grammarStructureZh",
+      "token": "着りゃ",
+      "old": "一段·ば形口语",
+      "new": "动词·假定形口语"
+    },
+    {
+      "frameId": "l005",
+      "field": "grammarCards.4.grammarStructureZh",
+      "token": "いっちゃった",
+      "old": "五段·てしまった",
+      "new": "动词·てしまった"
+    },
+    {
+      "frameId": "l006",
+      "field": "grammarCards.2.grammarStructureZh",
+      "token": "出来ない",
+      "old": "一段动词·ない形",
+      "new": "动词·ない形"
+    },
+    {
+      "frameId": "l008",
+      "field": "grammarCards.4.grammarStructureZh",
+      "token": "いる",
+      "old": "一段动词·原形",
+      "new": "动词·原形"
+    },
+    {
+      "frameId": "l010",
+      "field": "grammarCards.4.grammarStructureZh",
+      "token": "する",
+      "old": "サ变动词·原形",
+      "new": "动词·原形"
+    },
+    {
+      "frameId": "l011",
+      "field": "grammarCards.7.grammarStructureZh",
+      "token": "しない",
+      "old": "サ变动词·ない形",
+      "new": "动词·ない形"
+    },
+    {
+      "frameId": "l012",
+      "field": "grammarCards.0.grammarStructureZh",
+      "token": "足りない",
+      "old": "一段动词·ない形",
+      "new": "动词·ない形"
+    },
+    {
+      "frameId": "l012",
+      "field": "grammarCards.1.grammarStructureZh",
+      "token": "足りない",
+      "old": "一段动词·ない形",
+      "new": "动词·ない形"
+    },
+    {
+      "frameId": "l013",
+      "field": "grammarCards.3.grammarStructureZh",
+      "token": "気づかれない",
+      "old": "五段·被动否定",
+      "new": "动词·被动否定"
+    },
+    {
+      "frameId": "l015",
+      "field": "grammarCards.0.grammarStructureZh",
+      "token": "出せない",
+      "old": "五段·可能否定",
+      "new": "动词·可能否定"
+    },
+    {
+      "frameId": "l015",
+      "field": "grammarCards.3.grammarStructureZh",
+      "token": "叫んだ",
+      "old": "五段动词·た形",
+      "new": "动词·た形"
+    },
+    {
+      "frameId": "l017",
+      "field": "grammarCards.2.grammarStructureZh",
+      "token": "見せる",
+      "old": "一段动词·原形",
+      "new": "动词·原形"
+    },
+    {
+      "frameId": "l018",
+      "field": "grammarCards.4.grammarStructureZh",
+      "token": "歌う",
+      "old": "五段动词·原形",
+      "new": "动词·原形"
+    },
+    {
+      "frameId": "l019",
+      "field": "grammarCards.0.grammarStructureZh",
+      "token": "ぶちまけちゃおう",
+      "old": "一段·てしまう意志形",
+      "new": "动词·てしまう意志形"
+    },
+    {
+      "frameId": "l020",
+      "field": "grammarCards.2.grammarStructureZh",
+      "token": "張り替える",
+      "old": "一段动词·原形",
+      "new": "动词·原形"
+    },
+    {
+      "frameId": "l022",
+      "field": "grammarCards.0.grammarStructureZh",
+      "token": "欠けた",
+      "old": "一段动词·た形",
+      "new": "动词·た形"
+    },
+    {
+      "frameId": "l022",
+      "field": "grammarCards.4.grammarStructureZh",
+      "token": "触る",
+      "old": "五段动词·原形",
+      "new": "动词·原形"
+    },
+    {
+      "frameId": "l023",
+      "field": "grammarCards.7.grammarStructureZh",
+      "token": "鳴いてる",
+      "old": "五段·ている口语",
+      "new": "动词·ている口语"
+    },
+    {
+      "frameId": "l025",
+      "field": "grammarCards.2.grammarStructureZh",
+      "token": "握って",
+      "old": "五段动词·て形",
+      "new": "动词·て形"
+    },
+    {
+      "frameId": "l025",
+      "field": "grammarCards.5.grammarStructureZh",
+      "token": "殴る",
+      "old": "五段动词·原形",
+      "new": "动词·原形"
+    },
+    {
+      "frameId": "l026",
+      "field": "grammarCards.1.grammarStructureZh",
+      "token": "起きない",
+      "old": "一段动词·ない形",
+      "new": "动词·ない形"
+    },
+    {
+      "frameId": "l028",
+      "field": "grammarCards.3.grammarStructureZh",
+      "token": "弾いたら",
+      "old": "五段·たら条件",
+      "new": "动词·たら条件"
+    },
+    {
+      "frameId": "l029",
+      "field": "grammarCards.2.grammarStructureZh",
+      "token": "変わって",
+      "old": "五段动词·て形",
+      "new": "动词·て形"
+    },
+    {
+      "frameId": "l029",
+      "field": "grammarCards.3.grammarStructureZh",
+      "token": "見えた",
+      "old": "一段动词·た形",
+      "new": "动词·た形"
+    },
+    {
+      "frameId": "l030",
+      "field": "grammarCards.3.grammarStructureZh",
+      "token": "光る",
+      "old": "五段动词·原形",
+      "new": "动词·原形"
+    },
+    {
+      "frameId": "l032",
+      "field": "grammarCards.2.grammarStructureZh",
+      "token": "なって",
+      "old": "五段动词·て形",
+      "new": "动词·て形"
+    },
+    {
+      "frameId": "l034",
+      "field": "grammarCards.1.grammarStructureZh",
+      "token": "なっちゃって",
+      "old": "五段·てしまうて形",
+      "new": "动词·てしまうて形"
+    },
+    {
+      "frameId": "l034",
+      "field": "grammarCards.3.grammarStructureZh",
+      "token": "止まんない",
+      "old": "五段·ない形口语",
+      "new": "动词·ない形口语"
+    },
+    {
+      "frameId": "l035",
+      "field": "grammarCards.4.grammarStructureZh",
+      "token": "歌う",
+      "old": "五段动词·原形",
+      "new": "动词·原形"
+    },
+    {
+      "frameId": "l038",
+      "field": "grammarCards.4.grammarStructureZh",
+      "token": "聞いて",
+      "old": "五段动词·て形",
+      "new": "动词·て形"
+    },
+    {
+      "frameId": "l039",
+      "field": "grammarCards.0.grammarStructureZh",
+      "token": "回り",
+      "old": "五段动词·连用形",
+      "new": "动词·连用形"
+    },
+    {
+      "frameId": "l041",
+      "field": "grammarCards.0.grammarStructureZh",
+      "token": "聞いて",
+      "old": "五段·て形请求",
+      "new": "动词·て形请求"
+    },
+    {
+      "frameId": "l041",
+      "field": "grammarCards.1.grammarStructureZh",
+      "token": "聴け",
+      "old": "五段动词·命令形",
+      "new": "动词·命令形"
+    },
+    {
+      "frameId": "l042",
+      "field": "grammarCards.6.grammarStructureZh",
+      "token": "いる",
+      "old": "一段动词·原形",
+      "new": "动词·原形"
+    },
+    {
+      "frameId": "l044",
+      "field": "grammarCards.0.grammarStructureZh",
+      "token": "出せない",
+      "old": "五段·可能否定",
+      "new": "动词·可能否定"
+    },
+    {
+      "frameId": "l044",
+      "field": "grammarCards.3.grammarStructureZh",
+      "token": "叫んだ",
+      "old": "五段动词·た形",
+      "new": "动词·た形"
+    },
+    {
+      "frameId": "l045",
+      "field": "grammarCards.2.grammarStructureZh",
+      "token": "なりたい",
+      "old": "五段·たい形",
+      "new": "动词·たい形"
+    },
+    {
+      "frameId": "l045",
+      "field": "grammarCards.3.grammarStructureZh",
+      "token": "なりたい",
+      "old": "五段·たい形",
+      "new": "动词·たい形"
+    },
+    {
+      "frameId": "l047",
+      "field": "grammarCards.4.grammarStructureZh",
+      "token": "歌う",
+      "old": "五段动词·原形",
+      "new": "动词·原形"
+    },
+    {
+      "frameId": "l048",
+      "field": "grammarCards.0.grammarStructureZh",
+      "token": "ぶちまけちゃおう",
+      "old": "一段·てしまう意志形",
+      "new": "动词·てしまう意志形"
+    }
+  ]
+}

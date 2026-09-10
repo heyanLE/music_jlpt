@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "integration",
+  "reviewRound": "final-fit-corrections",
+  "status": "completed",
+  "baseFrameSha256": "7c0c8d02c6c94d9c80cce49dcab8ffdcf630ef9f288ed00246aa2db013e69ed4",
+  "sourceProposalFiles": [
+    {
+      "role": "grammar",
+      "path": "project/proposals/grammar-final-fit-corrections.json",
+      "sha256": "205a1006275cdbde71adc38ba85b761a270964d36fb044e3caa893d4aa33bb66",
+      "changeCount": 5
+    },
+    {
+      "role": "translation",
+      "path": "project/proposals/translation-final-fit-corrections.json",
+      "sha256": "894c860f273a240c553bfe95e06f4ea6008566c05ac7ae7f559680b2834c1bbc",
+      "changeCount": 8
+    }
+  ],
+  "counts": {
+    "sourceChanges": 13,
+    "recommended": 13,
+    "excluded": 0,
+    "conflicts": 0
+  },
+  "conflicts": [],
+  "recommendedProposalSet": {
+    "mode": "all",
+    "proposalReferences": [
+      {
+        "role": "grammar",
+        "path": "project/proposals/grammar-final-fit-corrections.json",
+        "includeChangeIndexes": [0, 1, 2, 3, 4],
+        "recommendedCount": 5
+      },
+      {
+        "role": "translation",
+        "path": "project/proposals/translation-final-fit-corrections.json",
+        "includeChangeIndexes": [0, 1, 2, 3, 4, 5, 6, 7],
+        "recommendedCount": 8
+      }
+    ],
+    "recommendedChangeCount": 13,
+    "excludedChangeCount": 0,
+    "mergeAuthorized": false
+  },
+  "auditChecks": {
+    "schemaVersionAndRole": "passed",
+    "baseHashMatchesCurrentFrames": true,
+    "proposalBaseHashesAgree": true,
+    "exactOldValues": {
+      "checked": 13,
+      "matched": 13,
+      "mismatched": 0
+    },
+    "sameFieldConflicts": [],
+    "changesTokenStructureTrueCount": 0,
+    "repeatedLineConsistency": {
+      "result": "passed",
+      "pairedGroups": [
+        ["l012", "l044"],
+        ["l032", "l055"],
+        ["l011", "l043"],
+        ["l038", "l061"]
+      ],
+      "withinFrameRepeatedCards": [
+        {"frameId": "l038", "cardIndexes": [2, 5, 8]},
+        {"frameId": "l061", "cardIndexes": [2, 5, 8]}
+      ]
+    },
+    "semanticPreservation": {
+      "result": "passed",
+      "notes": [
+        "Grammar labels retain the original verb class, inflection, compound position, or て-form function while removing redundant surface repetition.",
+        "Function descriptions retain causal and fixed-expression meanings; removed wording only repeats actions already visible in the lyric or card token.",
+        "No lyric, translation line, token, reading, timing, or card boundary is changed."
+      ]
+    }
+  },
+  "notes": [
+    "All 13 changes are recommended; none are excluded.",
+    "No proposal was merged and project/frames.json was not edited."
+  ]
+}

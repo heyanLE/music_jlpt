@@ -1,0 +1,19 @@
+{
+  "result": "passed",
+  "preview": "C:\\project\\musicjlpt\\projects\\mou-dou-natte-mo-ii-ya-v2\\project\\qa\\structure-preview-16x9.png",
+  "templateId": "study-current-v2",
+  "checks": {
+    "coverVisible": true,
+    "cjkBoldFont": true,
+    "sharedTokenAnchors": "deferred-to-tokenized-stage3",
+    "magicPalette": {
+      "accent": "#5E2854",
+      "activeTint": "#A689A1",
+      "cardFill": "#5E2854C0",
+      "cardOutline": "#A689A1",
+      "body": "#FFFFFF",
+      "muted": "#E8EEF8"
+    },
+    "noFinalRender": true
+  }
+}

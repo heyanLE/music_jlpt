@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "authorization": "user: 确认渲染",
+  "authorizedAt": "2026-08-22",
+  "renderAuthorized": true,
+  "frameSha256": "da062b95cdfe4b8675797ae641e8254cb5cbf0ae804ab84bf81c7545db1bdc40",
+  "paletteSha256": "dd5acdbaa3440b4e522a35f087f0d7b281f780e594d429052b707012d1bddd8b",
+  "presentationSha256": "84ee8a13723b7124486e2c07e877b2a92dafb27215c031e106b4aa6bb63df983",
+  "sceneSha256": "c579aa0b16c6a4d31acc1a724be3dee2fa106ea4ab154d15b9dd1dbd20b809df",
+  "foregroundTemplateSha256": "ea4f87fd91c72f9abc4f0a4ea3d32537b2bd796c024532a7ed21bbf389774ba8",
+  "overlayTemplateSha256": "30ee09e93ccae74a90bf21e866eb531b0664222bef14f5741a4bf46634f7ddc2"
+}

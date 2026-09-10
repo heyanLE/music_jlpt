@@ -1,0 +1,172 @@
+{
+  "schema_version": "1.0",
+  "source": {
+    "path": "C:\\project\\musicjlpt\\projects\\halo\\deliverables\\halo-qrc-composite-v1.mp4",
+    "size_bytes": 62754840,
+    "sha256": "6a3980cbccf110431f522ae43c0f9db02f3e89d8bf8037d8fa51f197e1feac4f"
+  },
+  "sampling": {
+    "fps": 23.976023976023978,
+    "duration_s": 188.22970833333332,
+    "width": 1920,
+    "height": 1080,
+    "interval_s": 2.0,
+    "sample_count": 90,
+    "scene_threshold": 0.12,
+    "min_persistence": 0.15
+  },
+  "layout_keyframes": [
+    {
+      "timestamp_s": 2.114,
+      "file": "layout-keyframes/frame-0001-000002.114s.jpg"
+    },
+    {
+      "timestamp_s": 16.916,
+      "file": "layout-keyframes/frame-0008-000016.916s.jpg"
+    },
+    {
+      "timestamp_s": 21.145,
+      "file": "layout-keyframes/frame-0010-000021.145s.jpg"
+    },
+    {
+      "timestamp_s": 50.747,
+      "file": "layout-keyframes/frame-0024-000050.747s.jpg"
+    },
+    {
+      "timestamp_s": 52.862,
+      "file": "layout-keyframes/frame-0025-000052.862s.jpg"
+    },
+    {
+      "timestamp_s": 88.808,
+      "file": "layout-keyframes/frame-0042-000088.808s.jpg"
+    },
+    {
+      "timestamp_s": 118.41,
+      "file": "layout-keyframes/frame-0056-000118.410s.jpg"
+    },
+    {
+      "timestamp_s": 139.555,
+      "file": "layout-keyframes/frame-0066-000139.555s.jpg"
+    },
+    {
+      "timestamp_s": 179.73,
+      "file": "layout-keyframes/frame-0085-000179.730s.jpg"
+    },
+    {
+      "timestamp_s": 181.845,
+      "file": "layout-keyframes/frame-0086-000181.845s.jpg"
+    },
+    {
+      "timestamp_s": 186.074,
+      "file": "layout-keyframes/frame-0088-000186.074s.jpg"
+    },
+    {
+      "timestamp_s": 188.188,
+      "file": "layout-keyframes/frame-0089-000188.188s.jpg"
+    }
+  ],
+  "regions": [
+    {
+      "id": "region-01",
+      "bounds_normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      },
+      "detection": "persistent-edge proposal",
+      "boundary_confidence": 1.0,
+      "needs_review": false,
+      "keyframes": [
+        {
+          "timestamp_s": 2.114,
+          "file": "regions/region-01/region-01-0001-000002.114s.jpg"
+        },
+        {
+          "timestamp_s": 16.916,
+          "file": "regions/region-01/region-01-0008-000016.916s.jpg"
+        },
+        {
+          "timestamp_s": 88.808,
+          "file": "regions/region-01/region-01-0042-000088.808s.jpg"
+        },
+        {
+          "timestamp_s": 186.074,
+          "file": "regions/region-01/region-01-0088-000186.074s.jpg"
+        },
+        {
+          "timestamp_s": 188.188,
+          "file": "regions/region-01/region-01-0089-000188.188s.jpg"
+        }
+      ]
+    },
+    {
+      "id": "region-02",
+      "bounds_normalized": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 0.509375,
+        "height": 1.0
+      },
+      "detection": "persistent-edge proposal",
+      "boundary_confidence": 0.158,
+      "needs_review": true,
+      "keyframes": [
+        {
+          "timestamp_s": 2.114,
+          "file": "regions/region-02/region-02-0001-000002.114s.jpg"
+        },
+        {
+          "timestamp_s": 16.916,
+          "file": "regions/region-02/region-02-0008-000016.916s.jpg"
+        },
+        {
+          "timestamp_s": 88.808,
+          "file": "regions/region-02/region-02-0042-000088.808s.jpg"
+        },
+        {
+          "timestamp_s": 186.074,
+          "file": "regions/region-02/region-02-0088-000186.074s.jpg"
+        },
+        {
+          "timestamp_s": 188.188,
+          "file": "regions/region-02/region-02-0089-000188.188s.jpg"
+        }
+      ]
+    },
+    {
+      "id": "region-03",
+      "bounds_normalized": {
+        "x": 0.509375,
+        "y": 0.0,
+        "width": 0.490625,
+        "height": 1.0
+      },
+      "detection": "persistent-edge proposal",
+      "boundary_confidence": 0.158,
+      "needs_review": true,
+      "keyframes": [
+        {
+          "timestamp_s": 2.114,
+          "file": "regions/region-03/region-03-0001-000002.114s.jpg"
+        },
+        {
+          "timestamp_s": 16.916,
+          "file": "regions/region-03/region-03-0008-000016.916s.jpg"
+        },
+        {
+          "timestamp_s": 139.555,
+          "file": "regions/region-03/region-03-0066-000139.555s.jpg"
+        },
+        {
+          "timestamp_s": 186.074,
+          "file": "regions/region-03/region-03-0088-000186.074s.jpg"
+        },
+        {
+          "timestamp_s": 188.188,
+          "file": "regions/region-03/region-03-0089-000188.188s.jpg"
+        }
+      ]
+    }
+  ]
+}

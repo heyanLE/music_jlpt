@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "slug": "amore",
+  "title": "Amore",
+  "artist": "ReoNa",
+  "subtitle": "与你相恋到\n生命尽头 OP",
+  "subtitleScale": 2.0,
+  "series": "快速学唱",
+  "badge": { "enabled": true, "text": "Hi-Res\n无损音质", "scale": 1.18 },
+  "benefits": ["歌词同步高亮", "假名注释", "罗马音", "逐词拆解"],
+  "outputs": [
+    { "name": "16x9", "width": 1920, "height": 1080, "artworkFocus": "center" },
+    { "name": "4x3", "width": 1440, "height": 1080, "artworkFocus": "center" },
+    { "name": "9x16", "width": 1080, "height": 1920, "artworkFocus": "center" },
+    { "name": "3x4", "width": 1080, "height": 1440, "artworkFocus": "center" }
+  ]
+}

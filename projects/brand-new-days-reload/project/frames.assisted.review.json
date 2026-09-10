@@ -1,0 +1,2492 @@
+{
+  "schemaVersion": "1.0",
+  "project": {
+    "id": "brand-new-days-reload",
+    "title": "Brand New Days -Reload-",
+    "artist": "高橋あず美 & アトラスサウンドチーム",
+    "durationMs": 352600,
+    "canvas": {
+      "width": 1920,
+      "height": 1080
+    },
+    "background": "cover-wave"
+  },
+  "reviewStatus": "assisted-review-needs-human-confirmation",
+  "frames": [
+    {
+      "id": "l001",
+      "startMs": 28745,
+      "endMs": 35043,
+      "caption": {
+        "japanese": "Sun light 夢を醒ます朝の光",
+        "furigana": [
+          {
+            "base": "夢",
+            "reading": "ゆめ",
+            "romaji": "yume"
+          },
+          {
+            "base": "醒ます",
+            "reading": "さます",
+            "romaji": "sama su"
+          },
+          {
+            "base": "朝",
+            "reading": "あさ",
+            "romaji": "asa"
+          },
+          {
+            "base": "光",
+            "reading": "ひかり",
+            "romaji": "hikari"
+          }
+        ],
+        "romaji": "Sun light yu me wo sa ma su a sa no hi ka ri ",
+        "translationZh": "晨光唤醒了梦。"
+      },
+      "grammarCards": [
+        {
+          "token": "梦",
+          "reading": "ゆめ",
+          "romaji": "yume",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "梦"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "wo",
+          "posZh": "助词",
+          "render": true,
+          "functionZh": "动作对象"
+        },
+        {
+          "token": "醒ます",
+          "reading": "さます",
+          "romaji": "samasu",
+          "posZh": "动词",
+          "render": true,
+          "zhMeaning": "唤醒"
+        },
+        {
+          "token": "朝",
+          "reading": "あさ",
+          "romaji": "asa",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "早晨"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "posZh": "助词",
+          "render": true,
+          "functionZh": "所属／修饰"
+        },
+        {
+          "token": "光",
+          "reading": "ひかり",
+          "romaji": "hikari",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "光芒"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l002",
+      "startMs": 35720,
+      "endMs": 38088,
+      "caption": {
+        "japanese": "また照らし出す",
+        "furigana": [
+          {
+            "base": "照らし出す",
+            "reading": "てらしだす",
+            "romaji": "tera shi dasu"
+          }
+        ],
+        "romaji": "ma ta te ra shi da su ",
+        "translationZh": "再次照亮这个世界。"
+      },
+      "grammarCards": [
+        {
+          "token": "また",
+          "reading": "また",
+          "romaji": "mata",
+          "posZh": "副词",
+          "render": true,
+          "zhMeaning": "再次"
+        },
+        {
+          "token": "照らし出す",
+          "reading": "てらしだす",
+          "romaji": "terashidasu",
+          "posZh": "动词",
+          "render": true,
+          "zhMeaning": "照亮；映照出来"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l003",
+      "startMs": 39576,
+      "endMs": 41920,
+      "caption": {
+        "japanese": "この世界",
+        "furigana": [
+          {
+            "base": "世界",
+            "reading": "せかい",
+            "romaji": "sekai"
+          }
+        ],
+        "romaji": "ko no se ka i ",
+        "translationZh": "这个世界。"
+      },
+      "grammarCards": [
+        {
+          "token": "この",
+          "reading": "この",
+          "romaji": "kono",
+          "posZh": "连体词",
+          "render": true,
+          "zhMeaning": "这个"
+        },
+        {
+          "token": "世界",
+          "reading": "せかい",
+          "romaji": "sekai",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "世界"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l004",
+      "startMs": 43095,
+      "endMs": 49955,
+      "caption": {
+        "japanese": "途切れた約束だけ独りかかえて",
+        "furigana": [
+          {
+            "base": "途切れ",
+            "reading": "とぎれ",
+            "romaji": "togire"
+          },
+          {
+            "base": "約束",
+            "reading": "やくそく",
+            "romaji": "yakusoku"
+          },
+          {
+            "base": "独り",
+            "reading": "ひとり",
+            "romaji": "hitori"
+          }
+        ],
+        "romaji": "to gi re ta ya ku so ku da ke hi to ri ka ka e te ",
+        "translationZh": "只带着中断的约定，独自背负着。"
+      },
+      "grammarCards": [
+        {
+          "token": "途切れた",
+          "reading": "とぎれた",
+          "romaji": "togireta",
+          "posZh": "动词（过去形）",
+          "render": true,
+          "zhMeaning": "中断了的"
+        },
+        {
+          "token": "約束",
+          "reading": "やくそく",
+          "romaji": "yakusoku",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "约定"
+        },
+        {
+          "token": "だけ",
+          "reading": "だけ",
+          "romaji": "dake",
+          "posZh": "副助词",
+          "render": true,
+          "functionZh": "限定“只”"
+        },
+        {
+          "token": "独り",
+          "reading": "ひとり",
+          "romaji": "hitori",
+          "posZh": "名词／副词",
+          "render": true,
+          "zhMeaning": "独自一人"
+        },
+        {
+          "token": "かかえて",
+          "reading": "かかえて",
+          "romaji": "kakaete",
+          "posZh": "动词（て形）",
+          "render": true,
+          "zhMeaning": "背负着；抱着"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l005",
+      "startMs": 50046,
+      "endMs": 52438,
+      "caption": {
+        "japanese": "瞼の昨日だけ",
+        "furigana": [
+          {
+            "base": "瞼",
+            "reading": "まぶた",
+            "romaji": "mabuta"
+          },
+          {
+            "base": "昨日",
+            "reading": "きのー",
+            "romaji": "kinou"
+          }
+        ],
+        "romaji": "ma bu ta no ki no u da ke ",
+        "translationZh": "只追逐着眼睑后的昨日。"
+      },
+      "grammarCards": [
+        {
+          "token": "瞼",
+          "reading": "まぶた",
+          "romaji": "mabuta",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "眼睑"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "posZh": "助词",
+          "render": true,
+          "functionZh": "所属／修饰"
+        },
+        {
+          "token": "昨日",
+          "reading": "きのう",
+          "romaji": "kinou",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "昨天；昨日的景象"
+        },
+        {
+          "token": "だけ",
+          "reading": "だけ",
+          "romaji": "dake",
+          "posZh": "副助词",
+          "render": true,
+          "functionZh": "限定“只”"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l006",
+      "startMs": 54046,
+      "endMs": 56472,
+      "caption": {
+        "japanese": "追いかけた",
+        "furigana": [
+          {
+            "base": "追いかけ",
+            "reading": "おいかけ",
+            "romaji": "oi kake"
+          }
+        ],
+        "romaji": "o i ka ke ta ",
+        "translationZh": "追逐了。"
+      },
+      "grammarCards": [
+        {
+          "token": "追いかけた",
+          "reading": "おいかけた",
+          "romaji": "oikaketa",
+          "posZh": "动词（过去形）",
+          "render": true,
+          "zhMeaning": "追逐了"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l007",
+      "startMs": 58167,
+      "endMs": 61631,
+      "caption": {
+        "japanese": "Stay high 忘れてたよ",
+        "furigana": [
+          {
+            "base": "忘れ",
+            "reading": "わすれ",
+            "romaji": "wasure"
+          }
+        ],
+        "romaji": "Stay high wa su re te ta yo ",
+        "translationZh": "我竟忘记了。"
+      },
+      "grammarCards": [
+        {
+          "token": "忘れてた",
+          "reading": "わすれてた",
+          "romaji": "wasureteta",
+          "posZh": "动词（ている过去缩约）",
+          "render": true,
+          "zhMeaning": "曾经忘记了"
+        },
+        {
+          "token": "よ",
+          "reading": "よ",
+          "romaji": "yo",
+          "posZh": "终助词",
+          "render": true,
+          "functionZh": "句末强调／告知"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l008",
+      "startMs": 61631,
+      "endMs": 65425,
+      "caption": {
+        "japanese": "こんなに透き通ったスカイブルー",
+        "furigana": [
+          {
+            "base": "透き通っ",
+            "reading": "すきとーっ",
+            "romaji": "suki kayotsu"
+          }
+        ],
+        "romaji": "ko n na ni su ki to o 't ta su ka i bu ru u ",
+        "translationZh": "如此澄澈的天蓝色。"
+      },
+      "grammarCards": [
+        {
+          "token": "こんなに",
+          "reading": "こんなに",
+          "romaji": "konnani",
+          "posZh": "副词",
+          "render": true,
+          "zhMeaning": "如此地；这么"
+        },
+        {
+          "token": "透き通った",
+          "reading": "すきとおった",
+          "romaji": "sukitootta",
+          "posZh": "动词（过去形／连体）",
+          "render": true,
+          "zhMeaning": "澄澈的；通透的"
+        },
+        {
+          "token": "スカイブルー",
+          "reading": "スカイブルー",
+          "romaji": "sukaiburuu",
+          "posZh": "名词（片假外来语）",
+          "render": true,
+          "zhMeaning": "天蓝色",
+          "sourceWord": "sky blue"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l009",
+      "startMs": 65425,
+      "endMs": 72653,
+      "caption": {
+        "japanese": "きっとキミがくれた true feel 輝き",
+        "furigana": [
+          {
+            "base": "輝き",
+            "reading": "かがやき",
+            "romaji": "kagayaki"
+          }
+        ],
+        "romaji": "ki 't to ki mi ga ku re ta  true feel ka ga ya ki ",
+        "translationZh": "一定是你给予我的真实感受之光辉。"
+      },
+      "grammarCards": [
+        {
+          "token": "きっと",
+          "reading": "きっと",
+          "romaji": "kitto",
+          "posZh": "副词",
+          "render": true,
+          "zhMeaning": "一定"
+        },
+        {
+          "token": "キミ",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "posZh": "代词",
+          "render": true,
+          "zhMeaning": "你"
+        },
+        {
+          "token": "が",
+          "reading": "が",
+          "romaji": "ga",
+          "posZh": "格助词",
+          "render": true,
+          "functionZh": "主语标记"
+        },
+        {
+          "token": "くれた",
+          "reading": "くれた",
+          "romaji": "kureta",
+          "posZh": "动词（过去形）",
+          "render": true,
+          "zhMeaning": "（你）给了我"
+        },
+        {
+          "token": "輝き",
+          "reading": "かがやき",
+          "romaji": "kagayaki",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "光辉；闪耀"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l010",
+      "startMs": 72653,
+      "endMs": 73550,
+      "caption": {
+        "japanese": "いつか",
+        "furigana": [],
+        "romaji": "i tsu ka ",
+        "translationZh": "终有一天。"
+      },
+      "grammarCards": [
+        {
+          "token": "いつか",
+          "reading": "いつか",
+          "romaji": "itsuka",
+          "posZh": "副词",
+          "render": true,
+          "zhMeaning": "总有一天；某一天"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l011",
+      "startMs": 73790,
+      "endMs": 79851,
+      "caption": {
+        "japanese": "つないだ手の強さに傷ついても",
+        "furigana": [
+          {
+            "base": "手",
+            "reading": "て",
+            "romaji": "te"
+          },
+          {
+            "base": "強",
+            "reading": "つよ",
+            "romaji": "kyou"
+          },
+          {
+            "base": "傷つい",
+            "reading": "きずつい",
+            "romaji": "kizutsu i"
+          }
+        ],
+        "romaji": "tsu na i da te no tsu yo sa ni ki zu tsu i te mo ",
+        "translationZh": "即使被相牵双手的力度所伤。"
+      },
+      "grammarCards": [
+        {
+          "token": "つないだ",
+          "reading": "つないだ",
+          "romaji": "tsunaida",
+          "posZh": "动词（过去形）",
+          "render": true,
+          "zhMeaning": "牵起了；相连的"
+        },
+        {
+          "token": "手",
+          "reading": "て",
+          "romaji": "te",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "手"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "posZh": "助词",
+          "render": true,
+          "functionZh": "所属／修饰"
+        },
+        {
+          "token": "強さ",
+          "reading": "つよさ",
+          "romaji": "tsuyosa",
+          "posZh": "名词（形容词名词化）",
+          "render": true,
+          "zhMeaning": "强度；力量"
+        },
+        {
+          "token": "に",
+          "reading": "に",
+          "romaji": "ni",
+          "posZh": "格助词",
+          "render": true,
+          "functionZh": "受影响的对象／原因"
+        },
+        {
+          "token": "傷ついても",
+          "reading": "きずついても",
+          "romaji": "kizutsuittemo",
+          "posZh": "动词（て形＋让步も）",
+          "render": true,
+          "zhMeaning": "即使受伤也……"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l012",
+      "startMs": 79851,
+      "endMs": 83381,
+      "caption": {
+        "japanese": "絶対はなさないよ",
+        "furigana": [
+          {
+            "base": "絶対",
+            "reading": "ぜったい",
+            "romaji": "zettai"
+          }
+        ],
+        "romaji": "ze 't ta i ha na sa na i yo ",
+        "translationZh": "绝对不会放开哦。"
+      },
+      "grammarCards": [
+        {
+          "token": "絶対",
+          "reading": "ぜったい",
+          "romaji": "zettai",
+          "posZh": "副词",
+          "render": true,
+          "zhMeaning": "绝对"
+        },
+        {
+          "token": "はなさない",
+          "reading": "はなさない",
+          "romaji": "hanasanai",
+          "posZh": "动词（否定形）",
+          "render": true,
+          "zhMeaning": "不放开"
+        },
+        {
+          "token": "よ",
+          "reading": "よ",
+          "romaji": "yo",
+          "posZh": "终助词",
+          "render": true,
+          "functionZh": "句末强调／告知"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l013",
+      "startMs": 83381,
+      "endMs": 87582,
+      "caption": {
+        "japanese": "Dear friends このままずっと",
+        "furigana": [],
+        "romaji": "Dear friends ko no ma ma zu 't to ",
+        "translationZh": "亲爱的朋友们，就这样一直走下去。"
+      },
+      "grammarCards": [
+        {
+          "token": "このまま",
+          "reading": "このまま",
+          "romaji": "konomama",
+          "posZh": "名词性短语",
+          "render": true,
+          "zhMeaning": "就这样；保持现状"
+        },
+        {
+          "token": "ずっと",
+          "reading": "ずっと",
+          "romaji": "zutto",
+          "posZh": "副词",
+          "render": true,
+          "zhMeaning": "һֱ"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l014",
+      "startMs": 115564,
+      "endMs": 121703,
+      "caption": {
+        "japanese": "Stray days 同じ月を幾つ見上げたろう",
+        "furigana": [
+          {
+            "base": "同じ",
+            "reading": "おなじ",
+            "romaji": "onaji"
+          },
+          {
+            "base": "月",
+            "reading": "つき",
+            "romaji": "gatsu"
+          },
+          {
+            "base": "幾",
+            "reading": "いく",
+            "romaji": "ki"
+          },
+          {
+            "base": "見上げ",
+            "reading": "みあげ",
+            "romaji": "miage"
+          }
+        ],
+        "romaji": "Stray days o na ji tsu ki wo i ku tsu mi a ge ta ro u ",
+        "translationZh": "迷茫的岁月里，曾多少次仰望同一轮月亮呢。"
+      },
+      "grammarCards": [
+        {
+          "token": "同じ",
+          "reading": "おなじ",
+          "romaji": "onaji",
+          "posZh": "连体词",
+          "render": true,
+          "zhMeaning": "相同的"
+        },
+        {
+          "token": "月",
+          "reading": "つき",
+          "romaji": "tsuki",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "月亮"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "wo",
+          "posZh": "格助词",
+          "render": true,
+          "functionZh": "动作对象"
+        },
+        {
+          "token": "幾つ",
+          "reading": "いくつ",
+          "romaji": "ikutsu",
+          "posZh": "疑问代词",
+          "render": true,
+          "zhMeaning": "多少个；几次"
+        },
+        {
+          "token": "見上げた",
+          "reading": "みあげた",
+          "romaji": "miageta",
+          "posZh": "动词（过去形）",
+          "render": true,
+          "zhMeaning": "仰望了"
+        },
+        {
+          "token": "だろう",
+          "reading": "だろう",
+          "romaji": "darou",
+          "posZh": "助动词",
+          "render": true,
+          "zhMeaning": "推测／自问感叹"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l015",
+      "startMs": 122279,
+      "endMs": 124726,
+      "caption": {
+        "japanese": "同じさよならを",
+        "furigana": [
+          {
+            "base": "同じ",
+            "reading": "おなじ",
+            "romaji": "onaji"
+          }
+        ],
+        "romaji": "o na ji sa yo na ra wo ",
+        "translationZh": "我们也曾跨越同样的离别吧。"
+      },
+      "grammarCards": [
+        {
+          "token": "同じ",
+          "reading": "おなじ",
+          "romaji": "onaji",
+          "posZh": "连体词",
+          "render": true,
+          "zhMeaning": "相同的"
+        },
+        {
+          "token": "さよなら",
+          "reading": "さよなら",
+          "romaji": "sayonara",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "告别；离别"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "wo",
+          "posZh": "格助词",
+          "render": true,
+          "functionZh": "动作对象"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l016",
+      "startMs": 126287,
+      "endMs": 128819,
+      "caption": {
+        "japanese": "越えただろう",
+        "furigana": [
+          {
+            "base": "越え",
+            "reading": "こえ",
+            "romaji": "koe"
+          }
+        ],
+        "romaji": "ko e ta da ro u ",
+        "translationZh": "跨越了吧。"
+      },
+      "grammarCards": [
+        {
+          "token": "越えた",
+          "reading": "こえた",
+          "romaji": "koeta",
+          "posZh": "动词（过去形）",
+          "render": true,
+          "zhMeaning": "跨越了"
+        },
+        {
+          "token": "だろう",
+          "reading": "だろう",
+          "romaji": "darou",
+          "posZh": "助动词",
+          "render": true,
+          "zhMeaning": "推测／自问感叹"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l017",
+      "startMs": 129763,
+      "endMs": 133475,
+      "caption": {
+        "japanese": "痛みがくれる宝石",
+        "furigana": [
+          {
+            "base": "痛み",
+            "reading": "いたみ",
+            "romaji": "itami"
+          },
+          {
+            "base": "宝石",
+            "reading": "ほーせき",
+            "romaji": "houseki"
+          }
+        ],
+        "romaji": "i ta mi ga ku re ru ho u se ki ",
+        "translationZh": "痛苦所赠予的宝石。"
+      },
+      "grammarCards": [
+        {
+          "token": "痛み",
+          "reading": "いたみ",
+          "romaji": "itami",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "痛苦"
+        },
+        {
+          "token": "が",
+          "reading": "が",
+          "romaji": "ga",
+          "posZh": "助词",
+          "render": true,
+          "functionZh": "主语标记"
+        },
+        {
+          "token": "くれる",
+          "reading": "くれる",
+          "romaji": "kureru",
+          "posZh": "动词",
+          "render": true,
+          "zhMeaning": "赠予／带来"
+        },
+        {
+          "token": "宝石",
+          "reading": "ほうせき",
+          "romaji": "houseki",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "宝石"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l018",
+      "startMs": 133475,
+      "endMs": 136466,
+      "caption": {
+        "japanese": "知ってたはずなのに",
+        "furigana": [
+          {
+            "base": "知っ",
+            "reading": "しっ",
+            "romaji": "shitsu"
+          }
+        ],
+        "romaji": "shi 't te ta ha zu na no ni ",
+        "translationZh": "明明应该早就知道的，却……"
+      },
+      "grammarCards": [
+        {
+          "token": "知ってた",
+          "reading": "しってた",
+          "romaji": "shiteta",
+          "posZh": "动词（口语缩约）",
+          "render": true,
+          "zhMeaning": "已经知道"
+        },
+        {
+          "token": "はず",
+          "reading": "はず",
+          "romaji": "hazu",
+          "posZh": "形式名词",
+          "render": true,
+          "zhMeaning": "理应；按理"
+        },
+        {
+          "token": "なのに",
+          "reading": "なのに",
+          "romaji": "nanoni",
+          "posZh": "接续助词",
+          "render": true,
+          "functionZh": "明明……却……"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l019",
+      "startMs": 136746,
+      "endMs": 139138,
+      "caption": {
+        "japanese": "なくした光だけ",
+        "furigana": [
+          {
+            "base": "光",
+            "reading": "ひかり",
+            "romaji": "hikari"
+          }
+        ],
+        "romaji": "na ku shi ta hi ka ri da ke ",
+        "translationZh": "只有失去的光芒。"
+      },
+      "grammarCards": [
+        {
+          "token": "なくした",
+          "reading": "なくした",
+          "romaji": "nakushita",
+          "posZh": "动词（过去形）",
+          "render": true,
+          "zhMeaning": "失去的"
+        },
+        {
+          "token": "光",
+          "reading": "ひかり",
+          "romaji": "hikari",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "光芒"
+        },
+        {
+          "token": "だけ",
+          "reading": "だけ",
+          "romaji": "dake",
+          "posZh": "副助词",
+          "render": true,
+          "functionZh": "限定范围：只有"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l020",
+      "startMs": 140738,
+      "endMs": 143074,
+      "caption": {
+        "japanese": "数えてた",
+        "furigana": [
+          {
+            "base": "数え",
+            "reading": "かぞえ",
+            "romaji": "kazoe"
+          }
+        ],
+        "romaji": "ka zo e te ta ",
+        "translationZh": "一直数着。"
+      },
+      "grammarCards": [
+        {
+          "token": "数えてた",
+          "reading": "かぞえてた",
+          "romaji": "kazoeteta",
+          "posZh": "动词（口语缩约）",
+          "render": true,
+          "zhMeaning": "一直数着"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l021",
+      "startMs": 144945,
+      "endMs": 148192,
+      "caption": {
+        "japanese": "Stay high 気付けばほら",
+        "furigana": [
+          {
+            "base": "気付け",
+            "reading": "きずけ",
+            "romaji": "kizuke"
+          }
+        ],
+        "romaji": "Stay high ki zu ke ba ho ra ",
+        "translationZh": "回过神来便，你看。"
+      },
+      "grammarCards": [
+        {
+          "token": "気付けば",
+          "reading": "きづけば",
+          "romaji": "kizukeba",
+          "posZh": "动词（ば形）",
+          "render": true,
+          "zhMeaning": "回过神来便；一察觉就"
+        },
+        {
+          "token": "ほら",
+          "reading": "ほら",
+          "romaji": "hora",
+          "posZh": "感叹词",
+          "render": true,
+          "zhMeaning": "你看；瞧"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l022",
+      "startMs": 148192,
+      "endMs": 152035,
+      "caption": {
+        "japanese": "窓越し眩しいスカイブルー",
+        "furigana": [
+          {
+            "base": "窓越し",
+            "reading": "まどごし",
+            "romaji": "mado koshi"
+          },
+          {
+            "base": "眩しい",
+            "reading": "まぶしー",
+            "romaji": "mabushii"
+          }
+        ],
+        "romaji": "ma do go shi ma bu shi i su ka i bu ru u ",
+        "translationZh": "隔着窗，耀眼的天蓝色。"
+      },
+      "grammarCards": [
+        {
+          "token": "窓越し",
+          "reading": "まどごし",
+          "romaji": "madogoshi",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "隔着窗；透过窗"
+        },
+        {
+          "token": "眩しい",
+          "reading": "まぶしい",
+          "romaji": "mabushii",
+          "posZh": "形容词",
+          "render": true,
+          "zhMeaning": "耀眼的"
+        },
+        {
+          "token": "スカイブルー",
+          "reading": "スカイブルー",
+          "romaji": "sukaiburuu",
+          "posZh": "名词（片假外来语）",
+          "render": true,
+          "zhMeaning": "天蓝色；蔚蓝",
+          "sourceWord": "sky blue"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l023",
+      "startMs": 152035,
+      "endMs": 159292,
+      "caption": {
+        "japanese": "きっと明日のドアが still green 開くよ",
+        "furigana": [
+          {
+            "base": "明日",
+            "reading": "あす",
+            "romaji": "ashita"
+          },
+          {
+            "base": "開く",
+            "reading": "ひらく",
+            "romaji": "hiraku"
+          }
+        ],
+        "romaji": "ki 't to a su no do a ga  still green hi ra ku yo ",
+        "translationZh": "明天的门一定仍会向我敞开。"
+      },
+      "grammarCards": [
+        {
+          "token": "きっと",
+          "reading": "きっと",
+          "romaji": "kitto",
+          "posZh": "副词",
+          "render": true,
+          "zhMeaning": "一定"
+        },
+        {
+          "token": "明日",
+          "reading": "あす",
+          "romaji": "asu",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "明天"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "posZh": "助词",
+          "render": true,
+          "functionZh": "所属／修饰"
+        },
+        {
+          "token": "ドア",
+          "reading": "ドア",
+          "romaji": "doa",
+          "posZh": "名词（片假外来语）",
+          "render": true,
+          "zhMeaning": "门",
+          "sourceWord": "door"
+        },
+        {
+          "token": "が",
+          "reading": "が",
+          "romaji": "ga",
+          "posZh": "助词",
+          "render": true,
+          "functionZh": "主语标记"
+        },
+        {
+          "token": "開く",
+          "reading": "ひらく",
+          "romaji": "hiraku",
+          "posZh": "动词",
+          "render": true,
+          "zhMeaning": "打开；敞开"
+        },
+        {
+          "token": "よ",
+          "reading": "よ",
+          "romaji": "yo",
+          "posZh": "终助词",
+          "render": true,
+          "functionZh": "句末断定、提醒"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l024",
+      "startMs": 159292,
+      "endMs": 162748,
+      "caption": {
+        "japanese": "いつか巡る時が",
+        "furigana": [
+          {
+            "base": "巡る",
+            "reading": "めぐる",
+            "romaji": "meguru"
+          },
+          {
+            "base": "時",
+            "reading": "とき",
+            "romaji": "toki"
+          }
+        ],
+        "romaji": "i tsu ka me gu ru to ki ga ",
+        "translationZh": "总有一天，流转的时光……"
+      },
+      "grammarCards": [
+        {
+          "token": "いつか",
+          "reading": "いつか",
+          "romaji": "itsuka",
+          "posZh": "副词",
+          "render": true,
+          "zhMeaning": "总有一天"
+        },
+        {
+          "token": "巡る",
+          "reading": "めぐる",
+          "romaji": "meguru",
+          "posZh": "动词",
+          "render": true,
+          "zhMeaning": "流转"
+        },
+        {
+          "token": "時",
+          "reading": "とき",
+          "romaji": "toki",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "时光；时候"
+        },
+        {
+          "token": "が",
+          "reading": "が",
+          "romaji": "ga",
+          "posZh": "助词",
+          "render": true,
+          "functionZh": "主语标记"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l025",
+      "startMs": 162748,
+      "endMs": 166393,
+      "caption": {
+        "japanese": "全てを変えてしまっても",
+        "furigana": [
+          {
+            "base": "全て",
+            "reading": "すべて",
+            "romaji": "subete"
+          },
+          {
+            "base": "変え",
+            "reading": "かえ",
+            "romaji": "kae"
+          }
+        ],
+        "romaji": "su be te wo ka e te shi ma 't te mo ",
+        "translationZh": "即使一切都改变了。"
+      },
+      "grammarCards": [
+        {
+          "token": "全て",
+          "reading": "すべて",
+          "romaji": "subete",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "一切"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "wo",
+          "posZh": "助词",
+          "render": true,
+          "functionZh": "动作对象"
+        },
+        {
+          "token": "変えてしまっても",
+          "reading": "かえてしまっても",
+          "romaji": "kaeteshimattemo",
+          "posZh": "动词（完成／让步）",
+          "render": true,
+          "zhMeaning": "即使全都改变了"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l026",
+      "startMs": 166393,
+      "endMs": 171970,
+      "caption": {
+        "japanese": "絶対なくさないよキミを",
+        "furigana": [
+          {
+            "base": "絶対",
+            "reading": "ぜったい",
+            "romaji": "zettai"
+          }
+        ],
+        "romaji": "ze 't ta i na ku sa na i yo ki mi wo ",
+        "translationZh": "我绝不会失去你。"
+      },
+      "grammarCards": [
+        {
+          "token": "絶対",
+          "reading": "ぜったい",
+          "romaji": "zettai",
+          "posZh": "副词",
+          "render": true,
+          "zhMeaning": "绝对"
+        },
+        {
+          "token": "なくさない",
+          "reading": "なくさない",
+          "romaji": "nakusanai",
+          "posZh": "动词（否定形）",
+          "render": true,
+          "zhMeaning": "不弄丢；不失去"
+        },
+        {
+          "token": "よ",
+          "reading": "よ",
+          "romaji": "yo",
+          "posZh": "终助词",
+          "render": true,
+          "functionZh": "句末断定、提醒"
+        },
+        {
+          "token": "キミ",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "posZh": "代词",
+          "render": true,
+          "zhMeaning": "你"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "wo",
+          "posZh": "助词",
+          "render": true,
+          "functionZh": "动作对象"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l027",
+      "startMs": 231082,
+      "endMs": 237167,
+      "caption": {
+        "japanese": "Sun light 夢を醒ます朝の光",
+        "furigana": [
+          {
+            "base": "夢",
+            "reading": "ゆめ",
+            "romaji": "yume"
+          },
+          {
+            "base": "醒ます",
+            "reading": "さます",
+            "romaji": "sama su"
+          },
+          {
+            "base": "朝",
+            "reading": "あさ",
+            "romaji": "asa"
+          },
+          {
+            "base": "光",
+            "reading": "ひかり",
+            "romaji": "hikari"
+          }
+        ],
+        "romaji": "Sun light yu me wo sa ma su a sa no hi ka ri ",
+        "translationZh": "唤醒梦境的清晨阳光。"
+      },
+      "grammarCards": [
+        {
+          "token": "梦",
+          "reading": "ゆめ",
+          "romaji": "yume",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "梦"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "wo",
+          "posZh": "助词",
+          "render": true,
+          "functionZh": "动作对象"
+        },
+        {
+          "token": "醒ます",
+          "reading": "さます",
+          "romaji": "samasu",
+          "posZh": "动词",
+          "render": true,
+          "zhMeaning": "唤醒"
+        },
+        {
+          "token": "朝",
+          "reading": "あさ",
+          "romaji": "asa",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "早晨"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "posZh": "助词",
+          "render": true,
+          "functionZh": "所属／修饰"
+        },
+        {
+          "token": "光",
+          "reading": "ひかり",
+          "romaji": "hikari",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "光芒"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l028",
+      "startMs": 237715,
+      "endMs": 240187,
+      "caption": {
+        "japanese": "そして輝き出す",
+        "furigana": [
+          {
+            "base": "輝き",
+            "reading": "かがやき",
+            "romaji": "kagayaki"
+          },
+          {
+            "base": "出す",
+            "reading": "だす",
+            "romaji": "dasu"
+          }
+        ],
+        "romaji": "so shi te ka ga ya ki da su ",
+        "translationZh": "然后开始闪耀。"
+      },
+      "grammarCards": [
+        {
+          "token": "そして",
+          "reading": "そして",
+          "romaji": "soshite",
+          "posZh": "连词",
+          "render": true,
+          "zhMeaning": "然后；而后"
+        },
+        {
+          "token": "輝き出す",
+          "reading": "かがやきだす",
+          "romaji": "kagayakidasu",
+          "posZh": "动词（连用形＋出す）",
+          "render": true,
+          "zhMeaning": "开始闪耀"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l029",
+      "startMs": 241723,
+      "endMs": 244052,
+      "caption": {
+        "japanese": "この世界",
+        "furigana": [
+          {
+            "base": "世界",
+            "reading": "せかい",
+            "romaji": "sekai"
+          }
+        ],
+        "romaji": "ko no se ka i ",
+        "translationZh": "这个世界。"
+      },
+      "grammarCards": [
+        {
+          "token": "この",
+          "reading": "この",
+          "romaji": "kono",
+          "posZh": "连体词",
+          "render": true,
+          "zhMeaning": "这个"
+        },
+        {
+          "token": "世界",
+          "reading": "せかい",
+          "romaji": "sekai",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "世界"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l030",
+      "startMs": 245158,
+      "endMs": 249039,
+      "caption": {
+        "japanese": "生きる意味を呼び疲れ",
+        "furigana": [
+          {
+            "base": "生きる",
+            "reading": "いきる",
+            "romaji": "iki ru"
+          },
+          {
+            "base": "意味",
+            "reading": "いみ",
+            "romaji": "imi"
+          },
+          {
+            "base": "呼び疲れ",
+            "reading": "よびつかれ",
+            "romaji": "yobi tsukare"
+          }
+        ],
+        "romaji": "i ki ru i mi wo yo bi tsu ka re ",
+        "translationZh": "因呼唤活着的意义而疲惫。"
+      },
+      "grammarCards": [
+        {
+          "token": "生きる",
+          "reading": "いきる",
+          "romaji": "ikiru",
+          "posZh": "动词",
+          "render": true,
+          "zhMeaning": "活着；生存"
+        },
+        {
+          "token": "意味",
+          "reading": "いみ",
+          "romaji": "imi",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "意义"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "wo",
+          "posZh": "助词",
+          "render": true,
+          "functionZh": "动作对象"
+        },
+        {
+          "token": "呼び疲れ",
+          "reading": "よびつかれ",
+          "romaji": "yobitsukare",
+          "posZh": "动词",
+          "render": true,
+          "zhMeaning": "因呼唤而疲惫"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l031",
+      "startMs": 249039,
+      "endMs": 251861,
+      "caption": {
+        "japanese": "俯く日もある",
+        "furigana": [
+          {
+            "base": "俯く",
+            "reading": "うつむく",
+            "romaji": "fu ku"
+          },
+          {
+            "base": "日",
+            "reading": "ひ",
+            "romaji": "nichi"
+          }
+        ],
+        "romaji": "u tsu mu ku hi mo a ru ",
+        "translationZh": "也有垂下头的日子。"
+      },
+      "grammarCards": [
+        {
+          "token": "俯く",
+          "reading": "うつむく",
+          "romaji": "utsumuku",
+          "posZh": "动词",
+          "render": true,
+          "zhMeaning": "低下头；垂头"
+        },
+        {
+          "token": "日",
+          "reading": "ひ",
+          "romaji": "hi",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "日子"
+        },
+        {
+          "token": "も",
+          "reading": "も",
+          "romaji": "mo",
+          "posZh": "副助词",
+          "render": true,
+          "functionZh": "追加：也／甚至"
+        },
+        {
+          "token": "ある",
+          "reading": "ある",
+          "romaji": "aru",
+          "posZh": "动词",
+          "render": true,
+          "zhMeaning": "有；存在"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l032",
+      "startMs": 252157,
+      "endMs": 254505,
+      "caption": {
+        "japanese": "それでも心には",
+        "furigana": [
+          {
+            "base": "心",
+            "reading": "こころ",
+            "romaji": "kokoro"
+          }
+        ],
+        "romaji": "so re de mo ko ko ro ni ha ",
+        "translationZh": "即便如此，在心中……"
+      },
+      "grammarCards": [
+        {
+          "token": "それでも",
+          "reading": "それでも",
+          "romaji": "soredemo",
+          "posZh": "连词",
+          "render": true,
+          "zhMeaning": "即便如此"
+        },
+        {
+          "token": "心",
+          "reading": "こころ",
+          "romaji": "kokoro",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "心中"
+        },
+        {
+          "token": "には",
+          "reading": "には",
+          "romaji": "niwa",
+          "posZh": "助词组合",
+          "render": true,
+          "functionZh": "存在地点＋提示对比"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l033",
+      "startMs": 256435,
+      "endMs": 258620,
+      "caption": {
+        "japanese": "キミの笑顔",
+        "furigana": [
+          {
+            "base": "笑顔",
+            "reading": "えがお",
+            "romaji": "egao"
+          }
+        ],
+        "romaji": "ki mi no e ga o ",
+        "translationZh": "即便如此，心中仍有你的笑容。"
+      },
+      "grammarCards": [
+        {
+          "token": "キミ",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "posZh": "代词",
+          "render": true,
+          "zhMeaning": "你"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "posZh": "助词",
+          "render": true,
+          "functionZh": "所属／修饰"
+        },
+        {
+          "token": "笑顔",
+          "reading": "えがお",
+          "romaji": "egao",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "笑容"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l034",
+      "startMs": 260236,
+      "endMs": 263821,
+      "caption": {
+        "japanese": "Stay high 忘れてたよ",
+        "furigana": [
+          {
+            "base": "忘れ",
+            "reading": "わすれ",
+            "romaji": "wasure"
+          }
+        ],
+        "romaji": "Stay high wa su re te ta yo ",
+        "translationZh": "我竟忘记了。"
+      },
+      "grammarCards": [
+        {
+          "token": "忘れてた",
+          "reading": "わすれてた",
+          "romaji": "wasureteta",
+          "posZh": "动词（ている过去缩约）",
+          "render": true,
+          "zhMeaning": "曾经忘记了"
+        },
+        {
+          "token": "よ",
+          "reading": "よ",
+          "romaji": "yo",
+          "posZh": "终助词",
+          "render": true,
+          "functionZh": "句末强调／告知"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l035",
+      "startMs": 263821,
+      "endMs": 267517,
+      "caption": {
+        "japanese": "こんなに透き通ったスカイブルー",
+        "furigana": [
+          {
+            "base": "透き通っ",
+            "reading": "すきとーっ",
+            "romaji": "suki kayotsu"
+          }
+        ],
+        "romaji": "ko n na ni su ki to o 't ta su ka i bu ru u ",
+        "translationZh": "如此澄澈的天蓝色。"
+      },
+      "grammarCards": [
+        {
+          "token": "こんなに",
+          "reading": "こんなに",
+          "romaji": "konnani",
+          "posZh": "副词",
+          "render": true,
+          "zhMeaning": "如此地；这么"
+        },
+        {
+          "token": "透き通った",
+          "reading": "すきとおった",
+          "romaji": "sukitootta",
+          "posZh": "动词（过去形／连体）",
+          "render": true,
+          "zhMeaning": "澄澈的；通透的"
+        },
+        {
+          "token": "スカイブルー",
+          "reading": "スカイブルー",
+          "romaji": "sukaiburuu",
+          "posZh": "名词（片假外来语）",
+          "render": true,
+          "zhMeaning": "天蓝色",
+          "sourceWord": "sky blue"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l036",
+      "startMs": 267517,
+      "endMs": 274797,
+      "caption": {
+        "japanese": "きっとキミがくれた true feel 輝き",
+        "furigana": [
+          {
+            "base": "輝き",
+            "reading": "かがやき",
+            "romaji": "kagayaki"
+          }
+        ],
+        "romaji": "ki 't to ki mi ga ku re ta  true feel ka ga ya ki ",
+        "translationZh": "一定是你给予我的真实感受之光辉。"
+      },
+      "grammarCards": [
+        {
+          "token": "きっと",
+          "reading": "きっと",
+          "romaji": "kitto",
+          "posZh": "副词",
+          "render": true,
+          "zhMeaning": "一定"
+        },
+        {
+          "token": "キミ",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "posZh": "代词",
+          "render": true,
+          "zhMeaning": "你"
+        },
+        {
+          "token": "が",
+          "reading": "が",
+          "romaji": "ga",
+          "posZh": "格助词",
+          "render": true,
+          "functionZh": "主语标记"
+        },
+        {
+          "token": "くれた",
+          "reading": "くれた",
+          "romaji": "kureta",
+          "posZh": "动词（过去形）",
+          "render": true,
+          "zhMeaning": "（你）给了我"
+        },
+        {
+          "token": "輝き",
+          "reading": "かがやき",
+          "romaji": "kagayaki",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "光辉；闪耀"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l037",
+      "startMs": 274797,
+      "endMs": 279530,
+      "caption": {
+        "japanese": "夢が醒めるから出会える",
+        "furigana": [
+          {
+            "base": "夢",
+            "reading": "ゆめ",
+            "romaji": "yume"
+          },
+          {
+            "base": "醒める",
+            "reading": "さめる",
+            "romaji": "same ru"
+          },
+          {
+            "base": "出会える",
+            "reading": "であえる",
+            "romaji": "deae ru"
+          }
+        ],
+        "romaji": "yu me ga sa me ru ka ra de a e ru ",
+        "translationZh": "因为从梦中醒来，所以才能相遇。"
+      },
+      "grammarCards": [
+        {
+          "token": "夢",
+          "reading": "ゆめ",
+          "romaji": "yume",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "梦"
+        },
+        {
+          "token": "が",
+          "reading": "が",
+          "romaji": "ga",
+          "posZh": "助词",
+          "render": true,
+          "functionZh": "主语标记"
+        },
+        {
+          "token": "醒める",
+          "reading": "さめる",
+          "romaji": "sameru",
+          "posZh": "动词",
+          "render": true,
+          "zhMeaning": "醒来；梦醒"
+        },
+        {
+          "token": "から",
+          "reading": "から",
+          "romaji": "kara",
+          "posZh": "接续助词",
+          "render": true,
+          "functionZh": "表示原因：因为"
+        },
+        {
+          "token": "出会える",
+          "reading": "であえる",
+          "romaji": "deaeru",
+          "posZh": "动词（可能形）",
+          "render": true,
+          "zhMeaning": "能够相遇"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l038",
+      "startMs": 279530,
+      "endMs": 281954,
+      "caption": {
+        "japanese": "新しい明日に",
+        "furigana": [
+          {
+            "base": "新しい",
+            "reading": "あたらしー",
+            "romaji": "atarashii"
+          },
+          {
+            "base": "明日",
+            "reading": "あす",
+            "romaji": "ashita"
+          }
+        ],
+        "romaji": "a ta ra shi i a su ni ",
+        "translationZh": "向崭新的明天。"
+      },
+      "grammarCards": [
+        {
+          "token": "新しい",
+          "reading": "あたらしい",
+          "romaji": "atarashii",
+          "posZh": "形容词",
+          "render": true,
+          "zhMeaning": "新的"
+        },
+        {
+          "token": "明日",
+          "reading": "あす",
+          "romaji": "asu",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "明天"
+        },
+        {
+          "token": "に",
+          "reading": "に",
+          "romaji": "ni",
+          "posZh": "格助词",
+          "render": true,
+          "functionZh": "目标／去向"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l039",
+      "startMs": 281954,
+      "endMs": 285394,
+      "caption": {
+        "japanese": "絶対信じてるよ",
+        "furigana": [
+          {
+            "base": "絶対",
+            "reading": "ぜったい",
+            "romaji": "zettai"
+          },
+          {
+            "base": "信じ",
+            "reading": "しんじ",
+            "romaji": "shinji"
+          }
+        ],
+        "romaji": "ze 't ta i shi n ji te ru yo ",
+        "translationZh": "我绝对相信着。"
+      },
+      "grammarCards": [
+        {
+          "token": "絶対",
+          "reading": "ぜったい",
+          "romaji": "zettai",
+          "posZh": "副词",
+          "render": true,
+          "zhMeaning": "绝对"
+        },
+        {
+          "token": "信じてる",
+          "reading": "しんじてる",
+          "romaji": "shinjiteru",
+          "posZh": "动词（口语缩约）",
+          "render": true,
+          "zhMeaning": "相信着"
+        },
+        {
+          "token": "よ",
+          "reading": "よ",
+          "romaji": "yo",
+          "posZh": "终助词",
+          "render": true,
+          "functionZh": "加强告知／断言"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l040",
+      "startMs": 285394,
+      "endMs": 289114,
+      "caption": {
+        "japanese": "Your faith いつでもずっと",
+        "furigana": [],
+        "romaji": "Your faith i tsu de mo zu 't to ",
+        "translationZh": "你的信念，无论何时都始终如一。"
+      },
+      "grammarCards": [
+        {
+          "token": "いつでも",
+          "reading": "いつでも",
+          "romaji": "itsudemo",
+          "posZh": "副词",
+          "render": true,
+          "zhMeaning": "无论何时；总是"
+        },
+        {
+          "token": "ずっと",
+          "reading": "ずっと",
+          "romaji": "zutto",
+          "posZh": "副词",
+          "render": true,
+          "zhMeaning": "一直；始终"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l041",
+      "startMs": 289114,
+      "endMs": 292642,
+      "caption": {
+        "japanese": "Stay high 気付けばほら",
+        "furigana": [
+          {
+            "base": "気付け",
+            "reading": "きずけ",
+            "romaji": "kizuke"
+          }
+        ],
+        "romaji": "Stay high ki du ke ba ho ra ",
+        "translationZh": "回过神来便，你看。"
+      },
+      "grammarCards": [
+        {
+          "token": "気付けば",
+          "reading": "きづけば",
+          "romaji": "kizukeba",
+          "posZh": "动词（ば形）",
+          "render": true,
+          "zhMeaning": "回过神来便；一察觉就"
+        },
+        {
+          "token": "ほら",
+          "reading": "ほら",
+          "romaji": "hora",
+          "posZh": "感叹词",
+          "render": true,
+          "zhMeaning": "你看；瞧"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l042",
+      "startMs": 292642,
+      "endMs": 296318,
+      "caption": {
+        "japanese": "窓越し眩しいスカイブルー",
+        "furigana": [
+          {
+            "base": "窓越し",
+            "reading": "まどごし",
+            "romaji": "mado koshi"
+          },
+          {
+            "base": "眩しい",
+            "reading": "まぶしー",
+            "romaji": "mabushii"
+          }
+        ],
+        "romaji": "ma do go shi ma bu shi i su ka i bu ru u ",
+        "translationZh": "隔着窗，耀眼的天蓝色。"
+      },
+      "grammarCards": [
+        {
+          "token": "窓越し",
+          "reading": "まどごし",
+          "romaji": "madogoshi",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "隔着窗；透过窗"
+        },
+        {
+          "token": "眩しい",
+          "reading": "まぶしい",
+          "romaji": "mabushii",
+          "posZh": "形容词",
+          "render": true,
+          "zhMeaning": "耀眼的"
+        },
+        {
+          "token": "スカイブルー",
+          "reading": "スカイブルー",
+          "romaji": "sukaiburuu",
+          "posZh": "名词（片假外来语）",
+          "render": true,
+          "zhMeaning": "天蓝色；蔚蓝",
+          "sourceWord": "sky blue"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l043",
+      "startMs": 296318,
+      "endMs": 303589,
+      "caption": {
+        "japanese": "きっと明日のドアは always green あいてた",
+        "furigana": [
+          {
+            "base": "明日",
+            "reading": "あす",
+            "romaji": "ashita"
+          }
+        ],
+        "romaji": "ki 't to a su no do a ha  always green a i te ta ",
+        "translationZh": "明日的大门一定一直敞开着。"
+      },
+      "grammarCards": [
+        {
+          "token": "きっと",
+          "reading": "きっと",
+          "romaji": "kitto",
+          "posZh": "副词",
+          "render": true,
+          "zhMeaning": "一定"
+        },
+        {
+          "token": "明日",
+          "reading": "あす",
+          "romaji": "asu",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "明天"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "posZh": "助词",
+          "render": true,
+          "functionZh": "所属／修饰"
+        },
+        {
+          "token": "ドア",
+          "reading": "ドア",
+          "romaji": "doa",
+          "posZh": "名词（片假外来语）",
+          "render": true,
+          "zhMeaning": "门",
+          "sourceWord": "door"
+        },
+        {
+          "token": "は",
+          "reading": "は",
+          "romaji": "wa",
+          "posZh": "助词",
+          "render": true,
+          "functionZh": "主题提示"
+        },
+        {
+          "token": "あいてた",
+          "reading": "あいてた",
+          "romaji": "aiteta",
+          "posZh": "动词（口语缩约）",
+          "render": true,
+          "zhMeaning": "一直开着；敞开着"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l044",
+      "startMs": 303589,
+      "endMs": 309871,
+      "caption": {
+        "japanese": "New days 春の風に聴こえるgraduation",
+        "furigana": [
+          {
+            "base": "春",
+            "reading": "はる",
+            "romaji": "haru"
+          },
+          {
+            "base": "風",
+            "reading": "ふー",
+            "romaji": "kaze"
+          },
+          {
+            "base": "聴こえる",
+            "reading": "きこえる",
+            "romaji": "kiko eru"
+          }
+        ],
+        "romaji": "New days ha ru no ka ze ni ki ko e ru graduation ",
+        "translationZh": "在春风中听得见毕业的歌声。"
+      },
+      "grammarCards": [
+        {
+          "token": "春",
+          "reading": "はる",
+          "romaji": "haru",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "春天"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "posZh": "助词",
+          "render": true,
+          "functionZh": "所属／修饰"
+        },
+        {
+          "token": "風",
+          "reading": "かぜ",
+          "romaji": "kaze",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "风"
+        },
+        {
+          "token": "に",
+          "reading": "に",
+          "romaji": "ni",
+          "posZh": "格助词",
+          "render": true,
+          "functionZh": "现象发生的场所／载体"
+        },
+        {
+          "token": "聴こえる",
+          "reading": "きこえる",
+          "romaji": "kikoeru",
+          "posZh": "动词",
+          "render": true,
+          "zhMeaning": "听得见；传入耳中"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l045",
+      "startMs": 309871,
+      "endMs": 311988,
+      "caption": {
+        "japanese": "今日からの true days",
+        "furigana": [
+          {
+            "base": "今日",
+            "reading": "きょー",
+            "romaji": "kyou"
+          }
+        ],
+        "romaji": "kyo u ka ra no  true days ",
+        "translationZh": "从今天开始的真实岁月。"
+      },
+      "grammarCards": [
+        {
+          "token": "今日",
+          "reading": "きょう",
+          "romaji": "kyou",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "今天"
+        },
+        {
+          "token": "から",
+          "reading": "から",
+          "romaji": "kara",
+          "posZh": "格助词",
+          "render": true,
+          "functionZh": "从；起自"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "posZh": "格助词",
+          "render": true,
+          "functionZh": "连接并修饰后项"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l046",
+      "startMs": 311988,
+      "endMs": 316440,
+      "caption": {
+        "japanese": "キミと出会う未来へ",
+        "furigana": [
+          {
+            "base": "出会う",
+            "reading": "であう",
+            "romaji": "deau"
+          },
+          {
+            "base": "未来",
+            "reading": "みらい",
+            "romaji": "mirai"
+          }
+        ],
+        "romaji": "ki mi to de a u a shi ta he ",
+        "translationZh": "前往与你相遇的未来。"
+      },
+      "grammarCards": [
+        {
+          "token": "キミ",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "posZh": "代词",
+          "render": true,
+          "zhMeaning": "你"
+        },
+        {
+          "token": "と",
+          "reading": "と",
+          "romaji": "to",
+          "posZh": "格助词",
+          "render": true,
+          "functionZh": "和；与"
+        },
+        {
+          "token": "出会う",
+          "reading": "であう",
+          "romaji": "deau",
+          "posZh": "动词",
+          "render": true,
+          "zhMeaning": "相遇"
+        },
+        {
+          "token": "未来",
+          "reading": "あした",
+          "romaji": "ashita",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "未来；明日（歌词特殊读法）"
+        },
+        {
+          "token": "へ",
+          "reading": "へ",
+          "romaji": "e",
+          "posZh": "格助词",
+          "render": true,
+          "functionZh": "移动方向"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l047",
+      "startMs": 332423,
+      "endMs": 338497,
+      "caption": {
+        "japanese": "新しい奇跡をここから始める",
+        "furigana": [
+          {
+            "base": "新しい",
+            "reading": "あたらしー",
+            "romaji": "atarashii"
+          },
+          {
+            "base": "奇跡",
+            "reading": "きせき",
+            "romaji": "kiseki"
+          },
+          {
+            "base": "始める",
+            "reading": "はじめる",
+            "romaji": "hajime ru"
+          }
+        ],
+        "romaji": "a ta ra shi i ki se ki wo ko ko ka ra ha ji me ru ",
+        "translationZh": "从这里开启全新的奇迹。"
+      },
+      "grammarCards": [
+        {
+          "token": "新しい",
+          "reading": "あたらしい",
+          "romaji": "atarashii",
+          "posZh": "形容词",
+          "render": true,
+          "zhMeaning": "新的"
+        },
+        {
+          "token": "奇跡",
+          "reading": "きせき",
+          "romaji": "kiseki",
+          "posZh": "名词",
+          "render": true,
+          "zhMeaning": "奇迹"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "wo",
+          "posZh": "格助词",
+          "render": true,
+          "functionZh": "动作对象"
+        },
+        {
+          "token": "ここ",
+          "reading": "ここ",
+          "romaji": "koko",
+          "posZh": "代词",
+          "render": true,
+          "zhMeaning": "这里"
+        },
+        {
+          "token": "から",
+          "reading": "から",
+          "romaji": "kara",
+          "posZh": "格助词",
+          "render": true,
+          "functionZh": "从；起自"
+        },
+        {
+          "token": "始める",
+          "reading": "はじめる",
+          "romaji": "hajimeru",
+          "posZh": "动词",
+          "render": true,
+          "zhMeaning": "开始；开启"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    },
+    {
+      "id": "l048",
+      "startMs": 338970,
+      "endMs": 345414,
+      "caption": {
+        "japanese": "Shining place ねえもう一度キミと",
+        "furigana": [
+          {
+            "base": "һ",
+            "reading": "いち",
+            "romaji": "ichi"
+          },
+          {
+            "base": "度",
+            "reading": "ど",
+            "romaji": "do"
+          }
+        ],
+        "romaji": "Shining place ne e mo u i chi do ki mi to ",
+        "translationZh": "在那闪耀之地，呐，还想再一次和你一起……"
+      },
+      "grammarCards": [
+        {
+          "token": "ねえ",
+          "reading": "ねえ",
+          "romaji": "nee",
+          "posZh": "感叹词",
+          "render": true,
+          "zhMeaning": "呐"
+        },
+        {
+          "token": "もう一度",
+          "reading": "もういちど",
+          "romaji": "mou ichido",
+          "posZh": "副词性短语",
+          "render": true,
+          "zhMeaning": "再一次"
+        },
+        {
+          "token": "キミ",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "posZh": "代词",
+          "render": true,
+          "zhMeaning": "你"
+        },
+        {
+          "token": "と",
+          "reading": "と",
+          "romaji": "to",
+          "posZh": "格助词",
+          "render": true,
+          "functionZh": "和；与"
+        }
+      ],
+      "analysisStatus": "assisted-review-needs-human-confirmation"
+    }
+  ],
+  "assistedReviewSources": [
+    "QQ Music qm/qmRoma/qmts",
+    "three bounded subagent passes",
+    "authoritative dictionary/grammar lookups when unresolved"
+  ]
+}

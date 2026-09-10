@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "status": "high-confidence",
+  "episodeAsset": "source/episode-s1e6.mp4",
+  "cleanMasterAsset": "source/music.flac",
+  "hybridAsset": "source/music-hybrid.flac",
+  "episodeSourceStartMs": 1319000,
+  "episodeMusicZeroMs": 1327571.25,
+  "cleanMasterOffsetFromOutputStartMs": 8571.25,
+  "firstLyricMasterMs": 13184,
+  "episodeSourceSwitchMs": 1340755.25,
+  "outputSwitchMs": 21755.25,
+  "crossfade": {
+    "durationMs": 500,
+    "episodeFadeOutStartOutputMs": 21255.25,
+    "cleanMasterStartMs": 12684,
+    "curve": "linear"
+  },
+  "output": {
+    "codec": "flac",
+    "sampleRate": 44100,
+    "bitsPerRawSample": 16,
+    "durationMs": 199717.937,
+    "sha256": "6ec00efe8e785758f8e6ddf3c2ae1d8c01c12957bf623bfb0d6e4e1fcece08d2"
+  },
+  "evidence": {
+    "report": "project/alignment/episode-intro-match.json",
+    "spectralPeakEpisodeAbsoluteSeconds": 1327.57,
+    "refinedEpisodeAbsoluteSeconds": 1327.57125,
+    "fineSideCorrelationAtMaster15To35": 0.57223,
+    "clockDriftObservation": "1.125 ms across master 15-65 seconds; negligible for the requested handoff"
+  }
+}

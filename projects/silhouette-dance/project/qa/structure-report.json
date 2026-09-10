@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "result": "passed",
+  "renderer": "project/render/structure_preview.py",
+  "template": {
+    "foreground": {
+      "path": "project/templates/foreground.json",
+      "sha256": "ea4f87fd91c72f9abc4f0a4ea3d32537b2bd796c024532a7ed21bbf389774ba8"
+    },
+    "background": {
+      "path": "project/templates/background.json",
+      "sha256": "f361455331d7d5dad83dfaad9911f0c4002e00c508ad9c60db6c1dc05748174e"
+    }
+  },
+  "sourceLine": {
+    "id": "l001",
+    "text": "あと一匙の憂鬱で 壊れそうなんて",
+    "romaji": "a to hi to sa ji no yu u u tsu de   ko wa re so u na n te "
+  },
+  "font": {
+    "path": "C:/Windows/Fonts/msyhbd.ttc",
+    "weight": 700,
+    "glyphSample": "影色舞 あと一匙 憂鬱 MyGO!!!!! 中文 !?",
+    "bounds": [
+      0,
+      16,
+      1275,
+      93
+    ]
+  },
+  "layout": {
+    "cover": [
+      850,
+      35,
+      220,
+      220
+    ],
+    "lyric": [
+      420,
+      330,
+      1079,
+      76
+    ],
+    "romaji": [
+      502,
+      430,
+      915,
+      42
+    ],
+    "translation": [
+      642,
+      500,
+      636,
+      51
+    ],
+    "cards": [
+      95,
+      600,
+      1730,
+      250
+    ]
+  },
+  "checks": {
+    "coverVisible": true,
+    "boldCjk": true,
+    "glyphsRendered": true,
+    "backgroundFit": "height-center-pillarbox",
+    "sourceOrderPreserved": true,
+    "foregroundVeil": "#000000 at 0.28",
+    "overflow": false,
+    "tokenAnchors": "deferred until stage-3 segmentation"
+  },
+  "image": "project/qa/structure-preview-16x9.png"
+}

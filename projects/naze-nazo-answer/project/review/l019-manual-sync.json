@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "userWording": "l019 我有修改，重新生成",
+  "frame": "l019",
+  "change": "Removed trailing erroneous QRC fragment く(＿) from displayed lyric while retaining reviewed Chinese and cards.",
+  "framesSha256": "ef2f96732b9354bffea42a5d3a45966c937ed639063051b7801ee12b94797faa",
+  "timingSha256": "23634af2c58b7f689df5d8a17beb5718f880edc76430d99309a435c949e8638f"
+}

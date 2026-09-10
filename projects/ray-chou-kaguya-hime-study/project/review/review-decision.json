@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "content": "approved",
+  "scope": "all cards; QMTS translations locked",
+  "renderAuthorized": false,
+  "userWording": "确认采纳；按当前审核版渲染",
+  "frameSha256": "e8772b6340188d352bf45bd34569ad0076761b83d1cd8841961c7379082f5830",
+  "assistedReviewAuditSha256": "a5464d7050879932b7e3360c29f526a2fe24e380c3b72dbc04ffb61a71feac9c",
+  "mergeLogSha256": "498b04e9228c81d00686998737cdb5043aed4ebfca435f6fa7ed2e02b58de134",
+  "translationPolicy": "QMTS source retained by user instruction"
+}

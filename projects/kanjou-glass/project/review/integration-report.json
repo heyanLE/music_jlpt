@@ -1,0 +1,6495 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "integration",
+  "status": "completed",
+  "baseFrameSha256": "3e3a32c058e5eca15cce097f0ab61965511d3dbf66127431d55ce51e4064af9f",
+  "sourceProposalFiles": {
+    "lexical": {
+      "path": "project/proposals/lexical.json",
+      "sha256": "09255a4fdef1823855ee0056c0891a628064915944383bcddf708a0a3b6f2a77",
+      "reviewRole": "lexical",
+      "scopeFrameCount": 33,
+      "changeCount": 30
+    },
+    "grammar": {
+      "path": "project/proposals/grammar.json",
+      "sha256": "a62c30865a1e2dfe4b5d86124fa34e32243f0ffc5cd5b239956fc6029294ed67",
+      "reviewRole": "grammar",
+      "scopeFrameCount": 33,
+      "changeCount": 98
+    },
+    "translation": {
+      "path": "project/proposals/translation.json",
+      "sha256": "d4cb74a3bb2012bd83d69c07cc543191cc3ff36828b77cb721b143a04e96fd61",
+      "reviewRole": "translation",
+      "scopeFrameCount": 33,
+      "changeCount": 186
+    }
+  },
+  "proposalCounts": {
+    "source": {
+      "lexical": 30,
+      "grammar": 98,
+      "translation": 186,
+      "total": 314
+    },
+    "sourceOldValuesValidated": 314,
+    "sourceOldValueMismatches": 0,
+    "conflicts": 45,
+    "recommendedChanges": 259
+  },
+  "conflicts": [
+    {
+      "frameId": "l001",
+      "field": "grammarCards[1].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "连接水面与波纹，表示修饰关系",
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "连接水面与波纹：水面的",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "连接水面与波纹，表示修饰关系",
+        "selectedConfidence": 0.99,
+        "reason": "grammar owns grammarCards[1].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l001",
+      "field": "grammarCards[3].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "表示视线离开的起点：从水面波纹处移开脸",
+          "confidence": 0.97
+        },
+        {
+          "role": "translation",
+          "new": "表示视线移开的起点：从波纹处",
+          "confidence": 0.97
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "表示视线离开的起点：从水面波纹处移开脸",
+        "selectedConfidence": 0.97,
+        "reason": "grammar owns grammarCards[3].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l001",
+      "field": "grammarCards[6].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "将“移开脸”这一小句名词化",
+          "confidence": 0.98
+        },
+        {
+          "role": "translation",
+          "new": "名词化前述动作，构成原因说明",
+          "confidence": 0.98
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "将“移开脸”这一小句名词化",
+        "selectedConfidence": 0.98,
+        "reason": "grammar owns grammarCards[6].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l001",
+      "field": "grammarCards[7].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "提示名词化小句为主题：之所以…",
+          "confidence": 0.98
+        },
+        {
+          "role": "translation",
+          "new": "提示待说明原因的事项",
+          "confidence": 0.98
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "提示名词化小句为主题：之所以…",
+        "selectedConfidence": 0.98,
+        "reason": "grammar owns grammarCards[7].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l002",
+      "field": "grammarCards[1].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "连接私与心，表示所属：我的心",
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "表示所属：我的",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "连接私与心，表示所属：我的心",
+        "selectedConfidence": 0.99,
+        "reason": "grammar owns grammarCards[1].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l002",
+      "field": "grammarCards[4].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "将“心动摇了”这一小句名词化",
+          "confidence": 0.97
+        },
+        {
+          "role": "translation",
+          "new": "名词化：内心动摇这件事",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "将“心动摇了”这一小句名词化",
+        "selectedConfidence": 0.97,
+        "reason": "grammar owns grammarCards[4].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": true
+      }
+    },
+    {
+      "frameId": "l003",
+      "field": "grammarCards[1].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "表示共同动作的对象：与你并肩",
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "表示共同对象：与你",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "表示共同动作的对象：与你并肩",
+        "selectedConfidence": 0.99,
+        "reason": "grammar owns grammarCards[1].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l003",
+      "field": "grammarCards[3].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "限定：仅仅与你并肩",
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "限定条件：仅仅……",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "限定：仅仅与你并肩",
+        "selectedConfidence": 0.99,
+        "reason": "grammar owns grammarCards[3].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l003",
+      "field": "grammarCards[4].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "连接前面的限定小句与心臓，表示连体修饰",
+          "confidence": 0.98
+        },
+        {
+          "role": "translation",
+          "new": "连接限定成分并修饰心脏",
+          "confidence": 0.91
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "连接前面的限定小句与心臓，表示连体修饰",
+        "selectedConfidence": 0.98,
+        "reason": "grammar owns grammarCards[4].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l003",
+      "field": "grammarCards[6].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "标记跨句主语“心臓”，谓语为下一句的火照りやまない",
+          "confidence": 0.98
+        },
+        {
+          "role": "translation",
+          "new": "标记发烫不止的主体（心脏）",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "标记跨句主语“心臓”，谓语为下一句的火照りやまない",
+        "selectedConfidence": 0.98,
+        "reason": "grammar owns grammarCards[6].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": true
+      }
+    },
+    {
+      "frameId": "l006",
+      "field": "grammarCards[2].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "标记見る的对象：柔い夢",
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "标记梦见的对象（梦）",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "标记見る的对象：柔い夢",
+        "selectedConfidence": 0.99,
+        "reason": "grammar owns grammarCards[2].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l007",
+      "field": "grammarCards[5].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "标记固定表达“目が合う”的主语",
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "标记相遇的主体（目光）",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "标记固定表达“目が合う”的主语",
+        "selectedConfidence": 0.99,
+        "reason": "grammar owns grammarCards[5].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l008",
+      "field": "grammarCards[1].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "连接奥底与まぶしさ，表示修饰关系",
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "连接深处与耀眼光芒",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "连接奥底与まぶしさ，表示修饰关系",
+        "selectedConfidence": 0.99,
+        "reason": "grammar owns grammarCards[1].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l008",
+      "field": "grammarCards[4].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "标记跨句动作味わう的对象：奥底のまぶしさ",
+          "confidence": 0.98
+        },
+        {
+          "role": "translation",
+          "new": "跨行标记下一句“品味”的对象",
+          "confidence": 0.98
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "标记跨句动作味わう的对象：奥底のまぶしさ",
+        "selectedConfidence": 0.98,
+        "reason": "grammar owns grammarCards[4].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l009",
+      "field": "grammarCards[4].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "标记呼ぶ的对象：名前",
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "标记呼唤的对象（名字）",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "标记呼ぶ的对象：名前",
+        "selectedConfidence": 0.99,
+        "reason": "grammar owns grammarCards[4].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l010",
+      "field": "grammarCards[3].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "标记感情所寄寓的对象或范围：フレイバー",
+          "confidence": 0.94
+        },
+        {
+          "role": "translation",
+          "new": "标记情感满溢的范围：在这风味里",
+          "confidence": 0.97
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "标记感情所寄寓的对象或范围：フレイバー",
+        "selectedConfidence": 0.94,
+        "reason": "grammar owns grammarCards[3].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": true
+      }
+    },
+    {
+      "frameId": "l010",
+      "field": "grammarCards[4].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "与に构成には，提示该对象或范围为主题",
+          "confidence": 0.96
+        },
+        {
+          "role": "translation",
+          "new": "提示并强调上述风味范围",
+          "confidence": 0.98
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "与に构成には，提示该对象或范围为主题",
+        "selectedConfidence": 0.96,
+        "reason": "grammar owns grammarCards[4].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": true
+      }
+    },
+    {
+      "frameId": "l012",
+      "field": "grammarCards[1].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "表示并列追加：憧憬也…",
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "与后一个も并列列举：憧憬也好",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "表示并列追加：憧憬也…",
+        "selectedConfidence": 0.99,
+        "reason": "grammar owns grammarCards[1].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l012",
+      "field": "grammarCards[3].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "表示并列追加：伤痕也…",
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "与前一个も并列列举：伤痕也好",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "表示并列追加：伤痕也…",
+        "selectedConfidence": 0.99,
+        "reason": "grammar owns grammarCards[3].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l014",
+      "field": "grammarCards[1].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "标记透かす的对象：グラス",
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "标记透过观看的对象（酒杯）",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "标记透かす的对象：グラス",
+        "selectedConfidence": 0.99,
+        "reason": "grammar owns grammarCards[1].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l014",
+      "field": "grammarCards[3].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "与て形构成〜ては，在此承接后项并带提示语气",
+          "confidence": 0.93
+        },
+        {
+          "role": "translation",
+          "new": "接て形成～ては，表示反复或承接",
+          "confidence": 0.95
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "与て形构成〜ては，在此承接后项并带提示语气",
+        "selectedConfidence": 0.93,
+        "reason": "grammar owns grammarCards[3].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": true
+      }
+    },
+    {
+      "frameId": "l016",
+      "field": "grammarCards[2].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "标记なぞる的对象：流る雲",
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "标记视线描摹的对象（流云）",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "标记なぞる的对象：流る雲",
+        "selectedConfidence": 0.99,
+        "reason": "grammar owns grammarCards[2].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l016",
+      "field": "grammarCards[4].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "表示动作手段：用目光描摹",
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "表示手段：用视线",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "表示动作手段：用目光描摹",
+        "selectedConfidence": 0.99,
+        "reason": "grammar owns grammarCards[4].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l017",
+      "field": "grammarCards[1].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "标记程度从句中的主语：世界",
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "标记发生变化的主体（世界）",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "标记程度从句中的主语：世界",
+        "selectedConfidence": 0.99,
+        "reason": "grammar owns grammarCards[1].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l017",
+      "field": "grammarCards[3].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "表示程度：美到仿佛世界都改变",
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "表示程度：美到足以改变世界",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "表示程度：美到仿佛世界都改变",
+        "selectedConfidence": 0.99,
+        "reason": "grammar owns grammarCards[3].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l017",
+      "field": "grammarCards[6].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "标记思った的引用内容",
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "标记思考内容的引用",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "标记思った的引用内容",
+        "selectedConfidence": 0.99,
+        "reason": "grammar owns grammarCards[6].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l019",
+      "field": "grammarCards[2].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "并列两个名词：影与影",
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "并列两个身影",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "并列两个名词：影与影",
+        "selectedConfidence": 0.99,
+        "reason": "grammar owns grammarCards[2].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l019",
+      "field": "grammarCards[6].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "标记する的对象：期待",
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "标记心怀的内容（期待）",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "标记する的对象：期待",
+        "selectedConfidence": 0.99,
+        "reason": "grammar owns grammarCards[6].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l020",
+      "field": "grammarCards[4].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "标记取った的对象：手",
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "标记牵起的对象（手）",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "标记取った的对象：手",
+        "selectedConfidence": 0.99,
+        "reason": "grammar owns grammarCards[4].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l022",
+      "field": "grammarCards[4].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "标记主语：こぼれそうな想い",
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "标记填满内心的主体（思念）",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "标记主语：こぼれそうな想い",
+        "selectedConfidence": 0.99,
+        "reason": "grammar owns grammarCards[4].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l022",
+      "field": "grammarCards[6].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "标记満たす的对象：胸",
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "标记被填满的对象（心间）",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "标记満たす的对象：胸",
+        "selectedConfidence": 0.99,
+        "reason": "grammar owns grammarCards[6].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l023",
+      "field": "grammarCards[2].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "标记跨句主语“瞳”，谓语见下一句的惑う",
+          "confidence": 0.97
+        },
+        {
+          "role": "translation",
+          "new": "跨行标记显露迷惘的主体（眼眸）",
+          "confidence": 0.98
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "标记跨句主语“瞳”，谓语见下一句的惑う",
+        "selectedConfidence": 0.97,
+        "reason": "grammar owns grammarCards[2].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": true
+      }
+    },
+    {
+      "frameId": "l024",
+      "field": "grammarCards[1].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "标记持つ的对象：熱",
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "标记眼眸带有的热意",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "标记持つ的对象：熱",
+        "selectedConfidence": 0.99,
+        "reason": "grammar owns grammarCards[1].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l024",
+      "field": "grammarCards[4].zhMeaning",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": null,
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "使形容动词副词化：隐约地",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "translation",
+        "selectedNew": "使形容动词副词化：隐约地",
+        "selectedConfidence": 0.99,
+        "reason": "translation owns grammarCards[4].zhMeaning; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l025",
+      "field": "grammarCards[1].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "表示时间范围的终点：直到今天",
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "表示时间终点：直到今天",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "表示时间范围的终点：直到今天",
+        "selectedConfidence": 0.99,
+        "reason": "grammar owns grammarCards[1].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l025",
+      "field": "grammarCards[2].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "连接今日まで与二人，表示连体修饰",
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "连接时间范围并修饰两个人",
+          "confidence": 0.98
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "连接今日まで与二人，表示连体修饰",
+        "selectedConfidence": 0.99,
+        "reason": "grammar owns grammarCards[2].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l027",
+      "field": "grammarCards[1].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "提示主题：本音",
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "提示话题：至于真心话",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "提示主题：本音",
+        "selectedConfidence": 0.99,
+        "reason": "grammar owns grammarCards[1].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l027",
+      "field": "grammarCards[5].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "连接状态与评价いい：保持那样也可以",
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "表示保持该状态：就这样",
+          "confidence": 0.98
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "连接状态与评价いい：保持那样也可以",
+        "selectedConfidence": 0.99,
+        "reason": "grammar owns grammarCards[5].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l029",
+      "field": "grammarCards[4].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "标记独り占めしたい的对象：理由",
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "标记想独占的对象（理由）",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "标记独り占めしたい的对象：理由",
+        "selectedConfidence": 0.99,
+        "reason": "grammar owns grammarCards[4].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l030",
+      "field": "grammarCards[3].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "标记感情所寄寓的对象或范围：フレイバー",
+          "confidence": 0.94
+        },
+        {
+          "role": "translation",
+          "new": "标记情感满溢的范围：在这风味里",
+          "confidence": 0.97
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "标记感情所寄寓的对象或范围：フレイバー",
+        "selectedConfidence": 0.94,
+        "reason": "grammar owns grammarCards[3].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": true
+      }
+    },
+    {
+      "frameId": "l030",
+      "field": "grammarCards[4].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "与に构成には，提示该对象或范围为主题",
+          "confidence": 0.96
+        },
+        {
+          "role": "translation",
+          "new": "提示并强调上述风味范围",
+          "confidence": 0.98
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "与に构成には，提示该对象或范围为主题",
+        "selectedConfidence": 0.96,
+        "reason": "grammar owns grammarCards[4].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": true
+      }
+    },
+    {
+      "frameId": "l032",
+      "field": "grammarCards[1].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "表示并列追加：憧憬也…",
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "与后一个も并列列举：憧憬也好",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "表示并列追加：憧憬也…",
+        "selectedConfidence": 0.99,
+        "reason": "grammar owns grammarCards[1].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l032",
+      "field": "grammarCards[3].functionZh",
+      "type": "same-field-role-conflict",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": "表示并列追加：伤痕也…",
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": "与前一个も并列列举：伤痕也好",
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "selectedNew": "表示并列追加：伤痕也…",
+        "selectedConfidence": 0.99,
+        "reason": "grammar owns grammarCards[3].functionZh; role ownership is explicit and the alternative was not silently merged.",
+        "selectedBelowCompetingConfidence": false
+      }
+    },
+    {
+      "frameId": "l020",
+      "field": "grammarCards",
+      "type": "token-structure-index-remap",
+      "proposals": [
+        {
+          "role": "lexical",
+          "action": "merge old cards 1+2 into 待ちあぐね"
+        },
+        {
+          "role": "grammar",
+          "action": "changes reference old indices 0,1,2,4,5"
+        },
+        {
+          "role": "translation",
+          "action": "changes reference old indices 0..5"
+        }
+      ],
+      "resolution": {
+        "selectedRole": "integration",
+        "reason": "Lexical owns the boundary; grammar and translation values were remapped by token identity into a complete five-card replacement.",
+        "indexMap": {
+          "0": 0,
+          "3": 2,
+          "4": 3,
+          "5": 4,
+          "1+2": 1
+        },
+        "mergedCard": {
+          "token": "待ちあぐね",
+          "reading": "まちあぐね",
+          "romaji": "machiagune",
+          "grammarStructureZh": "复合动词连用形（中顿）",
+          "zhMeaning": "等得厌倦；等得不耐烦"
+        }
+      }
+    },
+    {
+      "frameId": "l024",
+      "field": "grammarCards[4].zhMeaning|functionZh",
+      "type": "meaning-function-exclusivity",
+      "proposals": [
+        {
+          "role": "grammar",
+          "new": {
+            "grammarStructureZh": "な形容词副词化",
+            "functionZh": "使かすか作状语：隐约地"
+          },
+          "confidence": 0.99
+        },
+        {
+          "role": "translation",
+          "new": {
+            "zhMeaning": "使形容动词副词化：隐约地"
+          },
+          "confidence": 0.99
+        }
+      ],
+      "resolution": {
+        "selectedRole": "grammar",
+        "reason": "This に is functional; grammar owns functionZh and exactly-one meaning/function forbids retaining the translation gloss."
+      }
+    }
+  ],
+  "recommendedProposalSet": {
+    "schemaVersion": 2,
+    "baseFrameSha256": "3e3a32c058e5eca15cce097f0ab61965511d3dbf66127431d55ce51e4064af9f",
+    "applicationOrder": "Apply changes in listed order against the unchanged base frames.json. A null new value means delete, though this set contains no null writes.",
+    "ownership": {
+      "lexical": "token boundaries, reading, romaji, furigana, loanword sourceWord",
+      "grammar": "grammarStructureZh and grammatical functionZh",
+      "translation": "caption.translationZh and lexical zhMeaning"
+    },
+    "changes": [
+      {
+        "frameId": "l001",
+        "field": "caption.furigana",
+        "old": [
+          {
+            "cardIndex": 0,
+            "base": "水面",
+            "surfaceOffset": 0,
+            "reading": "すいめん",
+            "tokenStart": 0,
+            "baseStart": 0
+          },
+          {
+            "cardIndex": 2,
+            "base": "波紋",
+            "surfaceOffset": 0,
+            "reading": "はもん",
+            "tokenStart": 3,
+            "baseStart": 3
+          },
+          {
+            "cardIndex": 4,
+            "base": "顔",
+            "surfaceOffset": 0,
+            "reading": "かお",
+            "tokenStart": 8,
+            "baseStart": 8
+          },
+          {
+            "cardIndex": 5,
+            "base": "逸",
+            "surfaceOffset": 0,
+            "reading": "そらした",
+            "tokenStart": 9,
+            "baseStart": 9
+          }
+        ],
+        "new": [
+          {
+            "cardIndex": 0,
+            "base": "水面",
+            "surfaceOffset": 0,
+            "reading": "みなも",
+            "tokenStart": 0,
+            "baseStart": 0
+          },
+          {
+            "cardIndex": 2,
+            "base": "波紋",
+            "surfaceOffset": 0,
+            "reading": "はもん",
+            "tokenStart": 3,
+            "baseStart": 3
+          },
+          {
+            "cardIndex": 4,
+            "base": "顔",
+            "surfaceOffset": 0,
+            "reading": "かお",
+            "tokenStart": 8,
+            "baseStart": 8
+          },
+          {
+            "cardIndex": 5,
+            "base": "逸",
+            "surfaceOffset": 0,
+            "reading": "そ",
+            "tokenStart": 9,
+            "baseStart": 9
+          }
+        ],
+        "confidence": 1,
+        "evidence": [
+          "japanese-song-study-video 固定前景契约：振假名只覆盖连续汉字段，不重复显示歌词中已有的平假名；纯假名词不显示振假名。",
+          "project/timing/qm.json 与 project/timing/roma.json：逐字核对汉字位置和对应唱读。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "lexical",
+          "sourceIndex": 3
+        }
+      },
+      {
+        "frameId": "l001",
+        "field": "caption.romaji",
+        "old": "suimen no hamon kara kao sorashita no wa",
+        "new": "minamo no hamon kara kao sorashita no wa",
+        "confidence": 1,
+        "evidence": [
+          "project/timing/qm.json：冻结日文歌词、字符位置和逐词时间。",
+          "project/timing/roma.json：冻结 QQ 音乐唱读轨；本提案以唱读轨而非词典默认音纠正歌曲实际读音。",
+          "roma.json 对本句逐拍记录为「mi na mo」；因此「水面」按歌曲实际唱读标为「みなも / minamo」，不是词典默认的「すいめん」。",
+          "小学馆《デジタル大辞泉》收录「みなも【水面】」：https://kotobank.jp/word/%E6%B0%B4%E9%9D%A2-639224"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "lexical",
+          "sourceIndex": 2
+        }
+      },
+      {
+        "frameId": "l001",
+        "field": "grammarCards[0].reading",
+        "old": "すいめん",
+        "new": "みなも",
+        "confidence": 1,
+        "evidence": [
+          "project/timing/qm.json：冻结日文歌词、字符位置和逐词时间。",
+          "project/timing/roma.json：冻结 QQ 音乐唱读轨；本提案以唱读轨而非词典默认音纠正歌曲实际读音。",
+          "roma.json 对本句逐拍记录为「mi na mo」；因此「水面」按歌曲实际唱读标为「みなも / minamo」，不是词典默认的「すいめん」。",
+          "小学馆《デジタル大辞泉》收录「みなも【水面】」：https://kotobank.jp/word/%E6%B0%B4%E9%9D%A2-639224"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "lexical",
+          "sourceIndex": 0
+        }
+      },
+      {
+        "frameId": "l001",
+        "field": "grammarCards[0].romaji",
+        "old": "suimen",
+        "new": "minamo",
+        "confidence": 1,
+        "evidence": [
+          "project/timing/qm.json：冻结日文歌词、字符位置和逐词时间。",
+          "project/timing/roma.json：冻结 QQ 音乐唱读轨；本提案以唱读轨而非词典默认音纠正歌曲实际读音。",
+          "roma.json 对本句逐拍记录为「mi na mo」；因此「水面」按歌曲实际唱读标为「みなも / minamo」，不是词典默认的「すいめん」。",
+          "小学馆《デジタル大辞泉》收录「みなも【水面】」：https://kotobank.jp/word/%E6%B0%B4%E9%9D%A2-639224"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "lexical",
+          "sourceIndex": 1
+        }
+      },
+      {
+        "frameId": "l001",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "水面",
+        "confidence": 0.99,
+        "evidence": [
+          "QQ qmts整句中文；水面の波紋语境"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 0
+        }
+      },
+      {
+        "frameId": "l001",
+        "field": "grammarCards[1].functionZh",
+        "old": "表示所属、修饰或名词化",
+        "new": "连接水面与波纹，表示修饰关系",
+        "confidence": 0.99,
+        "evidence": [
+          "歌词语境：水面の波紋，名词＋の＋名词。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 0
+        }
+      },
+      {
+        "frameId": "l001",
+        "field": "grammarCards[2].zhMeaning",
+        "old": "待联网复核",
+        "new": "波纹；涟漪",
+        "confidence": 0.99,
+        "evidence": [
+          "QQ qmts译作水面泛起的波纹"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 2
+        }
+      },
+      {
+        "frameId": "l001",
+        "field": "grammarCards[3].functionZh",
+        "old": "表示起点或原因",
+        "new": "表示视线离开的起点：从水面波纹处移开脸",
+        "confidence": 0.97,
+        "evidence": [
+          "歌词语境：波紋から顔を逸らす；から标记离开的起点。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 1
+        }
+      },
+      {
+        "frameId": "l001",
+        "field": "grammarCards[4].zhMeaning",
+        "old": "待联网复核",
+        "new": "脸；脸庞",
+        "confidence": 0.99,
+        "evidence": [
+          "顔を逸らす语境"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 4
+        }
+      },
+      {
+        "frameId": "l001",
+        "field": "grammarCards[5].grammarStructureZh",
+        "old": "动词（活用）",
+        "new": "他动词（过去形）",
+        "confidence": 0.99,
+        "evidence": [
+          "逸らした＝逸らす的た形；宾语顔后的を在歌词中省略。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 2
+        }
+      },
+      {
+        "frameId": "l001",
+        "field": "grammarCards[5].zhMeaning",
+        "old": "待联网复核",
+        "new": "移开；别过",
+        "confidence": 0.98,
+        "evidence": [
+          "顔を逸らす表示把脸转向别处；参见小学馆辞典目を逸らす：https://kotobank.jp/word/%E7%9B%AE%E3%82%92%E9%80%B8%E3%82%89%E3%81%99-642763"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 5
+        }
+      },
+      {
+        "frameId": "l001",
+        "field": "grammarCards[6].functionZh",
+        "old": "表示所属、修饰或名词化",
+        "new": "将“移开脸”这一小句名词化",
+        "confidence": 0.98,
+        "evidence": [
+          "歌词语境：顔逸らしたのは，の承接动词过去形。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 4
+        }
+      },
+      {
+        "frameId": "l001",
+        "field": "grammarCards[6].grammarStructureZh",
+        "old": "格助词",
+        "new": "准体助词（名词化）",
+        "confidence": 0.98,
+        "evidence": [
+          "国立国语研究所：准体助词「の」と文法化・構文化（https://www2.ninjal.ac.jp/past-events/grammaticalization/1_aoki.pdf）。",
+          "歌词语境：顔を逸らしたのは…。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 3
+        }
+      },
+      {
+        "frameId": "l001",
+        "field": "grammarCards[7].functionZh",
+        "old": "提示主题或形成对比",
+        "new": "提示名词化小句为主题：之所以…",
+        "confidence": 0.98,
+        "evidence": [
+          "歌词语境：顔逸らしたのは，后文说明原因。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 5
+        }
+      },
+      {
+        "frameId": "l002",
+        "field": "caption.furigana",
+        "old": [
+          {
+            "cardIndex": 0,
+            "base": "私",
+            "surfaceOffset": 0,
+            "reading": "わたくし",
+            "tokenStart": 0,
+            "baseStart": 0
+          },
+          {
+            "cardIndex": 2,
+            "base": "心",
+            "surfaceOffset": 0,
+            "reading": "こころ",
+            "tokenStart": 2,
+            "baseStart": 2
+          },
+          {
+            "cardIndex": 3,
+            "base": "揺",
+            "surfaceOffset": 0,
+            "reading": "ゆらいだ",
+            "tokenStart": 4,
+            "baseStart": 4
+          },
+          {
+            "cardIndex": 5,
+            "base": "隠",
+            "surfaceOffset": 0,
+            "reading": "かくしたくて",
+            "tokenStart": 9,
+            "baseStart": 9
+          }
+        ],
+        "new": [
+          {
+            "cardIndex": 0,
+            "base": "私",
+            "surfaceOffset": 0,
+            "reading": "わたし",
+            "tokenStart": 0,
+            "baseStart": 0
+          },
+          {
+            "cardIndex": 2,
+            "base": "心",
+            "surfaceOffset": 0,
+            "reading": "こころ",
+            "tokenStart": 2,
+            "baseStart": 2
+          },
+          {
+            "cardIndex": 3,
+            "base": "揺",
+            "surfaceOffset": 0,
+            "reading": "ゆ",
+            "tokenStart": 4,
+            "baseStart": 4
+          },
+          {
+            "cardIndex": 5,
+            "base": "隠",
+            "surfaceOffset": 0,
+            "reading": "かく",
+            "tokenStart": 9,
+            "baseStart": 9
+          }
+        ],
+        "confidence": 1,
+        "evidence": [
+          "japanese-song-study-video 固定前景契约：振假名只覆盖连续汉字段，不重复显示歌词中已有的平假名；纯假名词不显示振假名。",
+          "project/timing/qm.json 与 project/timing/roma.json：逐字核对汉字位置和对应唱读。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "lexical",
+          "sourceIndex": 7
+        }
+      },
+      {
+        "frameId": "l002",
+        "field": "caption.romaji",
+        "old": "watakushi no kokoro yuraida no kakushitakute",
+        "new": "watashi no kokoro yuraida no kakushitakute",
+        "confidence": 1,
+        "evidence": [
+          "project/timing/qm.json：冻结日文歌词、字符位置和逐词时间。",
+          "project/timing/roma.json：冻结 QQ 音乐唱读轨；本提案以唱读轨而非词典默认音纠正歌曲实际读音。",
+          "roma.json 对本句逐拍记录为「wa ta shi」；草稿的「わたくし / watakushi」与冻结唱读轨不符。",
+          "小学馆《デジタル大辞泉》列出「私」常用读音「わたし」：https://kotobank.jp/word/%E7%A7%81-664668"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "lexical",
+          "sourceIndex": 6
+        }
+      },
+      {
+        "frameId": "l002",
+        "field": "grammarCards[0].reading",
+        "old": "わたくし",
+        "new": "わたし",
+        "confidence": 1,
+        "evidence": [
+          "project/timing/qm.json：冻结日文歌词、字符位置和逐词时间。",
+          "project/timing/roma.json：冻结 QQ 音乐唱读轨；本提案以唱读轨而非词典默认音纠正歌曲实际读音。",
+          "roma.json 对本句逐拍记录为「wa ta shi」；草稿的「わたくし / watakushi」与冻结唱读轨不符。",
+          "小学馆《デジタル大辞泉》列出「私」常用读音「わたし」：https://kotobank.jp/word/%E7%A7%81-664668"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "lexical",
+          "sourceIndex": 4
+        }
+      },
+      {
+        "frameId": "l002",
+        "field": "grammarCards[0].romaji",
+        "old": "watakushi",
+        "new": "watashi",
+        "confidence": 1,
+        "evidence": [
+          "project/timing/qm.json：冻结日文歌词、字符位置和逐词时间。",
+          "project/timing/roma.json：冻结 QQ 音乐唱读轨；本提案以唱读轨而非词典默认音纠正歌曲实际读音。",
+          "roma.json 对本句逐拍记录为「wa ta shi」；草稿的「わたくし / watakushi」与冻结唱读轨不符。",
+          "小学馆《デジタル大辞泉》列出「私」常用读音「わたし」：https://kotobank.jp/word/%E7%A7%81-664668"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "lexical",
+          "sourceIndex": 5
+        }
+      },
+      {
+        "frameId": "l002",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "我",
+        "confidence": 0.99,
+        "evidence": [
+          "QQ qmts整句中文"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 8
+        }
+      },
+      {
+        "frameId": "l002",
+        "field": "grammarCards[1].functionZh",
+        "old": "表示所属、修饰或名词化",
+        "new": "连接私与心，表示所属：我的心",
+        "confidence": 0.99,
+        "evidence": [
+          "歌词语境：私の心，名词＋の＋名词。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 6
+        }
+      },
+      {
+        "frameId": "l002",
+        "field": "grammarCards[2].zhMeaning",
+        "old": "待联网复核",
+        "new": "内心；心",
+        "confidence": 0.99,
+        "evidence": [
+          "私の心语境"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 10
+        }
+      },
+      {
+        "frameId": "l002",
+        "field": "grammarCards[3].grammarStructureZh",
+        "old": "动词（活用）",
+        "new": "自动词（过去形）",
+        "confidence": 0.99,
+        "evidence": [
+          "揺らいだ＝揺らぐ的た形。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 7
+        }
+      },
+      {
+        "frameId": "l002",
+        "field": "grammarCards[3].zhMeaning",
+        "old": "待联网复核",
+        "new": "动摇了",
+        "confidence": 0.99,
+        "evidence": [
+          "心が揺らぐ的情感义"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 11
+        }
+      },
+      {
+        "frameId": "l002",
+        "field": "grammarCards[4].functionZh",
+        "old": "表示所属、修饰或名词化",
+        "new": "将“心动摇了”这一小句名词化",
+        "confidence": 0.97,
+        "evidence": [
+          "整句中文：因为我想隐藏心中的那份动摇。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 9
+        }
+      },
+      {
+        "frameId": "l002",
+        "field": "grammarCards[4].grammarStructureZh",
+        "old": "格助词",
+        "new": "准体助词（名词化）",
+        "confidence": 0.97,
+        "evidence": [
+          "歌词语境：心が揺らいだのを隠したくて；口语歌词省略宾格助词を。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 8
+        }
+      },
+      {
+        "frameId": "l002",
+        "field": "grammarCards[5].grammarStructureZh",
+        "old": "动词（活用）",
+        "new": "〜たくて（愿望・原因）",
+        "confidence": 0.99,
+        "evidence": [
+          "隠す＋たい＋くて；〜たくて在此说明前句行为的原因。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 10
+        }
+      },
+      {
+        "frameId": "l002",
+        "field": "grammarCards[5].zhMeaning",
+        "old": "待联网复核",
+        "new": "因为想掩饰",
+        "confidence": 0.98,
+        "evidence": [
+          "～たくて在此说明上一行转开脸的原因"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 13
+        }
+      },
+      {
+        "frameId": "l003",
+        "field": "caption.furigana",
+        "old": [
+          {
+            "cardIndex": 2,
+            "base": "並",
+            "surfaceOffset": 0,
+            "reading": "ならんでる",
+            "tokenStart": 4,
+            "baseStart": 4
+          },
+          {
+            "cardIndex": 5,
+            "base": "心臓",
+            "surfaceOffset": 0,
+            "reading": "しんぞう",
+            "tokenStart": 11,
+            "baseStart": 11
+          }
+        ],
+        "new": [
+          {
+            "cardIndex": 2,
+            "base": "並",
+            "surfaceOffset": 0,
+            "reading": "なら",
+            "tokenStart": 4,
+            "baseStart": 4
+          },
+          {
+            "cardIndex": 5,
+            "base": "心臓",
+            "surfaceOffset": 0,
+            "reading": "しんぞう",
+            "tokenStart": 11,
+            "baseStart": 11
+          }
+        ],
+        "confidence": 0.99,
+        "evidence": [
+          "japanese-song-study-video 固定前景契约：振假名只覆盖连续汉字段，不重复显示歌词中已有的平假名；纯假名词不显示振假名。",
+          "project/timing/qm.json 与 project/timing/roma.json：逐字核对汉字位置和对应唱读。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "lexical",
+          "sourceIndex": 8
+        }
+      },
+      {
+        "frameId": "l003",
+        "field": "caption.translationZh",
+        "old": "仅是因为与你并肩而立 我的心",
+        "new": "仅仅与你并肩站着，我的心脏便",
+        "confidence": 0.96,
+        "evidence": [
+          "本行与下一行火照りやまない跨行成句；QQ qmts语义"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 14
+        }
+      },
+      {
+        "frameId": "l003",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "你",
+        "confidence": 0.99,
+        "evidence": [
+          "第二人称语境"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 15
+        }
+      },
+      {
+        "frameId": "l003",
+        "field": "grammarCards[1].functionZh",
+        "old": "表示共同对象、并列或引用",
+        "new": "表示共同动作的对象：与你并肩",
+        "confidence": 0.99,
+        "evidence": [
+          "歌词语境：あなたと並ぶ。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 11
+        }
+      },
+      {
+        "frameId": "l003",
+        "field": "grammarCards[2].grammarStructureZh",
+        "old": "动词（活用）",
+        "new": "〜ている（口语缩约）",
+        "confidence": 0.99,
+        "evidence": [
+          "並んでる＝並んでいる，表示并肩状态持续。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 12
+        }
+      },
+      {
+        "frameId": "l003",
+        "field": "grammarCards[2].zhMeaning",
+        "old": "待联网复核",
+        "new": "正并肩站着",
+        "confidence": 0.99,
+        "evidence": [
+          "並んでいる的口语缩约"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 17
+        }
+      },
+      {
+        "frameId": "l003",
+        "field": "grammarCards[3].functionZh",
+        "old": "限定范围",
+        "new": "限定：仅仅与你并肩",
+        "confidence": 0.99,
+        "evidence": [
+          "歌词语境：あなたと並んでるだけ。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 13
+        }
+      },
+      {
+        "frameId": "l003",
+        "field": "grammarCards[4].functionZh",
+        "old": "表示所属、修饰或名词化",
+        "new": "连接前面的限定小句与心臓，表示连体修饰",
+        "confidence": 0.98,
+        "evidence": [
+          "歌词语境：並んでるだけの心臓。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 14
+        }
+      },
+      {
+        "frameId": "l003",
+        "field": "grammarCards[5].zhMeaning",
+        "old": "待联网复核",
+        "new": "心脏；心",
+        "confidence": 0.99,
+        "evidence": [
+          "下一行火照る的主体"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 20
+        }
+      },
+      {
+        "frameId": "l003",
+        "field": "grammarCards[6].functionZh",
+        "old": "标记主语或强调对象",
+        "new": "标记跨句主语“心臓”，谓语为下一句的火照りやまない",
+        "confidence": 0.98,
+        "evidence": [
+          "QRC连续语境：心臓が／火照りやまない。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 15
+        }
+      },
+      {
+        "frameId": "l004",
+        "field": "caption.translationZh",
+        "old": "便燥热到难以平息",
+        "new": "一直发烫，怎么也平静不下来",
+        "confidence": 0.97,
+        "evidence": [
+          "火照る为发热，やまない为不停息"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 22
+        }
+      },
+      {
+        "frameId": "l004",
+        "field": "grammarCards[0].grammarStructureZh",
+        "old": "名词",
+        "new": "动词连用形（接やまない）",
+        "confidence": 0.94,
+        "evidence": [
+          "歌词语境：火照る的连用形火照り接止まない，表示燥热不止。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 16
+        }
+      },
+      {
+        "frameId": "l004",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "发热；发烫",
+        "confidence": 0.99,
+        "evidence": [
+          "权威辞典释为变热或感觉热：https://imidas.jp/kojiten/detail/W-30-0-960-06.html"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 23
+        }
+      },
+      {
+        "frameId": "l004",
+        "field": "grammarCards[1].grammarStructureZh",
+        "old": "动词（活用）",
+        "new": "动词否定形",
+        "confidence": 0.99,
+        "evidence": [
+          "やまない＝止む的否定形。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 17
+        }
+      },
+      {
+        "frameId": "l004",
+        "field": "grammarCards[1].zhMeaning",
+        "old": "待联网复核",
+        "new": "不停息；不止",
+        "confidence": 0.99,
+        "evidence": [
+          "やむ的否定，承接火照り"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 24
+        }
+      },
+      {
+        "frameId": "l005",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "醉意；微醺",
+        "confidence": 0.99,
+        "evidence": [
+          "QQ qmts译作微醺"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 25
+        }
+      },
+      {
+        "frameId": "l005",
+        "field": "grammarCards[1].zhMeaning",
+        "old": "待联网复核",
+        "new": "吐息；轻叹",
+        "confidence": 0.98,
+        "evidence": [
+          "QQ qmts整句中文及饮酒语境"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 26
+        }
+      },
+      {
+        "frameId": "l005",
+        "field": "grammarCards[2].grammarStructureZh",
+        "old": "动词（活用）",
+        "new": "动词て形（中顿）",
+        "confidence": 0.99,
+        "evidence": [
+          "はにかんで以て形承接后句。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 18
+        }
+      },
+      {
+        "frameId": "l005",
+        "field": "grammarCards[2].zhMeaning",
+        "old": "待联网复核",
+        "new": "羞涩地微笑",
+        "confidence": 0.98,
+        "evidence": [
+          "はにかむ在亲密场景中的语境义"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 27
+        }
+      },
+      {
+        "frameId": "l006",
+        "field": "caption.translationZh",
+        "old": "深陷柔软的梦境",
+        "new": "做着一个柔软的梦",
+        "confidence": 0.97,
+        "evidence": [
+          "夢を見る是做梦；原文没有深陷"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 28
+        }
+      },
+      {
+        "frameId": "l006",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "柔软的；轻柔的",
+        "confidence": 0.98,
+        "evidence": [
+          "柔い修饰梦的诗性语境"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 29
+        }
+      },
+      {
+        "frameId": "l006",
+        "field": "grammarCards[1].zhMeaning",
+        "old": "待联网复核",
+        "new": "梦；梦境",
+        "confidence": 0.99,
+        "evidence": [
+          "夢を見る固定搭配"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 30
+        }
+      },
+      {
+        "frameId": "l006",
+        "field": "grammarCards[2].functionZh",
+        "old": "标记动作对象",
+        "new": "标记見る的对象：柔い夢",
+        "confidence": 0.99,
+        "evidence": [
+          "歌词语境：柔い夢を見て。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 19
+        }
+      },
+      {
+        "frameId": "l006",
+        "field": "grammarCards[3].grammarStructureZh",
+        "old": "动词（活用）",
+        "new": "动词て形（中顿）",
+        "confidence": 0.99,
+        "evidence": [
+          "見て为見る的て形，连接后续动作。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 20
+        }
+      },
+      {
+        "frameId": "l006",
+        "field": "grammarCards[3].zhMeaning",
+        "old": "待联网复核",
+        "new": "做着（梦）；梦见",
+        "confidence": 0.99,
+        "evidence": [
+          "夢を見る固定搭配"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 32
+        }
+      },
+      {
+        "frameId": "l007",
+        "field": "caption.furigana",
+        "old": [
+          {
+            "cardIndex": 0,
+            "base": "袖",
+            "surfaceOffset": 0,
+            "reading": "そで",
+            "tokenStart": 0,
+            "baseStart": 0
+          },
+          {
+            "cardIndex": 1,
+            "base": "触",
+            "surfaceOffset": 0,
+            "reading": "ふれて",
+            "tokenStart": 1,
+            "baseStart": 1
+          },
+          {
+            "cardIndex": 2,
+            "base": "満",
+            "surfaceOffset": 0,
+            "reading": "み",
+            "tokenStart": 5,
+            "baseStart": 5
+          },
+          {
+            "cardIndex": 3,
+            "base": "引",
+            "surfaceOffset": 0,
+            "reading": "ひいて",
+            "tokenStart": 7,
+            "baseStart": 7
+          },
+          {
+            "cardIndex": 4,
+            "base": "目",
+            "surfaceOffset": 0,
+            "reading": "め",
+            "tokenStart": 11,
+            "baseStart": 11
+          },
+          {
+            "cardIndex": 6,
+            "base": "合",
+            "surfaceOffset": 0,
+            "reading": "あった",
+            "tokenStart": 13,
+            "baseStart": 13
+          }
+        ],
+        "new": [
+          {
+            "cardIndex": 0,
+            "base": "袖",
+            "surfaceOffset": 0,
+            "reading": "そで",
+            "tokenStart": 0,
+            "baseStart": 0
+          },
+          {
+            "cardIndex": 1,
+            "base": "触",
+            "surfaceOffset": 0,
+            "reading": "ふ",
+            "tokenStart": 1,
+            "baseStart": 1
+          },
+          {
+            "cardIndex": 2,
+            "base": "満",
+            "surfaceOffset": 0,
+            "reading": "み",
+            "tokenStart": 5,
+            "baseStart": 5
+          },
+          {
+            "cardIndex": 3,
+            "base": "引",
+            "surfaceOffset": 0,
+            "reading": "ひ",
+            "tokenStart": 7,
+            "baseStart": 7
+          },
+          {
+            "cardIndex": 4,
+            "base": "目",
+            "surfaceOffset": 0,
+            "reading": "め",
+            "tokenStart": 11,
+            "baseStart": 11
+          },
+          {
+            "cardIndex": 6,
+            "base": "合",
+            "surfaceOffset": 0,
+            "reading": "あ",
+            "tokenStart": 13,
+            "baseStart": 13
+          }
+        ],
+        "confidence": 0.99,
+        "evidence": [
+          "japanese-song-study-video 固定前景契约：振假名只覆盖连续汉字段，不重复显示歌词中已有的平假名；纯假名词不显示振假名。",
+          "project/timing/qm.json 与 project/timing/roma.json：逐字核对汉字位置和对应唱读。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "lexical",
+          "sourceIndex": 9
+        }
+      },
+      {
+        "frameId": "l007",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "衣袖",
+        "confidence": 0.99,
+        "evidence": [
+          "QQ qmts整句中文"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 33
+        }
+      },
+      {
+        "frameId": "l007",
+        "field": "grammarCards[1].grammarStructureZh",
+        "old": "动词（活用）",
+        "new": "动词て形（中顿）",
+        "confidence": 0.99,
+        "evidence": [
+          "触れて为触れる的て形。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 21
+        }
+      },
+      {
+        "frameId": "l007",
+        "field": "grammarCards[1].zhMeaning",
+        "old": "待联网复核",
+        "new": "轻触；相碰",
+        "confidence": 0.98,
+        "evidence": [
+          "袖触れる语境"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 34
+        }
+      },
+      {
+        "frameId": "l007",
+        "field": "grammarCards[2].grammarStructureZh",
+        "old": "动词",
+        "new": "动词连用形（中顿）",
+        "confidence": 0.97,
+        "evidence": [
+          "満ち为満ちる的连用形，与后项引いて并列。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 22
+        }
+      },
+      {
+        "frameId": "l007",
+        "field": "grammarCards[2].zhMeaning",
+        "old": "待联网复核",
+        "new": "涨起；充盈",
+        "confidence": 0.97,
+        "evidence": [
+          "与引く并列，借潮汐描写心绪"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 35
+        }
+      },
+      {
+        "frameId": "l007",
+        "field": "grammarCards[3].grammarStructureZh",
+        "old": "动词（活用）",
+        "new": "动词て形（中顿）",
+        "confidence": 0.98,
+        "evidence": [
+          "引いて为引く的て形，与前项构成涨落的并列表达。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 23
+        }
+      },
+      {
+        "frameId": "l007",
+        "field": "grammarCards[3].zhMeaning",
+        "old": "待联网复核",
+        "new": "退去；落下",
+        "confidence": 0.97,
+        "evidence": [
+          "与満ち组成潮涨潮落意象"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 36
+        }
+      },
+      {
+        "frameId": "l007",
+        "field": "grammarCards[4].zhMeaning",
+        "old": "待联网复核",
+        "new": "目光；视线",
+        "confidence": 0.99,
+        "evidence": [
+          "目が合う固定搭配"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 37
+        }
+      },
+      {
+        "frameId": "l007",
+        "field": "grammarCards[5].functionZh",
+        "old": "标记主语或强调对象",
+        "new": "标记固定表达“目が合う”的主语",
+        "confidence": 0.99,
+        "evidence": [
+          "歌词语境：目が合った。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 24
+        }
+      },
+      {
+        "frameId": "l007",
+        "field": "grammarCards[6].grammarStructureZh",
+        "old": "动词（活用）",
+        "new": "自动词（过去形）",
+        "confidence": 0.99,
+        "evidence": [
+          "合った＝合う的た形。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 25
+        }
+      },
+      {
+        "frameId": "l007",
+        "field": "grammarCards[6].zhMeaning",
+        "old": "待联网复核",
+        "new": "对上了；相遇了",
+        "confidence": 0.99,
+        "evidence": [
+          "目が合った表示四目相对"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 39
+        }
+      },
+      {
+        "frameId": "l008",
+        "field": "caption.translationZh",
+        "old": "你眼眸深处光芒璀璨",
+        "new": "你眼底深处的那份耀眼光芒",
+        "confidence": 0.96,
+        "evidence": [
+          "本行以を结尾，是下一行味わう的宾语；QQ qmts据上下文补出你"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 40
+        }
+      },
+      {
+        "frameId": "l008",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "最深处；眼底深处",
+        "confidence": 0.97,
+        "evidence": [
+          "小学馆辞典释为奥深处：https://kotobank.jp/word/%E5%A5%A5%E5%BA%95-449187"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 41
+        }
+      },
+      {
+        "frameId": "l008",
+        "field": "grammarCards[1].functionZh",
+        "old": "表示所属、修饰或名词化",
+        "new": "连接奥底与まぶしさ，表示修饰关系",
+        "confidence": 0.99,
+        "evidence": [
+          "歌词语境：奥底のまぶしさ。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 26
+        }
+      },
+      {
+        "frameId": "l008",
+        "field": "grammarCards[2].grammarStructureZh",
+        "old": "い形容词",
+        "new": "い形容词词干",
+        "confidence": 0.99,
+        "evidence": [
+          "まぶしい去掉词尾い后接名词化后缀さ。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 27
+        }
+      },
+      {
+        "frameId": "l008",
+        "field": "grammarCards[2].zhMeaning",
+        "old": "待联网复核",
+        "new": "耀眼；炫目",
+        "confidence": 0.98,
+        "evidence": [
+          "与さ组成まぶしさ"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 43
+        }
+      },
+      {
+        "frameId": "l008",
+        "field": "grammarCards[3].grammarStructureZh",
+        "old": "后缀",
+        "new": "名词化后缀",
+        "confidence": 0.99,
+        "evidence": [
+          "形容词词干＋さ，将性质名词化：まぶしさ。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 28
+        }
+      },
+      {
+        "frameId": "l008",
+        "field": "grammarCards[3].zhMeaning",
+        "old": "待联网复核",
+        "new": "使性质名词化：耀眼光芒",
+        "confidence": 0.99,
+        "evidence": [
+          "形容词词干＋さ名词化"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 44
+        }
+      },
+      {
+        "frameId": "l008",
+        "field": "grammarCards[4].functionZh",
+        "old": "标记动作对象",
+        "new": "标记跨句动作味わう的对象：奥底のまぶしさ",
+        "confidence": 0.98,
+        "evidence": [
+          "QRC连续语境：奥底のまぶしさを／一口味わうように。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 29
+        }
+      },
+      {
+        "frameId": "l009",
+        "field": "caption.furigana",
+        "old": [
+          {
+            "cardIndex": 0,
+            "base": "一口",
+            "surfaceOffset": 0,
+            "reading": "ひとくち",
+            "tokenStart": 0,
+            "baseStart": 0
+          },
+          {
+            "cardIndex": 1,
+            "base": "味",
+            "surfaceOffset": 0,
+            "reading": "あじわう",
+            "tokenStart": 2,
+            "baseStart": 2
+          },
+          {
+            "cardIndex": 3,
+            "base": "名前",
+            "surfaceOffset": 0,
+            "reading": "なまえ",
+            "tokenStart": 9,
+            "baseStart": 9
+          },
+          {
+            "cardIndex": 5,
+            "base": "呼",
+            "surfaceOffset": 0,
+            "reading": "よ",
+            "tokenStart": 12,
+            "baseStart": 12
+          }
+        ],
+        "new": [
+          {
+            "cardIndex": 0,
+            "base": "一口",
+            "surfaceOffset": 0,
+            "reading": "ひとくち",
+            "tokenStart": 0,
+            "baseStart": 0
+          },
+          {
+            "cardIndex": 1,
+            "base": "味",
+            "surfaceOffset": 0,
+            "reading": "あじ",
+            "tokenStart": 2,
+            "baseStart": 2
+          },
+          {
+            "cardIndex": 3,
+            "base": "名前",
+            "surfaceOffset": 0,
+            "reading": "なまえ",
+            "tokenStart": 9,
+            "baseStart": 9
+          },
+          {
+            "cardIndex": 5,
+            "base": "呼",
+            "surfaceOffset": 0,
+            "reading": "よ",
+            "tokenStart": 12,
+            "baseStart": 12
+          }
+        ],
+        "confidence": 0.99,
+        "evidence": [
+          "japanese-song-study-video 固定前景契约：振假名只覆盖连续汉字段，不重复显示歌词中已有的平假名；纯假名词不显示振假名。",
+          "project/timing/qm.json 与 project/timing/roma.json：逐字核对汉字位置和对应唱读。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "lexical",
+          "sourceIndex": 10
+        }
+      },
+      {
+        "frameId": "l009",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "一口；浅尝一口",
+        "confidence": 0.99,
+        "evidence": [
+          "QQ qmts整句中文"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 46
+        }
+      },
+      {
+        "frameId": "l009",
+        "field": "grammarCards[1].zhMeaning",
+        "old": "待联网复核",
+        "new": "品味；体会",
+        "confidence": 0.99,
+        "evidence": [
+          "既承接味觉比喻，也指体会眼底光芒"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 47
+        }
+      },
+      {
+        "frameId": "l009",
+        "field": "grammarCards[2].grammarStructureZh",
+        "old": "な形容词（活用）",
+        "new": "V辞书形＋ように（比况）",
+        "confidence": 0.99,
+        "evidence": [
+          "歌词语境：一口味わうように，表示“仿佛浅尝一口般”。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 30
+        }
+      },
+      {
+        "frameId": "l009",
+        "field": "grammarCards[2].zhMeaning",
+        "old": "待联网复核",
+        "new": "仿佛……一般",
+        "confidence": 0.99,
+        "evidence": [
+          "～ように表示比喻"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 48
+        }
+      },
+      {
+        "frameId": "l009",
+        "field": "grammarCards[3].zhMeaning",
+        "old": "待联网复核",
+        "new": "名字",
+        "confidence": 0.99,
+        "evidence": [
+          "名前を呼ぶ"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 49
+        }
+      },
+      {
+        "frameId": "l009",
+        "field": "grammarCards[4].functionZh",
+        "old": "标记动作对象",
+        "new": "标记呼ぶ的对象：名前",
+        "confidence": 0.99,
+        "evidence": [
+          "歌词语境：名前を呼ぶ。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 31
+        }
+      },
+      {
+        "frameId": "l009",
+        "field": "grammarCards[5].zhMeaning",
+        "old": "待联网复核",
+        "new": "呼唤；喊出",
+        "confidence": 0.99,
+        "evidence": [
+          "名前を呼ぶ"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 51
+        }
+      },
+      {
+        "frameId": "l010",
+        "field": "caption.furigana",
+        "old": [
+          {
+            "cardIndex": 0,
+            "base": "喉",
+            "surfaceOffset": 0,
+            "reading": "のど",
+            "tokenStart": 0,
+            "baseStart": 0
+          },
+          {
+            "cardIndex": 1,
+            "base": "通",
+            "surfaceOffset": 0,
+            "reading": "とおった",
+            "tokenStart": 1,
+            "baseStart": 1
+          }
+        ],
+        "new": [
+          {
+            "cardIndex": 0,
+            "base": "喉",
+            "surfaceOffset": 0,
+            "reading": "のど",
+            "tokenStart": 0,
+            "baseStart": 0
+          },
+          {
+            "cardIndex": 1,
+            "base": "通",
+            "surfaceOffset": 0,
+            "reading": "とお",
+            "tokenStart": 1,
+            "baseStart": 1
+          }
+        ],
+        "confidence": 0.99,
+        "evidence": [
+          "japanese-song-study-video 固定前景契约：振假名只覆盖连续汉字段，不重复显示歌词中已有的平假名；纯假名词不显示振假名。",
+          "project/timing/qm.json 与 project/timing/roma.json：逐字核对汉字位置和对应唱读。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "lexical",
+          "sourceIndex": 11
+        }
+      },
+      {
+        "frameId": "l010",
+        "field": "caption.translationZh",
+        "old": "而滑过喉头的那一抹滋味",
+        "new": "滑过喉头的那一抹风味里",
+        "confidence": 0.96,
+        "evidence": [
+          "には表示下一行感情满溢的范围；跨行成句"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 52
+        }
+      },
+      {
+        "frameId": "l010",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "喉咙；喉头",
+        "confidence": 0.99,
+        "evidence": [
+          "QQ qmts整句中文"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 53
+        }
+      },
+      {
+        "frameId": "l010",
+        "field": "grammarCards[1].grammarStructureZh",
+        "old": "动词（活用）",
+        "new": "自动词过去形（连体修饰）",
+        "confidence": 0.98,
+        "evidence": [
+          "通った为通る的过去形，并修饰フレイバー；喉后的路径助词を在歌词中省略。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 32
+        }
+      },
+      {
+        "frameId": "l010",
+        "field": "grammarCards[1].zhMeaning",
+        "old": "待联网复核",
+        "new": "滑过；通过",
+        "confidence": 0.99,
+        "evidence": [
+          "喉を通る在饮食语境中表示经过喉咙"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 54
+        }
+      },
+      {
+        "frameId": "l010",
+        "field": "grammarCards[2].zhMeaning",
+        "old": "待联网复核",
+        "new": "风味；滋味",
+        "confidence": 0.99,
+        "evidence": [
+          "flavor舶来语，结合饮酒语境"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 55
+        }
+      },
+      {
+        "frameId": "l010",
+        "field": "grammarCards[3].functionZh",
+        "old": "表示对象、到达点或发生时间",
+        "new": "标记感情所寄寓的对象或范围：フレイバー",
+        "confidence": 0.94,
+        "evidence": [
+          "跨句语境：フレイバーには／初めて知る感情あふれ。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 33
+        }
+      },
+      {
+        "frameId": "l010",
+        "field": "grammarCards[4].functionZh",
+        "old": "提示主题或形成对比",
+        "new": "与に构成には，提示该对象或范围为主题",
+        "confidence": 0.96,
+        "evidence": [
+          "跨句语境：フレイバーには感情あふれ。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 34
+        }
+      },
+      {
+        "frameId": "l011",
+        "field": "caption.furigana",
+        "old": [
+          {
+            "cardIndex": 0,
+            "base": "初",
+            "surfaceOffset": 0,
+            "reading": "はじめて",
+            "tokenStart": 0,
+            "baseStart": 0
+          },
+          {
+            "cardIndex": 1,
+            "base": "知",
+            "surfaceOffset": 0,
+            "reading": "し",
+            "tokenStart": 3,
+            "baseStart": 3
+          },
+          {
+            "cardIndex": 2,
+            "base": "感情",
+            "surfaceOffset": 0,
+            "reading": "かんじょう",
+            "tokenStart": 5,
+            "baseStart": 5
+          }
+        ],
+        "new": [
+          {
+            "cardIndex": 0,
+            "base": "初",
+            "surfaceOffset": 0,
+            "reading": "はじ",
+            "tokenStart": 0,
+            "baseStart": 0
+          },
+          {
+            "cardIndex": 1,
+            "base": "知",
+            "surfaceOffset": 0,
+            "reading": "し",
+            "tokenStart": 3,
+            "baseStart": 3
+          },
+          {
+            "cardIndex": 2,
+            "base": "感情",
+            "surfaceOffset": 0,
+            "reading": "かんじょう",
+            "tokenStart": 5,
+            "baseStart": 5
+          }
+        ],
+        "confidence": 0.99,
+        "evidence": [
+          "japanese-song-study-video 固定前景契约：振假名只覆盖连续汉字段，不重复显示歌词中已有的平假名；纯假名词不显示振假名。",
+          "project/timing/qm.json 与 project/timing/roma.json：逐字核对汉字位置和对应唱读。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "lexical",
+          "sourceIndex": 12
+        }
+      },
+      {
+        "frameId": "l011",
+        "field": "caption.translationZh",
+        "old": "让初次体会的感情满溢",
+        "new": "满溢着初次知晓的感情",
+        "confidence": 0.97,
+        "evidence": [
+          "感情是あふれ的主体，不是使役关系"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 58
+        }
+      },
+      {
+        "frameId": "l011",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "第一次；初次",
+        "confidence": 0.99,
+        "evidence": [
+          "QQ qmts整句中文"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 59
+        }
+      },
+      {
+        "frameId": "l011",
+        "field": "grammarCards[1].grammarStructureZh",
+        "old": "动词",
+        "new": "动词辞书形（连体修饰）",
+        "confidence": 0.99,
+        "evidence": [
+          "知る修饰后接名词感情。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 35
+        }
+      },
+      {
+        "frameId": "l011",
+        "field": "grammarCards[1].zhMeaning",
+        "old": "待联网复核",
+        "new": "知晓；体会",
+        "confidence": 0.99,
+        "evidence": [
+          "初めて知る感情"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 60
+        }
+      },
+      {
+        "frameId": "l011",
+        "field": "grammarCards[2].zhMeaning",
+        "old": "待联网复核",
+        "new": "感情；情愫",
+        "confidence": 0.99,
+        "evidence": [
+          "恋爱情境"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 61
+        }
+      },
+      {
+        "frameId": "l011",
+        "field": "grammarCards[3].grammarStructureZh",
+        "old": "动词",
+        "new": "动词连用形（中顿）",
+        "confidence": 0.97,
+        "evidence": [
+          "あふれ为あふれる的连用形，承接后续并列内容。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 36
+        }
+      },
+      {
+        "frameId": "l011",
+        "field": "grammarCards[3].zhMeaning",
+        "old": "待联网复核",
+        "new": "满溢；涌出",
+        "confidence": 0.99,
+        "evidence": [
+          "感情があふれる；本行省略格助词"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 62
+        }
+      },
+      {
+        "frameId": "l012",
+        "field": "caption.translationZh",
+        "old": "憧憬与伤痕都在此时此刻",
+        "new": "憧憬也好，伤痕也好，一切都在此刻",
+        "confidence": 0.97,
+        "evidence": [
+          "两个も并列列举；全て今承接下行"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 63
+        }
+      },
+      {
+        "frameId": "l012",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "憧憬；向往",
+        "confidence": 0.99,
+        "evidence": [
+          "QQ qmts整句中文"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 64
+        }
+      },
+      {
+        "frameId": "l012",
+        "field": "grammarCards[1].functionZh",
+        "old": "表示追加、强调或让步",
+        "new": "表示并列追加：憧憬也…",
+        "confidence": 0.99,
+        "evidence": [
+          "歌词语境：あこがれも傷も，两个も并列列举。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 37
+        }
+      },
+      {
+        "frameId": "l012",
+        "field": "grammarCards[2].zhMeaning",
+        "old": "待联网复核",
+        "new": "伤痕；创伤",
+        "confidence": 0.99,
+        "evidence": [
+          "与憧れ形成情感对举"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 66
+        }
+      },
+      {
+        "frameId": "l012",
+        "field": "grammarCards[3].functionZh",
+        "old": "表示追加、强调或让步",
+        "new": "表示并列追加：伤痕也…",
+        "confidence": 0.99,
+        "evidence": [
+          "歌词语境：あこがれも傷も，两个も并列列举。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 38
+        }
+      },
+      {
+        "frameId": "l012",
+        "field": "grammarCards[4].zhMeaning",
+        "old": "待联网复核",
+        "new": "全部；一切",
+        "confidence": 0.99,
+        "evidence": [
+          "概括前述憧憬与伤痕"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 68
+        }
+      },
+      {
+        "frameId": "l012",
+        "field": "grammarCards[5].zhMeaning",
+        "old": "待联网复核",
+        "new": "现在；此刻",
+        "confidence": 0.99,
+        "evidence": [
+          "QQ qmts整句中文"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 69
+        }
+      },
+      {
+        "frameId": "l013",
+        "field": "caption.furigana",
+        "old": [
+          {
+            "cardIndex": 1,
+            "base": "光",
+            "surfaceOffset": 0,
+            "reading": "ひか",
+            "tokenStart": 6,
+            "baseStart": 6
+          }
+        ],
+        "new": [
+          {
+            "cardIndex": 0,
+            "base": "溶",
+            "surfaceOffset": 0,
+            "reading": "と",
+            "tokenStart": 0,
+            "baseStart": 0
+          },
+          {
+            "cardIndex": 0,
+            "base": "込",
+            "surfaceOffset": 2,
+            "reading": "こ",
+            "tokenStart": 0,
+            "baseStart": 2
+          },
+          {
+            "cardIndex": 1,
+            "base": "光",
+            "surfaceOffset": 0,
+            "reading": "ひか",
+            "tokenStart": 6,
+            "baseStart": 6
+          }
+        ],
+        "confidence": 0.99,
+        "evidence": [
+          "japanese-song-study-video 固定前景契约：振假名只覆盖连续汉字段，不重复显示歌词中已有的平假名；纯假名词不显示振假名。",
+          "project/timing/qm.json 与 project/timing/roma.json：逐字核对汉字位置和对应唱读。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "lexical",
+          "sourceIndex": 13
+        }
+      },
+      {
+        "frameId": "l013",
+        "field": "grammarCards[0].grammarStructureZh",
+        "old": "动词（活用）",
+        "new": "复合动词て形（中顿）",
+        "confidence": 0.99,
+        "evidence": [
+          "溶け込んで＝溶け込む的て形，连接后项光る。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 39
+        }
+      },
+      {
+        "frameId": "l013",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "交融；融入",
+        "confidence": 0.99,
+        "evidence": [
+          "前行全部事物融为一体"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 70
+        }
+      },
+      {
+        "frameId": "l013",
+        "field": "grammarCards[1].zhMeaning",
+        "old": "待联网复核",
+        "new": "发光；闪耀",
+        "confidence": 0.99,
+        "evidence": [
+          "QQ qmts译作璀璨闪耀"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 71
+        }
+      },
+      {
+        "frameId": "l014",
+        "field": "caption.furigana",
+        "old": [
+          {
+            "cardIndex": 2,
+            "base": "透",
+            "surfaceOffset": 0,
+            "reading": "すかして",
+            "tokenStart": 4,
+            "baseStart": 4
+          }
+        ],
+        "new": [
+          {
+            "cardIndex": 2,
+            "base": "透",
+            "surfaceOffset": 0,
+            "reading": "す",
+            "tokenStart": 4,
+            "baseStart": 4
+          }
+        ],
+        "confidence": 0.99,
+        "evidence": [
+          "japanese-song-study-video 固定前景契约：振假名只覆盖连续汉字段，不重复显示歌词中已有的平假名；纯假名词不显示振假名。",
+          "project/timing/qm.json 与 project/timing/roma.json：逐字核对汉字位置和对应唱读。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "lexical",
+          "sourceIndex": 14
+        }
+      },
+      {
+        "frameId": "l014",
+        "field": "caption.translationZh",
+        "old": "我透过玻璃杯看着",
+        "new": "我透过酒杯",
+        "confidence": 0.95,
+        "evidence": [
+          "本行～ては承接下一行覗いた，暂不补出看着"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 72
+        }
+      },
+      {
+        "frameId": "l014",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "酒杯；玻璃杯",
+        "confidence": 0.99,
+        "evidence": [
+          "作品饮酒语境；glass舶来语"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 73
+        }
+      },
+      {
+        "frameId": "l014",
+        "field": "grammarCards[1].functionZh",
+        "old": "标记动作对象",
+        "new": "标记透かす的对象：グラス",
+        "confidence": 0.99,
+        "evidence": [
+          "歌词语境：グラスを透かす。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 40
+        }
+      },
+      {
+        "frameId": "l014",
+        "field": "grammarCards[2].grammarStructureZh",
+        "old": "动词（活用）",
+        "new": "他动词（て形）",
+        "confidence": 0.99,
+        "evidence": [
+          "透かして＝透かす的て形。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 41
+        }
+      },
+      {
+        "frameId": "l014",
+        "field": "grammarCards[2].zhMeaning",
+        "old": "待联网复核",
+        "new": "透过……看；映着光看",
+        "confidence": 0.98,
+        "evidence": [
+          "グラスを透かす的观看语境"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 75
+        }
+      },
+      {
+        "frameId": "l014",
+        "field": "grammarCards[3].functionZh",
+        "old": "提示主题或形成对比",
+        "new": "与て形构成〜ては，在此承接后项并带提示语气",
+        "confidence": 0.93,
+        "evidence": [
+          "跨句语境：グラスを透かしては／向こう側覗いた。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 42
+        }
+      },
+      {
+        "frameId": "l015",
+        "field": "caption.furigana",
+        "old": [
+          {
+            "cardIndex": 1,
+            "base": "覗",
+            "surfaceOffset": 0,
+            "reading": "のぞいた",
+            "tokenStart": 4,
+            "baseStart": 4
+          }
+        ],
+        "new": [
+          {
+            "cardIndex": 0,
+            "base": "向",
+            "surfaceOffset": 0,
+            "reading": "む",
+            "tokenStart": 0,
+            "baseStart": 0
+          },
+          {
+            "cardIndex": 0,
+            "base": "側",
+            "surfaceOffset": 3,
+            "reading": "がわ",
+            "tokenStart": 0,
+            "baseStart": 3
+          },
+          {
+            "cardIndex": 1,
+            "base": "覗",
+            "surfaceOffset": 0,
+            "reading": "のぞ",
+            "tokenStart": 4,
+            "baseStart": 4
+          }
+        ],
+        "confidence": 0.99,
+        "evidence": [
+          "japanese-song-study-video 固定前景契约：振假名只覆盖连续汉字段，不重复显示歌词中已有的平假名；纯假名词不显示振假名。",
+          "project/timing/qm.json 与 project/timing/roma.json：逐字核对汉字位置和对应唱读。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "lexical",
+          "sourceIndex": 15
+        }
+      },
+      {
+        "frameId": "l015",
+        "field": "caption.translationZh",
+        "old": "对面那个",
+        "new": "窥望着另一边",
+        "confidence": 0.99,
+        "evidence": [
+          "向こう側覗いた的完整谓语；QQ译文疑似漏译"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 77
+        }
+      },
+      {
+        "frameId": "l015",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "另一边；对面",
+        "confidence": 0.99,
+        "evidence": [
+          "QQ qmts整句中文及跨行语境"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 78
+        }
+      },
+      {
+        "frameId": "l015",
+        "field": "grammarCards[1].grammarStructureZh",
+        "old": "动词（活用）",
+        "new": "他动词（过去形）",
+        "confidence": 0.99,
+        "evidence": [
+          "覗いた＝覗く的た形。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 43
+        }
+      },
+      {
+        "frameId": "l015",
+        "field": "grammarCards[1].zhMeaning",
+        "old": "待联网复核",
+        "new": "窥望；探看",
+        "confidence": 0.99,
+        "evidence": [
+          "透过酒杯看向另一边"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 79
+        }
+      },
+      {
+        "frameId": "l016",
+        "field": "caption.translationZh",
+        "old": "视线追随着流云轨迹的你",
+        "new": "用视线描摹流云轨迹的你",
+        "confidence": 0.96,
+        "evidence": [
+          "なぞる是沿轮廓描摹，保留歌词意象"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 80
+        }
+      },
+      {
+        "frameId": "l016",
+        "field": "grammarCards[0].grammarStructureZh",
+        "old": "动词",
+        "new": "文语动词连体形",
+        "confidence": 0.97,
+        "evidence": [
+          "流る是流れる的文语形式，在此修饰雲。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 44
+        }
+      },
+      {
+        "frameId": "l016",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "流动的；飘过的",
+        "confidence": 0.97,
+        "evidence": [
+          "流る是流れる的文语形：https://kotobank.jp/word/%E6%B5%81%E3%82%8B-588224"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 81
+        }
+      },
+      {
+        "frameId": "l016",
+        "field": "grammarCards[1].zhMeaning",
+        "old": "待联网复核",
+        "new": "云；流云",
+        "confidence": 0.99,
+        "evidence": [
+          "流る雲"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 82
+        }
+      },
+      {
+        "frameId": "l016",
+        "field": "grammarCards[2].functionZh",
+        "old": "标记动作对象",
+        "new": "标记なぞる的对象：流る雲",
+        "confidence": 0.99,
+        "evidence": [
+          "歌词语境：流る雲を目線でなぞる。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 45
+        }
+      },
+      {
+        "frameId": "l016",
+        "field": "grammarCards[3].zhMeaning",
+        "old": "待联网复核",
+        "new": "视线；目光",
+        "confidence": 0.99,
+        "evidence": [
+          "QQ qmts整句中文"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 84
+        }
+      },
+      {
+        "frameId": "l016",
+        "field": "grammarCards[4].functionZh",
+        "old": "表示场所、手段或原因",
+        "new": "表示动作手段：用目光描摹",
+        "confidence": 0.99,
+        "evidence": [
+          "歌词语境：目線でなぞる。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 46
+        }
+      },
+      {
+        "frameId": "l016",
+        "field": "grammarCards[5].grammarStructureZh",
+        "old": "动词",
+        "new": "动词辞书形（连体修饰）",
+        "confidence": 0.99,
+        "evidence": [
+          "なぞる修饰后接名词性代词あなた。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 47
+        }
+      },
+      {
+        "frameId": "l016",
+        "field": "grammarCards[5].zhMeaning",
+        "old": "待联网复核",
+        "new": "沿着描摹；追随轨迹",
+        "confidence": 0.98,
+        "evidence": [
+          "以目线沿着云的轮廓移动"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 86
+        }
+      },
+      {
+        "frameId": "l016",
+        "field": "grammarCards[6].zhMeaning",
+        "old": "待联网复核",
+        "new": "你",
+        "confidence": 0.99,
+        "evidence": [
+          "第二人称语境"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 87
+        }
+      },
+      {
+        "frameId": "l017",
+        "field": "caption.furigana",
+        "old": [
+          {
+            "cardIndex": 0,
+            "base": "世界",
+            "surfaceOffset": 0,
+            "reading": "せかい",
+            "tokenStart": 0,
+            "baseStart": 0
+          },
+          {
+            "cardIndex": 2,
+            "base": "変",
+            "surfaceOffset": 0,
+            "reading": "かわる",
+            "tokenStart": 3,
+            "baseStart": 3
+          },
+          {
+            "cardIndex": 4,
+            "base": "綺麗",
+            "surfaceOffset": 0,
+            "reading": "きれい",
+            "tokenStart": 8,
+            "baseStart": 8
+          },
+          {
+            "cardIndex": 7,
+            "base": "思",
+            "surfaceOffset": 0,
+            "reading": "おもった",
+            "tokenStart": 12,
+            "baseStart": 12
+          }
+        ],
+        "new": [
+          {
+            "cardIndex": 0,
+            "base": "世界",
+            "surfaceOffset": 0,
+            "reading": "せかい",
+            "tokenStart": 0,
+            "baseStart": 0
+          },
+          {
+            "cardIndex": 2,
+            "base": "変",
+            "surfaceOffset": 0,
+            "reading": "か",
+            "tokenStart": 3,
+            "baseStart": 3
+          },
+          {
+            "cardIndex": 4,
+            "base": "綺麗",
+            "surfaceOffset": 0,
+            "reading": "きれい",
+            "tokenStart": 8,
+            "baseStart": 8
+          },
+          {
+            "cardIndex": 7,
+            "base": "思",
+            "surfaceOffset": 0,
+            "reading": "おも",
+            "tokenStart": 12,
+            "baseStart": 12
+          }
+        ],
+        "confidence": 0.99,
+        "evidence": [
+          "japanese-song-study-video 固定前景契约：振假名只覆盖连续汉字段，不重复显示歌词中已有的平假名；纯假名词不显示振假名。",
+          "project/timing/qm.json 与 project/timing/roma.json：逐字核对汉字位置和对应唱读。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "lexical",
+          "sourceIndex": 16
+        }
+      },
+      {
+        "frameId": "l017",
+        "field": "caption.translationZh",
+        "old": "在微风轻拂的午后我竟觉得世界美到",
+        "new": "我觉得美得仿佛整个世界都变了",
+        "confidence": 0.99,
+        "evidence": [
+          "当前QQ译文把下一行風吹く午後前置；按日文逐行恢复对应"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 88
+        }
+      },
+      {
+        "frameId": "l017",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "世界",
+        "confidence": 0.99,
+        "evidence": [
+          "QQ qmts上下文"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 89
+        }
+      },
+      {
+        "frameId": "l017",
+        "field": "grammarCards[1].functionZh",
+        "old": "标记主语或强调对象",
+        "new": "标记程度从句中的主语：世界",
+        "confidence": 0.99,
+        "evidence": [
+          "歌词语境：世界が変わるほど。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 48
+        }
+      },
+      {
+        "frameId": "l017",
+        "field": "grammarCards[2].zhMeaning",
+        "old": "待联网复核",
+        "new": "改变；变得不同",
+        "confidence": 0.99,
+        "evidence": [
+          "世界が変わる"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 91
+        }
+      },
+      {
+        "frameId": "l017",
+        "field": "grammarCards[3].functionZh",
+        "old": "表示程度或比较基准",
+        "new": "表示程度：美到仿佛世界都改变",
+        "confidence": 0.99,
+        "evidence": [
+          "歌词语境：世界が変わるほど綺麗だ。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 49
+        }
+      },
+      {
+        "frameId": "l017",
+        "field": "grammarCards[4].zhMeaning",
+        "old": "待联网复核",
+        "new": "美丽；漂亮",
+        "confidence": 0.99,
+        "evidence": [
+          "綺麗だと思った"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 93
+        }
+      },
+      {
+        "frameId": "l017",
+        "field": "grammarCards[5].grammarStructureZh",
+        "old": "助动词",
+        "new": "断定助动词终止形",
+        "confidence": 0.99,
+        "evidence": [
+          "綺麗だ中的だ表示断定，后接引用助词と。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 50
+        }
+      },
+      {
+        "frameId": "l017",
+        "field": "grammarCards[5].zhMeaning",
+        "old": "待联网复核",
+        "new": "断定：是美丽的",
+        "confidence": 0.98,
+        "evidence": [
+          "な形容词綺麗的终止形，后接引用と"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 94
+        }
+      },
+      {
+        "frameId": "l017",
+        "field": "grammarCards[6].functionZh",
+        "old": "表示共同对象、并列或引用",
+        "new": "标记思った的引用内容",
+        "confidence": 0.99,
+        "evidence": [
+          "歌词语境：綺麗だと思った。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 51
+        }
+      },
+      {
+        "frameId": "l017",
+        "field": "grammarCards[7].grammarStructureZh",
+        "old": "动词（活用）",
+        "new": "动词（过去形）",
+        "confidence": 0.99,
+        "evidence": [
+          "思った＝思う的た形。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 52
+        }
+      },
+      {
+        "frameId": "l017",
+        "field": "grammarCards[7].zhMeaning",
+        "old": "待联网复核",
+        "new": "觉得；认为",
+        "confidence": 0.99,
+        "evidence": [
+          "綺麗だと思った"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 96
+        }
+      },
+      {
+        "frameId": "l018",
+        "field": "caption.translationZh",
+        "old": "似是焕然一新般",
+        "new": "在风吹拂的午后",
+        "confidence": 0.99,
+        "evidence": [
+          "風吹く午後的直接语义；与上一行构成倒装"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 97
+        }
+      },
+      {
+        "frameId": "l018",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "风",
+        "confidence": 0.99,
+        "evidence": [
+          "風吹く固定搭配"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 98
+        }
+      },
+      {
+        "frameId": "l018",
+        "field": "grammarCards[1].grammarStructureZh",
+        "old": "动词",
+        "new": "动词辞书形（连体修饰）",
+        "confidence": 0.99,
+        "evidence": [
+          "風吹く整体修饰午後；主格助词が在歌词中省略。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 53
+        }
+      },
+      {
+        "frameId": "l018",
+        "field": "grammarCards[1].zhMeaning",
+        "old": "待联网复核",
+        "new": "吹拂",
+        "confidence": 0.99,
+        "evidence": [
+          "風吹く"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 99
+        }
+      },
+      {
+        "frameId": "l018",
+        "field": "grammarCards[2].zhMeaning",
+        "old": "待联网复核",
+        "new": "午后；下午",
+        "confidence": 0.99,
+        "evidence": [
+          "QQ qmts跨行译文"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 100
+        }
+      },
+      {
+        "frameId": "l019",
+        "field": "caption.furigana",
+        "old": [
+          {
+            "cardIndex": 1,
+            "base": "影",
+            "surfaceOffset": 0,
+            "reading": "かげ",
+            "tokenStart": 5,
+            "baseStart": 5
+          },
+          {
+            "cardIndex": 3,
+            "base": "影",
+            "surfaceOffset": 0,
+            "reading": "かげ",
+            "tokenStart": 7,
+            "baseStart": 7
+          },
+          {
+            "cardIndex": 5,
+            "base": "期待",
+            "surfaceOffset": 0,
+            "reading": "きたい",
+            "tokenStart": 12,
+            "baseStart": 12
+          }
+        ],
+        "new": [
+          {
+            "cardIndex": 0,
+            "base": "隣",
+            "surfaceOffset": 0,
+            "reading": "とな",
+            "tokenStart": 0,
+            "baseStart": 0
+          },
+          {
+            "cardIndex": 0,
+            "base": "合",
+            "surfaceOffset": 2,
+            "reading": "あ",
+            "tokenStart": 0,
+            "baseStart": 2
+          },
+          {
+            "cardIndex": 1,
+            "base": "影",
+            "surfaceOffset": 0,
+            "reading": "かげ",
+            "tokenStart": 5,
+            "baseStart": 5
+          },
+          {
+            "cardIndex": 3,
+            "base": "影",
+            "surfaceOffset": 0,
+            "reading": "かげ",
+            "tokenStart": 7,
+            "baseStart": 7
+          },
+          {
+            "cardIndex": 5,
+            "base": "期待",
+            "surfaceOffset": 0,
+            "reading": "きたい",
+            "tokenStart": 12,
+            "baseStart": 12
+          }
+        ],
+        "confidence": 0.99,
+        "evidence": [
+          "japanese-song-study-video 固定前景契约：振假名只覆盖连续汉字段，不重复显示歌词中已有的平假名；纯假名词不显示振假名。",
+          "project/timing/qm.json 与 project/timing/roma.json：逐字核对汉字位置和对应唱读。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "lexical",
+          "sourceIndex": 17
+        }
+      },
+      {
+        "frameId": "l019",
+        "field": "grammarCards[0].grammarStructureZh",
+        "old": "动词",
+        "new": "动词辞书形（连体修饰）",
+        "confidence": 0.97,
+        "evidence": [
+          "隣り合う修饰后续的影と影。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 54
+        }
+      },
+      {
+        "frameId": "l019",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "相邻；依偎在一起",
+        "confidence": 0.98,
+        "evidence": [
+          "影と影相邻的画面语境"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 101
+        }
+      },
+      {
+        "frameId": "l019",
+        "field": "grammarCards[1].zhMeaning",
+        "old": "待联网复核",
+        "new": "身影；影子",
+        "confidence": 0.99,
+        "evidence": [
+          "QQ qmts整句中文"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 102
+        }
+      },
+      {
+        "frameId": "l019",
+        "field": "grammarCards[2].functionZh",
+        "old": "表示共同对象、并列或引用",
+        "new": "并列两个名词：影与影",
+        "confidence": 0.99,
+        "evidence": [
+          "歌词语境：影と影。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 55
+        }
+      },
+      {
+        "frameId": "l019",
+        "field": "grammarCards[3].zhMeaning",
+        "old": "待联网复核",
+        "new": "身影；影子",
+        "confidence": 0.99,
+        "evidence": [
+          "与同句前一个影保持一致"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 104
+        }
+      },
+      {
+        "frameId": "l019",
+        "field": "grammarCards[4].zhMeaning",
+        "old": "待联网复核",
+        "new": "悄悄地；暗自",
+        "confidence": 0.99,
+        "evidence": [
+          "そっと期待をする语境"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 105
+        }
+      },
+      {
+        "frameId": "l019",
+        "field": "grammarCards[5].zhMeaning",
+        "old": "待联网复核",
+        "new": "期待；期盼",
+        "confidence": 0.99,
+        "evidence": [
+          "QQ qmts整句中文"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 106
+        }
+      },
+      {
+        "frameId": "l019",
+        "field": "grammarCards[6].functionZh",
+        "old": "标记动作对象",
+        "new": "标记する的对象：期待",
+        "confidence": 0.99,
+        "evidence": [
+          "歌词语境：期待をして。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 56
+        }
+      },
+      {
+        "frameId": "l019",
+        "field": "grammarCards[7].grammarStructureZh",
+        "old": "动词（活用）",
+        "new": "サ变动词て形（中顿）",
+        "confidence": 0.99,
+        "evidence": [
+          "して＝する的て形，承接下一动作。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 57
+        }
+      },
+      {
+        "frameId": "l019",
+        "field": "grammarCards[7].zhMeaning",
+        "old": "待联网复核",
+        "new": "心怀；抱有",
+        "confidence": 0.98,
+        "evidence": [
+          "期待をして整体语境义"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 108
+        }
+      },
+      {
+        "frameId": "l020",
+        "field": "grammarCards",
+        "old": [
+          {
+            "token": "打ち消して",
+            "reading": "うちけして",
+            "romaji": "uchikeshite",
+            "grammarStructureZh": "动词（活用）",
+            "dictionaryForm": "打ち消す",
+            "render": true,
+            "showJlpt": false,
+            "status": "auto-draft-needs-assisted-review",
+            "reviewRequired": true,
+            "fieldProvenance": {
+              "segmentation": "SudachiPy 0.6.11 + sudachidict_core 20260723",
+              "reading": "SudachiPy 0.6.11 + sudachidict_core 20260723",
+              "romaji": "pykakasi 2.3.0",
+              "meaningOrFunction": "phase-3 unresolved draft",
+              "grammarStructureZh": "Sudachi POS draft"
+            },
+            "zhMeaning": "待联网复核"
+          },
+          {
+            "token": "待ち",
+            "reading": "まち",
+            "romaji": "machi",
+            "grammarStructureZh": "动词",
+            "dictionaryForm": "待つ",
+            "render": true,
+            "showJlpt": false,
+            "status": "auto-draft-needs-assisted-review",
+            "reviewRequired": true,
+            "fieldProvenance": {
+              "segmentation": "SudachiPy 0.6.11 + sudachidict_core 20260723",
+              "reading": "SudachiPy 0.6.11 + sudachidict_core 20260723",
+              "romaji": "pykakasi 2.3.0",
+              "meaningOrFunction": "phase-3 unresolved draft",
+              "grammarStructureZh": "Sudachi POS draft"
+            },
+            "zhMeaning": "待联网复核"
+          },
+          {
+            "token": "あぐね",
+            "reading": "あぐね",
+            "romaji": "agune",
+            "grammarStructureZh": "动词",
+            "dictionaryForm": "あぐねる",
+            "render": true,
+            "showJlpt": false,
+            "status": "auto-draft-needs-assisted-review",
+            "reviewRequired": true,
+            "fieldProvenance": {
+              "segmentation": "SudachiPy 0.6.11 + sudachidict_core 20260723",
+              "reading": "SudachiPy 0.6.11 + sudachidict_core 20260723",
+              "romaji": "pykakasi 2.3.0",
+              "meaningOrFunction": "phase-3 unresolved draft",
+              "grammarStructureZh": "Sudachi POS draft"
+            },
+            "zhMeaning": "待联网复核"
+          },
+          {
+            "token": "手",
+            "reading": "て",
+            "romaji": "te",
+            "grammarStructureZh": "名词",
+            "dictionaryForm": "手",
+            "render": true,
+            "showJlpt": false,
+            "status": "auto-draft-needs-assisted-review",
+            "reviewRequired": true,
+            "fieldProvenance": {
+              "segmentation": "SudachiPy 0.6.11 + sudachidict_core 20260723",
+              "reading": "SudachiPy 0.6.11 + sudachidict_core 20260723",
+              "romaji": "pykakasi 2.3.0",
+              "meaningOrFunction": "phase-3 unresolved draft",
+              "grammarStructureZh": "Sudachi POS draft"
+            },
+            "zhMeaning": "待联网复核"
+          },
+          {
+            "token": "を",
+            "reading": "を",
+            "romaji": "o",
+            "grammarStructureZh": "格助词",
+            "dictionaryForm": "を",
+            "render": true,
+            "showJlpt": false,
+            "status": "auto-draft-needs-assisted-review",
+            "reviewRequired": true,
+            "fieldProvenance": {
+              "segmentation": "SudachiPy 0.6.11 + sudachidict_core 20260723",
+              "reading": "SudachiPy 0.6.11 + sudachidict_core 20260723",
+              "romaji": "pykakasi 2.3.0",
+              "meaningOrFunction": "project particle-function draft table",
+              "grammarStructureZh": "Sudachi POS draft"
+            },
+            "functionZh": "标记动作对象"
+          },
+          {
+            "token": "取った",
+            "reading": "とった",
+            "romaji": "totta",
+            "grammarStructureZh": "动词（活用）",
+            "dictionaryForm": "取る",
+            "render": true,
+            "showJlpt": false,
+            "status": "auto-draft-needs-assisted-review",
+            "reviewRequired": true,
+            "fieldProvenance": {
+              "segmentation": "SudachiPy 0.6.11 + sudachidict_core 20260723",
+              "reading": "SudachiPy 0.6.11 + sudachidict_core 20260723",
+              "romaji": "pykakasi 2.3.0",
+              "meaningOrFunction": "phase-3 unresolved draft",
+              "grammarStructureZh": "Sudachi POS draft"
+            },
+            "zhMeaning": "待联网复核"
+          }
+        ],
+        "new": [
+          {
+            "token": "打ち消して",
+            "reading": "うちけして",
+            "romaji": "uchikeshite",
+            "grammarStructureZh": "复合动词て形（中顿）",
+            "dictionaryForm": "打ち消す",
+            "render": true,
+            "showJlpt": false,
+            "status": "auto-draft-needs-assisted-review",
+            "reviewRequired": true,
+            "fieldProvenance": {
+              "segmentation": "SudachiPy 0.6.11 + sudachidict_core 20260723",
+              "reading": "SudachiPy 0.6.11 + sudachidict_core 20260723",
+              "romaji": "pykakasi 2.3.0",
+              "meaningOrFunction": "phase-3 unresolved draft",
+              "grammarStructureZh": "Sudachi POS draft"
+            },
+            "zhMeaning": "压下；否定掉"
+          },
+          {
+            "token": "待ちあぐね",
+            "reading": "まちあぐね",
+            "romaji": "machiagune",
+            "grammarStructureZh": "复合动词连用形（中顿）",
+            "dictionaryForm": "待ちあぐねる",
+            "render": true,
+            "showJlpt": false,
+            "status": "assisted-proposal",
+            "reviewRequired": true,
+            "fieldProvenance": {
+              "segmentation": "lexical role proposal: dictionary verb 待ちあぐねる",
+              "reading": "project/timing/roma.json + lexical review",
+              "romaji": "lexical review",
+              "meaningOrFunction": "phase-3 unresolved draft",
+              "grammarStructureZh": "Sudachi POS draft"
+            },
+            "zhMeaning": "等得厌倦；等得不耐烦"
+          },
+          {
+            "token": "手",
+            "reading": "て",
+            "romaji": "te",
+            "grammarStructureZh": "名词",
+            "dictionaryForm": "手",
+            "render": true,
+            "showJlpt": false,
+            "status": "auto-draft-needs-assisted-review",
+            "reviewRequired": true,
+            "fieldProvenance": {
+              "segmentation": "SudachiPy 0.6.11 + sudachidict_core 20260723",
+              "reading": "SudachiPy 0.6.11 + sudachidict_core 20260723",
+              "romaji": "pykakasi 2.3.0",
+              "meaningOrFunction": "phase-3 unresolved draft",
+              "grammarStructureZh": "Sudachi POS draft"
+            },
+            "zhMeaning": "手"
+          },
+          {
+            "token": "を",
+            "reading": "を",
+            "romaji": "o",
+            "grammarStructureZh": "格助词",
+            "dictionaryForm": "を",
+            "render": true,
+            "showJlpt": false,
+            "status": "auto-draft-needs-assisted-review",
+            "reviewRequired": true,
+            "fieldProvenance": {
+              "segmentation": "SudachiPy 0.6.11 + sudachidict_core 20260723",
+              "reading": "SudachiPy 0.6.11 + sudachidict_core 20260723",
+              "romaji": "pykakasi 2.3.0",
+              "meaningOrFunction": "project particle-function draft table",
+              "grammarStructureZh": "Sudachi POS draft"
+            },
+            "functionZh": "标记取った的对象：手"
+          },
+          {
+            "token": "取った",
+            "reading": "とった",
+            "romaji": "totta",
+            "grammarStructureZh": "他动词（过去形）",
+            "dictionaryForm": "取る",
+            "render": true,
+            "showJlpt": false,
+            "status": "auto-draft-needs-assisted-review",
+            "reviewRequired": true,
+            "fieldProvenance": {
+              "segmentation": "SudachiPy 0.6.11 + sudachidict_core 20260723",
+              "reading": "SudachiPy 0.6.11 + sudachidict_core 20260723",
+              "romaji": "pykakasi 2.3.0",
+              "meaningOrFunction": "phase-3 unresolved draft",
+              "grammarStructureZh": "Sudachi POS draft"
+            },
+            "zhMeaning": "牵起；握住"
+          }
+        ],
+        "confidence": 0.98,
+        "evidence": [
+          "Lexical proposal identifies 待ちあぐねる as one dictionary verb and owns token boundaries/readings/romaji.",
+          "Grammar proposals for old cards 1 and 2 are reconciled as one compound-verb card: 复合动词连用形（中顿）.",
+          "Translation meaning for the complete compound is taken from old card 2; 手/を/取った fields are shifted from old indices 3/4/5 to new indices 2/3/4.",
+          "The complete replacement preserves exactly one of zhMeaning/functionZh on every card."
+        ],
+        "changesTokenStructure": true,
+        "integrationSource": {
+          "role": "integration",
+          "absorbed": [
+            "lexical:grammarCards",
+            "grammar:grammarCards[0,1,2,4,5]",
+            "translation:grammarCards[0..5]"
+          ]
+        }
+      },
+      {
+        "frameId": "l020",
+        "field": "caption.furigana",
+        "old": [
+          {
+            "cardIndex": 1,
+            "base": "待",
+            "surfaceOffset": 0,
+            "reading": "ま",
+            "tokenStart": 6,
+            "baseStart": 6
+          },
+          {
+            "cardIndex": 3,
+            "base": "手",
+            "surfaceOffset": 0,
+            "reading": "て",
+            "tokenStart": 12,
+            "baseStart": 12
+          },
+          {
+            "cardIndex": 5,
+            "base": "取",
+            "surfaceOffset": 0,
+            "reading": "とった",
+            "tokenStart": 14,
+            "baseStart": 14
+          }
+        ],
+        "new": [
+          {
+            "cardIndex": 0,
+            "base": "打",
+            "surfaceOffset": 0,
+            "reading": "う",
+            "tokenStart": 0,
+            "baseStart": 0
+          },
+          {
+            "cardIndex": 0,
+            "base": "消",
+            "surfaceOffset": 2,
+            "reading": "け",
+            "tokenStart": 0,
+            "baseStart": 2
+          },
+          {
+            "cardIndex": 1,
+            "base": "待",
+            "surfaceOffset": 0,
+            "reading": "ま",
+            "tokenStart": 6,
+            "baseStart": 6
+          },
+          {
+            "cardIndex": 2,
+            "base": "手",
+            "surfaceOffset": 0,
+            "reading": "て",
+            "tokenStart": 12,
+            "baseStart": 12
+          },
+          {
+            "cardIndex": 4,
+            "base": "取",
+            "surfaceOffset": 0,
+            "reading": "と",
+            "tokenStart": 14,
+            "baseStart": 14
+          }
+        ],
+        "confidence": 0.99,
+        "evidence": [
+          "japanese-song-study-video 固定前景契约：振假名只覆盖连续汉字段，不重复显示歌词中已有的平假名；纯假名词不显示振假名。",
+          "project/timing/qm.json 与 project/timing/roma.json：逐字核对汉字位置和对应唱读。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "lexical",
+          "sourceIndex": 20
+        }
+      },
+      {
+        "frameId": "l020",
+        "field": "caption.romaji",
+        "old": "uchikeshite machi agune te o totta",
+        "new": "uchikeshite machiagune te o totta",
+        "confidence": 0.99,
+        "evidence": [
+          "project/timing/qm.json：冻结日文歌词、字符位置和逐词时间。",
+          "project/timing/roma.json：冻结 QQ 音乐唱读轨；本提案以唱读轨而非词典默认音纠正歌曲实际读音。",
+          "小学馆《デジタル大辞泉》将「待ちあぐねる」收为一个动词词条；歌词「待ちあぐね」是其连用形：https://kotobank.jp/word/%E5%BE%85%E3%81%A1%E5%80%A6%E3%81%AD%E3%82%8B-634561",
+          "将「待ち」与「あぐね」分成两个学习词卡会切断词典词形，并使罗马音产生不自然的词内空格。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "lexical",
+          "sourceIndex": 19
+        }
+      },
+      {
+        "frameId": "l021",
+        "field": "caption.furigana",
+        "old": [
+          {
+            "cardIndex": 0,
+            "base": "苦",
+            "surfaceOffset": 2,
+            "reading": "ほろにが",
+            "tokenStart": 0,
+            "baseStart": 2
+          },
+          {
+            "cardIndex": 2,
+            "base": "甘",
+            "surfaceOffset": 0,
+            "reading": "あま",
+            "tokenStart": 7,
+            "baseStart": 7
+          }
+        ],
+        "new": [
+          {
+            "cardIndex": 0,
+            "base": "苦",
+            "surfaceOffset": 2,
+            "reading": "にが",
+            "tokenStart": 0,
+            "baseStart": 2
+          },
+          {
+            "cardIndex": 2,
+            "base": "甘",
+            "surfaceOffset": 0,
+            "reading": "あま",
+            "tokenStart": 7,
+            "baseStart": 7
+          }
+        ],
+        "confidence": 0.99,
+        "evidence": [
+          "japanese-song-study-video 固定前景契约：振假名只覆盖连续汉字段，不重复显示歌词中已有的平假名；纯假名词不显示振假名。",
+          "project/timing/qm.json 与 project/timing/roma.json：逐字核对汉字位置和对应唱读。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "lexical",
+          "sourceIndex": 21
+        }
+      },
+      {
+        "frameId": "l021",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "微苦；略带苦味",
+        "confidence": 0.99,
+        "evidence": [
+          "QQ qmts整句中文"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 115
+        }
+      },
+      {
+        "frameId": "l021",
+        "field": "grammarCards[1].zhMeaning",
+        "old": "待联网复核",
+        "new": "微微；略带",
+        "confidence": 0.98,
+        "evidence": [
+          "与甘い组成ほの甘い"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 116
+        }
+      },
+      {
+        "frameId": "l021",
+        "field": "grammarCards[2].zhMeaning",
+        "old": "待联网复核",
+        "new": "甘甜；甜蜜",
+        "confidence": 0.99,
+        "evidence": [
+          "饮酒滋味与感情双关"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 117
+        }
+      },
+      {
+        "frameId": "l022",
+        "field": "caption.furigana",
+        "old": [
+          {
+            "cardIndex": 3,
+            "base": "想",
+            "surfaceOffset": 0,
+            "reading": "おも",
+            "tokenStart": 6,
+            "baseStart": 6
+          },
+          {
+            "cardIndex": 5,
+            "base": "胸",
+            "surfaceOffset": 0,
+            "reading": "むね",
+            "tokenStart": 9,
+            "baseStart": 9
+          },
+          {
+            "cardIndex": 7,
+            "base": "満",
+            "surfaceOffset": 0,
+            "reading": "みたす",
+            "tokenStart": 11,
+            "baseStart": 11
+          }
+        ],
+        "new": [
+          {
+            "cardIndex": 3,
+            "base": "想",
+            "surfaceOffset": 0,
+            "reading": "おも",
+            "tokenStart": 6,
+            "baseStart": 6
+          },
+          {
+            "cardIndex": 5,
+            "base": "胸",
+            "surfaceOffset": 0,
+            "reading": "むね",
+            "tokenStart": 9,
+            "baseStart": 9
+          },
+          {
+            "cardIndex": 7,
+            "base": "満",
+            "surfaceOffset": 0,
+            "reading": "み",
+            "tokenStart": 11,
+            "baseStart": 11
+          }
+        ],
+        "confidence": 0.99,
+        "evidence": [
+          "japanese-song-study-video 固定前景契约：振假名只覆盖连续汉字段，不重复显示歌词中已有的平假名；纯假名词不显示振假名。",
+          "project/timing/qm.json 与 project/timing/roma.json：逐字核对汉字位置和对应唱读。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "lexical",
+          "sourceIndex": 22
+        }
+      },
+      {
+        "frameId": "l022",
+        "field": "caption.translationZh",
+        "old": "几欲倾泻的思念满溢在我的心间",
+        "new": "仿佛就要溢出的思念填满了心间",
+        "confidence": 0.97,
+        "evidence": [
+          "満たす为填满；こぼれそう为看起来快要溢出"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 118
+        }
+      },
+      {
+        "frameId": "l022",
+        "field": "grammarCards[0].grammarStructureZh",
+        "old": "动词",
+        "new": "动词连用形（接そう）",
+        "confidence": 0.99,
+        "evidence": [
+          "こぼれ为こぼれる的连用形，接样态そうだ。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 63
+        }
+      },
+      {
+        "frameId": "l022",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "洒出；溢出",
+        "confidence": 0.99,
+        "evidence": [
+          "与そう组成即将溢出"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 119
+        }
+      },
+      {
+        "frameId": "l022",
+        "field": "grammarCards[1].grammarStructureZh",
+        "old": "な形容词",
+        "new": "样态助动词（表示即将发生）",
+        "confidence": 0.99,
+        "evidence": [
+          "国际交流基金《いろどり》以〜そうです教授外观／样态表达（https://www.irodori.jpf.go.jp/assets/data/elementary02/pdf/Z_L02.pdf）；こぼれそう表示眼看要溢出。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 64
+        }
+      },
+      {
+        "frameId": "l022",
+        "field": "grammarCards[1].zhMeaning",
+        "old": "待联网复核",
+        "new": "看起来快要……",
+        "confidence": 0.99,
+        "evidence": [
+          "动词连用形＋そう表示样态"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 120
+        }
+      },
+      {
+        "frameId": "l022",
+        "field": "grammarCards[2].grammarStructureZh",
+        "old": "助动词",
+        "new": "样态そうだ的连体形",
+        "confidence": 0.99,
+        "evidence": [
+          "そうな连接后续名词想い：こぼれそうな想い。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 65
+        }
+      },
+      {
+        "frameId": "l022",
+        "field": "grammarCards[2].zhMeaning",
+        "old": "待联网复核",
+        "new": "连接样态表达与名词",
+        "confidence": 0.98,
+        "evidence": [
+          "こぼれそうな想い"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 121
+        }
+      },
+      {
+        "frameId": "l022",
+        "field": "grammarCards[3].zhMeaning",
+        "old": "待联网复核",
+        "new": "思念；心意",
+        "confidence": 0.99,
+        "evidence": [
+          "恋爱情境"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 122
+        }
+      },
+      {
+        "frameId": "l022",
+        "field": "grammarCards[4].functionZh",
+        "old": "标记主语或强调对象",
+        "new": "标记主语：こぼれそうな想い",
+        "confidence": 0.99,
+        "evidence": [
+          "歌词语境：想いが胸を満たす。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 66
+        }
+      },
+      {
+        "frameId": "l022",
+        "field": "grammarCards[5].zhMeaning",
+        "old": "待联网复核",
+        "new": "胸口；心间",
+        "confidence": 0.99,
+        "evidence": [
+          "情感语境中的胸"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 124
+        }
+      },
+      {
+        "frameId": "l022",
+        "field": "grammarCards[6].functionZh",
+        "old": "标记动作对象",
+        "new": "标记満たす的对象：胸",
+        "confidence": 0.99,
+        "evidence": [
+          "歌词语境：胸を満たす。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 67
+        }
+      },
+      {
+        "frameId": "l022",
+        "field": "grammarCards[7].zhMeaning",
+        "old": "待联网复核",
+        "new": "填满；充满",
+        "confidence": 0.99,
+        "evidence": [
+          "想いが胸を満たす"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 126
+        }
+      },
+      {
+        "frameId": "l023",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "天真无邪的；稚气的",
+        "confidence": 0.99,
+        "evidence": [
+          "QQ qmts整句中文"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 127
+        }
+      },
+      {
+        "frameId": "l023",
+        "field": "grammarCards[1].zhMeaning",
+        "old": "待联网复核",
+        "new": "眼眸；瞳孔",
+        "confidence": 0.99,
+        "evidence": [
+          "QQ qmts整句中文"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 128
+        }
+      },
+      {
+        "frameId": "l023",
+        "field": "grammarCards[2].functionZh",
+        "old": "标记主语或强调对象",
+        "new": "标记跨句主语“瞳”，谓语见下一句的惑う",
+        "confidence": 0.97,
+        "evidence": [
+          "QRC连续语境：あどけない瞳が／熱を持ってかすかに惑う。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 68
+        }
+      },
+      {
+        "frameId": "l024",
+        "field": "caption.furigana",
+        "old": [
+          {
+            "cardIndex": 0,
+            "base": "熱",
+            "surfaceOffset": 0,
+            "reading": "ねつ",
+            "tokenStart": 0,
+            "baseStart": 0
+          },
+          {
+            "cardIndex": 2,
+            "base": "持",
+            "surfaceOffset": 0,
+            "reading": "もって",
+            "tokenStart": 2,
+            "baseStart": 2
+          },
+          {
+            "cardIndex": 5,
+            "base": "惑",
+            "surfaceOffset": 0,
+            "reading": "まど",
+            "tokenStart": 9,
+            "baseStart": 9
+          }
+        ],
+        "new": [
+          {
+            "cardIndex": 0,
+            "base": "熱",
+            "surfaceOffset": 0,
+            "reading": "ねつ",
+            "tokenStart": 0,
+            "baseStart": 0
+          },
+          {
+            "cardIndex": 2,
+            "base": "持",
+            "surfaceOffset": 0,
+            "reading": "も",
+            "tokenStart": 2,
+            "baseStart": 2
+          },
+          {
+            "cardIndex": 5,
+            "base": "惑",
+            "surfaceOffset": 0,
+            "reading": "まど",
+            "tokenStart": 9,
+            "baseStart": 9
+          }
+        ],
+        "confidence": 0.99,
+        "evidence": [
+          "japanese-song-study-video 固定前景契约：振假名只覆盖连续汉字段，不重复显示歌词中已有的平假名；纯假名词不显示振假名。",
+          "project/timing/qm.json 与 project/timing/roma.json：逐字核对汉字位置和对应唱读。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "lexical",
+          "sourceIndex": 23
+        }
+      },
+      {
+        "frameId": "l024",
+        "field": "caption.translationZh",
+        "old": "带着热意闪过些许的困惑",
+        "new": "带着热意，隐约显得迷惘",
+        "confidence": 0.97,
+        "evidence": [
+          "惑う是迷惑、迷惘；原文无闪过"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 130
+        }
+      },
+      {
+        "frameId": "l024",
+        "field": "grammarCards[4]",
+        "old": {
+          "token": "に",
+          "reading": "に",
+          "romaji": "ni",
+          "grammarStructureZh": "助动词",
+          "dictionaryForm": "だ",
+          "render": true,
+          "showJlpt": false,
+          "status": "auto-draft-needs-assisted-review",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "segmentation": "SudachiPy 0.6.11 + sudachidict_core 20260723",
+            "reading": "SudachiPy 0.6.11 + sudachidict_core 20260723",
+            "romaji": "pykakasi 2.3.0",
+            "meaningOrFunction": "phase-3 unresolved draft",
+            "grammarStructureZh": "Sudachi POS draft"
+          },
+          "zhMeaning": "待联网复核"
+        },
+        "new": {
+          "token": "に",
+          "reading": "に",
+          "romaji": "ni",
+          "grammarStructureZh": "な形容词副词化",
+          "dictionaryForm": "だ",
+          "render": true,
+          "showJlpt": false,
+          "status": "auto-draft-needs-assisted-review",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "segmentation": "SudachiPy 0.6.11 + sudachidict_core 20260723",
+            "reading": "SudachiPy 0.6.11 + sudachidict_core 20260723",
+            "romaji": "pykakasi 2.3.0",
+            "meaningOrFunction": "phase-3 unresolved draft",
+            "grammarStructureZh": "Sudachi POS draft"
+          },
+          "functionZh": "使かすか作状语：隐约地"
+        },
+        "confidence": 0.99,
+        "evidence": [
+          "Grammar owns the adverbial function of に in かすかに惑う.",
+          "Whole-card replacement removes the draft zhMeaning field and leaves exactly one functionZh field.",
+          "Translation proposed a gloss for this functional card; it is rejected to satisfy the particle/function exclusivity contract."
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "integration",
+          "absorbed": [
+            "grammar:grammarCards[4].grammarStructureZh",
+            "grammar:grammarCards[4].zhMeaning",
+            "grammar:grammarCards[4].functionZh",
+            "translation:grammarCards[4].zhMeaning"
+          ]
+        }
+      },
+      {
+        "frameId": "l024",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "热意；温热",
+        "confidence": 0.99,
+        "evidence": [
+          "瞳が熱を持つ语境"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 131
+        }
+      },
+      {
+        "frameId": "l024",
+        "field": "grammarCards[1].functionZh",
+        "old": "标记动作对象",
+        "new": "标记持つ的对象：熱",
+        "confidence": 0.99,
+        "evidence": [
+          "歌词语境：熱を持って。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 69
+        }
+      },
+      {
+        "frameId": "l024",
+        "field": "grammarCards[2].grammarStructureZh",
+        "old": "动词（活用）",
+        "new": "动词て形（伴随状态）",
+        "confidence": 0.98,
+        "evidence": [
+          "持って＝持つ的て形；在此表示带着热意的伴随状态。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 70
+        }
+      },
+      {
+        "frameId": "l024",
+        "field": "grammarCards[2].zhMeaning",
+        "old": "待联网复核",
+        "new": "带着；含有",
+        "confidence": 0.99,
+        "evidence": [
+          "熱を持って"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 133
+        }
+      },
+      {
+        "frameId": "l024",
+        "field": "grammarCards[3].grammarStructureZh",
+        "old": "な形容词",
+        "new": "な形容词词干",
+        "confidence": 0.99,
+        "evidence": [
+          "かすか后接に作状语。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 71
+        }
+      },
+      {
+        "frameId": "l024",
+        "field": "grammarCards[3].zhMeaning",
+        "old": "待联网复核",
+        "new": "微弱；隐约",
+        "confidence": 0.99,
+        "evidence": [
+          "かすかに惑う"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 134
+        }
+      },
+      {
+        "frameId": "l024",
+        "field": "grammarCards[5].zhMeaning",
+        "old": "待联网复核",
+        "new": "迷惘；困惑",
+        "confidence": 0.99,
+        "evidence": [
+          "QQ qmts整句中文"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 136
+        }
+      },
+      {
+        "frameId": "l025",
+        "field": "caption.translationZh",
+        "old": "迄今为止的我们仿佛已准备好",
+        "new": "一路走到今天的我们，如今仿佛已能",
+        "confidence": 0.95,
+        "evidence": [
+          "本行与下一行飛び越えそうで跨行成句；保留もう的已经／如今义"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 137
+        }
+      },
+      {
+        "frameId": "l025",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "今天；如今",
+        "confidence": 0.99,
+        "evidence": [
+          "今日まで表示直到今天"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 138
+        }
+      },
+      {
+        "frameId": "l025",
+        "field": "grammarCards[1].functionZh",
+        "old": "表示终点或范围",
+        "new": "表示时间范围的终点：直到今天",
+        "confidence": 0.99,
+        "evidence": [
+          "歌词语境：今日まで。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 75
+        }
+      },
+      {
+        "frameId": "l025",
+        "field": "grammarCards[2].functionZh",
+        "old": "表示所属、修饰或名词化",
+        "new": "连接今日まで与二人，表示连体修饰",
+        "confidence": 0.99,
+        "evidence": [
+          "歌词语境：今日までの二人。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 76
+        }
+      },
+      {
+        "frameId": "l025",
+        "field": "grammarCards[3].zhMeaning",
+        "old": "待联网复核",
+        "new": "两个人；我们两人",
+        "confidence": 0.99,
+        "evidence": [
+          "恋爱双方语境"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 141
+        }
+      },
+      {
+        "frameId": "l025",
+        "field": "grammarCards[4].zhMeaning",
+        "old": "待联网复核",
+        "new": "全部；过往的一切",
+        "confidence": 0.97,
+        "evidence": [
+          "承接下一行飛び越え的对象"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 142
+        }
+      },
+      {
+        "frameId": "l025",
+        "field": "grammarCards[5].zhMeaning",
+        "old": "待联网复核",
+        "new": "已经；如今",
+        "confidence": 0.98,
+        "evidence": [
+          "表达关系发展后的当前状态"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 143
+        }
+      },
+      {
+        "frameId": "l026",
+        "field": "caption.furigana",
+        "old": [],
+        "new": [
+          {
+            "cardIndex": 0,
+            "base": "飛",
+            "surfaceOffset": 0,
+            "reading": "と",
+            "tokenStart": 0,
+            "baseStart": 0
+          },
+          {
+            "cardIndex": 0,
+            "base": "越",
+            "surfaceOffset": 2,
+            "reading": "こ",
+            "tokenStart": 0,
+            "baseStart": 2
+          }
+        ],
+        "confidence": 0.99,
+        "evidence": [
+          "japanese-song-study-video 固定前景契约：振假名只覆盖连续汉字段，不重复显示歌词中已有的平假名；纯假名词不显示振假名。",
+          "project/timing/qm.json 与 project/timing/roma.json：逐字核对汉字位置和对应唱读。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "lexical",
+          "sourceIndex": 24
+        }
+      },
+      {
+        "frameId": "l026",
+        "field": "caption.translationZh",
+        "old": "将过往统统都飞跃",
+        "new": "跨越过往的一切",
+        "confidence": 0.97,
+        "evidence": [
+          "承接上一行全て；飛び越える为越过"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 144
+        }
+      },
+      {
+        "frameId": "l026",
+        "field": "grammarCards[0].grammarStructureZh",
+        "old": "动词",
+        "new": "复合动词连用形",
+        "confidence": 0.99,
+        "evidence": [
+          "飛び越え为飛び越える的连用形，接样态そうだ。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 77
+        }
+      },
+      {
+        "frameId": "l026",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "飞越；跨越",
+        "confidence": 0.99,
+        "evidence": [
+          "对象为上一行过往的一切"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 145
+        }
+      },
+      {
+        "frameId": "l026",
+        "field": "grammarCards[1].grammarStructureZh",
+        "old": "な形容词",
+        "new": "样态助动词（表示即将发生）",
+        "confidence": 0.99,
+        "evidence": [
+          "飛び越えそう表示看起来将要越过。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 78
+        }
+      },
+      {
+        "frameId": "l026",
+        "field": "grammarCards[1].zhMeaning",
+        "old": "待联网复核",
+        "new": "仿佛能……；似乎就要……",
+        "confidence": 0.97,
+        "evidence": [
+          "动词连用形＋そう表示样态或趋势"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 146
+        }
+      },
+      {
+        "frameId": "l026",
+        "field": "grammarCards[2].grammarStructureZh",
+        "old": "助动词",
+        "new": "样态そうだ的连用形",
+        "confidence": 0.99,
+        "evidence": [
+          "そうで为样态助动词そうだ的连用形，承接后文。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 79
+        }
+      },
+      {
+        "frameId": "l026",
+        "field": "grammarCards[2].zhMeaning",
+        "old": "待联网复核",
+        "new": "以中顿承接下文",
+        "confidence": 0.98,
+        "evidence": [
+          "そうで后接下一句本音は…"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 147
+        }
+      },
+      {
+        "frameId": "l027",
+        "field": "caption.translationZh",
+        "old": "真实心声仍不够确切也无妨",
+        "new": "真心话就这样暧昧不明也无妨",
+        "confidence": 0.98,
+        "evidence": [
+          "曖昧なままでいい表示保持暧昧状态也可以"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 148
+        }
+      },
+      {
+        "frameId": "l027",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "真心话；真实心意",
+        "confidence": 0.99,
+        "evidence": [
+          "QQ qmts整句中文"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 149
+        }
+      },
+      {
+        "frameId": "l027",
+        "field": "grammarCards[1].functionZh",
+        "old": "提示主题或形成对比",
+        "new": "提示主题：本音",
+        "confidence": 0.99,
+        "evidence": [
+          "歌词语境：本音は曖昧なままでいい。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 80
+        }
+      },
+      {
+        "frameId": "l027",
+        "field": "grammarCards[2].grammarStructureZh",
+        "old": "な形容词",
+        "new": "な形容词词干",
+        "confidence": 0.99,
+        "evidence": [
+          "曖昧后接连体标记な。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 81
+        }
+      },
+      {
+        "frameId": "l027",
+        "field": "grammarCards[2].zhMeaning",
+        "old": "待联网复核",
+        "new": "暧昧；不明确",
+        "confidence": 0.99,
+        "evidence": [
+          "QQ qmts整句中文"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 151
+        }
+      },
+      {
+        "frameId": "l027",
+        "field": "grammarCards[3].grammarStructureZh",
+        "old": "助动词",
+        "new": "な形容词连体标记",
+        "confidence": 0.99,
+        "evidence": [
+          "曖昧な修饰形式名词まま。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 82
+        }
+      },
+      {
+        "frameId": "l027",
+        "field": "grammarCards[3].zhMeaning",
+        "old": "待联网复核",
+        "new": "连接形容动词与状态名词",
+        "confidence": 0.99,
+        "evidence": [
+          "曖昧なまま"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 152
+        }
+      },
+      {
+        "frameId": "l027",
+        "field": "grammarCards[4].grammarStructureZh",
+        "old": "名词",
+        "new": "形式名词（保持状态）",
+        "confidence": 0.99,
+        "evidence": [
+          "〜なまま表示保持该状态不变。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 83
+        }
+      },
+      {
+        "frameId": "l027",
+        "field": "grammarCards[4].zhMeaning",
+        "old": "待联网复核",
+        "new": "保持原样；就这样",
+        "confidence": 0.99,
+        "evidence": [
+          "～たままで表示状态维持"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 153
+        }
+      },
+      {
+        "frameId": "l027",
+        "field": "grammarCards[5].functionZh",
+        "old": "表示场所、手段或原因",
+        "new": "连接状态与评价いい：保持那样也可以",
+        "confidence": 0.99,
+        "evidence": [
+          "歌词语境：曖昧なままでいい。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 85
+        }
+      },
+      {
+        "frameId": "l027",
+        "field": "grammarCards[5].grammarStructureZh",
+        "old": "格助词",
+        "new": "断定助动词连用形",
+        "confidence": 0.99,
+        "evidence": [
+          "ままでいい中的で是断定助动词だ的连用形，不表示场所或手段。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 84
+        }
+      },
+      {
+        "frameId": "l027",
+        "field": "grammarCards[6].zhMeaning",
+        "old": "待联网复核",
+        "new": "可以；无妨",
+        "confidence": 0.99,
+        "evidence": [
+          "～ままでいい"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 155
+        }
+      },
+      {
+        "frameId": "l028",
+        "field": "caption.furigana",
+        "old": [
+          {
+            "cardIndex": 0,
+            "base": "思",
+            "surfaceOffset": 0,
+            "reading": "おもって",
+            "tokenStart": 0,
+            "baseStart": 0
+          },
+          {
+            "cardIndex": 2,
+            "base": "遠",
+            "surfaceOffset": 0,
+            "reading": "とおくない",
+            "tokenStart": 5,
+            "baseStart": 5
+          }
+        ],
+        "new": [
+          {
+            "cardIndex": 0,
+            "base": "思",
+            "surfaceOffset": 0,
+            "reading": "おも",
+            "tokenStart": 0,
+            "baseStart": 0
+          },
+          {
+            "cardIndex": 2,
+            "base": "遠",
+            "surfaceOffset": 0,
+            "reading": "とお",
+            "tokenStart": 5,
+            "baseStart": 5
+          }
+        ],
+        "confidence": 0.99,
+        "evidence": [
+          "japanese-song-study-video 固定前景契约：振假名只覆盖连续汉字段，不重复显示歌词中已有的平假名；纯假名词不显示振假名。",
+          "project/timing/qm.json 与 project/timing/roma.json：逐字核对汉字位置和对应唱读。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "lexical",
+          "sourceIndex": 25
+        }
+      },
+      {
+        "frameId": "l028",
+        "field": "caption.translationZh",
+        "old": "心有所想 尚且不算遥远",
+        "new": "只要思念着你，距离便还不算遥远",
+        "confidence": 0.91,
+        "evidence": [
+          "思って的对象依恋爱情境补为你；遠くない表达距离不远"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 156
+        }
+      },
+      {
+        "frameId": "l028",
+        "field": "grammarCards[0].grammarStructureZh",
+        "old": "动词（活用）",
+        "new": "动词て形（中顿）",
+        "confidence": 0.94,
+        "evidence": [
+          "思って＝思う的て形；歌词在此以中顿衔接后项。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 86
+        }
+      },
+      {
+        "frameId": "l028",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "想着；思念着",
+        "confidence": 0.97,
+        "evidence": [
+          "恋爱歌曲上下文"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 157
+        }
+      },
+      {
+        "frameId": "l028",
+        "field": "grammarCards[1].zhMeaning",
+        "old": "待联网复核",
+        "new": "还；尚且",
+        "confidence": 0.99,
+        "evidence": [
+          "QQ qmts整句中文"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 158
+        }
+      },
+      {
+        "frameId": "l028",
+        "field": "grammarCards[2].grammarStructureZh",
+        "old": "い形容词（活用）",
+        "new": "い形容词否定形",
+        "confidence": 0.99,
+        "evidence": [
+          "遠くない＝遠い的否定形。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 87
+        }
+      },
+      {
+        "frameId": "l028",
+        "field": "grammarCards[2].zhMeaning",
+        "old": "待联网复核",
+        "new": "不远；并不遥远",
+        "confidence": 0.99,
+        "evidence": [
+          "遠い的否定形式"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 159
+        }
+      },
+      {
+        "frameId": "l029",
+        "field": "caption.furigana",
+        "old": [
+          {
+            "cardIndex": 2,
+            "base": "涙",
+            "surfaceOffset": 0,
+            "reading": "なみだ",
+            "tokenStart": 4,
+            "baseStart": 4
+          },
+          {
+            "cardIndex": 3,
+            "base": "理由",
+            "surfaceOffset": 0,
+            "reading": "りゆう",
+            "tokenStart": 6,
+            "baseStart": 6
+          }
+        ],
+        "new": [
+          {
+            "cardIndex": 2,
+            "base": "涙",
+            "surfaceOffset": 0,
+            "reading": "なみだ",
+            "tokenStart": 4,
+            "baseStart": 4
+          },
+          {
+            "cardIndex": 3,
+            "base": "理由",
+            "surfaceOffset": 0,
+            "reading": "りゆう",
+            "tokenStart": 6,
+            "baseStart": 6
+          },
+          {
+            "cardIndex": 5,
+            "base": "独",
+            "surfaceOffset": 0,
+            "reading": "ひと",
+            "tokenStart": 10,
+            "baseStart": 10
+          },
+          {
+            "cardIndex": 5,
+            "base": "占",
+            "surfaceOffset": 2,
+            "reading": "じ",
+            "tokenStart": 10,
+            "baseStart": 12
+          }
+        ],
+        "confidence": 0.99,
+        "evidence": [
+          "japanese-song-study-video 固定前景契约：振假名只覆盖连续汉字段，不重复显示歌词中已有的平假名；纯假名词不显示振假名。",
+          "project/timing/qm.json 与 project/timing/roma.json：逐字核对汉字位置和对应唱读。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "lexical",
+          "sourceIndex": 26
+        }
+      },
+      {
+        "frameId": "l029",
+        "field": "grammarCards[1].zhMeaning",
+        "old": "待联网复核",
+        "new": "那；你的那份",
+        "confidence": 0.98,
+        "evidence": [
+          "その涙指对方的眼泪"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 160
+        }
+      },
+      {
+        "frameId": "l029",
+        "field": "grammarCards[2].zhMeaning",
+        "old": "待联网复核",
+        "new": "眼泪；泪水",
+        "confidence": 0.99,
+        "evidence": [
+          "QQ qmts整句中文"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 161
+        }
+      },
+      {
+        "frameId": "l029",
+        "field": "grammarCards[3].zhMeaning",
+        "old": "待联网复核",
+        "new": "理由；缘由",
+        "confidence": 0.99,
+        "evidence": [
+          "涙の理由中の省略"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 162
+        }
+      },
+      {
+        "frameId": "l029",
+        "field": "grammarCards[4].functionZh",
+        "old": "标记动作对象",
+        "new": "标记独り占めしたい的对象：理由",
+        "confidence": 0.99,
+        "evidence": [
+          "歌词语境：理由を独り占めしたい。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 88
+        }
+      },
+      {
+        "frameId": "l029",
+        "field": "grammarCards[5].zhMeaning",
+        "old": "待联网复核",
+        "new": "独占；只归自己所有",
+        "confidence": 0.99,
+        "evidence": [
+          "小学馆辞典释为只归自己所有：https://kotobank.jp/word/%E7%8B%AC%E3%82%8A%E5%8D%A0%E3%82%81-611794"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 164
+        }
+      },
+      {
+        "frameId": "l029",
+        "field": "grammarCards[6].grammarStructureZh",
+        "old": "动词（活用）",
+        "new": "サ变动词愿望形",
+        "confidence": 0.99,
+        "evidence": [
+          "独り占めする＋たい＝独り占めしたい。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 89
+        }
+      },
+      {
+        "frameId": "l029",
+        "field": "grammarCards[6].zhMeaning",
+        "old": "待联网复核",
+        "new": "想要独占",
+        "confidence": 0.99,
+        "evidence": [
+          "する＋たい表示愿望"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 165
+        }
+      },
+      {
+        "frameId": "l030",
+        "field": "caption.furigana",
+        "old": [
+          {
+            "cardIndex": 0,
+            "base": "喉",
+            "surfaceOffset": 0,
+            "reading": "のど",
+            "tokenStart": 0,
+            "baseStart": 0
+          },
+          {
+            "cardIndex": 1,
+            "base": "通",
+            "surfaceOffset": 0,
+            "reading": "とおった",
+            "tokenStart": 1,
+            "baseStart": 1
+          }
+        ],
+        "new": [
+          {
+            "cardIndex": 0,
+            "base": "喉",
+            "surfaceOffset": 0,
+            "reading": "のど",
+            "tokenStart": 0,
+            "baseStart": 0
+          },
+          {
+            "cardIndex": 1,
+            "base": "通",
+            "surfaceOffset": 0,
+            "reading": "とお",
+            "tokenStart": 1,
+            "baseStart": 1
+          }
+        ],
+        "confidence": 0.99,
+        "evidence": [
+          "japanese-song-study-video 固定前景契约：振假名只覆盖连续汉字段，不重复显示歌词中已有的平假名；纯假名词不显示振假名。",
+          "project/timing/qm.json 与 project/timing/roma.json：逐字核对汉字位置和对应唱读。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "lexical",
+          "sourceIndex": 27
+        }
+      },
+      {
+        "frameId": "l030",
+        "field": "caption.translationZh",
+        "old": "而滑过喉头的那一抹滋味",
+        "new": "滑过喉头的那一抹风味里",
+        "confidence": 0.96,
+        "evidence": [
+          "与l010重复歌词一致；整句翻译仍独立保留"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 166
+        }
+      },
+      {
+        "frameId": "l030",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "喉咙；喉头",
+        "confidence": 0.99,
+        "evidence": [
+          "与l010重复歌词一致"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 167
+        }
+      },
+      {
+        "frameId": "l030",
+        "field": "grammarCards[1].grammarStructureZh",
+        "old": "动词（活用）",
+        "new": "自动词过去形（连体修饰）",
+        "confidence": 0.98,
+        "evidence": [
+          "与l010为重复歌词；通った修饰フレイバー。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 90
+        }
+      },
+      {
+        "frameId": "l030",
+        "field": "grammarCards[1].zhMeaning",
+        "old": "待联网复核",
+        "new": "滑过；通过",
+        "confidence": 0.99,
+        "evidence": [
+          "与l010重复歌词一致"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 168
+        }
+      },
+      {
+        "frameId": "l030",
+        "field": "grammarCards[2].zhMeaning",
+        "old": "待联网复核",
+        "new": "风味；滋味",
+        "confidence": 0.99,
+        "evidence": [
+          "与l010重复歌词一致"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 169
+        }
+      },
+      {
+        "frameId": "l030",
+        "field": "grammarCards[3].functionZh",
+        "old": "表示对象、到达点或发生时间",
+        "new": "标记感情所寄寓的对象或范围：フレイバー",
+        "confidence": 0.94,
+        "evidence": [
+          "与l010为重复歌词；フレイバーには感情あふれ。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 91
+        }
+      },
+      {
+        "frameId": "l030",
+        "field": "grammarCards[4].functionZh",
+        "old": "提示主题或形成对比",
+        "new": "与に构成には，提示该对象或范围为主题",
+        "confidence": 0.96,
+        "evidence": [
+          "与l010为重复歌词；フレイバーには感情あふれ。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 92
+        }
+      },
+      {
+        "frameId": "l031",
+        "field": "caption.furigana",
+        "old": [
+          {
+            "cardIndex": 0,
+            "base": "初",
+            "surfaceOffset": 0,
+            "reading": "はじめて",
+            "tokenStart": 0,
+            "baseStart": 0
+          },
+          {
+            "cardIndex": 1,
+            "base": "知",
+            "surfaceOffset": 0,
+            "reading": "し",
+            "tokenStart": 3,
+            "baseStart": 3
+          },
+          {
+            "cardIndex": 2,
+            "base": "感情",
+            "surfaceOffset": 0,
+            "reading": "かんじょう",
+            "tokenStart": 5,
+            "baseStart": 5
+          }
+        ],
+        "new": [
+          {
+            "cardIndex": 0,
+            "base": "初",
+            "surfaceOffset": 0,
+            "reading": "はじ",
+            "tokenStart": 0,
+            "baseStart": 0
+          },
+          {
+            "cardIndex": 1,
+            "base": "知",
+            "surfaceOffset": 0,
+            "reading": "し",
+            "tokenStart": 3,
+            "baseStart": 3
+          },
+          {
+            "cardIndex": 2,
+            "base": "感情",
+            "surfaceOffset": 0,
+            "reading": "かんじょう",
+            "tokenStart": 5,
+            "baseStart": 5
+          }
+        ],
+        "confidence": 0.99,
+        "evidence": [
+          "japanese-song-study-video 固定前景契约：振假名只覆盖连续汉字段，不重复显示歌词中已有的平假名；纯假名词不显示振假名。",
+          "project/timing/qm.json 与 project/timing/roma.json：逐字核对汉字位置和对应唱读。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "lexical",
+          "sourceIndex": 28
+        }
+      },
+      {
+        "frameId": "l031",
+        "field": "caption.translationZh",
+        "old": "让初次体会的感情满溢",
+        "new": "满溢着初次知晓的感情",
+        "confidence": 0.97,
+        "evidence": [
+          "与l011重复歌词一致；整句翻译仍独立保留"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 172
+        }
+      },
+      {
+        "frameId": "l031",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "第一次；初次",
+        "confidence": 0.99,
+        "evidence": [
+          "与l011重复歌词一致"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 173
+        }
+      },
+      {
+        "frameId": "l031",
+        "field": "grammarCards[1].grammarStructureZh",
+        "old": "动词",
+        "new": "动词辞书形（连体修饰）",
+        "confidence": 0.99,
+        "evidence": [
+          "与l011为重复歌词；知る修饰感情。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 93
+        }
+      },
+      {
+        "frameId": "l031",
+        "field": "grammarCards[1].zhMeaning",
+        "old": "待联网复核",
+        "new": "知晓；体会",
+        "confidence": 0.99,
+        "evidence": [
+          "与l011重复歌词一致"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 174
+        }
+      },
+      {
+        "frameId": "l031",
+        "field": "grammarCards[2].zhMeaning",
+        "old": "待联网复核",
+        "new": "感情；情愫",
+        "confidence": 0.99,
+        "evidence": [
+          "与l011重复歌词一致"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 175
+        }
+      },
+      {
+        "frameId": "l031",
+        "field": "grammarCards[3].grammarStructureZh",
+        "old": "动词",
+        "new": "动词连用形（中顿）",
+        "confidence": 0.97,
+        "evidence": [
+          "与l011为重复歌词；あふれ承接后续并列内容。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 94
+        }
+      },
+      {
+        "frameId": "l031",
+        "field": "grammarCards[3].zhMeaning",
+        "old": "待联网复核",
+        "new": "满溢；涌出",
+        "confidence": 0.99,
+        "evidence": [
+          "与l011重复歌词一致"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 176
+        }
+      },
+      {
+        "frameId": "l032",
+        "field": "caption.translationZh",
+        "old": "憧憬与伤痕都在此时此刻",
+        "new": "憧憬也好，伤痕也好，一切都在此刻",
+        "confidence": 0.97,
+        "evidence": [
+          "与l012重复歌词一致；整句翻译仍独立保留"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 177
+        }
+      },
+      {
+        "frameId": "l032",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "憧憬；向往",
+        "confidence": 0.99,
+        "evidence": [
+          "与l012重复歌词一致"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 178
+        }
+      },
+      {
+        "frameId": "l032",
+        "field": "grammarCards[1].functionZh",
+        "old": "表示追加、强调或让步",
+        "new": "表示并列追加：憧憬也…",
+        "confidence": 0.99,
+        "evidence": [
+          "与l012为重复歌词；两个も并列列举。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 95
+        }
+      },
+      {
+        "frameId": "l032",
+        "field": "grammarCards[2].zhMeaning",
+        "old": "待联网复核",
+        "new": "伤痕；创伤",
+        "confidence": 0.99,
+        "evidence": [
+          "与l012重复歌词一致"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 180
+        }
+      },
+      {
+        "frameId": "l032",
+        "field": "grammarCards[3].functionZh",
+        "old": "表示追加、强调或让步",
+        "new": "表示并列追加：伤痕也…",
+        "confidence": 0.99,
+        "evidence": [
+          "与l012为重复歌词；两个も并列列举。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 96
+        }
+      },
+      {
+        "frameId": "l032",
+        "field": "grammarCards[4].zhMeaning",
+        "old": "待联网复核",
+        "new": "全部；一切",
+        "confidence": 0.99,
+        "evidence": [
+          "与l012重复歌词一致"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 182
+        }
+      },
+      {
+        "frameId": "l032",
+        "field": "grammarCards[5].zhMeaning",
+        "old": "待联网复核",
+        "new": "现在；此刻",
+        "confidence": 0.99,
+        "evidence": [
+          "与l012重复歌词一致"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 183
+        }
+      },
+      {
+        "frameId": "l033",
+        "field": "caption.furigana",
+        "old": [
+          {
+            "cardIndex": 1,
+            "base": "光",
+            "surfaceOffset": 0,
+            "reading": "ひか",
+            "tokenStart": 6,
+            "baseStart": 6
+          }
+        ],
+        "new": [
+          {
+            "cardIndex": 0,
+            "base": "溶",
+            "surfaceOffset": 0,
+            "reading": "と",
+            "tokenStart": 0,
+            "baseStart": 0
+          },
+          {
+            "cardIndex": 0,
+            "base": "込",
+            "surfaceOffset": 2,
+            "reading": "こ",
+            "tokenStart": 0,
+            "baseStart": 2
+          },
+          {
+            "cardIndex": 1,
+            "base": "光",
+            "surfaceOffset": 0,
+            "reading": "ひか",
+            "tokenStart": 6,
+            "baseStart": 6
+          }
+        ],
+        "confidence": 0.99,
+        "evidence": [
+          "japanese-song-study-video 固定前景契约：振假名只覆盖连续汉字段，不重复显示歌词中已有的平假名；纯假名词不显示振假名。",
+          "project/timing/qm.json 与 project/timing/roma.json：逐字核对汉字位置和对应唱读。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "lexical",
+          "sourceIndex": 29
+        }
+      },
+      {
+        "frameId": "l033",
+        "field": "grammarCards[0].grammarStructureZh",
+        "old": "动词（活用）",
+        "new": "复合动词て形（中顿）",
+        "confidence": 0.99,
+        "evidence": [
+          "与l013为重复歌词；溶け込んで连接后项光る。"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "grammar",
+          "sourceIndex": 97
+        }
+      },
+      {
+        "frameId": "l033",
+        "field": "grammarCards[0].zhMeaning",
+        "old": "待联网复核",
+        "new": "交融；融入",
+        "confidence": 0.99,
+        "evidence": [
+          "与l013重复歌词一致"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 184
+        }
+      },
+      {
+        "frameId": "l033",
+        "field": "grammarCards[1].zhMeaning",
+        "old": "待联网复核",
+        "new": "发光；闪耀",
+        "confidence": 0.99,
+        "evidence": [
+          "与l013重复歌词一致"
+        ],
+        "changesTokenStructure": false,
+        "integrationSource": {
+          "role": "translation",
+          "sourceIndex": 185
+        }
+      }
+    ]
+  },
+  "validation": {
+    "framesSha256MatchesBase": true,
+    "allSourceOldValuesMatchBase": true,
+    "allRecommendedOldValuesMatchBase": true,
+    "duplicateRecommendedPaths": 0,
+    "simulatedMeaningFunctionExactlyOne": true,
+    "simulatedKanjiOnlyRuby": true,
+    "simulatedLoanwordSourceWords": true,
+    "simulatedCardRomajiMatchesCaption": true,
+    "singingReadingOverrides": [
+      {
+        "frameId": "l001",
+        "token": "水面",
+        "reading": "みなも",
+        "romaji": "minamo",
+        "basis": "QQ romaji singing track plus dictionary attestation"
+      },
+      {
+        "frameId": "l002",
+        "token": "私",
+        "reading": "わたし",
+        "romaji": "watashi",
+        "basis": "QQ romaji singing track"
+      }
+    ],
+    "repeatedLineChecks": [
+      {
+        "frames": [
+          "l010",
+          "l030"
+        ],
+        "japaneseEqual": true,
+        "grammarCardsEqual": true,
+        "lineTranslationsIndependentlyRetained": true
+      },
+      {
+        "frames": [
+          "l011",
+          "l031"
+        ],
+        "japaneseEqual": true,
+        "grammarCardsEqual": true,
+        "lineTranslationsIndependentlyRetained": true
+      },
+      {
+        "frames": [
+          "l012",
+          "l032"
+        ],
+        "japaneseEqual": true,
+        "grammarCardsEqual": true,
+        "lineTranslationsIndependentlyRetained": true
+      },
+      {
+        "frames": [
+          "l013",
+          "l033"
+        ],
+        "japaneseEqual": true,
+        "grammarCardsEqual": true,
+        "lineTranslationsIndependentlyRetained": true
+      }
+    ],
+    "translationPolicy": "Repeated card bundles are synchronized; each repeated frame keeps its independently proposed caption.translationZh rather than inheriting by force."
+  },
+  "attentionItems": [
+    {
+      "frameId": "l020",
+      "severity": "resolved-structural",
+      "item": "待ち＋あぐね was merged as 待ちあぐね. Review the synthesized structure 复合动词连用形（中顿） and meaning 等得厌倦；等得不耐烦 before user approval."
+    },
+    {
+      "frameId": "l024",
+      "severity": "resolved-contract",
+      "item": "The に card is represented only by functionZh; the competing translation gloss is intentionally omitted."
+    },
+    {
+      "frameId": "l028",
+      "severity": "user-review",
+      "item": "Translation proposal adds an implicit object（你）at confidence 0.91: 只要思念着你，距离便还不算遥远."
+    },
+    {
+      "frameIds": [
+        "l014",
+        "l015"
+      ],
+      "severity": "user-review",
+      "item": "Cross-line translations were rewritten as 我透过酒杯 / 窥望着另一边; inspect together because each line is intentionally fragmentary."
+    },
+    {
+      "frameIds": [
+        "l025",
+        "l026"
+      ],
+      "severity": "user-review",
+      "item": "Cross-line translations were rewritten as 一路走到今天的我们，如今仿佛已能 / 跨越过往的一切."
+    },
+    {
+      "severity": "conflict-disclosure",
+      "item": "8 grammar-owned function proposal(s) were selected despite a higher-confidence competing translation wording; each is explicitly marked selectedBelowCompetingConfidence in conflicts."
+    }
+  ],
+  "protectedHumanFieldsTouched": [],
+  "framesModified": false
+}

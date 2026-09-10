@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 4,
+  "slug": "kimi-no-kioku-reload",
+  "runId": "inputs-v1",
+  "stage": "inputs_pending",
+  "music": {
+    "asset": "source/music.mp3",
+    "origin": "direct-copy",
+    "preserveCodec": true,
+    "clock": "music"
+  },
+  "cover": {
+    "asset": "source/cover.jpg"
+  },
+  "lyrics": {
+    "format": "qq-music",
+    "qm": "source/lyrics_qm.qrc",
+    "qmRoma": "source/lyrics_qmRoma.qrc",
+    "qmts": "source/lyrics_qmts.qrc"
+  },
+  "backgroundAsset": "source/background.mp4",
+  "alignment": {
+    "method": "none",
+    "offsetMs": 0,
+    "definition": "signed output timestamp assigned to music time zero",
+    "appliesTo": [
+      "music",
+      "lyrics",
+      "spectrum"
+    ],
+    "backgroundClock": "output",
+    "evidence": "explicit-none"
+  },
+  "outputs": [
+    {
+      "name": "16x9",
+      "width": 1920,
+      "height": 1080,
+      "fps": 30
+    }
+  ],
+  "backgroundAssets": [
+    "source/background.mp4",
+    "source/background-02-kotone.mp4",
+    "source/background-03-yukari.mp4",
+    "source/background-04-mitsuru.mp4",
+    "source/background-05-fuuka.mp4"
+  ],
+  "audioPolicy": {
+    "sourceCodec": "mp3",
+    "sampleRate": 44100,
+    "bitRate": 320000,
+    "operation": "stream-copy",
+    "lossless": false
+  },
+  "coverBadge": {
+    "requested": "none",
+    "eligible": false,
+    "status": "disabled-by-user"
+  },
+  "pipelinePreset": "custom"
+}

@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "stage": "post-merge",
+  "result": "passed",
+  "frameCount": 64,
+  "renderedFrameCount": 64,
+  "highRiskFrames": [
+    "l032",
+    "l038",
+    "l055",
+    "l061"
+  ],
+  "failures": []
+}

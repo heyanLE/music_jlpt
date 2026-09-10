@@ -1,0 +1,693 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "grammar",
+  "scope": {
+    "frameIds": [
+      "l006",
+      "l007",
+      "l008",
+      "l009",
+      "l010",
+      "l011",
+      "l012",
+      "l013",
+      "l014",
+      "l015",
+      "l016",
+      "l017",
+      "l018",
+      "l019",
+      "l020",
+      "l021",
+      "l022",
+      "l023",
+      "l024",
+      "l025",
+      "l026",
+      "l027",
+      "l028",
+      "l029",
+      "l030",
+      "l031",
+      "l032",
+      "l033",
+      "l034",
+      "l035",
+      "l036",
+      "l037",
+      "l038",
+      "l039",
+      "l040",
+      "l041",
+      "l042",
+      "l043",
+      "l044",
+      "l045",
+      "l046"
+    ]
+  },
+  "baseFrameSha256": "d512f08f77f118d91b5f235d1d6d260edade12cc8c3e323b21fce19d29aab109",
+  "changes": [
+    {
+      "frameId": "l006",
+      "field": "grammarCards[3].grammarStructureZh",
+      "old": "不定代词",
+      "new": "疑问代词＋に＋も（否定呼应）",
+      "confidence": 0.99,
+      "evidence": ["「誰にも～ない」由疑问代词「誰」与「に＋も」构成，并与否定谓语呼应。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l006",
+      "field": "grammarCards[3].posZh",
+      "old": "不定代词",
+      "new": "疑问代词＋に＋も（否定呼应）",
+      "confidence": 0.99,
+      "evidence": ["保持 legacy posZh 与规范字段 grammarStructureZh 一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l007",
+      "field": "grammarCards[1].grammarStructureZh",
+      "old": "助动词",
+      "new": "断定助动词",
+      "confidence": 0.99,
+      "evidence": ["「だ」在「夢だ」中是断定助动词。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l007",
+      "field": "grammarCards[1].posZh",
+      "old": "助动词",
+      "new": "断定助动词",
+      "confidence": 0.99,
+      "evidence": ["保持 legacy posZh 与规范字段 grammarStructureZh 一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l008",
+      "field": "grammarCards[1].grammarStructureZh",
+      "old": "形容动词词干",
+      "new": "形容词词干＋接尾词「さ」",
+      "confidence": 0.99,
+      "evidence": ["「弱さ」由形容词「弱い」去掉词尾「い」后接名词化接尾词「さ」。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l008",
+      "field": "grammarCards[1].posZh",
+      "old": "形容动词词干",
+      "new": "形容词词干＋接尾词「さ」",
+      "confidence": 0.99,
+      "evidence": ["保持 legacy posZh 与规范字段 grammarStructureZh 一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l009",
+      "field": "grammarCards[1].zhMeaning",
+      "old": "“之类”的说法；带轻视或自嘲",
+      "new": null,
+      "confidence": 0.99,
+      "evidence": ["「なんて」是纯助词卡；项目契约规定助词只存 functionZh，不存 zhMeaning。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l009",
+      "field": "grammarCards[1].functionZh",
+      "old": null,
+      "new": "提示所引内容，并附带轻视或自嘲语气",
+      "confidence": 0.99,
+      "evidence": ["「なんて」在此承接「寂しい」，说明其引用和语气功能。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l009",
+      "field": "grammarCards[2].grammarStructureZh",
+      "old": "动词（可能否定）",
+      "new": "可能形＋わけもない",
+      "confidence": 0.99,
+      "evidence": ["「言える」是可能形；「わけもない」表示根本不可能，不能只标成一般可能否定。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l009",
+      "field": "grammarCards[2].posZh",
+      "old": "动词（可能否定）",
+      "new": "可能形＋わけもない",
+      "confidence": 0.99,
+      "evidence": ["保持 legacy posZh 与规范字段 grammarStructureZh 一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l011",
+      "field": "grammarCards[0].grammarStructureZh",
+      "old": "不定代词",
+      "new": "连语「誰一人」＋否定呼应",
+      "confidence": 1.0,
+      "evidence": ["数字大辞泉将「誰一人」标为连语，读作「だれひとり」，并说明下接否定：https://kotobank.jp/word/%E8%AA%B0%E4%B8%80%E4%BA%BA-563452"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l011",
+      "field": "grammarCards[0].posZh",
+      "old": "不定代词",
+      "new": "连语「誰一人」＋否定呼应",
+      "confidence": 1.0,
+      "evidence": ["保持 legacy posZh 与规范字段 grammarStructureZh 一致；熟字训只修正读音，不要求拆开该连语。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l011",
+      "field": "grammarCards[1].grammarStructureZh",
+      "old": "不定代词",
+      "new": "连语「誰一人」＋否定呼应",
+      "confidence": 1.0,
+      "evidence": ["重复项与同句第一处「誰一人」结构完全相同。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l011",
+      "field": "grammarCards[1].posZh",
+      "old": "不定代词",
+      "new": "连语「誰一人」＋否定呼应",
+      "confidence": 1.0,
+      "evidence": ["保持重复项和 legacy posZh 一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l011",
+      "field": "grammarCards[2].grammarStructureZh",
+      "old": "名词＋格助词",
+      "new": "形容动词连用形（结果）",
+      "confidence": 0.98,
+      "evidence": ["「幸せにする」中的「幸せに」说明「する」造成的结果状态。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l011",
+      "field": "grammarCards[2].posZh",
+      "old": "名词＋格助词",
+      "new": "形容动词连用形（结果）",
+      "confidence": 0.98,
+      "evidence": ["保持 legacy posZh 与规范字段 grammarStructureZh 一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l015",
+      "field": "grammarCards[0].grammarStructureZh",
+      "old": "引用表达",
+      "new": "否定＋よ＋って（引用）",
+      "confidence": 0.98,
+      "evidence": ["「ないよって」应拆解为「ない＋よ＋って」，其中「って」引用希望听到的话。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l015",
+      "field": "grammarCards[0].posZh",
+      "old": "引用表达",
+      "new": "否定＋よ＋って（引用）",
+      "confidence": 0.98,
+      "evidence": ["保持 legacy posZh 与规范字段 grammarStructureZh 一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l016",
+      "field": "grammarCards[1].grammarStructureZh",
+      "old": "副助词＋助动词",
+      "new": "ばかり＋断定助动词「で」",
+      "confidence": 0.98,
+      "evidence": ["「ばかりで」为副助词「ばかり」加断定助动词「だ」的连用形「で」。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l016",
+      "field": "grammarCards[1].posZh",
+      "old": "副助词＋助动词",
+      "new": "ばかり＋断定助动词「で」",
+      "confidence": 0.98,
+      "evidence": ["保持 legacy posZh 与规范字段 grammarStructureZh 一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l018",
+      "field": "grammarCards[0].grammarStructureZh",
+      "old": "名词＋助词",
+      "new": "形式名词＋让步副助词",
+      "confidence": 0.97,
+      "evidence": ["「まま」是表示状态保持的形式名词；此处「だって」表示让步。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l018",
+      "field": "grammarCards[0].posZh",
+      "old": "名词＋助词",
+      "new": "形式名词＋让步副助词",
+      "confidence": 0.97,
+      "evidence": ["保持 legacy posZh 与规范字段 grammarStructureZh 一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l018",
+      "field": "grammarCards[1].grammarStructureZh",
+      "old": "助词",
+      "new": "形容词",
+      "confidence": 1.0,
+      "evidence": ["「いい」是形容词，不是助词。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l018",
+      "field": "grammarCards[1].posZh",
+      "old": "助词",
+      "new": "形容词",
+      "confidence": 1.0,
+      "evidence": ["保持 legacy posZh 与规范字段 grammarStructureZh 一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l018",
+      "field": "grammarCards[2].grammarStructureZh",
+      "old": "形容词＋解释断定",
+      "new": "解释表达「のだ」口语形",
+      "confidence": 0.99,
+      "evidence": ["该卡片只含「んだ」；前面的形容词「いい」已经是独立卡片。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l018",
+      "field": "grammarCards[2].posZh",
+      "old": "形容词＋解释断定",
+      "new": "解释表达「のだ」口语形",
+      "confidence": 0.99,
+      "evidence": ["保持 legacy posZh 与实际 token 边界一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l019",
+      "field": "grammarCards[1].grammarStructureZh",
+      "old": "动词（て形＋愿望）",
+      "new": "ている＋たい（持续愿望）",
+      "confidence": 0.99,
+      "evidence": ["「歌っていたい」是「歌っている」加愿望助动词「たい」，表示希望持续唱。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l019",
+      "field": "grammarCards[1].posZh",
+      "old": "动词（て形＋愿望）",
+      "new": "ている＋たい（持续愿望）",
+      "confidence": 0.99,
+      "evidence": ["保持 legacy posZh 与规范字段 grammarStructureZh 一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l022",
+      "field": "grammarCards[1].grammarStructureZh",
+      "old": "动词（てくる・过去）",
+      "new": "てくる过去形＋けど（逆接）",
+      "confidence": 0.99,
+      "evidence": ["token「きたけど」包含过去形「きた」和逆接接续助词「けど」。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l022",
+      "field": "grammarCards[1].posZh",
+      "old": "动词（てくる・过去）",
+      "new": "てくる过去形＋けど（逆接）",
+      "confidence": 0.99,
+      "evidence": ["保持 legacy posZh 与规范字段 grammarStructureZh 一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l024",
+      "field": "grammarCards[0].grammarStructureZh",
+      "old": "不定代词",
+      "new": "疑问代词＋に＋も（否定呼应）",
+      "confidence": 0.99,
+      "evidence": ["「誰にも～ない」由「誰＋に＋も」构成，并与否定谓语呼应。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l024",
+      "field": "grammarCards[0].posZh",
+      "old": "不定代词",
+      "new": "疑问代词＋に＋も（否定呼应）",
+      "confidence": 0.99,
+      "evidence": ["保持 legacy posZh 与规范字段 grammarStructureZh 一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l024",
+      "field": "grammarCards[5].zhMeaning",
+      "old": "句末语气，加强断言",
+      "new": null,
+      "confidence": 1.0,
+      "evidence": ["「さ」是纯终助词卡；项目契约规定助词只存 functionZh。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l024",
+      "field": "grammarCards[5].functionZh",
+      "old": null,
+      "new": "加强句末断言并赋予随意、坦率的语气",
+      "confidence": 0.99,
+      "evidence": ["本句「胸張ってさ」中的「さ」是句末语气功能，不是词汇含义。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l026",
+      "field": "grammarCards[2].grammarStructureZh",
+      "old": "名词＋格助词",
+      "new": "形容动词连用形（结果）",
+      "confidence": 0.98,
+      "evidence": ["「自由になる」中的「自由に」表示变化后的状态。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l026",
+      "field": "grammarCards[2].posZh",
+      "old": "名词＋格助词",
+      "new": "形容动词连用形（结果）",
+      "confidence": 0.98,
+      "evidence": ["保持 legacy posZh 与规范字段 grammarStructureZh 一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l028",
+      "field": "grammarCards[2].grammarStructureZh",
+      "old": "动词（可能形）",
+      "new": "口语可能形（ら抜き）",
+      "confidence": 0.99,
+      "evidence": ["「生きれる」是标准「生きられる」的口语省略形，应显式标注ら抜き。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l028",
+      "field": "grammarCards[2].posZh",
+      "old": "动词（可能形）",
+      "new": "口语可能形（ら抜き）",
+      "confidence": 0.99,
+      "evidence": ["保持 legacy posZh 与规范字段 grammarStructureZh 一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l028",
+      "field": "grammarCards[3].grammarStructureZh",
+      "old": "终助词组合",
+      "new": "の＋か＋な（自问）",
+      "confidence": 0.98,
+      "evidence": ["「のかな」由解释／名词化的「の」、疑问「か」和缓和自问语气的「な」构成。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l028",
+      "field": "grammarCards[3].posZh",
+      "old": "终助词组合",
+      "new": "の＋か＋な（自问）",
+      "confidence": 0.98,
+      "evidence": ["保持 legacy posZh 与规范字段 grammarStructureZh 一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l028",
+      "field": "grammarCards[3].zhMeaning",
+      "old": "自问、推量“是否呢”",
+      "new": null,
+      "confidence": 0.99,
+      "evidence": ["该卡由语法助词构成；项目契约要求使用 functionZh。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l028",
+      "field": "grammarCards[3].functionZh",
+      "old": null,
+      "new": "表示带不确定和缓和语气的自问“是否……呢”",
+      "confidence": 0.99,
+      "evidence": ["说明「のかな」在整句中的疑问和自问功能。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l032",
+      "field": "grammarCards[0].grammarStructureZh",
+      "old": "名词＋副助词",
+      "new": "名词＋ばかり＋断定助动词「で」",
+      "confidence": 0.98,
+      "evidence": ["「後悔ばかりで」包含名词「後悔」、副助词「ばかり」和断定助动词连用形「で」。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l032",
+      "field": "grammarCards[0].posZh",
+      "old": "名词＋副助词",
+      "new": "名词＋ばかり＋断定助动词「で」",
+      "confidence": 0.98,
+      "evidence": ["保持 legacy posZh 与规范字段 grammarStructureZh 一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l035",
+      "field": "grammarCards[0].grammarStructureZh",
+      "old": "名词＋助词",
+      "new": "形容动词词干＋だって（让步）",
+      "confidence": 0.97,
+      "evidence": ["「困難だって」在此表示“即使困难也”，「だって」承担让步功能。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l035",
+      "field": "grammarCards[0].posZh",
+      "old": "名词＋助词",
+      "new": "形容动词词干＋だって（让步）",
+      "confidence": 0.97,
+      "evidence": ["保持 legacy posZh 与规范字段 grammarStructureZh 一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l035",
+      "field": "grammarCards[2].grammarStructureZh",
+      "old": "引用终助词",
+      "new": "引用助词",
+      "confidence": 0.99,
+      "evidence": ["句末「って」引用前面的决定内容，并由下一句「決めたのに」承接。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l035",
+      "field": "grammarCards[2].posZh",
+      "old": "引用终助词",
+      "new": "引用助词",
+      "confidence": 0.99,
+      "evidence": ["保持 legacy posZh 与规范字段 grammarStructureZh 一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l035",
+      "field": "grammarCards[2].zhMeaning",
+      "old": "って：引用／口语强调",
+      "new": null,
+      "confidence": 1.0,
+      "evidence": ["「って」是纯助词卡；项目契约规定助词只存 functionZh，且删除显示内容中的冒号标签。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l035",
+      "field": "grammarCards[2].functionZh",
+      "old": null,
+      "new": "引用前述决定内容，并承接后句的「決めた」",
+      "confidence": 0.99,
+      "evidence": ["官方歌词顺序为「困難だって超えていくって／決めたのに」：https://www.uta-net.com/movie/352969/6c12C8EpurA/"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l037",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "想像の中",
+          "reading": "そうぞうのなか",
+          "romaji": "souzou no naka",
+          "posZh": "名词＋助词",
+          "grammarStructureZh": "名词＋助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "在想象之中",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "じゃ足り",
+          "reading": "じゃたり",
+          "romaji": "ja tari",
+          "posZh": "形容词（否定）",
+          "grammarStructureZh": "形容词（否定）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "那样仍不够",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        },
+        {
+          "token": "ないくらいに",
+          "reading": "ないくらいに",
+          "romaji": "nai kurai ni",
+          "posZh": "程度表达",
+          "grammarStructureZh": "程度表达",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "到了仍觉不够的程度",
+          "status": "human-confirmed",
+          "fieldProvenance": {
+            "meaningOrFunction": "translation review aligned to grammar proposal"
+          }
+        }
+      ],
+      "new": [
+        {
+          "token": "想像の中じゃ",
+          "reading": "そうぞうのなかじゃ",
+          "romaji": "souzou no naka ja",
+          "posZh": "名词＋では→じゃ（范围提示）",
+          "grammarStructureZh": "名词＋では→じゃ（范围提示）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "在想象之中；仅凭想象",
+          "status": "proposed-correction",
+          "fieldProvenance": {
+            "meaningOrFunction": "grammar correction proposal"
+          }
+        },
+        {
+          "token": "足りない",
+          "reading": "たりない",
+          "romaji": "tari nai",
+          "posZh": "动词（否定）",
+          "grammarStructureZh": "动词（否定）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "不够",
+          "status": "proposed-correction",
+          "fieldProvenance": {
+            "meaningOrFunction": "grammar correction proposal"
+          }
+        },
+        {
+          "token": "くらいに",
+          "reading": "くらいに",
+          "romaji": "kurai ni",
+          "posZh": "程度副助词＋格助词",
+          "grammarStructureZh": "程度副助词＋格助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "zhMeaning": "到……的程度",
+          "status": "proposed-correction",
+          "fieldProvenance": {
+            "meaningOrFunction": "grammar correction proposal"
+          }
+        }
+      ],
+      "confidence": 1.0,
+      "evidence": ["官方歌词在此分节为「想像の中じゃ　足りないくらいに」，当前「じゃ足り」跨越语法边界且把动词「足りる」误标成形容词：https://www.uta-net.com/movie/352969/6c12C8EpurA/"],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l038",
+      "field": "grammarCards[1].grammarStructureZh",
+      "old": "动词（て形＋愿望）",
+      "new": "てみる＋たい（尝试愿望）",
+      "confidence": 0.99,
+      "evidence": ["「叶えてみたい」表示“想试着实现”，必须保留「てみる」的尝试义。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l038",
+      "field": "grammarCards[1].posZh",
+      "old": "动词（て形＋愿望）",
+      "new": "てみる＋たい（尝试愿望）",
+      "confidence": 0.99,
+      "evidence": ["保持 legacy posZh 与规范字段 grammarStructureZh 一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l041",
+      "field": "grammarCards[0].grammarStructureZh",
+      "old": "动词（てしまう）",
+      "new": "てしまう＋ん（解释）",
+      "confidence": 0.99,
+      "evidence": ["token「つくってしまうん」包含「てしまう」以及后接「だろう」的解释成分「ん」。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l041",
+      "field": "grammarCards[0].posZh",
+      "old": "动词（てしまう）",
+      "new": "てしまう＋ん（解释）",
+      "confidence": 0.99,
+      "evidence": ["保持 legacy posZh 与实际 token 边界一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l043",
+      "field": "grammarCards[0].grammarStructureZh",
+      "old": "不定代词",
+      "new": "疑问代词＋に＋も（否定呼应）",
+      "confidence": 0.99,
+      "evidence": ["「誰にも～ない」由「誰＋に＋も」构成，并与否定谓语呼应。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l043",
+      "field": "grammarCards[0].posZh",
+      "old": "不定代词",
+      "new": "疑问代词＋に＋も（否定呼应）",
+      "confidence": 0.99,
+      "evidence": ["保持 legacy posZh 与规范字段 grammarStructureZh 一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l043",
+      "field": "grammarCards[3].grammarStructureZh",
+      "old": "动词（て形）",
+      "new": "动词て形＋さ（终助词）",
+      "confidence": 0.99,
+      "evidence": ["token「引き連れてさ」包含动词て形和终助词「さ」，现有结构遗漏句末语气成分。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l043",
+      "field": "grammarCards[3].posZh",
+      "old": "动词（て形）",
+      "new": "动词て形＋さ（终助词）",
+      "confidence": 0.99,
+      "evidence": ["保持 legacy posZh 与实际 token 边界一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l046",
+      "field": "grammarCards[0].grammarStructureZh",
+      "old": "复合动词",
+      "new": "动词连用形＋动词（并列）",
+      "confidence": 0.97,
+      "evidence": ["「傷つき堕ちる」在此是「傷つく」连用形接「堕ちる」的并列动作，不宜标成单一词汇化复合动词。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l046",
+      "field": "grammarCards[0].posZh",
+      "old": "复合动词",
+      "new": "动词连用形＋动词（并列）",
+      "confidence": 0.97,
+      "evidence": ["保持 legacy posZh 与规范字段 grammarStructureZh 一致。"],
+      "changesTokenStructure": false
+    }
+  ]
+}

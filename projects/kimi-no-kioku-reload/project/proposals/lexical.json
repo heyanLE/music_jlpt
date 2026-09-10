@@ -1,0 +1,766 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "lexical",
+  "scope": {
+    "frameIds": [
+      "l001",
+      "l002",
+      "l003",
+      "l004",
+      "l005",
+      "l006",
+      "l007",
+      "l008",
+      "l009",
+      "l010",
+      "l011",
+      "l012",
+      "l013",
+      "l014",
+      "l015",
+      "l016",
+      "l017",
+      "l018",
+      "l019",
+      "l020",
+      "l021",
+      "l022",
+      "l023",
+      "l024",
+      "l025",
+      "l026",
+      "l027",
+      "l028",
+      "l029",
+      "l030",
+      "l031",
+      "l032",
+      "l033",
+      "l034",
+      "l035",
+      "l036",
+      "l037",
+      "l038",
+      "l039",
+      "l040",
+      "l041",
+      "l042",
+      "l043",
+      "l044",
+      "l045",
+      "l046",
+      "l047",
+      "l048",
+      "l049",
+      "l050",
+      "l051",
+      "l052",
+      "l053",
+      "l054",
+      "l055",
+      "l056",
+      "l057",
+      "l058",
+      "l059",
+      "l060",
+      "l061",
+      "l062",
+      "l063",
+      "l064"
+    ]
+  },
+  "baseFrameSha256": "47eb9144bdd4aecaa9b2beec76681e3b3907fa31bafb6ca975429cfb1b881b00",
+  "changes": [
+    {
+      "frameId": "l003",
+      "field": "caption.furigana[0].reading",
+      "old": "わすれない",
+      "new": "わす",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l003",
+      "field": "caption.furigana[1].reading",
+      "old": "やさしい",
+      "new": "やさ",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l004",
+      "field": "caption.furigana[1].reading",
+      "old": "かくした",
+      "new": "かく",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l005",
+      "field": "caption.furigana[1].reading",
+      "old": "つらくて",
+      "new": "つら",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l008",
+      "field": "caption.furigana[3].reading",
+      "old": "めざめたら",
+      "new": "めざ",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l008",
+      "field": "caption.furigana[4].reading",
+      "old": "あえる",
+      "new": "あ",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l011",
+      "field": "caption.furigana[2].reading",
+      "old": "まもった",
+      "new": "まも",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l014",
+      "field": "caption.furigana[2].reading",
+      "old": "つつまれて",
+      "new": "つつ",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l015",
+      "field": "caption.furigana[0].reading",
+      "old": "やさしく",
+      "new": "やさ",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l017",
+      "field": "caption.furigana[0].reading",
+      "old": "わらってた",
+      "new": "わら",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l017",
+      "field": "caption.furigana[1].reading",
+      "old": "ないて",
+      "new": "な",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l017",
+      "field": "caption.furigana[2].reading",
+      "old": "おこってた",
+      "new": "おこ",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l018",
+      "field": "caption.furigana[0].reading",
+      "old": "おぼえている",
+      "new": "おぼ",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l019",
+      "field": "caption.furigana[0].reading",
+      "old": "わすれない",
+      "new": "わす",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l019",
+      "field": "caption.furigana[1].reading",
+      "old": "けっして",
+      "new": "けっ",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l021",
+      "field": "caption.furigana[1].reading",
+      "old": "きこえて",
+      "new": "き",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l024",
+      "field": "caption.furigana[2].reading",
+      "old": "こらえて",
+      "new": "こら",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l026",
+      "field": "caption.furigana[1].reading",
+      "old": "あえる",
+      "new": "あ",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l028",
+      "field": "caption.furigana[2].reading",
+      "old": "はれた",
+      "new": "は",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l028",
+      "field": "caption.furigana[6].reading",
+      "old": "つづけて",
+      "new": "つづ",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l029",
+      "field": "caption.furigana[0].reading",
+      "old": "わすれない",
+      "new": "わす",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l033",
+      "field": "caption.furigana[0].reading",
+      "old": "すごして",
+      "new": "す",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l039",
+      "field": "caption.furigana[1].reading",
+      "old": "わらって",
+      "new": "わら",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l043",
+      "field": "caption.furigana[2].reading",
+      "old": "まもった",
+      "new": "まも",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l046",
+      "field": "caption.furigana[2].reading",
+      "old": "つつまれて",
+      "new": "つつ",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l047",
+      "field": "caption.furigana[0].reading",
+      "old": "やさしく",
+      "new": "やさ",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l049",
+      "field": "caption.furigana[0].reading",
+      "old": "わらってた",
+      "new": "わら",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l049",
+      "field": "caption.furigana[1].reading",
+      "old": "ないて",
+      "new": "な",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l049",
+      "field": "caption.furigana[2].reading",
+      "old": "おこってた",
+      "new": "おこ",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l050",
+      "field": "caption.furigana[0].reading",
+      "old": "おぼえている",
+      "new": "おぼ",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l051",
+      "field": "caption.furigana[0].reading",
+      "old": "わすれない",
+      "new": "わす",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l051",
+      "field": "caption.furigana[1].reading",
+      "old": "けっして",
+      "new": "けっ",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l056",
+      "field": "caption.furigana[0].reading",
+      "old": "すごして",
+      "new": "す",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l062",
+      "field": "caption.furigana[1].reading",
+      "old": "わらって",
+      "new": "わら",
+      "confidence": 0.99,
+      "evidence": [
+        "Kanji-only furigana must annotate only the kanji run; literal kana remains in the surface text."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l006",
+      "field": "caption.furigana",
+      "old": [
+        {
+          "cardIndex": 1,
+          "base": "勇気",
+          "surfaceOffset": 0,
+          "reading": "ゆうき",
+          "tokenStart": 5,
+          "baseStart": 5
+        }
+      ],
+      "new": [
+        {
+          "cardIndex": 0,
+          "base": "立",
+          "surfaceOffset": 0,
+          "reading": "た",
+          "tokenStart": 0,
+          "baseStart": 0
+        },
+        {
+          "cardIndex": 0,
+          "base": "向",
+          "surfaceOffset": 2,
+          "reading": "む",
+          "tokenStart": 0,
+          "baseStart": 2
+        },
+        {
+          "cardIndex": 1,
+          "base": "勇気",
+          "surfaceOffset": 0,
+          "reading": "ゆうき",
+          "tokenStart": 5,
+          "baseStart": 5
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "Surface/card alignment and the card reading show omitted kanji runs; kana suffixes are excluded from ruby."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l023",
+      "field": "caption.furigana",
+      "old": [
+        {
+          "cardIndex": 1,
+          "base": "空",
+          "surfaceOffset": 0,
+          "reading": "そら",
+          "tokenStart": 6,
+          "baseStart": 6
+        }
+      ],
+      "new": [
+        {
+          "cardIndex": 0,
+          "base": "振",
+          "surfaceOffset": 0,
+          "reading": "ふ",
+          "tokenStart": 0,
+          "baseStart": 0
+        },
+        {
+          "cardIndex": 0,
+          "base": "向",
+          "surfaceOffset": 2,
+          "reading": "む",
+          "tokenStart": 0,
+          "baseStart": 2
+        },
+        {
+          "cardIndex": 1,
+          "base": "空",
+          "surfaceOffset": 0,
+          "reading": "そら",
+          "tokenStart": 6,
+          "baseStart": 6
+        },
+        {
+          "cardIndex": 3,
+          "base": "仰",
+          "surfaceOffset": 0,
+          "reading": "あお",
+          "tokenStart": 8,
+          "baseStart": 8
+        },
+        {
+          "cardIndex": 3,
+          "base": "見",
+          "surfaceOffset": 2,
+          "reading": "み",
+          "tokenStart": 8,
+          "baseStart": 10
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "Surface/card alignment and the card reading show omitted kanji runs; kana suffixes are excluded from ruby."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l040",
+      "field": "caption.furigana",
+      "old": [
+        {
+          "cardIndex": 0,
+          "base": "無",
+          "surfaceOffset": 0,
+          "reading": "なくして",
+          "tokenStart": 0,
+          "baseStart": 0
+        }
+      ],
+      "new": [
+        {
+          "cardIndex": 0,
+          "base": "無",
+          "surfaceOffset": 0,
+          "reading": "な",
+          "tokenStart": 0,
+          "baseStart": 0
+        },
+        {
+          "cardIndex": 2,
+          "base": "取",
+          "surfaceOffset": 0,
+          "reading": "と",
+          "tokenStart": 6,
+          "baseStart": 6
+        },
+        {
+          "cardIndex": 2,
+          "base": "戻",
+          "surfaceOffset": 2,
+          "reading": "もど",
+          "tokenStart": 6,
+          "baseStart": 8
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "Surface/card alignment and the card reading show omitted kanji runs; kana suffixes are excluded from ruby."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l063",
+      "field": "caption.furigana",
+      "old": [
+        {
+          "cardIndex": 0,
+          "base": "無",
+          "surfaceOffset": 0,
+          "reading": "なくして",
+          "tokenStart": 0,
+          "baseStart": 0
+        }
+      ],
+      "new": [
+        {
+          "cardIndex": 0,
+          "base": "無",
+          "surfaceOffset": 0,
+          "reading": "な",
+          "tokenStart": 0,
+          "baseStart": 0
+        },
+        {
+          "cardIndex": 2,
+          "base": "取",
+          "surfaceOffset": 0,
+          "reading": "と",
+          "tokenStart": 6,
+          "baseStart": 6
+        },
+        {
+          "cardIndex": 2,
+          "base": "戻",
+          "surfaceOffset": 2,
+          "reading": "もど",
+          "tokenStart": 6,
+          "baseStart": 8
+        }
+      ],
+      "confidence": 0.98,
+      "evidence": [
+        "Surface/card alignment and the card reading show omitted kanji runs; kana suffixes are excluded from ruby."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l004",
+      "field": "caption.romaji",
+      "old": "kanashi sa kakushita hitomi o",
+      "new": "kanashisa kakushita hitomi o",
+      "confidence": 0.97,
+      "evidence": [
+        "The Japanese surface is a single inflected/fixed expression; romaji should not introduce an internal word break."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l007",
+      "field": "caption.romaji",
+      "old": "da kara iku ne",
+      "new": "dakara iku ne",
+      "confidence": 0.97,
+      "evidence": [
+        "The Japanese surface is a single inflected/fixed expression; romaji should not introduce an internal word break."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l012",
+      "field": "caption.romaji",
+      "old": "ima wa tada tsubasa o tatan de",
+      "new": "ima wa tada tsubasa o tatande",
+      "confidence": 0.97,
+      "evidence": [
+        "The Japanese surface is a single inflected/fixed expression; romaji should not introduce an internal word break."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l017",
+      "field": "caption.romaji",
+      "old": "waratteta naite ita okotteta",
+      "new": "waratteta naiteita okotteta",
+      "confidence": 0.97,
+      "evidence": [
+        "The Japanese surface is a single inflected/fixed expression; romaji should not introduce an internal word break."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l028",
+      "field": "caption.romaji",
+      "old": "ame no yoru hareta asa machi tsuzukete",
+      "new": "ame no yoru hareta asa machitsuzukete",
+      "confidence": 0.97,
+      "evidence": [
+        "The Japanese surface is a single inflected/fixed expression; romaji should not introduce an internal word break."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l038",
+      "field": "caption.romaji",
+      "old": "itsu da tte itsu da tte itsu da tte",
+      "new": "itsudatte itsudatte itsudatte",
+      "confidence": 0.97,
+      "evidence": [
+        "The Japanese surface is a single inflected/fixed expression; romaji should not introduce an internal word break."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l039",
+      "field": "caption.romaji",
+      "old": "sugu yoko de waratte ita",
+      "new": "sugu yoko de waratteita",
+      "confidence": 0.97,
+      "evidence": [
+        "The Japanese surface is a single inflected/fixed expression; romaji should not introduce an internal word break."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l044",
+      "field": "caption.romaji",
+      "old": "ima wa tada tsubasa o tatan de",
+      "new": "ima wa tada tsubasa o tatande",
+      "confidence": 0.97,
+      "evidence": [
+        "The Japanese surface is a single inflected/fixed expression; romaji should not introduce an internal word break."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l049",
+      "field": "caption.romaji",
+      "old": "waratteta naite ita okotteta",
+      "new": "waratteta naiteita okotteta",
+      "confidence": 0.97,
+      "evidence": [
+        "The Japanese surface is a single inflected/fixed expression; romaji should not introduce an internal word break."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l061",
+      "field": "caption.romaji",
+      "old": "itsu da tte itsu da tte itsu da tte",
+      "new": "itsudatte itsudatte itsudatte",
+      "confidence": 0.97,
+      "evidence": [
+        "The Japanese surface is a single inflected/fixed expression; romaji should not introduce an internal word break."
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l062",
+      "field": "caption.romaji",
+      "old": "sugu yoko de waratte ita",
+      "new": "sugu yoko de waratteita",
+      "confidence": 0.97,
+      "evidence": [
+        "The Japanese surface is a single inflected/fixed expression; romaji should not introduce an internal word break."
+      ],
+      "changesTokenStructure": false
+    }
+  ]
+}

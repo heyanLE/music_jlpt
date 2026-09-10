@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "algorithm": "saturated-cover-pixel-hsv-v1",
+  "cover": "C:\\project\\musicjlpt\\projects\\heavenly-me-study\\source\\cover-v2.jpg",
+  "accent": "#E08070",
+  "activeTint": "#FF6247",
+  "body": "#7D483F",
+  "cardFill": {
+    "color": "#E08070",
+    "alpha": 0.75
+  }
+}

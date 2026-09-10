@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "candidate": "C:\\project\\musicjlpt\\projects\\zattou-bokura-no-machi-v2\\project\\work\\zattou-v2-approved-r1\\16x9\\zattou-bokura-no-machi-v2--16x9--zattou-v2-approved-r1.mkv",
+  "candidateSha256": "ecb54b741b3dc42efba4d0ed1402211363f9f6258ba8e021a8e465d0a257f958",
+  "activeHashes": {
+    "inputManifest": "d3132b5f4a9bb7adbdc1f4e23742fdd8c8ed0cec39117b41d561750c7c2d9b86",
+    "presentation": "eff7938b401949aa91965fb0b2167f7ae94364fbdfbbf10acec2be6882ae85d4",
+    "sceneTimeline": "0c185e1172ed4c0eaea99f8665262bd420dae07aca1ee1daa112e566ba7362ca",
+    "frames": "3dc254008433b82a16d798b2b63086d55a3806f6daf85a282bbc13ad166b8ae3"
+  },
+  "layers": [
+    "background",
+    "foreground",
+    "floatingOverlay"
+  ],
+  "scenes": [
+    {
+      "id": "stage1-video",
+      "startMs": 0,
+      "endMs": 90031,
+      "mode": "video-clip",
+      "asset": "source/background.mp4",
+      "fit": "height-center-pillarbox",
+      "sourceAudio": "mute",
+      "foregroundMode": "follow-lyrics",
+      "transitionIn": {
+        "kind": "none",
+        "durationMs": 0,
+        "scope": "background-only"
+      },
+      "transitionOut": {
+        "kind": "black-fade",
+        "durationMs": 500,
+        "scope": "background-only"
+      }
+    },
+    {
+      "id": "stage2-cover-gaussian",
+      "startMs": 90031,
+      "endMs": "audio-end",
+      "mode": "cover-gaussian",
+      "asset": "source/cover.jpg",
+      "foregroundMode": "persistent",
+      "transitionIn": {
+        "kind": "black-fade",
+        "durationMs": 500,
+        "scope": "background-only"
+      },
+      "transitionOut": {
+        "kind": "none",
+        "durationMs": 0,
+        "scope": "background-only"
+      }
+    }
+  ],
+  "foregroundDefaultMode": "follow-lyrics",
+  "durationMs": 185067,
+  "offsetMs": 0,
+  "audioCodecPolicy": "stream-copy",
+  "foregroundTimeline": {
+    "full": 61,
+    "adjacentRows": 0,
+    "lineFallback": 0,
+    "unmatched": 0,
+    "blankSegments": 5,
+    "neutralSegments": 27,
+    "activeSegments": 675
+  }
+}

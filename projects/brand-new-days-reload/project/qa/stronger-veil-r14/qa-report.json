@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "runId": "20260817-r14-stronger-lyric-veil",
+  "result": "passed",
+  "output": "deliverables/final/brand-new-days-reload--interlude-wallpaper-switch--foobar-spectrum--outlined--stronger-veil--20260817-r14.mp4",
+  "video": {
+    "codec": "h264",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "cfr": true,
+    "durationSeconds": 352.6
+  },
+  "audio": {
+    "codec": "aac",
+    "sampleRate": 44100,
+    "channels": 2
+  },
+  "checks": {
+    "blackVeil": "persistent foreground, #000000 at 46% opacity",
+    "englishTranslationVisible": true,
+    "englishFuriganaDisabled": true,
+    "englishRomajiDisabled": true,
+    "englishGrammarCardsDisabled": true,
+    "foobarSpectrumContinuous": true,
+    "interludeWallpaperSwitchPreserved": true,
+    "textOutlinePreserved": true
+  },
+  "screenshots": [
+    "project/qa/stronger-veil-r14/english-translation-and-spectrum.png",
+    "project/qa/stronger-veil-r14/wallpaper-switch-and-veil.png"
+  ]
+}

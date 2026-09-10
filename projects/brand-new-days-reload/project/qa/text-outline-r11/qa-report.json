@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "runId": "20260817-r11-text-outline",
+  "result": "passed",
+  "output": "deliverables/final/brand-new-days-reload--intro-fade--aigis-wallpaper--foobar-spectrum--outlined--english-fixed--20260817-r11.mp4",
+  "video": {
+    "codec": "h264",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "cfr": true,
+    "durationSeconds": 352.6
+  },
+  "audio": {
+    "codec": "aac",
+    "sampleRate": 44100,
+    "channels": 2
+  },
+  "checks": {
+    "textOutline": "black exterior",
+    "lyricOutlineWidthPx": 4,
+    "rubyAndRomajiOutlineWidthPx": 2,
+    "translationOutlineWidthPx": 3,
+    "cardTextOutlineWidthPx": 2,
+    "wallpaperBackgroundPreserved": true,
+    "foobarSpectrumContinuous": true,
+    "pureEnglishFixPreserved": true
+  },
+  "screenshots": [
+    "project/qa/text-outline-r11/japanese-and-cards.png",
+    "project/qa/text-outline-r11/pure-english.png"
+  ]
+}

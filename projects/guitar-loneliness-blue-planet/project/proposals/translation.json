@@ -1,0 +1,2264 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "translation",
+  "scope": {
+    "frameIds": [
+      "l001",
+      "l002",
+      "l003",
+      "l004",
+      "l005",
+      "l006",
+      "l007",
+      "l008",
+      "l009",
+      "l010",
+      "l011",
+      "l012",
+      "l013",
+      "l014",
+      "l015",
+      "l016",
+      "l017",
+      "l018",
+      "l019",
+      "l020",
+      "l021",
+      "l022",
+      "l023",
+      "l024",
+      "l025",
+      "l026",
+      "l027",
+      "l028",
+      "l029",
+      "l030",
+      "l031",
+      "l032",
+      "l033",
+      "l034",
+      "l035",
+      "l036",
+      "l037",
+      "l038",
+      "l039",
+      "l040",
+      "l041",
+      "l042",
+      "l043",
+      "l044",
+      "l045",
+      "l046",
+      "l047",
+      "l048"
+    ]
+  },
+  "baseFrameSha256": "e661777b0d81f1d153833da14a440e1fd566f9ebf13bf75192a24a67200826f8",
+  "changes": [
+    {
+      "frameId": "l001",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "突然",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l001：夕立是突然的阵雨；嫌是对无伞处境的厌烦。QQ整句增译“自己”非明示，不升级为卡片词义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l001",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "下雨",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l001：夕立是突然的阵雨；嫌是对无伞处境的厌烦。QQ整句增译“自己”非明示，不升级为卡片词义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l001",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "阵雨",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l001：夕立是突然的阵雨；嫌是对无伞处境的厌烦。QQ整句增译“自己”非明示，不升级为卡片词义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l001",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "啊",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l001：夕立是突然的阵雨；嫌是对无伞处境的厌烦。QQ整句增译“自己”非明示，不升级为卡片词义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l001",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "伞",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l001：夕立是突然的阵雨；嫌是对无伞处境的厌烦。QQ整句增译“自己”非明示，不升级为卡片词义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l001",
+      "field": "grammarCards.6.zhMeaning",
+      "old": "待联网复核",
+      "new": "没有",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l001：夕立是突然的阵雨；嫌是对无伞处境的厌烦。QQ整句增译“自己”非明示，不升级为卡片词义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l001",
+      "field": "grammarCards.8.zhMeaning",
+      "old": "待联网复核",
+      "new": "讨厌",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l001：夕立是突然的阵雨；嫌是对无伞处境的厌烦。QQ整句增译“自己”非明示，不升级为卡片词义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l002",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "天空",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l002：天空拟人化；知らない在抱怨语境取“才不管”，非机械译“不知道”。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l002",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "心情",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l002：天空拟人化；知らない在抱怨语境取“才不管”，非机械译“不知道”。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l002",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "才不管",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l002：天空拟人化；知らない在抱怨语境取“才不管”，非机械译“不知道”。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l003",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "季节",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l003：与l004合读：换季时该穿什么；服的卡片独立为衣服，不复制整句内容。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l003",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "交替时节",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l003：与l004合读：换季时该穿什么；服的卡片独立为衣服，不复制整句内容。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l003",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "衣服",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l003：与l004合读：换季时该穿什么；服的卡片独立为衣服，不复制整句内容。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l004",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "什么",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l004：着りゃ=着れば；いい为合适；だろ是自问，不是事实断言。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l004",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "穿的话",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l004：着りゃ=着れば；いい为合适；だろ是自问，不是事实断言。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l004",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "合适",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l004：着りゃ=着れば；いい为合适；だろ是自问，不是事实断言。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l004",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "自问",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l004：着りゃ=着れば；いい为合适；だろ是自问，不是事实断言。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l005",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "春天",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l005：いっちゃった指春秋不知去向，保留完成感。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l005",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "秋天",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l005：いっちゃった指春秋不知去向，保留完成感。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l005",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "哪里",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l005：いっちゃった指春秋不知去向，保留完成感。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l005",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "不见了",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l005：いっちゃった指春秋不知去向，保留完成感。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l006",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "呼吸",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l006：息も出来ない整体为无法呼吸；出来ない卡只承担做不到的可能否定义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l006",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "做不到",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l006：息も出来ない整体为无法呼吸；出来ない卡只承担做不到的可能否定义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l006",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "信息",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l006：息も出来ない整体为无法呼吸；出来ない卡只承担做不到的可能否定义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l006",
+      "field": "grammarCards.5.zhMeaning",
+      "old": "待联网复核",
+      "new": "压力",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l006：息も出来ない整体为无法呼吸；出来ない卡只承担做不到的可能否定义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l007",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "眩晕",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l007：眩晕与螺旋是感官比喻；だ是判断成分。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l007",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "螺旋",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l007：眩晕与螺旋是感官比喻；だ是判断成分。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l007",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "是",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l007：眩晕与螺旋是感官比喻；だ是判断成分。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l008",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "我",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l008：いる是人存在于某处，与l042呼应。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l008",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "哪里",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l008：いる是人存在于某处，与l042呼应。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l008",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "在",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l008：いる是人存在于某处，与l042呼应。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l009",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "如此",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l009：こんなに整体为程度副词“如此”；建议lexical合并，各に只标程度构形，不按地点助词教。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l009",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "表程度",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l009：こんなに整体为程度副词“如此”；建议lexical合并，各に只标程度构形，不按地点助词教。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l009",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "如此",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l009：こんなに整体为程度副词“如此”；建议lexical合并，各に只标程度构形，不按地点助词教。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l009",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "表程度",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l009：こんなに整体为程度副词“如此”；建议lexical合并，各に只标程度构形，不按地点助词教。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l010",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "呼吸",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l010：音がする是感知到声音，する在这里不是一般的做。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l010",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "声音",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l010：音がする是感知到声音，する在这里不是一般的做。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l010",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "传来",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l010：音がする是感知到声音，する在这里不是一般的做。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l011",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "奇怪",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l011：音がしない是否定感知声音；与呼吸声形成反差。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l011",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "是",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l011：音がしない是否定感知声音；与呼吸声形成反差。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l011",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "世界",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l011：音がしない是否定感知声音；与呼吸声形成反差。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l011",
+      "field": "grammarCards.5.zhMeaning",
+      "old": "待联网复核",
+      "new": "声音",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l011：音がしない是否定感知声音；与呼吸声形成反差。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l011",
+      "field": "grammarCards.7.zhMeaning",
+      "old": "待联网复核",
+      "new": "没有传来",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l011：音がしない是否定感知声音；与呼吸声形成反差。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l012",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "不够",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l012：重复同词保持一致的“不够”。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l012",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "不够",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l012：重复同词保持一致的“不够”。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l013",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "谁",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l013：気づかれない是被动否定，不能释成主动“没注意”。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l013",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "未被察觉",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l013：気づかれない是被动否定，不能释成主动“没注意”。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l014",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "潦草书写",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l014：殴り書き指潦草随意书写；这里借喻音色，不能把词本身改释成音乐。",
+        "https://kotobank.jp/word/%E6%AE%B4%E3%82%8A%E6%9B%B8-588444 — 指粗率、随意地书写或这样写出的东西；歌词将此比喻用于音色。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l014",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "好像",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l014：殴り書き指潦草随意书写；这里借喻音色，不能把词本身改释成音乐。",
+        "https://kotobank.jp/word/%E6%AE%B4%E3%82%8A%E6%9B%B8-588444 — 指粗率、随意地书写或这样写出的东西；歌词将此比喻用于音色。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l014",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "修饰名词",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l014：殴り書き指潦草随意书写；这里借喻音色，不能把词本身改释成音乐。",
+        "https://kotobank.jp/word/%E6%AE%B4%E3%82%8A%E6%9B%B8-588444 — 指粗率、随意地书写或这样写出的东西；歌词将此比喻用于音色。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l014",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "音色",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l014：殴り書き指潦草随意书写；这里借喻音色，不能把词本身改释成音乐。",
+        "https://kotobank.jp/word/%E6%AE%B4%E3%82%8A%E6%9B%B8-588444 — 指粗率、随意地书写或这样写出的东西；歌词将此比喻用于音色。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l015",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "发不出来",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l015：与上句合读，出せない为声音发不出来的可能否定；叫んだ为已经喊出。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l015",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "状态",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l015：与上句合读，出せない为声音发不出来的可能否定；叫んだ为已经喊出。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l015",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "喊叫了",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l015：与上句合读，出せない为声音发不出来的可能否定；叫んだ为已经喊出。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l016",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "本来面貌",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l016：ありのまま指本来面貌；此处为真实自我。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l017",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "谁",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l017：見せる是给别人看而非自己看见。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l017",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "展示",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l017：見せる是给别人看而非自己看见。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l018",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "傻",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l018：馬鹿なわたし中的馬鹿用自嘲形容义；な为连体修饰成分。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l018",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "修饰名词",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l018：馬鹿なわたし中的馬鹿用自嘲形容义；な为连体修饰成分。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l018",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "我",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l018：馬鹿なわたし中的馬鹿用自嘲形容义；な为连体修饰成分。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l018",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "唱歌",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l018：馬鹿なわたし中的馬鹿用自嘲形容义；な为连体修饰成分。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l019",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "尽情倾吐吧",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l019：ぶちまける在心声语境取尽情倾吐，不是物理倾倒；ちゃおう含完成与意志。",
+        "https://www.tanoshiijapanese.com/dictionary/entry_details.cfm?element_id=193547&entry_id=1038 — 义项含全盘说出、敞开心扉；倾吐心声语境取此义，不取倾倒物品。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l019",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "星星",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l019：ぶちまける在心声语境取尽情倾吐，不是物理倾倒；ちゃおう含完成与意志。",
+        "https://www.tanoshiijapanese.com/dictionary/entry_details.cfm?element_id=193547&entry_id=1038 — 义项含全盘说出、敞开心扉；倾吐心声语境取此义，不取倾倒物品。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l020",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "琴弦品牌",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l020：エリクサー为Elixir琴弦品牌；张り替える在此是换弦，不是演奏。作業保留行为/工序义。",
+        "https://www.elixirstrings.jp/guitar-strings/electric-guitar-strings — エリクサー/Elixir是提供电吉他涂层琴弦的品牌；歌词换弦语境不是灵药。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l020",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "换上新弦",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l020：エリクサー为Elixir琴弦品牌；张り替える在此是换弦，不是演奏。作業保留行为/工序义。",
+        "https://www.elixirstrings.jp/guitar-strings/electric-guitar-strings — エリクサー/Elixir是提供电吉他涂层琴弦的品牌；歌词换弦语境不是灵药。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l020",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "作业",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l020：エリクサー为Elixir琴弦品牌；张り替える在此是换弦，不是演奏。作業保留行为/工序义。",
+        "https://www.elixirstrings.jp/guitar-strings/electric-guitar-strings — エリクサー/Elixir是提供电吉他涂层琴弦的品牌；歌词换弦语境不是灵药。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l021",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "整语：随意",
+      "confidence": 0.85,
+      "evidence": [
+        "语境复核 l021：原分词错误：なんとなく须整体解释为无明确目的、随意做着；后なんだ为解释结尾。两个“整语：随意”仅为合并前的条件提案，严禁作为两张独立同义卡直接渲染；整合应合并前三卡并保留单一“漫不经心/随意”义。",
+        "https://nikkoku-tomonokai.japanknowledge.jp/detail.php?id=161028 — 副词，表示没有明确理由或目的意识而作出模糊判断或行动；不等于不如人意。"
+      ],
+      "changesTokenStructure": false,
+      "requiresTokenRegrouping": true
+    },
+    {
+      "frameId": "l021",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "整语：随意",
+      "confidence": 0.85,
+      "evidence": [
+        "语境复核 l021：原分词错误：なんとなく须整体解释为无明确目的、随意做着；后なんだ为解释结尾。两个“整语：随意”仅为合并前的条件提案，严禁作为两张独立同义卡直接渲染；整合应合并前三卡并保留单一“漫不经心/随意”义。",
+        "https://nikkoku-tomonokai.japanknowledge.jp/detail.php?id=161028 — 副词，表示没有明确理由或目的意识而作出模糊判断或行动；不等于不如人意。"
+      ],
+      "changesTokenStructure": false,
+      "requiresTokenRegrouping": true
+    },
+    {
+      "frameId": "l021",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "解释语气",
+      "confidence": 0.85,
+      "evidence": [
+        "语境复核 l021：原分词错误：なんとなく须整体解释为无明确目的、随意做着；后なんだ为解释结尾。两个“整语：随意”仅为合并前的条件提案，严禁作为两张独立同义卡直接渲染；整合应合并前三卡并保留单一“漫不经心/随意”义。",
+        "https://nikkoku-tomonokai.japanknowledge.jp/detail.php?id=161028 — 副词，表示没有明确理由或目的意识而作出模糊判断或行动；不等于不如人意。"
+      ],
+      "changesTokenStructure": false,
+      "requiresTokenRegrouping": true
+    },
+    {
+      "frameId": "l021",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "解释语气",
+      "confidence": 0.85,
+      "evidence": [
+        "语境复核 l021：原分词错误：なんとなく须整体解释为无明确目的、随意做着；后なんだ为解释结尾。两个“整语：随意”仅为合并前的条件提案，严禁作为两张独立同义卡直接渲染；整合应合并前三卡并保留单一“漫不经心/随意”义。",
+        "https://nikkoku-tomonokai.japanknowledge.jp/detail.php?id=161028 — 副词，表示没有明确理由或目的意识而作出模糊判断或行动；不等于不如人意。"
+      ],
+      "changesTokenStructure": false,
+      "requiresTokenRegrouping": true
+    },
+    {
+      "frameId": "l022",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "缺损了的",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l022：欠けた指边缘缺损，不只表面磨旧；触る是触摸，少し作程度副词。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l022",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "指甲",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l022：欠けた指边缘缺损，不只表面磨旧；触る是触摸，少し作程度副词。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l022",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "稍微",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l022：欠けた指边缘缺损，不只表面磨旧；触る是触摸，少し作程度副词。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l022",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "触摸",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l022：欠けた指边缘缺损，不只表面磨旧；触る是触摸，少し作程度副词。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l023",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "半径",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l023：体仅取中性身躯，歌曲未在词面明确指琴身；鳴く是鸣叫，音乐语境拟人化/比喻鸣响，不等同拨弦动作。数字300mm仍须lexical恢复显示处理。",
+        "https://kotobank.jp/word/%E6%B3%A3%E3%81%8F-588392 — 鳴く可指动物发声，也可指物体发出声音；不等同拨弦这个动作。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l023",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "身躯",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l023：体仅取中性身躯，歌曲未在词面明确指琴身；鳴く是鸣叫，音乐语境拟人化/比喻鸣响，不等同拨弦动作。数字300mm仍须lexical恢复显示处理。",
+        "https://kotobank.jp/word/%E6%B3%A3%E3%81%8F-588392 — 鳴く可指动物发声，也可指物体发出声音；不等同拨弦这个动作。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l023",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "拼命",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l023：体仅取中性身躯，歌曲未在词面明确指琴身；鳴く是鸣叫，音乐语境拟人化/比喻鸣响，不等同拨弦动作。数字300mm仍须lexical恢复显示处理。",
+        "https://kotobank.jp/word/%E6%B3%A3%E3%81%8F-588392 — 鳴く可指动物发声，也可指物体发出声音；不等同拨弦这个动作。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l023",
+      "field": "grammarCards.5.zhMeaning",
+      "old": "待联网复核",
+      "new": "修饰动作",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l023：体仅取中性身躯，歌曲未在词面明确指琴身；鳴く是鸣叫，音乐语境拟人化/比喻鸣响，不等同拨弦动作。数字300mm仍须lexical恢复显示处理。",
+        "https://kotobank.jp/word/%E6%B3%A3%E3%81%8F-588392 — 鳴く可指动物发声，也可指物体发出声音；不等同拨弦这个动作。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l023",
+      "field": "grammarCards.6.zhMeaning",
+      "old": "待联网复核",
+      "new": "鸣叫着",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l023：体仅取中性身躯，歌曲未在词面明确指琴身；鳴く是鸣叫，音乐语境拟人化/比喻鸣响，不等同拨弦动作。数字300mm仍须lexical恢复显示处理。",
+        "https://kotobank.jp/word/%E6%B3%A3%E3%81%8F-588392 — 鳴く可指动物发声，也可指物体发出声音；不等同拨弦这个动作。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l024",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "音乐",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l024：にとっちゃ整体等于にとっては；とっ不能解释为拿取。对原卡2的义为整语语义，必须与相邻成分合并后使用。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l024",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "对…而言",
+      "confidence": 0.85,
+      "evidence": [
+        "语境复核 l024：にとっちゃ整体等于にとっては；とっ不能解释为拿取。对原卡2的义为整语语义，必须与相邻成分合并后使用。"
+      ],
+      "changesTokenStructure": false,
+      "requiresTokenRegrouping": true
+    },
+    {
+      "frameId": "l024",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "这里",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l024：にとっちゃ整体等于にとっては；とっ不能解释为拿取。对原卡2的义为整语语义，必须与相邻成分合并后使用。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l024",
+      "field": "grammarCards.6.zhMeaning",
+      "old": "待联网复核",
+      "new": "地球",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l024：にとっちゃ整体等于にとっては；とっ不能解释为拿取。对原卡2的义为整语语义，必须与相邻成分合并后使用。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l024",
+      "field": "grammarCards.7.zhMeaning",
+      "old": "待联网复核",
+      "new": "是",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l024：にとっちゃ整体等于にとっては；とっ不能解释为拿取。对原卡2的义为整语语义，必须与相邻成分合并后使用。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l025",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "空气",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l025：握る为握紧，殴る为挥拳打；空字在此为天空，不是空无。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l025",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "握紧",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l025：握る为握紧，殴る为挥拳打；空字在此为天空，不是空无。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l025",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "天空",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l025：握る为握紧，殴る为挥拳打；空字在此为天空，不是空无。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l025",
+      "field": "grammarCards.5.zhMeaning",
+      "old": "待联网复核",
+      "new": "挥拳打",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l025：握る为握紧，殴る为挥拳打；空字在此为天空，不是空无。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l026",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "什么",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l026：なんにも起きない整体为什么都没有发生；さ为语尾强调，非名词化后缀，交grammar修正。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l026",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "不发生",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l026：なんにも起きない整体为什么都没有发生；さ为语尾强调，非名词化后缀，交grammar修正。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l026",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "我",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l026：なんにも起きない整体为什么都没有发生；さ为语尾强调，非名词化后缀，交grammar修正。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l026",
+      "field": "grammarCards.5.zhMeaning",
+      "old": "待联网复核",
+      "new": "无能为力",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l026：なんにも起きない整体为什么都没有发生；さ为语尾强调，非名词化后缀，交grammar修正。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l026",
+      "field": "grammarCards.6.zhMeaning",
+      "old": "待联网复核",
+      "new": "强调语气",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l026：なんにも起きない整体为什么都没有发生；さ为语尾强调，非名词化后缀，交grammar修正。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l027",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "整语：但是",
+      "confidence": 0.85,
+      "evidence": [
+        "语境复核 l027：だけど是转折连词，应合并だ+けど；で在その手で表手段，不是判断助动词。"
+      ],
+      "changesTokenStructure": false,
+      "requiresTokenRegrouping": true
+    },
+    {
+      "frameId": "l027",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "那",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l027：だけど是转折连词，应合并だ+けど；で在その手で表手段，不是判断助动词。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l027",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "手",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l027：だけど是转折连词，应合并だ+けど；で在その手で表手段，不是判断助动词。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l027",
+      "field": "grammarCards.5.zhMeaning",
+      "old": "待联网复核",
+      "new": "表示手段",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l027：だけど是转折连词，应合并だ+けど；で在その手で表手段，不是判断助动词。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l028",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "这",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l028：鉄在拨弦语境代指金属琴弦；弾いたら为弹奏后的条件，不是弹跳。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l028",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "铁弦",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l028：鉄在拨弦语境代指金属琴弦；弾いたら为弹奏后的条件，不是弹跳。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l028",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "弹奏的话",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l028：鉄在拨弦语境代指金属琴弦；弾いたら为弹奏后的条件，不是弹跳。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l029",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "什么",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l029：何か为不定某物；変わって見えた是看起来改变了，ような保留不确定/话未说完的余韵。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l029",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "改变",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l029：何か为不定某物；変わって見えた是看起来改变了，ような保留不确定/话未说完的余韵。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l029",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "看起来",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l029：何か为不定某物；変わって見えた是看起来改变了，ような保留不确定/话未说完的余韵。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l029",
+      "field": "grammarCards.5.zhMeaning",
+      "old": "待联网复核",
+      "new": "仿佛",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l029：何か为不定某物；変わって見えた是看起来改变了，ような保留不确定/话未说完的余韵。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l029",
+      "field": "grammarCards.6.zhMeaning",
+      "old": "待联网复核",
+      "new": "推测余韵",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l029：何か为不定某物；変わって見えた是看起来改变了，ような保留不确定/话未说完的余韵。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l030",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "耀眼",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l030：眩しい取光芒耀眼并暗含他人优秀的比喻；そんなに宜合并，光る取发光。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l030",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "耀眼",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l030：眩しい取光芒耀眼并暗含他人优秀的比喻；そんなに宜合并，光る取发光。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l030",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "那么",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l030：眩しい取光芒耀眼并暗含他人优秀的比喻；そんなに宜合并，光る取发光。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l030",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "表程度",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l030：眩しい取光芒耀眼并暗含他人优秀的比喻；そんなに宜合并，光る取发光。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l030",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "发光",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l030：眩しい取光芒耀眼并暗含他人优秀的比喻；そんなに宜合并，光る取发光。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l031",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "我",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l031：ダサい取土气、逊色的自嘲义；与l032合读。保留QQ跨行重排，不按中文行反推卡片。",
+        "https://kotobank.jp/word/%E3%81%A0%E3%81%95%E3%81%84-319922 — 俗语，形容不时髦、不够洋气或土气；此处自嘲形象逊色。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l031",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "土气",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l031：ダサい取土气、逊色的自嘲义；与l032合读。保留QQ跨行重排，不按中文行反推卡片。",
+        "https://kotobank.jp/word/%E3%81%A0%E3%81%95%E3%81%84-319922 — 俗语，形容不时髦、不够洋气或土气；此处自嘲形象逊色。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l031",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "影子",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l031：ダサい取土气、逊色的自嘲义；与l032合读。保留QQ跨行重排，不按中文行反推卡片。",
+        "https://kotobank.jp/word/%E3%81%A0%E3%81%95%E3%81%84-319922 — 俗语，形容不时髦、不够洋气或土气；此处自嘲形象逊色。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l032",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "更加",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l032：色濃く=更深更显著，阴影与自卑感双关；色+濃く可由lexical合并。しまうだろ为不希望的结果加推测，不作收拾解释。",
+        "https://kotobank.jp/word/%E8%89%B2%E6%BF%83%E3%81%84-436644 — 可指某种倾向强烈显现，也有颜色浓的意义；支持影子更深、更显著的语境解释。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l032",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "颜色",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l032：色濃く=更深更显著，阴影与自卑感双关；色+濃く可由lexical合并。しまうだろ为不希望的结果加推测，不作收拾解释。",
+        "https://kotobank.jp/word/%E8%89%B2%E6%BF%83%E3%81%84-436644 — 可指某种倾向强烈显现，也有颜色浓的意义；支持影子更深、更显著的语境解释。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l032",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "深",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l032：色濃く=更深更显著，阴影与自卑感双关；色+濃く可由lexical合并。しまうだろ为不希望的结果加推测，不作收拾解释。",
+        "https://kotobank.jp/word/%E8%89%B2%E6%BF%83%E3%81%84-436644 — 可指某种倾向强烈显现，也有颜色浓的意义；支持影子更深、更显著的语境解释。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l032",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "变得",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l032：色濃く=更深更显著，阴影与自卑感双关；色+濃く可由lexical合并。しまうだろ为不希望的结果加推测，不作收拾解释。",
+        "https://kotobank.jp/word/%E8%89%B2%E6%BF%83%E3%81%84-436644 — 可指某种倾向强烈显现，也有颜色浓的意义；支持影子更深、更显著的语境解释。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l032",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "恐怕会变成",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l032：色濃く=更深更显著，阴影与自卑感双关；色+濃く可由lexical合并。しまうだろ为不希望的结果加推测，不作收拾解释。",
+        "https://kotobank.jp/word/%E8%89%B2%E6%BF%83%E3%81%84-436644 — 可指某种倾向强烈显现，也有颜色浓的意义；支持影子更深、更显著的语境解释。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l033",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "整语：为什么",
+      "confidence": 0.85,
+      "evidence": [
+        "语境复核 l033：なんで是为什么而非“什么+在”；建议合并前两卡。"
+      ],
+      "changesTokenStructure": false,
+      "requiresTokenRegrouping": true
+    },
+    {
+      "frameId": "l033",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "如此",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l033：なんで是为什么而非“什么+在”；建议合并前两卡。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l034",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "炽热",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l034：熱く为内心炽热；なっちゃって含变化结果，止まんない=止まらない。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l034",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "变得了",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l034：熱く为内心炽热；なっちゃって含变化结果，止まんない=止まらない。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l034",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "停不下来",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l034：熱く为内心炽热；なっちゃって含变化结果，止まんない=止まらない。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l035",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "傻",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l035：与l018同句，全部卡义一致。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l035",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "修饰名词",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l035：与l018同句，全部卡义一致。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l035",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "我",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l035：与l018同句，全部卡义一致。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l035",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "唱歌",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l035：与l018同句，全部卡义一致。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l036",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "吵闹",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l036：うるさい修饰被嫌弃太响的心跳；不是抽象烦琐。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l036",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "心脏",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l036：うるさい修饰被嫌弃太响的心跳；不是抽象烦琐。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l037",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "苍蓝",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l037：苍蓝修饰星球；ひとりぼっち强调孤独无伴。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l037",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "行星",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l037：苍蓝修饰星球；ひとりぼっち强调孤独无伴。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l037",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "孤零零一人",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l037：苍蓝修饰星球；ひとりぼっち强调孤独无伴。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l038",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "许多",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l038：聞いてきた指过去一路听到如今；きた为时间推移辅助，不是身体走来。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l038",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "声音",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l038：聞いてきた指过去一路听到如今；きた为时间推移辅助，不是身体走来。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l038",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "听",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l038：聞いてきた指过去一路听到如今；きた为时间推移辅助，不是身体走来。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l038",
+      "field": "grammarCards.5.zhMeaning",
+      "old": "待联网复核",
+      "new": "一直以来",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l038：聞いてきた指过去一路听到如今；きた为时间推移辅助，不是身体走来。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l039",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "转动",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l039：回り続ける为持续旋转；幾亿年表达数亿年，数字单位不分摊成整句。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l039",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "继续",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l039：回り続ける为持续旋转；幾亿年表达数亿年，数字单位不分摊成整句。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l039",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "几",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l039：回り続ける为持续旋转；幾亿年表达数亿年，数字单位不分摊成整句。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l039",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "亿",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l039：回り続ける为持续旋转；幾亿年表达数亿年，数字单位不分摊成整句。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l039",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "年",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l039：回り続ける为持续旋转；幾亿年表达数亿年，数字单位不分摊成整句。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l040",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "一瞬间",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l040：一瞬でもいい是即使一瞬也可以；でも绝非转折连词“但是”。grammar应改为让步助词并移入functionZh。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l040",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "但是；不过",
+      "new": "即使",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l040：一瞬でもいい是即使一瞬也可以；でも绝非转折连词“但是”。grammar应改为让步助词并移入functionZh。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l040",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "可以",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l040：一瞬でもいい是即使一瞬也可以；でも绝非转折连词“但是”。grammar应改为让步助词并移入functionZh。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l040",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "啊",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l040：一瞬でもいい是即使一瞬也可以；でも绝非转折连词“但是”。grammar应改为让步助词并移入functionZh。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l041",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "听啊",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l041：聞いて是请求听，聴けよ为强烈命令/催促；不可全句敬语化。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l041",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "好好听着",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l041：聞いて是请求听，聴けよ为强烈命令/催促；不可全句敬语化。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l042",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "我",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l042：重复わたし与いる强调自身存在，全部保持一致。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l042",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "我",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l042：重复わたし与いる强调自身存在，全部保持一致。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l042",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "我",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l042：重复わたし与いる强调自身存在，全部保持一致。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l042",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "这里",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l042：重复わたし与いる强调自身存在，全部保持一致。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l042",
+      "field": "grammarCards.6.zhMeaning",
+      "old": "待联网复核",
+      "new": "存在",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l042：重复わたし与いる强调自身存在，全部保持一致。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l043",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "潦草书写",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l043：与l014同句，卡义一致。",
+        "https://kotobank.jp/word/%E6%AE%B4%E3%82%8A%E6%9B%B8-588444 — 指粗率、随意地书写或这样写出的东西；歌词将此比喻用于音色。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l043",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "好像",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l043：与l014同句，卡义一致。",
+        "https://kotobank.jp/word/%E6%AE%B4%E3%82%8A%E6%9B%B8-588444 — 指粗率、随意地书写或这样写出的东西；歌词将此比喻用于音色。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l043",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "修饰名词",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l043：与l014同句，卡义一致。",
+        "https://kotobank.jp/word/%E6%AE%B4%E3%82%8A%E6%9B%B8-588444 — 指粗率、随意地书写或这样写出的东西；歌词将此比喻用于音色。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l043",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "音色",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l043：与l014同句，卡义一致。",
+        "https://kotobank.jp/word/%E6%AE%B4%E3%82%8A%E6%9B%B8-588444 — 指粗率、随意地书写或这样写出的东西；歌词将此比喻用于音色。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l044",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "发不出来",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l044：与l015同句，卡义一致。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l044",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "状态",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l044：与l015同句，卡义一致。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l044",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "喊叫了",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l044：与l015同句，卡义一致。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l045",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "什么",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l045：なんか指某种人/某种存在而非轻蔑列举；なりたい表达想成为，与l046连贯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l045",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "想成为",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l045：なんか指某种人/某种存在而非轻蔑列举；なりたい表达想成为，与l046连贯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l045",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "想成为",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l045：なんか指某种人/某种存在而非轻蔑列举；なりたい表达想成为，与l046连贯。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l046",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "什么人",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l046：何者かでいい是成为某个人也好；何者只取什么人，不把整句愿望塞进名词卡。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l046",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "待联网复核",
+      "new": "可以",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l046：何者かでいい是成为某个人也好；何者只取什么人，不把整句愿望塞进名词卡。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l047",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "傻",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l047：与l018/l035同句，卡义一致。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l047",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "待联网复核",
+      "new": "修饰名词",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l047：与l018/l035同句，卡义一致。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l047",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "我",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l047：与l018/l035同句，卡义一致。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l047",
+      "field": "grammarCards.4.zhMeaning",
+      "old": "待联网复核",
+      "new": "唱歌",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l047：与l018/l035同句，卡义一致。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l048",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "待联网复核",
+      "new": "尽情倾吐吧",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l048：与l019同句，卡义一致。",
+        "https://www.tanoshiijapanese.com/dictionary/entry_details.cfm?element_id=193547&entry_id=1038 — 义项含全盘说出、敞开心扉；倾吐心声语境取此义，不取倾倒物品。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l048",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "待联网复核",
+      "new": "星星",
+      "confidence": 0.96,
+      "evidence": [
+        "语境复核 l048：与l019同句，卡义一致。",
+        "https://www.tanoshiijapanese.com/dictionary/entry_details.cfm?element_id=193547&entry_id=1038 — 义项含全盘说出、敞开心扉；倾吐心声语境取此义，不取倾倒物品。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l020",
+      "field": "caption.translationZh",
+      "old": "换上伊利克斯吉他弦演奏",
+      "new": "连换上 Elixir 琴弦这件事",
+      "confidence": 0.97,
+      "evidence": [
+        "QMTS 原行已核对并保留为原始证据：换上伊利克斯吉他弦演奏",
+        "作業是换弦作业，原QQ翻译增出“演奏”；与l021合读。",
+        "https://www.elixirstrings.jp/guitar-strings/electric-guitar-strings — エリクサー/Elixir是提供电吉他涂层琴弦的品牌；歌词换弦语境不是灵药。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l021",
+      "field": "caption.translationZh",
+      "old": "也依旧不如人意",
+      "new": "也只是漫不经心地做着",
+      "confidence": 0.97,
+      "evidence": [
+        "QMTS 原行已核对并保留为原始证据：也依旧不如人意",
+        "なんとなく没有明确目的/理由，不是“不如人意”；接续l020换弦作业。",
+        "https://nikkoku-tomonokai.japanknowledge.jp/detail.php?id=161028 — 副词，表示没有明确理由或目的意识而作出模糊判断或行动；不等于不如人意。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l023",
+      "field": "caption.translationZh",
+      "old": "用半径300mm的琴身拼命地拨弹着",
+      "new": "用半径300毫米的身躯拼命鸣响",
+      "confidence": 0.89,
+      "evidence": [
+        "QMTS 原行已核对并保留为原始证据：用半径300mm的琴身拼命地拨弹着",
+        "原译限定琴身并把鸣叫改成拨弹，过度具体化；提案保留体的中性指代及拟人发声。",
+        "https://kotobank.jp/word/%E6%B3%A3%E3%81%8F-588392 — 鳴く可指动物发声，也可指物体发出声音；不等同拨弦这个动作。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l041",
+      "field": "caption.translationZh",
+      "old": "敬请聆听 聆听我的声音",
+      "new": "听啊 给我好好听着",
+      "confidence": 0.94,
+      "evidence": [
+        "QMTS 原行已核对并保留为原始证据：敬请聆听 聆听我的声音",
+        "原译“敬请”削弱聴けよ的命令语气；原句从请求听转为强烈催促。"
+      ],
+      "changesTokenStructure": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "nantonaku",
+      "url": "https://nikkoku-tomonokai.japanknowledge.jp/detail.php?id=161028",
+      "title": "日本国語大辞典・なんとなく",
+      "claim": "副词，表示没有明确理由或目的意识而作出模糊判断或行动；不等于不如人意。"
+    },
+    {
+      "id": "elixir",
+      "url": "https://www.elixirstrings.jp/guitar-strings/electric-guitar-strings",
+      "title": "Elixir 官方电吉他弦产品页",
+      "claim": "エリクサー/Elixir是提供电吉他涂层琴弦的品牌；歌词换弦语境不是灵药。"
+    },
+    {
+      "id": "nagurigaki",
+      "url": "https://kotobank.jp/word/%E6%AE%B4%E3%82%8A%E6%9B%B8-588444",
+      "title": "小学館デジタル大辞泉・殴り書き",
+      "claim": "指粗率、随意地书写或这样写出的东西；歌词将此比喻用于音色。"
+    },
+    {
+      "id": "naku",
+      "url": "https://kotobank.jp/word/%E6%B3%A3%E3%81%8F-588392",
+      "title": "小学館デジタル大辞泉・泣く／鳴く",
+      "claim": "鳴く可指动物发声，也可指物体发出声音；不等同拨弦这个动作。"
+    },
+    {
+      "id": "irokoi",
+      "url": "https://kotobank.jp/word/%E8%89%B2%E6%BF%83%E3%81%84-436644",
+      "title": "小学館デジタル大辞泉・色濃い",
+      "claim": "可指某种倾向强烈显现，也有颜色浓的意义；支持影子更深、更显著的语境解释。"
+    },
+    {
+      "id": "dasai",
+      "url": "https://kotobank.jp/word/%E3%81%A0%E3%81%95%E3%81%84-319922",
+      "title": "小学館デジタル大辞泉・ださい",
+      "claim": "俗语，形容不时髦、不够洋气或土气；此处自嘲形象逊色。"
+    },
+    {
+      "id": "buchimakeru",
+      "url": "https://www.tanoshiijapanese.com/dictionary/entry_details.cfm?element_id=193547&entry_id=1038",
+      "title": "Tanoshii Japanese / JMdict・打ち撒ける",
+      "claim": "义项含全盘说出、敞开心扉；倾吐心声语境取此义，不取倾倒物品。"
+    }
+  ],
+  "reviewNotes": [
+    {
+      "frameId": "l001",
+      "note": "夕立是突然的阵雨；嫌是对无伞处境的厌烦。QQ整句增译“自己”非明示，不升级为卡片词义。"
+    },
+    {
+      "frameId": "l002",
+      "note": "天空拟人化；知らない在抱怨语境取“才不管”，非机械译“不知道”。"
+    },
+    {
+      "frameId": "l003",
+      "note": "与l004合读：换季时该穿什么；服的卡片独立为衣服，不复制整句内容。"
+    },
+    {
+      "frameId": "l004",
+      "note": "着りゃ=着れば；いい为合适；だろ是自问，不是事实断言。"
+    },
+    {
+      "frameId": "l005",
+      "note": "いっちゃった指春秋不知去向，保留完成感。"
+    },
+    {
+      "frameId": "l006",
+      "note": "息も出来ない整体为无法呼吸；出来ない卡只承担做不到的可能否定义。"
+    },
+    {
+      "frameId": "l007",
+      "note": "眩晕与螺旋是感官比喻；だ是判断成分。"
+    },
+    {
+      "frameId": "l008",
+      "note": "いる是人存在于某处，与l042呼应。"
+    },
+    {
+      "frameId": "l009",
+      "note": "こんなに整体为程度副词“如此”；建议lexical合并，各に只标程度构形，不按地点助词教。"
+    },
+    {
+      "frameId": "l010",
+      "note": "音がする是感知到声音，する在这里不是一般的做。"
+    },
+    {
+      "frameId": "l011",
+      "note": "音がしない是否定感知声音；与呼吸声形成反差。"
+    },
+    {
+      "frameId": "l012",
+      "note": "重复同词保持一致的“不够”。"
+    },
+    {
+      "frameId": "l013",
+      "note": "気づかれない是被动否定，不能释成主动“没注意”。"
+    },
+    {
+      "frameId": "l014",
+      "note": "殴り書き指潦草随意书写；这里借喻音色，不能把词本身改释成音乐。"
+    },
+    {
+      "frameId": "l015",
+      "note": "与上句合读，出せない为声音发不出来的可能否定；叫んだ为已经喊出。"
+    },
+    {
+      "frameId": "l016",
+      "note": "ありのまま指本来面貌；此处为真实自我。"
+    },
+    {
+      "frameId": "l017",
+      "note": "見せる是给别人看而非自己看见。"
+    },
+    {
+      "frameId": "l018",
+      "note": "馬鹿なわたし中的馬鹿用自嘲形容义；な为连体修饰成分。"
+    },
+    {
+      "frameId": "l019",
+      "note": "ぶちまける在心声语境取尽情倾吐，不是物理倾倒；ちゃおう含完成与意志。"
+    },
+    {
+      "frameId": "l020",
+      "note": "エリクサー为Elixir琴弦品牌；张り替える在此是换弦，不是演奏。作業保留行为/工序义。"
+    },
+    {
+      "frameId": "l021",
+      "note": "原分词错误：なんとなく须整体解释为无明确目的、随意做着；后なんだ为解释结尾。两个“整语：随意”仅为合并前的条件提案，严禁作为两张独立同义卡直接渲染；整合应合并前三卡并保留单一“漫不经心/随意”义。"
+    },
+    {
+      "frameId": "l022",
+      "note": "欠けた指边缘缺损，不只表面磨旧；触る是触摸，少し作程度副词。"
+    },
+    {
+      "frameId": "l023",
+      "note": "体仅取中性身躯，歌曲未在词面明确指琴身；鳴く是鸣叫，音乐语境拟人化/比喻鸣响，不等同拨弦动作。数字300mm仍须lexical恢复显示处理。"
+    },
+    {
+      "frameId": "l024",
+      "note": "にとっちゃ整体等于にとっては；とっ不能解释为拿取。对原卡2的义为整语语义，必须与相邻成分合并后使用。"
+    },
+    {
+      "frameId": "l025",
+      "note": "握る为握紧，殴る为挥拳打；空字在此为天空，不是空无。"
+    },
+    {
+      "frameId": "l026",
+      "note": "なんにも起きない整体为什么都没有发生；さ为语尾强调，非名词化后缀，交grammar修正。"
+    },
+    {
+      "frameId": "l027",
+      "note": "だけど是转折连词，应合并だ+けど；で在その手で表手段，不是判断助动词。"
+    },
+    {
+      "frameId": "l028",
+      "note": "鉄在拨弦语境代指金属琴弦；弾いたら为弹奏后的条件，不是弹跳。"
+    },
+    {
+      "frameId": "l029",
+      "note": "何か为不定某物；変わって見えた是看起来改变了，ような保留不确定/话未说完的余韵。"
+    },
+    {
+      "frameId": "l030",
+      "note": "眩しい取光芒耀眼并暗含他人优秀的比喻；そんなに宜合并，光る取发光。"
+    },
+    {
+      "frameId": "l031",
+      "note": "ダサい取土气、逊色的自嘲义；与l032合读。保留QQ跨行重排，不按中文行反推卡片。"
+    },
+    {
+      "frameId": "l032",
+      "note": "色濃く=更深更显著，阴影与自卑感双关；色+濃く可由lexical合并。しまうだろ为不希望的结果加推测，不作收拾解释。"
+    },
+    {
+      "frameId": "l033",
+      "note": "なんで是为什么而非“什么+在”；建议合并前两卡。"
+    },
+    {
+      "frameId": "l034",
+      "note": "熱く为内心炽热；なっちゃって含变化结果，止まんない=止まらない。"
+    },
+    {
+      "frameId": "l035",
+      "note": "与l018同句，全部卡义一致。"
+    },
+    {
+      "frameId": "l036",
+      "note": "うるさい修饰被嫌弃太响的心跳；不是抽象烦琐。"
+    },
+    {
+      "frameId": "l037",
+      "note": "苍蓝修饰星球；ひとりぼっち强调孤独无伴。"
+    },
+    {
+      "frameId": "l038",
+      "note": "聞いてきた指过去一路听到如今；きた为时间推移辅助，不是身体走来。"
+    },
+    {
+      "frameId": "l039",
+      "note": "回り続ける为持续旋转；幾亿年表达数亿年，数字单位不分摊成整句。"
+    },
+    {
+      "frameId": "l040",
+      "note": "一瞬でもいい是即使一瞬也可以；でも绝非转折连词“但是”。grammar应改为让步助词并移入functionZh。"
+    },
+    {
+      "frameId": "l041",
+      "note": "聞いて是请求听，聴けよ为强烈命令/催促；不可全句敬语化。"
+    },
+    {
+      "frameId": "l042",
+      "note": "重复わたし与いる强调自身存在，全部保持一致。"
+    },
+    {
+      "frameId": "l043",
+      "note": "与l014同句，卡义一致。"
+    },
+    {
+      "frameId": "l044",
+      "note": "与l015同句，卡义一致。"
+    },
+    {
+      "frameId": "l045",
+      "note": "なんか指某种人/某种存在而非轻蔑列举；なりたい表达想成为，与l046连贯。"
+    },
+    {
+      "frameId": "l046",
+      "note": "何者かでいい是成为某个人也好；何者只取什么人，不把整句愿望塞进名词卡。"
+    },
+    {
+      "frameId": "l047",
+      "note": "与l018/l035同句，卡义一致。"
+    },
+    {
+      "frameId": "l048",
+      "note": "与l019同句，卡义一致。"
+    }
+  ],
+  "integrationRequirements": [
+    "所有修改仅为提案，未修改frames，未建立批准。",
+    "170个原zhMeaning字段均给出语境义/功能，其中7个标requiresTokenRegrouping，必须配合lexical/grammar合并或转功能字段，不可把整语义当作碎片独立词义直接渲染。",
+    "原无zhMeaning的助词functionZh不在本角色修改范围。原误分类为助动词/连词的に、で、さ、でも由grammar整合纠正；本提案不改变词性或结构。",
+    "整句中文仅提出l020、l021、l023、l041四处可见修正，其余44行保留QQ原轨，包括l003-004、l009-010、l031-032的跨行意译。",
+    "除已列URL的疑难项外，其余卡义为原日文、QMTS与跨行语境的人工语言分析，未声称逐词逐项均联网查证。"
+  ]
+}

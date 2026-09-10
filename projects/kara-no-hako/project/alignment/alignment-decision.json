@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "appliedOffsetMs": 0,
+  "reason": "Reject mismatched RMS onset peaks; early/middle spectral windows agree within about two CFR30 frames. Keep full FLAC and do not introduce a multisecond shift.",
+  "evidence": [
+    "project/alignment/onset-report.json",
+    "project/alignment/program-match.json"
+  ],
+  "fineAlignmentStatus": "not sample-accurately measured",
+  "lateVideoNote": "TV edit near the ending is not the full-length second verse; later matched window cannot define a global offset."
+}

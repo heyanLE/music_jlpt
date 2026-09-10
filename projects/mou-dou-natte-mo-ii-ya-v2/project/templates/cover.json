@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "study-cover-current-v1",
+  "canvas": { "width": 1920, "height": 1080 },
+  "font": { "path": "C:/Windows/Fonts/msyhbd.ttc", "weight": 700 },
+  "palette": {
+    "page": "#F5F7FC",
+    "accent": "#151B35",
+    "ink": "#151B35",
+    "muted": "#41506F",
+    "rule": "#6FA9FF"
+  },
+  "artwork": {
+    "rectPx": [0, 0, 820, 1080],
+    "fit": "cover",
+    "separatorPx": 12
+  },
+  "content": {
+    "leftPx": 846,
+    "rightPx": 1900,
+    "topRuleY": 68,
+    "heading": { "text": "快速学唱", "x": 846, "y": 103, "fontSize": 118 },
+    "title": { "x": 841, "y": 250, "fontSize": 106, "lines": 2 },
+    "artist": { "x": 846, "y": 545, "fontSize": 58 },
+    "subtitle": { "x": 846, "y": 635, "fontSize": 58, "color": "ink" },
+    "features": {
+      "x": 846,
+      "lines": ["逐词高亮 · 文法拆解", "罗马音 · 假名"],
+      "y": [760, 855],
+      "fontSize": [78, 76]
+    },
+    "bottomRule": { "x": 846, "y": 1000, "width": 390, "height": 14 }
+  },
+  "variants": {
+    "4x3": {
+      "canvas": { "width": 1440, "height": 1080 },
+      "artwork": { "rectPx": [0, 0, 600, 1080], "fit": "cover", "separatorPx": 12 },
+      "content": {
+        "leftPx": 640,
+        "rightPx": 1420,
+        "topRuleY": 68,
+        "heading": { "text": "快速学唱", "x": 640, "y": 105, "fontSize": 98 },
+        "title": { "x": 635, "y": 250, "fontSize": 84, "lines": 2 },
+        "artist": { "x": 640, "y": 540, "fontSize": 50 },
+        "subtitle": { "x": 640, "y": 620, "fontSize": 48, "color": "ink" },
+        "features": {
+          "x": 640,
+          "lines": ["逐词高亮 · 文法拆解", "罗马音 · 假名"],
+          "y": [755, 850],
+          "fontSize": [66, 64]
+        },
+        "bottomRule": { "x": 640, "y": 1000, "width": 320, "height": 14 }
+      }
+    }
+  }
+}

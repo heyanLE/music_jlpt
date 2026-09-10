@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "slug": "kimi-no-kioku-reload",
+  "title": "キミの記憶 -Reload-",
+  "artist": "高橋あず美",
+  "subtitle": "PERSONA 3 RELOAD",
+  "benefits": [
+    "歌词同步高亮",
+    "假名注释",
+    "罗马音",
+    "逐词拆解"
+  ],
+  "outputs": [
+    {
+      "name": "16x9",
+      "width": 1920,
+      "height": 1080,
+      "artworkFocus": "center"
+    },
+    {
+      "name": "4x3",
+      "width": 1440,
+      "height": 1080,
+      "artworkFocus": "center"
+    }
+  ]
+}

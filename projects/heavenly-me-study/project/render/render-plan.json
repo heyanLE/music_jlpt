@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 2,
+  "status": "prepared-awaiting-explicit-render-authorization",
+  "runId": "heavenly-approved-r1",
+  "projectSlug": "heavenly-me-study",
+  "activeHashes": {
+    "inputManifest": "5119019a0f56d3e87370c6429db002d47973c20705cc6c0478f181a1ce8e8136",
+    "sourceManifest": "3acf95ec5b6572de9cabd6bc9545f95d19eb3e9b3e8ad9b490038c05b7abd80f",
+    "frames": "63a9879cfe4a97295da0edbec889f993d1889e7d1c54595a20cb64e3e902b58c",
+    "palette": "066f507d43d32a05f7c0235fed4646782d5bf9299323ce8043ace2554938b4d9",
+    "presentation": "3acf8a4668cf2cde8f1c301be409a668a4029a8713fec3690ca10e9b2c71cff5",
+    "sceneTimeline": "94c374ffa9870fddf1c538f78690b8724f522d363eaf60c534abd49e021aead8",
+    "foregroundTemplate": "a5fa64614553081b74df9b71e504efa794f71f5cab563c2b6eacf6a88b7da317",
+    "backgroundTemplate": "e368085fe31bbdbfbf4b0f5e694281056ea3249010dd80bc274e2ed858a06bc3",
+    "overlayTemplate": "096ce548ef31d3c3265a69cd85e446037551ea80577f87dd12bfa424f99c60e7",
+    "reviewDecision": "cce89c75b45da602e9504764e2f63f392860d6a4213c1702a8184c34ee56ccde",
+    "renderer": "dccfbc2f4233aee70aa2381f9745ac88552a58b1c1e0b044a3dd9023201d5b61"
+  },
+  "canvases": [
+    {
+      "name": "16x9",
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "candidate": "project/work/heavenly-approved-r1/16x9/heavenly-me-study--16x9--heavenly-approved-r1.mkv"
+    }
+  ],
+  "clock": {
+    "durationMs": 191327,
+    "musicOffsetMs": 0,
+    "offsetDefinition": "signed output timestamp assigned to music time zero",
+    "appliesTo": [
+      "music",
+      "lyrics",
+      "spectrum"
+    ],
+    "backgroundClock": "output"
+  },
+  "timingMatch": {
+    "preferred": [
+      "full",
+      "adjacentRows"
+    ],
+    "fallback": [
+      "japaneseFallback",
+      "lineFallback",
+      "unmatched"
+    ],
+    "highlightPermission": "token highlight only for full or adjacentRows"
+  },
+  "layers": [
+    {
+      "order": 1,
+      "id": "background",
+      "mode": "video-loop",
+      "asset": "source/background-trimmed.mp4",
+      "fit": "height-center-pillarbox",
+      "sourceAudio": "mute"
+    },
+    {
+      "order": 2,
+      "id": "foreground",
+      "template": "study-current-v3",
+      "mode": "follow-lyrics",
+      "veilOpacity": 0.28,
+      "lineTranslation": true,
+      "highlight": "token",
+      "cover": "source/cover-v2.jpg"
+    },
+    {
+      "order": 3,
+      "id": "floatingOverlay",
+      "enabled": false,
+      "mode": "none"
+    }
+  ],
+  "audio": {
+    "asset": "source/music.flac",
+    "codec": "flac",
+    "sampleRateHz": 48000,
+    "bitsPerSample": 24,
+    "outputContainer": "mkv",
+    "outputCodecPolicy": "stream-copy"
+  },
+  "preflight": {
+    "reviewApproved": true,
+    "all44ForegroundFramesRendered": true,
+    "cardLayoutOverflow": false,
+    "furiganaExplicitAnchorSupport": true,
+    "renderAuthorized": false
+  }
+}

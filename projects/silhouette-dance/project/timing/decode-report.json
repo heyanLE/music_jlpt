@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "decoder": {
+    "name": "smart-lyric",
+    "entry": "C:/project/musicjlpt/decode_qrc_file.mjs",
+    "parse": "qrc.decrypt + qrc.parse"
+  },
+  "sources": {
+    "lyrics_qm.qrc": "67fb53b0f31c3c2eeeaf8934e24f9d5aef769d42f0ce6056ef6a6a444f218fee",
+    "lyrics_qmRoma.qrc": "05c497d3775c25298bfd135cb2932c0e4fd6e0b2e8b14be45e80a5f6e874e4e9",
+    "lyrics_qmts.qrc": "54dc91a6335ff4c886c3347e16141a811f17fa8f40ac3d960332fc20109d51b6"
+  },
+  "counts": {
+    "qm": 57,
+    "roma": 57,
+    "translation": 57
+  },
+  "timeRangeMs": {
+    "start": 0,
+    "end": 194027
+  },
+  "usableTiming": {
+    "japanese": "word",
+    "romaji": "word",
+    "translation": "line"
+  },
+  "validation": "passed"
+}

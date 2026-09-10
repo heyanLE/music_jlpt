@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "scene-timeline-v1",
+  "clock": "output",
+  "allowedModes": ["video-loop", "video-clip", "cover-gaussian", "still-cover", "solid"],
+  "videoFit": "height-center-pillarbox",
+  "sourceVideoAudio": "mute",
+  "foregroundModes": ["follow-lyrics", "persistent"],
+  "transition": { "allowedKinds": ["none", "black-fade", "white-fade"], "defaultScope": "background-only", "defaultDurationMs": 500 }
+}

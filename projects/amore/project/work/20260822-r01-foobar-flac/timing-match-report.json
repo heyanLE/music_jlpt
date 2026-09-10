@@ -1,0 +1,411 @@
+{
+  "schemaVersion": 1,
+  "matches": [
+    {
+      "frameId": "l001",
+      "mode": "full",
+      "qrcStartMs": 691,
+      "qrcText": "会いたい きみに会いたい"
+    },
+    {
+      "frameId": "l002",
+      "mode": "full",
+      "qrcStartMs": 19336,
+      "qrcText": "たとえば きみと僕を"
+    },
+    {
+      "frameId": "l003",
+      "mode": "full",
+      "qrcStartMs": 22450,
+      "qrcText": "2つ足してさ はんぶんこに"
+    },
+    {
+      "frameId": "l004",
+      "mode": "full",
+      "qrcStartMs": 26331,
+      "qrcText": "ちぎる魔法があれば"
+    },
+    {
+      "frameId": "l005",
+      "mode": "full",
+      "qrcStartMs": 28594,
+      "qrcText": "サヨナラのない"
+    },
+    {
+      "frameId": "l006",
+      "mode": "full",
+      "qrcStartMs": 30072,
+      "qrcText": "永遠になれるのかな"
+    },
+    {
+      "frameId": "l007",
+      "mode": "full",
+      "qrcStartMs": 31875,
+      "qrcText": "明日 きみがいないのなら"
+    },
+    {
+      "frameId": "l008",
+      "mode": "full",
+      "qrcStartMs": 34797,
+      "qrcText": "僕は後悔するのだろう"
+    },
+    {
+      "frameId": "l009",
+      "mode": "full",
+      "qrcStartMs": 38009,
+      "qrcText": "言えなかった言葉たちが"
+    },
+    {
+      "frameId": "l010",
+      "mode": "full",
+      "qrcStartMs": 41030,
+      "qrcText": "棘になって刺さるのだろう"
+    },
+    {
+      "frameId": "l011",
+      "mode": "full",
+      "qrcStartMs": 44247,
+      "qrcText": "明日 きみがいないのなら"
+    },
+    {
+      "frameId": "l012",
+      "mode": "full",
+      "qrcStartMs": 47298,
+      "qrcText": "僕はどうなっちゃうんだろう"
+    },
+    {
+      "frameId": "l013",
+      "mode": "full",
+      "qrcStartMs": 50341,
+      "qrcText": "そんな事考えてたら"
+    },
+    {
+      "frameId": "l014",
+      "mode": "full",
+      "qrcStartMs": 53457,
+      "qrcText": "きみに会いたくなったんだよ"
+    },
+    {
+      "frameId": "l015",
+      "mode": "full",
+      "qrcStartMs": 56695,
+      "qrcText": "明日 きみと生きれるなら"
+    },
+    {
+      "frameId": "l016",
+      "mode": "full",
+      "qrcStartMs": 59785,
+      "qrcText": "毎日記念日にして祝おう"
+    },
+    {
+      "frameId": "l017",
+      "mode": "full",
+      "qrcStartMs": 62806,
+      "qrcText": "あたりまえにある奇跡を"
+    },
+    {
+      "frameId": "l018",
+      "mode": "full",
+      "qrcStartMs": 65901,
+      "qrcText": "決して忘れはしないように"
+    },
+    {
+      "frameId": "l019",
+      "mode": "full",
+      "qrcStartMs": 69143,
+      "qrcText": "明日 きみと生きれるなら"
+    },
+    {
+      "frameId": "l020",
+      "mode": "full",
+      "qrcStartMs": 72315,
+      "qrcText": "明日 きみと話せるなら"
+    },
+    {
+      "frameId": "l021",
+      "mode": "full",
+      "qrcStartMs": 75409,
+      "qrcText": "明日 きみと笑えるならって"
+    },
+    {
+      "frameId": "l022",
+      "mode": "full",
+      "qrcStartMs": 78505,
+      "qrcText": "思える きみと出会えた"
+    },
+    {
+      "frameId": "l023",
+      "mode": "full",
+      "qrcStartMs": 81571,
+      "qrcText": "僕は 僕は きっと 幸せものだ"
+    },
+    {
+      "frameId": "l024",
+      "mode": "full",
+      "qrcStartMs": 100483,
+      "qrcText": "ねえ あといくつ僕らに"
+    },
+    {
+      "frameId": "l025",
+      "mode": "full",
+      "qrcStartMs": 103508,
+      "qrcText": "心臓がさ あったなら"
+    },
+    {
+      "frameId": "l026",
+      "mode": "full",
+      "qrcStartMs": 107347,
+      "qrcText": "この世界を きみと"
+    },
+    {
+      "frameId": "l027",
+      "mode": "full",
+      "qrcStartMs": 109697,
+      "qrcText": "飽きるまで"
+    },
+    {
+      "frameId": "l028",
+      "mode": "full",
+      "qrcStartMs": 110543,
+      "qrcText": "生きていけたんだろうか"
+    },
+    {
+      "frameId": "l029",
+      "mode": "full",
+      "qrcStartMs": 112940,
+      "qrcText": "ねえ あといくつ僕らは"
+    },
+    {
+      "frameId": "l030",
+      "mode": "full",
+      "qrcStartMs": 115880,
+      "qrcText": "絶望をさ 乗り越えれば"
+    },
+    {
+      "frameId": "l031",
+      "mode": "full",
+      "qrcStartMs": 119842,
+      "qrcText": "この世界で きみと"
+    },
+    {
+      "frameId": "l032",
+      "mode": "full",
+      "qrcStartMs": 122250,
+      "qrcText": "ハッピーエンドで"
+    },
+    {
+      "frameId": "l033",
+      "mode": "full",
+      "qrcStartMs": 123856,
+      "qrcText": "終われたんだよ なあ"
+    },
+    {
+      "frameId": "l034",
+      "mode": "full",
+      "qrcStartMs": 126063,
+      "qrcText": "きみにあげるはずのこれから先"
+    },
+    {
+      "frameId": "l035",
+      "mode": "full",
+      "qrcStartMs": 129940,
+      "qrcText": "何十年分の"
+    },
+    {
+      "frameId": "l036",
+      "mode": "full",
+      "qrcStartMs": 132035,
+      "qrcText": "「おかえり」「いってきます」「おはよう」"
+    },
+    {
+      "frameId": "l037",
+      "mode": "full",
+      "qrcStartMs": 134577,
+      "qrcText": "「おやすみ」「ありがとう」「ごめんね」"
+    },
+    {
+      "frameId": "l038",
+      "mode": "full",
+      "qrcStartMs": 136994,
+      "qrcText": "「大好きだよ」 たちは"
+    },
+    {
+      "frameId": "l039",
+      "mode": "full",
+      "qrcStartMs": 140079,
+      "qrcText": "誰に使えばいいの ねえ"
+    },
+    {
+      "frameId": "l040",
+      "mode": "full",
+      "qrcStartMs": 143921,
+      "qrcText": "明日 きみがいないのなら"
+    },
+    {
+      "frameId": "l041",
+      "mode": "full",
+      "qrcStartMs": 147125,
+      "qrcText": "きみがくれた「大丈夫」も"
+    },
+    {
+      "frameId": "l042",
+      "mode": "full",
+      "qrcStartMs": 150195,
+      "qrcText": "きみがくれた生きる意味も"
+    },
+    {
+      "frameId": "l043",
+      "mode": "full",
+      "qrcStartMs": 153153,
+      "qrcText": "誰に貰ったらいいんだよ"
+    },
+    {
+      "frameId": "l044",
+      "mode": "full",
+      "qrcStartMs": 162829,
+      "qrcText": "会いたい きみに会いたい"
+    },
+    {
+      "frameId": "l045",
+      "mode": "full",
+      "qrcStartMs": 181619,
+      "qrcText": "ねえ どうして神様はさ"
+    },
+    {
+      "frameId": "l046",
+      "mode": "full",
+      "qrcStartMs": 184817,
+      "qrcText": "出会いと一緒にサヨナラを"
+    },
+    {
+      "frameId": "l047",
+      "mode": "full",
+      "qrcStartMs": 188326,
+      "qrcText": "きつくリボンで結びつけて"
+    },
+    {
+      "frameId": "l048",
+      "mode": "full",
+      "qrcStartMs": 191999,
+      "qrcText": "プレゼントしたの?"
+    },
+    {
+      "frameId": "l049",
+      "mode": "full",
+      "qrcStartMs": 200043,
+      "qrcText": "明日 朝目が覚めたら"
+    },
+    {
+      "frameId": "l050",
+      "mode": "full",
+      "qrcStartMs": 202958,
+      "qrcText": "「おはよう」って きみに言えること"
+    },
+    {
+      "frameId": "l051",
+      "mode": "full",
+      "qrcStartMs": 206136,
+      "qrcText": "「ただいま」って言ったらさ"
+    },
+    {
+      "frameId": "l052",
+      "mode": "full",
+      "qrcStartMs": 209204,
+      "qrcText": "「おかえり」が待ってること"
+    },
+    {
+      "frameId": "l053",
+      "mode": "full",
+      "qrcStartMs": 212512,
+      "qrcText": "分かり合えず喧嘩すること"
+    },
+    {
+      "frameId": "l054",
+      "mode": "full",
+      "qrcStartMs": 215395,
+      "qrcText": "「ごめんね」って謝れること"
+    },
+    {
+      "frameId": "l055",
+      "mode": "full",
+      "qrcStartMs": 218738,
+      "qrcText": "そのどれもが奇跡だったよって"
+    },
+    {
+      "frameId": "l056",
+      "mode": "full",
+      "qrcStartMs": 221896,
+      "qrcText": "思える きみと出会えた"
+    },
+    {
+      "frameId": "l057",
+      "mode": "full",
+      "qrcStartMs": 224999,
+      "qrcText": "僕は 僕は きみが大好きでした"
+    },
+    {
+      "frameId": "l058",
+      "mode": "full",
+      "qrcStartMs": 231264,
+      "qrcText": "明日 きみと生きれるなら"
+    },
+    {
+      "frameId": "l059",
+      "mode": "full",
+      "qrcStartMs": 234375,
+      "qrcText": "毎日記念日にして祝おう"
+    },
+    {
+      "frameId": "l060",
+      "mode": "full",
+      "qrcStartMs": 237528,
+      "qrcText": "あたりまえにある奇跡を"
+    },
+    {
+      "frameId": "l061",
+      "mode": "full",
+      "qrcStartMs": 240518,
+      "qrcText": "決して忘れはしないように"
+    },
+    {
+      "frameId": "l062",
+      "mode": "full",
+      "qrcStartMs": 243713,
+      "qrcText": "明日 きみと生きれるなら"
+    },
+    {
+      "frameId": "l063",
+      "mode": "full",
+      "qrcStartMs": 246826,
+      "qrcText": "明日 きみと話せるなら"
+    },
+    {
+      "frameId": "l064",
+      "mode": "full",
+      "qrcStartMs": 249889,
+      "qrcText": "明日 きみと笑えるならって"
+    },
+    {
+      "frameId": "l065",
+      "mode": "full",
+      "qrcStartMs": 252968,
+      "qrcText": "思える きみと出会えた"
+    },
+    {
+      "frameId": "l066",
+      "mode": "full",
+      "qrcStartMs": 256239,
+      "qrcText": "僕は 僕は きっと 幸せものだ"
+    },
+    {
+      "frameId": "l067",
+      "mode": "full",
+      "qrcStartMs": 262308,
+      "qrcText": "僕は 僕は 幸せものだ"
+    }
+  ],
+  "summary": {
+    "full": 67,
+    "unmatched": 0
+  }
+}

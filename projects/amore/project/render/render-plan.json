@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "runId": "20260822-r03-background-onset-aligned",
+  "clock": "audio",
+  "canvas": { "width": 1920, "height": 1080, "fps": 30, "cfr": true },
+  "durationMs": 279156,
+  "background": { "mode": "video-loop", "asset": "source/background.mp4", "fit": "height-center-pillarbox", "sourceAudio": "mute" },
+  "foreground": { "source": "project/frames.json", "veil": "lyric-only-black-0.28", "gapBehavior": "lyric-only", "outline": "black-external", "cardsAlpha": 0.5 },
+  "overlay": { "id": "spectrum-foobar-bars", "persistent": true, "format": "transparent-rgba-qtrle", "bars": 72, "bandScale": "log", "rangeHz": [35, 12000], "analysisSampleRateHz": 44100, "fftSize": 4096, "displayDbfs": [-58, -12], "autoGain": "track-92nd-percentile", "attackMs": 55, "releaseMs": 300, "peakHoldMs": 180, "peakFallMs": 650, "fps": 30 },
+  "audio": { "asset": "source/music.flac", "codec": "copy", "container": "mkv", "startOffsetMs": 3183, "offsetMethod": "container timestamp", "sourceVideoAudio": "mute" },
+  "foregroundOffsetMs": 3183,
+  "candidate": "project/work/20260822-r03-background-onset-aligned/amore--16x9--20260822-r03-background-onset-aligned.mkv",
+  "authorization": "project/render-authorization.json"
+}

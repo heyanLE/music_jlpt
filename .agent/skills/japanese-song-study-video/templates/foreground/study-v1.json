@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "study-v1",
+  "owns": "foreground-only",
+  "canvas": { "referenceWidth": 1920, "referenceHeight": 1080, "fps": 30 },
+  "font": { "role": "cjk-bold", "weight": 700, "fallback": ["Noto Sans CJK", "Microsoft YaHei"] },
+  "colors": { "body": "palette.body", "active": "palette.activeTint", "cardFill": "palette.cardFill", "cardOutline": "palette.activeTint" },
+  "veil": { "color": "#000000", "opacity": 0.28, "zIndex": "below-foreground" },
+  "cover": { "anchor": "top-center", "rect": [0.443, 0.032, 0.115, 0.204], "fit": "cover" },
+  "lyric": {
+    "layout": "inline-source-order",
+    "maxWidth": 0.90,
+    "overflow": "shrink-then-wrap",
+    "minimumFontScale": 0.76,
+    "furigana": { "kanjiOnly": true, "align": "left-to-kanji-run", "fontSize": 28, "top": 0.273 },
+    "japanese": { "fontSize": 70, "baseline": 0.370 },
+    "english": { "fontSize": 42, "baseline": 0.370, "furigana": false, "romaji": false },
+    "romaji": { "japaneseOnly": true, "fontSize": 34, "top": 0.398 },
+    "translation": { "anchor": "center", "fontSize": 45, "top": 0.463, "maxLines": 2 },
+    "highlight": { "source": "qrc", "targets": ["japanese", "furigana", "romaji", "english"], "cards": false }
+  },
+  "cards": {
+    "rect": [0.049, 0.556, 0.902, 0.231],
+    "gapPx": 12,
+    "radiusPx": 20,
+    "fields": ["token", "zhMeaning-or-functionZh", "posZh"],
+    "fieldLayout": {
+      "token": { "top": 0.10, "fontSize": 37, "maxLines": 1 },
+      "meaning": { "top": 0.40, "fontSize": 26, "maxLines": 2 },
+      "pos": { "top": 0.74, "fontSize": 25, "maxLines": 1 },
+      "horizontalAlign": "center",
+      "verticalFlow": "independent-fields"
+    },
+    "meaningMaxLines": 2,
+    "overflow": "wrap-or-fail",
+    "activeHighlight": false
+  }
+}

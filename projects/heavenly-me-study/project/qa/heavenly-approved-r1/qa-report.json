@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 2,
+  "result": "passed",
+  "candidate": "project/work/heavenly-approved-r1/16x9/heavenly-me-study--16x9--heavenly-approved-r1.mkv",
+  "candidateSha256": "741c50ff85506445dd45793d2cdfab3144e4db1d0eccbd0936f673ad945307e0",
+  "renderReport": "project/work/heavenly-approved-r1/16x9/render-report.json",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "pix_fmt": "yuv420p",
+        "r_frame_rate": "30/1",
+        "bits_per_raw_sample": "8"
+      },
+      {
+        "codec_name": "flac",
+        "codec_type": "audio",
+        "sample_rate": "48000",
+        "r_frame_rate": "0/0",
+        "bits_per_raw_sample": "24"
+      }
+    ],
+    "format": {
+      "duration": "191.333000"
+    }
+  },
+  "screenshots": [
+    {
+      "name": "first-lyric",
+      "timestampMs": 845,
+      "path": "project/qa/heavenly-approved-r1/first-lyric.png"
+    },
+    {
+      "name": "last-lyric",
+      "timestampMs": 185425,
+      "path": "project/qa/heavenly-approved-r1/last-lyric.png"
+    },
+    {
+      "name": "maximum-cards",
+      "timestampMs": 7666,
+      "path": "project/qa/heavenly-approved-r1/maximum-cards.png"
+    },
+    {
+      "name": "loanword",
+      "timestampMs": 71882,
+      "path": "project/qa/heavenly-approved-r1/loanword.png"
+    },
+    {
+      "name": "follow-gap",
+      "timestampMs": 51672,
+      "path": "project/qa/heavenly-approved-r1/follow-gap.png"
+    },
+    {
+      "name": "persistent-gap",
+      "timestampMs": 51172,
+      "path": "project/qa/heavenly-approved-r1/persistent-gap.png"
+    },
+    {
+      "name": "pre-lyric",
+      "timestampMs": 300,
+      "path": "project/qa/heavenly-approved-r1/pre-lyric.png"
+    },
+    {
+      "name": "compound-furigana",
+      "timestampMs": 22050,
+      "path": "project/qa/heavenly-approved-r1/compound-furigana.png"
+    },
+    {
+      "name": "mixed-kanji-kana",
+      "timestampMs": 68900,
+      "path": "project/qa/heavenly-approved-r1/mixed-kanji-kana.png"
+    },
+    {
+      "name": "post-final-tail",
+      "timestampMs": 188700,
+      "path": "project/qa/heavenly-approved-r1/post-final-tail.png"
+    }
+  ],
+  "requiredVisualChecks": [
+    "three-layer order",
+    "background fit and transitions",
+    "foreground gap mode",
+    "annotation anchors",
+    "English timing",
+    "one-row cards and two-line meaning",
+    "transparent persistent spectrum",
+    "final line"
+  ],
+  "visualFindings": [
+    "Layer order is background, foreground veil/content, then disabled floating overlay; no opaque overlay canvas is present.",
+    "Background fills the 1920x1080 canvas without unintended crop or pillarbox artifacts; the 193.867-second source exceeds the 191.333-second output, so no loop seam occurs.",
+    "Follow-lyrics mode is correct: there is no learning foreground before l001, internal states remain stable, the 500 ms tail is visible after l018, and the foreground is hidden after l044 tail protection expires.",
+    "Reviewed explicit furigana anchors are correct for mixed kanji-kana compounds, including 飛び立つ, 撃ち放て and 撃ち抜いて; literal kana is not duplicated.",
+    "Loanword source apple pie is centered above アップルパイ and follows the active token color.",
+    "Romaji shares each token anchor and follows token highlighting; particles use the approved pronunciation spelling wa/e/o.",
+    "Maximum seven-card layout remains one horizontal row; token and grammar structure remain one line, while long meanings wrap to at most two lines without clipping.",
+    "No pure-English lyric rows exist in this project, so English-row timing is not applicable.",
+    "Spectrum is disabled by presentation and is absent from the candidate, as required.",
+    "First and final lyric states are complete and readable; the final line clears correctly before output end.",
+    "ffprobe confirms H.264 1920x1080 video at 30/1 fps and one 48 kHz 24-bit FLAC audio stream in MKV."
+  ]
+}

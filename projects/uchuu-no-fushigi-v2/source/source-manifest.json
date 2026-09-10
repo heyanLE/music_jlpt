@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "frozenAt": "2026-08-16",
+  "assets": [
+    {
+      "role": "music",
+      "source": "C:/Users/eke_l/Music/夢限大みゅーたいぷ - うちゅうのふしぎ (Wonder of the Universe).flac",
+      "copy": "music.flac",
+      "sha256": "95f895444451733bb8a0b73e8d47a621a0c882d1a7ee4e8d4aa4d4577f9270b3"
+    },
+    {
+      "role": "background",
+      "source": "C:/Users/eke_l/Desktop/TV动画_ED影像公开「バンドリ!_ゆめ∞みた(BanG_Dream!_YUME∞MITA)」.39577256487.mp4",
+      "copy": "background.mp4",
+      "sha256": "6688fbb6956de837a81b1799f644192f29311377e9375beb26748a1d33681e9d"
+    },
+    {
+      "role": "qm",
+      "source": "C:/Users/eke_l/AppData/Roaming/Tencent/QQMusic/QQMusicCache/QQMusicLyricNew/夢限大みゅーたいぷ - うちゅうのふしぎ (Wonder of the Universe) - 138 - うちゅうのふしぎ (Wonder of the Universe)_qm.qrc",
+      "copy": "lyrics.qm.qrc",
+      "sha256": "47a7cacb5e18092fb07ae5d450ba74b0be403b1998c6215885f8945275acdd37"
+    },
+    {
+      "role": "qmRoma",
+      "source": "C:/Users/eke_l/AppData/Roaming/Tencent/QQMusic/QQMusicCache/QQMusicLyricNew/夢限大みゅーたいぷ - うちゅうのふしぎ (Wonder of the Universe) - 138 - うちゅうのふしぎ (Wonder of the Universe)_qmRoma.qrc",
+      "copy": "lyrics.qmRoma.qrc",
+      "sha256": "8749b417f303929a6177bb4c91588e46a6e12d88c863230aff4ea58866f36cbd"
+    },
+    {
+      "role": "qmts",
+      "source": "C:/Users/eke_l/AppData/Roaming/Tencent/QQMusic/QQMusicCache/QQMusicLyricNew/夢限大みゅーたいぷ - うちゅうのふしぎ (Wonder of the Universe) - 138 - うちゅうのふしぎ (Wonder of the Universe)_qmts.qrc",
+      "copy": "lyrics.qmts.qrc",
+      "sha256": "83f67569c15c30ff3b857d37d3003e04e3dc24b931bf0dea5be1872889ba30db"
+    },
+    {
+      "role": "cover",
+      "source": "embedded artwork in music.flac",
+      "copy": "cover.jpg",
+      "sha256": "a6759f442f88beb08d8f418f4e8ad8b06ef289658b4ac9daef76e7e63b09d3f5"
+    }
+  ]
+}

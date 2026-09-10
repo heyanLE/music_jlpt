@@ -1,0 +1,243 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "integration",
+  "status": "completed",
+  "scope": {
+    "frameIds": [
+      "l006",
+      "l007",
+      "l008",
+      "l009",
+      "l010",
+      "l011",
+      "l012",
+      "l013",
+      "l014",
+      "l015",
+      "l016",
+      "l017",
+      "l018",
+      "l019",
+      "l020",
+      "l021",
+      "l022",
+      "l023",
+      "l024",
+      "l025",
+      "l026",
+      "l027",
+      "l028",
+      "l029",
+      "l030",
+      "l031",
+      "l032",
+      "l033",
+      "l034",
+      "l035",
+      "l036",
+      "l037",
+      "l038",
+      "l039",
+      "l040",
+      "l041",
+      "l042",
+      "l043",
+      "l044",
+      "l045",
+      "l046"
+    ]
+  },
+  "baseFrameSha256": "d512f08f77f118d91b5f235d1d6d260edade12cc8c3e323b21fce19d29aab109",
+  "sourceProposalFiles": [
+    {
+      "reviewRole": "lexical",
+      "path": "project/proposals/correction-lexical.json",
+      "sha256": "d4f31e46f293086e6e6e8ded42abd95eacb5b1094bfbd898f0479e1bbb509763",
+      "changeCount": 20
+    },
+    {
+      "reviewRole": "grammar",
+      "path": "project/proposals/correction-grammar.json",
+      "sha256": "578c8b21d7936c7a5380efd1623a4cad1f8a22f1097e396373f3979d4319d85f",
+      "changeCount": 61
+    },
+    {
+      "reviewRole": "translation",
+      "path": "project/proposals/correction-translation.json",
+      "sha256": "8bcd38843741d7b1bd00156a553ae94a2252d31d82370954ca504afd3a2f2684",
+      "changeCount": 19
+    }
+  ],
+  "validation": {
+    "allProposalBaseHashesMatch": true,
+    "baseHashMatchesCurrentFrames": true,
+    "allOldValuesMatchBaseFrames": true,
+    "framesEditedByIntegration": false,
+    "protectedFieldPolicy": "这些修正触及 human-confirmed 字段；本报告仅给出推荐，不得在没有用户明确内容决定时合并。"
+  },
+  "conflicts": [
+    {
+      "id": "C001",
+      "frameId": "l037",
+      "field": "grammarCards",
+      "type": "direct-whole-array-conflict",
+      "lexicalProposal": "两卡：想像の中じゃ／足りないくらいに",
+      "grammarProposal": "三卡：想像の中じゃ／足りない／くらいに",
+      "resolution": "采用两卡边界，并吸收 grammar 提案的结构说明。足りないくらいに整体表达程度范围，合并后语义完整且更适合单行词卡。",
+      "recommendedChangeRef": "R001"
+    },
+    {
+      "id": "C002",
+      "frameId": "l009",
+      "field": "grammarCards[1]",
+      "type": "whole-card-versus-field-overlap",
+      "resolution": "拒绝 translation 的整卡替换，采用 grammar 的 zhMeaning=null 与 functionZh 字段级修正，避免覆盖卡片其他字段。"
+    },
+    {
+      "id": "C003",
+      "frameId": "l024",
+      "field": "grammarCards[5]",
+      "type": "whole-card-versus-field-overlap",
+      "resolution": "拒绝 translation 的整卡替换，采用 grammar 的 zhMeaning=null 与更完整的 functionZh。"
+    },
+    {
+      "id": "C004",
+      "frameId": "l028",
+      "field": "grammarCards[3]",
+      "type": "whole-card-versus-field-overlap",
+      "resolution": "拒绝 translation 的整卡替换，采用 grammar 的结构、zhMeaning=null 与 functionZh；保持纯助词组合只存功能。"
+    },
+    {
+      "id": "C005",
+      "frameId": "l035",
+      "field": "grammarCards[2]",
+      "type": "whole-card-versus-field-overlap",
+      "resolution": "拒绝 translation 的整卡替换，采用 grammar 的引用助词结构、zhMeaning=null 与语境功能，去掉冒号标签。"
+    }
+  ],
+  "recommendedProposalSet": {
+    "selectors": [
+      {
+        "sourceProposalFile": "project/proposals/correction-lexical.json",
+        "accept": "allExcept",
+        "excludedFields": [
+          "l037:grammarCards"
+        ]
+      },
+      {
+        "sourceProposalFile": "project/proposals/correction-grammar.json",
+        "accept": "allExcept",
+        "excludedFields": [
+          "l011:grammarCards[0].grammarStructureZh",
+          "l011:grammarCards[0].posZh",
+          "l011:grammarCards[1].grammarStructureZh",
+          "l011:grammarCards[1].posZh",
+          "l037:grammarCards"
+        ]
+      },
+      {
+        "sourceProposalFile": "project/proposals/correction-translation.json",
+        "accept": "allExcept",
+        "excludedFields": [
+          "l009:grammarCards[1]",
+          "l024:grammarCards[5]",
+          "l028:grammarCards[3]",
+          "l035:grammarCards[2]"
+        ]
+      }
+    ],
+    "resolvedChanges": [
+      {
+        "id": "R001",
+        "frameId": "l037",
+        "field": "grammarCards",
+        "changesTokenStructure": true,
+        "new": [
+          {
+            "token": "想像の中じゃ",
+            "reading": "そうぞうのなかじゃ",
+            "romaji": "souzou no naka ja",
+            "posZh": "名词＋では→じゃ（范围提示）",
+            "grammarStructureZh": "名词＋では→じゃ（范围提示）",
+            "render": true,
+            "showJlpt": false,
+            "reviewRequired": false,
+            "zhMeaning": "在想象之中；仅凭想象",
+            "status": "assisted-proposal"
+          },
+          {
+            "token": "足りないくらいに",
+            "reading": "たりないくらいに",
+            "romaji": "tari nai kurai ni",
+            "posZh": "动词否定形＋くらいに（程度）",
+            "grammarStructureZh": "动词否定形＋くらいに（程度）",
+            "render": true,
+            "showJlpt": false,
+            "reviewRequired": false,
+            "zhMeaning": "到了仍觉不够的程度",
+            "status": "assisted-proposal"
+          }
+        ],
+        "confidence": 1.0,
+        "evidence": [
+          "じゃ属于前面的名词短语，是では的口语缩约，不能与足り拼成じゃ足り。",
+          "足りないくらいに构成连续的程度表达；两卡布局比三卡更完整、紧凑。"
+        ]
+      }
+    ],
+    "integrationAddedRecommendations": [
+      {
+        "frameId": "l011",
+        "fields": [
+          "grammarCards[0].grammarStructureZh",
+          "grammarCards[0].posZh",
+          "grammarCards[1].grammarStructureZh",
+          "grammarCards[1].posZh"
+        ],
+        "old": "不定代词",
+        "new": "连语＋否定呼应（「一人」熟字训）",
+        "confidence": 1.0,
+        "evidence": [
+          "誰一人读作だれひとり并与否定呼应；熟字训发生在一人=ひとり。",
+          "该说明与 lexical 对两处 reading/romaji 的修正一致。"
+        ]
+      },
+      {
+        "frameId": "l017",
+        "fields": [
+          "grammarCards[0].grammarStructureZh",
+          "grammarCards[0].posZh"
+        ],
+        "old": "名词＋提示助词",
+        "new": "名词（熟字训）＋提示助词",
+        "confidence": 1.0,
+        "evidence": [
+          "今日在今日も中读作きょう，应按既有规则在词卡结构中明确熟字训。"
+        ]
+      }
+    ]
+  },
+  "particleFieldAudit": {
+    "resultAfterRecommendedMerge": "passed",
+    "pureParticleCardsUsingFunctionZhOnly": [
+      "l006:grammarCards[1]",
+      "l007:grammarCards[2]",
+      "l009:grammarCards[1]",
+      "l024:grammarCards[5]",
+      "l027:grammarCards[2]",
+      "l028:grammarCards[3]",
+      "l035:grammarCards[2]",
+      "l042:grammarCards[1]",
+      "l042:grammarCards[3]"
+    ],
+    "note": "名词＋助词等复合卡仍可使用 zhMeaning；纯助词卡必须且只保留 functionZh。"
+  },
+  "keyFindings": [
+    "l011 两处 誰一人 的词卡读音应由 だれいちにん / dare ichi nin 改为 だれひとり / dare hitori；caption 原本已正确。",
+    "l014 大逸れて 的 caption 注音应为 大逸=だいそ、整句罗马音 daisorete；词卡 reading 原本已是 だいそれて。",
+    "l037 当前 じゃ足り 的边界错误，推荐改成两卡并保留程度结构。",
+    "l017 今日も 应补充 今日=きょう 的熟字训说明。",
+    "四张纯助词卡当前误用 zhMeaning；按推荐字段级合并后将统一为 functionZh。"
+  ],
+  "userReviewSummary": "三份提案都基于当前同一版 frames，old 值全部可复现。建议采纳全部非冲突修正；l037 采用两卡混合方案；l011 明确「一人」熟字训，l017 补充「今日」熟字训；助词冲突统一按字段级修正，避免整卡覆盖。"
+}

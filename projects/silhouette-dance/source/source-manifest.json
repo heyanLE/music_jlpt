@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "slug": "silhouette-dance",
+  "frozenAt": "2026-08-19",
+  "assets": [
+    {
+      "role": "backgroundVideo",
+      "frozen": "background-mv.mp4",
+      "original": "C:\\Users\\eke_l\\Desktop\\【Official_Music_Video】影色舞(Silhouette_Dance)___MyGO!!!!!【原创歌曲】.899316360.mp4",
+      "sha256": "6f1ecca7552fdd34fe6d466dcf788bfb8feddf2dd87c42d1b0f48ac3618a616f",
+      "bytes": 76922664
+    },
+    {
+      "role": "music",
+      "frozen": "music.flac",
+      "original": "C:\\Users\\eke_l\\AppData\\Local\\Temp\\BNZ.6a84850dd0fe337\\01.影色舞.flac",
+      "sha256": "960a14fe785f93128b48a4322c257d664dc44a640697e49959bdeed9532715b6",
+      "bytes": 90017679
+    },
+    {
+      "role": "cover",
+      "frozen": "cover.jpg",
+      "derivedFrom": "music.flac embedded artwork",
+      "sha256": "d01d9adb3e96ebca335d801cb3034f8b4ce52e50db4c716fd46ff78dd43257ce",
+      "bytes": 327861
+    },
+    {
+      "role": "lyricsQm",
+      "frozen": "lyrics_qm.qrc",
+      "original": "C:\\Users\\eke_l\\AppData\\Roaming\\Tencent\\QQMusic\\QQMusicCache\\QQMusicLyricNew\\MyGO!!!!! - 影色舞 - 209 - 影色舞_qm.qrc",
+      "sha256": "67fb53b0f31c3c2eeeaf8934e24f9d5aef769d42f0ce6056ef6a6a444f218fee",
+      "bytes": 5059
+    },
+    {
+      "role": "lyricsQmRoma",
+      "frozen": "lyrics_qmRoma.qrc",
+      "original": "C:\\Users\\eke_l\\AppData\\Roaming\\Tencent\\QQMusic\\QQMusicCache\\QQMusicLyricNew\\MyGO!!!!! - 影色舞 - 209 - 影色舞_qmRoma.qrc",
+      "sha256": "05c497d3775c25298bfd135cb2932c0e4fd6e0b2e8b14be45e80a5f6e874e4e9",
+      "bytes": 4635
+    },
+    {
+      "role": "lyricsQmts",
+      "frozen": "lyrics_qmts.qrc",
+      "original": "C:\\Users\\eke_l\\AppData\\Roaming\\Tencent\\QQMusic\\QQMusicCache\\QQMusicLyricNew\\MyGO!!!!! - 影色舞 - 209 - 影色舞_qmts.qrc",
+      "sha256": "54dc91a6335ff4c886c3347e16141a811f17fa8f40ac3d960332fc20109d51b6",
+      "bytes": 1763
+    }
+  ]
+}

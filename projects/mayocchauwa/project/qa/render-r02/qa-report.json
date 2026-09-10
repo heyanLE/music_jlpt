@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "runId": "20260821-r02-line-hold",
+  "result": "passed",
+  "candidateOutput": "project/work/20260821-r02-line-hold/mayocchauwa--16x9--20260821-r02-line-hold.mkv",
+  "video": { "codec": "h264", "width": 1920, "height": 1080, "fps": 30, "cfr": true, "durationSeconds": 218.533 },
+  "audio": { "codec": "flac", "sampleRate": 48000, "bitsPerSample": 24, "channels": 2, "reencoded": false, "ffmpegCodec": "copy" },
+  "timing": {
+    "preRollMs": 180,
+    "postRollMs": 420,
+    "betweenQrcParts": "complete line remains visible without an active highlight",
+    "nextLinePolicy": "post-roll clips at the following line pre-roll; no lyric overlap"
+  },
+  "checks": {
+    "projectValidation": "PASS render",
+    "qrcFullMatches": 63,
+    "qrcUnmatched": 0,
+    "breathGapFrameVerified": "18.869 s",
+    "foregroundGapPolicy": "lyric-only outside retained line window",
+    "background": "looped MV; source audio is not mapped",
+    "cardFillAlpha": 0.5,
+    "englishPolicy": "inline source text only; no furigana, romaji, or grammar cards"
+  },
+  "screenshots": [
+    "project/qa/render-r02/breath-gap-line-held.png",
+    "project/qa/render-r02/no-lyric-gap.png",
+    "project/qa/render-r02/mixed-japanese-english.png"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "status": "ready-for-authorized-render",
+  "basePreset": "video-then-gaussian-hybrid",
+  "implementation": "Project custom renderer trims source video at 16 s, composes output-clock program audio without delay, foreground at music+20.877 s, persistent transparent spectrum from the same output-clock program; shared token anchors.",
+  "durationMs": 249837,
+  "background": {
+    "timeline": "project/scene-timeline.json",
+    "sourceTrimMs": 16000,
+    "gaussianStartsAtMs": 126740,
+    "loopVideo": false,
+    "transitions": "500 ms out and 500 ms in, background only"
+  },
+  "audio": {
+    "asset": "project/work/audio/program-lossless.flac",
+    "clock": "output",
+    "additionalDelayMs": 0,
+    "codec": "copy",
+    "container": "mkv",
+    "originalDialogueOutputRangeMs": [
+      0,
+      20877
+    ],
+    "masterPcmBitExactReport": "project/qa/audio-preservation.json"
+  },
+  "lyrics": {
+    "asset": "project/frames.json",
+    "clock": "music",
+    "offsetMs": 20877,
+    "firstSungLineOutputMs": 36050
+  },
+  "spectrum": {
+    "template": "spectrum-foobar-bars",
+    "enabled": true,
+    "persistent": true,
+    "position": "video-bottom",
+    "analysisAsset": "project/work/audio/program-lossless.flac",
+    "analysisClock": "output",
+    "analysisOffsetMs": 0,
+    "transparent": true
+  },
+  "foreground": {
+    "settings": "project/presentation.json",
+    "neighbors": "static-left-and-right-original-line-switch",
+    "countdownOutputRangeMs": [
+      33050,
+      36050
+    ],
+    "prelude": "first-line",
+    "gaussianMode": "persistent",
+    "template": "project/templates/foreground.json"
+  },
+  "gates": [
+    "User acceptance of linguistic proposals",
+    "Rebuild anchors after accepted regrouping",
+    "Authorized render bound to actual renderer and all dependencies",
+    "Check source trim / replacement cut / first lyric / countdown / video-to-Gaussian transition / late TV-short divergence",
+    "Verify output PCM and continuous packet timestamps"
+  ],
+  "warning": "Preserve master silence. Combined audio already includes 20.877 s original intro; never add the lyric offset again to this program.",
+  "runId": "render-r1",
+  "entryPoint": "project/render/render_custom.py",
+  "candidate": "project/work/render-r1/guitar-loneliness-blue-planet--16x9--render-r1.mkv",
+  "canvases": [
+    {
+      "name": "16x9",
+      "width": 1920,
+      "height": 1080,
+      "fps": 30
+    }
+  ]
+}

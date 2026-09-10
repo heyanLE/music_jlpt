@@ -1,0 +1,56 @@
+{
+  "algorithm": "normalized-log-spectral-multiple-windows",
+  "hopMs": 64.0,
+  "windowMs": 8000,
+  "matches": [
+    {
+      "musicMs": 0,
+      "videoMs": 64,
+      "offsetMs": 64,
+      "cosineScore": 0.89509
+    },
+    {
+      "musicMs": 8000,
+      "videoMs": 8064,
+      "offsetMs": 64,
+      "cosineScore": 0.88964
+    },
+    {
+      "musicMs": 16000,
+      "videoMs": 16064,
+      "offsetMs": 64,
+      "cosineScore": 0.91313
+    },
+    {
+      "musicMs": 30016,
+      "videoMs": 30080,
+      "offsetMs": 64,
+      "cosineScore": 0.92169
+    },
+    {
+      "musicMs": 46016,
+      "videoMs": 46080,
+      "offsetMs": 64,
+      "cosineScore": 0.919
+    },
+    {
+      "musicMs": 62016,
+      "videoMs": 62080,
+      "offsetMs": 64,
+      "cosineScore": 0.90804
+    },
+    {
+      "musicMs": 76032,
+      "videoMs": 76096,
+      "offsetMs": 64,
+      "cosineScore": 0.73885
+    },
+    {
+      "musicMs": 84992,
+      "videoMs": 13696,
+      "offsetMs": -71296,
+      "cosineScore": 0.74498
+    }
+  ],
+  "applied": false
+}

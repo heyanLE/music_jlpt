@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "algorithm": "saturated-cover-pixel-hsv-v1",
+  "cover": "C:\\project\\musicjlpt\\projects\\guitar-loneliness-blue-planet\\source\\cover.jpg",
+  "accent": "#F070A0",
+  "activeTint": "#FF478C",
+  "body": "#863F5A",
+  "cardFill": {
+    "color": "#F070A0",
+    "alpha": 0.75
+  }
+}

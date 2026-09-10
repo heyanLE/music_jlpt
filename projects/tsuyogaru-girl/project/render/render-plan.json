@@ -1,0 +1,73 @@
+{
+  "runId": "20260818-final-r08",
+  "canvas": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "audioClock": "music.flac",
+  "durationMs": 189467,
+  "foregroundVisibility": "lyric-only-before-gaussian-then-persistent",
+  "background": {
+    "schemaVersion": 1,
+    "id": "video-once-then-cover-gaussian",
+    "owns": "background-only",
+    "spectrumOverlay": {
+      "preset": "foobar2000-classic-segmented-bars",
+      "layer": "above-foreground",
+      "alwaysAnimate": true,
+      "style": "classic-segmented-bars-with-peak-hold",
+      "placement": {
+        "anchor": "bottom-edge",
+        "widthPx": 1500,
+        "heightPx": 58,
+        "yPx": 1012
+      },
+      "audioAnalysis": {
+        "windowSamples": 2048,
+        "overlap": 0.82,
+        "amplitudeScale": "adaptive-log",
+        "frequencyScale": "log",
+        "frameRate": 30,
+        "gain": 0.5,
+        "normalizer": 3.0,
+        "attack": 0.85,
+        "release": 0.38,
+        "peakDecay": 0.045
+      },
+      "alpha": 0.88,
+      "tint": "magic-activeTint",
+      "background": "transparent"
+    },
+    "audio": "mute-source-video",
+    "loop": "disabled",
+    "fit": "height-center-pillarbox",
+    "clock": "audio",
+    "transition": {
+      "type": "crossfade",
+      "durationMs": 800,
+      "startsMs": 90332,
+      "foregroundContinuous": true
+    },
+    "segments": [
+      {
+        "mode": "video",
+        "startMs": 0,
+        "endMs": 91132,
+        "audio": "mute",
+        "fit": "height-center-pillarbox"
+      },
+      {
+        "mode": "cover-gaussian",
+        "startMs": 91132,
+        "endMs": "audio-duration",
+        "coverFit": "fill-crop-allowed-background-only",
+        "blurRadius": 30,
+        "darkOverlayOpacity": 0.41
+      }
+    ]
+  },
+  "foregroundTemplateSha256": "658981d40a1703c9a60d9e0daa1499246469389fe95b444bc6687047aef42264",
+  "output": "C:\\project\\musicjlpt\\projects\\tsuyogaru-girl\\deliverables\\final\\tsuyogaru-girl--study-current-v2--16x9--20260818-final-r08.mp4",
+  "matching": "full frozen QM source-character mapping; fallback disables highlight"
+}

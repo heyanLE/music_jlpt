@@ -1,0 +1,15 @@
+{
+  "decoder": "reused deterministic QQ QRC decode for identical frozen QRC SHA256",
+  "counts": {
+    "qm": 72,
+    "roma": 71,
+    "translation": 74
+  },
+  "validation": "passed",
+  "wordTimingAvailable": true,
+  "sources": {
+    "lyrics.qm.qrc": "644a23575e396295d59f483fe7e41af7740a02455b7f67e206b19218887e443d",
+    "lyrics.qmRoma.qrc": "c56baa0a315d167b56ccbae3f7cb63a450e8c3b923fdda5330fa2eb5830535c7",
+    "lyrics.qmts.qrc": "04e5a767122ac3d518281e822aad76237896afd3f1c648b5ae7264abe9ee6742"
+  }
+}

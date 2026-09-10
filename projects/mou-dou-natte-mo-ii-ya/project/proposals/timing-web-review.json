@@ -1,0 +1,9 @@
+{
+  "scope": "timing-and-display", "status": "proposal-only", "source": "https://books.rakuten.co.jp/rb/18388239/",
+  "findings": [
+    {"frameId": "l001", "field": "classification", "proposed": "opening-credit-display-only", "confidence": "high", "reason": "title metadata, not sung lyric"},
+    {"frameId": "l002", "field": "classification", "proposed": "opening-credit-display-only", "confidence": "high", "reason": "lyricist credit, not sung lyric"},
+    {"frameId": "l003", "field": "classification", "proposed": "opening-credit-display-only", "confidence": "high", "reason": "composer credit, not sung lyric"},
+    {"frameId": "l075", "field": "timing", "proposed": "preserve; then 3057ms lyric-free outro", "confidence": "high", "reason": "QRC ends at 200.045s; MP3 runs 203.102s"}
+  ]
+}

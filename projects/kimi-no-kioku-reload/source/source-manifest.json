@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "role": "music",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\Desktop\\2.26 Memories of You -Reload-.mp3",
+      "frozenAsset": "source/music.mp3",
+      "bytes": 16079069,
+      "sha256": "2e6289f884be2b373ae8c9b21749b104961c4d7e587331db67bdb1a92a5bd268",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "mp3",
+            "codec_type": "audio",
+            "sample_rate": "44100"
+          },
+          {
+            "index": 1,
+            "codec_name": "mjpeg",
+            "codec_type": "video",
+            "width": 720,
+            "height": 720,
+            "bits_per_raw_sample": "8"
+          }
+        ],
+        "format": {
+          "format_name": "mp3",
+          "duration": "399.529625"
+        }
+      }
+    },
+    {
+      "role": "cover",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\Desktop\\2.26 Memories of You -Reload-.mp3",
+      "frozenAsset": "source/cover.jpg",
+      "bytes": 40614,
+      "sha256": "0052fc258e017ebbe5c30e518c1d962412650f217da3300f01b8ead62a914ea7",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "mjpeg",
+            "codec_type": "video",
+            "width": 720,
+            "height": 720,
+            "bits_per_raw_sample": "8"
+          }
+        ],
+        "format": {
+          "format_name": "image2",
+          "duration": "0.040000"
+        }
+      }
+    },
+    {
+      "role": "background",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\Desktop\\新建文件夹 (2)\\Makoto animated wallpaper.mp4",
+      "frozenAsset": "source/background.mp4",
+      "bytes": 26759522,
+      "sha256": "2a1f962c61301cdae8e19bf1196a3c15c80d39bbe2e8c0234b6ed85a00bc1f4b",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "bits_per_raw_sample": "8"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "48000"
+          }
+        ],
+        "format": {
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "duration": "20.000000"
+        }
+      }
+    },
+    {
+      "role": "qm",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\AppData\\Roaming\\Tencent\\QQMusic\\QQMusicCache\\QQMusicLyricNew\\高橋あず美_アトラスサウンドチーム_ATLUS GAME MUSIC - キミの記憶 -Reload- (你的记忆) - 399 - 「ペルソナ3 リロード」LIMITED BOX ORIGINAL SOUNDTRACK (女神异闻录3 Reload 数字豪华版游戏原声带)_qm.qrc",
+      "frozenAsset": "source/lyrics_qm.qrc",
+      "bytes": 7067,
+      "sha256": "79f0e50430974afe2c5f45efebc3ad2a2f9f42d3ab502c25df1923616b218b28",
+      "probe": {
+        "probeError": "[mp3 @ 000001f721c48a80] Failed to find two consecutive MPEG audio frames.\nC:\\project\\musicjlpt\\projects\\kimi-no-kioku-reload\\source\\lyrics_qm.qrc: Invalid data found when processing input"
+      }
+    },
+    {
+      "role": "qmRoma",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\AppData\\Roaming\\Tencent\\QQMusic\\QQMusicCache\\QQMusicLyricNew\\高橋あず美_アトラスサウンドチーム_ATLUS GAME MUSIC - キミの記憶 -Reload- (你的记忆) - 399 - 「ペルソナ3 リロード」LIMITED BOX ORIGINAL SOUNDTRACK (女神异闻录3 Reload 数字豪华版游戏原声带)_qmRoma.qrc",
+      "frozenAsset": "source/lyrics_qmRoma.qrc",
+      "bytes": 5851,
+      "sha256": "394b90af2ea7d31fdb6b8cdc2ef814676145d9b43d458db2073f9694ebf2dffd",
+      "probe": {
+        "probeError": "C:\\project\\musicjlpt\\projects\\kimi-no-kioku-reload\\source\\lyrics_qmRoma.qrc: Invalid data found when processing input"
+      }
+    },
+    {
+      "role": "qmts",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\AppData\\Roaming\\Tencent\\QQMusic\\QQMusicCache\\QQMusicLyricNew\\高橋あず美_アトラスサウンドチーム_ATLUS GAME MUSIC - キミの記憶 -Reload- (你的记忆) - 399 - 「ペルソナ3 リロード」LIMITED BOX ORIGINAL SOUNDTRACK (女神异闻录3 Reload 数字豪华版游戏原声带)_qmts.qrc",
+      "frozenAsset": "source/lyrics_qmts.qrc",
+      "bytes": 1859,
+      "sha256": "fb8eade1b5803791c6ea0de1073c63f3c8eec43dbdc7e8ce310306356dfd0543",
+      "probe": {
+        "probeError": "C:\\project\\musicjlpt\\projects\\kimi-no-kioku-reload\\source\\lyrics_qmts.qrc: Invalid data found when processing input"
+      }
+    },
+    {
+      "role": "background-02-kotone",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\Desktop\\新建文件夹 (2)\\Kotone animated wallpaper.mp4",
+      "frozenAsset": "source/background-02-kotone.mp4",
+      "bytes": 25349928,
+      "sha256": "b29ec523f0c3c3ae329812280318b83fc986c29135d9ef759a37ec9c53d2041b",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 3840,
+            "height": 2160,
+            "r_frame_rate": "60/1"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "duration": "20.000000"
+        }
+      }
+    },
+    {
+      "role": "background-03-yukari",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\Desktop\\新建文件夹 (2)\\Yukari animated wallpaper.mp4",
+      "frozenAsset": "source/background-03-yukari.mp4",
+      "bytes": 26904200,
+      "sha256": "03a945b056885efb03ccd332403089aaf0df9071ec52b36f937421d5103d8229",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "60/1"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "duration": "20.000000"
+        }
+      }
+    },
+    {
+      "role": "background-04-mitsuru",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\Desktop\\新建文件夹 (2)\\Mitsuru animated wallpaper.mp4",
+      "frozenAsset": "source/background-04-mitsuru.mp4",
+      "bytes": 27486149,
+      "sha256": "9360f27fbe517916bce90dfca95b1ae042f2a85fb9dfa214781cbccef12c7d0c",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "60/1"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "duration": "20.000000"
+        }
+      }
+    },
+    {
+      "role": "background-05-fuuka",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\Desktop\\新建文件夹 (2)\\Fuuka animated wallpaper.mp4",
+      "frozenAsset": "source/background-05-fuuka.mp4",
+      "bytes": 37299717,
+      "sha256": "2ef98a5aa3eca06e0cfa99d9ce17e53d2bf11488b6807f4bba06ab1df042ffee",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "60/1"
+          }
+        ],
+        "format": {
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "duration": "20.000000"
+        }
+      }
+    }
+  ]
+}

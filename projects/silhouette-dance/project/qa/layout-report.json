@@ -1,0 +1,964 @@
+{
+  "schemaVersion": 1,
+  "result": "passed",
+  "template": "project/templates/foreground.json",
+  "preview": "project/qa/content-layout-preview-16x9.png",
+  "supplementalPreviews": [
+    "project/qa/content-layout-maximum-cards.png",
+    "project/qa/content-layout-loanword.png"
+  ],
+  "representativeFrames": {
+    "longest": "l001",
+    "maximumCards": "l051",
+    "loanword": "l005",
+    "pureEnglish": "not present in supplied QRC"
+  },
+  "cardCheck": [
+    {
+      "frame": "l001",
+      "token": "あと一匙",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l001",
+      "token": "の",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l001",
+      "token": "憂鬱で",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l001",
+      "token": "壊れそうなんて",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l002",
+      "token": "のたまえど",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l002",
+      "token": "おかまいなく",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l003",
+      "token": "記憶域",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l003",
+      "token": "圧されてしまう",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l004",
+      "token": "躓いては",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l004",
+      "token": "縋っていた",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l005",
+      "token": "未検証",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l005",
+      "token": "フィロソフィー",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l006",
+      "token": "己さえ",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l006",
+      "token": "ごまかせない",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l007",
+      "token": "チープな",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l007",
+      "token": "理論武装",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l008",
+      "token": "答え",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l008",
+      "token": "が",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l008",
+      "token": "出るまで",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l008",
+      "token": "とか",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l009",
+      "token": "未来永劫",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l010",
+      "token": "とめどない",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l010",
+      "token": "思考回路",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l010",
+      "token": "を",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l011",
+      "token": "誰か",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l011",
+      "token": "ねえ",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l011",
+      "token": "止めて",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l012",
+      "token": "もう",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l012",
+      "token": "なにもかも",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l012",
+      "token": "忘れて",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l013",
+      "token": "今宵",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l013",
+      "token": "は",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l013",
+      "token": "シルエットダンス",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l014",
+      "token": "知らない",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l014",
+      "token": "要らない",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l014",
+      "token": "全然",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l015",
+      "token": "なんの",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l015",
+      "token": "法則",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l015",
+      "token": "もなく",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l016",
+      "token": "ただ",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l016",
+      "token": "舞って",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l016",
+      "token": "舞う",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l017",
+      "token": "今日",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l017",
+      "token": "を",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l017",
+      "token": "称えて",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l018",
+      "token": "照明",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l018",
+      "token": "一切",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l018",
+      "token": "を",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l018",
+      "token": "消しちゃって",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l019",
+      "token": "さあ",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l019",
+      "token": "宇宙",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l019",
+      "token": "へと",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l019",
+      "token": "リンク",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l020",
+      "token": "ビート",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l020",
+      "token": "に",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l020",
+      "token": "呼応して",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l020",
+      "token": "浮かび上がる",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l021",
+      "token": "超然的",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l021",
+      "token": "シルエットダンス",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l022",
+      "token": "音",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l022",
+      "token": "の中に",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l022",
+      "token": "溶けていく",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l023",
+      "token": "僕",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l023",
+      "token": "の",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l023",
+      "token": "リアリティー",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l024",
+      "token": "感傷",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l024",
+      "token": "も",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l024",
+      "token": "焦燥",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l024",
+      "token": "粉々に",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l025",
+      "token": "ちりぬる",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l025",
+      "token": "模様",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l026",
+      "token": "五臓六腑",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l026",
+      "token": "に",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l026",
+      "token": "響いちゃって",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l027",
+      "token": "脈打つ",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l027",
+      "token": "メロディライン",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l028",
+      "token": "この僕",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l028",
+      "token": "を",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l028",
+      "token": "駆け巡る",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l029",
+      "token": "流星",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l029",
+      "token": "が",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l029",
+      "token": "跳ねる",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l030",
+      "token": "呼吸音",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l030",
+      "token": "と",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l030",
+      "token": "重なってく",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l031",
+      "token": "リズム",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l031",
+      "token": "の",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l031",
+      "token": "波に",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l032",
+      "token": "任せて",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l032",
+      "token": "揺れていたい",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l033",
+      "token": "それだけ",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l033",
+      "token": "で",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l033",
+      "token": "いいよ",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l034",
+      "token": "飛び込んだなら",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l034",
+      "token": "そこ",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l034",
+      "token": "は",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l034",
+      "token": "もう",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l035",
+      "token": "無重力",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l035",
+      "token": "浮遊して",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l035",
+      "token": "ダンス",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l036",
+      "token": "意味ない",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l036",
+      "token": "間違い",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l036",
+      "token": "全然",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l037",
+      "token": "気にも",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l037",
+      "token": "とめないで",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l038",
+      "token": "舞って",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l038",
+      "token": "舞って",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l038",
+      "token": "舞う",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l039",
+      "token": "直感",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l039",
+      "token": "を",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l039",
+      "token": "盲信",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l040",
+      "token": "何一つ",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l040",
+      "token": "生み出さない",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l041",
+      "token": "ああ",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l041",
+      "token": "透明な",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l041",
+      "token": "自由",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l042",
+      "token": "全部",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l042",
+      "token": "リセット",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l042",
+      "token": "で",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l042",
+      "token": "空っぽになれたら",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l043",
+      "token": "宇宙",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l043",
+      "token": "を",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l043",
+      "token": "クラウド",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l043",
+      "token": "にして",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l044",
+      "token": "預けてしまえ",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l044",
+      "token": "すべて",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l045",
+      "token": "もう",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l045",
+      "token": "なにもかも",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l045",
+      "token": "忘れて",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l046",
+      "token": "今宵",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l046",
+      "token": "は",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l046",
+      "token": "シルエットダンス",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l047",
+      "token": "知らない",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l047",
+      "token": "要らない",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l047",
+      "token": "全然",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l048",
+      "token": "なんの",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l048",
+      "token": "法則",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l048",
+      "token": "もなく",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l049",
+      "token": "ただ",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l049",
+      "token": "舞って舞う",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l050",
+      "token": "今日",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l050",
+      "token": "を",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l050",
+      "token": "称えて",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l051",
+      "token": "金輪際",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l051",
+      "token": "誰",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l051",
+      "token": "も",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l051",
+      "token": "知らない",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l051",
+      "token": "夜",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l052",
+      "token": "僕",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l052",
+      "token": "の",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l052",
+      "token": "夜",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l053",
+      "token": "星あかり",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l053",
+      "token": "纏う",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l053",
+      "token": "も",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l053",
+      "token": "あはれ",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l054",
+      "token": "前衛的",
+      "meaningLines": 1,
+      "meaningFits": true
+    },
+    {
+      "frame": "l054",
+      "token": "シルエットダンス",
+      "meaningLines": 1,
+      "meaningFits": true
+    }
+  ],
+  "unresolved": [
+    "l022/l023 QMTS source ordering",
+    "poetic/classical phrasing marked in review Markdown"
+  ]
+}

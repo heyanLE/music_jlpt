@@ -1,0 +1,15 @@
+# 2. Prepare timing, palette and templates
+
+Read active manifests, frozen source manifest and selected templates. For resumed work, inspect existing artifacts first; do not repeat destructive initialization merely because the state label is old.
+
+1. Verify media probes in `source/source-manifest.json`. If a project already has `project/assets.json`, reconcile it with those probes; it is an optional summary, not a prerequisite or a second source of truth.
+2. For a fresh lyric import run `python SKILL_ROOT/scripts/normalize_lyrics.py PROJECT_ROOT`. Encrypted QRC may require `--install-decoder` to install the pinned project-local runtime. It writes decoded timing, a decode report and frame shells, including English rows. **This command writes frames:** if cards or human edits already exist, preserve them and normalize into an isolated comparison project, then merge only the intended source changes. Do not overwrite reviewed frames.
+3. Inspect `project/timing/qm.json`, `roma.json`, `translation.json` or `lrc.json` and the decode report. Verify the first/last rows, translation track and units. QRC supports word timing only after successful parsing; LRC remains line-timed. Filter verified metadata with `--min-lyric-ms` / `--exclude-prefix` only when justified, recording each exclusion.
+4. Resolve requested alignment using [09-presets-alignment.md](09-presets-alignment.md) before generating timing-dependent previews.
+5. Confirm stage 1 configuration created the foreground/background/overlay snapshots under `project/templates/`; record their hashes without recopying them. Run `python SKILL_ROOT/scripts/prepare_setup.py PROJECT_ROOT` for new setup: it derives the palette, resolves all declared canvases and validates setup. Reuse accepted palette/snapshots on resume; this setup command would overwrite a user-selected magic color.
+6. Inspect each generated resolved layout. Only for a missing/stale canvas or a requested palette/layout change, rerun `python SKILL_ROOT/scripts/resolve_layout.py FOREGROUND_SNAPSHOT PALETTE OUTPUT --width W --height H`. Use the real cover and decoded text to generate a structure preview, preserving bold font, outline, transparent palette-colored cards and measured anchors.
+7. Inspect the preview against the snapshot, including enabled neighboring lyrics and countdown placement. Write `project/qa/structure-preview-<canvas>.png` and `structure-report.json`. Structure-only previews are not evidence that linguistic content is ready.
+
+Use an installed CJK-capable bold font (weight ≥700); verify Japanese, Chinese, Latin and punctuation. Use reviewed magic colors from `palette.json` for video and cover. Cover exports follow [07-covers.md](07-covers.md) and can run here.
+
+Run `python SKILL_ROOT/scripts/validate_project.py PROJECT_ROOT --stage setup`; set `setup_complete` only on success. A user-requested custom layout is already authorized within that request; show a concrete preview and continue authorized work rather than asking to approve the same choice again.

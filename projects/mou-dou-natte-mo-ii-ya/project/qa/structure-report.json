@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "rendererCore": "existing project composite renderer, revalidated for the new audio run",
+  "template": {"id": "study-v1", "sha256": "f915e4437473692d0c0f0f27b07b447ea9eec61aba578bfa6b6adb7bbd0d412e"},
+  "background": {"id": "video", "sha256": "f361455331d7d5dad83dfaad9911f0c4002e00c508ad9c60db6c1dc05748174e", "policy": "loop-to-audio-duration"},
+  "sourceLine": "l011 @ 26.650s",
+  "fontGlyphs": {"Japanese": "passed", "Chinese": "passed", "Latin": "passed", "punctuation": "passed"},
+  "textBounds": {"maxWidthPx": 1728, "overflow": "none"},
+  "image": "project/qa/layout-preview-16x9.png"
+}

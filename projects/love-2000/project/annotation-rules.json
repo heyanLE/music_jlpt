@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "1.0",
+  "approvedSamples": ["l001", "l002", "l003", "l004", "l005", "l006", "l007", "l008", "l009", "l010"],
+  "tokenizationRules": [
+    { "id": "merge-conjugation", "rule": "动词词干与其连续活用尾（如 た、て）合并为一个分词卡。", "example": "問いかけ + た → 問いかけた" },
+    { "id": "merge-intent", "rule": "表达愿望的「动词て形 + みたい」可合并为一个学习单元；句尾助词「の」保留为独立助词卡。", "example": "愛してみたい + の" },
+    { "id": "keep-particles", "rule": "格助词、系助词、终助词均保留为独立分词卡。" }
+  ],
+  "posDisplayRules": [
+    { "pos": "助詞", "display": "显示该语境下的功能，不显示直译词义。" },
+    { "pos": "動詞", "display": "显示词典形对应的中文核心义，并在必要时标明活用。" },
+    { "pos": "名詞", "display": "显示词条的中文核心义。" }
+  ],
+  "sentenceFinalParticleRules": [
+    { "token": "な", "when": "句尾且功能待审", "functionZh": "语气强调", "displayZh": "呢", "posZh": "终助词" },
+    { "token": "で／て", "when": "歌词行末且连接后句", "functionZh": "中顿（连接后句）", "displayZh": "中顿（连接后句）", "posZh": "接续助词" }
+  ],
+  "captionRules": [
+    "假名仅标在含汉字的词组上方，统一使用平假名。",
+    "原本为假名的词不重复标注读音。",
+    "罗马音按分词显示在对应词组下方。",
+    "中文整句翻译位于罗马音下方。"
+  ],
+  "cardRules": [
+    "所有分词均渲染卡片。",
+    "卡片依次显示：分词、中文释义或助词功能、词性。",
+    "不显示 JLPT 等级。"
+  ]
+}

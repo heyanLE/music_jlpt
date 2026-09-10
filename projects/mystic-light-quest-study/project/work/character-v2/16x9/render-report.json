@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "candidate": "C:\\project\\musicjlpt\\projects\\mystic-light-quest-study\\project\\work\\character-v2\\16x9\\mystic-light-quest-study--16x9--character-v2.mkv",
+  "candidateSha256": "77567226ff7430c88984acfc2b42a0182ea01a5a2a0978c6fc0f79f749fec019",
+  "activeHashes": {
+    "inputManifest": "b6f6c5865ec262bde161251fb128f27b8ae7434a79696f823adf4f6aecafc928",
+    "presentation": "5ee656fa7fb6f8e030b0d60a3c3192388f4f651abaa26ad801f035e31700a992",
+    "sceneTimeline": "94c374ffa9870fddf1c538f78690b8724f522d363eaf60c534abd49e021aead8",
+    "frames": "6f02999db4cfc57334b9951ca9f5be4b4ac2123362907581563c6c439b7e5c9d"
+  },
+  "layers": [
+    "background",
+    "foreground",
+    "floatingOverlay-disabled"
+  ],
+  "scenes": [
+    {
+      "id": "main-video-loop",
+      "startMs": 0,
+      "endMs": "audio-end",
+      "mode": "video-loop",
+      "asset": "source/background-trimmed.mp4",
+      "fit": "height-center-pillarbox",
+      "sourceAudio": "mute",
+      "foregroundMode": "follow-lyrics",
+      "transitionIn": {
+        "kind": "none",
+        "durationMs": 0,
+        "scope": "background-only"
+      },
+      "transitionOut": {
+        "kind": "none",
+        "durationMs": 0,
+        "scope": "background-only"
+      }
+    }
+  ],
+  "foregroundDefaultMode": "follow-lyrics",
+  "durationMs": 207000,
+  "offsetMs": 0,
+  "audioCodecPolicy": "stream-copy",
+  "foregroundTimeline": {
+    "full": 42,
+    "adjacentRows": 0,
+    "lineFallback": 0,
+    "unmatched": 0,
+    "blankSegments": 8,
+    "neutralSegments": 14,
+    "activeSegments": 391
+  }
+}

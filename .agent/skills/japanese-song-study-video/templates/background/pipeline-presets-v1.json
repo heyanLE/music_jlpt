@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "presets": {
+    "video-loop-follow": {
+      "background": "video-loop",
+      "foreground": "follow-lyrics"
+    },
+    "video-then-gaussian-hybrid": {
+      "background": ["video-clip", "cover-gaussian"],
+      "transition": { "kind": "black-fade", "durationMs": 500, "scope": "background-only" },
+      "foreground": ["follow-lyrics", "persistent"]
+    },
+    "gaussian-persistent": {
+      "background": "cover-gaussian",
+      "foreground": "persistent"
+    }
+  },
+  "spectrum": { "requiredInput": true, "values": ["on", "off"], "defaultWhenUnspecified": "off" },
+  "custom": { "requiresCompleteSceneTimeline": true }
+}

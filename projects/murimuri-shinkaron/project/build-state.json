@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "stage": "delivered",
+  "runId": "20260822-inputs-v1",
+  "renderAuthorization": true,
+  "notes": [
+    "Stage 1 uses the supplied OP footage with source audio muted.",
+    "At 89899 ms the background switches to the cover-gaussian scene.",
+    "The persistent transparent spectrum is above both background and learning foreground.",
+    "Final container must preserve the FLAC stream without re-encoding.",
+    "QRC trio decoded successfully: 100 original lines, 96 romaji lines, and 63 translated lines; Japanese and romaji word timing are available.",
+    "Stage-2 structure validation passed with the frozen study-current-v3 template.",
+    "Stage-3 draft contains 96 lyric frames and 520 unreviewed morphology cards; 31 lines lack a sufficiently aligned QMTS translation and remain explicitly pending review.",
+    "User authorized the whole assisted-review proposal set with the wording: 整体采纳. All 96 proposal records were merged; final rendering remains unauthorized.",
+    "User authorized final rendering with the wording: 确认渲染. QA passed for 20260822-r01-final-flac and the 16:9 final MKV was delivered.",
+    "2026-08-22: presentation changed for stage2-cover-gaussian to retain the last foreground during gaps; prior final render authorization and final manifest were invalidated.",
+    "User re-authorized final rendering with the wording: 确认渲染. QA passed for 20260822-r02-stage2-retain-last; the 16:9 FLAC MKV retains the last complete foreground in stage 2."
+  ]
+}

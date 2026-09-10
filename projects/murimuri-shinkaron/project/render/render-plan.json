@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "runId": "20260822-r02-stage2-retain-last",
+  "canvas": { "name": "16x9", "width": 1920, "height": 1080, "fps": 30, "cfr": true },
+  "clock": "audio",
+  "audio": { "asset": "source/music.flac", "codecPolicy": "copy", "durationMs": 194933 },
+  "scenes": [
+    { "startMs": 0, "endMs": 89899, "mode": "video-clip", "asset": "source/background-stage1.mp4", "sourceAudio": "mute" },
+    { "startMs": 89899, "endMs": 194933, "mode": "cover-gaussian", "asset": "source/cover.jpg" }
+  ],
+  "overlay": { "id": "foobar-realtime-bars", "zIndex": "above-foreground", "transparent": true, "persistent": true, "analysis": "log-frequency FFT with attack/release and peak caps" },
+  "foreground": { "template": "study-current-v3", "highlight": "token for full QRC matches", "veil": "lyric-only in stage 1; persistent retained last frame in stage 2", "textOutline": "black exterior" },
+  "candidate": "project/work/20260822-r02-stage2-retain-last/murimuri-shinkaron--16x9--20260822-r02-stage2-retain-last.mkv"
+}

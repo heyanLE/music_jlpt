@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "runId": "20260817-r14-stronger-lyric-veil",
+  "video": "brand-new-days-reload--interlude-wallpaper-switch--foobar-spectrum--outlined--stronger-veil--20260817-r14.mp4",
+  "layout": "1920x1080",
+  "visualizer": "foobar-classic-spectrum",
+  "framesSha256": "0d8667e12599a92d9500c2f9b5a61c78c230cf0c713e207df658d14dac65d75c",
+  "authorization": "project/render-authorization.json",
+  "qaReport": "project/qa/stronger-veil-r14/qa-report.json",
+  "videoSpec": { "codec": "h264", "fps": 30, "durationSeconds": 352.6 },
+  "audioSpec": { "codec": "aac", "sampleRate": 44100, "channels": 2 }
+}

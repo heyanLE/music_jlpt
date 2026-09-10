@@ -1,0 +1,13 @@
+{
+  "userWording": "按当前审核版渲染",
+  "createdAt": "2026-08-16T16:46:45.944236+00:00",
+  "frameSha256": "745596a325c3a11ec22d1e44dfd9959e1040a7d0cb6a7afd192bbd346145dff8",
+  "sourceAndTemplateSha256": {
+    "source\\background.mp4": "6688fbb6956de837a81b1799f644192f29311377e9375beb26748a1d33681e9d",
+    "source\\music.flac": "95f895444451733bb8a0b73e8d47a621a0c882d1a7ee4e8d4aa4d4577f9270b3",
+    "source\\cover.jpg": "a6759f442f88beb08d8f418f4e8ad8b06ef289658b4ac9daef76e7e63b09d3f5",
+    "project\\frames.json": "745596a325c3a11ec22d1e44dfd9959e1040a7d0cb6a7afd192bbd346145dff8",
+    "project\\templates\\foreground.json": "963d4faf49df174d7a8cd2261e2aa82ddae6ec3892f762dd7681a9f5d1777ffd",
+    "project\\templates\\background.json": "c21d64a91db05af2be215c56d69ffe81c03c54eb8d3d109b1bfb9773e81e28af"
+  }
+}

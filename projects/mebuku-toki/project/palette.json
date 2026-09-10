@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "algorithm": "saturated-cover-pixel-hsv-v1",
+  "cover": "C:\\project\\musicjlpt\\projects\\mebuku-toki\\source\\cover.jpg",
+  "accent": "#206040",
+  "activeTint": "#42EB96",
+  "body": "#184730",
+  "cardFill": {
+    "color": "#206040",
+    "alpha": 0.75
+  }
+}

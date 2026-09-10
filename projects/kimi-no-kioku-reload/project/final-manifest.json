@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "output": "deliverables/final/kimi-no-kioku-reload--16x9--approved-r3-persistent-countdown-dedup.mp4",
+  "outputSha256": "4d6521ac3318f95cbd13eae63ae7e76dd343cb9d56a929b1e7767dd1e33ba36d",
+  "qaReport": "project/qa/approved-r3-persistent-countdown-dedup/qa-report.json",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "30/1",
+        "bits_per_raw_sample": "8"
+      },
+      {
+        "codec_name": "mp3",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "399.500000"
+    }
+  }
+}

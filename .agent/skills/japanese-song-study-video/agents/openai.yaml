@@ -1,0 +1,4 @@
+interface:
+  display_name: "Japanese Song Study Video"
+  short_description: "Render reviewed Japanese song-learning videos"
+  default_prompt: "Use $japanese-song-study-video to create a reviewed Japanese song-learning video from my music, lyrics, cover, and background assets."

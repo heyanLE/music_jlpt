@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "content": "approved",
+  "scope": "all",
+  "renderAuthorized": false,
+  "userWording": "采纳全部提案",
+  "frameSha256": "3dc254008433b82a16d798b2b63086d55a3806f6daf85a282bbc13ad166b8ae3",
+  "assistedReviewAuditSha256": "afe609ba0bb2653c3308a5e11657a010395276cc700f388b2a4a46723b6a8ecd",
+  "mergeLogSha256": "3cdb9a47a44a09900520ea07c3a6e5d6f8877f9785a1c96c2fd04b9b5bb08a89"
+}

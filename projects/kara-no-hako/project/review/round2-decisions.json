@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "exclude": {
+    "lexical:7": "可选空格风格建议，读音无错误；本轮不纳入默认内容修正。",
+    "lexical:8": "对应可选词卡罗马音被排除，句级同步也不改。",
+    "lexical:9": "可选空格风格建议，读音无错误；本轮不纳入默认内容修正。",
+    "lexical:10": "对应可选词卡罗马音被排除，句级同步也不改。",
+    "lexical:11": "可选空格风格建议，读音无错误；本轮不纳入默认内容修正。",
+    "lexical:12": "对应可选词卡罗马音被排除，句级同步也不改。",
+    "lexical:13": "可选空格风格建议，读音无错误；本轮不纳入默认内容修正。",
+    "lexical:14": "对应可选词卡罗马音被排除，句级同步也不改。",
+    "translation:0": "原词义均有效；仅删同义词不足以构成必须修改，保留。",
+    "translation:1": "原词义均有效；不为缩短而删去可用释义。",
+    "translation:3": "与l001同步保留有效原释义。",
+    "translation:4": "与l001同步保留有效原释义。",
+    "translation:6": "だいたい可表大体/通常，现稿未错；不在不足证据下仅保留大多。",
+    "translation:7": "与l002同步保留。",
+    "translation:12": "ている的当前状态原卡已有覆盖；碰上了只是简化，不构成实质纠错。",
+    "translation:13": "原卡已包含前进才好，保持完整ばいい教学块与合理释义。",
+    "translation:15": "难懂/晦涩均符合文意，保留而不重复制造同义编辑。",
+    "translation:16": "词语/话语均为言葉的有效释义，保留。",
+    "translation:17": "净是/满是均符合だらけ，保留。",
+    "translation:19": "一点也/丝毫也均有效，保留。",
+    "translation:20": "跨句连体为合理读法但不是唯一，保留没有改变，修饰关系置于备注。",
+    "translation:21": "いつの日か的未来不定表达原卡总有一天/某一天均可，不删除有效读法。",
+    "translation:22": "原how释义准确，纯同义删减不纳入。",
+    "translation:28": "生涯原卡直接给一生/终其一生，已符合名词实义规则，无须改。",
+    "translation:29": "与l022同步保留原卡。",
+    "translation:33": "归咎于/怪罪于均覆盖せいにする，保留既有短释义。",
+    "translation:35": "おそらく的大概/恐怕均为合理不确定推测义，保留。",
+    "translation:36": "一样/相同均合理，保留。",
+    "translation:37": "原长块已拆；语义按grammar:4分配为快要溢出来的＋ほど程度功能，禁止套用旧下标覆盖新首卡。",
+    "translation:40": "笨拙/不自然均适合下手な愛想笑い，保留。",
+    "translation:41": "应酬的笑/赔笑均可理解，保留词义，只核定未必是谄媚。",
+    "translation:42": "果然/终究还是均适合当前上下文，纯措辞合并不纳入。",
+    "translation:45": "原唯独那件事能指代上一句说法，无强制改成这一点的依据。",
+    "translation:46": "消失/不见均正确，保留。",
+    "translation:49": "不知道/分不清均适合后接两个疑问分句，保留。",
+    "translation:52": "办法/方法均为直接名词释义，保留。",
+    "translation:54": "算什么/又怎样已正确体现反问，无需只留一个。",
+    "translation:55": "若不是我自己已保留身份范围且不添加扮演他人含义；替换仅是语境化转述，保留原卡并在备注阐明身份解读。",
+    "translation:56": "没法活与无法活下去基本等义且前者更生硬；保留原卡，不把措辞差异当纠错。"
+  },
+  "bundleChoices": {
+    "l029": {"proposalId":"grammar:4","reason":"两角色分词完全一致；采用文法版保留动词身份并明确そうな为样态。ほど独立显示程度功能；詰め込んだ保留连体义。"},
+    "l035": {"proposalId":"grammar:7","reason":"两角色边界一致；采用文法版明确で的状态作用，保留いい为形容词。中文短句由翻译意见另行核定。"}
+  },
+  "fieldChoices": {
+    "l032.grammarCards.1.grammarStructureZh": {"proposalId":"lexical:4","reason":"两角色均补动词身份；采用缩约明确省略い这一现象，字数也更短。"},
+    "l011.grammarCards.0.zhMeaning": {"proposalId":"translation:18","reason":"以あの頃对比现在的语境选如今，避免两个完全同义的词；不声称こんにち词典上没有今天义。"},
+    "l023.grammarCards.0.zhMeaning": {"proposalId":"translation:30","reason":"谓语系词表达身份而不是作为的处境；选是我自己保留短卡，不把补出的而与省略号塞进含义。"},
+    "l038.grammarCards.1.functionZh": {"proposalId":"grammar:11","reason":"与后续分からない共同构成间接疑问，是否更清楚体现疑问语义。"},
+    "l039.grammarCards.1.functionZh": {"proposalId":"grammar:13","reason":"与l038采用同一功能句式，两个可能选项保持平行。"},
+    "l001.grammarCards.3.zhMeaning": {"proposalId":"translation:2","value":"漫长啊","reason":"移除与やたら重复的十分，但保留原卡自然的中文漫长，不换成孤立而生硬的长啊。"},
+    "l016.grammarCards.3.zhMeaning": {"proposalId":"translation:5","value":"漫长啊","reason":"重复歌词同步l001同一卡义。"}
+  },
+  "overrides": [
+    {"frameId":"l035","field":"grammarCards.0.zhMeaning","new":"维持现状","reason":"采用translation的拆分映射意见：このままで为状态，避免把いい的就可以提前放入状态卡。"},
+    {"frameId":"l035","field":"grammarCards.1.zhMeaning","new":"就可以","reason":"采用translation的拆分映射意见，いい独立显示简短许可/认可义；整段想法由后句否定，不等于作者建议维持现状。"}
+  ]
+}

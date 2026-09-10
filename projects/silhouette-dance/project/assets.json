@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "background": { "codec": "h264", "width": 1920, "height": 1080, "fps": "1011000/42167", "durationSeconds": 211.002, "sourceAudio": "aac 48000Hz stereo; muted" },
+  "music": { "codec": "flac", "sampleRate": 96000, "channels": 2, "bitsPerSample": 24, "durationSeconds": 209.453333 },
+  "cover": { "codec": "mjpeg", "width": 1600, "height": 1600 },
+  "finalPolicy": { "fps": "24000/1001", "cfr": true, "motionConversion": "none", "audioCodec": "flac", "container": "mkv" }
+}

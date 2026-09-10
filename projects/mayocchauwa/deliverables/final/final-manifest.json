@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "runId": "20260821-r03-review-cover-intro",
+  "video": "mayocchauwa--16x9--20260821-r03-review-cover-intro.mkv",
+  "layout": "1920x1080",
+  "framesSha256": "976bf70a8c3bebe3aba12066002e0ecdad640f81ff677835af7b3b6a52612428",
+  "authorization": "project/render-authorization-r03.json",
+  "qaReport": "project/qa/render-r03/qa-report.json",
+  "videoSpec": {
+    "codec": "h264",
+    "fps": 30,
+    "durationSeconds": 218.533,
+    "lineTiming": { "preRollMs": 180, "postRollMs": 420, "keepVisibleInQrcBreaths": true },
+    "opening": { "mode": "cover-blur", "durationSeconds": 3, "caption": "祝审核大佬天天开心！" }
+  },
+  "audioSpec": {
+    "codec": "flac",
+    "codecCopied": true,
+    "sampleRate": 48000,
+    "bitsPerSample": 24,
+    "channels": 2
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "status": "passed",
+  "renderer": "project/render/setup_stage2.py",
+  "templateSha256": "ea4f87fd91c72f9abc4f0a4ea3d32537b2bd796c024532a7ed21bbf389774ba8",
+  "resolvedLayout": "project/render/resolved-layout.json",
+  "sourceLine": {
+    "id": "l002",
+    "text": "ひとよひとよに人見知り"
+  },
+  "fontGlyphs": {
+    "font": "C:\\Windows\\Fonts\\msyhbd.ttc",
+    "weight": 700,
+    "sample": "人見知り 中文 Latin ·!?",
+    "passed": true
+  },
+  "checks": {
+    "coverVisible": true,
+    "boldCjk": true,
+    "sourceOrder": true,
+    "backgroundFit": "height-center-pillarbox",
+    "backgroundTransition": "stage1 video then cover-gaussian at 89899ms",
+    "overlay": "persistent transparent foobar realtime bars above foreground",
+    "overflow": false
+  },
+  "image": "project/qa/structure-preview-16x9.png"
+}

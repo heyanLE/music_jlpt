@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "candidate": "C:\\project\\musicjlpt\\projects\\dare-ni-mo-narenai-watashi-dakara-v3\\project\\work\\episode-intro-corrected-r2\\16x9\\dare-ni-mo-narenai-watashi-dakara-v3--16x9--episode-intro-corrected-r2.mkv",
+  "candidateSha256": "abecaec9ab17e979a3ea798a620de14a5443610de37b06294a98732bd0f405c8",
+  "customRenderer": "C:/project/musicjlpt/projects/dare-ni-mo-narenai-watashi-dakara-v3/project/render/render_episode_intro_final.py",
+  "strategy": "full rebuild from current frames with episode intro and hard-cut handoff",
+  "activeHashes": {
+    "frames": "09246f2a624b4fe370b4cf58c6ba66793ac4627437c665d3bcad5ef08c4d6deb",
+    "inputManifest": "375e547db094ab475bc4e76cf40e61e462d2c22637243d6ec6f7d83da067333c",
+    "presentation": "2f327e8d6850093055c67d499777bd0474c89439fb8083d554f88add14ebce21",
+    "sceneTimeline": "f44a66dc376c2eb2bde59d33135ba554999cf3ea3cccf21ed2c22da4ed1d3129"
+  },
+  "dependencyHashes": {
+    "render_video.py": "edbbd4eb5e6602b919a547dd115c10d51e61ad0d09cb739a1651ac0a31e9fc8e",
+    "build_foreground_timeline.py": "6ac68b7ac62ea813d22118a82035aa5c34d128410d0805c51e2a5c0fc298d2f6",
+    "render_foobar_spectrum.py": "a86096b6055426bde5c5be39eccf74d3a3068acfb4d41a0c55cc97e9cc470fa3"
+  },
+  "foregroundTimeline": {
+    "full": 41,
+    "adjacentRows": 0,
+    "lineFallback": 0,
+    "unmatched": 0,
+    "blankSegments": 9,
+    "neutralSegments": 50,
+    "activeSegments": 461
+  },
+  "foregroundStateCount": 502,
+  "episodeSourceStartMs": 1319000,
+  "outputHandoffMs": 21755.25,
+  "backgroundTransition": "hard cut at episode handoff; 500 ms background-only black fade at Gaussian handoff",
+  "spectrum": "transparent Foobar bars, hidden before hard cut, persistent afterward",
+  "audioCodecPolicy": "stream-copy frozen hybrid FLAC",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "pix_fmt": "yuv420p",
+        "r_frame_rate": "30/1",
+        "start_time": "0.000000",
+        "bits_per_raw_sample": "8"
+      },
+      {
+        "codec_name": "flac",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "r_frame_rate": "0/0",
+        "start_time": "0.000000",
+        "bits_per_raw_sample": "16"
+      }
+    ],
+    "format": {
+      "start_time": "0.000000",
+      "duration": "199.733000"
+    }
+  }
+}

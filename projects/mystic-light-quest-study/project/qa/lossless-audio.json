@@ -1,0 +1,8 @@
+{
+  "wavDecodedPcmSha256": "SHA256=835b3e0a1cc206f4a0098693aea3e988c6f660b04535d53ceb4da9597abb9c1e",
+  "flacDecodedPcmSha256": "SHA256=835b3e0a1cc206f4a0098693aea3e988c6f660b04535d53ceb4da9597abb9c1e",
+  "identical": true,
+  "sampleRateHz": 48000,
+  "bitsPerSample": 24,
+  "channels": 2
+}

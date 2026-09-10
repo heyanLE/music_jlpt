@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 2,
+  "content": "approved",
+  "scope": "429 integrated review changes plus audited fixed-template fit corrections",
+  "renderAuthorized": false,
+  "userWording": "有一些句子汉字丢了假名注释，同一句词卡里重复出现部分只要出现一个",
+  "frameSha256": "833b4143b013151e2e42593417ff7d09d97a8f084792fd0fff0ed6863fbc1d33",
+  "assistedReviewAuditSha256": "88beabfed8aef9c651672bfd1c4a69f606213871b5badb08d209f531421c38be",
+  "mergeLogSha256": "65f002db9ec1c0826b5fd2bd5c1155b3a335b6d9b0ab437a17914e72329e0927",
+  "layoutCorrectionMergeLogSha256": "6a3b47c1933b23dd2f42cac6fff987184df4c116ce53b6d978ff0cb668086b7a",
+  "finalFitMergeLogSha256": "1e29bcc45c94bc54479e609de8b09ddf89c49ccf0d37bf420626e205d7968803",
+  "layoutReportSha256": "415197cc1274d3047b65db9ae232435649daf5c4e7fd6e449b83ec6d377615ed",
+  "pendingFrames": []
+}

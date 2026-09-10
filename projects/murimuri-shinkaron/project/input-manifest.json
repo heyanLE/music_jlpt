@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 3,
+  "slug": "murimuri-shinkaron",
+  "runId": "20260822-inputs-v1",
+  "stage": "delivered",
+  "music": { "asset": "source/music.flac", "preserveCodec": true, "clock": "audio" },
+  "cover": { "asset": "source/cover.jpg", "origin": "embedded-flac-artwork" },
+  "lyrics": {
+    "format": "qq-music",
+    "qm": "source/lyrics_qm.qrc",
+    "qmRoma": "source/lyrics_qmRoma.qrc",
+    "qmts": "source/lyrics_qmts.qrc"
+  },
+  "alignment": { "owner": "audio", "offsetMs": 0 },
+  "outputs": [{ "name": "16x9", "width": 1920, "height": 1080, "fps": 30 }]
+}

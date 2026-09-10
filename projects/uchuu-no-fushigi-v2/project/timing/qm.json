@@ -1,0 +1,2530 @@
+{
+  "schemaVersion": 1,
+  "source": "lyrics.qm.qrc",
+  "lyricType": "karaoke",
+  "lines": [
+    {
+      "id": "qm.json-001",
+      "startMs": 0,
+      "endMs": 1350,
+      "text": "うちゅうのふしぎ - 夢限大みゅーたいぷ",
+      "parts": [
+        {
+          "text": "う",
+          "startMs": 0,
+          "endMs": 75,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "ち",
+          "startMs": 75,
+          "endMs": 150,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ゅ",
+          "startMs": 150,
+          "endMs": 225,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "う",
+          "startMs": 225,
+          "endMs": 300,
+          "sourceOffset": 3,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "の",
+          "startMs": 300,
+          "endMs": 375,
+          "sourceOffset": 4,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ふ",
+          "startMs": 375,
+          "endMs": 450,
+          "sourceOffset": 5,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "し",
+          "startMs": 450,
+          "endMs": 525,
+          "sourceOffset": 6,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "ぎ",
+          "startMs": 525,
+          "endMs": 562,
+          "sourceOffset": 7,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": " ",
+          "startMs": 562,
+          "endMs": 600,
+          "sourceOffset": 8,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "- ",
+          "startMs": 600,
+          "endMs": 675,
+          "sourceOffset": 9,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "夢",
+          "startMs": 675,
+          "endMs": 750,
+          "sourceOffset": 11,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "限",
+          "startMs": 750,
+          "endMs": 825,
+          "sourceOffset": 12,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "大",
+          "startMs": 825,
+          "endMs": 900,
+          "sourceOffset": 13,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "み",
+          "startMs": 900,
+          "endMs": 975,
+          "sourceOffset": 14,
+          "sourcePartIndex": 13
+        },
+        {
+          "text": "ゅ",
+          "startMs": 975,
+          "endMs": 1050,
+          "sourceOffset": 15,
+          "sourcePartIndex": 14
+        },
+        {
+          "text": "ー",
+          "startMs": 1050,
+          "endMs": 1125,
+          "sourceOffset": 16,
+          "sourcePartIndex": 15
+        },
+        {
+          "text": "た",
+          "startMs": 1125,
+          "endMs": 1200,
+          "sourceOffset": 17,
+          "sourcePartIndex": 16
+        },
+        {
+          "text": "い",
+          "startMs": 1200,
+          "endMs": 1275,
+          "sourceOffset": 18,
+          "sourcePartIndex": 17
+        },
+        {
+          "text": "ぷ",
+          "startMs": 1275,
+          "endMs": 1350,
+          "sourceOffset": 19,
+          "sourcePartIndex": 18
+        }
+      ]
+    },
+    {
+      "id": "qm.json-002",
+      "startMs": 1351,
+      "endMs": 1501,
+      "text": "词：sabio",
+      "parts": [
+        {
+          "text": "词",
+          "startMs": 1351,
+          "endMs": 1388,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "：",
+          "startMs": 1388,
+          "endMs": 1426,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "sabio",
+          "startMs": 1426,
+          "endMs": 1501,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        }
+      ]
+    },
+    {
+      "id": "qm.json-003",
+      "startMs": 1502,
+      "endMs": 1652,
+      "text": "曲：sabio",
+      "parts": [
+        {
+          "text": "曲",
+          "startMs": 1502,
+          "endMs": 1539,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "：",
+          "startMs": 1539,
+          "endMs": 1577,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "sabio",
+          "startMs": 1577,
+          "endMs": 1652,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        }
+      ]
+    },
+    {
+      "id": "qm.json-004",
+      "startMs": 1658,
+      "endMs": 5394,
+      "text": "鳥はなんで空をとべるの？",
+      "parts": [
+        {
+          "text": "鳥",
+          "startMs": 1658,
+          "endMs": 2046,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "は",
+          "startMs": 2046,
+          "endMs": 2444,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "な",
+          "startMs": 2444,
+          "endMs": 2687,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ん",
+          "startMs": 2687,
+          "endMs": 2930,
+          "sourceOffset": 3,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "で",
+          "startMs": 2930,
+          "endMs": 3469,
+          "sourceOffset": 4,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "空",
+          "startMs": 3469,
+          "endMs": 3867,
+          "sourceOffset": 5,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "を",
+          "startMs": 3867,
+          "endMs": 4220,
+          "sourceOffset": 6,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "と",
+          "startMs": 4220,
+          "endMs": 4402,
+          "sourceOffset": 7,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "べ",
+          "startMs": 4402,
+          "endMs": 4738,
+          "sourceOffset": 8,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "る",
+          "startMs": 4738,
+          "endMs": 4914,
+          "sourceOffset": 9,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "の",
+          "startMs": 4914,
+          "endMs": 5394,
+          "sourceOffset": 10,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "？",
+          "startMs": 5394,
+          "endMs": 5394,
+          "sourceOffset": 11,
+          "sourcePartIndex": 11
+        }
+      ]
+    },
+    {
+      "id": "qm.json-005",
+      "startMs": 5394,
+      "endMs": 9370,
+      "text": "猫はなんでずっとねてるの？",
+      "parts": [
+        {
+          "text": "猫",
+          "startMs": 5394,
+          "endMs": 5865,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "は",
+          "startMs": 5865,
+          "endMs": 6292,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "な",
+          "startMs": 6292,
+          "endMs": 6570,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ん",
+          "startMs": 6570,
+          "endMs": 6848,
+          "sourceOffset": 3,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "で",
+          "startMs": 6849,
+          "endMs": 7362,
+          "sourceOffset": 4,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ず",
+          "startMs": 7362,
+          "endMs": 7611,
+          "sourceOffset": 5,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "っ",
+          "startMs": 7611,
+          "endMs": 7860,
+          "sourceOffset": 6,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "と",
+          "startMs": 7860,
+          "endMs": 8195,
+          "sourceOffset": 7,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "ね",
+          "startMs": 8195,
+          "endMs": 8355,
+          "sourceOffset": 8,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "て",
+          "startMs": 8355,
+          "endMs": 8668,
+          "sourceOffset": 9,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "る",
+          "startMs": 8668,
+          "endMs": 8860,
+          "sourceOffset": 10,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "の",
+          "startMs": 8860,
+          "endMs": 9370,
+          "sourceOffset": 11,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "？",
+          "startMs": 9370,
+          "endMs": 9370,
+          "sourceOffset": 12,
+          "sourcePartIndex": 12
+        }
+      ]
+    },
+    {
+      "id": "qm.json-006",
+      "startMs": 9370,
+      "endMs": 13313,
+      "text": "君はどんな今日を生きるの？",
+      "parts": [
+        {
+          "text": "君",
+          "startMs": 9370,
+          "endMs": 9770,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "は",
+          "startMs": 9770,
+          "endMs": 10299,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ど",
+          "startMs": 10299,
+          "endMs": 10563,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ん",
+          "startMs": 10563,
+          "endMs": 10827,
+          "sourceOffset": 3,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "な",
+          "startMs": 10828,
+          "endMs": 11282,
+          "sourceOffset": 4,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "今日",
+          "startMs": 11282,
+          "endMs": 11869,
+          "sourceOffset": 5,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "を",
+          "startMs": 11869,
+          "endMs": 12178,
+          "sourceOffset": 7,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "生",
+          "startMs": 12178,
+          "endMs": 12355,
+          "sourceOffset": 8,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "き",
+          "startMs": 12355,
+          "endMs": 12651,
+          "sourceOffset": 9,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "る",
+          "startMs": 12651,
+          "endMs": 12834,
+          "sourceOffset": 10,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "の",
+          "startMs": 12834,
+          "endMs": 13313,
+          "sourceOffset": 11,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "？",
+          "startMs": 13313,
+          "endMs": 13313,
+          "sourceOffset": 12,
+          "sourcePartIndex": 11
+        }
+      ]
+    },
+    {
+      "id": "qm.json-007",
+      "startMs": 13313,
+      "endMs": 16482,
+      "text": "ぜんぶ ぜんぶ ぜんぶ",
+      "parts": [
+        {
+          "text": "ぜ",
+          "startMs": 13313,
+          "endMs": 13538,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "ん",
+          "startMs": 13538,
+          "endMs": 13763,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ぶ",
+          "startMs": 13763,
+          "endMs": 14243,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": " ",
+          "startMs": 14243,
+          "endMs": 14243,
+          "sourceOffset": 3,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ぜ",
+          "startMs": 14243,
+          "endMs": 14463,
+          "sourceOffset": 4,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ん",
+          "startMs": 14463,
+          "endMs": 14683,
+          "sourceOffset": 5,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ぶ",
+          "startMs": 14683,
+          "endMs": 15155,
+          "sourceOffset": 6,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": " ",
+          "startMs": 15155,
+          "endMs": 15155,
+          "sourceOffset": 7,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "ぜ",
+          "startMs": 15155,
+          "endMs": 15402,
+          "sourceOffset": 8,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "ん",
+          "startMs": 15402,
+          "endMs": 15649,
+          "sourceOffset": 9,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "ぶ",
+          "startMs": 15650,
+          "endMs": 16482,
+          "sourceOffset": 10,
+          "sourcePartIndex": 10
+        }
+      ]
+    },
+    {
+      "id": "qm.json-008",
+      "startMs": 16482,
+      "endMs": 21086,
+      "text": "さがしにゆこう",
+      "parts": [
+        {
+          "text": "さ",
+          "startMs": 16482,
+          "endMs": 16707,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "が",
+          "startMs": 16707,
+          "endMs": 17014,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "し",
+          "startMs": 17014,
+          "endMs": 17207,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "に",
+          "startMs": 17207,
+          "endMs": 17488,
+          "sourceOffset": 3,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ゆ",
+          "startMs": 17488,
+          "endMs": 17814,
+          "sourceOffset": 4,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "こ",
+          "startMs": 17814,
+          "endMs": 18131,
+          "sourceOffset": 5,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "う",
+          "startMs": 18131,
+          "endMs": 21085,
+          "sourceOffset": 6,
+          "sourcePartIndex": 6
+        }
+      ]
+    },
+    {
+      "id": "qm.json-009",
+      "startMs": 25200,
+      "endMs": 28921,
+      "text": "朝はなんで僕を照らすの？",
+      "parts": [
+        {
+          "text": "朝",
+          "startMs": 25200,
+          "endMs": 25522,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "は",
+          "startMs": 25522,
+          "endMs": 25944,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "な",
+          "startMs": 25944,
+          "endMs": 26200,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ん",
+          "startMs": 26201,
+          "endMs": 26457,
+          "sourceOffset": 3,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "で",
+          "startMs": 26457,
+          "endMs": 26984,
+          "sourceOffset": 4,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "僕",
+          "startMs": 26984,
+          "endMs": 27457,
+          "sourceOffset": 5,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "を",
+          "startMs": 27457,
+          "endMs": 27784,
+          "sourceOffset": 6,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "照",
+          "startMs": 27784,
+          "endMs": 27923,
+          "sourceOffset": 7,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "ら",
+          "startMs": 27923,
+          "endMs": 28241,
+          "sourceOffset": 8,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "す",
+          "startMs": 28241,
+          "endMs": 28400,
+          "sourceOffset": 9,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "の",
+          "startMs": 28400,
+          "endMs": 28921,
+          "sourceOffset": 10,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "？",
+          "startMs": 28921,
+          "endMs": 28921,
+          "sourceOffset": 11,
+          "sourcePartIndex": 11
+        }
+      ]
+    },
+    {
+      "id": "qm.json-010",
+      "startMs": 28921,
+      "endMs": 32912,
+      "text": "夜はなんで寂しくなるの？",
+      "parts": [
+        {
+          "text": "夜",
+          "startMs": 28921,
+          "endMs": 29368,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "は",
+          "startMs": 29368,
+          "endMs": 29849,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "な",
+          "startMs": 29849,
+          "endMs": 30101,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ん",
+          "startMs": 30102,
+          "endMs": 30354,
+          "sourceOffset": 3,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "で",
+          "startMs": 30354,
+          "endMs": 30900,
+          "sourceOffset": 4,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "寂",
+          "startMs": 30900,
+          "endMs": 31292,
+          "sourceOffset": 5,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "し",
+          "startMs": 31292,
+          "endMs": 31633,
+          "sourceOffset": 6,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "く",
+          "startMs": 31633,
+          "endMs": 31808,
+          "sourceOffset": 7,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "な",
+          "startMs": 31808,
+          "endMs": 32178,
+          "sourceOffset": 8,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "る",
+          "startMs": 32178,
+          "endMs": 32376,
+          "sourceOffset": 9,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "の",
+          "startMs": 32376,
+          "endMs": 32912,
+          "sourceOffset": 10,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "？",
+          "startMs": 32912,
+          "endMs": 32912,
+          "sourceOffset": 11,
+          "sourcePartIndex": 11
+        }
+      ]
+    },
+    {
+      "id": "qm.json-011",
+      "startMs": 32912,
+      "endMs": 37161,
+      "text": "かなしいことははんぶんこ",
+      "parts": [
+        {
+          "text": "か",
+          "startMs": 32912,
+          "endMs": 33177,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "な",
+          "startMs": 33177,
+          "endMs": 33352,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "し",
+          "startMs": 33352,
+          "endMs": 33604,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "い",
+          "startMs": 33604,
+          "endMs": 33856,
+          "sourceOffset": 3,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "こ",
+          "startMs": 33856,
+          "endMs": 34323,
+          "sourceOffset": 4,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "と",
+          "startMs": 34323,
+          "endMs": 34789,
+          "sourceOffset": 5,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "は",
+          "startMs": 34789,
+          "endMs": 35297,
+          "sourceOffset": 6,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "は",
+          "startMs": 35297,
+          "endMs": 35541,
+          "sourceOffset": 7,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "ん",
+          "startMs": 35542,
+          "endMs": 35786,
+          "sourceOffset": 8,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "ぶ",
+          "startMs": 35786,
+          "endMs": 36013,
+          "sourceOffset": 9,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "ん",
+          "startMs": 36013,
+          "endMs": 36240,
+          "sourceOffset": 10,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "こ",
+          "startMs": 36240,
+          "endMs": 37161,
+          "sourceOffset": 11,
+          "sourcePartIndex": 11
+        }
+      ]
+    },
+    {
+      "id": "qm.json-012",
+      "startMs": 37161,
+      "endMs": 40320,
+      "text": "できたらいいのにね",
+      "parts": [
+        {
+          "text": "で",
+          "startMs": 37161,
+          "endMs": 37386,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "き",
+          "startMs": 37386,
+          "endMs": 37617,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "た",
+          "startMs": 37617,
+          "endMs": 37776,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ら",
+          "startMs": 37776,
+          "endMs": 38048,
+          "sourceOffset": 3,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "い",
+          "startMs": 38048,
+          "endMs": 38384,
+          "sourceOffset": 4,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "い",
+          "startMs": 38385,
+          "endMs": 38721,
+          "sourceOffset": 5,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "の",
+          "startMs": 38721,
+          "endMs": 39062,
+          "sourceOffset": 6,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "に",
+          "startMs": 39062,
+          "endMs": 39265,
+          "sourceOffset": 7,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "ね",
+          "startMs": 39265,
+          "endMs": 40320,
+          "sourceOffset": 8,
+          "sourcePartIndex": 8
+        }
+      ]
+    },
+    {
+      "id": "qm.json-013",
+      "startMs": 41328,
+      "endMs": 44522,
+      "text": "笑ったり悩んでみたり",
+      "parts": [
+        {
+          "text": "笑",
+          "startMs": 41328,
+          "endMs": 41576,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "っ",
+          "startMs": 41576,
+          "endMs": 41824,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "た",
+          "startMs": 41824,
+          "endMs": 42049,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "り",
+          "startMs": 42049,
+          "endMs": 42594,
+          "sourceOffset": 3,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "悩",
+          "startMs": 42594,
+          "endMs": 42906,
+          "sourceOffset": 4,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ん",
+          "startMs": 42907,
+          "endMs": 43282,
+          "sourceOffset": 5,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "で",
+          "startMs": 43282,
+          "endMs": 43587,
+          "sourceOffset": 6,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "み",
+          "startMs": 43587,
+          "endMs": 43763,
+          "sourceOffset": 7,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "た",
+          "startMs": 43763,
+          "endMs": 44098,
+          "sourceOffset": 8,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "り",
+          "startMs": 44098,
+          "endMs": 44522,
+          "sourceOffset": 9,
+          "sourcePartIndex": 9
+        }
+      ]
+    },
+    {
+      "id": "qm.json-014",
+      "startMs": 44522,
+      "endMs": 48333,
+      "text": "この広い世界のすみっこで",
+      "parts": [
+        {
+          "text": "こ",
+          "startMs": 44522,
+          "endMs": 44658,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "の",
+          "startMs": 44658,
+          "endMs": 45020,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "広",
+          "startMs": 45020,
+          "endMs": 45495,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "い",
+          "startMs": 45495,
+          "endMs": 45757,
+          "sourceOffset": 3,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "世",
+          "startMs": 45757,
+          "endMs": 45946,
+          "sourceOffset": 4,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "界",
+          "startMs": 45946,
+          "endMs": 46545,
+          "sourceOffset": 5,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "の",
+          "startMs": 46545,
+          "endMs": 47033,
+          "sourceOffset": 6,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "す",
+          "startMs": 47033,
+          "endMs": 47242,
+          "sourceOffset": 7,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "み",
+          "startMs": 47242,
+          "endMs": 47461,
+          "sourceOffset": 8,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "っ",
+          "startMs": 47462,
+          "endMs": 47681,
+          "sourceOffset": 9,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "こ",
+          "startMs": 47681,
+          "endMs": 47941,
+          "sourceOffset": 10,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "で",
+          "startMs": 47941,
+          "endMs": 48333,
+          "sourceOffset": 11,
+          "sourcePartIndex": 11
+        }
+      ]
+    },
+    {
+      "id": "qm.json-015",
+      "startMs": 49266,
+      "endMs": 52630,
+      "text": "僕らでうちゅうのふしぎ",
+      "parts": [
+        {
+          "text": "僕",
+          "startMs": 49266,
+          "endMs": 49586,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "ら",
+          "startMs": 49586,
+          "endMs": 49997,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "で",
+          "startMs": 49997,
+          "endMs": 50446,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "う",
+          "startMs": 50446,
+          "endMs": 50637,
+          "sourceOffset": 3,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ち",
+          "startMs": 50637,
+          "endMs": 50816,
+          "sourceOffset": 4,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ゅ",
+          "startMs": 50816,
+          "endMs": 50995,
+          "sourceOffset": 5,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "う",
+          "startMs": 50995,
+          "endMs": 51174,
+          "sourceOffset": 6,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "の",
+          "startMs": 51174,
+          "endMs": 51479,
+          "sourceOffset": 7,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "ふ",
+          "startMs": 51479,
+          "endMs": 51613,
+          "sourceOffset": 8,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "し",
+          "startMs": 51613,
+          "endMs": 51926,
+          "sourceOffset": 9,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "ぎ",
+          "startMs": 51926,
+          "endMs": 52630,
+          "sourceOffset": 10,
+          "sourcePartIndex": 10
+        }
+      ]
+    },
+    {
+      "id": "qm.json-016",
+      "startMs": 52630,
+      "endMs": 57368,
+      "text": "解き明かしてみよう",
+      "parts": [
+        {
+          "text": "解",
+          "startMs": 52630,
+          "endMs": 52940,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "き",
+          "startMs": 52940,
+          "endMs": 53437,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "明",
+          "startMs": 53437,
+          "endMs": 54055,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "か",
+          "startMs": 54055,
+          "endMs": 54461,
+          "sourceOffset": 3,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "し",
+          "startMs": 54461,
+          "endMs": 54990,
+          "sourceOffset": 4,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "て",
+          "startMs": 54990,
+          "endMs": 55423,
+          "sourceOffset": 5,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "み",
+          "startMs": 55423,
+          "endMs": 56014,
+          "sourceOffset": 6,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "よ",
+          "startMs": 56014,
+          "endMs": 56263,
+          "sourceOffset": 7,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "う",
+          "startMs": 56263,
+          "endMs": 57368,
+          "sourceOffset": 8,
+          "sourcePartIndex": 8
+        }
+      ]
+    },
+    {
+      "id": "qm.json-017",
+      "startMs": 58536,
+      "endMs": 62430,
+      "text": "星はなんで輝いてるの",
+      "parts": [
+        {
+          "text": "星",
+          "startMs": 58536,
+          "endMs": 58936,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "は",
+          "startMs": 58936,
+          "endMs": 59457,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "な",
+          "startMs": 59457,
+          "endMs": 59703,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ん",
+          "startMs": 59704,
+          "endMs": 59950,
+          "sourceOffset": 3,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "で",
+          "startMs": 59950,
+          "endMs": 60461,
+          "sourceOffset": 4,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "輝",
+          "startMs": 60461,
+          "endMs": 61246,
+          "sourceOffset": 5,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "い",
+          "startMs": 61246,
+          "endMs": 61449,
+          "sourceOffset": 6,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "て",
+          "startMs": 61449,
+          "endMs": 61743,
+          "sourceOffset": 7,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "る",
+          "startMs": 61743,
+          "endMs": 61955,
+          "sourceOffset": 8,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "の",
+          "startMs": 61955,
+          "endMs": 62430,
+          "sourceOffset": 9,
+          "sourcePartIndex": 9
+        }
+      ]
+    },
+    {
+      "id": "qm.json-018",
+      "startMs": 62430,
+      "endMs": 66368,
+      "text": "雲はどうして空を泳ぐの",
+      "parts": [
+        {
+          "text": "雲",
+          "startMs": 62430,
+          "endMs": 62838,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "は",
+          "startMs": 62838,
+          "endMs": 63382,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ど",
+          "startMs": 63382,
+          "endMs": 63558,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "う",
+          "startMs": 63558,
+          "endMs": 63734,
+          "sourceOffset": 3,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "し",
+          "startMs": 63734,
+          "endMs": 63910,
+          "sourceOffset": 4,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "て",
+          "startMs": 63910,
+          "endMs": 64414,
+          "sourceOffset": 5,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "空",
+          "startMs": 64414,
+          "endMs": 64825,
+          "sourceOffset": 6,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "を",
+          "startMs": 64825,
+          "endMs": 65230,
+          "sourceOffset": 7,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "泳",
+          "startMs": 65230,
+          "endMs": 65663,
+          "sourceOffset": 8,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "ぐ",
+          "startMs": 65663,
+          "endMs": 65854,
+          "sourceOffset": 9,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "の",
+          "startMs": 65854,
+          "endMs": 66368,
+          "sourceOffset": 10,
+          "sourcePartIndex": 10
+        }
+      ]
+    },
+    {
+      "id": "qm.json-019",
+      "startMs": 66368,
+      "endMs": 70679,
+      "text": "人はなんで夢を描くの",
+      "parts": [
+        {
+          "text": "人",
+          "startMs": 66368,
+          "endMs": 66792,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "は",
+          "startMs": 66792,
+          "endMs": 67287,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "な",
+          "startMs": 67287,
+          "endMs": 67549,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ん",
+          "startMs": 67549,
+          "endMs": 67811,
+          "sourceOffset": 3,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "で",
+          "startMs": 67811,
+          "endMs": 68328,
+          "sourceOffset": 4,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "夢",
+          "startMs": 68328,
+          "endMs": 68790,
+          "sourceOffset": 5,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "を",
+          "startMs": 68790,
+          "endMs": 69111,
+          "sourceOffset": 6,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "描",
+          "startMs": 69111,
+          "endMs": 69567,
+          "sourceOffset": 7,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "く",
+          "startMs": 69567,
+          "endMs": 69750,
+          "sourceOffset": 8,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "の",
+          "startMs": 69750,
+          "endMs": 70679,
+          "sourceOffset": 9,
+          "sourcePartIndex": 9
+        }
+      ]
+    },
+    {
+      "id": "qm.json-020",
+      "startMs": 70679,
+      "endMs": 74950,
+      "text": "答えなんてないのかな",
+      "parts": [
+        {
+          "text": "答",
+          "startMs": 70679,
+          "endMs": 71030,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "え",
+          "startMs": 71030,
+          "endMs": 71268,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "な",
+          "startMs": 71268,
+          "endMs": 71467,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ん",
+          "startMs": 71467,
+          "endMs": 71565,
+          "sourceOffset": 3,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "て",
+          "startMs": 71565,
+          "endMs": 71781,
+          "sourceOffset": 4,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "な",
+          "startMs": 71781,
+          "endMs": 72092,
+          "sourceOffset": 5,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "い",
+          "startMs": 72092,
+          "endMs": 72327,
+          "sourceOffset": 6,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "の",
+          "startMs": 72327,
+          "endMs": 72625,
+          "sourceOffset": 7,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "か",
+          "startMs": 72625,
+          "endMs": 72836,
+          "sourceOffset": 8,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "な",
+          "startMs": 72836,
+          "endMs": 74950,
+          "sourceOffset": 9,
+          "sourcePartIndex": 9
+        }
+      ]
+    },
+    {
+      "id": "qm.json-021",
+      "startMs": 90076,
+      "endMs": 93902,
+      "text": "いつかこんなちいさなうたは",
+      "parts": [
+        {
+          "text": "い",
+          "startMs": 90076,
+          "endMs": 90300,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "つ",
+          "startMs": 90300,
+          "endMs": 90499,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "か",
+          "startMs": 90499,
+          "endMs": 90969,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "こ",
+          "startMs": 90969,
+          "endMs": 91195,
+          "sourceOffset": 3,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ん",
+          "startMs": 91195,
+          "endMs": 91421,
+          "sourceOffset": 4,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "な",
+          "startMs": 91422,
+          "endMs": 91906,
+          "sourceOffset": 5,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ち",
+          "startMs": 91906,
+          "endMs": 92158,
+          "sourceOffset": 6,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "い",
+          "startMs": 92159,
+          "endMs": 92411,
+          "sourceOffset": 7,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "さ",
+          "startMs": 92411,
+          "endMs": 92707,
+          "sourceOffset": 8,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "な",
+          "startMs": 92707,
+          "endMs": 92902,
+          "sourceOffset": 9,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "う",
+          "startMs": 92902,
+          "endMs": 93244,
+          "sourceOffset": 10,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "た",
+          "startMs": 93244,
+          "endMs": 93436,
+          "sourceOffset": 11,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "は",
+          "startMs": 93436,
+          "endMs": 93902,
+          "sourceOffset": 12,
+          "sourcePartIndex": 12
+        }
+      ]
+    },
+    {
+      "id": "qm.json-022",
+      "startMs": 93902,
+      "endMs": 97827,
+      "text": "きみはきっとわすれちゃうけど",
+      "parts": [
+        {
+          "text": "き",
+          "startMs": 93902,
+          "endMs": 94185,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "み",
+          "startMs": 94185,
+          "endMs": 94348,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "は",
+          "startMs": 94348,
+          "endMs": 94822,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "き",
+          "startMs": 94822,
+          "endMs": 95069,
+          "sourceOffset": 3,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "っ",
+          "startMs": 95069,
+          "endMs": 95316,
+          "sourceOffset": 4,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "と",
+          "startMs": 95317,
+          "endMs": 95812,
+          "sourceOffset": 5,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "わ",
+          "startMs": 95812,
+          "endMs": 96147,
+          "sourceOffset": 6,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "す",
+          "startMs": 96147,
+          "endMs": 96299,
+          "sourceOffset": 7,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "れ",
+          "startMs": 96299,
+          "endMs": 96621,
+          "sourceOffset": 8,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "ち",
+          "startMs": 96621,
+          "endMs": 96700,
+          "sourceOffset": 9,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "ゃ",
+          "startMs": 96700,
+          "endMs": 96779,
+          "sourceOffset": 10,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "う",
+          "startMs": 96779,
+          "endMs": 97150,
+          "sourceOffset": 11,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "け",
+          "startMs": 97150,
+          "endMs": 97315,
+          "sourceOffset": 12,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "ど",
+          "startMs": 97315,
+          "endMs": 97827,
+          "sourceOffset": 13,
+          "sourcePartIndex": 13
+        }
+      ]
+    },
+    {
+      "id": "qm.json-023",
+      "startMs": 97827,
+      "endMs": 101739,
+      "text": "ぼくはずっとおぼえているよ",
+      "parts": [
+        {
+          "text": "ぼ",
+          "startMs": 97827,
+          "endMs": 98124,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "く",
+          "startMs": 98124,
+          "endMs": 98308,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "は",
+          "startMs": 98308,
+          "endMs": 98787,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ず",
+          "startMs": 98787,
+          "endMs": 98999,
+          "sourceOffset": 3,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "っ",
+          "startMs": 98999,
+          "endMs": 99211,
+          "sourceOffset": 4,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "と",
+          "startMs": 99211,
+          "endMs": 99798,
+          "sourceOffset": 5,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "お",
+          "startMs": 99798,
+          "endMs": 100087,
+          "sourceOffset": 6,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "ぼ",
+          "startMs": 100087,
+          "endMs": 100256,
+          "sourceOffset": 7,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "え",
+          "startMs": 100256,
+          "endMs": 100600,
+          "sourceOffset": 8,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "て",
+          "startMs": 100600,
+          "endMs": 100828,
+          "sourceOffset": 9,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "い",
+          "startMs": 100828,
+          "endMs": 101056,
+          "sourceOffset": 10,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "る",
+          "startMs": 101057,
+          "endMs": 101270,
+          "sourceOffset": 11,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "よ",
+          "startMs": 101270,
+          "endMs": 101739,
+          "sourceOffset": 12,
+          "sourcePartIndex": 12
+        }
+      ]
+    },
+    {
+      "id": "qm.json-024",
+      "startMs": 102117,
+      "endMs": 106178,
+      "text": "おとなになってもね",
+      "parts": [
+        {
+          "text": "お",
+          "startMs": 102117,
+          "endMs": 102299,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "と",
+          "startMs": 102299,
+          "endMs": 102523,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "な",
+          "startMs": 102523,
+          "endMs": 102715,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "に",
+          "startMs": 102715,
+          "endMs": 103016,
+          "sourceOffset": 3,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "な",
+          "startMs": 103016,
+          "endMs": 103310,
+          "sourceOffset": 4,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "っ",
+          "startMs": 103310,
+          "endMs": 103666,
+          "sourceOffset": 5,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "て",
+          "startMs": 103666,
+          "endMs": 104004,
+          "sourceOffset": 6,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "も",
+          "startMs": 104004,
+          "endMs": 104179,
+          "sourceOffset": 7,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "ね",
+          "startMs": 104179,
+          "endMs": 106178,
+          "sourceOffset": 8,
+          "sourcePartIndex": 8
+        }
+      ]
+    },
+    {
+      "id": "qm.json-025",
+      "startMs": 107649,
+      "endMs": 111692,
+      "text": "今日はどんな話をしよう？",
+      "parts": [
+        {
+          "text": "今日",
+          "startMs": 107649,
+          "endMs": 108179,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "は",
+          "startMs": 108179,
+          "endMs": 108585,
+          "sourceOffset": 2,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ど",
+          "startMs": 108585,
+          "endMs": 108829,
+          "sourceOffset": 3,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ん",
+          "startMs": 108829,
+          "endMs": 109073,
+          "sourceOffset": 4,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "な",
+          "startMs": 109073,
+          "endMs": 109619,
+          "sourceOffset": 5,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "話",
+          "startMs": 109619,
+          "endMs": 110353,
+          "sourceOffset": 6,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "を",
+          "startMs": 110353,
+          "endMs": 110565,
+          "sourceOffset": 7,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "し",
+          "startMs": 110565,
+          "endMs": 110888,
+          "sourceOffset": 8,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "よ",
+          "startMs": 110888,
+          "endMs": 111092,
+          "sourceOffset": 9,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "う",
+          "startMs": 111092,
+          "endMs": 111692,
+          "sourceOffset": 10,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "？",
+          "startMs": 111692,
+          "endMs": 111692,
+          "sourceOffset": 11,
+          "sourcePartIndex": 10
+        }
+      ]
+    },
+    {
+      "id": "qm.json-026",
+      "startMs": 111692,
+      "endMs": 115667,
+      "text": "君とどんな歌を歌おう？",
+      "parts": [
+        {
+          "text": "君",
+          "startMs": 111692,
+          "endMs": 112062,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "と",
+          "startMs": 112062,
+          "endMs": 112531,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ど",
+          "startMs": 112531,
+          "endMs": 112758,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ん",
+          "startMs": 112758,
+          "endMs": 112985,
+          "sourceOffset": 3,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "な",
+          "startMs": 112986,
+          "endMs": 113510,
+          "sourceOffset": 4,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "歌",
+          "startMs": 113510,
+          "endMs": 114023,
+          "sourceOffset": 5,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "を",
+          "startMs": 114023,
+          "endMs": 114382,
+          "sourceOffset": 6,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "歌",
+          "startMs": 114382,
+          "endMs": 114796,
+          "sourceOffset": 7,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "お",
+          "startMs": 114796,
+          "endMs": 115122,
+          "sourceOffset": 8,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "う",
+          "startMs": 115122,
+          "endMs": 115667,
+          "sourceOffset": 9,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "？",
+          "startMs": 115667,
+          "endMs": 115667,
+          "sourceOffset": 10,
+          "sourcePartIndex": 10
+        }
+      ]
+    },
+    {
+      "id": "qm.json-027",
+      "startMs": 115667,
+      "endMs": 119449,
+      "text": "誰もまだ知らない花も",
+      "parts": [
+        {
+          "text": "誰",
+          "startMs": 115667,
+          "endMs": 116017,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "も",
+          "startMs": 116017,
+          "endMs": 116499,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ま",
+          "startMs": 116499,
+          "endMs": 117011,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "だ",
+          "startMs": 117011,
+          "endMs": 117482,
+          "sourceOffset": 3,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "知",
+          "startMs": 117482,
+          "endMs": 117826,
+          "sourceOffset": 4,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ら",
+          "startMs": 117826,
+          "endMs": 117971,
+          "sourceOffset": 5,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "な",
+          "startMs": 117971,
+          "endMs": 118282,
+          "sourceOffset": 6,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "い",
+          "startMs": 118282,
+          "endMs": 118509,
+          "sourceOffset": 7,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "花",
+          "startMs": 118509,
+          "endMs": 118898,
+          "sourceOffset": 8,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "も",
+          "startMs": 118898,
+          "endMs": 119449,
+          "sourceOffset": 9,
+          "sourcePartIndex": 9
+        }
+      ]
+    },
+    {
+      "id": "qm.json-028",
+      "startMs": 119449,
+      "endMs": 122689,
+      "text": "ぜんぶ ぜんぶ ぜんぶ",
+      "parts": [
+        {
+          "text": "ぜ",
+          "startMs": 119449,
+          "endMs": 119637,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "ん",
+          "startMs": 119637,
+          "endMs": 119825,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ぶ",
+          "startMs": 119825,
+          "endMs": 120386,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": " ",
+          "startMs": 120386,
+          "endMs": 120386,
+          "sourceOffset": 3,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ぜ",
+          "startMs": 120386,
+          "endMs": 120609,
+          "sourceOffset": 4,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ん",
+          "startMs": 120609,
+          "endMs": 120832,
+          "sourceOffset": 5,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ぶ",
+          "startMs": 120832,
+          "endMs": 121332,
+          "sourceOffset": 6,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": " ",
+          "startMs": 121332,
+          "endMs": 121332,
+          "sourceOffset": 7,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "ぜ",
+          "startMs": 121332,
+          "endMs": 121574,
+          "sourceOffset": 8,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "ん",
+          "startMs": 121575,
+          "endMs": 121817,
+          "sourceOffset": 9,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "ぶ",
+          "startMs": 121817,
+          "endMs": 122689,
+          "sourceOffset": 10,
+          "sourcePartIndex": 10
+        }
+      ]
+    },
+    {
+      "id": "qm.json-029",
+      "startMs": 122689,
+      "endMs": 126471,
+      "text": "さがしにゆこう",
+      "parts": [
+        {
+          "text": "さ",
+          "startMs": 122689,
+          "endMs": 122873,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "が",
+          "startMs": 122873,
+          "endMs": 123169,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "し",
+          "startMs": 123169,
+          "endMs": 123345,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "に",
+          "startMs": 123345,
+          "endMs": 123673,
+          "sourceOffset": 3,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ゆ",
+          "startMs": 123673,
+          "endMs": 123931,
+          "sourceOffset": 4,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "こ",
+          "startMs": 123931,
+          "endMs": 124130,
+          "sourceOffset": 5,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "う",
+          "startMs": 124130,
+          "endMs": 126471,
+          "sourceOffset": 6,
+          "sourcePartIndex": 6
+        }
+      ]
+    },
+    {
+      "id": "qm.json-030",
+      "startMs": 127349,
+      "endMs": 130531,
+      "text": "ぜんぶ ぜんぶ ぜんぶ",
+      "parts": [
+        {
+          "text": "ぜ",
+          "startMs": 127349,
+          "endMs": 127561,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "ん",
+          "startMs": 127561,
+          "endMs": 127773,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ぶ",
+          "startMs": 127773,
+          "endMs": 128245,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": " ",
+          "startMs": 128245,
+          "endMs": 128245,
+          "sourceOffset": 3,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ぜ",
+          "startMs": 128245,
+          "endMs": 128488,
+          "sourceOffset": 4,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ん",
+          "startMs": 128488,
+          "endMs": 128731,
+          "sourceOffset": 5,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ぶ",
+          "startMs": 128732,
+          "endMs": 129224,
+          "sourceOffset": 6,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": " ",
+          "startMs": 129224,
+          "endMs": 129224,
+          "sourceOffset": 7,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "ぜ",
+          "startMs": 129224,
+          "endMs": 129486,
+          "sourceOffset": 8,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "ん",
+          "startMs": 129486,
+          "endMs": 129748,
+          "sourceOffset": 9,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "ぶ",
+          "startMs": 129749,
+          "endMs": 130531,
+          "sourceOffset": 10,
+          "sourcePartIndex": 10
+        }
+      ]
+    },
+    {
+      "id": "qm.json-031",
+      "startMs": 130531,
+      "endMs": 134194,
+      "text": "さがしにゆこう",
+      "parts": [
+        {
+          "text": "さ",
+          "startMs": 130531,
+          "endMs": 130699,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "が",
+          "startMs": 130699,
+          "endMs": 131050,
+          "sourceOffset": 1,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "し",
+          "startMs": 131050,
+          "endMs": 131223,
+          "sourceOffset": 2,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "に",
+          "startMs": 131223,
+          "endMs": 131539,
+          "sourceOffset": 3,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ゆ",
+          "startMs": 131539,
+          "endMs": 131812,
+          "sourceOffset": 4,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "こ",
+          "startMs": 131812,
+          "endMs": 132980,
+          "sourceOffset": 5,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "う",
+          "startMs": 132980,
+          "endMs": 134194,
+          "sourceOffset": 6,
+          "sourcePartIndex": 6
+        }
+      ]
+    }
+  ]
+}

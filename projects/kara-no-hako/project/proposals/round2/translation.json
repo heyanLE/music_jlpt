@@ -1,0 +1,1556 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "translation",
+  "status": "completed",
+  "reviewRound": 2,
+  "scope": {
+    "frameIds": [
+      "l001",
+      "l002",
+      "l003",
+      "l004",
+      "l005",
+      "l006",
+      "l007",
+      "l008",
+      "l009",
+      "l010",
+      "l011",
+      "l012",
+      "l013",
+      "l014",
+      "l015",
+      "l016",
+      "l017",
+      "l018",
+      "l019",
+      "l020",
+      "l021",
+      "l022",
+      "l023",
+      "l024",
+      "l025",
+      "l026",
+      "l027",
+      "l028",
+      "l029",
+      "l030",
+      "l031",
+      "l032",
+      "l033",
+      "l034",
+      "l035",
+      "l036",
+      "l037",
+      "l038",
+      "l039",
+      "l040",
+      "l041",
+      "l042",
+      "l043",
+      "l044",
+      "l045"
+    ]
+  },
+  "baseFrameSha256": "7e730357a5d9a6adf121d4f23c7fc86a263769209d78a4a8444f2fba122f48d6",
+  "methodology": {
+    "independentReReview": true,
+    "previousRoundAssumedCorrect": false,
+    "liveFramesEdited": false,
+    "sourceTranslationPolicy": "QQ整句中文保持原样；sourceTranslationIssues是独立问题清单，不在默认词卡采纳范围。",
+    "audioListeningPerformed": false,
+    "protectedFields": "主代理已核查MD无待导入人工改动；本角色以给定frames SHA为唯一baseline。",
+    "formatReference": "仅读取dare-v3正式frames、最新confirmed-review及correction-review，不以旧待联网核对草稿为依据。",
+    "formatPrinciple": "实词直接中文、纯助词具体语境功能、短卡不堆同义词；词性／活用与结构调整由相应角色提供，本角色保留原token及索引以便显式映射。"
+  },
+  "inputArtifacts": [
+    "C:/project/musicjlpt/projects/kara-no-hako/project/frames.json",
+    "C:/project/musicjlpt/projects/kara-no-hako/deliverables/review/kara-no-hako-review.md",
+    "C:/project/musicjlpt/projects/kara-no-hako/project/timing/translation-decoded.qrc",
+    "C:/project/musicjlpt/projects/kara-no-hako/project/timing/qm-decoded.qrc",
+    "C:/project/musicjlpt/projects/kara-no-hako/project/review/round2-brief.md",
+    "C:/project/musicjlpt/projects/dare-ni-mo-narenai-watashi-dakara-v3/project/frames.json",
+    "C:/project/musicjlpt/projects/dare-ni-mo-narenai-watashi-dakara-v3/deliverables/review/dare-ni-mo-narenai-watashi-dakara-v3-confirmed-review.md",
+    "C:/project/musicjlpt/projects/dare-ni-mo-narenai-watashi-dakara-v3/deliverables/review/dare-ni-mo-narenai-watashi-dakara-v3-correction-review.md"
+  ],
+  "changes": [
+    {
+      "frameId": "l001",
+      "token": "やけに",
+      "field": "grammarCards[0].zhMeaning",
+      "old": "格外；异常地",
+      "new": "格外地",
+      "confidence": 0.96,
+      "evidence": [
+        "选取此处超出通常程度的单一副词义；不在后面的形容词卡再重复程度。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l001",
+      "token": "やたら",
+      "field": "grammarCards[2].zhMeaning",
+      "old": "过分地；特别地",
+      "new": "过分地",
+      "confidence": 0.96,
+      "evidence": [
+        "在長い前取程度过甚义，不并排堆放轻重不一的同义释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l001",
+      "token": "長いんだ",
+      "field": "grammarCards[3].zhMeaning",
+      "old": "十分漫长啊",
+      "new": "长啊",
+      "confidence": 0.94,
+      "evidence": [
+        "程度由独立的やたら卡承担；長い本身不指定时间，删除十分并避免用漫长把长度解释锁死为时间。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l016",
+      "token": "やけに",
+      "field": "grammarCards[0].zhMeaning",
+      "old": "格外；异常地",
+      "new": "格外地",
+      "confidence": 0.96,
+      "evidence": [
+        "选取此处超出通常程度的单一副词义；不在后面的形容词卡再重复程度。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l016",
+      "token": "やたら",
+      "field": "grammarCards[2].zhMeaning",
+      "old": "过分地；特别地",
+      "new": "过分地",
+      "confidence": 0.96,
+      "evidence": [
+        "在長い前取程度过甚义，不并排堆放轻重不一的同义释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l016",
+      "token": "長いんだ",
+      "field": "grammarCards[3].zhMeaning",
+      "old": "十分漫长啊",
+      "new": "长啊",
+      "confidence": 0.94,
+      "evidence": [
+        "程度由独立的やたら卡承担；長い本身不指定时间，删除十分并避免用漫长把长度解释锁死为时间。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l002",
+      "token": "だいたい",
+      "field": "grammarCards[2].zhMeaning",
+      "old": "大致；大多",
+      "new": "大多",
+      "confidence": 0.91,
+      "evidence": [
+        "结合后句カタチばかりの常識だろう，是概括答案的总体情形；此处不必把大致与大多两个尺度并列。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l017",
+      "token": "だいたい",
+      "field": "grammarCards[2].zhMeaning",
+      "old": "大致；大多",
+      "new": "大多",
+      "confidence": 0.91,
+      "evidence": [
+        "结合后句カタチばかりの常識だろう，是概括答案的总体情形；此处不必把大致与大多两个尺度并列。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l003",
+      "token": "カタチ",
+      "field": "grammarCards[0].zhMeaning",
+      "old": "形式；外表",
+      "new": "形式",
+      "confidence": 0.96,
+      "evidence": [
+        "カタチばかり所批评的是只有形式而无实质，保留名词的具体中文，不改成抽象助词功能。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l003",
+      "token": "ばかり",
+      "field": "grammarCards[1].functionZh",
+      "old": "限定为仅仅如此",
+      "new": "限定只有形式",
+      "confidence": 0.98,
+      "evidence": [
+        "此处限定的是カタチ，不是频繁发生、概数或刚完成。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l018",
+      "token": "カタチ",
+      "field": "grammarCards[0].zhMeaning",
+      "old": "形式；外表",
+      "new": "形式",
+      "confidence": 0.96,
+      "evidence": [
+        "カタチばかり所批评的是只有形式而无实质，保留名词的具体中文，不改成抽象助词功能。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l018",
+      "token": "ばかり",
+      "field": "grammarCards[1].functionZh",
+      "old": "限定为仅仅如此",
+      "new": "限定只有形式",
+      "confidence": 0.98,
+      "evidence": [
+        "此处限定的是カタチ，不是频繁发生、概数或刚完成。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l006",
+      "token": "ぶつかっている",
+      "field": "grammarCards[0].zhMeaning",
+      "old": "正遇到；碰上了",
+      "new": "碰上了",
+      "confidence": 0.94,
+      "evidence": [
+        "与l005的今和三叉路に连读，描述眼下已碰上岔路的状态；删去正遇到与碰上了两种时体说法并列。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l008",
+      "token": "進めばいい",
+      "field": "grammarCards[0].zhMeaning",
+      "old": "该往前走；前进才好",
+      "new": "前进才好",
+      "confidence": 0.96,
+      "evidence": [
+        "何を頼りに…のでしょうか是寻求指引的疑问，不是在告诉对方该往前走；疑问语气由后卡解释。",
+        "S10：ばいい的表面形式不能独立决定本句是建议；这里的疑问判断来自冻结日文上下文。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l009",
+      "token": "よく言ったもので",
+      "field": "grammarCards[2].zhMeaning",
+      "old": "这话倒真说得好",
+      "new": "这话说得真贴切",
+      "confidence": 0.94,
+      "evidence": [
+        "评价教科書通り这个说法是否说中了情况，中文贴切比说得好更能排除鼓励遵照课本的误读；是否含反讽另列不确定性。",
+        "S11：よく有うまく／立派に义。",
+        "S12仅为近义表达旁证，不将言い得て妙冒充该歌词原词条。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l010",
+      "token": "難しい",
+      "field": "grammarCards[0].zhMeaning",
+      "old": "晦涩的；难懂的",
+      "new": "难懂的",
+      "confidence": 0.96,
+      "evidence": [
+        "修饰言葉，选择理解困难义；不把难懂与更强的晦涩并列。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l010",
+      "token": "言葉",
+      "field": "grammarCards[1].zhMeaning",
+      "old": "词语；话语",
+      "new": "词语",
+      "confidence": 0.93,
+      "evidence": [
+        "与教科書、難しい、空欄的上下文相连，词语足以表达名词义；不需要另堆话语。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l010",
+      "token": "だらけ",
+      "field": "grammarCards[2].zhMeaning",
+      "old": "净是；满是",
+      "new": "满是",
+      "confidence": 0.96,
+      "evidence": [
+        "保留大量充斥且常有负面评价的核心义；负面语气可由结构字段说明。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l011",
+      "token": "今日",
+      "field": "grammarCards[0].zhMeaning",
+      "old": "今天；如今",
+      "new": "如今",
+      "confidence": 0.94,
+      "evidence": [
+        "与あの頃对照，选择当前／如今义；こんにち也可指本日，因此这是语境取义，不是读音排他的词典结论。",
+        "S6"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l011",
+      "token": "少しも",
+      "field": "grammarCards[2].zhMeaning",
+      "old": "一点也；丝毫也",
+      "new": "一点也",
+      "confidence": 0.96,
+      "evidence": [
+        "与変わらない呼应；不在本卡先补不，再与后卡重复否定。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l011",
+      "token": "変わらない",
+      "field": "grammarCards[3].zhMeaning",
+      "old": "没有改变",
+      "new": "没有改变的",
+      "confidence": 0.9,
+      "evidence": [
+        "优先按l011–l012跨行连续句法分析，あの頃から少しも変わらない前修饰この空欄；的帮助读者接住后行名词，而非受QQ分行支配。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l013",
+      "token": "いつの日か",
+      "field": "grammarCards[0].zhMeaning",
+      "old": "总有一天；某一天",
+      "new": "某一天",
+      "confidence": 0.96,
+      "evidence": [
+        "未来的不确定日子；删除总有一天所暗带的确定期待，尤其不能按QQ讲成究竟何时。",
+        "S9：何時条直接给出いつの日か的未来不定时释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l014",
+      "token": "どうやって",
+      "field": "grammarCards[2].zhMeaning",
+      "old": "用什么方式；如何",
+      "new": "用什么方式",
+      "confidence": 0.96,
+      "evidence": [
+        "本句问方法而非原因；保留一个易接到l015的完整释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l015",
+      "token": "進みますか",
+      "field": "grammarCards[2].zhMeaning",
+      "old": "会前进吗",
+      "new": "前进呢",
+      "confidence": 0.93,
+      "evidence": [
+        "疑问焦点来自l014的どうやって，整句是如何前进，不是是否会前进；用呢承接前卡的方式问句。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l020",
+      "token": "無いんだ",
+      "field": "grammarCards[2].zhMeaning",
+      "old": "并不存在啊",
+      "new": "没有啊",
+      "confidence": 0.96,
+      "evidence": [
+        "统一同形词卡的简短否定义；んだ不单独编码并、根本等程度或转折。句中主题和数量分别由其他卡承担。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l021",
+      "token": "無いんだ",
+      "field": "grammarCards[2].zhMeaning",
+      "old": "并不存在啊",
+      "new": "没有啊",
+      "confidence": 0.96,
+      "evidence": [
+        "统一同形词卡的简短否定义；んだ不单独编码并、根本等程度或转折。句中主题和数量分别由其他卡承担。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l037",
+      "token": "無いんだ",
+      "field": "grammarCards[2].zhMeaning",
+      "old": "并不存在啊",
+      "new": "没有啊",
+      "confidence": 0.96,
+      "evidence": [
+        "统一同形词卡的简短否定义；んだ不单独编码并、根本等程度或转折。句中主题和数量分别由其他卡承担。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l041",
+      "token": "無いんだ",
+      "field": "grammarCards[5].zhMeaning",
+      "old": "根本不存在啊",
+      "new": "没有啊",
+      "confidence": 0.96,
+      "evidence": [
+        "统一同形词卡的简短否定义；んだ不单独编码并、根本等程度或转折。句中主题和数量分别由其他卡承担。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l022",
+      "token": "生涯",
+      "field": "grammarCards[2].zhMeaning",
+      "old": "一生；终其一生",
+      "new": "一生",
+      "confidence": 0.96,
+      "evidence": [
+        "名词直接给时间名词义；终其一生可用于整句意译，不必作为第二个同义释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l042",
+      "token": "生涯",
+      "field": "grammarCards[2].zhMeaning",
+      "old": "一生；终其一生",
+      "new": "一生",
+      "confidence": 0.96,
+      "evidence": [
+        "名词直接给时间名词义；终其一生可用于整句意译，不必作为第二个同义释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l023",
+      "token": "あたしであって",
+      "field": "grammarCards[0].zhMeaning",
+      "old": "作为我自己",
+      "new": "是我自己",
+      "confidence": 0.98,
+      "evidence": [
+        "承接l022的あたしは生涯，为身份断定あたしである的て形；不是以某身份去做某事的方式状语。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l024",
+      "token": "これ以上",
+      "field": "grammarCards[0].zhMeaning",
+      "old": "再这样；更进一步",
+      "new": "再进一步",
+      "confidence": 0.95,
+      "evidence": [
+        "これ以上表达超出当前程度；再这样只表示方式相同，漏掉以上的程度增量。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l044",
+      "token": "これ以上",
+      "field": "grammarCards[0].zhMeaning",
+      "old": "再这样；更进一步",
+      "new": "再进一步",
+      "confidence": 0.95,
+      "evidence": [
+        "これ以上表达超出当前程度；再这样只表示方式相同，漏掉以上的程度增量。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l025",
+      "token": "所為にして",
+      "field": "grammarCards[3].zhMeaning",
+      "old": "归咎于；怪罪于",
+      "new": "归咎于",
+      "confidence": 0.99,
+      "evidence": [
+        "せいにする是把原因／责任归给前面的地図，不能读成客观陈述因地图而困惑；只保留一个简洁释义。",
+        "S4"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l027",
+      "token": "強がったとして",
+      "field": "grammarCards[0].zhMeaning",
+      "old": "即使逞强；假定逞强",
+      "new": "即使逞强",
+      "confidence": 0.96,
+      "evidence": [
+        "与l028结果大概相同连读，保留假设让步；た在此不等于已经实际逞强了，不并列假定逞强。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l028",
+      "token": "おそらく",
+      "field": "grammarCards[2].zhMeaning",
+      "old": "大概；恐怕",
+      "new": "大概",
+      "confidence": 0.96,
+      "evidence": [
+        "这里为结果相同的推测，不需要额外强化担忧色彩。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l028",
+      "token": "同じ",
+      "field": "grammarCards[3].zhMeaning",
+      "old": "一样；相同",
+      "new": "一样",
+      "confidence": 0.96,
+      "evidence": [
+        "直接给出单一形容性中文，避免一样／相同的重复释义。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l029",
+      "token": "溢れだしそうなほど",
+      "field": "grammarCards[0].zhMeaning",
+      "old": "多到仿佛快溢出来",
+      "new": "到快要溢出的程度",
+      "confidence": 0.97,
+      "evidence": [
+        "そう描述将要发生的样态，ほど表示装入的程度；去掉多到仿佛快的叠加，使其清楚连接詰め込んだ。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l029",
+      "token": "詰め込んだ",
+      "field": "grammarCards[1].zhMeaning",
+      "old": "塞满了；强塞进去",
+      "new": "塞满了的",
+      "confidence": 0.96,
+      "evidence": [
+        "该た形优先连体修饰l030的他人の箱，保留装满义及结果性，不增加自己、别人装入等未明示施事。",
+        "S2"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l030",
+      "token": "横目に",
+      "field": "grammarCards[4].zhMeaning",
+      "old": "斜眼看着；侧目而视",
+      "new": "瞥着",
+      "confidence": 0.94,
+      "evidence": [
+        "此处是以侧眼看、稍看一眼的状态；旧译侧目而视在中文容易附加愤怒／畏惧，不宜写入词卡。是否不愿介入另列不确定性。",
+        "S3"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l031",
+      "token": "下手な",
+      "field": "grammarCards[0].zhMeaning",
+      "old": "笨拙的；不自然的",
+      "new": "笨拙的",
+      "confidence": 0.96,
+      "evidence": [
+        "在不擅长应酬式微笑的上下文里，保留不熟练义；不把不同强度的评价堆在短卡。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l031",
+      "token": "愛想笑い",
+      "field": "grammarCards[1].zhMeaning",
+      "old": "应酬的笑；赔笑",
+      "new": "应酬的笑",
+      "confidence": 0.96,
+      "evidence": [
+        "表示为照顾社交气氛而作出的笑，不必强化为谄媚或赔罪；保留完整名词。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l032",
+      "token": "やっぱり",
+      "field": "grammarCards[0].zhMeaning",
+      "old": "果然；终究还是",
+      "new": "果然还是",
+      "confidence": 0.94,
+      "evidence": [
+        "继l031说连笨拙应酬笑都做不到，兼顾如预期和仍然如此的语气；不加入终究所暗示的长程结果。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l034",
+      "token": "思うでしょう",
+      "field": "grammarCards[2].zhMeaning",
+      "old": "也会这么想吧",
+      "new": "会这么想吧",
+      "confidence": 0.99,
+      "evidence": [
+        "同样也的意义已在独立も卡，不应在动词卡重复计入；这么承接l033的想法。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l035",
+      "token": "なんて",
+      "field": "grammarCards[1].functionZh",
+      "old": "引用并轻视前述想法",
+      "new": "引述并带不以为然语气",
+      "confidence": 0.97,
+      "evidence": [
+        "引述このままでいい这一想法，借下一句说明反对态度；不把なんて本身教成否定词或沿QQ单独当成肯定建议。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l036",
+      "token": "それだけ",
+      "field": "grammarCards[0].zhMeaning",
+      "old": "唯独那件事",
+      "new": "唯独这一点",
+      "confidence": 0.97,
+      "evidence": [
+        "それ回指上一行维持现状就好的想法，不是另一个未指明事件；区别于l023仅此而已。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l038",
+      "token": "無くなった",
+      "field": "grammarCards[0].zhMeaning",
+      "old": "消失了；不见了",
+      "new": "不见了",
+      "confidence": 0.96,
+      "evidence": [
+        "保留由有变无的完成状态，与下一行开始了构成备选；不加失去梦想等具体对象。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l038",
+      "token": "のか",
+      "field": "grammarCards[1].functionZh",
+      "old": "提出疑问或不确定选项",
+      "new": "列举不见了这一可能",
+      "confidence": 0.98,
+      "evidence": [
+        "与l039的のか成对，两个未知选项共同作为分からない的内容；不是向对方发出的独立问句。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l039",
+      "token": "のか",
+      "field": "grammarCards[1].functionZh",
+      "old": "提出不确定选项",
+      "new": "列举开始了这一可能",
+      "confidence": 0.98,
+      "evidence": [
+        "与l038的のか成对，统辖于后面的分からない；使跨行间接疑問关系可见。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l039",
+      "token": "分からない",
+      "field": "grammarCards[2].zhMeaning",
+      "old": "不知道；分不清",
+      "new": "分不清",
+      "confidence": 0.98,
+      "evidence": [
+        "判断l038–l039两种可能的区别，取分不清义；不是把上一行的QQ译文机械移入本卡。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l039",
+      "token": "けど",
+      "field": "grammarCards[3].functionZh",
+      "old": "承接转折或保留语气",
+      "new": "转折，引出继续前行",
+      "confidence": 0.96,
+      "evidence": [
+        "虽然分不清是消失还是开始，却只能往前走；实际后文已经出现，不应仍写转折或保留的未决泛注。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l040",
+      "token": "行くしか",
+      "field": "grammarCards[0].zhMeaning",
+      "old": "只有前进这一选择",
+      "new": "除了前进",
+      "confidence": 0.97,
+      "evidence": [
+        "与后面的方法は無い组成除了前进没有办法；不在第一卡预先加入这一选择和全句结论。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l040",
+      "token": "方法",
+      "field": "grammarCards[1].zhMeaning",
+      "old": "办法；方法",
+      "new": "办法",
+      "confidence": 0.96,
+      "evidence": [
+        "名词只给直接中文，不与同义词方法并列。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l040",
+      "token": "無いんだろう",
+      "field": "grammarCards[3].zhMeaning",
+      "old": "没有其他的了吧",
+      "new": "没有吧",
+      "confidence": 0.96,
+      "evidence": [
+        "其他的排除关系来自前卡しか；删除了，避免添加先前曾有现在没有的变化义；だろう保留推量确认语气。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l041",
+      "token": "なんだ",
+      "field": "grammarCards[2].zhMeaning",
+      "old": "算什么；又怎样",
+      "new": "算什么",
+      "confidence": 0.99,
+      "evidence": [
+        "此为轻视正确答案的反问，不是求定义；选单一自然中文保留力度。",
+        "S5：大辞泉同构例地位が何だ、金が何だ。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l043",
+      "token": "あたし以外じゃ",
+      "field": "grammarCards[0].zhMeaning",
+      "old": "若不是我自己",
+      "new": "若以别人的身份",
+      "confidence": 0.94,
+      "evidence": [
+        "l042已经明确主语あたし；以外では此处谈活着时的身份／状态，不是换成别人作生きられない的主语。",
+        "S7：生きる除生存还可表示生活、过日子；本句身份解读来自l022–l023与l042–l043的呼应。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l043",
+      "token": "生きられない",
+      "field": "grammarCards[1].zhMeaning",
+      "old": "无法活下去",
+      "new": "没法活",
+      "confidence": 0.93,
+      "evidence": [
+        "保留可能否定，不把他人的身份重复塞进动词卡；删除活下去所偏重的持续存活方向，合读为没法以别人的身份活。",
+        "S7"
+      ],
+      "changesTokenStructure": false
+    }
+  ],
+  "frameAssessments": [
+    {
+      "frameId": "l001",
+      "japanese": "やけに白いんだ やたら長いんだ",
+      "status": "changes-proposed",
+      "assessment": "やけに与やたら各自承担程度，長い不确定指距离、篇幅还是时间；保留白い的空白意象为语境读法，不再加时间。重复l016同方案。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l002",
+      "japanese": "コタエはだいたい",
+      "status": "changes-proposed",
+      "assessment": "与l003组成一个判断，コタエ是答案而不是外来语；名词中文保留，だいたい收束为概括多数的义，不受QQ所谓一词牵引。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l003",
+      "japanese": "カタチばかりの常識だろう",
+      "status": "changes-proposed",
+      "assessment": "カタチばかり是只有形式，の连接该限定短语与常識；だろう推量可保留。与l018严格同方案。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l004",
+      "japanese": "指先が震えようとも",
+      "status": "retain-card-meanings",
+      "assessment": "指先／が／震えようとも分别是指尖、主格、即使颤抖，现有中文没有偷添不住地等持续量，全部保留。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l005",
+      "japanese": "地図にはないはずの三叉路に今",
+      "status": "retain-card-meanings",
+      "assessment": "与l006连续成句，地図には是地图这一范围，ないはずの保留按理应无的预期，三叉路是碰上的地点／对象；不能依本行QQ遗漏三叉路而改变卡义。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l006",
+      "japanese": "ぶつかっているのですが",
+      "status": "changes-proposed",
+      "assessment": "碰上岔路的结果状态延续至今，のですが是说明处境后向l007–l008发问；固定解释块保留，动词义去除两套时体并列。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l007",
+      "japanese": "何を頼りに",
+      "status": "retain-card-meanings",
+      "assessment": "何を頼りに是寻找前进依据，何／を／頼りに三卡彼此衔接正确；赖り是依靠，不把中文轨究竟我应该灌入单词卡。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l008",
+      "japanese": "進めばいいのでしょうか",
+      "status": "changes-proposed",
+      "assessment": "接l007构成该依靠什么前进才好的疑问，不是主张前进就好。保留ばいい活用块和のでしょうか功能卡，修正前卡中文的断言倾向。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l009",
+      "japanese": "教科書通りとはよく言ったもので",
+      "status": "changes-proposed",
+      "assessment": "教科書通り是被评论的说法，とは引语主题，よく言ったもので是评价说得贴切。是否反讽不能仅凭字面或QQ确定，提案不硬加讽刺副词。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l010",
+      "japanese": "難しい言葉だらけ",
+      "status": "changes-proposed",
+      "assessment": "難しい修饰言葉，だらけ表示充斥；中文取难懂的／词语／满是，保留原三卡，不把全句补成难说出口或言辞艰涩。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l011",
+      "japanese": "今日あの頃から少しも変わらない",
+      "status": "changes-proposed",
+      "assessment": "今日与あの頃对照倾向如今；あの頃から少しも変わらない可跨行修饰l012この空欄，提案用没有改变的接住后行。该连接为语境句法推断，不等于听辨确认。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l012",
+      "japanese": "この空欄を埋めれば解けますか",
+      "status": "retain-card-meanings",
+      "assessment": "この空欄承接前行未变的空白，埋めれば是填补条件，解けますか问是否可解；原中文卡义足够，不擅改自动／可能分类。整句未明说具体人生问题。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l013",
+      "japanese": "いつの日か",
+      "status": "changes-proposed",
+      "assessment": "いつの日か是未来某个未定日子，不宜直接从QQ取究竟何时；用某一天保留未定性，不强加终将实现的承诺。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l014",
+      "japanese": "あなたならどうやって",
+      "status": "changes-proposed",
+      "assessment": "あなたなら假设以对方来面对，どうやって询问方式，中文只留一种表达并跨行接l015；不增面对这样的情况到任何单卡。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l015",
+      "japanese": "先へと進みますか",
+      "status": "changes-proposed",
+      "assessment": "へと指向先，進みますか与上行どうやって构成方式疑问而非是非问；建议前进呢，不给整个动词卡补你、又会或如何。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l016",
+      "japanese": "やけに白いんだ やたら長いんだ",
+      "status": "changes-proposed",
+      "assessment": "与l001完全重复，程度副词和長い的中文逐项同步；同样不凭QQ把長い确定为时间漫长。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l017",
+      "japanese": "コタエはだいたい",
+      "status": "changes-proposed",
+      "assessment": "与l002完全重复，保留答案与は主题功能，だいたい与首次统一为大多。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l018",
+      "japanese": "カタチばかりの常識だろう",
+      "status": "changes-proposed",
+      "assessment": "与l003完全重复，限定只有形式的常识；カタチ和ばかり的建议与首次完全同步。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l019",
+      "japanese": "指先が震えようとも",
+      "status": "retain-card-meanings",
+      "assessment": "与l004完全重复，颤抖的让步假设不是愿望也未明示不停；全部中文卡保留且与首次一致。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l020",
+      "japanese": "正解は無いんだ",
+      "status": "changes-proposed",
+      "assessment": "正解是正确答案，は主题；無いんだ与全曲同形否定卡统一为没有啊，解释语气不能自动等于根本或本来。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l021",
+      "japanese": "負けなんて無いんだ",
+      "status": "changes-proposed",
+      "assessment": "負け是失败，なんて对所谓失败带不以为然态度；不把QQ的更挪进词卡，否定义与l020一致。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l022",
+      "japanese": "あたしは生涯",
+      "status": "changes-proposed",
+      "assessment": "あたし是我，生涯给直接名词义一生；本行尚未完整断定，要接l023，不能先补我终究会成为等内容。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l023",
+      "japanese": "あたしであってそれだけだろう",
+      "status": "changes-proposed",
+      "assessment": "あたしであって是身份断定的连接形式，改为是我自己；それだけ保留仅此而已，与l036的对比焦点不同，不能机械统一同形块的中文。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l024",
+      "japanese": "これ以上かき乱しても明日はない",
+      "status": "changes-proposed",
+      "assessment": "これ以上明确超出当前程度，かき乱しても未写明宾语；明日保持明天，ない保持不存在，不加入一切、未来希望或仍会迎来等解释。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l025",
+      "japanese": "役立たない地図の所為にして今",
+      "status": "changes-proposed",
+      "assessment": "役立たない修饰地図，の所為にして表示把责任归给这张地图，今属于当前处境；QQ的我们和因地图客观造成均不能控制卡义。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l026",
+      "japanese": "途方に暮れていますが",
+      "status": "retain-card-meanings",
+      "assessment": "途方に暮れる是完整惯用语，不拆成途方与暮れる的字面义；正不知如何是好符合ている状态。が的细分转折由语法角色核定，中文未添副词如此。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l027",
+      "japanese": "強がったとして",
+      "status": "changes-proposed",
+      "assessment": "強がったとして接结果相同，表达假设即使逞强，不表示实际已逞强；保留整个条件块，中文不加入固执。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l028",
+      "japanese": "結果はおそらく同じ",
+      "status": "changes-proposed",
+      "assessment": "結果名词保留结果，おそらく是推测，同じ是一样；删去意义重叠的第二释义，未添加也是，因为其可由上下文推得但非本卡独立词义。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l029",
+      "japanese": "溢れだしそうなほど詰め込んだ",
+      "status": "changes-proposed",
+      "assessment": "溢れだしそうなほど给装入的程度，詰め込んだ优先跨行修饰他人の箱。不能将QQ自己的箱子与之后的动作顺序反推回日文；若拆分另列映射意见。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l030",
+      "japanese": "他人の箱を横目に",
+      "status": "changes-proposed",
+      "assessment": "他人の箱是前行描述的名词中心，横目に是侧眼瞥看的状态；仅据此不能强加嫉妒或轻蔑，中文去掉容易带怒意的侧目而视。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l031",
+      "japanese": "下手な愛想笑いすら",
+      "status": "changes-proposed",
+      "assessment": "下手な指不熟练，愛想笑い是应酬式的笑，すら将其作为低门槛极端例子；没有必要讲成谄媚，更不能拆坏固定名词。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l032",
+      "japanese": "やっぱり出来てない",
+      "status": "changes-proposed",
+      "assessment": "与l031合起来是果然连不熟练的应酬笑都没做到；出来てない现有没能做到可保留，不能据QQ增加强扯、我或没有办法。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l033",
+      "japanese": "こんな空欄さえなければ",
+      "status": "retain-card-meanings",
+      "assessment": "さえなければ突出只要没有这一项的条件，句尾可含愿望省略；保留如果没有，不在短卡补就好了或把无空白解释成生命终结。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l034",
+      "japanese": "あなたも思うでしょう",
+      "status": "changes-proposed",
+      "assessment": "あなたも的も已经贡献也；思うでしょう只译会这么想吧，回指l033没有这种空白的愿望，不重复也。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l035",
+      "japanese": "このままでいいなんて",
+      "status": "changes-proposed",
+      "assessment": "このままでいい是被なんて引述、随后l036否定的意见，不是歌者给出的建议。原长块意思可保留；拆为状态与评价两卡时建议维持现状／就可以。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l036",
+      "japanese": "それだけは間違いだ",
+      "status": "changes-proposed",
+      "assessment": "それ回指l035的观点，だけは把这一点突出对比；中文唯独这一点较那件事精确。間違いだ保留是错误的。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l037",
+      "japanese": "空っぽなんだ ひとつも無いんだ",
+      "status": "changes-proposed",
+      "assessment": "空っぽ和ひとつも只说明空无，不明说字或未填写；原实词卡基本恰当，無いんだ与其他同形卡统一没有啊，保持数量否定呼应。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l038",
+      "japanese": "無くなったのか",
+      "status": "changes-proposed",
+      "assessment": "無くなった说明由有到无，のか是跨l039的第一候选项，并非独立问听者；不受QQ将分不清前置的分行影响。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l039",
+      "japanese": "始まったのか分からないけど",
+      "status": "changes-proposed",
+      "assessment": "始まったのか是第二候选项，分からない统辖前后两项，けど转入l040。整句未指定失去的对象，始まる不需要再加新的。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l040",
+      "japanese": "行くしか方法は無いんだろう？",
+      "status": "changes-proposed",
+      "assessment": "しか与句末無い是否定呼应，分卡互补为除了前进／办法／主题／没有吧；不在首尾两卡都预译全部只有前进这一选择。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l041",
+      "japanese": "正解がなんだ 価値なんて無いんだ",
+      "status": "changes-proposed",
+      "assessment": "正解がなんだ与大辞泉地位が何だ同构，表达正确答案算什么；価値本身只是价值，なんて有轻视语气，無いんだ不应另偷添根本程度。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l042",
+      "japanese": "あたしは生涯",
+      "status": "changes-proposed",
+      "assessment": "与l022完全重复，一生的名词义、我的代词义和は主题保持一致；本行要接l043，不能独立补成结论。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l043",
+      "japanese": "あたし以外じゃ生きられないよ",
+      "status": "changes-proposed",
+      "assessment": "l042已给出主语我，此处是无法以其他人的身份活，非除了我别人都不能活。两卡互补为若以别人的身份／没法活，避免把活下去误讲成纯粹生理存续。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l044",
+      "japanese": "これ以上かき乱しても明日はない",
+      "status": "changes-proposed",
+      "assessment": "与l024完全重复，これ以上的程度义同步，搅乱的对象仍未明确，不由QQ补一切到词卡。",
+      "sourceTranslationPreserved": true
+    },
+    {
+      "frameId": "l045",
+      "japanese": "どう足掻いても明日はない",
+      "status": "retain-card-meanings",
+      "assessment": "どう足掻いても是疑问副词与ても构成的无论如何让步，原无论如何挣扎准确；明日和ない保持与l024/l044一致，不擅自解释时间世界观。",
+      "sourceTranslationPreserved": true
+    }
+  ],
+  "structuralMappingAdvice": [
+    {
+      "frameId": "l007",
+      "currentTokens": [
+        "何",
+        "を",
+        "頼りに"
+      ],
+      "recommendation": "保持现有也可成立。若其他角色把を頼りに合为教学搭配，中文可为以……为依靠，何仍单独是什么；不要丢掉赖り的实词意义。",
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l009",
+      "currentTokens": [
+        "教科書通り",
+        "とは",
+        "よく言ったもので"
+      ],
+      "recommendation": "教科書通り和よく言ったもの均可作为固定学习块，不为缩短而拆成互不相干的字典词；这话说得真贴切属后块，不可映射到教科書。",
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l023",
+      "currentTokens": [
+        "あたしであって",
+        "それだけ",
+        "だろう"
+      ],
+      "recommendation": "若拆あたし／であって，应为我／是……而；若保留原块，是我自己。不得把身份断定变成动作方式作为我自己。",
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l029",
+      "currentTokens": [
+        "溢れだしそうなほど",
+        "詰め込んだ"
+      ],
+      "recommendation": "赞成可分溢れだしそうな／ほど／詰め込んだ以分别学习样态与程度；这是供整合的条件映射，不在本角色changes中替换完整数组。",
+      "meaningMapping": [
+        {
+          "token": "溢れだしそうな",
+          "zhMeaning": "快要溢出来的"
+        },
+        {
+          "token": "ほど",
+          "functionZh": "表示快要溢出的程度"
+        },
+        {
+          "token": "詰め込んだ",
+          "zhMeaning": "塞满了的"
+        }
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l035",
+      "currentTokens": [
+        "このままでいい",
+        "なんて"
+      ],
+      "recommendation": "赞成可分このままで／いい／なんて以单独学习状态与评价；l036才明示断定其错误，不在いい里补反讽词。",
+      "meaningMapping": [
+        {
+          "token": "このままで",
+          "zhMeaning": "维持现状"
+        },
+        {
+          "token": "いい",
+          "zhMeaning": "就可以"
+        },
+        {
+          "token": "なんて",
+          "functionZh": "引述并带不以为然语气"
+        }
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l040",
+      "currentTokens": [
+        "行くしか",
+        "方法",
+        "は",
+        "無いんだろう"
+      ],
+      "recommendation": "若拆行く／しか，前者为前进，后者为与否定呼应，限定唯一选择；名词办法不可被改成纯助词功能。",
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l043",
+      "currentTokens": [
+        "あたし以外じゃ",
+        "生きられない",
+        "よ"
+      ],
+      "recommendation": "现有块可保留。若拆あたし／以外じゃ，需显式审查身份条件的中文搭配，不能把除了我变成后句主语范围从而读作别人都不能活。",
+      "changesTokenStructure": false
+    }
+  ],
+  "sourceTranslationIssues": [
+    {
+      "frameIds": [
+        "l009"
+      ],
+      "kind": "meaning-shift",
+      "sourceValues": [
+        {
+          "frameId": "l009",
+          "translationZh": "常言道只需遵循课本上所示"
+        }
+      ],
+      "explanation": "源译常言道只需遵循把对说法的评价改成遵照课本的建议，よく言ったもので并无只需之义。",
+      "suggestedCombinedTranslation": "所谓照课本所写，这话倒说得贴切。",
+      "confidence": 0.96,
+      "evidence": [
+        "S11",
+        "冻结日文：被引用的是教科書通り。"
+      ],
+      "defaultApply": false,
+      "requiresSeparateUserDecision": true
+    },
+    {
+      "frameIds": [
+        "l011",
+        "l012"
+      ],
+      "kind": "cross-line-syntax-and-time-sense",
+      "sourceValues": [
+        {
+          "frameId": "l011",
+          "translationZh": "今天从那时开始便没有丝毫的改变"
+        },
+        {
+          "frameId": "l012",
+          "translationZh": "只要将空白栏填满就能解决问题了吗"
+        }
+      ],
+      "explanation": "源译把l011固定成独立陈述且用今天；日文更自然地允许未改变的跨行修饰这个空白栏。当前取如今，仍保留今天义的语境可能，不当作词典排他规则。",
+      "suggestedCombinedTranslation": "如今，填上这个从那时起就丝毫没变的空白栏，就能解开吗？",
+      "confidence": 0.89,
+      "evidence": [
+        "S6",
+        "跨行连体修饰为审阅者推断。"
+      ],
+      "defaultApply": false,
+      "requiresSeparateUserDecision": true
+    },
+    {
+      "frameIds": [
+        "l013"
+      ],
+      "kind": "indefinite-time-versus-question",
+      "sourceValues": [
+        {
+          "frameId": "l013",
+          "translationZh": "究竟要到何时"
+        }
+      ],
+      "explanation": "いつの日か通常指未来未定日子，源译究竟要到何时把不定表达改为直接时间疑问。",
+      "suggestedCombinedTranslation": "某一天",
+      "confidence": 0.97,
+      "evidence": [
+        "S9"
+      ],
+      "defaultApply": false,
+      "requiresSeparateUserDecision": true
+    },
+    {
+      "frameIds": [
+        "l025",
+        "l026"
+      ],
+      "kind": "attribution-versus-objective-cause",
+      "sourceValues": [
+        {
+          "frameId": "l025",
+          "translationZh": "我们因这张无用的地图才在当下"
+        },
+        {
+          "frameId": "l026",
+          "translationZh": "感到如此束手无策的"
+        }
+      ],
+      "explanation": "の所為にして是归咎于，不是客观确认地图造成困惑；日文未显式写我们，也无如此。",
+      "suggestedCombinedTranslation": "把责任归给那张派不上用场的地图，如今正不知如何是好。",
+      "confidence": 0.99,
+      "evidence": [
+        "S4"
+      ],
+      "defaultApply": false,
+      "requiresSeparateUserDecision": true
+    },
+    {
+      "frameIds": [
+        "l029",
+        "l030"
+      ],
+      "kind": "wrong-referent-and-added-sequence",
+      "sourceValues": [
+        {
+          "frameId": "l029",
+          "translationZh": "将自己的箱子强塞到快要满溢后"
+        },
+        {
+          "frameId": "l030",
+          "translationZh": "才想起瞥一眼他人的箱子"
+        }
+      ],
+      "explanation": "源译自己的箱子与才想起未见于日文；溢れだしそうなほど詰め込んだ优先连体修饰他人の箱，而非另起自己的装箱动作。施事未明示，不把装箱人直接补成别人。",
+      "suggestedCombinedTranslation": "瞥着别人那塞得快要溢出来的箱子。",
+      "confidence": 0.97,
+      "evidence": [
+        "S2",
+        "S3",
+        "连续名词修饰关系为冻结日文句法判断。"
+      ],
+      "defaultApply": false,
+      "requiresSeparateUserDecision": true
+    },
+    {
+      "frameIds": [
+        "l037"
+      ],
+      "kind": "added-object-and-time",
+      "sourceValues": [
+        {
+          "frameId": "l037",
+          "translationZh": "本就空白一片 一个字都不曾填写"
+        }
+      ],
+      "explanation": "原文只说空っぽ与ひとつも無い，未指定一个字、填写或本来如此。",
+      "suggestedCombinedTranslation": "空空如也，连一个也没有。",
+      "confidence": 0.98,
+      "evidence": [
+        "冻结日文与全曲箱／空欄意象；不强行决定空无的具体对象。"
+      ],
+      "defaultApply": false,
+      "requiresSeparateUserDecision": true
+    },
+    {
+      "frameIds": [
+        "l041"
+      ],
+      "kind": "rhetorical-question-missed",
+      "sourceValues": [
+        {
+          "frameId": "l041",
+          "translationZh": "正确答案是什么 毫无价值可言"
+        }
+      ],
+      "explanation": "正解がなんだ是轻视正确答案的反问；源译是什么容易读成寻求定义。",
+      "suggestedCombinedTranslation": "正确答案算什么，根本没有价值。",
+      "confidence": 0.99,
+      "evidence": [
+        "S5"
+      ],
+      "defaultApply": false,
+      "requiresSeparateUserDecision": true
+    }
+  ],
+  "crossLineObservations": [
+    {
+      "frameIds": [
+        "l005",
+        "l006"
+      ],
+      "assessment": "QQ为了中文语序把遇到提前、地图说明后置，这是跨行调序而非按行逐词等值；不建议仅为日文行边界改中文轨。"
+    },
+    {
+      "frameIds": [
+        "l007",
+        "l008"
+      ],
+      "assessment": "QQ把依靠什么放在下一行，但日文在l007；卡义必须按日文完整疑问解释。"
+    },
+    {
+      "frameIds": [
+        "l014",
+        "l015"
+      ],
+      "assessment": "どうやって在l014，方式问句在l015收束；卡义不应变成是否前进。"
+    },
+    {
+      "frameIds": [
+        "l022",
+        "l023",
+        "l042",
+        "l043"
+      ],
+      "assessment": "主语我和一生都在各组首行；第二组强调身份不可替代，第一组是身份断定。"
+    },
+    {
+      "frameIds": [
+        "l033",
+        "l034"
+      ],
+      "assessment": "你也会这么想回指没有这种空白的愿望，も不需在思うでしょう里再翻一次。"
+    },
+    {
+      "frameIds": [
+        "l035",
+        "l036"
+      ],
+      "assessment": "被引述的维持现状意见在下一行受到否定，不能截取l035当成歌者主张。"
+    },
+    {
+      "frameIds": [
+        "l038",
+        "l039",
+        "l040"
+      ],
+      "assessment": "QQ将分不清提前只是中文调序；两组のか都由分からない统辖，けど接只能前行的结论，不改中文轨。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "kind": "primary-dictionary",
+      "title": "小学館 デジタル大辞泉：頼り",
+      "url": "https://kotobank.jp/word/%E9%A0%BC%E3%82%8A-563162",
+      "supports": "以某物为行事依凭；条目直接有地图を頼りに的用例。",
+      "accessedAt": "2026-09-04"
+    },
+    {
+      "id": "S2",
+      "kind": "primary-dictionary",
+      "title": "小学館 デジタル大辞泉・精選版日本国語大辞典：詰込む",
+      "url": "https://kotobank.jp/word/%E8%A9%B0%E8%BE%BC%E3%82%80-572591",
+      "supports": "往容器尽量多装入、装满；不决定这首歌的施事。",
+      "accessedAt": "2026-09-04"
+    },
+    {
+      "id": "S3",
+      "kind": "primary-dictionary",
+      "title": "小学館 デジタル大辞泉：横目",
+      "url": "https://kotobank.jp/word/%E6%A8%AA%E7%9B%AE-146080",
+      "supports": "既有转动眼睛看侧方，也有を横目に略看而不介入的惯用义；不能由此自动推出愤怒。",
+      "accessedAt": "2026-09-04"
+    },
+    {
+      "id": "S4",
+      "kind": "primary-dictionary",
+      "title": "小学館 デジタル大辞泉：所為",
+      "url": "https://kotobank.jp/word/%E6%89%80%E7%82%BA-530273",
+      "supports": "不良结果的原因／理由；せいにする归责用例。",
+      "accessedAt": "2026-09-04"
+    },
+    {
+      "id": "S5",
+      "kind": "primary-dictionary",
+      "title": "小学館 デジタル大辞泉：何だ",
+      "url": "https://kotobank.jp/word/%E4%BD%95%E3%81%A0-590583",
+      "supports": "义项4为认为所谈事物不值一提，地位が何だ等同构例支持l041反问。",
+      "accessedAt": "2026-09-04"
+    },
+    {
+      "id": "S6",
+      "kind": "primary-dictionary",
+      "title": "小学館 デジタル大辞泉：今日",
+      "url": "https://kotobank.jp/word/%E4%BB%8A%E6%97%A5-477559",
+      "supports": "こんにち兼有本日、现时代、现在等义，读音不能独自决定中文。",
+      "accessedAt": "2026-09-04"
+    },
+    {
+      "id": "S7",
+      "kind": "primary-dictionary",
+      "title": "小学館 デジタル大辞泉：生きる",
+      "url": "https://kotobank.jp/word/%E7%94%9F%E3%81%8D%E3%82%8B-431376",
+      "supports": "除生命存续外还有生活／过日子义；身份语境仍由全曲判断。",
+      "accessedAt": "2026-09-04"
+    },
+    {
+      "id": "S8",
+      "kind": "primary-dictionary",
+      "title": "小学館 デジタル大辞泉：何時か",
+      "url": "https://kotobank.jp/word/%E4%BD%95%E6%99%82%E3%81%8B-433925",
+      "supports": "区分未来不定时与直接疑问形式，支持不把不定か机械翻为疑问。",
+      "accessedAt": "2026-09-04"
+    },
+    {
+      "id": "S9",
+      "kind": "primary-dictionary",
+      "title": "小学館 プログレッシブ和英中辞典：何時",
+      "url": "https://kotobank.jp/jeword/%E4%BD%95%E6%99%82",
+      "supports": "いつの日か的确切搭配释义为未来某个时间。",
+      "accessedAt": "2026-09-04"
+    },
+    {
+      "id": "S10",
+      "kind": "primary-grammar",
+      "title": "国際交流基金：日本語教育通信 文法を楽しく「表現意図 -助言-」",
+      "url": "https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201512.html",
+      "supports": "ばいい属于建议相关形式；本歌到底是建议还是寻求建议还须看疑问上下文。",
+      "accessedAt": "2026-09-04"
+    },
+    {
+      "id": "S11",
+      "kind": "primary-dictionary",
+      "title": "小学館 日中辞典第3版：良く",
+      "url": "https://kotobank.jp/jazhword/%E8%89%AF%E3%81%8F",
+      "supports": "よく有做得好、充分等义，非一概表示经常。",
+      "accessedAt": "2026-09-04"
+    },
+    {
+      "id": "S12",
+      "kind": "primary-dictionary-analogy",
+      "title": "小学館 デジタル大辞泉：言い得て妙",
+      "url": "https://kotobank.jp/word/%E8%A8%80%E3%81%84%E5%BE%97%E3%81%A6%E5%A6%99-430591",
+      "supports": "说得巧妙／贴切的近义表达，仅为语义旁证，非歌词表达的直接释义。",
+      "accessedAt": "2026-09-04"
+    }
+  ],
+  "uncertainties": [
+    {
+      "frameIds": [
+        "l001",
+        "l016"
+      ],
+      "topic": "白／長的具体所指",
+      "assessment": "空欄支持白い的空白意象，但日文未直接明说紙、人生或時間；原白いんだ中文一片空白啊暂保留为有根据的语境意译，不作字典本义。長い不锁死为时间。",
+      "requiresListening": false
+    },
+    {
+      "frameIds": [
+        "l009"
+      ],
+      "topic": "よく言ったもので的评价语气",
+      "assessment": "可听出或读出反讽，但目前仅文本未足以判定反讽强度；不在卡里硬写讽刺。网络只支撑词义，不声称查得官方解释。",
+      "requiresListening": false
+    },
+    {
+      "frameIds": [
+        "l011",
+        "l012"
+      ],
+      "topic": "跨行修饰范围",
+      "assessment": "推荐変わらない连体修饰この空欄；歌词无标点而存在l011独立陈述的较弱读法，最终整合可保留没有改变并在备注解释连体关系。今日=如今是语境选择，非读音排他。",
+      "requiresListening": false
+    },
+    {
+      "frameIds": [
+        "l029",
+        "l030"
+      ],
+      "topic": "装入行为施事及横目に",
+      "assessment": "词序强烈支持他人の箱为修饰中心，但未明示谁塞入、塞入什么；横目に词典还有看而不介入的义，此歌不足以写死轻蔑或嫉妒，卡用中性瞥着。",
+      "requiresListening": false
+    },
+    {
+      "frameIds": [
+        "l043"
+      ],
+      "topic": "身份而非物理存续",
+      "assessment": "基于l022–l023／l042–l043呼应理解为不能以他人的身份活，非改换主语为别人；不能把词典一般生きる义当成作者已明确说明的唯一象征意义。",
+      "requiresListening": false
+    }
+  ],
+  "verification": {
+    "declaredFrameCount": 45,
+    "assessedFrameCount": 45,
+    "changeCount": 57,
+    "allOldValuesFromFrozenFrames": true,
+    "captionTranslationChanges": 0,
+    "tokenStructureChanges": 0
+  }
+}
+

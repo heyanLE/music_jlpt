@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "runId": "20260817-r09-pure-english-fix",
+  "result": "passed",
+  "output": "deliverables/final/brand-new-days-reload--intro-fade--foobar-spectrum--english-fixed--20260817-r09.mp4",
+  "video": {
+    "codec": "h264",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "cfr": true,
+    "durationSeconds": 352.6
+  },
+  "audio": {
+    "codec": "aac",
+    "sampleRate": 44100,
+    "channels": 2
+  },
+  "checks": {
+    "pureEnglishQrcRowsAdded": 8,
+    "englishHighlightMode": "full QRC row timing",
+    "englishFuriganaDisabled": true,
+    "englishRomajiDisabled": true,
+    "englishGrammarCardsDisabled": true,
+    "englishPunctuationPreserved": true,
+    "postEnglishJapaneseRecoveryVerified": true,
+    "foobarSpectrumContinuous": true
+  },
+  "screenshots": [
+    "project/qa/pure-english-r09/all-over-my-sight.png",
+    "project/qa/pure-english-r09/lead-brand-new-days.png",
+    "project/qa/pure-english-r09/post-english-japanese.png"
+  ]
+}

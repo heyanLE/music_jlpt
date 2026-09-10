@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "stage": "delivered",
+  "renderAuthorization": true,
+  "notes": [
+    "QRC metadata rows l001-l005 excluded.",
+    "All v2 lexical, grammar, and translation proposals accepted by user; 259 cards merged across 61 lyric frames.",
+    "Content approved; explicit render authorization still required.",
+    "QA-passed candidate promoted: zattou-bokura-no-machi-v2--16x9--zattou-v2-approved-r1.mkv"
+  ]
+}

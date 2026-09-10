@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 4,
+  "slug": "kanjou-glass",
+  "runId": "inputs-v1",
+  "stage": "inputs_confirmed",
+  "title": "感情グラス",
+  "artist": "上伊那ぼたん（CV. 鈴代紗弓）",
+  "album": "上伊那ぼたん、酔へる姿は百合の花",
+  "coverExport": {
+    "subtitle": "上伊那牡丹 ED",
+    "badges": [
+      "Hi-Res"
+    ]
+  },
+  "music": {
+    "asset": "source/music.flac",
+    "origin": "direct-copy",
+    "preserveCodec": true,
+    "clock": "music"
+  },
+  "cover": {
+    "asset": "source/cover.jpg"
+  },
+  "lyrics": {
+    "format": "qq-music",
+    "qm": "source/lyrics_qm.qrc",
+    "qmRoma": "source/lyrics_qmRoma.qrc",
+    "qmts": "source/lyrics_qmts.qrc"
+  },
+  "backgroundAsset": "source/background.mp4",
+  "backgroundAssets": [
+    {
+      "id": "episode-01-ending",
+      "asset": "source/background.mp4",
+      "order": 1,
+      "durationMs": 90097
+    },
+    {
+      "id": "episode-03-ending",
+      "asset": "source/background-ep03.mp4",
+      "order": 2,
+      "durationMs": 90097
+    },
+    {
+      "id": "episode-08-ending",
+      "asset": "source/background-ep08.mp4",
+      "order": 3,
+      "durationMs": 90097,
+      "usedDurationMs": 60082
+    }
+  ],
+  "alignment": {
+    "method": "none",
+    "offsetMs": 0,
+    "definition": "signed output timestamp assigned to music time zero",
+    "appliesTo": [
+      "music",
+      "lyrics",
+      "spectrum"
+    ],
+    "backgroundClock": "output",
+    "evidence": "explicit-none"
+  },
+  "outputs": [
+    {
+      "name": "16x9",
+      "width": 1920,
+      "height": 1080,
+      "fps": 30
+    }
+  ],
+  "pipelinePreset": "custom"
+}

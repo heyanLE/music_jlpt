@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "grammar",
+  "scope": {
+    "frameIds": [
+      "l001", "l002", "l003", "l004", "l005", "l006", "l007", "l008", "l009", "l010",
+      "l011", "l012", "l013", "l014", "l015", "l016", "l017", "l018", "l019", "l020",
+      "l021", "l022", "l023", "l024", "l025", "l026", "l027", "l028", "l029", "l030",
+      "l031", "l032", "l033", "l034", "l035", "l036", "l037", "l038", "l039", "l040"
+    ]
+  },
+  "baseFrameSha256": "dc491d0b3088dd4e0bd8bb4a539d7e3ab34cb8ab7cb6f5e0ee19d685cf407e31",
+  "changes": [
+    {"frameId":"l001","field":"grammarCards[4].functionZh","old":"标记宾语","new":"标记巡行所经过的时间范围","confidence":0.97,"evidence":["「時を巡る」的を标示移动／推移所经过的范围，并非普通受事宾语。"],"changesTokenStructure":false},
+    {"frameId":"l001","field":"grammarCards[5].grammarStructureZh","old":"动词（活用）","new":"「巡る」的て形（动作承接）","confidence":0.99,"evidence":["巡る→巡って是一类五段动词的て形，承接句末「今」。"],"changesTokenStructure":false},
+
+    {"frameId":"l002","field":"grammarCards[2].dictionaryForm","old":"出会える","new":"出会う","confidence":0.99,"evidence":["出会えた＝出会う的可能形「出会える」＋过去「た」。"],"changesTokenStructure":false},
+    {"frameId":"l002","field":"grammarCards[2].grammarStructureZh","old":"动词（活用）","new":"「出会う」的可能过去形","confidence":0.99,"evidence":["出会えた表示“得以相遇”，是可能形的过去式。"],"changesTokenStructure":false},
+    {"frameId":"l002","field":"grammarCards[3].functionZh","old":"所属/修饰","new":"句末柔和说明相遇这一事实","confidence":0.96,"evidence":["句末の接在活用语后，是终助词／说明语气，不表示所属。","https://kotobank.jp/word/%E3%81%AE-596099"],"changesTokenStructure":false},
+    {"frameId":"l002","field":"grammarCards[3].grammarStructureZh","old":"助词","new":"终助词「の」（说明）","confidence":0.98,"evidence":["此处の位于句末，缓和断定并带说明语气。","https://kotobank.jp/word/%E3%81%AE-596099"],"changesTokenStructure":false},
+
+    {"frameId":"l003","field":"grammarCards[1].grammarStructureZh","old":"动词（活用）","new":"「見失う」的否定形","confidence":0.99,"evidence":["見失う→見失わない。"],"changesTokenStructure":false},
+    {"frameId":"l003","field":"grammarCards[2].grammarStructureZh","old":"な形容词（活用）","new":"Vない＋ように（预防目的）","confidence":0.99,"evidence":["「見失わないように」与下一行「手を離さないで」构成“为避免失散”的预防目的表达。"],"changesTokenStructure":false},
+
+    {"frameId":"l004","field":"grammarCards[2].grammarStructureZh","old":"动词（活用）","new":"Vないで（否定请求）","confidence":0.99,"evidence":["句末「離さないで」是省略「ください」的否定请求。","https://www.irodori.jpf.go.jp/assets/data/resources/Grammar_Worksheets_Y.pdf"],"changesTokenStructure":false},
+
+    {"frameId":"l005","field":"grammarCards[3].dictionaryForm","old":"澄む","new":"澄ませる","confidence":0.99,"evidence":["固定搭配为「耳を澄ませる」；澄ませて是其て形。"],"changesTokenStructure":false},
+    {"frameId":"l005","field":"grammarCards[3].grammarStructureZh","old":"动词（活用）","new":"「澄ませる」的て形（请求）","confidence":0.99,"evidence":["句末て形在本句承担柔和请求／促请。"],"changesTokenStructure":false},
+
+    {"frameId":"l006","field":"grammarCards[1].functionZh","old":"所属/修饰","new":"在定语从句中标记「降る」的主语","confidence":0.99,"evidence":["「星の降る音」中的の可换为主格が，是定语从句主语标记，并非所属。"],"changesTokenStructure":false},
+    {"frameId":"l006","field":"grammarCards[1].grammarStructureZh","old":"助词","new":"格助词「の」（主格）","confidence":0.99,"evidence":["定语从句「星の降る」里の承担主格功能。"],"changesTokenStructure":false},
+    {"frameId":"l006","field":"grammarCards[5].grammarStructureZh","old":"动词（活用）","new":"V辞书形＋でしょう（推量／确认）","confidence":0.98,"evidence":["「聞こえるでしょう？」以でしょう表达带确认意味的推量询问。"],"changesTokenStructure":false},
+
+    {"frameId":"l007","field":"grammarCards[2].functionZh","old":"对象/方向/时间","new":"标记移动的到达点「近く」","confidence":0.99,"evidence":["来る是移动动词，近くに中的に标记到达位置。"],"changesTokenStructure":false},
+    {"frameId":"l007","field":"grammarCards[3].grammarStructureZh","old":"动词（活用）","new":"「来る」的て形（请求）","confidence":0.99,"evidence":["句末「来て」是以て形发出的亲近请求。"],"changesTokenStructure":false},
+
+    {"frameId":"l008","field":"grammarCards[1].functionZh","old":"也/追加","new":"与否定呼应，表示「谁都不」","confidence":0.99,"evidence":["疑问词＋も＋否定构成全面否定：誰も知らない。"],"changesTokenStructure":false},
+    {"frameId":"l008","field":"grammarCards[5].grammarStructureZh","old":"动词（活用）","new":"「待っている」的口语缩约","confidence":0.99,"evidence":["待ってる＝待っている。"],"changesTokenStructure":false},
+    {"frameId":"l008","field":"grammarCards[6].functionZh","old":"所属/修饰","new":"句末柔和说明／断定","confidence":0.96,"evidence":["句末の接在谓语后，表达说明或柔和断定。","https://kotobank.jp/word/%E3%81%AE-596099"],"changesTokenStructure":false},
+    {"frameId":"l008","field":"grammarCards[6].grammarStructureZh","old":"助词","new":"终助词「の」（说明）","confidence":0.98,"evidence":["此处不是名词修饰格助词，而是句末终助词。"],"changesTokenStructure":false},
+
+    {"frameId":"l009","field":"grammarCards[3].grammarStructureZh","old":"动词（活用）","new":"「踊る」的意志形（劝诱）","confidence":0.99,"evidence":["踊りましょう表达共同做某事的劝诱。"],"changesTokenStructure":false},
+
+    {"frameId":"l010","field":"grammarCards[3].grammarStructureZh","old":"动词","new":"「鳴らす」的假定形","confidence":0.99,"evidence":["鳴らす的假定形为鳴らせ，后接ば。"],"changesTokenStructure":false},
+    {"frameId":"l010","field":"grammarCards[4].functionZh","old":"功能待复核","new":"接假定形，表示条件／契机","confidence":0.99,"evidence":["鳴らせば＝鳴らす的ば条件形。"],"changesTokenStructure":false},
+    {"frameId":"l010","field":"grammarCards[4].grammarStructureZh","old":"助词","new":"接续助词「ば」（条件）","confidence":0.99,"evidence":["ば接动词假定形并建立条件关系。"],"changesTokenStructure":false},
+
+    {"frameId":"l011","field":"grammarCards[0].grammarStructureZh","old":"动词","new":"「唄う」的意志形（劝诱）","confidence":0.99,"evidence":["唄おう是唄う的意志形。"],"changesTokenStructure":false},
+    {"frameId":"l011","field":"grammarCards[1].grammarStructureZh","old":"动词","new":"「響く」的命令形","confidence":0.99,"evidence":["響け是響く的命令形，在歌词中表达祈愿式呼喊。"],"changesTokenStructure":false},
+
+    {"frameId":"l012","field":"grammarCards[3].functionZh","old":"也/追加","new":"提示包含关系：连昏暗的道路也","confidence":0.98,"evidence":["道も把「暗がりの道」纳入月光照亮的范围。"],"changesTokenStructure":false},
+    {"frameId":"l012","field":"grammarCards[7].functionZh","old":"所属/修饰","new":"句末柔和说明／断定","confidence":0.96,"evidence":["照らすの的の位于谓语之后，是句末说明。","https://kotobank.jp/word/%E3%81%AE-596099"],"changesTokenStructure":false},
+    {"frameId":"l012","field":"grammarCards[7].grammarStructureZh","old":"助词","new":"终助词「の」（说明）","confidence":0.98,"evidence":["此处の不是所属格助词。"],"changesTokenStructure":false},
+
+    {"frameId":"l014","field":"grammarCards[1].grammarStructureZh","old":"な形容词（活用）","new":"V辞书形＋ように（目的／结果）","confidence":0.98,"evidence":["「響くように歌う」表示以响彻为目标／结果来唱。"],"changesTokenStructure":false},
+    {"frameId":"l014","field":"grammarCards[2].dictionaryForm","old":"歌える","new":"歌う","confidence":0.99,"evidence":["歌える是歌う的可能形。"],"changesTokenStructure":false},
+    {"frameId":"l014","field":"grammarCards[2].grammarStructureZh","old":"动词","new":"「歌う」的可能形","confidence":0.99,"evidence":["歌う→歌える。"],"changesTokenStructure":false},
+    {"frameId":"l014","field":"grammarCards[3].functionZh","old":"疑问/不确定","new":"与「な」组成「かな」，表示自问","confidence":0.99,"evidence":["かな由终助词か＋な组成，表示带保留判断的自问。","https://kotobank.jp/word/%E3%81%8B%E3%81%AA-464996"],"changesTokenStructure":false},
+    {"frameId":"l014","field":"grammarCards[4].functionZh","old":"功能待复核","new":"与「か」组成「かな」，柔化疑问语气","confidence":0.99,"evidence":["句末かな表示疑问、自问或不确定判断。","https://kotobank.jp/word/%E3%81%8B%E3%81%AA-464996"],"changesTokenStructure":false},
+
+    {"frameId":"l015","field":"grammarCards[2].functionZh","old":"也/追加","new":"与「どんな」呼应，表示无论何时","confidence":0.99,"evidence":["どんな時も构成无条件包含表达。"],"changesTokenStructure":false},
+    {"frameId":"l015","field":"grammarCards[4].functionZh","old":"场所/手段/原因","new":"标记等待发生的场所「ここ」","confidence":0.99,"evidence":["ここで中的で是动作场所格助词。"],"changesTokenStructure":false},
+    {"frameId":"l015","field":"grammarCards[5].grammarStructureZh","old":"动词（活用）","new":"「待っている」的口语缩约","confidence":0.99,"evidence":["待ってる＝待っている。"],"changesTokenStructure":false},
+
+    {"frameId":"l016","field":"grammarCards[0].grammarStructureZh","old":"动词（活用）","new":"Vている（持续）","confidence":0.99,"evidence":["祈っている表示动作／状态持续。"],"changesTokenStructure":false},
+    {"frameId":"l016","field":"grammarCards[1].functionZh","old":"起点/原因","new":"表示原因：因为一直祈祷","confidence":0.99,"evidence":["句末からさ中的から说明理由，不表示起点。"],"changesTokenStructure":false},
+
+    {"frameId":"l017","field":"grammarCards[4].functionZh","old":"提示主题","new":"提示跨行主题「星」，下行作述语说明","confidence":0.98,"evidence":["「星は」的述语在下一行「色褪せず…照らし続けてる」。"],"changesTokenStructure":false},
+
+    {"frameId":"l018","field":"grammarCards[0].grammarStructureZh","old":"动词（活用）","new":"「色褪せる」的ず形（否定连用）","confidence":0.99,"evidence":["色褪せず＝色褪せないで／色褪せることなく。"],"changesTokenStructure":false},
+    {"frameId":"l018","field":"grammarCards[2].functionZh","old":"起点/原因","new":"标记时间起点「太古」","confidence":0.99,"evidence":["太古から中的から表示时间起点。"],"changesTokenStructure":false},
+    {"frameId":"l018","field":"grammarCards[3].grammarStructureZh","old":"动词","new":"「照らす」的连用形＋続ける","confidence":0.98,"evidence":["照らし続ける是Vます词干＋続ける的持续复合结构。"],"changesTokenStructure":false},
+    {"frameId":"l018","field":"grammarCards[4].grammarStructureZh","old":"动词（活用）","new":"「続けている」的口语缩约","confidence":0.99,"evidence":["続けてる＝続けている。"],"changesTokenStructure":false},
+
+    {"frameId":"l019","field":"grammarCards[1].functionZh","old":"共同/引用","new":"标记共同到达的同伴「きみ」","confidence":0.99,"evidence":["きみと中的と表示共同参与者，不表示引用。"],"changesTokenStructure":false},
+    {"frameId":"l019","field":"grammarCards[2].dictionaryForm","old":"辿り着ける","new":"辿り着く","confidence":0.99,"evidence":["辿り着ける是辿り着く的可能形。"],"changesTokenStructure":false},
+    {"frameId":"l019","field":"grammarCards[2].grammarStructureZh","old":"动词","new":"「辿り着く」的可能形","confidence":0.99,"evidence":["辿り着く→辿り着ける。"],"changesTokenStructure":false},
+    {"frameId":"l019","field":"grammarCards[3].functionZh","old":"强调语气","new":"以确信口吻加强断定","confidence":0.97,"evidence":["句末さ加强说话人的断定／确信。"],"changesTokenStructure":false},
+
+    {"frameId":"l020","field":"grammarCards[1].functionZh","old":"对象/方向/时间","new":"标记存在处所「心」","confidence":0.99,"evidence":["心に…誰かがいる中，に标示存在场所。"],"changesTokenStructure":false},
+    {"frameId":"l020","field":"grammarCards[2].functionZh","old":"提示主题","new":"叠加于「に」提示／对比内心这一处所","confidence":0.98,"evidence":["には＝格助词に＋提示助词は，突出“在心中”。"],"changesTokenStructure":false},
+    {"frameId":"l020","field":"grammarCards[3].grammarStructureZh","old":"动词（活用）","new":"Vます词干＋たい（愿望）","confidence":0.99,"evidence":["会いたい＝会う的たい形。"],"changesTokenStructure":false},
+    {"frameId":"l020","field":"grammarCards[5].functionZh","old":"疑问/不确定","new":"接疑问代词构成不定指「某人」","confidence":0.99,"evidence":["誰か在肯定存在句中是不定代词“某人”，不是疑问句。"],"changesTokenStructure":false},
+    {"frameId":"l020","field":"grammarCards[7].grammarStructureZh","old":"动词（活用）","new":"「いる」的て形（承接下行）","confidence":0.98,"evidence":["いて把存在句连接到下一行「羅針盤みたいね」。"],"changesTokenStructure":false},
+
+    {"frameId":"l021","field":"grammarCards[1].grammarStructureZh","old":"な形容词","new":"N＋みたい（比喻／相似）","confidence":0.99,"evidence":["羅針盤みたい表示“像指南针一样”的比喻。"],"changesTokenStructure":false},
+
+    {"frameId":"l022","field":"grammarCards[4].grammarStructureZh","old":"动词（活用）","new":"Vて＋みる（尝试）","confidence":0.99,"evidence":["開けてみて表示“试着睁开看看”；Vてみる用于尝试。","https://www.irodori.jpf.go.jp/assets/data/Grammar_all.pdf"],"changesTokenStructure":false},
+
+    {"frameId":"l023","field":"grammarCards[5].grammarStructureZh","old":"助动词（活用）","new":"断定「だ」的口语否定形","confidence":0.99,"evidence":["じゃない＝ではない，是断定助动词だ的口语否定。"],"changesTokenStructure":false},
+    {"frameId":"l023","field":"grammarCards[6].functionZh","old":"所属/修饰","new":"句末说明并加强否定判断","confidence":0.97,"evidence":["じゃないの中的の在句末表达说明／念押し，不表示所属。","https://kotobank.jp/word/%E3%81%AE-596099"],"changesTokenStructure":false},
+    {"frameId":"l023","field":"grammarCards[6].grammarStructureZh","old":"助词","new":"终助词「の」（说明）","confidence":0.98,"evidence":["此处の接否定谓语，属于句末终助词。"],"changesTokenStructure":false},
+
+    {"frameId":"l024","field":"grammarCards[1].functionZh","old":"共同/引用","new":"标记共同存在的对象「きみ」","confidence":0.99,"evidence":["きみといる表示与某人共同存在。"],"changesTokenStructure":false},
+    {"frameId":"l024","field":"grammarCards[4].functionZh","old":"提示主题","new":"提示跨行主题「世界」，下行作述语说明","confidence":0.98,"evidence":["「世界は」的述语承接下一行「永遠の記憶に眠るのさ」。"],"changesTokenStructure":false},
+
+    {"frameId":"l025","field":"grammarCards[3].functionZh","old":"对象/方向/时间","new":"标记沉眠的处所「记忆中」","confidence":0.99,"evidence":["記憶に眠る中的に标示抽象存在／状态处所。"],"changesTokenStructure":false},
+    {"frameId":"l025","field":"grammarCards[5].functionZh","old":"所属/修饰","new":"与「さ」组成句末「のさ」，表示说明","confidence":0.98,"evidence":["のさ是说明性の＋终助词さ的句末组合。"],"changesTokenStructure":false},
+    {"frameId":"l025","field":"grammarCards[5].grammarStructureZh","old":"助词","new":"终助词「の」（说明）","confidence":0.98,"evidence":["眠るのさ中的の不是所属格。","https://kotobank.jp/word/%E3%81%AE-596099"],"changesTokenStructure":false},
+    {"frameId":"l025","field":"grammarCards[6].functionZh","old":"强调语气","new":"与「の」组成「のさ」，加强说明断定","confidence":0.98,"evidence":["句末のさ带说明并增强确信语气。"],"changesTokenStructure":false},
+
+    {"frameId":"l026","field":"grammarCards[0].grammarStructureZh","old":"动词","new":"「唄う」的意志形（劝诱）","confidence":0.99,"evidence":["唄おう是唄う的意志形；与l011同句式。"],"changesTokenStructure":false},
+    {"frameId":"l026","field":"grammarCards[1].grammarStructureZh","old":"动词","new":"「響く」的命令形","confidence":0.99,"evidence":["響け是響く的命令形；与l011同句式。"],"changesTokenStructure":false},
+
+    {"frameId":"l027","field":"grammarCards[5].grammarStructureZh","old":"动词","new":"Vて＋くれる（受益）","confidence":0.99,"evidence":["導いてくれる表示他者为说话人一方提供指引。"],"changesTokenStructure":false},
+    {"frameId":"l027","field":"grammarCards[6].functionZh","old":"所属/修饰","new":"句末柔和说明／断定","confidence":0.96,"evidence":["くれるの中的の位于句末，是说明终助词。","https://kotobank.jp/word/%E3%81%AE-596099"],"changesTokenStructure":false},
+    {"frameId":"l027","field":"grammarCards[6].grammarStructureZh","old":"助词","new":"终助词「の」（说明）","confidence":0.98,"evidence":["此处の不表示所属。"],"changesTokenStructure":false},
+
+    {"frameId":"l028","field":"grammarCards[0].grammarStructureZh","old":"动词","new":"「途切れる」的连用形＋かける","confidence":0.99,"evidence":["途切れかける是Vます词干＋かける。"],"changesTokenStructure":false},
+    {"frameId":"l028","field":"grammarCards[1].grammarStructureZh","old":"动词（活用）","new":"Vます词干＋かける（将要／未完）","confidence":0.99,"evidence":["途切れかけた表示“曾将要中断／未完成”；かけ表示动作途中。","https://kotobank.jp/word/%E6%8E%9B%E3%81%91-2020751"],"changesTokenStructure":false},
+    {"frameId":"l028","field":"grammarCards[5].functionZh","old":"也/追加","new":"与前项て形组成「Vても」，表示让步","confidence":0.99,"evidence":["見ても＝即使看见／做梦，も在此不是单纯追加。"],"changesTokenStructure":false},
+    {"frameId":"l028","field":"grammarCards[5].grammarStructureZh","old":"助词","new":"「Vても」的も（让步）","confidence":0.99,"evidence":["接续助词性组合Vても表示让步。"],"changesTokenStructure":false},
+
+    {"frameId":"l029","field":"grammarCards[2].functionZh","old":"对象/方向/时间","new":"标记「一人にする」的结果状态","confidence":0.99,"evidence":["Nにする中に标示变化后／使成的状态。"],"changesTokenStructure":false},
+    {"frameId":"l029","field":"grammarCards[3].functionZh","old":"提示主题","new":"叠加于「に」形成对比强调","confidence":0.98,"evidence":["一人にはしない中的は叠加在に后，突出“绝不让你独自一人”。"],"changesTokenStructure":false},
+    {"frameId":"l029","field":"grammarCards[4].grammarStructureZh","old":"动词（活用）","new":"「する」的否定形","confidence":0.99,"evidence":["する→しない。"],"changesTokenStructure":false},
+
+    {"frameId":"l030","field":"grammarCards[1].grammarStructureZh","old":"助动词","new":"「だって」前项：断定助动词「だ」","confidence":0.97,"evidence":["此处だ与后续って共同构成何度だって。"],"changesTokenStructure":false},
+    {"frameId":"l030","field":"grammarCards[2].functionZh","old":"引用/提示","new":"接数量疑问词，表示无论多少次","confidence":0.99,"evidence":["何度だって中だって接数量／程度词，表示无例外，相当于何度でも。","https://kotobank.jp/word/%E3%81%A0%E3%81%A4%E3%81%A6-3213710"],"changesTokenStructure":false},
+    {"frameId":"l030","field":"grammarCards[2].grammarStructureZh","old":"助词","new":"副助词「だって」（无例外）","confidence":0.99,"evidence":["该って不是引用，而是副助词だって的组成部分。","https://kotobank.jp/word/%E3%81%A0%E3%81%A4%E3%81%A6-3213710"],"changesTokenStructure":false},
+
+    {"frameId":"l031","field":"grammarCards[3].functionZh","old":"场所/手段/原因","new":"表示原因／依据：由于彼此的引力","confidence":0.99,"evidence":["引力で在本句说明相互吸引的原因／依据。"],"changesTokenStructure":false},
+    {"frameId":"l031","field":"grammarCards[4].grammarStructureZh","old":"动词","new":"复合动词「引き寄せ合う」前项","confidence":0.98,"evidence":["应整体理解为引き寄せる＋合う。"],"changesTokenStructure":false},
+    {"frameId":"l031","field":"grammarCards[5].grammarStructureZh","old":"动词","new":"Vます词干＋合う（相互动作）","confidence":0.99,"evidence":["引き寄せ合う中的合う表示双方相互进行动作。"],"changesTokenStructure":false},
+    {"frameId":"l031","field":"grammarCards[6].grammarStructureZh","old":"んだ（说明语气）","new":"「のだ」口语形（说明／强调）","confidence":0.99,"evidence":["んだ＝のだ的口语形式，用于说明或强调判断。","https://www.irodori.jpf.go.jp/assets/data/resources/Grammar_Worksheets_Y.pdf"],"changesTokenStructure":false},
+
+    {"frameId":"l032","field":"grammarCards[5].functionZh","old":"对象/方向/时间","new":"标记「届く」的到达对象「きみ」","confidence":0.99,"evidence":["届く与に搭配，に标记信息／气息的到达对象。"],"changesTokenStructure":false},
+    {"frameId":"l032","field":"grammarCards[7].functionZh","old":"疑问/不确定","new":"与「な」组成「かな」，表示自问","confidence":0.99,"evidence":["届くかな是带不确定判断的自问。","https://kotobank.jp/word/%E3%81%8B%E3%81%AA-464996"],"changesTokenStructure":false},
+    {"frameId":"l032","field":"grammarCards[8].functionZh","old":"功能待复核","new":"与「か」组成「かな」，柔化疑问语气","confidence":0.99,"evidence":["かな由终助词か＋な组成。","https://kotobank.jp/word/%E3%81%8B%E3%81%AA-464996"],"changesTokenStructure":false},
+
+    {"frameId":"l033","field":"grammarCards[1].functionZh","old":"功能待复核","new":"轻视性例示并提示「距离这种东西」","confidence":0.99,"evidence":["名词＋なんて可作带轻视／婉曲评价的例示；此处与ない呼应。","https://kotobank.jp/word/%E3%81%AA%E3%82%93%E3%81%A6-590615"],"changesTokenStructure":false},
+    {"frameId":"l033","field":"grammarCards[1].grammarStructureZh","old":"助词","new":"副助词「なんて」（例示／轻视）","confidence":0.99,"evidence":["距離なんて相当于“所谓距离／距离这种东西”。","https://kotobank.jp/word/%E3%81%AA%E3%82%93%E3%81%A6-590615"],"changesTokenStructure":false},
+    {"frameId":"l033","field":"grammarCards[3].functionZh","old":"所属/修饰","new":"与「かな」组成「のかな」，引出说明性自问","confidence":0.98,"evidence":["ないのかな中的の是说明性形式，后接かな，不表示所属。"],"changesTokenStructure":false},
+    {"frameId":"l033","field":"grammarCards[4].functionZh","old":"疑问/不确定","new":"与前后项组成「のかな」，表示自问","confidence":0.99,"evidence":["のかな表达带说明背景的疑问／自问。","https://kotobank.jp/word/%E3%81%8B%E3%81%AA-464996"],"changesTokenStructure":false},
+    {"frameId":"l033","field":"grammarCards[5].functionZh","old":"功能待复核","new":"与「か」组成「かな」，柔化自问语气","confidence":0.99,"evidence":["句末かな表示判断保留和自问。","https://kotobank.jp/word/%E3%81%8B%E3%81%AA-464996"],"changesTokenStructure":false},
+
+    {"frameId":"l034","field":"grammarCards[2].functionZh","old":"也/追加","new":"与「どんな」呼应，表示无论何时","confidence":0.99,"evidence":["どんな時も构成无条件包含表达。"],"changesTokenStructure":false},
+    {"frameId":"l034","field":"grammarCards[5].functionZh","old":"疑问/不确定","new":"接疑问代词构成不定指「某处」","confidence":0.99,"evidence":["どこか是肯定陈述中的不定地点，不是疑问。"],"changesTokenStructure":false},
+    {"frameId":"l034","field":"grammarCards[6]","old":{"token":"で","reading":"で","romaji":"de","grammarStructureZh":"助动词","dictionaryForm":"だ","fieldProvenance":{"segmentation":"SudachiPy 0.6.11 + sudachidict_core 20260723","reading":"SudachiPy 0.6.11 + sudachidict_core 20260723","romaji":"pykakasi 2.3.0","meaning":"phase-3 unresolved draft","grammarStructure":"Sudachi POS draft"},"status":"auto-draft-needs-assisted-review","reviewRequired":true,"render":true,"zhMeaning":"待联网复核"},"new":{"token":"で","reading":"で","romaji":"de","grammarStructureZh":"格助词「で」（场所）","dictionaryForm":"で","fieldProvenance":{"segmentation":"SudachiPy 0.6.11 + sudachidict_core 20260723","reading":"SudachiPy 0.6.11 + sudachidict_core 20260723","romaji":"pykakasi 2.3.0","meaning":"grammar role contextual review","grammarStructure":"grammar role contextual review"},"status":"auto-draft-needs-assisted-review","reviewRequired":true,"render":true,"functionZh":"标记动作发生的场所「某处」"},"confidence":0.99,"evidence":["どこかで中的で接地点名词短语，标记后续动作发生的场所；不是断定助动词。"],"changesTokenStructure":false},
+
+    {"frameId":"l035","field":"grammarCards[0].grammarStructureZh","old":"动词（活用）","new":"Vている（持续）","confidence":0.99,"evidence":["見守っている表示持续守望。"],"changesTokenStructure":false},
+    {"frameId":"l035","field":"grammarCards[1].functionZh","old":"起点/原因","new":"表示原因：因为一直守望","confidence":0.99,"evidence":["句末からさ中的から说明理由。"],"changesTokenStructure":false},
+
+    {"frameId":"l036","field":"grammarCards[1].grammarStructureZh","old":"な形容词","new":"拟态词＋に＋なる（状态变化）","confidence":0.96,"evidence":["くしゃくしゃになって整体表示变成皱成一团／表情皱起的状态。"],"changesTokenStructure":false},
+    {"frameId":"l036","field":"grammarCards[2].grammarStructureZh","old":"助动词","new":"形状词的连用标记「に」","confidence":0.96,"evidence":["此处に与くしゃくしゃ、なる共同构成状态变化结构。"],"changesTokenStructure":false},
+    {"frameId":"l036","field":"grammarCards[3].grammarStructureZh","old":"动词（活用）","new":"「なる」的て形（承接下行）","confidence":0.99,"evidence":["なって把状态变化连接到下一行「笑う日を」。"],"changesTokenStructure":false},
+
+    {"frameId":"l037","field":"grammarCards[2].functionZh","old":"标记宾语","new":"跨行标记「集めて」的宾语「笑う日」","confidence":0.99,"evidence":["本行「笑う日を」的谓语在下一行开头「集めて」。"],"changesTokenStructure":false},
+
+    {"frameId":"l038","field":"grammarCards[3].functionZh","old":"表示方向","new":"标记踏出动作朝向「未来」","confidence":0.99,"evidence":["未来へ中的へ标记移动／推进方向。"],"changesTokenStructure":false},
+    {"frameId":"l038","field":"grammarCards[6].functionZh","old":"也/追加","new":"将「迈向未来的前方」也纳入后续陈述","confidence":0.96,"evidence":["先も以も提示包含关系，并承接下一行。"],"changesTokenStructure":false},
+
+    {"frameId":"l039","field":"grammarCards[1].functionZh","old":"共同/引用","new":"标记共同参与者「きみ」","confidence":0.99,"evidence":["きみと在此表示和你一起，不表示引用。"],"changesTokenStructure":false},
+    {"frameId":"l039","field":"grammarCards[3].grammarStructureZh","old":"动词（活用）","new":"「震わせる」的て形（动作承接）","confidence":0.99,"evidence":["震わせて是他动词震わせる的て形。"],"changesTokenStructure":false},
+
+    {"frameId":"l040","field":"grammarCards[1].functionZh","old":"强调语气","new":"以确信口吻加强断定","confidence":0.97,"evidence":["叶うさ中的句末さ加强确信语气。"],"changesTokenStructure":false},
+    {"frameId":"l040","field":"grammarCards[5].grammarStructureZh","old":"动词","new":"「巡る」的意志形（劝诱）","confidence":0.99,"evidence":["巡ろう是巡る的意志形，表达共同出发的劝诱。"],"changesTokenStructure":false},
+
+    {"frameId":"l013","field":"grammarCards[0].grammarStructureZh","old":"名词","new":"名词・表外训「そら」","confidence":0.99,"evidence":["《汉字ペディア》把「宙」列为音读「チュウ」、表外训「そら」；单字读そら不是熟字训。","project/timing/roma.json l013 冻结逐唱音为「so ra」。","https://www.kanjipedia.jp/kanji/0004735300"],"changesTokenStructure":false},
+    {"frameId":"l023","field":"grammarCards[4].grammarStructureZh","old":"名词","new":"名词・外来语义训「リアル」","confidence":0.98,"evidence":["義訓指依据汉字或汉字串的文脉意义配置非固定读法；「現実」唱作英语来源的「リアル」属于意义对应的外来语义训，不是和语熟字训。","国立国语研究所的 ruby 规范区分普通读音与“别语言翻译／换言”ruby，并把一字以上汉字对应外来语列入特殊训。","project/timing/roma.json l023 冻结逐唱音为「ri a ru」。","https://kotobank.jp/word/%E7%BE%A9%E8%A8%93-473080","https://repository.ninjal.ac.jp/record/2858/files/LR-CCG-07-03.pdf","https://repository.ninjal.ac.jp/record/3713/files/gzgc_onkun_200511.pdf"],"changesTokenStructure":false},
+    {"frameId":"l025","field":"grammarCards[0].grammarStructureZh","old":"名词","new":"名词・熟字训「とわ」","confidence":0.97,"evidence":["熟字训是两个以上汉字构成的熟字整体对应一个和语读法；「永遠」两字整体唱作和语「とわ」，符合该展示分类。","小学馆《类语例解辞典》说明「永久」「永遠」可改读「とわ」，且とわ多用于文学表达。","project/timing/roma.json l025 冻结逐唱音为「to wa」。","https://kotobank.jp/word/%E7%86%9F%E5%AD%97%E8%A8%93-528182","https://dictionary.goo.ne.jp/thsrs/15179/meaning/m0u/"],"changesTokenStructure":false},
+    {"frameId":"l032","field":"grammarCards[0].grammarStructureZh","old":"名词","new":"名词・歌词借读「そえ」","confidence":0.96,"evidence":["《汉字ペディア》所列「宙」读音只有「チュウ」与表外训「そら」，不列「そえ」；所以不能误标为固定训读或熟字训。","流行歌词研究把主表记与副表记不存在词典固定对应的二重表记纳入「当て読み」研究范畴；手机标签用中文简写为“歌词借读”。","project/timing/roma.json l032 冻结逐唱音明记「so e」，本提案不擅改唱读。","https://www.kanjipedia.jp/kanji/0004735300","https://doi.org/10.24701/mathling.34.3_204"],"changesTokenStructure":false}
+  ],
+  "reviewNotes": [
+    "已逐帧审核 l001–l040；l013 的现有助词功能与活用未发现必须修改项。",
+    "建议整合角色在不破坏逐词高亮的前提下考虑合卡：l014/l032 的「かな」、l033 的「のかな」、l022 的「開けてみて」、l027 的「導いてくれる」、l028 的「途切れかけた」与「見ても」、l030 的「何度だって」、l031 的「引き寄せ合う」、l034 的「どこか」。这些是语法分组建议，本提案未直接改写 token 结构，以避免与 lexical 角色发生整卡冲突。",
+    "所有助词提案均使用 functionZh；l034 的「で」从误判助动词改为格助词时，完整替换卡片并移除 zhMeaning，保持 functionZh/zhMeaning 二选一。",
+    "grammarStructureZh 采用可在单行卡片显示的简洁文型说明，未添加前置冒号或装饰符。",
+    "特殊唱读分类：l013「宙→そら」为表外训；l023「現実→リアル」为外来语义训；l025「永遠→とわ」为熟字训；l032「宙→そえ」为歌词当て読み，卡片简写“歌词借读”。扫描其余 l001–l040 后未发现其他由 lexical 提案改为非通常读法的词卡。"
+  ]
+}

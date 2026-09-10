@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 2,
+  "renderer": "platform-cover-v1-established-layout",
+  "font": "C:\\Windows\\Fonts\\msyhbd.ttc",
+  "palette": {
+    "accent": "#605491",
+    "activeTint": "#987EFF",
+    "cardFill": "#605491BF",
+    "cardOutline": "#987EFF",
+    "body": "#FFFFFF"
+  },
+  "outputs": [
+    {
+      "name": "16x9",
+      "path": "C:\\project\\musicjlpt\\projects\\tsuyogaru-girl\\deliverables\\final\\tsuyogaru-girl--cover-16x9--20260822-cover-v3.png",
+      "width": 1920,
+      "height": 1080,
+      "artworkFocus": "center",
+      "bounds": {
+        "series": [
+          868,
+          189,
+          1300,
+          295
+        ],
+        "title": [
+          868,
+          349,
+          1659,
+          460
+        ],
+        "artist": [
+          868,
+          509,
+          1561,
+          561
+        ],
+        "subtitle": [
+          868,
+          593,
+          1519,
+          779
+        ],
+        "benefitsRow1": [
+          868,
+          812,
+          1585,
+          876
+        ],
+        "benefitsRow2": [
+          868,
+          898,
+          1390,
+          962
+        ],
+        "benefitsUnderline": [
+          868,
+          989,
+          1271,
+          1002
+        ]
+      }
+    },
+    {
+      "name": "4x3",
+      "path": "C:\\project\\musicjlpt\\projects\\tsuyogaru-girl\\deliverables\\final\\tsuyogaru-girl--cover-4x3--20260822-cover-v3.png",
+      "width": 1440,
+      "height": 1080,
+      "artworkFocus": "center",
+      "bounds": {
+        "series": [
+          653,
+          189,
+          1085,
+          295
+        ],
+        "title": [
+          653,
+          348,
+          1402,
+          453
+        ],
+        "artist": [
+          653,
+          509,
+          1346,
+          561
+        ],
+        "subtitle": [
+          653,
+          593,
+          1304,
+          779
+        ],
+        "benefitsRow1": [
+          653,
+          812,
+          1370,
+          876
+        ],
+        "benefitsRow2": [
+          653,
+          898,
+          1175,
+          962
+        ],
+        "benefitsUnderline": [
+          653,
+          989,
+          955,
+          1002
+        ]
+      }
+    }
+  ]
+}

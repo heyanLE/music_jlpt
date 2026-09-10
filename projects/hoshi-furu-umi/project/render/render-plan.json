@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 2,
+  "runId": "final-r01",
+  "authorizationWording": "按当前审核版渲染",
+  "pipelinePreset": "video-then-gaussian-hybrid",
+  "canvases": [
+    {
+      "name": "16x9",
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "candidate": "project/work/final-r01/16x9/hoshi-furu-umi--16x9--final-r01.mkv"
+    }
+  ],
+  "alignment": {
+    "offsetMs": 0,
+    "appliesTo": [
+      "music",
+      "lyrics",
+      "spectrum"
+    ],
+    "backgroundClock": "output"
+  },
+  "timingMatchPolicy": {
+    "highlightAllowed": [
+      "full",
+      "adjacentRows"
+    ],
+    "fallbacks": [
+      "japaneseFallback",
+      "lineFallback",
+      "unmatched"
+    ],
+    "fallbackHighlight": false
+  },
+  "layers": [
+    {
+      "order": 1,
+      "id": "background",
+      "timeline": "project/scene-timeline.json",
+      "segments": [
+        "video-clip:0-154100",
+        "cover-gaussian:154100-audio-end"
+      ],
+      "transition": "500ms background-only black fade"
+    },
+    {
+      "order": 2,
+      "id": "foreground",
+      "template": "project/templates/foreground.json",
+      "sceneModes": [
+        "follow-lyrics",
+        "persistent"
+      ]
+    },
+    {
+      "order": 3,
+      "id": "floatingOverlay",
+      "template": "project/templates/overlay.json",
+      "enabled": true,
+      "persistent": true,
+      "background": "transparent"
+    }
+  ],
+  "audio": {
+    "source": "source/music.flac",
+    "codecPolicy": "stream-copy FLAC",
+    "container": "Matroska"
+  },
+  "activeHashes": {
+    "inputManifest": "603f9908a9b00581b3651b9a4bb2b5997b4951eee151ae79537426bb7ddb80fa",
+    "sourceManifest": "fae01947047854822f124c31f301cfc4d9c69e7d80b083085ba25579c7a73c6e",
+    "frames": "4876de861c2d3d0c890f63ece924a1539b2daadb8831136557baa25a54381774",
+    "palette": "7169e7e470f26caf66b4b85407ea3bb55f7a83ae13c45c6ff91adae61ff1be7a",
+    "presentation": "eff7938b401949aa91965fb0b2167f7ae94364fbdfbbf10acec2be6882ae85d4",
+    "sceneTimeline": "dbb9c8e0a4d8b7ff368d7550df89453d19f99fdf901693296d9e60e4b4350754",
+    "foregroundTemplate": "a5fa64614553081b74df9b71e504efa794f71f5cab563c2b6eacf6a88b7da317",
+    "backgroundTemplate": "f6fcea2f600ad09880378de3535f7b4baa08a32d223695475c89688dd2d93ba1",
+    "overlayTemplate": "94e142f44d067f1a782352065dadbf483c872f2519afc2c734f833b98122f52b",
+    "resolvedLayout": "1c3009e4d6e0942eb923f6bf680bedbc96625fe132b1a5dc897c50bda79e768a",
+    "contentDecision": "2632d81e2a9c28d607d321c9d3e791d372867fe22fe66a180c409d1f1d41d311",
+    "mergeLog": "3839d01695ff0a379e75df162adb5eb14462d9bbd5439174d594631164c11547"
+  }
+}

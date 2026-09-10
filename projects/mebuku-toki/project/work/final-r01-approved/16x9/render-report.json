@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 2,
+  "candidate": "C:\\project\\musicjlpt\\projects\\mebuku-toki\\project\\work\\final-r01-approved\\16x9\\mebuku-toki--16x9--final-r01-approved.mkv",
+  "candidateSha256": "4af88a511b13bc16a0bfa947ded58c61c44a03b7f680dc409092f84266d6a02c",
+  "activeHashes": {
+    "inputManifest": "c335f7b77ed3ecc98ee360dd1ebc317f096ebf66de4c266a0a372fb079a20be1",
+    "presentation": "eff7938b401949aa91965fb0b2167f7ae94364fbdfbbf10acec2be6882ae85d4",
+    "sceneTimeline": "76cb6e17046b8225d6a406d828c51d087215dcf694e639b250f0372f67222c59",
+    "frames": "23e9efa719fa5c4c800b16fe9d3775643674c9b4332291f82aa7c4d5716f99e4"
+  },
+  "renderer": "C:\\project\\musicjlpt\\projects\\mebuku-toki\\project\\render\\render_final.py",
+  "layers": [
+    "background",
+    "foreground",
+    "floatingOverlay"
+  ],
+  "scenes": [
+    {
+      "id": "anime-opening-full",
+      "startMs": 0,
+      "endMs": 102957,
+      "mode": "video-clip",
+      "asset": "source/background.mp4",
+      "sourceStartMs": 0,
+      "sourceEndMs": 102957,
+      "fit": "height-center-pillarbox",
+      "sourceAudio": "mute",
+      "foregroundMode": "follow-lyrics",
+      "transitionIn": {
+        "kind": "none",
+        "durationMs": 0,
+        "scope": "background-only"
+      },
+      "transitionOut": {
+        "kind": "none",
+        "durationMs": 0,
+        "scope": "background-only"
+      }
+    },
+    {
+      "id": "official-mv-continuation",
+      "startMs": 102957,
+      "endMs": "audio-end",
+      "mode": "video-clip",
+      "asset": "source/background-2.mp4",
+      "sourceStartMs": 99751,
+      "sourceEndMs": "sourceStart-plus-output-remainder",
+      "fit": "height-center-pillarbox",
+      "sourceAudio": "mute",
+      "foregroundMode": "follow-lyrics",
+      "transitionIn": {
+        "kind": "none",
+        "durationMs": 0,
+        "scope": "background-only"
+      },
+      "transitionOut": {
+        "kind": "none",
+        "durationMs": 0,
+        "scope": "background-only"
+      }
+    }
+  ],
+  "foregroundDefaultMode": "follow-lyrics",
+  "durationMs": 224621,
+  "offsetMs": 5327,
+  "audioCodecPolicy": "stream-copy",
+  "foregroundTimeline": {
+    "full": 34,
+    "adjacentRows": 0,
+    "lineFallback": 0,
+    "unmatched": 0,
+    "blankSegments": 8,
+    "neutralSegments": 54,
+    "activeSegments": 331
+  }
+}

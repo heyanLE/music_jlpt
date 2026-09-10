@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "status": "original-overlap-resolved-in-static-r2-motion-qa-pending",
+  "scope": "unapproved static proposal proofs only",
+  "covers": "16x9 and 4x3 template outputs inspected; pink palette and requested gold badge present",
+  "staticCards": "48 images passed overflow exceptions; card rows and contextual meanings render",
+  "findings": [{"frameId": "l023", "issue": "Romaji for の / 体 / で collided in the old stock renderer.", "resolution": "Project foreground module reserves measured Japanese/romaji/annotation width; 48 rows pass shared-anchor checks, l001/l023 visually inspected. Original timing unchanged.", "status": "resolved"}],
+  "newEvidence": "project/qa/shared-anchor-preview-r2.json",
+  "notFinalQa": true
+}

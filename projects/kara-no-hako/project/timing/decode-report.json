@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "decoder": "normalize_lyrics.py",
+  "sources": {
+    "qm": "d835772a46c9dbc83abe5b8f84930f1c62fe8b9f2c47f20d91e5b754d92c72c7",
+    "qmRoma": "7efd36b2a0632e26eddc2b80d8b0b56bb6d58c46e6b200a622d777383a17d7e2",
+    "qmts": "a44b00b6250d9b2f268a6f5ffaec716cd5576f9313e6be49cb0daa264c8bb4d6"
+  },
+  "counts": {
+    "frameShells": 45
+  },
+  "usableTiming": {
+    "japanese": "word",
+    "romaji": "word",
+    "translation": "line"
+  },
+  "filters": {
+    "minLyricMs": 571,
+    "excludePrefixes": []
+  }
+}

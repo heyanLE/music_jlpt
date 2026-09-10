@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "foreground": {
+    "templateId": "study-current-v3",
+    "defaultMode": "follow-lyrics",
+    "displayTiming": {
+      "preRollMs": 0,
+      "tailProtectionMs": 500,
+      "internalGap": "hold-current-line"
+    },
+    "lineTranslation": {
+      "enabled": true
+    },
+    "veil": {
+      "color": "#000000",
+      "opacity": 0.28
+    },
+    "highlight": {
+      "mode": "token"
+    },
+    "textOutline": {
+      "enabled": true,
+      "color": "#000000"
+    },
+    "coverVisibilityOverrides": [
+      {
+        "startMs": 72000,
+        "endMs": 76000,
+        "visible": false,
+        "clock": "output"
+      }
+    ]
+  },
+  "floatingOverlay": {
+    "id": "spectrum-foobar-bars",
+    "enabled": true,
+    "persistent": true,
+    "zIndex": "above-foreground",
+    "clock": "output"
+  }
+}

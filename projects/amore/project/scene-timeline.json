@@ -1,0 +1,5 @@
+{
+  "schemaVersion": 1,
+  "clock": "audio",
+  "segments": [{ "id": "main", "startMs": 0, "endMs": "audio-end", "mode": "video-loop", "asset": "source/background.mp4", "fit": "height-center-pillarbox", "sourceAudio": "mute", "transitionIn": { "kind": "none", "durationMs": 0 }, "transitionOut": { "kind": "none", "durationMs": 0 } }]
+}

@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "slug": "tsuyogaru-girl",
+  "title": "争强好胜的女孩",
+  "artist": "ぼっちぼろまる feat. もっさ",
+  "subtitle": "败犬女主太多了\nOP",
+  "subtitleScale": 2.0,
+  "series": "快速学唱",
+  "benefits": ["歌词同步高亮", "假名注释", "罗马音", "逐词拆解"],
+  "outputs": [
+    { "name": "16x9", "width": 1920, "height": 1080, "artworkFocus": "center" },
+    { "name": "4x3", "width": 1440, "height": 1080, "artworkFocus": "center" }
+  ]
+}

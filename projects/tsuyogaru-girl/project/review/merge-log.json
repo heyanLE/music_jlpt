@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "mergeId": "qmts-semantic-recheck-r01-user-approved",
+  "userAuthorization": "采纳全部提案",
+  "proposal": "project/proposals/qmts-semantic-recheck-r01.json",
+  "changedFrameIds": [
+    "l007",
+    "l008",
+    "l009",
+    "l016",
+    "l019",
+    "l020",
+    "l021",
+    "l038",
+    "l043",
+    "l047",
+    "l051",
+    "l052",
+    "l054",
+    "l059"
+  ],
+  "preservedUserCorrections": [
+    "l001:負け",
+    "l068:負け",
+    "l069:負け"
+  ],
+  "frameSha256": "c585a758714f7f6361fe5734b8f06f8a4103fd355ec6133f47cb4c0c0602b9f7"
+}

@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "role": "music",
+      "originalAbsolutePath": "C:\\baidunetdiskdownload\\星降る海.flac",
+      "frozenAsset": "source/music.flac",
+      "bytes": 73777599,
+      "sha256": "9de65c78358f81f036cb12e43b6ef150add20f6920f92048d23fb8088a1da046",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "flac",
+            "codec_type": "audio",
+            "sample_rate": "48000",
+            "bits_per_raw_sample": "24"
+          },
+          {
+            "index": 1,
+            "codec_name": "mjpeg",
+            "codec_type": "video",
+            "width": 1600,
+            "height": 1600,
+            "bits_per_raw_sample": "8"
+          }
+        ],
+        "format": {
+          "format_name": "flac",
+          "duration": "253.441375"
+        }
+      }
+    },
+    {
+      "role": "cover",
+      "originalAbsolutePath": "C:\\baidunetdiskdownload\\星降る海.flac",
+      "frozenAsset": "source/cover.jpg",
+      "bytes": 194423,
+      "sha256": "ae378d2c67b6e05a78119da6c00dc04dc88057725bd3ab9d7ae765fc77b9f82f",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "mjpeg",
+            "codec_type": "video",
+            "width": 1600,
+            "height": 1600,
+            "bits_per_raw_sample": "8"
+          }
+        ],
+        "format": {
+          "format_name": "image2",
+          "duration": "0.040000"
+        }
+      }
+    },
+    {
+      "role": "background",
+      "originalAbsolutePath": "C:\\project\\musicjlpt\\.tmp\\hoshi-furu-umi\\background-trimmed.mp4",
+      "frozenAsset": "source/background.mp4",
+      "derivation": {
+        "sourceAsset": "source/background-original.mp4",
+        "trimStartMs": 25183,
+        "method": "multi-window-normalized-waveform-correlation-v1",
+        "evidence": "project/qa/background-alignment-correlation.json",
+        "videoTransform": "decode from exact source timestamp, CFR 30, H.264 CRF 18, source audio omitted because background audio is muted"
+      },
+      "bytes": 133520856,
+      "sha256": "f674a05c961cfe7f68a46fdae44d87562d50abb22beb7da275a79610140eee6b",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "bits_per_raw_sample": "8"
+          }
+        ],
+        "format": {
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "duration": "154.100000"
+        }
+      }
+    },
+    {
+      "role": "backgroundOriginal",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\Videos\\TubeGet\\【本編ライブシーン】星降る海 – Aqu3ra  月見ヤチヨ(cv.早見沙織) from #超かぐや姫 ！.mp4",
+      "frozenAsset": "source/background-original.mp4",
+      "bytes": 63844114,
+      "sha256": "1495029dd106f5556192e4aa67388644e9244b33612959aadea512ae2fcea0d4",
+      "usage": "provenance-and-alignment-analysis-only",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "24000/1001"
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "sample_rate": "48000"
+          }
+        ],
+        "format": {
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "duration": "179.311000"
+        }
+      }
+    },
+    {
+      "role": "qm",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\AppData\\Roaming\\Tencent\\QQMusic\\QQMusicCache\\QQMusicLyricNew\\Aqu3ra - 星降る海 (Starry Sea) - 253 - 超かぐや姫！_qm.qrc",
+      "frozenAsset": "source/lyrics_qm.qrc",
+      "bytes": 5043,
+      "sha256": "1a88d89960c0c96872c706b9fe356707ab09b18a5f889cb73668e6d109bbbf3e",
+      "probe": {
+        "probeError": "C:\\project\\musicjlpt\\projects\\hoshi-furu-umi\\source\\lyrics_qm.qrc: Invalid data found when processing input"
+      }
+    },
+    {
+      "role": "qmRoma",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\AppData\\Roaming\\Tencent\\QQMusic\\QQMusicCache\\QQMusicLyricNew\\Aqu3ra - 星降る海 (Starry Sea) - 253 - 超かぐや姫！_qmRoma.qrc",
+      "frozenAsset": "source/lyrics_qmRoma.qrc",
+      "bytes": 4019,
+      "sha256": "2a4fa3c2c9c2879002e521000b607b315ddd72ea68183f91e9aadfe32fc26ba5",
+      "probe": {
+        "probeError": "C:\\project\\musicjlpt\\projects\\hoshi-furu-umi\\source\\lyrics_qmRoma.qrc: Invalid data found when processing input"
+      }
+    },
+    {
+      "role": "qmts",
+      "originalAbsolutePath": "C:\\Users\\eke_l\\AppData\\Roaming\\Tencent\\QQMusic\\QQMusicCache\\QQMusicLyricNew\\Aqu3ra - 星降る海 (Starry Sea) - 253 - 超かぐや姫！_qmts.qrc",
+      "frozenAsset": "source/lyrics_qmts.qrc",
+      "bytes": 1707,
+      "sha256": "958d09ca10023462a76532b2d54df56aeb77dce26f67e4daad8c6c48c001a46a",
+      "probe": {
+        "probeError": "C:\\project\\musicjlpt\\projects\\hoshi-furu-umi\\source\\lyrics_qmts.qrc: Invalid data found when processing input"
+      }
+    }
+  ]
+}

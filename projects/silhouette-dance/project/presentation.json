@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "foregroundTemplate": "project/templates/foreground.json",
+  "foreground": {
+    "highlight": { "mode": "token" },
+    "gapBehavior": "lyric-only",
+    "veil": { "color": "#000000", "opacity": 0.28 },
+    "textOutline": true,
+    "cards": {
+      "fill": "palette.cardFill",
+      "fillAlpha": 0.50,
+      "outline": "palette.activeTint",
+      "textOpacity": 1.0
+    }
+  },
+  "floatingOverlays": [],
+  "cover": { "visibleDuringLyrics": true, "visibleDuringGaps": false }
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 3,
+  "authorization": "user: 按当前审核版渲染",
+  "authorizedAt": "2026-09-02T15:48:25.859559+00:00",
+  "renderAuthorized": true,
+  "inputManifestSha256": "375e547db094ab475bc4e76cf40e61e462d2c22637243d6ec6f7d83da067333c",
+  "sourceManifestSha256": "066c80ccdfb73ce09ba54835bd4757b18eb86c2c57c8e206e2822980acdb8e83",
+  "frameSha256": "09246f2a624b4fe370b4cf58c6ba66793ac4627437c665d3bcad5ef08c4d6deb",
+  "paletteSha256": "3bad0ef5ba32bdd94a5cefb27cb722ec8d4395d525b5298169a5502a508ea174",
+  "presentationSha256": "2f327e8d6850093055c67d499777bd0474c89439fb8083d554f88add14ebce21",
+  "sceneSha256": "f44a66dc376c2eb2bde59d33135ba554999cf3ea3cccf21ed2c22da4ed1d3129",
+  "foregroundTemplateSha256": "a5fa64614553081b74df9b71e504efa794f71f5cab563c2b6eacf6a88b7da317",
+  "overlayTemplateSha256": "94e142f44d067f1a782352065dadbf483c872f2519afc2c734f833b98122f52b",
+  "rendererSha256": "5dbb3ce169541ffc148a1203174fafba5c525d16b1611bc01ec962e6ef8b0524",
+  "assistedReviewAuditSha256": "9547cc63174f0db60e78ca84a1bda281b2e449c6679e0041bf2a94c53261ca24",
+  "mergeLogSha256": "274517a60242e1852758b51aef5ada10387aeb880a1eec69db7610330175638b",
+  "reviewDecisionSha256": "6a8639fac7633d87a25bf875e3dfc1646f89ac29947ff444d2a055c0efbece9d"
+}

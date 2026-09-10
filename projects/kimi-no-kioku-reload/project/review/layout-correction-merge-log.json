@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 2,
+  "userWording": "采纳全部提案",
+  "scope": "23 audited layout changes plus 2 meaning-preserving integration alternatives",
+  "framesBeforeSha256": "f567e0e1c582104b125ee6e670b6f53ded7689de43f948cc55f00b24749d57de",
+  "framesAfterSha256": "7c0c8d02c6c94d9c80cce49dcab8ffdcf630ef9f288ed00246aa2db013e69ed4",
+  "mergedChangeCount": 25,
+  "merged": [
+    {
+      "role": "lexical",
+      "changeIndex": 0,
+      "frameId": "l008",
+      "field": "caption.furigana[2].reading"
+    },
+    {
+      "role": "lexical",
+      "changeIndex": 1,
+      "frameId": "l008",
+      "field": "caption.furigana[3].reading"
+    },
+    {
+      "role": "lexical",
+      "changeIndex": 2,
+      "frameId": "l028",
+      "field": "caption.furigana[5].reading"
+    },
+    {
+      "role": "grammar",
+      "changeIndex": 0,
+      "frameId": "l008",
+      "field": "grammarCards[3].grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "changeIndex": 1,
+      "frameId": "l010",
+      "field": "grammarCards[0].grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "changeIndex": 2,
+      "frameId": "l012",
+      "field": "grammarCards[5].grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "changeIndex": 3,
+      "frameId": "l028",
+      "field": "grammarCards[5].grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "changeIndex": 4,
+      "frameId": "l034",
+      "field": "grammarCards[6].grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "changeIndex": 5,
+      "frameId": "l038",
+      "field": "grammarCards[2].grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "changeIndex": 6,
+      "frameId": "l038",
+      "field": "grammarCards[5].grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "changeIndex": 7,
+      "frameId": "l038",
+      "field": "grammarCards[8].grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "changeIndex": 8,
+      "frameId": "l042",
+      "field": "grammarCards[0].grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "changeIndex": 9,
+      "frameId": "l044",
+      "field": "grammarCards[5].grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "changeIndex": 10,
+      "frameId": "l057",
+      "field": "grammarCards[6].grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "changeIndex": 11,
+      "frameId": "l061",
+      "field": "grammarCards[2].grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "changeIndex": 12,
+      "frameId": "l061",
+      "field": "grammarCards[5].grammarStructureZh"
+    },
+    {
+      "role": "grammar",
+      "changeIndex": 13,
+      "frameId": "l061",
+      "field": "grammarCards[8].grammarStructureZh"
+    },
+    {
+      "role": "translation",
+      "changeIndex": 0,
+      "frameId": "l011",
+      "field": "grammarCards.5.functionZh"
+    },
+    {
+      "role": "translation",
+      "changeIndex": 1,
+      "frameId": "l019",
+      "field": "grammarCards.2.functionZh"
+    },
+    {
+      "role": "translation",
+      "changeIndex": 2,
+      "frameId": "l025",
+      "field": "grammarCards.5.functionZh"
+    },
+    {
+      "role": "translation",
+      "changeIndex": 3,
+      "frameId": "l026",
+      "field": "grammarCards.5.functionZh"
+    },
+    {
+      "role": "translation",
+      "changeIndex": 5,
+      "frameId": "l043",
+      "field": "grammarCards.5.functionZh"
+    },
+    {
+      "role": "translation",
+      "changeIndex": 6,
+      "frameId": "l051",
+      "field": "grammarCards.2.functionZh"
+    },
+    {
+      "role": "integration",
+      "frameId": "l032",
+      "field": "grammarCards.4.functionZh",
+      "old": "标记认定内容：不知道那是无可替代的时光",
+      "new": "标记认定内容：无可替代的时光"
+    },
+    {
+      "role": "integration",
+      "frameId": "l055",
+      "field": "grammarCards.4.functionZh",
+      "old": "标记认定内容：不知道那是无可替代的时光",
+      "new": "标记认定内容：无可替代的时光"
+    }
+  ],
+  "integrationReport": "project/review/layout-correction-integration-report.json"
+}

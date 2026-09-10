@@ -1,0 +1,22 @@
+{
+  "kind": "static-layout-experiment-only",
+  "timestampMs": 44000,
+  "currentFrame": "l011",
+  "nextFrame": "l012",
+  "framesSha256": "09246f2a624b4fe370b4cf58c6ba66793ac4627437c665d3bcad5ef08c4d6deb",
+  "productionFilesModified": false,
+  "nextLineText": "ねぇ それでもまだ 期待 膨らむんだ",
+  "rubyAnchors": [
+    {
+      "base": "期待",
+      "reading": "きたい",
+      "x": 1134.5
+    },
+    {
+      "base": "膨",
+      "reading": "ふく",
+      "x": 1282.5
+    }
+  ],
+  "output": "C:\\project\\musicjlpt\\projects\\dare-ni-mo-narenai-watashi-dakara-v3\\deliverables\\review\\next-line-preview-a--00m44s.png"
+}

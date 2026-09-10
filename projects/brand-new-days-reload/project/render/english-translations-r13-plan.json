@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "runId": "20260817-r13-english-translations",
+  "change": {
+    "pureEnglishRows": 8,
+    "translationPlacement": "existing Chinese translation row",
+    "furigana": false,
+    "romaji": false,
+    "grammarCards": false,
+    "translationStatus": "assisted provisional; user-reviewable"
+  },
+  "framesSha256": "0d8667e12599a92d9500c2f9b5a61c78c230cf0c713e207df658d14dac65d75c",
+  "background": "intro, then two looping Aigis wallpaper segments",
+  "visualizer": "foobar-classic-spectrum",
+  "output": "deliverables/final/brand-new-days-reload--interlude-wallpaper-switch--foobar-spectrum--outlined--english-translated--20260817-r13.mp4"
+}

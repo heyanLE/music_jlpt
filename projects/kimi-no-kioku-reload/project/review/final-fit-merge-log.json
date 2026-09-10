@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "userWording": "采纳全部提案",
+  "framesBeforeSha256": "7c0c8d02c6c94d9c80cce49dcab8ffdcf630ef9f288ed00246aa2db013e69ed4",
+  "framesAfterSha256": "90f9ee34c6165d151bbb69269e1f8e25603f9c27f4f67ea222e02c3debc73f95",
+  "mergedChangeCount": 13,
+  "integrationReport": "project/review/final-fit-integration-report.json",
+  "merged": [
+    {
+      "proposal": "grammar-final-fit-corrections.json",
+      "changeIndex": 0,
+      "frameId": "l012",
+      "field": "grammarCards[6].grammarStructureZh"
+    },
+    {
+      "proposal": "grammar-final-fit-corrections.json",
+      "changeIndex": 1,
+      "frameId": "l028",
+      "field": "grammarCards[6].grammarStructureZh"
+    },
+    {
+      "proposal": "grammar-final-fit-corrections.json",
+      "changeIndex": 2,
+      "frameId": "l032",
+      "field": "grammarCards[5].grammarStructureZh"
+    },
+    {
+      "proposal": "grammar-final-fit-corrections.json",
+      "changeIndex": 3,
+      "frameId": "l044",
+      "field": "grammarCards[6].grammarStructureZh"
+    },
+    {
+      "proposal": "grammar-final-fit-corrections.json",
+      "changeIndex": 4,
+      "frameId": "l055",
+      "field": "grammarCards[5].grammarStructureZh"
+    },
+    {
+      "proposal": "translation-final-fit-corrections.json",
+      "changeIndex": 0,
+      "frameId": "l011",
+      "field": "grammarCards.7.functionZh"
+    },
+    {
+      "proposal": "translation-final-fit-corrections.json",
+      "changeIndex": 1,
+      "frameId": "l038",
+      "field": "grammarCards.2.functionZh"
+    },
+    {
+      "proposal": "translation-final-fit-corrections.json",
+      "changeIndex": 2,
+      "frameId": "l038",
+      "field": "grammarCards.5.functionZh"
+    },
+    {
+      "proposal": "translation-final-fit-corrections.json",
+      "changeIndex": 3,
+      "frameId": "l038",
+      "field": "grammarCards.8.functionZh"
+    },
+    {
+      "proposal": "translation-final-fit-corrections.json",
+      "changeIndex": 4,
+      "frameId": "l043",
+      "field": "grammarCards.7.functionZh"
+    },
+    {
+      "proposal": "translation-final-fit-corrections.json",
+      "changeIndex": 5,
+      "frameId": "l061",
+      "field": "grammarCards.2.functionZh"
+    },
+    {
+      "proposal": "translation-final-fit-corrections.json",
+      "changeIndex": 6,
+      "frameId": "l061",
+      "field": "grammarCards.5.functionZh"
+    },
+    {
+      "proposal": "translation-final-fit-corrections.json",
+      "changeIndex": 7,
+      "frameId": "l061",
+      "field": "grammarCards.8.functionZh"
+    }
+  ]
+}

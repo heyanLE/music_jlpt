@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 2,
+  "renderer": "platform-cover-v1-established-layout",
+  "font": "C:\\Windows\\Fonts\\msyhbd.ttc",
+  "palette": {
+    "schemaVersion": 1,
+    "algorithm": "saturated-cover-pixel-hsv-v1",
+    "cover": "C:\\project\\musicjlpt\\projects\\mayocchauwa\\source\\cover.jpg",
+    "accent": "#E04060",
+    "activeTint": "#FF476C",
+    "body": "#7D2436",
+    "cardFill": {
+      "color": "#E04060",
+      "alpha": 0.75
+    }
+  },
+  "outputs": [
+    {
+      "name": "16x9",
+      "path": "C:\\project\\musicjlpt\\projects\\mayocchauwa\\deliverables\\final\\mayocchauwa--cover-16x9--20260822-cover-v2.png",
+      "width": 1920,
+      "height": 1080,
+      "artworkFocus": "center",
+      "bounds": {
+        "series": [
+          868,
+          189,
+          1300,
+          295
+        ],
+        "title": [
+          868,
+          350,
+          1546,
+          459
+        ],
+        "artist": [
+          868,
+          511,
+          1462,
+          561
+        ],
+        "subtitle": [
+          868,
+          594,
+          1395,
+          684
+        ],
+        "benefitsRow1": [
+          868,
+          759,
+          1585,
+          823
+        ],
+        "benefitsRow2": [
+          868,
+          845,
+          1390,
+          909
+        ],
+        "benefitsUnderline": [
+          868,
+          936,
+          1271,
+          949
+        ]
+      }
+    },
+    {
+      "name": "4x3",
+      "path": "C:\\project\\musicjlpt\\projects\\mayocchauwa\\deliverables\\final\\mayocchauwa--cover-4x3--20260822-cover-v2.png",
+      "width": 1440,
+      "height": 1080,
+      "artworkFocus": "center",
+      "bounds": {
+        "series": [
+          653,
+          189,
+          1085,
+          295
+        ],
+        "title": [
+          653,
+          350,
+          1331,
+          459
+        ],
+        "artist": [
+          653,
+          511,
+          1247,
+          561
+        ],
+        "subtitle": [
+          653,
+          594,
+          1180,
+          684
+        ],
+        "benefitsRow1": [
+          653,
+          759,
+          1370,
+          823
+        ],
+        "benefitsRow2": [
+          653,
+          845,
+          1175,
+          909
+        ],
+        "benefitsUnderline": [
+          653,
+          936,
+          955,
+          949
+        ]
+      }
+    },
+    {
+      "name": "9x16",
+      "path": "C:\\project\\musicjlpt\\projects\\mayocchauwa\\deliverables\\final\\mayocchauwa--cover-9x16--20260822-cover-v2.png",
+      "width": 1080,
+      "height": 1920,
+      "artworkFocus": "center",
+      "bounds": {
+        "series": [
+          81,
+          765,
+          557,
+          882
+        ],
+        "title": [
+          81,
+          897,
+          699,
+          997
+        ],
+        "artist": [
+          81,
+          1107,
+          642,
+          1154
+        ],
+        "subtitle": [
+          81,
+          1192,
+          568,
+          1276
+        ],
+        "benefitsRow1": [
+          81,
+          1416,
+          798,
+          1480
+        ],
+        "benefitsRow2": [
+          81,
+          1495,
+          603,
+          1559
+        ]
+      }
+    },
+    {
+      "name": "3x4",
+      "path": "C:\\project\\musicjlpt\\projects\\mayocchauwa\\deliverables\\final\\mayocchauwa--cover-3x4--20260822-cover-v2.png",
+      "width": 1080,
+      "height": 1440,
+      "artworkFocus": "center",
+      "bounds": {
+        "series": [
+          81,
+          581,
+          557,
+          698
+        ],
+        "title": [
+          81,
+          679,
+          699,
+          779
+        ],
+        "artist": [
+          81,
+          833,
+          642,
+          880
+        ],
+        "subtitle": [
+          81,
+          913,
+          568,
+          997
+        ],
+        "benefitsRow1": [
+          81,
+          1066,
+          798,
+          1130
+        ],
+        "benefitsRow2": [
+          81,
+          1142,
+          603,
+          1206
+        ]
+      }
+    }
+  ]
+}

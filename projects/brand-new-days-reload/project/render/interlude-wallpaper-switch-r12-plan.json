@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "runId": "20260817-r12-interlude-wallpaper-switch",
+  "switch": {
+    "firstInterlude": [87.582, 115.564],
+    "newBackgroundStartsAtSongSeconds": 115.564,
+    "newBackgroundSource": "source/aigis-animated-wallpaper-interlude.mp4",
+    "newBackgroundSha256": "380c073ff497a0e62582ef073b304af621aaef92a90e7a6caa72c0c0b671fa07",
+    "sourceAudio": "muted",
+    "loop": true,
+    "preserveAspectRatio": true,
+    "oldBackgroundFadeOutSeconds": [114.564, 115.564],
+    "newBackgroundFadeInSeconds": [115.564, 116.564]
+  },
+  "invariants": {
+    "lyricsAndCards": "unchanged and not faded",
+    "songAudio": "continuous",
+    "foobarSpectrum": "continuous",
+    "intro": "unchanged"
+  },
+  "output": "deliverables/final/brand-new-days-reload--intro-fade--interlude-wallpaper-switch--foobar-spectrum--outlined--english-fixed--20260817-r12.mp4"
+}

@@ -1,0 +1,350 @@
+{
+  "schemaVersion": 1,
+  "scope": "l023-l045",
+  "generatedBy": "assisted-review-b",
+  "policy": {
+    "preserveEnglishWithoutCards": true,
+    "particlesUseFunctionZh": true,
+    "loanwordsUseSourceWord": true,
+    "humanConfirmedFieldsModified": false
+  },
+  "proposals": [
+    {
+      "frameId": "l023",
+      "oldCaption": {"japanese":"僕は 僕は きっと 幸せものだ","romaji":"bo ku ha bo ku ha ki 't to shi a wa se mo no da","translationZh":"我啊 我啊 一定是个很幸福的人"},
+      "newTranslationZh": "我啊，我啊，一定是个幸福的人。",
+      "suggestedCards": [
+        {"token":"僕","reading":"ぼく","romaji":"boku","zhMeaning":"我（男性自称）","posZh":"名词"},
+        {"token":"は","reading":"は","romaji":"wa","functionZh":"提示主题","posZh":"提示助词"},
+        {"token":"僕","reading":"ぼく","romaji":"boku","zhMeaning":"我（男性自称）","posZh":"名词"},
+        {"token":"は","reading":"は","romaji":"wa","functionZh":"提示主题","posZh":"提示助词"},
+        {"token":"きっと","reading":"きっと","romaji":"kitto","zhMeaning":"一定","posZh":"副词"},
+        {"token":"幸せもの","reading":"しあわせもの","romaji":"shiawase mono","zhMeaning":"幸福的人","posZh":"名词"},
+        {"token":"だ","reading":"だ","romaji":"da","zhMeaning":"是（断定）","posZh":"助动词"}
+      ],
+      "confidence": 0.98,
+      "evidence": ["goo 国语辞书：幸せ者＝幸運な人", "句法：主题 は＋断定 だ"],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l024",
+      "oldCaption": {"japanese":"ねえ あといくつ僕らに","romaji":"ne e a to i ku tsu bo ku ra ni","translationZh":"呐 若是我们还可以"},
+      "newTranslationZh": "呐，我们还要有多少颗……",
+      "suggestedCards": [
+        {"token":"ねえ","reading":"ねえ","romaji":"nee","zhMeaning":"呐／喂","posZh":"感叹词"},
+        {"token":"あと","reading":"あと","romaji":"ato","zhMeaning":"还、剩下","posZh":"副词"},
+        {"token":"いくつ","reading":"いくつ","romaji":"ikutsu","zhMeaning":"多少个","posZh":"疑问代词"},
+        {"token":"僕ら","reading":"ぼくら","romaji":"bokura","zhMeaning":"我们","posZh":"名词"},
+        {"token":"に","reading":"に","romaji":"ni","functionZh":"表示存在／拥有的主体：对……而言","posZh":"格助词"}
+      ],
+      "confidence": 0.94,
+      "evidence": ["与 l025 的 心臓があったなら 构成跨行条件句"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l025",
+      "oldCaption": {"japanese":"心臓がさ あったなら","romaji":"shi n zo u ga sa a 't ta na ra","translationZh":"多拥有几颗心脏"},
+      "newTranslationZh": "心脏才够呢？",
+      "suggestedCards": [
+        {"token":"心臓","reading":"しんぞう","romaji":"shinzou","zhMeaning":"心脏","posZh":"名词"},
+        {"token":"が","reading":"が","romaji":"ga","functionZh":"标记主语／存在物","posZh":"格助词"},
+        {"token":"さ","reading":"さ","romaji":"sa","functionZh":"加强随意、感叹的语气","posZh":"终助词"},
+        {"token":"あった","reading":"あった","romaji":"atta","zhMeaning":"有、存在（过去式）","posZh":"动词"},
+        {"token":"なら","reading":"なら","romaji":"nara","functionZh":"假定条件：如果……的话","posZh":"接续助词"}
+      ],
+      "confidence": 0.96,
+      "evidence": ["ある 的过去形 あった＋条件表达 なら"],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l026",
+      "oldCaption": {"japanese":"この世界を きみと","romaji":"ko no se ka i wo ki mi to","translationZh":"我是不是就能"},
+      "newTranslationZh": "就能和你一起把这个世界……",
+      "suggestedCards": [
+        {"token":"この","reading":"この","romaji":"kono","zhMeaning":"这个","posZh":"连体词"},
+        {"token":"世界","reading":"せかい","romaji":"sekai","zhMeaning":"世界","posZh":"名词"},
+        {"token":"を","reading":"を","romaji":"o","functionZh":"标记动作对象","posZh":"格助词"},
+        {"token":"きみ","reading":"きみ","romaji":"kimi","zhMeaning":"你","posZh":"代词"},
+        {"token":"と","reading":"と","romaji":"to","functionZh":"表示共同者：和……一起","posZh":"格助词"}
+      ],
+      "confidence": 0.96,
+      "evidence": ["与 l027–l028 构成 宾语＋共同者＋生きていく 的跨行句"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l027",
+      "oldCaption": {"japanese":"飽きるまで","romaji":"a ki ru ma de","translationZh":"与你一起"},
+      "newTranslationZh": "活到厌倦为止，",
+      "suggestedCards": [
+        {"token":"飽きる","reading":"あきる","romaji":"akiru","zhMeaning":"厌倦、厌烦","posZh":"动词"},
+        {"token":"まで","reading":"まで","romaji":"made","functionZh":"表示终点：直到……为止","posZh":"副助词"}
+      ],
+      "confidence": 0.98,
+      "evidence": ["まで 表示时间／程度的终点"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l028",
+      "oldCaption": {"japanese":"生きていけたんだろうか","romaji":"i ki te i ke ta n da ro u ka","translationZh":"在世上生活到厌倦为止"},
+      "newTranslationZh": "能做到吗？",
+      "suggestedCards": [
+        {"token":"生きていけ","reading":"いきていけ","romaji":"ikite ike","zhMeaning":"能活下去、能生活下去","posZh":"动词"},
+        {"token":"た","reading":"た","romaji":"ta","zhMeaning":"过去／完成","posZh":"助动词"},
+        {"token":"んだろうか","reading":"んだろうか","romaji":"n darou ka","functionZh":"带说明语气的自问、推测：会不会……呢","posZh":"表达"}
+      ],
+      "confidence": 0.91,
+      "evidence": ["～ていく 表示持续发展；んだろうか 为说明性疑问表达"],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l029",
+      "oldCaption": {"japanese":"ねえ あといくつ僕らは","romaji":"ne e a to i ku tsu bo ku ra ha","translationZh":"呐 究竟我们之后"},
+      "newTranslationZh": "呐，我们还要跨越多少……",
+      "suggestedCards": [
+        {"token":"ねえ","reading":"ねえ","romaji":"nee","zhMeaning":"呐／喂","posZh":"感叹词"},
+        {"token":"あと","reading":"あと","romaji":"ato","zhMeaning":"还、剩下","posZh":"副词"},
+        {"token":"いくつ","reading":"いくつ","romaji":"ikutsu","zhMeaning":"多少个","posZh":"疑问代词"},
+        {"token":"僕ら","reading":"ぼくら","romaji":"bokura","zhMeaning":"我们","posZh":"名词"},
+        {"token":"は","reading":"は","romaji":"wa","functionZh":"提示主题","posZh":"提示助词"}
+      ],
+      "confidence": 0.98,
+      "evidence": ["与 l030 的 絶望をさ乗り越えれば 构成跨行条件句"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l030",
+      "oldCaption": {"japanese":"絶望をさ 乗り越えれば","romaji":"ze tsu bo u wo sa no ri ko e re ba","translationZh":"还要跨越多少绝望"},
+      "newTranslationZh": "绝望，才够呢？",
+      "suggestedCards": [
+        {"token":"絶望","reading":"ぜつぼう","romaji":"zetsubou","zhMeaning":"绝望","posZh":"名词"},
+        {"token":"を","reading":"を","romaji":"o","functionZh":"标记动作对象","posZh":"格助词"},
+        {"token":"さ","reading":"さ","romaji":"sa","functionZh":"加强随意、感叹的语气","posZh":"终助词"},
+        {"token":"乗り越え","reading":"のりこえ","romaji":"norikoe","zhMeaning":"跨越、克服","posZh":"动词"},
+        {"token":"ば","reading":"ば","romaji":"ba","functionZh":"假定条件：如果……","posZh":"接续助词"}
+      ],
+      "confidence": 0.97,
+      "evidence": ["goo 国语辞书：乗り越える可指克服困难；ば 为假定形接续"],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l031",
+      "oldCaption": {"japanese":"この世界で きみと","romaji":"ko no se ka i de ki mi to","translationZh":"才能在这世上"},
+      "newTranslationZh": "才能和你一起在这个世界……",
+      "suggestedCards": [
+        {"token":"この","reading":"この","romaji":"kono","zhMeaning":"这个","posZh":"连体词"},
+        {"token":"世界","reading":"せかい","romaji":"sekai","zhMeaning":"世界","posZh":"名词"},
+        {"token":"で","reading":"で","romaji":"de","functionZh":"表示动作／状态发生的场所","posZh":"格助词"},
+        {"token":"きみ","reading":"きみ","romaji":"kimi","zhMeaning":"你","posZh":"代词"},
+        {"token":"と","reading":"と","romaji":"to","functionZh":"表示共同者：和……一起","posZh":"格助词"}
+      ],
+      "confidence": 0.97,
+      "evidence": ["で 标记状态发生场所；与 l032–l033 构成跨行句"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l032",
+      "oldCaption": {"japanese":"ハッピーエンドで","romaji":"ha 'p pi i e n do de","translationZh":"与你一起迎来"},
+      "newTranslationZh": "以幸福结局……",
+      "suggestedCards": [
+        {"token":"ハッピーエンド","reading":"","romaji":"","sourceWord":"happy ending","zhMeaning":"幸福结局","posZh":"名词"},
+        {"token":"で","reading":"で","romaji":"de","functionZh":"表示结果／状态：以……结束","posZh":"格助词"}
+      ],
+      "confidence": 0.98,
+      "evidence": ["英语 happy ending 的片假外来语写法"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l033",
+      "oldCaption": {"japanese":"終われたんだよ なあ","romaji":"o wa re ta n da yo na a","translationZh":"那个幸福结局呢 呐"},
+      "newTranslationZh": "迎来结局了吧，呐。",
+      "suggestedCards": [
+        {"token":"終われ","reading":"おわれ","romaji":"oware","zhMeaning":"能结束、能迎来结局","posZh":"动词"},
+        {"token":"たんだ","reading":"たんだ","romaji":"tan da","functionZh":"表示完成并带说明、强调语气","posZh":"表达"},
+        {"token":"よ","reading":"よ","romaji":"yo","functionZh":"告知、强调","posZh":"终助词"},
+        {"token":"なあ","reading":"なあ","romaji":"naa","functionZh":"感叹并呼唤认同","posZh":"终助词"}
+      ],
+      "confidence": 0.9,
+      "evidence": ["終わる 的可能形 終われる；た＋のだ 在口语中缩约为 たんだ"],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l034",
+      "oldCaption": {"japanese":"きみにあげるはずのこれから先","romaji":"ki mi ni a ge ru ha zu no ko re ka ra sa ki","translationZh":"那些原本该在未来的几十年里"},
+      "newTranslationZh": "本该给你的、从今往后的……",
+      "suggestedCards": [
+        {"token":"きみ","reading":"きみ","romaji":"kimi","zhMeaning":"你","posZh":"代词"},
+        {"token":"に","reading":"に","romaji":"ni","functionZh":"表示授受对象：给……","posZh":"格助词"},
+        {"token":"あげる","reading":"あげる","romaji":"ageru","zhMeaning":"给（对方）","posZh":"动词"},
+        {"token":"はず","reading":"はず","romaji":"hazu","zhMeaning":"理应、原本该","posZh":"名词性形式"},
+        {"token":"の","reading":"の","romaji":"no","functionZh":"连接修饰成分","posZh":"格助词"},
+        {"token":"これから先","reading":"これからさき","romaji":"kore kara saki","zhMeaning":"从今往后","posZh":"时间名词"}
+      ],
+      "confidence": 0.94,
+      "evidence": ["～はずの 表示本应如此；これから先 为固定时间短语"],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l035",
+      "oldCaption": {"japanese":"何十年分の","romaji":"na n ju u ne n bu n no","translationZh":"对你说的"},
+      "newTranslationZh": "几十年份的……",
+      "suggestedCards": [
+        {"token":"何十年分","reading":"なんじゅうねんぶん","romaji":"nanjuu nen bun","zhMeaning":"几十年份的量","posZh":"名词"},
+        {"token":"の","reading":"の","romaji":"no","functionZh":"连接修饰成分","posZh":"格助词"}
+      ],
+      "confidence": 0.98,
+      "evidence": ["数量词＋分 表示相当于该数量的份额／量"],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l036",
+      "oldCaption": {"japanese":"「おかえり」「いってきます」「おはよう」","romaji":"「 o ka e ri 」「 i 't te ki ma su 」「 o ha yo u 」","translationZh":"“欢迎回来”“我出门了”“早安”"},
+      "newTranslationZh": "“欢迎回来”“我出门了”“早安”",
+      "suggestedCards": [
+        {"token":"おかえり","reading":"おかえり","romaji":"okaeri","zhMeaning":"欢迎回来","posZh":"惯用问候语"},
+        {"token":"いってきます","reading":"いってきます","romaji":"ittekimasu","zhMeaning":"我出门了（我走啦）","posZh":"惯用问候语"},
+        {"token":"おはよう","reading":"おはよう","romaji":"ohayou","zhMeaning":"早安","posZh":"惯用问候语"}
+      ],
+      "confidence": 0.99,
+      "evidence": ["日语固定日常问候语"],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l037",
+      "oldCaption": {"japanese":"「おやすみ」「ありがとう」「ごめんね」","romaji":"「 o ya su mi 」「 a ri ga to u 」「 go me n ne 」","translationZh":"“晚安”“谢谢你”“对不起”"},
+      "newTranslationZh": "“晚安”“谢谢你”“对不起呀”",
+      "suggestedCards": [
+        {"token":"おやすみ","reading":"おやすみ","romaji":"oyasumi","zhMeaning":"晚安","posZh":"惯用问候语"},
+        {"token":"ありがとう","reading":"ありがとう","romaji":"arigatou","zhMeaning":"谢谢","posZh":"惯用问候语"},
+        {"token":"ごめんね","reading":"ごめんね","romaji":"gomen ne","zhMeaning":"对不起呀","posZh":"惯用表达"}
+      ],
+      "confidence": 0.99,
+      "evidence": ["日语固定日常问候／致歉语"],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l038",
+      "oldCaption": {"japanese":"「大好きだよ」 たちは","romaji":"「 da i su ki da yo 」 ta chi ha","translationZh":"“我好喜欢你” 这些话"},
+      "newTranslationZh": "“我最喜欢你了”这些话，",
+      "suggestedCards": [
+        {"token":"大好き","reading":"だいすき","romaji":"daisuki","zhMeaning":"最喜欢、喜欢得不得了","posZh":"形容动词"},
+        {"token":"だ","reading":"だ","romaji":"da","zhMeaning":"是（断定）","posZh":"助动词"},
+        {"token":"よ","reading":"よ","romaji":"yo","functionZh":"告知、强调","posZh":"终助词"},
+        {"token":"たち","reading":"たち","romaji":"tachi","zhMeaning":"们；这些（复数化）","posZh":"接尾词"},
+        {"token":"は","reading":"は","romaji":"wa","functionZh":"提示主题","posZh":"提示助词"}
+      ],
+      "confidence": 0.96,
+      "evidence": ["たち 附在引用表达后，使其指代为一组话语"],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l039",
+      "oldCaption": {"japanese":"誰に使えばいいの ねえ","romaji":"da re ni tsu ka e ba i i no ne e","translationZh":"我又该对谁说呢 呐"},
+      "newTranslationZh": "我又该对谁说才好呢，呐。",
+      "suggestedCards": [
+        {"token":"誰","reading":"だれ","romaji":"dare","zhMeaning":"谁","posZh":"疑问代词"},
+        {"token":"に","reading":"に","romaji":"ni","functionZh":"表示动作指向的对象：对／向……","posZh":"格助词"},
+        {"token":"使え","reading":"つかえ","romaji":"tsukae","zhMeaning":"使用、说（这些话）","posZh":"动词"},
+        {"token":"ば","reading":"ば","romaji":"ba","functionZh":"假定条件：如果……","posZh":"接续助词"},
+        {"token":"いい","reading":"いい","romaji":"ii","zhMeaning":"好、合适","posZh":"形容词"},
+        {"token":"の","reading":"の","romaji":"no","functionZh":"使疑问语气柔化，并寻求答案","posZh":"终助词"},
+        {"token":"ねえ","reading":"ねえ","romaji":"nee","zhMeaning":"呐／喂","posZh":"感叹词"}
+      ],
+      "confidence": 0.95,
+      "evidence": ["～ばいいの 为询问应当如何做的表达"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l040",
+      "oldCaption": {"japanese":"明日 きみがいないのなら","romaji":"a shi ta ki mi ga i na i no na ra","translationZh":"明天 若是身边不再有你"},
+      "newTranslationZh": "明天，若你已不在，",
+      "suggestedCards": [
+        {"token":"明日","reading":"あした","romaji":"ashita","zhMeaning":"明天","posZh":"名词"},
+        {"token":"きみ","reading":"きみ","romaji":"kimi","zhMeaning":"你","posZh":"代词"},
+        {"token":"が","reading":"が","romaji":"ga","functionZh":"标记主语","posZh":"格助词"},
+        {"token":"いない","reading":"いない","romaji":"inai","zhMeaning":"不在、没有","posZh":"动词"},
+        {"token":"のなら","reading":"のなら","romaji":"no nara","functionZh":"提出前提条件：若是……的话","posZh":"表达"}
+      ],
+      "confidence": 0.97,
+      "evidence": ["いる 的否定形 いない；のなら 用于基于某前提提出后项"],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l041",
+      "oldCaption": {"japanese":"きみがくれた「大丈夫」も","romaji":"ki mi ga ku re ta 「 da i jo u bu 」 mo","translationZh":"你曾经对我说的“没关系”"},
+      "newTranslationZh": "你给我的那句“没关系”也……",
+      "suggestedCards": [
+        {"token":"きみ","reading":"きみ","romaji":"kimi","zhMeaning":"你","posZh":"代词"},
+        {"token":"が","reading":"が","romaji":"ga","functionZh":"标记主语","posZh":"格助词"},
+        {"token":"くれた","reading":"くれた","romaji":"kureta","zhMeaning":"给了我","posZh":"动词"},
+        {"token":"大丈夫","reading":"だいじょうぶ","romaji":"daijoubu","zhMeaning":"没关系、不要紧","posZh":"形容动词"},
+        {"token":"も","reading":"も","romaji":"mo","functionZh":"添加同类项：也……","posZh":"副助词"}
+      ],
+      "confidence": 0.98,
+      "evidence": ["くれる 为向说话人一方给予；も 表示追加"],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l042",
+      "oldCaption": {"japanese":"きみがくれた生きる意味も","romaji":"ki mi ga ku re ta i ki ru i mi mo","translationZh":"还有你赋予我的生存意义"},
+      "newTranslationZh": "还有你给我的活着的意义，也……",
+      "suggestedCards": [
+        {"token":"きみ","reading":"きみ","romaji":"kimi","zhMeaning":"你","posZh":"代词"},
+        {"token":"が","reading":"が","romaji":"ga","functionZh":"标记主语","posZh":"格助词"},
+        {"token":"くれた","reading":"くれた","romaji":"kureta","zhMeaning":"给了我","posZh":"动词"},
+        {"token":"生きる","reading":"いきる","romaji":"ikiru","zhMeaning":"活着、生活","posZh":"动词"},
+        {"token":"意味","reading":"いみ","romaji":"imi","zhMeaning":"意义","posZh":"名词"},
+        {"token":"も","reading":"も","romaji":"mo","functionZh":"添加同类项：也……","posZh":"副助词"}
+      ],
+      "confidence": 0.98,
+      "evidence": ["生きる 修饰 意味；くれる 为向说话人一方给予"],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l043",
+      "oldCaption": {"japanese":"誰に貰ったらいいんだよ","romaji":"da re ni mo ra 't ta ra i i n da yo","translationZh":"我究竟又该向谁索取呢"},
+      "newTranslationZh": "我又该向谁得到才好呢？",
+      "suggestedCards": [
+        {"token":"誰","reading":"だれ","romaji":"dare","zhMeaning":"谁","posZh":"疑问代词"},
+        {"token":"に","reading":"に","romaji":"ni","functionZh":"表示获得来源：从……那里","posZh":"格助词"},
+        {"token":"貰ったら","reading":"もらったら","romaji":"morattara","zhMeaning":"若得到、若收下","posZh":"动词"},
+        {"token":"いい","reading":"いい","romaji":"ii","zhMeaning":"好、合适","posZh":"形容词"},
+        {"token":"んだ","reading":"んだ","romaji":"n da","functionZh":"带说明、强调的语气","posZh":"表达"},
+        {"token":"よ","reading":"よ","romaji":"yo","functionZh":"加强告知、感叹语气","posZh":"终助词"}
+      ],
+      "confidence": 0.95,
+      "evidence": ["～たらいい 表示‘怎样做才好’；もらう 表示接受／获得"],
+      "changesTokenStructure": true
+    },
+    {
+      "frameId": "l044",
+      "oldCaption": {"japanese":"会いたい きみに会いたい","romaji":"a i ta i ki mi ni a i ta i","translationZh":"好想见你 我真的好想见你"},
+      "newTranslationZh": "想见你，我好想见你。",
+      "suggestedCards": [
+        {"token":"会い","reading":"あい","romaji":"ai","zhMeaning":"见面","posZh":"动词"},
+        {"token":"たい","reading":"たい","romaji":"tai","zhMeaning":"想要……","posZh":"助动词"},
+        {"token":"きみ","reading":"きみ","romaji":"kimi","zhMeaning":"你","posZh":"代词"},
+        {"token":"に","reading":"に","romaji":"ni","functionZh":"表示动作对象：见……","posZh":"格助词"},
+        {"token":"会い","reading":"あい","romaji":"ai","zhMeaning":"见面","posZh":"动词"},
+        {"token":"たい","reading":"たい","romaji":"tai","zhMeaning":"想要……","posZh":"助动词"}
+      ],
+      "confidence": 0.99,
+      "evidence": ["动词连用形＋たい 表示愿望"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l045",
+      "oldCaption": {"japanese":"ねえ どうして神様はさ","romaji":"ne e do u shi te ka mi sa ma ha sa","translationZh":"呐 为什么神明大人"},
+      "newTranslationZh": "呐，为什么神明大人……",
+      "suggestedCards": [
+        {"token":"ねえ","reading":"ねえ","romaji":"nee","zhMeaning":"呐／喂","posZh":"感叹词"},
+        {"token":"どうして","reading":"どうして","romaji":"doushite","zhMeaning":"为什么","posZh":"副词"},
+        {"token":"神様","reading":"かみさま","romaji":"kamisama","zhMeaning":"神明大人","posZh":"名词"},
+        {"token":"は","reading":"は","romaji":"wa","functionZh":"提示主题","posZh":"提示助词"},
+        {"token":"さ","reading":"さ","romaji":"sa","functionZh":"加强随意、感叹的语气","posZh":"终助词"}
+      ],
+      "confidence": 0.98,
+      "evidence": ["どうして 为原因疑问副词；句末 さ 用于加强口语语气"],
+      "changesTokenStructure": false
+    }
+  ]
+}

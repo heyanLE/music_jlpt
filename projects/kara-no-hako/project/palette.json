@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "algorithm": "saturated-cover-pixel-hsv-v1",
+  "cover": "C:\\project\\musicjlpt\\projects\\kara-no-hako\\source\\cover.jpg",
+  "accent": "#F0E060",
+  "activeTint": "#FFEB47",
+  "body": "#867D36",
+  "cardFill": {
+    "color": "#F0E060",
+    "alpha": 0.75
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "runId": "20260816-r07-intro-fade-spectrum-continuous",
+  "result": "passed",
+  "output": "deliverables/final/brand-new-days-reload--intro-fade-spectrum-continuous--glass-stems--20260816-r07.mp4",
+  "video": {
+    "codec": "h264",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "cfr": true,
+    "durationSeconds": 352.6
+  },
+  "audio": {
+    "codec": "aac",
+    "sampleRate": 44100,
+    "channels": 2
+  },
+  "checks": {
+    "introSourceRangeSeconds": [245, 268],
+    "introSourceAudioMuted": true,
+    "songAudioContinuous": true,
+    "spectrumContinuousAndUnfaded": true,
+    "introForegroundHidden": true,
+    "introVisualFadeOutSeconds": [22, 23],
+    "contentVisualFadeInSeconds": [23, 24],
+    "contentResumesAtSongSeconds": 23,
+    "loopBackgroundRemoved": true
+  },
+  "screenshots": [
+    "project/qa/intro-fade-spectrum-continuous-r07/fade-out-spectrum-22-95.png",
+    "project/qa/intro-fade-spectrum-continuous-r07/fade-in-spectrum-23-5.png",
+    "project/qa/intro-fade-spectrum-continuous-r07/content-24-5.png"
+  ]
+}

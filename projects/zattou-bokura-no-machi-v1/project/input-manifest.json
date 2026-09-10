@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 4,
+  "slug": "zattou-bokura-no-machi-v1",
+  "runId": "inputs-v1",
+  "stage": "inputs_pending",
+  "music": {
+    "asset": "source/music.mka",
+    "origin": "derived-audio-stream-copy-from-video",
+    "preserveCodec": true,
+    "clock": "music"
+  },
+  "cover": {
+    "asset": "source/cover.jpg"
+  },
+  "lyrics": {
+    "format": "qq-music",
+    "qm": "source/lyrics_qm.qrc",
+    "qmRoma": "source/lyrics_qmRoma.qrc",
+    "qmts": "source/lyrics_qmts.qrc"
+  },
+  "backgroundAsset": "source/background.mp4",
+  "alignment": {
+    "method": "none",
+    "offsetMs": 0,
+    "appliesTo": [
+      "music",
+      "lyrics",
+      "spectrum"
+    ]
+  },
+  "outputs": [
+    {
+      "name": "16x9",
+      "width": 1920,
+      "height": 1080,
+      "fps": 30
+    }
+  ]
+}

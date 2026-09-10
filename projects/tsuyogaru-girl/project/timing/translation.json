@@ -1,0 +1,363 @@
+{
+  "schemaVersion": 1,
+  "source": "lyrics.qmts.qrc",
+  "lyricType": "regular",
+  "parser": "manual-lrc-timestamp-regex",
+  "lines": [
+    {
+      "id": "translation-001",
+      "startMs": 500,
+      "text": "败犬 败犬 败犬 败犬"
+    },
+    {
+      "id": "translation-002",
+      "startMs": 6370,
+      "text": "败犬 犬 犬 犬 犬"
+    },
+    {
+      "id": "translation-003",
+      "startMs": 7690,
+      "text": "固执逞强的女孩"
+    },
+    {
+      "id": "translation-004",
+      "startMs": 16440,
+      "text": "从路人的视角去看这段时光"
+    },
+    {
+      "id": "translation-005",
+      "startMs": 17940,
+      "text": "实在太过喧嚣 如同青春大战"
+    },
+    {
+      "id": "translation-006",
+      "startMs": 20580,
+      "text": "缘分还不来 这也无可厚非"
+    },
+    {
+      "id": "translation-007",
+      "startMs": 22550,
+      "text": "毕竟我并非故事的主角"
+    },
+    {
+      "id": "translation-008",
+      "startMs": 24330,
+      "text": "生来就有做公主的潜质"
+    },
+    {
+      "id": "translation-009",
+      "startMs": 26140,
+      "text": "今天也在到处上演着失败群像剧"
+    },
+    {
+      "id": "translation-010",
+      "startMs": 28410,
+      "text": "心中忐忑不安 感到隐隐作痛"
+    },
+    {
+      "id": "translation-011",
+      "startMs": 30430,
+      "text": "无法如愿的恋爱啊"
+    },
+    {
+      "id": "translation-012",
+      "startMs": 32100,
+      "text": "(旋转不停咕噜咕噜"
+    },
+    {
+      "id": "translation-013",
+      "startMs": 33070,
+      "text": "旋转不停咕噜咕噜)"
+    },
+    {
+      "id": "translation-014",
+      "startMs": 34110,
+      "text": "脑海之中意义不明"
+    },
+    {
+      "id": "translation-015",
+      "startMs": 36140,
+      "text": "(旋转不停咕噜咕噜"
+    },
+    {
+      "id": "translation-016",
+      "startMs": 37140,
+      "text": "旋转不停咕噜咕噜)"
+    },
+    {
+      "id": "translation-017",
+      "startMs": 38170,
+      "text": "莫名地想要奔跑起来"
+    },
+    {
+      "id": "translation-018",
+      "startMs": 39980,
+      "text": "在泪水夺眶而出前"
+    },
+    {
+      "id": "translation-019",
+      "startMs": 43610,
+      "text": "咬紧牙关品味心中的这种感受"
+    },
+    {
+      "id": "translation-020",
+      "startMs": 45910,
+      "text": "保持和平的心态"
+    },
+    {
+      "id": "translation-021",
+      "startMs": 47350,
+      "text": "没错 一次又一次地历经失败吧"
+    },
+    {
+      "id": "translation-022",
+      "startMs": 51320,
+      "text": "每次落泪都会使我变强"
+    },
+    {
+      "id": "translation-023",
+      "startMs": 55090,
+      "text": "未来某天 一定会在有朝一日"
+    },
+    {
+      "id": "translation-024",
+      "startMs": 57700,
+      "text": "迎来幸福的结局"
+    },
+    {
+      "id": "translation-025",
+      "startMs": 59090,
+      "text": "运转吧 独一无二的命运"
+    },
+    {
+      "id": "translation-026",
+      "startMs": 63590,
+      "text": "固执逞强的女孩才最强"
+    },
+    {
+      "id": "translation-027",
+      "startMs": 65320,
+      "text": "喧嚣胡闹 绽放自我光彩"
+    },
+    {
+      "id": "translation-028",
+      "startMs": 67440,
+      "text": "泪光闪闪 破涕为笑"
+    },
+    {
+      "id": "translation-029",
+      "startMs": 69170,
+      "text": "释放出夺目的光芒"
+    },
+    {
+      "id": "translation-030",
+      "startMs": 71370,
+      "text": "固执逞强的女孩才最强"
+    },
+    {
+      "id": "translation-031",
+      "startMs": 73280,
+      "text": "虽然每天都会历经惨败"
+    },
+    {
+      "id": "translation-032",
+      "startMs": 75340,
+      "text": "但是这并不是衍生作品"
+    },
+    {
+      "id": "translation-033",
+      "startMs": 77060,
+      "text": "我们才是人生的主角"
+    },
+    {
+      "id": "translation-034",
+      "startMs": 79350,
+      "text": "跨越多年的那份伤感心绪"
+    },
+    {
+      "id": "translation-035",
+      "startMs": 80950,
+      "text": "仍得不到回报 季节就已流转"
+    },
+    {
+      "id": "translation-036",
+      "startMs": 83530,
+      "text": "机遇还不曾到来 常常被忽视"
+    },
+    {
+      "id": "translation-037",
+      "startMs": 85550,
+      "text": "因为我并非天才"
+    },
+    {
+      "id": "translation-038",
+      "startMs": 87280,
+      "text": "那就让我们各自使出浑身解数"
+    },
+    {
+      "id": "translation-039",
+      "startMs": 88860,
+      "text": "不停发起攻势 命中率只有3%"
+    },
+    {
+      "id": "translation-040",
+      "startMs": 91370,
+      "text": "这样下去没完没了 就像捉迷藏"
+    },
+    {
+      "id": "translation-041",
+      "startMs": 93220,
+      "text": "道路仍旧漫长无尽"
+    },
+    {
+      "id": "translation-042",
+      "startMs": 95070,
+      "text": "(旋转不停咕噜咕噜"
+    },
+    {
+      "id": "translation-043",
+      "startMs": 96060,
+      "text": "旋转不停咕噜咕噜)"
+    },
+    {
+      "id": "translation-044",
+      "startMs": 97120,
+      "text": "作战失败一切仍未完待续"
+    },
+    {
+      "id": "translation-045",
+      "startMs": 99020,
+      "text": "(旋转不停咕噜咕噜"
+    },
+    {
+      "id": "translation-046",
+      "startMs": 100020,
+      "text": "旋转不停咕噜咕噜)"
+    },
+    {
+      "id": "translation-047",
+      "startMs": 100950,
+      "text": "回归自我 实在空虚"
+    },
+    {
+      "id": "translation-048",
+      "startMs": 103030,
+      "text": "将难以言弃的信念深藏于心间吧"
+    },
+    {
+      "id": "translation-049",
+      "startMs": 108160,
+      "text": "所以我每天每天都在奔跑向前"
+    },
+    {
+      "id": "translation-050",
+      "startMs": 112330,
+      "text": "去寻找滑落而下的流星"
+    },
+    {
+      "id": "translation-051",
+      "startMs": 116090,
+      "text": "那些渺小得根本不值一提的奇迹"
+    },
+    {
+      "id": "translation-052",
+      "startMs": 120110,
+      "text": "我将会永远坚信不疑"
+    },
+    {
+      "id": "translation-053",
+      "startMs": 131020,
+      "text": "虽然终究会长大成人"
+    },
+    {
+      "id": "translation-054",
+      "startMs": 135110,
+      "text": "却不会将其当成一场笑谈"
+    },
+    {
+      "id": "translation-055",
+      "startMs": 139120,
+      "text": "不留丝毫地品味悔恨不甘吧"
+    },
+    {
+      "id": "translation-056",
+      "startMs": 142840,
+      "text": "心无旁骛奔跑向前"
+    },
+    {
+      "id": "translation-057",
+      "startMs": 146380,
+      "text": "任由泪水一次又一次滑落"
+    },
+    {
+      "id": "translation-058",
+      "startMs": 149710,
+      "text": "简直就像故事里的主角"
+    },
+    {
+      "id": "translation-059",
+      "startMs": 153520,
+      "text": "未来某天 一定会在有朝一日"
+    },
+    {
+      "id": "translation-060",
+      "startMs": 156080,
+      "text": "成为那个女主角 我在心中如此起誓"
+    },
+    {
+      "id": "translation-061",
+      "startMs": 161860,
+      "text": "固执逞强的女孩才最强"
+    },
+    {
+      "id": "translation-062",
+      "startMs": 163630,
+      "text": "贯彻这份坚定的心意"
+    },
+    {
+      "id": "translation-063",
+      "startMs": 165840,
+      "text": "就此别过 某天一定还能再会"
+    },
+    {
+      "id": "translation-064",
+      "startMs": 167640,
+      "text": "任悔恨的泪水落下"
+    },
+    {
+      "id": "translation-065",
+      "startMs": 169700,
+      "text": "固执逞强的女孩才最强"
+    },
+    {
+      "id": "translation-066",
+      "startMs": 171520,
+      "text": "尽情感受这片晴朗天际"
+    },
+    {
+      "id": "translation-067",
+      "startMs": 173630,
+      "text": "等待着我们的将会是真正的结局"
+    },
+    {
+      "id": "translation-068",
+      "startMs": 175460,
+      "text": "每天都是人生主角"
+    },
+    {
+      "id": "translation-069",
+      "startMs": 177490,
+      "text": "败犬 败犬 败犬 败犬"
+    },
+    {
+      "id": "translation-070",
+      "startMs": 183380,
+      "text": "败犬 犬 犬 犬 犬"
+    },
+    {
+      "id": "translation-071",
+      "startMs": 184900,
+      "text": "固执逞强的女孩"
+    }
+  ]
+}

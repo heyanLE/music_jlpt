@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "decoder": "smart-lyric 1.0.1 bundled at C:/project/musicjlpt/tmp-qrc/node_modules/smart-lyric",
+  "sourceHashes": {
+    "lyrics_qm.qrc": "60cdce75c83362f35594c53b0b480fe1c932740c72070346d92abb1e680d8ddc",
+    "lyrics_qmRoma.qrc": "64cbae364e0b16af6e597cbf29feb2487a1d74ac263b8e20f73f146e21bb68ae",
+    "lyrics_qmts.qrc": "7601070245aaac39dc0f0f3bd6a5051a6361d246db251ea4d66efad2d135ffe3"
+  },
+  "outputs": {
+    "qm": {
+      "count": 100,
+      "minMs": 0,
+      "maxMs": 191626
+    },
+    "roma": {
+      "count": 96,
+      "minMs": 1124,
+      "maxMs": 191626
+    },
+    "translation": {
+      "count": 63,
+      "minMs": 61340,
+      "maxMs": 187480
+    }
+  },
+  "validation": {
+    "utf8": true,
+    "wordTimingAvailable": true,
+    "status": "passed"
+  }
+}

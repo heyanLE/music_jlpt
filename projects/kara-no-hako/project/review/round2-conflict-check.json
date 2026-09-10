@@ -1,0 +1,985 @@
+{
+  "conflicts": [],
+  "appliedProposals": 38,
+  "excluded": [
+    {
+      "id": "lexical:7",
+      "role": "lexical",
+      "frameId": "l009",
+      "field": "grammarCards.2.romaji",
+      "old": "yokuittamonode",
+      "new": "yoku itta mono de",
+      "confidence": 0.96,
+      "evidence": [
+        "惯用评论「よく言ったもの（だ）」保持一张卡；不拆为字典字面「经常说」，仅将语法块读清，itta的促音tt保持完整。",
+        "局部可读性建议：已重新审核词义和是否固定搭配，并决定保留边界。不是按第一轮批量套空格；其余短活用形式原样保留。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "よく言ったもので",
+      "category": "limited-readability-with-boundary-retained",
+      "adoptionPriority": "optional",
+      "originalField": "grammarCards.2.romaji",
+      "resolution": "可选空格风格建议，读音无错误；本轮不纳入默认内容修正。"
+    },
+    {
+      "id": "lexical:8",
+      "role": "lexical",
+      "frameId": "l009",
+      "field": "caption.romaji",
+      "old": "kyoukashodoori to wa yokuittamonode",
+      "new": "kyoukashodoori to wa yoku itta mono de",
+      "confidence": 0.99,
+      "evidence": [
+        "只与该行词卡的局部romaji分块同步，不影响caption.japanese、ruby、QRC时码或高亮边界。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "教科書通りとはよく言ったもので",
+      "category": "limited-readability-sync",
+      "adoptionPriority": "optional",
+      "dependsOn": "l009:grammarCards.2.romaji",
+      "originalField": "caption.romaji",
+      "resolution": "对应可选词卡罗马音被排除，句级同步也不改。"
+    },
+    {
+      "id": "lexical:9",
+      "role": "lexical",
+      "frameId": "l023",
+      "field": "grammarCards.0.romaji",
+      "old": "atashideatte",
+      "new": "atashi de atte",
+      "confidence": 0.96,
+      "evidence": [
+        "保留「あたしであって」的同一性断定中顿，不改成让步；它与参照的名词/代词＋助动表达一样可作为完整卡，只使代词与であって可读。",
+        "局部可读性建议：已重新审核词义和是否固定搭配，并决定保留边界。不是按第一轮批量套空格；其余短活用形式原样保留。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "あたしであって",
+      "category": "limited-readability-with-boundary-retained",
+      "adoptionPriority": "optional",
+      "originalField": "grammarCards.0.romaji",
+      "resolution": "可选空格风格建议，读音无错误；本轮不纳入默认内容修正。"
+    },
+    {
+      "id": "lexical:10",
+      "role": "lexical",
+      "frameId": "l023",
+      "field": "caption.romaji",
+      "old": "atashideatte soredake darou",
+      "new": "atashi de atte soredake darou",
+      "confidence": 0.99,
+      "evidence": [
+        "只与该行词卡的局部romaji分块同步，不影响caption.japanese、ruby、QRC时码或高亮边界。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "あたしであってそれだけだろう",
+      "category": "limited-readability-sync",
+      "adoptionPriority": "optional",
+      "dependsOn": "l023:grammarCards.0.romaji",
+      "originalField": "caption.romaji",
+      "resolution": "对应可选词卡罗马音被排除，句级同步也不改。"
+    },
+    {
+      "id": "lexical:11",
+      "role": "lexical",
+      "frameId": "l026",
+      "field": "grammarCards.0.romaji",
+      "old": "tohounikureteimasu",
+      "new": "tohou ni kurete imasu",
+      "confidence": 0.96,
+      "evidence": [
+        "S07将途方に暮れる作为完整惯用语收录，不能逐词硬译途方/暮れる。保留全卡，同时显出词组和ている礼貌活用；不切断kurete。",
+        "局部可读性建议：已重新审核词义和是否固定搭配，并决定保留边界。不是按第一轮批量套空格；其余短活用形式原样保留。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "途方に暮れています",
+      "category": "limited-readability-with-boundary-retained",
+      "adoptionPriority": "optional",
+      "originalField": "grammarCards.0.romaji",
+      "resolution": "可选空格风格建议，读音无错误；本轮不纳入默认内容修正。"
+    },
+    {
+      "id": "lexical:12",
+      "role": "lexical",
+      "frameId": "l026",
+      "field": "caption.romaji",
+      "old": "tohounikureteimasu ga",
+      "new": "tohou ni kurete imasu ga",
+      "confidence": 0.99,
+      "evidence": [
+        "只与该行词卡的局部romaji分块同步，不影响caption.japanese、ruby、QRC时码或高亮边界。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "途方に暮れていますが",
+      "category": "limited-readability-sync",
+      "adoptionPriority": "optional",
+      "dependsOn": "l026:grammarCards.0.romaji",
+      "originalField": "caption.romaji",
+      "resolution": "对应可选词卡罗马音被排除，句级同步也不改。"
+    },
+    {
+      "id": "lexical:13",
+      "role": "lexical",
+      "frameId": "l043",
+      "field": "grammarCards.0.romaji",
+      "old": "atashiigaija",
+      "new": "atashi igai ja",
+      "confidence": 0.96,
+      "evidence": [
+        "保留「あたし以外じゃ」的排除范围短语，避免单独长romaji的以外卡挤占字面范围；参照已确认「想像の中じゃ」的完整归属，仅显出atashi／igai／ja。",
+        "局部可读性建议：已重新审核词义和是否固定搭配，并决定保留边界。不是按第一轮批量套空格；其余短活用形式原样保留。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "あたし以外じゃ",
+      "category": "limited-readability-with-boundary-retained",
+      "adoptionPriority": "optional",
+      "originalField": "grammarCards.0.romaji",
+      "resolution": "可选空格风格建议，读音无错误；本轮不纳入默认内容修正。"
+    },
+    {
+      "id": "lexical:14",
+      "role": "lexical",
+      "frameId": "l043",
+      "field": "caption.romaji",
+      "old": "atashiigaija ikirarenai yo",
+      "new": "atashi igai ja ikirarenai yo",
+      "confidence": 0.99,
+      "evidence": [
+        "只与该行词卡的局部romaji分块同步，不影响caption.japanese、ruby、QRC时码或高亮边界。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "あたし以外じゃ生きられないよ",
+      "category": "limited-readability-sync",
+      "adoptionPriority": "optional",
+      "dependsOn": "l043:grammarCards.0.romaji",
+      "originalField": "caption.romaji",
+      "resolution": "对应可选词卡罗马音被排除，句级同步也不改。"
+    },
+    {
+      "id": "translation:0",
+      "role": "translation",
+      "frameId": "l001",
+      "token": "やけに",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "格外；异常地",
+      "new": "格外地",
+      "confidence": 0.96,
+      "evidence": [
+        "选取此处超出通常程度的单一副词义；不在后面的形容词卡再重复程度。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "resolution": "原词义均有效；仅删同义词不足以构成必须修改，保留。"
+    },
+    {
+      "id": "translation:1",
+      "role": "translation",
+      "frameId": "l001",
+      "token": "やたら",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "过分地；特别地",
+      "new": "过分地",
+      "confidence": 0.96,
+      "evidence": [
+        "在長い前取程度过甚义，不并排堆放轻重不一的同义释义。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "resolution": "原词义均有效；不为缩短而删去可用释义。"
+    },
+    {
+      "id": "translation:3",
+      "role": "translation",
+      "frameId": "l016",
+      "token": "やけに",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "格外；异常地",
+      "new": "格外地",
+      "confidence": 0.96,
+      "evidence": [
+        "选取此处超出通常程度的单一副词义；不在后面的形容词卡再重复程度。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "resolution": "与l001同步保留有效原释义。"
+    },
+    {
+      "id": "translation:4",
+      "role": "translation",
+      "frameId": "l016",
+      "token": "やたら",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "过分地；特别地",
+      "new": "过分地",
+      "confidence": 0.96,
+      "evidence": [
+        "在長い前取程度过甚义，不并排堆放轻重不一的同义释义。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "resolution": "与l001同步保留有效原释义。"
+    },
+    {
+      "id": "translation:6",
+      "role": "translation",
+      "frameId": "l002",
+      "token": "だいたい",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "大致；大多",
+      "new": "大多",
+      "confidence": 0.91,
+      "evidence": [
+        "结合后句カタチばかりの常識だろう，是概括答案的总体情形；此处不必把大致与大多两个尺度并列。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "resolution": "だいたい可表大体/通常，现稿未错；不在不足证据下仅保留大多。"
+    },
+    {
+      "id": "translation:7",
+      "role": "translation",
+      "frameId": "l017",
+      "token": "だいたい",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "大致；大多",
+      "new": "大多",
+      "confidence": 0.91,
+      "evidence": [
+        "结合后句カタチばかりの常識だろう，是概括答案的总体情形；此处不必把大致与大多两个尺度并列。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "resolution": "与l002同步保留。"
+    },
+    {
+      "id": "translation:12",
+      "role": "translation",
+      "frameId": "l006",
+      "token": "ぶつかっている",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "正遇到；碰上了",
+      "new": "碰上了",
+      "confidence": 0.94,
+      "evidence": [
+        "与l005的今和三叉路に连读，描述眼下已碰上岔路的状态；删去正遇到与碰上了两种时体说法并列。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "resolution": "ている的当前状态原卡已有覆盖；碰上了只是简化，不构成实质纠错。"
+    },
+    {
+      "id": "translation:13",
+      "role": "translation",
+      "frameId": "l008",
+      "token": "進めばいい",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "该往前走；前进才好",
+      "new": "前进才好",
+      "confidence": 0.96,
+      "evidence": [
+        "何を頼りに…のでしょうか是寻求指引的疑问，不是在告诉对方该往前走；疑问语气由后卡解释。",
+        "S10：ばいい的表面形式不能独立决定本句是建议；这里的疑问判断来自冻结日文上下文。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "resolution": "原卡已包含前进才好，保持完整ばいい教学块与合理释义。"
+    },
+    {
+      "id": "translation:15",
+      "role": "translation",
+      "frameId": "l010",
+      "token": "難しい",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "晦涩的；难懂的",
+      "new": "难懂的",
+      "confidence": 0.96,
+      "evidence": [
+        "修饰言葉，选择理解困难义；不把难懂与更强的晦涩并列。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "resolution": "难懂/晦涩均符合文意，保留而不重复制造同义编辑。"
+    },
+    {
+      "id": "translation:16",
+      "role": "translation",
+      "frameId": "l010",
+      "token": "言葉",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "词语；话语",
+      "new": "词语",
+      "confidence": 0.93,
+      "evidence": [
+        "与教科書、難しい、空欄的上下文相连，词语足以表达名词义；不需要另堆话语。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[1].zhMeaning",
+      "resolution": "词语/话语均为言葉的有效释义，保留。"
+    },
+    {
+      "id": "translation:17",
+      "role": "translation",
+      "frameId": "l010",
+      "token": "だらけ",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "净是；满是",
+      "new": "满是",
+      "confidence": 0.96,
+      "evidence": [
+        "保留大量充斥且常有负面评价的核心义；负面语气可由结构字段说明。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "resolution": "净是/满是均符合だらけ，保留。"
+    },
+    {
+      "id": "translation:19",
+      "role": "translation",
+      "frameId": "l011",
+      "token": "少しも",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "一点也；丝毫也",
+      "new": "一点也",
+      "confidence": 0.96,
+      "evidence": [
+        "与変わらない呼应；不在本卡先补不，再与后卡重复否定。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "resolution": "一点也/丝毫也均有效，保留。"
+    },
+    {
+      "id": "translation:20",
+      "role": "translation",
+      "frameId": "l011",
+      "token": "変わらない",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "没有改变",
+      "new": "没有改变的",
+      "confidence": 0.9,
+      "evidence": [
+        "优先按l011–l012跨行连续句法分析，あの頃から少しも変わらない前修饰この空欄；的帮助读者接住后行名词，而非受QQ分行支配。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[3].zhMeaning",
+      "resolution": "跨句连体为合理读法但不是唯一，保留没有改变，修饰关系置于备注。"
+    },
+    {
+      "id": "translation:21",
+      "role": "translation",
+      "frameId": "l013",
+      "token": "いつの日か",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "总有一天；某一天",
+      "new": "某一天",
+      "confidence": 0.96,
+      "evidence": [
+        "未来的不确定日子；删除总有一天所暗带的确定期待，尤其不能按QQ讲成究竟何时。",
+        "S9：何時条直接给出いつの日か的未来不定时释义。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "resolution": "いつの日か的未来不定表达原卡总有一天/某一天均可，不删除有效读法。"
+    },
+    {
+      "id": "translation:22",
+      "role": "translation",
+      "frameId": "l014",
+      "token": "どうやって",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "用什么方式；如何",
+      "new": "用什么方式",
+      "confidence": 0.96,
+      "evidence": [
+        "本句问方法而非原因；保留一个易接到l015的完整释义。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "resolution": "原how释义准确，纯同义删减不纳入。"
+    },
+    {
+      "id": "translation:28",
+      "role": "translation",
+      "frameId": "l022",
+      "token": "生涯",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "一生；终其一生",
+      "new": "一生",
+      "confidence": 0.96,
+      "evidence": [
+        "名词直接给时间名词义；终其一生可用于整句意译，不必作为第二个同义释义。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "resolution": "生涯原卡直接给一生/终其一生，已符合名词实义规则，无须改。"
+    },
+    {
+      "id": "translation:29",
+      "role": "translation",
+      "frameId": "l042",
+      "token": "生涯",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "一生；终其一生",
+      "new": "一生",
+      "confidence": 0.96,
+      "evidence": [
+        "名词直接给时间名词义；终其一生可用于整句意译，不必作为第二个同义释义。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "resolution": "与l022同步保留原卡。"
+    },
+    {
+      "id": "translation:33",
+      "role": "translation",
+      "frameId": "l025",
+      "token": "所為にして",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "归咎于；怪罪于",
+      "new": "归咎于",
+      "confidence": 0.99,
+      "evidence": [
+        "せいにする是把原因／责任归给前面的地図，不能读成客观陈述因地图而困惑；只保留一个简洁释义。",
+        "S4"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[3].zhMeaning",
+      "resolution": "归咎于/怪罪于均覆盖せいにする，保留既有短释义。"
+    },
+    {
+      "id": "translation:35",
+      "role": "translation",
+      "frameId": "l028",
+      "token": "おそらく",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "大概；恐怕",
+      "new": "大概",
+      "confidence": 0.96,
+      "evidence": [
+        "这里为结果相同的推测，不需要额外强化担忧色彩。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "resolution": "おそらく的大概/恐怕均为合理不确定推测义，保留。"
+    },
+    {
+      "id": "translation:36",
+      "role": "translation",
+      "frameId": "l028",
+      "token": "同じ",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "一样；相同",
+      "new": "一样",
+      "confidence": 0.96,
+      "evidence": [
+        "直接给出单一形容性中文，避免一样／相同的重复释义。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[3].zhMeaning",
+      "resolution": "一样/相同均合理，保留。"
+    },
+    {
+      "id": "translation:37",
+      "role": "translation",
+      "frameId": "l029",
+      "token": "溢れだしそうなほど",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "多到仿佛快溢出来",
+      "new": "到快要溢出的程度",
+      "confidence": 0.97,
+      "evidence": [
+        "そう描述将要发生的样态，ほど表示装入的程度；去掉多到仿佛快的叠加，使其清楚连接詰め込んだ。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "resolution": "原长块已拆；语义按grammar:4分配为快要溢出来的＋ほど程度功能，禁止套用旧下标覆盖新首卡。"
+    },
+    {
+      "id": "translation:40",
+      "role": "translation",
+      "frameId": "l031",
+      "token": "下手な",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "笨拙的；不自然的",
+      "new": "笨拙的",
+      "confidence": 0.96,
+      "evidence": [
+        "在不擅长应酬式微笑的上下文里，保留不熟练义；不把不同强度的评价堆在短卡。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "resolution": "笨拙/不自然均适合下手な愛想笑い，保留。"
+    },
+    {
+      "id": "translation:41",
+      "role": "translation",
+      "frameId": "l031",
+      "token": "愛想笑い",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "应酬的笑；赔笑",
+      "new": "应酬的笑",
+      "confidence": 0.96,
+      "evidence": [
+        "表示为照顾社交气氛而作出的笑，不必强化为谄媚或赔罪；保留完整名词。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[1].zhMeaning",
+      "resolution": "应酬的笑/赔笑均可理解，保留词义，只核定未必是谄媚。"
+    },
+    {
+      "id": "translation:42",
+      "role": "translation",
+      "frameId": "l032",
+      "token": "やっぱり",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "果然；终究还是",
+      "new": "果然还是",
+      "confidence": 0.94,
+      "evidence": [
+        "继l031说连笨拙应酬笑都做不到，兼顾如预期和仍然如此的语气；不加入终究所暗示的长程结果。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "resolution": "果然/终究还是均适合当前上下文，纯措辞合并不纳入。"
+    },
+    {
+      "id": "translation:45",
+      "role": "translation",
+      "frameId": "l036",
+      "token": "それだけ",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "唯独那件事",
+      "new": "唯独这一点",
+      "confidence": 0.97,
+      "evidence": [
+        "それ回指上一行维持现状就好的想法，不是另一个未指明事件；区别于l023仅此而已。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "resolution": "原唯独那件事能指代上一句说法，无强制改成这一点的依据。"
+    },
+    {
+      "id": "translation:46",
+      "role": "translation",
+      "frameId": "l038",
+      "token": "無くなった",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "消失了；不见了",
+      "new": "不见了",
+      "confidence": 0.96,
+      "evidence": [
+        "保留由有变无的完成状态，与下一行开始了构成备选；不加失去梦想等具体对象。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "resolution": "消失/不见均正确，保留。"
+    },
+    {
+      "id": "translation:49",
+      "role": "translation",
+      "frameId": "l039",
+      "token": "分からない",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "不知道；分不清",
+      "new": "分不清",
+      "confidence": 0.98,
+      "evidence": [
+        "判断l038–l039两种可能的区别，取分不清义；不是把上一行的QQ译文机械移入本卡。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "resolution": "不知道/分不清均适合后接两个疑问分句，保留。"
+    },
+    {
+      "id": "translation:52",
+      "role": "translation",
+      "frameId": "l040",
+      "token": "方法",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "办法；方法",
+      "new": "办法",
+      "confidence": 0.96,
+      "evidence": [
+        "名词只给直接中文，不与同义词方法并列。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[1].zhMeaning",
+      "resolution": "办法/方法均为直接名词释义，保留。"
+    },
+    {
+      "id": "translation:54",
+      "role": "translation",
+      "frameId": "l041",
+      "token": "なんだ",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "算什么；又怎样",
+      "new": "算什么",
+      "confidence": 0.99,
+      "evidence": [
+        "此为轻视正确答案的反问，不是求定义；选单一自然中文保留力度。",
+        "S5：大辞泉同构例地位が何だ、金が何だ。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[2].zhMeaning",
+      "resolution": "算什么/又怎样已正确体现反问，无需只留一个。"
+    },
+    {
+      "id": "translation:55",
+      "role": "translation",
+      "frameId": "l043",
+      "token": "あたし以外じゃ",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "若不是我自己",
+      "new": "若以别人的身份",
+      "confidence": 0.94,
+      "evidence": [
+        "l042已经明确主语あたし；以外では此处谈活着时的身份／状态，不是换成别人作生きられない的主语。",
+        "S7：生きる除生存还可表示生活、过日子；本句身份解读来自l022–l023与l042–l043的呼应。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "resolution": "若不是我自己已保留身份范围且不添加扮演他人含义；替换仅是语境化转述，保留原卡并在备注阐明身份解读。"
+    },
+    {
+      "id": "translation:56",
+      "role": "translation",
+      "frameId": "l043",
+      "token": "生きられない",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "无法活下去",
+      "new": "没法活",
+      "confidence": 0.93,
+      "evidence": [
+        "保留可能否定，不把他人的身份重复塞进动词卡；删除活下去所偏重的持续存活方向，合读为没法以别人的身份活。",
+        "S7"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[1].zhMeaning",
+      "resolution": "没法活与无法活下去基本等义且前者更生硬；保留原卡，不把措辞差异当纠错。"
+    },
+    {
+      "id": "lexical:1",
+      "role": "lexical",
+      "frameId": "l029",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "溢れだしそうなほど",
+          "reading": "あふれだしそうなほど",
+          "romaji": "afuredashisounahodo",
+          "grammarStructureZh": "动词＋そう＋ほど",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "多到仿佛快溢出来"
+        },
+        {
+          "token": "詰め込んだ",
+          "reading": "つめこんだ",
+          "romaji": "tsumekonda",
+          "grammarStructureZh": "复合动词（过去）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "塞满了；强塞进去"
+        }
+      ],
+      "new": [
+        {
+          "token": "溢れだしそうな",
+          "reading": "あふれだしそうな",
+          "romaji": "afuredashi sou na",
+          "grammarStructureZh": "复合动词＋そうな",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "快要溢出来的"
+        },
+        {
+          "token": "ほど",
+          "reading": "ほど",
+          "romaji": "hodo",
+          "grammarStructureZh": "副助词（程度）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "表示填塞达到的程度"
+        },
+        {
+          "token": "詰め込んだ",
+          "reading": "つめこんだ",
+          "romaji": "tsumekonda",
+          "grammarStructureZh": "复合动词（过去・连体）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "塞满了的"
+        }
+      ],
+      "confidence": 0.95,
+      "evidence": [
+        "基准首卡把复合动词、样态そうな、程度ほど叠在同一9字块，结构只写「动词＋そう＋ほど」而难以逐项对应；建议在完整「溢れだしそうな」之后分出ほど，不拆坏溢れだす或そうな。",
+        "Q01：QQ读音为 a fu re da shi so u na ho do tsu me ko n da；新卡读音仅按原连续串分配，没有增删读音。",
+        "上下文推断：詰め込んだ连体修饰下一行「他人の箱」；不是看到他人箱子前先往自己的箱子塞。提案含简短连体卡义；QQ整句中文不改。",
+        "R01/R02：借鉴已确认项目按意义、完整活用组织学习单元，并让独立程度标记可见；这是教学边界建议，不是词典强制分词。"
+      ],
+      "changesTokenStructure": true,
+      "targetToken": "溢れだしそうなほど／詰め込んだ",
+      "category": "learning-unit-resegmentation",
+      "originalField": "grammarCards",
+      "resolution": "两角色分词完全一致；采用文法版保留动词身份并明确そうな为样态。ほど独立显示程度功能；詰め込んだ保留连体义。"
+    },
+    {
+      "id": "lexical:5",
+      "role": "lexical",
+      "frameId": "l035",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "このままでいい",
+          "reading": "このままでいい",
+          "romaji": "konomamadeii",
+          "grammarStructureZh": "状态表达＋でいい",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "维持现状就好"
+        },
+        {
+          "token": "なんて",
+          "reading": "なんて",
+          "romaji": "nante",
+          "grammarStructureZh": "副助词（引用）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "引用并轻视前述想法"
+        }
+      ],
+      "new": [
+        {
+          "token": "このままで",
+          "reading": "このままで",
+          "romaji": "kono mama de",
+          "grammarStructureZh": "名词短语＋で",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "保持这样"
+        },
+        {
+          "token": "いい",
+          "reading": "いい",
+          "romaji": "ii",
+          "grammarStructureZh": "形容词",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "zhMeaning": "可以；就好"
+        },
+        {
+          "token": "なんて",
+          "reading": "なんて",
+          "romaji": "nante",
+          "grammarStructureZh": "副助词（引用）",
+          "render": true,
+          "status": "draft",
+          "reviewRequired": true,
+          "fieldProvenance": {
+            "token": "authored learning chunk draft",
+            "reading": "draft with QQ kana/roma reference",
+            "meaningOrFunction": "draft informed by supplied QMTS; not dictionary-verified",
+            "grammarStructureZh": "authored draft; role review pending"
+          },
+          "functionZh": "引用并轻视前述想法"
+        }
+      ],
+      "confidence": 0.97,
+      "evidence": [
+        "「このままでいい」同时包含维持状态的名词短语和形容词评价，分为「このままで／いい」便于独立学会いい，仍保留このままで为完整状态块；不机械拆この／まま／で。",
+        "R01：已确认项目 l023 独立「このままで」，l018 独立「いい」且纠正其误标助词。参考的是学习单元和词性清晰度，不是照搬错误旧稿。",
+        "Q01：纯假名行，无顶部振假名；三个新卡仍完整串回原日文，なんて保留引用功能，整句QQ中文不改。"
+      ],
+      "changesTokenStructure": true,
+      "targetToken": "このままでいい",
+      "category": "learning-unit-resegmentation",
+      "originalField": "grammarCards",
+      "resolution": "两角色边界一致；采用文法版明确で的状态作用，保留いい为形容词。中文短句由翻译意见另行核定。"
+    },
+    {
+      "id": "lexical:0",
+      "role": "lexical",
+      "frameId": "l011",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "今天；如今",
+      "new": "如今；现今",
+      "confidence": 0.92,
+      "evidence": [
+        "S04：漢字ペディア区分「今日」的きょう与コンニチ；后者还表示这段时期、现今。",
+        "Q01：冻结 QQ kana 明示こん＋にち，roma 对应 ko n ni chi。此处以「あの頃」作过去参照，卡义优先如今；并非读音纠错，也没有实际听辨。"
+      ],
+      "changesTokenStructure": false,
+      "targetToken": "今日",
+      "category": "contextual-lexical-meaning",
+      "originalField": "grammarCards.0.zhMeaning",
+      "mappedField": "grammarCards.0.zhMeaning",
+      "resolution": "以あの頃对比现在的语境选如今，避免两个完全同义的词；不声称こんにち词典上没有今天义。"
+    },
+    {
+      "id": "grammar:5",
+      "role": "grammar",
+      "frameId": "l029",
+      "targetToken": "溢れだしそうなほど",
+      "field": "caption.romaji",
+      "old": "afuredashisounahodo tsumekonda",
+      "new": "afuredashi sou na hodo tsumekonda",
+      "confidence": 0.97,
+      "evidence": [
+        "与上项教学边界同步；整句日文与振假名、原始QRC时间均不变。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "caption.romaji",
+      "mappedField": "caption.romaji",
+      "resolution": "Identical proposal coalesced."
+    },
+    {
+      "id": "grammar:6",
+      "role": "grammar",
+      "frameId": "l032",
+      "targetToken": "出来てない",
+      "field": "grammarCards.1.grammarStructureZh",
+      "old": "ていない的口语缩约",
+      "new": "动词（ていない口语形）",
+      "confidence": 0.96,
+      "evidence": [
+        "S03：出来る是动词；S04：ていない可以表示未实现、未完成。出来てない是出来ていない省略い的口语形式，补回动词身份，但不将できる误当某一动词新造的可能形。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[1].grammarStructureZh",
+      "mappedField": "grammarCards.1.grammarStructureZh",
+      "resolution": "两角色均补动词身份；采用缩约明确省略い这一现象，字数也更短。"
+    },
+    {
+      "id": "grammar:8",
+      "role": "grammar",
+      "frameId": "l035",
+      "targetToken": "このままでいい",
+      "field": "caption.romaji",
+      "old": "konomamadeii nante",
+      "new": "kono mama de ii nante",
+      "confidence": 0.99,
+      "evidence": [
+        "与上项拆分同步，不改日文、振假名或时间。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "caption.romaji",
+      "mappedField": "caption.romaji",
+      "resolution": "Identical proposal coalesced."
+    },
+    {
+      "id": "grammar:2",
+      "role": "grammar",
+      "frameId": "l023",
+      "targetToken": "あたしであって",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "作为我自己",
+      "new": "我就是我，而……",
+      "confidence": 0.96,
+      "evidence": [
+        "S09：である是判断、断定表达；であって是其て形。这里承接“あたしは生涯”，做身份判断，不是“以我为手段”或另起行动方式。",
+        "学习块保留代词＋系词，中文显示断定及中顿，不照搬QQ整句的“活出”补入词卡。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[0].zhMeaning",
+      "mappedField": "grammarCards.0.zhMeaning",
+      "resolution": "谓语系词表达身份而不是作为的处境；选是我自己保留短卡，不把补出的而与省略号塞进含义。"
+    },
+    {
+      "id": "translation:47",
+      "role": "translation",
+      "frameId": "l038",
+      "token": "のか",
+      "field": "grammarCards.1.functionZh",
+      "old": "提出疑问或不确定选项",
+      "new": "列举不见了这一可能",
+      "confidence": 0.98,
+      "evidence": [
+        "与l039的のか成对，两个未知选项共同作为分からない的内容；不是向对方发出的独立问句。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[1].functionZh",
+      "mappedField": "grammarCards.1.functionZh",
+      "resolution": "与后续分からない共同构成间接疑问，是否更清楚体现疑问语义。"
+    },
+    {
+      "id": "translation:48",
+      "role": "translation",
+      "frameId": "l039",
+      "token": "のか",
+      "field": "grammarCards.1.functionZh",
+      "old": "提出不确定选项",
+      "new": "列举开始了这一可能",
+      "confidence": 0.98,
+      "evidence": [
+        "与l038的のか成对，统辖于后面的分からない；使跨行间接疑問关系可见。"
+      ],
+      "changesTokenStructure": false,
+      "originalField": "grammarCards[1].functionZh",
+      "mappedField": "grammarCards.1.functionZh",
+      "resolution": "与l038采用同一功能句式，两个可能选项保持平行。"
+    }
+  ]
+}

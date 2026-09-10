@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "result": "passed",
+  "japaneseTimedCharacters": 353,
+  "allFramesMapped": 42,
+  "framesSha256": "6f02999db4cfc57334b9951ca9f5be4b4ac2123362907581563c6c439b7e5c9d",
+  "outsideJapaneseRowPixelIdentical": true,
+  "englishPixelIdentical": true,
+  "samples": [
+    {
+      "frameId": "l001",
+      "partIndex": 0,
+      "newImage": "project/qa/character-highlight/l001-0-character.png"
+    },
+    {
+      "frameId": "l001",
+      "partIndex": 1,
+      "newImage": "project/qa/character-highlight/l001-1-character.png"
+    },
+    {
+      "frameId": "l018",
+      "partIndex": 4,
+      "newImage": "project/qa/character-highlight/l018-4-character.png"
+    },
+    {
+      "frameId": "l025",
+      "partIndex": 2,
+      "newImage": "project/qa/character-highlight/l025-2-character.png"
+    },
+    {
+      "frameId": "l012",
+      "partIndex": 2,
+      "newImage": "project/qa/character-highlight/l012-2-character.png"
+    }
+  ],
+  "visualStatus": "Inspected consecutive こ/こ highlights and merged 心が躍れば with only 躍 highlighted in the Japanese row. Other foreground rows are unchanged; 353 Japanese QRC character units mapped across all 42 frames.",
+  "finalRenderAuthorized": false
+}

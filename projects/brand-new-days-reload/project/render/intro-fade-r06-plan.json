@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "runId": "20260816-r06-intro-fade",
+  "mode": "intro-fade-out-then-current-video-fade-in",
+  "timeline": {
+    "introSourceRangeSeconds": [245, 268],
+    "introDurationSeconds": 23,
+    "songAudioContinuous": true,
+    "spectrumContinuous": true,
+    "introForegroundHidden": true,
+    "introFadeOutSeconds": [22, 23],
+    "contentFadeInSeconds": [23, 24],
+    "contentResumesAtSongSeconds": 23,
+    "totalDurationSeconds": 352.6
+  },
+  "inputs": {
+    "intro": "source/intro-aegis-source.mp4",
+    "spectrum": "project/cover_wave_glass_stems_v1.mp4",
+    "existingContentRender": "deliverables/final/brand-new-days-reload--cover-wave-glass-stems--20260815-r02.mp4",
+    "audio": "source/Brand New Days -Reload-.flac"
+  },
+  "output": "deliverables/final/brand-new-days-reload--intro-fade--glass-stems--20260816-r06.mp4"
+}

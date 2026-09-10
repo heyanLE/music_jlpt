@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 2,
+  "result": "passed",
+  "candidate": "project/work/zattou-v2-approved-r1/16x9/zattou-bokura-no-machi-v2--16x9--zattou-v2-approved-r1.mkv",
+  "candidateSha256": "ecb54b741b3dc42efba4d0ed1402211363f9f6258ba8e021a8e465d0a257f958",
+  "renderReport": "project/work/zattou-v2-approved-r1/16x9/render-report.json",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "pix_fmt": "yuv420p",
+        "r_frame_rate": "30/1",
+        "bits_per_raw_sample": "8"
+      },
+      {
+        "codec_name": "flac",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "r_frame_rate": "0/0",
+        "bits_per_raw_sample": "16"
+      }
+    ],
+    "format": {
+      "duration": "185.067000"
+    }
+  },
+  "screenshots": [
+    {
+      "name": "first-lyric",
+      "timestampMs": 752,
+      "path": "project/qa/zattou-v2-approved-r1/first-lyric.png"
+    },
+    {
+      "name": "last-lyric",
+      "timestampMs": 166815,
+      "path": "project/qa/zattou-v2-approved-r1/last-lyric.png"
+    },
+    {
+      "name": "maximum-cards",
+      "timestampMs": 23570,
+      "path": "project/qa/zattou-v2-approved-r1/maximum-cards.png"
+    },
+    {
+      "name": "transition-stage2-cover-gaussian",
+      "timestampMs": 90131,
+      "path": "project/qa/zattou-v2-approved-r1/transition-stage2-cover-gaussian.png"
+    },
+    {
+      "name": "follow-gap",
+      "timestampMs": 14576,
+      "path": "project/qa/zattou-v2-approved-r1/follow-gap.png"
+    },
+    {
+      "name": "persistent-gap",
+      "timestampMs": 14076,
+      "path": "project/qa/zattou-v2-approved-r1/persistent-gap.png"
+    }
+  ],
+  "requiredVisualChecks": [
+    "three-layer order",
+    "background fit and transitions",
+    "foreground gap mode",
+    "annotation anchors",
+    "English timing",
+    "one-row cards and two-line meaning",
+    "transparent persistent spectrum",
+    "final line"
+  ],
+  "visualInspection": {
+    "inspectedAt": "2026-08-23T09:19:53.439598+00:00",
+    "findings": [
+      "1920x1080 CFR video with FLAC audio has the expected duration.",
+      "Cover, kanji-only ruby, token-aligned romaji, Chinese line translation, and one-row cards are legible.",
+      "Card meanings wrap within two lines; token and POS rows remain single-line.",
+      "The video-to-Gaussian switch keeps the foreground and persistent transparent spectrum intact.",
+      "The spectrum has no opaque black canvas and remains at the bottom layer position above foreground.",
+      "Final lyric state and active-token highlight render correctly."
+    ],
+    "extraScreenshots": [
+      "project/qa/zattou-v2-approved-r1/persistent-after-switch.png",
+      "project/qa/zattou-v2-approved-r1/last-lyric.png"
+    ]
+  }
+}

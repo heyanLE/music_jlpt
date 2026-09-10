@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "runId": "20260819-final-native-fps-v1",
+  "result": "pass",
+  "output": "deliverables/final/silhouette-dance--study-current-v3--16x9--20260819-final-native-fps-v1.mkv",
+  "checks": {
+    "projectValidation": "pass",
+    "durationSeconds": 209.46,
+    "expectedAudioDurationSeconds": 209.453333,
+    "resolution": "1920x1080",
+    "frameRate": "24000/1001 CFR",
+    "videoCodec": "h264",
+    "audioCodec": "flac",
+    "audioSampleRateHz": 96000,
+    "audioBitsPerRawSample": 24,
+    "audioChannels": 2,
+    "motionInterpolation": "none",
+    "foreground": "lyric-only veil; fresh transparent state per QRC unit; cards never highlight",
+    "screenshots": [
+      "first-lyric.png",
+      "mid-song.png",
+      "later-lyric.png",
+      "final-lyric.png"
+    ]
+  },
+  "notes": [
+    "Background source aspect ratio is preserved with height-center-pillarbox policy.",
+    "Output uses the approved frame SHA and exact QQ Music source-character timing when it matches the displayed line."
+  ]
+}

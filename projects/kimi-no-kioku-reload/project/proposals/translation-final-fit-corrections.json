@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "translation",
+  "scope": {
+    "frameIds": ["l011", "l038", "l043", "l061"]
+  },
+  "baseFrameSha256": "7c0c8d02c6c94d9c80cce49dcab8ffdcf630ef9f288ed00246aa2db013e69ed4",
+  "changes": [
+    {
+      "frameId": "l011",
+      "field": "grammarCards.7.functionZh",
+      "old": "接在过去形后表示原因：因为守护了……",
+      "new": "过去形后表原因：因为",
+      "confidence": 0.99,
+      "evidence": ["保留接续位置、原因功能及中文对应，仅删除已由歌词呈现的动作复述。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l038",
+      "field": "grammarCards.2.functionZh",
+      "old": "与前项「いつだ」组成「いつだって」，表示无论何时都……",
+      "new": "构成「いつだって」：无论何时",
+      "confidence": 0.99,
+      "evidence": ["保留固定组合及其完整语境义。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l038",
+      "field": "grammarCards.5.functionZh",
+      "old": "与前项「いつだ」组成「いつだって」，表示无论何时都……",
+      "new": "构成「いつだって」：无论何时",
+      "confidence": 0.99,
+      "evidence": ["同一重复句内部保持功能说明一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l038",
+      "field": "grammarCards.8.functionZh",
+      "old": "与前项「いつだ」组成「いつだって」，表示无论何时都……",
+      "new": "构成「いつだって」：无论何时",
+      "confidence": 0.99,
+      "evidence": ["同一重复句内部保持功能说明一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l043",
+      "field": "grammarCards.7.functionZh",
+      "old": "接在过去形后表示原因：因为守护了……",
+      "new": "过去形后表原因：因为",
+      "confidence": 0.99,
+      "evidence": ["与 l011 为重复歌词，保持相同且不减义的极短说明。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l061",
+      "field": "grammarCards.2.functionZh",
+      "old": "与前项「いつだ」组成「いつだって」，表示无论何时都……",
+      "new": "构成「いつだって」：无论何时",
+      "confidence": 0.99,
+      "evidence": ["与 l038 为重复歌词，保持相同且不减义的极短说明。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l061",
+      "field": "grammarCards.5.functionZh",
+      "old": "与前项「いつだ」组成「いつだって」，表示无论何时都……",
+      "new": "构成「いつだって」：无论何时",
+      "confidence": 0.99,
+      "evidence": ["同一重复句内部保持功能说明一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l061",
+      "field": "grammarCards.8.functionZh",
+      "old": "与前项「いつだ」组成「いつだって」，表示无论何时都……",
+      "new": "构成「いつだって」：无论何时",
+      "confidence": 0.99,
+      "evidence": ["同一重复句内部保持功能说明一致。"],
+      "changesTokenStructure": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "stage": "draft",
+  "result": "passed",
+  "frameCount": 33,
+  "cardCount": 166,
+  "renderedFrameCount": 33,
+  "maxCardCount": 8,
+  "maxCardCountFrame": "l001",
+  "oneRowGrammarCards": true,
+  "meaningMaxLines": 2,
+  "selectedSamples": {
+    "longestLyric": "l019",
+    "maximumCardCount": "l001",
+    "longestMeaningOrFunction": "l010",
+    "mixedJapaneseEnglish": null,
+    "loanwordCandidate": "l010",
+    "pureEnglish": null
+  },
+  "previewPaths": {
+    "longestLyric": "C:\\project\\musicjlpt\\projects\\kanjou-glass\\project\\qa\\draft-preview-longestLyric.png",
+    "maximumCardCount": "C:\\project\\musicjlpt\\projects\\kanjou-glass\\project\\qa\\draft-preview-maximumCardCount.png",
+    "longestMeaningOrFunction": "C:\\project\\musicjlpt\\projects\\kanjou-glass\\project\\qa\\draft-preview-longestMeaningOrFunction.png",
+    "mixedJapaneseEnglish": null,
+    "loanwordCandidate": "C:\\project\\musicjlpt\\projects\\kanjou-glass\\project\\qa\\draft-preview-loanwordCandidate.png",
+    "pureEnglish": null
+  },
+  "failures": [],
+  "reviewDocument": "C:\\project\\musicjlpt\\projects\\kanjou-glass\\deliverables\\review\\kanjou-glass-review.md"
+}

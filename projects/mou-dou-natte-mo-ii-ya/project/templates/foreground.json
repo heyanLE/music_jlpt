@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 2,
+  "id": "study-current-v2",
+  "owns": "foreground-only",
+  "canvas": { "referenceWidth": 1920, "referenceHeight": 1080, "fps": 30 },
+  "font": { "role": "cjk-bold", "minimumWeight": 700, "fallback": ["Microsoft YaHei Bold", "Noto Sans CJK Bold"] },
+  "colors": {
+    "body": "palette.body",
+    "active": "palette.activeTint",
+    "cardFill": "palette.cardFill",
+    "cardOutline": "palette.activeTint",
+    "cardFillAlpha": { "min": 0.70, "max": 0.80 }
+  },
+  "veil": { "color": "#000000", "opacity": 0.28, "zIndex": "below-foreground" },
+  "cover": { "required": true, "anchor": "top-center", "rectPx": [850, 35, 220, 220], "fit": "cover" },
+  "lyric": {
+    "layout": "inline-source-order",
+    "maxWidth": 0.90,
+    "overflow": "shrink-then-wrap",
+    "minimumFontScale": 0.76,
+    "tokenAnchors": "shared-lyric-romaji-annotation",
+    "furigana": { "kanjiOnly": true, "align": "left-to-kanji-run", "fontSize": 28, "topPx": 295 },
+    "loanwordAnnotation": { "source": "sourceWord", "align": "center-over-token", "fontSize": 23, "topPx": 295 },
+    "japanese": { "fontSize": 70, "fontWeight": 700, "baselinePx": 330 },
+    "english": { "fontSize": 42, "fontWeight": 700, "baselinePx": 352, "furigana": false, "romaji": false },
+    "romaji": { "japaneseOnly": true, "fontSize": 34, "fontWeight": 700, "baselinePx": 430, "anchor": "center-under-token" },
+    "translation": { "anchor": "center", "fontSize": 45, "fontWeight": 700, "topPx": 500, "maxLines": 2 },
+    "highlight": { "source": "qrc", "targets": ["japanese", "furigana", "romaji", "english"], "cards": false }
+  },
+  "cards": {
+    "rectPx": [95, 600, 1730, 250],
+    "gapPx": 12,
+    "radiusPx": 20,
+    "fill": "palette.cardFill",
+    "alpha": 0.75,
+    "fields": ["token", "zhMeaning-or-functionZh", "posZh"],
+    "fieldLayout": {
+      "token": { "topPx": 625, "fontSize": 37, "fontWeight": 700, "maxLines": 1 },
+      "meaning": { "topPx": 695, "fontSize": 26, "fontWeight": 700, "maxLines": 2, "lineHeightPx": 32, "verticalAlign": "center" },
+      "pos": { "topPx": 770, "fontSize": 25, "fontWeight": 700, "maxLines": 1 },
+      "horizontalAlign": "center",
+      "verticalFlow": "independent-fields"
+    },
+    "overflow": "wrap-or-fail",
+    "activeHighlight": false
+  },
+  "forbidden": ["playback-controls", "opaque-neutral-black-cards", "unanchored-romaji", "missing-cover"]
+}

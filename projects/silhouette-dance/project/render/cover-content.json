@@ -1,0 +1,17 @@
+{
+  "slug": "silhouette-dance",
+  "title": "影色舞",
+  "artist": "MyGO!!!!!",
+  "series": "快速学唱",
+  "badge": { "enabled": true, "text": "Hi-Res\n无损音质", "scale": 1.18 },
+  "benefits": [
+    "歌词同步高亮",
+    "假名注释",
+    "罗马音",
+    "逐词拆解"
+  ],
+  "outputs": [
+    { "name": "16x9", "width": 1920, "height": 1080, "artworkFocus": "center" },
+    { "name": "4x3", "width": 1440, "height": 1080, "artworkFocus": "center" }
+  ]
+}

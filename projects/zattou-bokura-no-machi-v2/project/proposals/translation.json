@@ -1,0 +1,2365 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "translation",
+  "scope": {
+    "frameIds": [
+      "l006",
+      "l007",
+      "l008",
+      "l009",
+      "l010",
+      "l011",
+      "l012",
+      "l013",
+      "l014",
+      "l015",
+      "l016",
+      "l017",
+      "l018",
+      "l019",
+      "l020",
+      "l021",
+      "l022",
+      "l023",
+      "l024",
+      "l025",
+      "l026",
+      "l027",
+      "l028",
+      "l029",
+      "l030",
+      "l031",
+      "l032",
+      "l033",
+      "l034",
+      "l035",
+      "l036",
+      "l037",
+      "l038",
+      "l039",
+      "l040",
+      "l041",
+      "l042",
+      "l043",
+      "l044",
+      "l045",
+      "l046",
+      "l047",
+      "l048",
+      "l049",
+      "l050",
+      "l051",
+      "l052",
+      "l053",
+      "l054",
+      "l055",
+      "l056",
+      "l057",
+      "l058",
+      "l059",
+      "l060",
+      "l061",
+      "l062",
+      "l063",
+      "l064",
+      "l065",
+      "l066"
+    ]
+  },
+  "baseFrameSha256": "b91c4f3499f05d48bc3aaa7110bcaf542f6059ad4c53af5bb9b7c24ecee0e168",
+  "changes": [
+    {
+      "frameId": "l006",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "やり残した",
+          "posZh": "复合动词（た形）",
+          "grammarStructureZh": "やり残した：留下未完成的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "留下未完成的"
+        },
+        {
+          "token": "が",
+          "posZh": "助词",
+          "grammarStructureZh": "が：提示主语",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示主语"
+        },
+        {
+          "token": "を",
+          "posZh": "助词",
+          "grammarStructureZh": "を：提示动作对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示动作对象"
+        },
+        {
+          "token": "覆って",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "覆って：覆盖、笼罩",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "覆盖、笼罩"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l007",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "僕ら",
+          "posZh": "代词",
+          "grammarStructureZh": "僕ら：我们",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "我们"
+        },
+        {
+          "token": "包んで",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "包んで：包裹着、包住并",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "包裹着、包住并"
+        },
+        {
+          "token": "粉々に",
+          "posZh": "副词性名词＋に",
+          "grammarStructureZh": "粉々に：粉碎地、成碎片状",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "粉碎地、成碎片状"
+        },
+        {
+          "token": "前に",
+          "posZh": "时间表达",
+          "grammarStructureZh": "前に：在……之前",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "在……之前"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l008",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "頼りなくてもいい",
+          "posZh": "句型",
+          "grammarStructureZh": "頼りなくてもいい：即使不可靠也没关系",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "即使不可靠也没关系"
+        },
+        {
+          "token": "その",
+          "posZh": "连体词",
+          "grammarStructureZh": "その：那、那个",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "那、那个"
+        },
+        {
+          "token": "手",
+          "posZh": "名词",
+          "grammarStructureZh": "手：手；援手",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "手；援手"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l009",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "は",
+          "posZh": "助词",
+          "grammarStructureZh": "は：提示主题并形成对比/强调",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示主题并形成对比/强调"
+        },
+        {
+          "token": "自分自身",
+          "posZh": "名词",
+          "grammarStructureZh": "自分自身：自己本身",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "自己本身"
+        },
+        {
+          "token": "もの",
+          "posZh": "形式名词",
+          "grammarStructureZh": "もの：东西；属于……的东西",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "东西；属于……的东西"
+        },
+        {
+          "token": "さ",
+          "posZh": "终助词",
+          "grammarStructureZh": "さ：加强陈述语气",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "加强陈述语气"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l010",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "変わらない",
+          "posZh": "动词否定形",
+          "grammarStructureZh": "変わらない：不会改变的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不会改变的"
+        },
+        {
+          "token": "はずはない",
+          "posZh": "固定句型",
+          "grammarStructureZh": "はずはない：不可能……；不应当……",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不可能……；不应当……"
+        },
+        {
+          "token": "よ",
+          "posZh": "终助词",
+          "grammarStructureZh": "よ：提示、强调给听者",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示、强调给听者"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l011",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "手",
+          "posZh": "名词",
+          "grammarStructureZh": "手：手",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "手"
+        },
+        {
+          "token": "を",
+          "posZh": "助词",
+          "grammarStructureZh": "を：提示动作对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示动作对象"
+        },
+        {
+          "token": "伸ばして",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "伸ばして：伸出（手）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "伸出（手）"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l012",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "雑踏",
+          "posZh": "名词",
+          "grammarStructureZh": "雑踏：拥挤的人潮、喧闹街头",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "拥挤的人潮、喧闹街头"
+        },
+        {
+          "token": "の中で",
+          "posZh": "助词复合表达",
+          "grammarStructureZh": "の中で：在……之中",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "在……之中"
+        },
+        {
+          "token": "声無き声",
+          "posZh": "名词短语",
+          "grammarStructureZh": "声無き声：无声的声音",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "无声的声音"
+        },
+        {
+          "token": "泣いている",
+          "posZh": "动词（ている）",
+          "grammarStructureZh": "泣いている：正在哭泣、一直哭着",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "正在哭泣、一直哭着"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l013",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "足跡",
+          "posZh": "名词",
+          "grammarStructureZh": "足跡：足迹",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "足迹"
+        },
+        {
+          "token": "誰か",
+          "posZh": "不定代词",
+          "grammarStructureZh": "誰か：某人",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "某人"
+        },
+        {
+          "token": "を",
+          "posZh": "助词",
+          "grammarStructureZh": "を：提示动作对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示动作对象"
+        },
+        {
+          "token": "消した",
+          "posZh": "动词（た形）",
+          "grammarStructureZh": "消した：消去了、抹去了",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "消去了、抹去了"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l014",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "いつになっても",
+          "posZh": "让步表达",
+          "grammarStructureZh": "いつになっても：无论何时都",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "无论何时都"
+        },
+        {
+          "token": "枯れる",
+          "posZh": "动词",
+          "grammarStructureZh": "枯れる：枯萎、枯竭",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "枯萎、枯竭"
+        },
+        {
+          "token": "ことのない",
+          "posZh": "固定句型",
+          "grammarStructureZh": "ことのない：从未……的；不会……的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "从未……的；不会……的"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l015",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "腐敗した",
+          "posZh": "动词（た形）",
+          "grammarStructureZh": "腐敗した：腐败的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "腐败的"
+        },
+        {
+          "token": "街",
+          "posZh": "名词",
+          "grammarStructureZh": "街：城市、街道",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "城市、街道"
+        },
+        {
+          "token": "泥水",
+          "posZh": "名词",
+          "grammarStructureZh": "泥水：泥水",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "泥水"
+        },
+        {
+          "token": "冷たい",
+          "posZh": "形容词",
+          "grammarStructureZh": "冷たい：冰冷的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "冰冷的"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l016",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "何にも",
+          "posZh": "副词性表达",
+          "grammarStructureZh": "何にも：什么也……（与否定呼应）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "什么也……（与否定呼应）"
+        },
+        {
+          "token": "変わらない",
+          "posZh": "动词否定形",
+          "grammarStructureZh": "変わらない：不改变的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不改变的"
+        },
+        {
+          "token": "世界で",
+          "posZh": "名词＋助词",
+          "grammarStructureZh": "世界で：在……世界中",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "在……世界中"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l017",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "今日だって",
+          "posZh": "提示表达",
+          "grammarStructureZh": "今日だって：即使是今天也；今天依然",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "即使是今天也；今天依然"
+        },
+        {
+          "token": "生きてゆく",
+          "posZh": "动词＋补助动词",
+          "grammarStructureZh": "生きてゆく：活下去、继续生活",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "活下去、继续生活"
+        },
+        {
+          "token": "んだ",
+          "posZh": "终助表达",
+          "grammarStructureZh": "んだ：说明、强调语气",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "说明、强调语气"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l018",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "くだらない",
+          "posZh": "形容词",
+          "grammarStructureZh": "くだらない：毫无意义的、无聊的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "毫无意义的、无聊的"
+        },
+        {
+          "token": "けど",
+          "posZh": "接续助词",
+          "grammarStructureZh": "けど：表示转折或铺垫",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "表示转折或铺垫"
+        },
+        {
+          "token": "仕方ない",
+          "posZh": "固定表达",
+          "grammarStructureZh": "仕方ない：没办法、无可奈何",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "没办法、无可奈何"
+        },
+        {
+          "token": "でしょ",
+          "posZh": "助动词",
+          "grammarStructureZh": "でしょ：吧；表示确认",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "吧；表示确认"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l019",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "僕ら",
+          "posZh": "代词",
+          "grammarStructureZh": "僕ら：我们",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "我们"
+        },
+        {
+          "token": "もう",
+          "posZh": "副词",
+          "grammarStructureZh": "もう：已经",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "已经"
+        },
+        {
+          "token": "歩き始めた",
+          "posZh": "复合动词（た形）",
+          "grammarStructureZh": "歩き始めた：开始走起来了",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "开始走起来了"
+        },
+        {
+          "token": "んだ",
+          "posZh": "终助表达",
+          "grammarStructureZh": "んだ：说明、强调语气",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "说明、强调语气"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l020",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "嘘みたいな",
+          "posZh": "比况表达",
+          "grammarStructureZh": "嘘みたいな：像谎言一样的；不可置信的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "像谎言一样的；不可置信的"
+        },
+        {
+          "token": "馬鹿みたいな",
+          "posZh": "比况表达",
+          "grammarStructureZh": "馬鹿みたいな：像傻瓜一样的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "像傻瓜一样的"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l021",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "どうしようもない",
+          "posZh": "固定表达",
+          "grammarStructureZh": "どうしようもない：无可奈何、无药可救",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "无可奈何、无药可救"
+        },
+        {
+          "token": "僕ら",
+          "posZh": "代词",
+          "grammarStructureZh": "僕ら：我们",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "我们"
+        },
+        {
+          "token": "の",
+          "posZh": "助词",
+          "grammarStructureZh": "の：所属修饰",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "所属修饰"
+        },
+        {
+          "token": "街",
+          "posZh": "名词",
+          "grammarStructureZh": "街：城市、街道",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "城市、街道"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l022",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "それでも",
+          "posZh": "接续副词",
+          "grammarStructureZh": "それでも：即便如此、尽管如此",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "即便如此、尽管如此"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l023",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "この",
+          "posZh": "连体词",
+          "grammarStructureZh": "この：这、这个",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "这、这个"
+        },
+        {
+          "token": "眼で",
+          "posZh": "名词＋助词",
+          "grammarStructureZh": "眼で：用这双眼；凭借这双眼",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "用这双眼；凭借这双眼"
+        },
+        {
+          "token": "確かに",
+          "posZh": "副词",
+          "grammarStructureZh": "確かに：确实地、的确",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "确实地、的确"
+        },
+        {
+          "token": "見えたんだ",
+          "posZh": "动词＋说明语气",
+          "grammarStructureZh": "見えたんだ：看见了；能看见啊",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "看见了；能看见啊"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l024",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "この",
+          "posZh": "连体词",
+          "grammarStructureZh": "この：这、这个",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "这、这个"
+        },
+        {
+          "token": "手で",
+          "posZh": "名词＋助词",
+          "grammarStructureZh": "手で：用这双手；亲手",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "用这双手；亲手"
+        },
+        {
+          "token": "確かに",
+          "posZh": "副词",
+          "grammarStructureZh": "確かに：确实地、的确",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "确实地、的确"
+        },
+        {
+          "token": "触れたんだ",
+          "posZh": "动词＋说明语气",
+          "grammarStructureZh": "触れたんだ：触碰到了啊",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "触碰到了啊"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l025",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "ねえ",
+          "posZh": "感叹词",
+          "grammarStructureZh": "ねえ：喂；呐（唤起注意）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "喂；呐（唤起注意）"
+        },
+        {
+          "token": "ほら",
+          "posZh": "感叹词",
+          "grammarStructureZh": "ほら：你看；瞧",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "你看；瞧"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l026",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "また",
+          "posZh": "副词",
+          "grammarStructureZh": "また：又、再次",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "又、再次"
+        },
+        {
+          "token": "吹いた",
+          "posZh": "动词（た形）",
+          "grammarStructureZh": "吹いた：吹起了、拂过了",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "吹起了、拂过了"
+        },
+        {
+          "token": "馬鹿みたいだ",
+          "posZh": "比况表达",
+          "grammarStructureZh": "馬鹿みたいだ：像傻瓜一样",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "像傻瓜一样"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l027",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "どうしようもない",
+          "posZh": "固定表达",
+          "grammarStructureZh": "どうしようもない：无可奈何、无药可救",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "无可奈何、无药可救"
+        },
+        {
+          "token": "闇",
+          "posZh": "名词",
+          "grammarStructureZh": "闇：黑暗",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "黑暗"
+        },
+        {
+          "token": "を",
+          "posZh": "助词",
+          "grammarStructureZh": "を：提示动作对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示动作对象"
+        },
+        {
+          "token": "照らせ",
+          "posZh": "动词命令形",
+          "grammarStructureZh": "照らせ：照亮吧",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "照亮吧"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l028",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "夢じゃない",
+          "posZh": "否定表达",
+          "grammarStructureZh": "夢じゃない：不是梦境",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不是梦境"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l029",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "どうせ",
+          "posZh": "副词",
+          "grammarStructureZh": "どうせ：反正、终究",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "反正、终究"
+        },
+        {
+          "token": "終わってる",
+          "posZh": "动词（口语完成状态）",
+          "grammarStructureZh": "終わってる：已经结束了、完了",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "已经结束了、完了"
+        },
+        {
+          "token": "街",
+          "posZh": "名词",
+          "grammarStructureZh": "街：城市、街道",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "城市、街道"
+        },
+        {
+          "token": "だって",
+          "posZh": "助词/提示表达",
+          "grammarStructureZh": "だって：即使是……也",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "即使是……也"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l030",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "諦めたって",
+          "posZh": "让步表达",
+          "grammarStructureZh": "諦めたって：即使放弃也",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "即使放弃也"
+        },
+        {
+          "token": "変わんない",
+          "posZh": "动词否定口语形",
+          "grammarStructureZh": "変わんない：不会改变（変わらない的口语形）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不会改变（変わらない的口语形）"
+        },
+        {
+          "token": "ぜ",
+          "posZh": "终助词",
+          "grammarStructureZh": "ぜ：加强语气",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "加强语气"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l031",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "まだ",
+          "posZh": "副词",
+          "grammarStructureZh": "まだ：仍然、还",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "仍然、还"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l032",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "やり残した",
+          "posZh": "复合动词（た形）",
+          "grammarStructureZh": "やり残した：留下未完成的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "留下未完成的"
+        },
+        {
+          "token": "が",
+          "posZh": "助词",
+          "grammarStructureZh": "が：提示主语",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示主语"
+        },
+        {
+          "token": "を",
+          "posZh": "助词",
+          "grammarStructureZh": "を：提示动作对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示动作对象"
+        },
+        {
+          "token": "覆って",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "覆って：覆盖、笼罩",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "覆盖、笼罩"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l033",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "僕ら",
+          "posZh": "代词",
+          "grammarStructureZh": "僕ら：我们",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "我们"
+        },
+        {
+          "token": "包んで",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "包んで：包裹着、包住并",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "包裹着、包住并"
+        },
+        {
+          "token": "粉々に",
+          "posZh": "副词性名词＋に",
+          "grammarStructureZh": "粉々に：粉碎地、成碎片状",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "粉碎地、成碎片状"
+        },
+        {
+          "token": "前に",
+          "posZh": "时间表达",
+          "grammarStructureZh": "前に：在……之前",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "在……之前"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l034",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "頼りなくてもいい",
+          "posZh": "句型",
+          "grammarStructureZh": "頼りなくてもいい：即使不可靠也没关系",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "即使不可靠也没关系"
+        },
+        {
+          "token": "その",
+          "posZh": "连体词",
+          "grammarStructureZh": "その：那、那个",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "那、那个"
+        },
+        {
+          "token": "手",
+          "posZh": "名词",
+          "grammarStructureZh": "手：手；援手",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "手；援手"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l035",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "は",
+          "posZh": "助词",
+          "grammarStructureZh": "は：提示主题并形成对比/强调",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示主题并形成对比/强调"
+        },
+        {
+          "token": "自分自身",
+          "posZh": "名词",
+          "grammarStructureZh": "自分自身：自己本身",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "自己本身"
+        },
+        {
+          "token": "もの",
+          "posZh": "形式名词",
+          "grammarStructureZh": "もの：东西；属于……的东西",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "东西；属于……的东西"
+        },
+        {
+          "token": "さ",
+          "posZh": "终助词",
+          "grammarStructureZh": "さ：加强陈述语气",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "加强陈述语气"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l036",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "変わらない",
+          "posZh": "动词否定形",
+          "grammarStructureZh": "変わらない：不会改变的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不会改变的"
+        },
+        {
+          "token": "はずはない",
+          "posZh": "固定句型",
+          "grammarStructureZh": "はずはない：不可能……；不应当……",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不可能……；不应当……"
+        },
+        {
+          "token": "よ",
+          "posZh": "终助词",
+          "grammarStructureZh": "よ：提示、强调给听者",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示、强调给听者"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l037",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "手",
+          "posZh": "名词",
+          "grammarStructureZh": "手：手",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "手"
+        },
+        {
+          "token": "を",
+          "posZh": "助词",
+          "grammarStructureZh": "を：提示动作对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示动作对象"
+        },
+        {
+          "token": "伸ばして",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "伸ばして：伸出（手）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "伸出（手）"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l038",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "永遠",
+          "posZh": "名词",
+          "grammarStructureZh": "永遠：永恒",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "永恒"
+        },
+        {
+          "token": "の中で",
+          "posZh": "助词复合表达",
+          "grammarStructureZh": "の中で：在……之中",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "在……之中"
+        },
+        {
+          "token": "迷わない",
+          "posZh": "动词否定形",
+          "grammarStructureZh": "迷わない：不迷失、不犹豫",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不迷失、不犹豫"
+        },
+        {
+          "token": "為の",
+          "posZh": "目的表达",
+          "grammarStructureZh": "為の：为了……的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "为了……的"
+        },
+        {
+          "token": "温もり",
+          "posZh": "名词",
+          "grammarStructureZh": "温もり：温暖、暖意",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "温暖、暖意"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l039",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "軽薄な",
+          "posZh": "形容动词连体形",
+          "grammarStructureZh": "軽薄な：轻率的、轻浮的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "轻率的、轻浮的"
+        },
+        {
+          "token": "君",
+          "posZh": "代词",
+          "grammarStructureZh": "君：你",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "你"
+        },
+        {
+          "token": "に",
+          "posZh": "助词",
+          "grammarStructureZh": "に：表示对象、方向",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "表示对象、方向"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l040",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "届くことなく",
+          "posZh": "固定句型",
+          "grammarStructureZh": "届くことなく：未能传达就……；没有传达便……",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "未能传达就……；没有传达便……"
+        },
+        {
+          "token": "散ってゆく",
+          "posZh": "动词＋补助动词",
+          "grammarStructureZh": "散ってゆく：逐渐消散而去",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "逐渐消散而去"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l041",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "想像通り",
+          "posZh": "名词＋形式名词",
+          "grammarStructureZh": "想像通り：如想象一样、意料之中",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "如想象一样、意料之中"
+        },
+        {
+          "token": "そんな",
+          "posZh": "连体词",
+          "grammarStructureZh": "そんな：那样的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "那样的"
+        },
+        {
+          "token": "はずはない",
+          "posZh": "固定否定句型",
+          "grammarStructureZh": "はずはない：不可能如此",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不可能如此"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l042",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "逃げりゃ",
+          "posZh": "条件表达",
+          "grammarStructureZh": "逃げりゃ：如果逃跑的话（逃げれば的口语缩约）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "如果逃跑的话（逃げれば的口语缩约）"
+        },
+        {
+          "token": "いいでしょ",
+          "posZh": "句型",
+          "grammarStructureZh": "いいでしょ：可以了吧；这样就行了吧",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "可以了吧；这样就行了吧"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l043",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "簡単に",
+          "posZh": "形容动词连用形",
+          "grammarStructureZh": "簡単に：轻易地、简单地",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "轻易地、简单地"
+        },
+        {
+          "token": "言わないで",
+          "posZh": "否定请求表达",
+          "grammarStructureZh": "言わないで：不要说……",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不要说……"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l044",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "いつも通り",
+          "posZh": "固定表达",
+          "grammarStructureZh": "いつも通り：一如既往、和平时一样",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "一如既往、和平时一样"
+        },
+        {
+          "token": "の",
+          "posZh": "助词",
+          "grammarStructureZh": "の：所属修饰",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "所属修饰"
+        },
+        {
+          "token": "世界",
+          "posZh": "名词",
+          "grammarStructureZh": "世界：世界",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "世界"
+        },
+        {
+          "token": "を",
+          "posZh": "助词",
+          "grammarStructureZh": "を：提示动作对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示动作对象"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l045",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "今日だって",
+          "posZh": "提示表达",
+          "grammarStructureZh": "今日だって：即使是今天也；今天依然",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "即使是今天也；今天依然"
+        },
+        {
+          "token": "駆けてゆく",
+          "posZh": "动词＋补助动词",
+          "grammarStructureZh": "駆けてゆく：奔跑着前行",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "奔跑着前行"
+        },
+        {
+          "token": "んだ",
+          "posZh": "终助表达",
+          "grammarStructureZh": "んだ：说明、强调语气",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "说明、强调语气"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l046",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "滑り落ちたら",
+          "posZh": "条件表达",
+          "grammarStructureZh": "滑り落ちたら：如果滑落的话",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "如果滑落的话"
+        },
+        {
+          "token": "掴んで",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "掴んで：抓住",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "抓住"
+        },
+        {
+          "token": "やろう",
+          "posZh": "补助动词意志形",
+          "grammarStructureZh": "やろう：我来……吧；为你……",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "我来……吧；为你……"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l047",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "灰色",
+          "posZh": "名词",
+          "grammarStructureZh": "灰色：灰色",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "灰色"
+        },
+        {
+          "token": "空",
+          "posZh": "名词",
+          "grammarStructureZh": "空：天空",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "天空"
+        },
+        {
+          "token": "その中で",
+          "posZh": "助词复合表达",
+          "grammarStructureZh": "その中で：在那之中",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "在那之中"
+        },
+        {
+          "token": "煌めく",
+          "posZh": "动词",
+          "grammarStructureZh": "煌めく：闪耀、闪烁",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "闪耀、闪烁"
+        },
+        {
+          "token": "青さ",
+          "posZh": "名词",
+          "grammarStructureZh": "青さ：蔚蓝；蓝色的程度",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "蔚蓝；蓝色的程度"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l048",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "嘘みたいな",
+          "posZh": "比况表达",
+          "grammarStructureZh": "嘘みたいな：像谎言一样的；不可置信的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "像谎言一样的；不可置信的"
+        },
+        {
+          "token": "馬鹿みたいな",
+          "posZh": "比况表达",
+          "grammarStructureZh": "馬鹿みたいな：像傻瓜一样的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "像傻瓜一样的"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l049",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "どうしようもない",
+          "posZh": "固定表达",
+          "grammarStructureZh": "どうしようもない：无可奈何、无药可救",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "无可奈何、无药可救"
+        },
+        {
+          "token": "僕ら",
+          "posZh": "代词",
+          "grammarStructureZh": "僕ら：我们",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "我们"
+        },
+        {
+          "token": "の",
+          "posZh": "助词",
+          "grammarStructureZh": "の：所属修饰",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "所属修饰"
+        },
+        {
+          "token": "街",
+          "posZh": "名词",
+          "grammarStructureZh": "街：城市、街道",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "城市、街道"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l050",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "それでも",
+          "posZh": "接续副词",
+          "grammarStructureZh": "それでも：即便如此、尽管如此",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "即便如此、尽管如此"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l051",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "この",
+          "posZh": "连体词",
+          "grammarStructureZh": "この：这、这个",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "这、这个"
+        },
+        {
+          "token": "眼で",
+          "posZh": "名词＋助词",
+          "grammarStructureZh": "眼で：用这双眼；凭借这双眼",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "用这双眼；凭借这双眼"
+        },
+        {
+          "token": "確かに",
+          "posZh": "副词",
+          "grammarStructureZh": "確かに：确实地、的确",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "确实地、的确"
+        },
+        {
+          "token": "見えたんだ",
+          "posZh": "动词＋说明语气",
+          "grammarStructureZh": "見えたんだ：看见了；能看见啊",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "看见了；能看见啊"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l052",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "この",
+          "posZh": "连体词",
+          "grammarStructureZh": "この：这、这个",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "这、这个"
+        },
+        {
+          "token": "手で",
+          "posZh": "名词＋助词",
+          "grammarStructureZh": "手で：用这双手；亲手",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "用这双手；亲手"
+        },
+        {
+          "token": "確かに",
+          "posZh": "副词",
+          "grammarStructureZh": "確かに：确实地、的确",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "确实地、的确"
+        },
+        {
+          "token": "触れたんだ",
+          "posZh": "动词＋说明语气",
+          "grammarStructureZh": "触れたんだ：触碰到了啊",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "触碰到了啊"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l053",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "ねえ",
+          "posZh": "感叹词",
+          "grammarStructureZh": "ねえ：喂；呐（唤起注意）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "喂；呐（唤起注意）"
+        },
+        {
+          "token": "ほら",
+          "posZh": "感叹词",
+          "grammarStructureZh": "ほら：你看；瞧",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "你看；瞧"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l054",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "また",
+          "posZh": "副词",
+          "grammarStructureZh": "また：又、再次",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "又、再次"
+        },
+        {
+          "token": "吹いた",
+          "posZh": "动词（た形）",
+          "grammarStructureZh": "吹いた：吹起了、拂过了",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "吹起了、拂过了"
+        },
+        {
+          "token": "馬鹿みたいだ",
+          "posZh": "比况表达",
+          "grammarStructureZh": "馬鹿みたいだ：像傻瓜一样",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "像傻瓜一样"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l055",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "どうしようもない",
+          "posZh": "固定表达",
+          "grammarStructureZh": "どうしようもない：无可奈何、无药可救",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "无可奈何、无药可救"
+        },
+        {
+          "token": "闇",
+          "posZh": "名词",
+          "grammarStructureZh": "闇：黑暗",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "黑暗"
+        },
+        {
+          "token": "を",
+          "posZh": "助词",
+          "grammarStructureZh": "を：提示动作对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示动作对象"
+        },
+        {
+          "token": "照らせ",
+          "posZh": "动词命令形",
+          "grammarStructureZh": "照らせ：照亮吧",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "照亮吧"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l056",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "夢じゃない",
+          "posZh": "否定表达",
+          "grammarStructureZh": "夢じゃない：不是梦境",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不是梦境"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l057",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "どうせ",
+          "posZh": "副词",
+          "grammarStructureZh": "どうせ：反正、终究",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "反正、终究"
+        },
+        {
+          "token": "終わってる",
+          "posZh": "动词（口语完成状态）",
+          "grammarStructureZh": "終わってる：已经结束了、完了",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "已经结束了、完了"
+        },
+        {
+          "token": "街",
+          "posZh": "名词",
+          "grammarStructureZh": "街：城市、街道",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "城市、街道"
+        },
+        {
+          "token": "だって",
+          "posZh": "助词/提示表达",
+          "grammarStructureZh": "だって：即使是……也",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "即使是……也"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l058",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "諦めたって",
+          "posZh": "让步表达",
+          "grammarStructureZh": "諦めたって：即使放弃也",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "即使放弃也"
+        },
+        {
+          "token": "変わんない",
+          "posZh": "动词否定口语形",
+          "grammarStructureZh": "変わんない：不会改变（変わらない的口语形）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不会改变（変わらない的口语形）"
+        },
+        {
+          "token": "ぜ",
+          "posZh": "终助词",
+          "grammarStructureZh": "ぜ：加强语气",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "加强语气"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l059",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "まだ",
+          "posZh": "副词",
+          "grammarStructureZh": "まだ：仍然、还",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "仍然、还"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l060",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "やり残した",
+          "posZh": "复合动词（た形）",
+          "grammarStructureZh": "やり残した：留下未完成的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "留下未完成的"
+        },
+        {
+          "token": "が",
+          "posZh": "助词",
+          "grammarStructureZh": "が：提示主语",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示主语"
+        },
+        {
+          "token": "を",
+          "posZh": "助词",
+          "grammarStructureZh": "を：提示动作对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示动作对象"
+        },
+        {
+          "token": "覆って",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "覆って：覆盖、笼罩",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "覆盖、笼罩"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l061",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "僕ら",
+          "posZh": "代词",
+          "grammarStructureZh": "僕ら：我们",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "我们"
+        },
+        {
+          "token": "包んで",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "包んで：包裹着、包住并",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "包裹着、包住并"
+        },
+        {
+          "token": "粉々に",
+          "posZh": "副词性名词＋に",
+          "grammarStructureZh": "粉々に：粉碎地、成碎片状",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "粉碎地、成碎片状"
+        },
+        {
+          "token": "前に",
+          "posZh": "时间表达",
+          "grammarStructureZh": "前に：在……之前",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "在……之前"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l062",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "頼りなくてもいい",
+          "posZh": "句型",
+          "grammarStructureZh": "頼りなくてもいい：即使不可靠也没关系",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "即使不可靠也没关系"
+        },
+        {
+          "token": "その",
+          "posZh": "连体词",
+          "grammarStructureZh": "その：那、那个",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "那、那个"
+        },
+        {
+          "token": "手",
+          "posZh": "名词",
+          "grammarStructureZh": "手：手；援手",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "手；援手"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l063",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "は",
+          "posZh": "助词",
+          "grammarStructureZh": "は：提示主题并形成对比/强调",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示主题并形成对比/强调"
+        },
+        {
+          "token": "自分自身",
+          "posZh": "名词",
+          "grammarStructureZh": "自分自身：自己本身",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "自己本身"
+        },
+        {
+          "token": "もの",
+          "posZh": "形式名词",
+          "grammarStructureZh": "もの：东西；属于……的东西",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "东西；属于……的东西"
+        },
+        {
+          "token": "さ",
+          "posZh": "终助词",
+          "grammarStructureZh": "さ：加强陈述语气",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "加强陈述语气"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l064",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "変わらない",
+          "posZh": "动词否定形",
+          "grammarStructureZh": "変わらない：不会改变的",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不会改变的"
+        },
+        {
+          "token": "はずはない",
+          "posZh": "固定句型",
+          "grammarStructureZh": "はずはない：不可能……；不应当……",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "不可能……；不应当……"
+        },
+        {
+          "token": "よ",
+          "posZh": "终助词",
+          "grammarStructureZh": "よ：提示、强调给听者",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示、强调给听者"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l065",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "手",
+          "posZh": "名词",
+          "grammarStructureZh": "手：手",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "手"
+        },
+        {
+          "token": "を",
+          "posZh": "助词",
+          "grammarStructureZh": "を：提示动作对象",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "functionZh": "提示动作对象"
+        },
+        {
+          "token": "伸ばして",
+          "posZh": "动词（て形）",
+          "grammarStructureZh": "伸ばして：伸出（手）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "伸出（手）"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    },
+    {
+      "frameId": "l066",
+      "field": "grammarCards",
+      "old": [],
+      "new": [
+        {
+          "token": "何もかも",
+          "posZh": "代词性表达",
+          "grammarStructureZh": "何もかも：一切、全部",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "一切、全部"
+        },
+        {
+          "token": "君次第で",
+          "posZh": "固定表达",
+          "grammarStructureZh": "君次第で：取决于你",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "取决于你"
+        },
+        {
+          "token": "僕次第さ",
+          "posZh": "固定表达＋终助词",
+          "grammarStructureZh": "僕次第さ：取决于我啊",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": true,
+          "zhMeaning": "取决于我啊"
+        }
+      ],
+      "confidence": "medium-high",
+      "rationale": "QMTS sentence translation anchored; content meanings, particle functions, and POS normalized for legacy card presentation."
+    }
+  ],
+  "notes": [
+    "All 61 lyric frames are covered; QRC metadata lines are excluded.",
+    "QMTS complete-sentence Chinese is the semantic anchor.",
+    "Particle cards use functionZh, while lexical cards use zhMeaning.",
+    "Each card keeps a short posZh for the rendered third row; longer explanation remains only in grammarStructureZh.",
+    "Repeated refrains reuse identical card values."
+  ]
+}

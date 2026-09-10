@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 3,
+  "slug": "amore",
+  "runId": "20260821-inputs",
+  "music": { "asset": "source/music.flac", "outputPolicy": "lossless-copy", "outputContainer": "mkv", "ffmpegAudioCodec": "copy", "startOffsetMs": 3183, "offsetMethod": "container timestamp; source FLAC packets copied unchanged" },
+  "cover": { "asset": "source/cover.jpg", "origin": "embedded-artwork" },
+  "lyrics": { "format": "qq-music", "qm": "source/lyrics_qm.qrc", "qmRoma": "source/lyrics_qmRoma.qrc", "qmts": "source/lyrics_qmts.qrc" },
+  "outputs": [{ "name": "16x9", "width": 1920, "height": 1080, "fps": 30, "container": "mkv", "audioCodec": "copy" }]
+}

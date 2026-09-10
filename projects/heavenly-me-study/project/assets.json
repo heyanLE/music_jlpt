@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sourceManifest": "source/source-manifest.json",
+  "sourceManifestSha256": "3acf95ec5b6572de9cabd6bc9545f95d19eb3e9b3e8ad9b490038c05b7abd80f",
+  "active": {
+    "music": {
+      "asset": "source/music.flac",
+      "sha256": "090cb58f098dd207eba05c383ecbaa8b78b22105b73a596e16d4a43c91dddcb0",
+      "derivedFrom": "source/music.wav",
+      "preserveCodec": true,
+      "sampleRateHz": 48000,
+      "bitsPerSample": 24,
+      "finalContainer": "mkv",
+      "finalAudioCodec": "copy"
+    },
+    "cover": {
+      "asset": "source/cover-v2.jpg",
+      "sha256": "b500d69d181ac0fbb28a4f667b5d533b840fdbb74e363f943a156e82551dc93e",
+      "origin": "video-frame-at-30000ms-character-centered-v2"
+    },
+    "background": {
+      "asset": "source/background-trimmed.mp4",
+      "sha256": "e84e748046aa1576fb5a7f430cda34b41fcb0a8db9a9173c91f7b16d372fa6ec",
+      "originalAsset": "source/background.mp4",
+      "originalSha256": "f20c23ecbbf3aae7577c3cf3eedafaafc582312fec655523b9b81561f92175e6",
+      "trimStartMs": 2854.625,
+      "evidence": "project/alignment/video-intro-trim.json"
+    },
+    "lyrics": {
+      "format": "qq-music",
+      "qm": "source/lyrics_qm.qrc",
+      "qmRoma": "source/lyrics_qmRoma.qrc",
+      "qmts": "source/lyrics_qmts.qrc",
+      "minDisplayedLyricMs": 745
+    },
+    "preset": "video-loop-follow",
+    "spectrum": "off",
+    "alignment": {
+      "method": "manual-after-background-trim",
+      "offsetMs": 0,
+      "appliesTo": ["music", "lyrics", "spectrum"]
+    }
+  },
+  "templateSha256": {
+    "foreground.json": "a5fa64614553081b74df9b71e504efa794f71f5cab563c2b6eacf6a88b7da317",
+    "background.json": "e368085fe31bbdbfbf4b0f5e694281056ea3249010dd80bc274e2ed858a06bc3",
+    "overlay.json": "096ce548ef31d3c3265a69cd85e446037551ea80577f87dd12bfa424f99c60e7"
+  }
+}

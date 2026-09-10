@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 2,
+  "result": "passed",
+  "candidate": "project/work/final-r03-zero-start/16x9/mebuku-toki--16x9--final-r03-zero-start.mkv",
+  "candidateSha256": "5e93884f292a7998920bd5fe8e566f4b7cf1c3681a973b528a29d669c862429a",
+  "renderReport": "project/work/final-r03-zero-start/16x9/render-report.json",
+  "probe": {
+    "containerStartTime": "0.000000",
+    "duration": "219.300000",
+    "video": {
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "fps": "30/1",
+      "pixelFormat": "yuv420p",
+      "firstPacketPts": "0.000000"
+    },
+    "audio": {
+      "codec": "flac",
+      "sampleRateHz": 96000,
+      "bitsPerSample": 24,
+      "firstPacketPts": "0.000000",
+      "codecPolicy": "stream-copy-no-input-seek"
+    }
+  },
+  "audioIntegrity": {
+    "sourceEncodedPacketSha256": "cf462a0737c7641ed5bcccce943cf8e46c555afdc5ccebca43c107a856d2ade7",
+    "candidateEncodedPacketSha256": "cf462a0737c7641ed5bcccce943cf8e46c555afdc5ccebca43c107a856d2ade7",
+    "sourceDecodedAudioSha256": "395b7ee380a7e7bd56052854c2c38558422ba4f78713b44fb5fcbc633ed361a4",
+    "candidateDecodedAudioSha256": "395b7ee380a7e7bd56052854c2c38558422ba4f78713b44fb5fcbc633ed361a4",
+    "finding": "The complete source-master audio packet stream and decoded samples are identical in the candidate. The intrinsic master head is preserved; only the former 5.327 s output/container prelude is removed."
+  },
+  "timing": {
+    "removedOutputPreludeMs": 5327,
+    "globalMusicOffsetMs": 0,
+    "lyricsSourceClockCorrectionMs": -777,
+    "lyricsOutputOffsetMs": -777,
+    "firstBackgroundSourceStartMs": 5327,
+    "backgroundTransitionOutputMs": 97630,
+    "secondBackgroundSourceStartMs": 99751,
+    "foregroundMatches": {
+      "full": 34,
+      "adjacentRows": 0,
+      "lineFallback": 0,
+      "unmatched": 0,
+      "activeSegments": 331
+    }
+  },
+  "screenshots": [
+    {
+      "name": "zero-start",
+      "timestampMs": 33,
+      "path": "project/qa/final-r03-zero-start/zero-start.png"
+    },
+    {
+      "name": "first-lyric-aligned",
+      "timestampMs": 7319,
+      "path": "project/qa/final-r03-zero-start/first-lyric-aligned.png"
+    },
+    {
+      "name": "loanword-aligned",
+      "timestampMs": 20127,
+      "path": "project/qa/final-r03-zero-start/loanword-aligned.png"
+    },
+    {
+      "name": "maximum-cards-aligned",
+      "timestampMs": 61731,
+      "path": "project/qa/final-r03-zero-start/maximum-cards-aligned.png"
+    },
+    {
+      "name": "transition-before",
+      "timestampMs": 97530,
+      "path": "project/qa/final-r03-zero-start/transition-before.png"
+    },
+    {
+      "name": "transition-after",
+      "timestampMs": 97730,
+      "path": "project/qa/final-r03-zero-start/transition-after.png"
+    },
+    {
+      "name": "last-lyric-aligned",
+      "timestampMs": 186483,
+      "path": "project/qa/final-r03-zero-start/last-lyric-aligned.png"
+    },
+    {
+      "name": "final-tail",
+      "timestampMs": 204300,
+      "path": "project/qa/final-r03-zero-start/final-tail.png"
+    },
+    {
+      "name": "final-post-tail",
+      "timestampMs": 204700,
+      "path": "project/qa/final-r03-zero-start/final-post-tail.png"
+    }
+  ],
+  "visualFindings": [
+    "The first output frame is valid background footage with the persistent transparent spectrum; there is no blank or delayed container prelude.",
+    "First and last lyric frames retain the approved cover, kanji-only furigana, token-aligned romaji, Chinese line translation, one-row translucent cards, bold outlined text and token highlight.",
+    "The eight-card maximum row remains on one row without clipping; long meaning text wraps inside its card.",
+    "The background switches cleanly at 97.630 s while the foreground and persistent transparent spectrum remain continuous.",
+    "The final lyric tail is protected for 500 ms, then the study foreground clears while the spectrum remains active.",
+    "This project contains no pure-English display line, so the English-only rendering branch is not applicable."
+  ]
+}

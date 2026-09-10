@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "runId": "20260822-r01-final-flac",
+  "result": "passed",
+  "candidate": "project/work/20260822-r01-final-flac/murimuri-shinkaron--16x9--20260822-r01-final-flac.mkv",
+  "candidateSha256": "f6453b89c4ecb15a8396be5951c63ef0119d3a338ff86aeba20527efbf3ade8c",
+  "probe": {
+    "durationMs": 194933,
+    "video": { "codec": "h264", "width": 1920, "height": 1080, "fps": 30, "cfr": true },
+    "audio": { "codec": "flac", "sampleRate": 96000, "channels": 2, "bitDepth": 24, "policy": "stream-copy" }
+  },
+  "timing": { "qrcFullMatches": 96, "qrcUnmatched": 0, "highlightMode": "token" },
+  "scenes": {
+    "stage1": "source/background-stage1.mp4, source audio muted, height-centre pillarbox",
+    "switchAtMs": 89899,
+    "stage2": "source/cover.jpg, Gaussian blur, background only"
+  },
+  "layers": { "veil": "lyric-only", "textOutline": "black exterior", "spectrum": "transparent, persistent, above foreground" },
+  "screenshots": [
+    "gap-spectrum.png",
+    "first-lyric.png",
+    "max-cards.png",
+    "post-transition.png",
+    "final-lyric.png"
+  ],
+  "checks": {
+    "gapPolicy": "passed: no foreground in gap while spectrum remains",
+    "firstLyric": "passed",
+    "maximumCards": "passed: seven cards, no overflow",
+    "backgroundTransition": "passed",
+    "finalLyric": "passed",
+    "pureEnglish": "not applicable: this QRC contains no pure-English lyric row",
+    "blackSpectrumBackdrop": "passed: absent"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 2,
+  "clock": "output",
+  "preset": "custom-episode-intro-then-existing-approved-content",
+  "segments": [
+    {
+      "id": "episode-dialogue-intro",
+      "startMs": 0,
+      "endMs": 21755,
+      "mode": "video-clip",
+      "asset": "source/episode-s1e6.mp4",
+      "sourceStartMs": 1319000,
+      "sourceEndMs": 1340755,
+      "fit": "height-center-pillarbox",
+      "sourceAudio": "mute-in-visual-composite; audio supplied by source/music-hybrid.flac",
+      "foregroundMode": "follow-lyrics",
+      "idleForeground": "none",
+      "transitionIn": {
+        "kind": "none",
+        "durationMs": 0,
+        "scope": "background-only"
+      },
+      "transitionOut": {
+        "kind": "hard-cut-on-matched-title-card",
+        "durationMs": 0,
+        "scope": "background-only"
+      }
+    },
+    {
+      "id": "stage1-video",
+      "startMs": 21755,
+      "endMs": 106851,
+      "mode": "video-clip",
+      "asset": "source/background.mp4",
+      "sourceStartMs": 0,
+      "sourceEndMs": 85096,
+      "fit": "height-center-pillarbox",
+      "sourceAudio": "mute",
+      "foregroundMode": "follow-lyrics",
+      "transitionIn": {
+        "kind": "hard-cut-on-matched-title-card",
+        "durationMs": 0,
+        "scope": "background-only"
+      },
+      "transitionOut": {
+        "kind": "black-fade",
+        "durationMs": 500,
+        "scope": "background-only"
+      }
+    },
+    {
+      "id": "stage2-cover-gaussian",
+      "startMs": 106851,
+      "endMs": "audio-end",
+      "mode": "cover-gaussian",
+      "asset": "source/cover.jpg",
+      "foregroundMode": "persistent",
+      "transitionIn": {
+        "kind": "black-fade",
+        "durationMs": 500,
+        "scope": "background-only"
+      },
+      "transitionOut": {
+        "kind": "none",
+        "durationMs": 0,
+        "scope": "background-only"
+      }
+    }
+  ]
+}

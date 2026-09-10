@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "status": "measured",
+  "sourceVideoTrimMs": 16000,
+  "sourceVideoMusicZeroMs": 36877,
+  "masterStartsAtOutputMs": 20877,
+  "outputDurationMs": 249837,
+  "firstSungLineOutputMs": 36050,
+  "countdownOutputRangeMs": [33050, 36050],
+  "evidence": "project/timing/audio-match-report.json",
+  "method": "multi-window spectral correlation followed by PCM fine correlation",
+  "supersedes": "project/timing/audio-offset-initial.json",
+  "supersessionReason": "An RMS onset cannot distinguish original dialogue from music and does not establish a matching musical position.",
+  "limitations": ["Agreement establishes synchronization across the matching opening section. Later TV-short arrangement diverges from the full master; background remains visual footage rather than a claim of full-song performance lip sync.", "QQ lyric timestamps are preserved on the supplied master clock. Listening QA must still check the first sung line and later phrases."],
+  "audioProgram": "project/work/audio/program-lossless.flac",
+  "audioProgramClock": "output",
+  "audioProgramAdditionalDelayMs": 0,
+  "masterPcmVerification": "project/qa/audio-preservation.json"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "brand-new-days-reload",
+  "series": "快速学唱",
+  "title": "Brand New Days\n-Reload-",
+  "artist": "高橋あず美 & アトラスサウンドチーム",
+  "subtitle": "P3R ED",
+  "benefits": ["歌词同步高亮", "假名注释", "罗马音", "逐词拆解"],
+  "outputs": [
+    { "name": "16x9", "width": 1920, "height": 1080 },
+    { "name": "4x3", "width": 1440, "height": 1080, "artworkFocus": "right" },
+    { "name": "9x16", "width": 1080, "height": 1920 },
+    { "name": "3x4", "width": 1440, "height": 1920 }
+  ]
+}

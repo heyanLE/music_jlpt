@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "runId": "20260819-final-native-fps-v4-no-spectrum",
+  "result": "pass",
+  "output": "deliverables/final/silhouette-dance--study-current-v3--16x9--20260819-final-native-fps-v4-no-spectrum.mkv",
+  "checks": {
+    "projectValidation": "pass",
+    "durationSeconds": 209.46,
+    "resolution": "1920x1080",
+    "frameRate": "24000/1001 CFR",
+    "videoCodec": "h264",
+    "audioCodec": "flac",
+    "audioSampleRateHz": 96000,
+    "audioBitsPerRawSample": 24,
+    "audioChannels": 2,
+    "furiganaSource": "verified grammar-card readings",
+    "cardFillAlpha": 0.5,
+    "floatingOverlay": "none",
+    "screenshots": ["furigana-no-spectrum.png", "late-song.png"]
+  }
+}

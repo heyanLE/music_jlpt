@@ -1,0 +1,521 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "grammar",
+  "scope": {
+    "frameIds": [
+      "l001",
+      "l002",
+      "l003",
+      "l004",
+      "l005",
+      "l006",
+      "l007",
+      "l008",
+      "l009",
+      "l010",
+      "l011",
+      "l012",
+      "l013",
+      "l014",
+      "l015",
+      "l016",
+      "l017",
+      "l018",
+      "l019",
+      "l020",
+      "l021",
+      "l022",
+      "l023",
+      "l024",
+      "l025",
+      "l026",
+      "l027",
+      "l028",
+      "l029",
+      "l030",
+      "l031",
+      "l032",
+      "l033",
+      "l034",
+      "l035",
+      "l036",
+      "l037",
+      "l038",
+      "l039",
+      "l040",
+      "l041",
+      "l042",
+      "l043",
+      "l044",
+      "l045"
+    ]
+  },
+  "baseFrameSha256": "7e730357a5d9a6adf121d4f23c7fc86a263769209d78a4a8444f2fba122f48d6",
+  "changes": [
+    {
+      "frameId": "l004",
+      "field": "grammarCards.1.functionZh",
+      "old": "提示动作主体",
+      "new": "标示颤抖的主体",
+      "confidence": 0.99,
+      "evidence": [
+        "「指先が震える」中が标记发生颤抖的主语；震える为非意志性的状态变化，不需要解释成有意动作。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l004",
+      "field": "grammarCards.2.grammarStructureZh",
+      "old": "动词意志形＋とも（让步）",
+      "new": "～ようとも（让步）",
+      "confidence": 0.99,
+      "evidence": [
+        "「震えよう」外形与意志形相同，但本句「ようとも」整体为假定让步，不表示指尖打算颤抖。",
+        "小学館《プログレッシブ和英中辞典》「－とも」列出「たとえ…でも」及「来ようとも」等用例：https://kotobank.jp/jeword/-%E3%81%A8%E3%82%82"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l019",
+      "field": "grammarCards.1.functionZh",
+      "old": "提示动作主体",
+      "new": "标示颤抖的主体",
+      "confidence": 0.99,
+      "evidence": [
+        "「指先が震える」中が标记发生颤抖的主语；震える为非意志性的状态变化，不需要解释成有意动作。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l019",
+      "field": "grammarCards.2.grammarStructureZh",
+      "old": "动词意志形＋とも（让步）",
+      "new": "～ようとも（让步）",
+      "confidence": 0.99,
+      "evidence": [
+        "「震えよう」外形与意志形相同，但本句「ようとも」整体为假定让步，不表示指尖打算颤抖。",
+        "小学館《プログレッシブ和英中辞典》「－とも」列出「たとえ…でも」及「来ようとも」等用例：https://kotobank.jp/jeword/-%E3%81%A8%E3%82%82"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l005",
+      "field": "grammarCards.0.grammarStructureZh",
+      "old": "名词＋に＋主题提示",
+      "new": "名词＋に（场所）＋は",
+      "confidence": 0.98,
+      "evidence": [
+        "「地図にはない」中的に标记不存在之物本应出现的场所（地图上），は兼有提示/对照作用；不将に的作用留空。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l005",
+      "field": "grammarCards.1.grammarStructureZh",
+      "old": "否定＋はず＋の",
+      "new": "ない＋はず＋の",
+      "confidence": 0.99,
+      "evidence": [
+        "此处「ない」是表示不存在的形容词，后接形式名词はず，再由の修饰三叉路；不是动词否定活用。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l006",
+      "field": "grammarCards.1.grammarStructureZh",
+      "old": "解释＋礼貌中顿",
+      "new": "のです＋が（承接）",
+      "confidence": 0.98,
+      "evidence": [
+        "のです说明所遇到的处境，が把这番说明作为随后「何を頼りに…」的前提；礼貌来自です，承接来自が。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l007",
+      "field": "grammarCards.2.grammarStructureZh",
+      "old": "名词＋に（依凭）",
+      "new": "～を頼りに（依凭）",
+      "confidence": 0.99,
+      "evidence": [
+        "显示完整固定搭配，便于把前一张卡的を与頼りに对应起来；不将に泛化为所有名词都能直接表示依凭。保留现有卡片边界。",
+        "小学館《デジタル大辞泉》「頼り」第1义及地图作为依靠的例句：https://kotobank.jp/word/%E9%A0%BC%E3%82%8A-563162"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l009",
+      "field": "grammarCards.2.grammarStructureZh",
+      "old": "惯用表达＋中顿",
+      "new": "ものだ（感叹）中顿",
+      "confidence": 0.97,
+      "evidence": [
+        "「とはよく言ったものだ」评价前述说法贴切，句末で是中顿；这里不是「过去常常做」的回忆性たものだ，也不是原因接续的もので。",
+        "小学館《デジタル大辞泉》「物」5㋑说明もの可强调感叹：https://kotobank.jp/word/%E7%89%A9-142633"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l009",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "这话倒真说得好",
+      "new": "这说法真贴切",
+      "confidence": 0.98,
+      "evidence": [
+        "评价对象是被とは引用的「教科書通り」这一说法；よく在惯用感叹里指说得准确/贴切，而不是说话频次。可有反讽，但本提案不强加反讽。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l012",
+      "field": "grammarCards.4.grammarStructureZh",
+      "old": "自动词＋礼貌疑问",
+      "new": "解ける＋礼貌疑问",
+      "confidence": 0.88,
+      "evidence": [
+        "待核：主语和宾语被省略时，自动词「解ける」与「解く」的可能形同形；当前歌词不足以排除其中一种分析。改用中性词形标签，保留原词义「能解开吗」。",
+        "小学館《デジタル大辞泉》「解ける」第4义和《精選版日本国語大辞典》确认自动词本身也能表示问题得到解答：https://kotobank.jp/word/%E8%A7%A3%E3%81%91%E3%82%8B-583087"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l020",
+      "field": "grammarCards.2.grammarStructureZh",
+      "old": "形容词否定意义＋解释",
+      "new": "形容词＋んだ（解释）",
+      "confidence": 0.99,
+      "evidence": [
+        "「無い」在这些句子中为表示不存在的形容词，后接のだ的口语缩约んだ；结构行直接展示接续，不把它误当动词否定后缀。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l021",
+      "field": "grammarCards.2.grammarStructureZh",
+      "old": "形容词否定意义＋解释",
+      "new": "形容词＋んだ（解释）",
+      "confidence": 0.99,
+      "evidence": [
+        "「無い」在这些句子中为表示不存在的形容词，后接のだ的口语缩约んだ；结构行直接展示接续，不把它误当动词否定后缀。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l037",
+      "field": "grammarCards.2.grammarStructureZh",
+      "old": "形容词否定意义＋解释",
+      "new": "形容词＋んだ（解释）",
+      "confidence": 0.99,
+      "evidence": [
+        "「無い」在这些句子中为表示不存在的形容词，后接のだ的口语缩约んだ；结构行直接展示接续，不把它误当动词否定后缀。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l041",
+      "field": "grammarCards.5.grammarStructureZh",
+      "old": "形容词否定意义＋解释",
+      "new": "形容词＋んだ（解释）",
+      "confidence": 0.99,
+      "evidence": [
+        "「無い」在这些句子中为表示不存在的形容词，后接のだ的口语缩约んだ；结构行直接展示接续，不把它误当动词否定后缀。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l024",
+      "field": "grammarCards.1.grammarStructureZh",
+      "old": "复合动词＋ても",
+      "new": "动词て形＋も（让步）",
+      "confidence": 0.99,
+      "evidence": [
+        "かき乱す→かき乱して＋も；此句承认假设动作仍不能改变后项结果，为让步条件。两次重复统一。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l044",
+      "field": "grammarCards.1.grammarStructureZh",
+      "old": "复合动词＋ても",
+      "new": "动词て形＋も（让步）",
+      "confidence": 0.99,
+      "evidence": [
+        "かき乱す→かき乱して＋も；此句承认假设动作仍不能改变后项结果，为让步条件。两次重复统一。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l025",
+      "field": "grammarCards.2.functionZh",
+      "old": "连接归咎的对象",
+      "new": "连接名词与原因表达",
+      "confidence": 0.99,
+      "evidence": [
+        "「地図の所為」中的の先把名词地図与原因名词所為连接；主观归咎的完整意义由「～のせいにする」表达，不是の单独表达。",
+        "小学館《デジタル大辞泉》「所為」及「人の所為にする」用例：https://kotobank.jp/word/%E6%89%80%E7%82%BA-530273"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l025",
+      "field": "grammarCards.3.grammarStructureZh",
+      "old": "固定短语（て形）",
+      "new": "せいにする的て形",
+      "confidence": 0.99,
+      "evidence": [
+        "明确原型「～のせいにする」，して为する的て形；主语把处境归咎于地图，不等同于客观确认地图是原因。",
+        "小学館《デジタル大辞泉》「所為」：https://kotobank.jp/word/%E6%89%80%E7%82%BA-530273"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l026",
+      "field": "grammarCards.0.grammarStructureZh",
+      "old": "固定短语＋ている",
+      "new": "惯用语＋ています",
+      "confidence": 0.99,
+      "evidence": [
+        "整体保留「途方に暮れる」，ている表当前困惑状态，ます使其为礼貌形；不按暮れる的字面日暮解释。",
+        "小学館《デジタル大辞泉》「途方に暮れる」：https://kotobank.jp/word/%E9%80%94%E6%96%B9%E3%81%AB%E6%9A%AE%E3%82%8C%E3%82%8B-584720"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l027",
+      "field": "grammarCards.0.grammarStructureZh",
+      "old": "动词た形＋として",
+      "new": "た形＋として（假定）",
+      "confidence": 0.99,
+      "evidence": [
+        "「強がったとする」为假定逞强这件事，として接续后项结果；这里不是「以某种身份」的として。后项结果仍一样使整句获得让步语气。",
+        "小学館《デジタル大辞泉》「とする」第1义：https://kotobank.jp/word/%E3%81%A8%E3%81%99%E3%82%8B-583657"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l029",
+      "field": "grammarCards.0.grammarStructureZh",
+      "old": "动词＋そう＋ほど",
+      "new": "词干＋そうな＋ほど",
+      "confidence": 0.99,
+      "evidence": [
+        "溢れだす去ます词干溢れだし接样态そうだ，其连体形そうな接程度ほど；不是辞书形接传闻そうだ。",
+        "小学館《デジタル大辞泉》「そうだ」第1义及连体形そうな：https://kotobank.jp/word/%E3%81%9D%E3%81%86%E3%81%A0-552810"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l029",
+      "field": "grammarCards.1.grammarStructureZh",
+      "old": "复合动词（过去）",
+      "new": "动词た形（连体修饰）",
+      "confidence": 0.98,
+      "evidence": [
+        "「溢れだしそうなほど詰め込んだ」跨QRC行修饰l030的「他人の箱」；此处た形不能只标为独立完成的过去叙述。l029结束101833 ms，l030开始102059 ms，换行不截断该修饰关系。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l029",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "塞满了；强塞进去",
+      "new": "塞得满满的",
+      "confidence": 0.98,
+      "evidence": [
+        "用中文「的」提示对后续箱子的修饰；保留詰め込む的塞入/装满含义，不补写是谁装箱，更不自行添加「自己的箱子」。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l030",
+      "field": "grammarCards.4.grammarStructureZh",
+      "old": "名词＋に（状态）",
+      "new": "～を横目に（惯用）",
+      "confidence": 0.99,
+      "evidence": [
+        "此处学习单位为「～を横目に」固定搭配；与前卡を配套，而非自由的名词＋に状态用法。保留现有卡片边界。",
+        "小学館《デジタル大辞泉》「横目」第2义：https://kotobank.jp/word/%E6%A8%AA%E7%9B%AE-146080"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l033",
+      "field": "grammarCards.2.functionZh",
+      "old": "突出唯一关键条件",
+      "new": "与ば呼应，限定条件",
+      "confidence": 0.99,
+      "evidence": [
+        "「空欄さえなければ」里的さえ与条件ば呼应，强调只要没有这片空白的条件；不能只按「甚至」逐词替换。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l038",
+      "field": "grammarCards.1.grammarStructureZh",
+      "old": "解释＋疑问",
+      "new": "の＋か（选择疑问）",
+      "confidence": 0.98,
+      "evidence": [
+        "跨l038–l039组成「無くなったのか、始まったのか、分からない」；两个のか列出说话者不能确定的选项，并嵌入分からない，而非两个独立向对方求答的问题。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l039",
+      "field": "grammarCards.1.grammarStructureZh",
+      "old": "解释＋疑问",
+      "new": "の＋か（选择疑问）",
+      "confidence": 0.98,
+      "evidence": [
+        "跨l038–l039组成「無くなったのか、始まったのか、分からない」；两个のか列出说话者不能确定的选项，并嵌入分からない，而非两个独立向对方求答的问题。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l038",
+      "field": "grammarCards.1.functionZh",
+      "old": "提出疑问或不确定选项",
+      "new": "列出不确定的选项",
+      "confidence": 0.99,
+      "evidence": [
+        "依据后一帧「始まったのか分からない」明确选择疑问范围，不把l038误作独立问句。"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l040",
+      "field": "grammarCards.0.grammarStructureZh",
+      "old": "动词＋しか（否定呼应）",
+      "new": "～しか…ない（限定）",
+      "confidence": 0.99,
+      "evidence": [
+        "行くしか与后面的無い构成不连续限定结构，方法は位于其间；全句排除前进以外的方法。保留原分词，不连并非相邻字符。",
+        "小学館《デジタル大辞泉》「しか」说明与否定呼应并排除所指以外的事物：https://kotobank.jp/word/%E3%81%97%E3%81%8B-517067"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l041",
+      "field": "grammarCards.1.functionZh",
+      "old": "提示反问所针对的对象",
+      "new": "标示被评价的主语",
+      "confidence": 0.99,
+      "evidence": [
+        "が的句法功能仍是主语标记，反问/轻视由「何だ」及语境表达；避免把主语讲成宾语式对象。",
+        "小学館《デジタル大辞泉》「何だ」第4义举出相同「名词が何だ」构式，表示不把该事物当回事：https://kotobank.jp/word/%E4%BD%95%E3%81%A0-590583"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l045",
+      "field": "grammarCards.0.grammarStructureZh",
+      "old": "疑问副词＋动词ても",
+      "new": "疑问词＋ても（让步）",
+      "confidence": 0.99,
+      "evidence": [
+        "「どう＋足掻いても」表示不论如何挣扎，后项仍不改变；结构行强调疑问词与ても形成的无条件让步。"
+      ],
+      "changesTokenStructure": false
+    }
+  ],
+  "reviewSummary": {
+    "reviewedFrameCount": 45,
+    "reviewedCardCount": 151,
+    "status": "proposal-only",
+    "allCardsWereDraft": true,
+    "tokenBoundariesChanged": false,
+    "note": "已逐帧复审全部151张卡的结构、助词功能、活用、固定搭配与跨行关系；未提案字段表示本角色未发现必改问题，不表示人工确认。保留所有原文、时序、读音、渲染设置和状态。"
+  },
+  "reviewNotes": [
+    {
+      "frameIds": [
+        "l009"
+      ],
+      "status": "integration-attention",
+      "note": "「教科書通りとはよく言ったもので」评价被引用说法贴切，不是建议只需遵循课本；整句译文应交翻译角色修正。是否带反讽属诠释，本角色不强制定性。"
+    },
+    {
+      "frameIds": [
+        "l012"
+      ],
+      "status": "待核",
+      "note": "解けますか的自动词/可能形细分仍有歧义；提案采用中性「解ける＋礼貌疑问」，不以低把握分析取代现有自动词说法。"
+    },
+    {
+      "frameIds": [
+        "l013",
+        "l014",
+        "l015"
+      ],
+      "status": "integration-attention",
+      "note": "いつの日か卡片的「总有一天；某一天」可保留；这里的か构成不定时间，不应仅因行末换行译成独立「究竟要到何时」。"
+    },
+    {
+      "frameIds": [
+        "l023"
+      ],
+      "status": "integration-attention",
+      "note": "であって为断定である的て形，承接「我一生都是我」与「仅此而已」，不是让步であっても；整句不要仅靠原译文推断成意志性「活出」。原结构正确，未修改。"
+    },
+    {
+      "frameIds": [
+        "l025",
+        "l026"
+      ],
+      "status": "integration-attention",
+      "note": "せいにして表示主观把困境怪罪于地图；原译文「我们因这张无用的地图才…」把归咎错误改成客观因果，需翻译角色处理。"
+    },
+    {
+      "frameIds": [
+        "l029",
+        "l030"
+      ],
+      "status": "integration-attention",
+      "note": "连体修饰中心语为他人の箱；詰め込んだ的施事省略，不能仅凭此确定是谁装箱。其他人的箱子被塞得将溢出，与说话者的空箱意象对照。若词汇角色拆分l029首卡，须按原卡token重定位本角色字段。"
+    },
+    {
+      "frameIds": [
+        "l030"
+      ],
+      "status": "待核",
+      "note": "横目に可兼具瞥视与不理会含义；在与他人比较的歌词中不宜强行升级为轻蔑/鄙视。原词义「斜眼看着；侧目而视」暂保留，译法交跨句整合。"
+    },
+    {
+      "frameIds": [
+        "l040"
+      ],
+      "status": "reviewed",
+      "note": "しか与ない的否定呼应跨越方法は，但仍属于同一句。行くしか与無いんだろう的现有词义相容。"
+    },
+    {
+      "frameIds": [
+        "l041"
+      ],
+      "status": "integration-attention",
+      "note": "なんだ是「何＋だ」的反问，不是形容动词解释形「な＋んだ」；原词卡「算什么；又怎样」正确，应改整句译文「正确答案是什么」。依据小学館「何だ」第4义。"
+    },
+    {
+      "frameIds": [
+        "l007",
+        "l009",
+        "l025",
+        "l026",
+        "l030",
+        "l040"
+      ],
+      "status": "integration-attention",
+      "note": "文法提案只修改现有索引的字段。若词汇角色合并を頼りに、とはよく言ったもので等，整合时必须重定位/迁移相应结构，不直接将旧索引套用到新卡序列。"
+    },
+    {
+      "frameIds": [
+        "l011",
+        "l024",
+        "l025",
+        "l044",
+        "l045"
+      ],
+      "status": "reviewed-without-audio",
+      "note": "QRC kana资料支持今日=こんにち、所為=せい、明日=あした；本角色未试听，不宣称实际唱读已确认，读音交词汇角色核查。"
+    }
+  ]
+}

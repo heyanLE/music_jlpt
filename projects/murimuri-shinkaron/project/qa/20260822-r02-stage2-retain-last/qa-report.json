@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "runId": "20260822-r02-stage2-retain-last",
+  "result": "passed",
+  "candidate": "project/work/20260822-r02-stage2-retain-last/murimuri-shinkaron--16x9--20260822-r02-stage2-retain-last.mkv",
+  "candidateSha256": "cac6c2e5ada6a68390cc114e4cfd668da0e220475ec60a0d5c04b010c2c91eab",
+  "probe": {
+    "durationMs": 194933,
+    "video": { "codec": "h264", "width": 1920, "height": 1080, "fps": 30, "cfr": true },
+    "audio": { "codec": "flac", "sampleRate": 96000, "channels": 2, "bitDepth": 24, "policy": "stream-copy" }
+  },
+  "timing": { "qrcFullMatches": 96, "qrcUnmatched": 0, "highlightMode": "token" },
+  "scenes": {
+    "stage1": "source/background-stage1.mp4, source audio muted, height-centre pillarbox",
+    "switchAtMs": 89899,
+    "stage2": "source/cover.jpg, Gaussian blur, background only",
+    "stage2Foreground": "retain the last complete foreground state through gaps until the next lyric starts"
+  },
+  "layers": { "veil": "lyric-only in stage 1; retained with the foreground in stage 2", "textOutline": "black exterior", "spectrum": "transparent, persistent, above foreground" },
+  "screenshots": [
+    "frame-0_5.png",
+    "frame-89_0.png",
+    "frame-90_0.png",
+    "frame-100_2.png",
+    "frame-190_5.png",
+    "transition-contact-sheet.png"
+  ],
+  "checks": {
+    "stage1GapPolicy": "passed: no foreground in the 0.5 s and 89.0 s gaps while the spectrum remains",
+    "stage2RetainAtTransition": "passed: the prior complete line is present at 90.0 s",
+    "nextLineReplacement": "passed: the 100.2 s line replaces the retained state",
+    "finalGapRetention": "passed: the last line persists at 190.5 s",
+    "cardWrapping": "passed: maximum seven cards and no clipped meaning/function text",
+    "blackSpectrumBackdrop": "passed: absent"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "template": {"id": "study-v1", "sha256": "f915e4437473692d0c0f0f27b07b447ea9eec61aba578bfa6b6adb7bbd0d412e"},
+  "canvas": {"width": 1920, "height": 1080, "fps": 30},
+  "font": {"path": "C:/Windows/Fonts/msyhbd.ttc", "weight": 700, "glyphCheck": "passed"},
+  "colors": {"body": "#FFFFFF", "active": "#978D8E", "cardFill": "#11151DEB", "cardOutline": "#978D8E"},
+  "rects": {"coverPx": [851, 35, 221, 220], "cardsPx": [94, 600, 1732, 249]},
+  "lyric": {"maxWidthPx": 1728, "overflow": "shrink-then-wrap", "minimumFontScale": 0.76},
+  "cards": {"gapPx": 12, "fieldLayout": "independent-fields", "meaningMaxLines": 2, "overflow": "wrap-or-fail"}
+}

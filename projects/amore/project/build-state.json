@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "state": "delivered",
+  "runId": "20260822-r03-background-onset-aligned",
+  "completed": ["inputs_confirmed", "setup_complete", "draft_ready", "review_approved"],
+  "next": "complete",
+  "activeFiles": { "sourceManifest": "source/source-manifest.json", "inputManifest": "project/input-manifest.json", "presentation": "project/presentation.json", "sceneTimeline": "project/scene-timeline.json", "frames": "project/frames.json", "palette": "project/palette.json", "structureReport": "project/qa/structure-report.json", "layoutReport": "project/qa/layout-report.json", "review": "deliverables/review/amore-review-approved.md", "assistedReview": "project/review/assisted-review-manifest.json", "mergeLog": "project/review/merge-log.json", "reviewDecision": "project/review/review-decision.json" },
+  "note": "QA passed and r03 delivered. Background onset measured at 3.183208 seconds; FLAC packets, QRC-driven foreground and spectrum are shifted by 3183 ms. FLAC is copied without re-encoding."
+}

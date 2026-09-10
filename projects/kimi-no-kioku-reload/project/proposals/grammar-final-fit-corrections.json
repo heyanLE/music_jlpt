@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "grammar",
+  "scope": {
+    "frameIds": ["l012", "l028", "l032", "l044", "l055"]
+  },
+  "baseFrameSha256": "7c0c8d02c6c94d9c80cce49dcab8ffdcf630ef9f288ed00246aa2db013e69ed4",
+  "changes": [
+    {
+      "frameId": "l012",
+      "field": "grammarCards[6].grammarStructureZh",
+      "old": "接续助词「で」（动词て形词尾）",
+      "new": "接续助词・て形词尾",
+      "confidence": 0.99,
+      "evidence": ["保留「で」在「たたんで」中作为动词て形词尾的分析，并去除重复显示的词面。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l028",
+      "field": "grammarCards[6].grammarStructureZh",
+      "old": "一段动词「続ける」て形（复合动词后项）",
+      "new": "一段动词て形・复合后项",
+      "confidence": 0.99,
+      "evidence": ["保留一段动词、て形及复合动词后项三项语法信息；词面已显示「続けて」。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l032",
+      "field": "grammarCards[5].grammarStructureZh",
+      "old": "五段动词「知る」文语否定连用形「知らず」",
+      "new": "五段动词・ず否定形",
+      "confidence": 0.99,
+      "evidence": ["「知らず」是「知る」接文语否定助动词「ず」的形式；短标签保留动词类别与否定结构。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l044",
+      "field": "grammarCards[6].grammarStructureZh",
+      "old": "接续助词「で」（动词て形词尾）",
+      "new": "接续助词・て形词尾",
+      "confidence": 0.99,
+      "evidence": ["与重复帧 l012 保持相同的精简标签。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l055",
+      "field": "grammarCards[5].grammarStructureZh",
+      "old": "五段动词「知る」文语否定连用形「知らず」",
+      "new": "五段动词・ず否定形",
+      "confidence": 0.99,
+      "evidence": ["与重复帧 l032 保持相同的精简标签。"],
+      "changesTokenStructure": false
+    }
+  ]
+}

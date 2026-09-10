@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "stage": "draft_ready",
+  "renderAuthorization": false,
+  "notes": [
+    "Sources frozen; choose preset, spectrum and alignment with configure_layers.py.",
+    "Layer configuration resolved by configure_layers.py: video-then-gaussian-hybrid; spectrum=off; offsetMs=0.",
+    "Draft frames generated from decoded QQ Music timing; ready for assisted review.",
+    "Review approved; user authorization received.",
+    "Layer configuration resolved by configure_layers.py: video-then-gaussian-hybrid; spectrum=on; offsetMs=0.",
+    "Reissued review decision for multi-role assisted-review intent and accepted baseline draft.",
+    "Returned to card draft workflow; generated manual placeholder cards for Japanese lyric lines; awaiting content decision replay."
+  ],
+  "draftTimestamp": "2026-08-23T07:20:16.9155105Z",
+  "reviewTimestamp": null
+}

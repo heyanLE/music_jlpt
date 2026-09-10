@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "slug": "kanjou-glass",
+  "series": "快速学唱",
+  "title": "感情グラス",
+  "artist": "上伊那ぼたん（CV. 鈴代紗弓）",
+  "subtitle": "上伊那牡丹 ED",
+  "subtitleScale": 2.0,
+  "benefits": [
+    "歌词同步高亮",
+    "假名注释",
+    "罗马音",
+    "逐词拆解"
+  ],
+  "badge": {
+    "enabled": true,
+    "asset": "../assets/hi-res-audio-logo.png",
+    "scale": 1.44
+  },
+  "outputs": [
+    {
+      "name": "16x9",
+      "width": 1920,
+      "height": 1080,
+      "artworkFocus": "center"
+    },
+    {
+      "name": "4x3",
+      "width": 1440,
+      "height": 1080,
+      "artworkFocus": "center"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "clock": "audio",
+  "segments": [
+    {
+      "id": "stage1-op-video",
+      "startMs": 0,
+      "endMs": 89899,
+      "mode": "video-clip",
+      "asset": "source/background-stage1.mp4",
+      "fit": "height-center-pillarbox",
+      "sourceAudio": "mute",
+      "transitionIn": { "kind": "none", "durationMs": 0 },
+      "transitionOut": { "kind": "none", "durationMs": 0 }
+    },
+    {
+      "id": "stage2-cover-gaussian",
+      "startMs": 89899,
+      "endMs": "audio-end",
+      "mode": "cover-gaussian",
+      "asset": "source/cover.jpg",
+      "fit": "fill-crop-allowed-background-only",
+      "foregroundPolicy": "retain-last-frame",
+      "transitionIn": { "kind": "none", "durationMs": 0 },
+      "transitionOut": { "kind": "none", "durationMs": 0 }
+    }
+  ]
+}

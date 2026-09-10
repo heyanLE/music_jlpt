@@ -1,0 +1,16 @@
+{
+  "userWording": "??????????",
+  "frameSha256": "59f423fee8b6109ed6231559addf887623f08be47bc546ee5bc3be12ed2ff084",
+  "sourceHashes": {
+    "background.mp4": "e1ef03f123fe9fae58ac22e224037733d6f9d3a999cf4dd9c2159d4d7d31ba1a",
+    "lyrics.qm.qrc": "644a23575e396295d59f483fe7e41af7740a02455b7f67e206b19218887e443d",
+    "lyrics.qmRoma.qrc": "c56baa0a315d167b56ccbae3f7cb63a450e8c3b923fdda5330fa2eb5830535c7",
+    "lyrics.qmts.qrc": "04e5a767122ac3d518281e822aad76237896afd3f1c648b5ae7264abe9ee6742",
+    "music.mp3": "96176ccf9ffbd80a76d64d38f05e6889d6f835d9d8238211ea71ae205ead5778"
+  },
+  "templateHashes": {
+    "foreground.json": "f915e4437473692d0c0f0f27b07b447ea9eec61aba578bfa6b6adb7bbd0d412e",
+    "background.json": "f361455331d7d5dad83dfaad9911f0c4002e00c508ad9c60db6c1dc05748174e"
+  },
+  "layoutSha256": "fa72fe2e135411e2e25006eb02c659fa025e4320d825dbaa350b5287ab90d46e"
+}

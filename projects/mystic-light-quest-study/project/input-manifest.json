@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 4,
+  "slug": "mystic-light-quest-study",
+  "runId": "inputs-v1",
+  "stage": "inputs_pending",
+  "music": {
+    "asset": "source/music.flac",
+    "preserveCodec": true,
+    "clock": "music",
+    "origin": "lossless-conversion-from-frozen-wav"
+  },
+  "cover": {
+    "asset": "source/cover.jpg",
+    "origin": "video frame at 80s, crop 1080x1080 x=540 y=0; WAV has no attached picture"
+  },
+  "lyrics": {
+    "format": "qq-music",
+    "qm": "source/lyrics_qm.qrc",
+    "qmRoma": "source/lyrics_qmRoma.qrc",
+    "qmts": "source/lyrics_qmts.qrc"
+  },
+  "backgroundAsset": "source/background-trimmed.mp4",
+  "alignment": {
+    "method": "none",
+    "offsetMs": 0,
+    "definition": "signed output timestamp assigned to music time zero",
+    "appliesTo": [
+      "music",
+      "lyrics",
+      "spectrum"
+    ],
+    "backgroundClock": "output",
+    "evidence": "explicit-none"
+  },
+  "outputs": [
+    {
+      "name": "16x9",
+      "width": 1920,
+      "height": 1080,
+      "fps": 30
+    }
+  ],
+  "pipelinePreset": "video-loop-follow"
+}

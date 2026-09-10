@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "mode": "mandatory-multi-agent",
+  "status": "completed",
+  "sealedAt": "2026-09-08T17:00:58.791829+00:00",
+  "baseFrameSha256": "e661777b0d81f1d153833da14a440e1fd566f9ebf13bf75192a24a67200826f8",
+  "roles": [
+    "grammar",
+    "lexical",
+    "translation"
+  ],
+  "proposalFiles": [
+    {
+      "role": "lexical",
+      "file": "project/proposals/lexical.json",
+      "sha256": "1b986dfec6daafca1f2738c43f36d3e915281fa925623e0cfcd9e0862dee7315"
+    },
+    {
+      "role": "grammar",
+      "file": "project/proposals/grammar.json",
+      "sha256": "be99e5c76284e017b25b640cb90c873e5503f537d5c067f92ddfcb34a98ab8ae"
+    },
+    {
+      "role": "translation",
+      "file": "project/proposals/translation.json",
+      "sha256": "0b4c67c2e4b7a286cc416798f9c40b099580db60680fd75e69dd9496c4ea174a"
+    }
+  ],
+  "integration": {
+    "file": "project/review/integration-report.json",
+    "sha256": "e86915920544b842013209779db4a92b84dfc7e4404a3fcfaf5292cd4d1fe5de"
+  },
+  "next": "explicit-user-content-decision"
+}

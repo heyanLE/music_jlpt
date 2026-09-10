@@ -1,0 +1,3053 @@
+{
+  "schemaVersion": 3,
+  "frames": [
+    {
+      "id": "l001",
+      "startMs": 6523,
+      "endMs": 11976,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "水面の波紋から 顔逸らしたのは",
+          "qrcParts": [
+            {
+              "text": "水面",
+              "startMs": 6523,
+              "endMs": 7429,
+              "durationMs": 906
+            },
+            {
+              "text": "の",
+              "startMs": 7429,
+              "endMs": 7924,
+              "durationMs": 495
+            },
+            {
+              "text": "波",
+              "startMs": 7924,
+              "endMs": 8147,
+              "durationMs": 223
+            },
+            {
+              "text": "紋",
+              "startMs": 8147,
+              "endMs": 8675,
+              "durationMs": 528
+            },
+            {
+              "text": "か",
+              "startMs": 8675,
+              "endMs": 8891,
+              "durationMs": 216
+            },
+            {
+              "text": "ら",
+              "startMs": 8891,
+              "endMs": 9163,
+              "durationMs": 272
+            },
+            {
+              "text": " ",
+              "startMs": 9163,
+              "endMs": 9163,
+              "durationMs": 0
+            },
+            {
+              "text": "顔",
+              "startMs": 9403,
+              "endMs": 10092,
+              "durationMs": 689
+            },
+            {
+              "text": "逸",
+              "startMs": 10092,
+              "endMs": 10347,
+              "durationMs": 255
+            },
+            {
+              "text": "ら",
+              "startMs": 10347,
+              "endMs": 10732,
+              "durationMs": 385
+            },
+            {
+              "text": "し",
+              "startMs": 10732,
+              "endMs": 10932,
+              "durationMs": 200
+            },
+            {
+              "text": "た",
+              "startMs": 10932,
+              "endMs": 11131,
+              "durationMs": 199
+            },
+            {
+              "text": "の",
+              "startMs": 11131,
+              "endMs": 11452,
+              "durationMs": 321
+            },
+            {
+              "text": "は",
+              "startMs": 11452,
+              "endMs": 11976,
+              "durationMs": 524
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "水面の波紋から 顔逸らしたのは",
+        "furigana": [],
+        "romaji": "mi na mo no ha mo n ka ra  ka o so ra shi ta no ha ",
+        "translationZh": "转过头不再去看水面泛起的波纹"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l002",
+      "startMs": 12336,
+      "endMs": 17785,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "私の心 揺らいだの隠したくて",
+          "qrcParts": [
+            {
+              "text": "私",
+              "startMs": 12336,
+              "endMs": 13079,
+              "durationMs": 743
+            },
+            {
+              "text": "の",
+              "startMs": 13079,
+              "endMs": 13273,
+              "durationMs": 194
+            },
+            {
+              "text": "心",
+              "startMs": 13273,
+              "endMs": 14266,
+              "durationMs": 993
+            },
+            {
+              "text": " ",
+              "startMs": 14266,
+              "endMs": 14266,
+              "durationMs": 0
+            },
+            {
+              "text": "揺",
+              "startMs": 14506,
+              "endMs": 14714,
+              "durationMs": 208
+            },
+            {
+              "text": "ら",
+              "startMs": 14714,
+              "endMs": 15105,
+              "durationMs": 391
+            },
+            {
+              "text": "い",
+              "startMs": 15105,
+              "endMs": 15298,
+              "durationMs": 193
+            },
+            {
+              "text": "だ",
+              "startMs": 15298,
+              "endMs": 15483,
+              "durationMs": 185
+            },
+            {
+              "text": "の",
+              "startMs": 15483,
+              "endMs": 15970,
+              "durationMs": 487
+            },
+            {
+              "text": "隠",
+              "startMs": 15970,
+              "endMs": 16498,
+              "durationMs": 528
+            },
+            {
+              "text": "し",
+              "startMs": 16498,
+              "endMs": 16714,
+              "durationMs": 216
+            },
+            {
+              "text": "た",
+              "startMs": 16714,
+              "endMs": 17041,
+              "durationMs": 327
+            },
+            {
+              "text": "く",
+              "startMs": 17041,
+              "endMs": 17249,
+              "durationMs": 208
+            },
+            {
+              "text": "て",
+              "startMs": 17249,
+              "endMs": 17785,
+              "durationMs": 536
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "私の心 揺らいだの隠したくて",
+        "furigana": [],
+        "romaji": "wa ta shi no ko ko ro  yu ra i da no ka ku shi ta ku te ",
+        "translationZh": "因为我想隐藏心中的那份动摇"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l003",
+      "startMs": 18185,
+      "endMs": 23693,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "あなたと並んでるだけの心臓が",
+          "qrcParts": [
+            {
+              "text": "あ",
+              "startMs": 18185,
+              "endMs": 18386,
+              "durationMs": 201
+            },
+            {
+              "text": "な",
+              "startMs": 18386,
+              "endMs": 18874,
+              "durationMs": 488
+            },
+            {
+              "text": "た",
+              "startMs": 18874,
+              "endMs": 19098,
+              "durationMs": 224
+            },
+            {
+              "text": "と",
+              "startMs": 19098,
+              "endMs": 19595,
+              "durationMs": 497
+            },
+            {
+              "text": "並",
+              "startMs": 19595,
+              "endMs": 20078,
+              "durationMs": 483
+            },
+            {
+              "text": "ん",
+              "startMs": 20078,
+              "endMs": 20337,
+              "durationMs": 259
+            },
+            {
+              "text": "で",
+              "startMs": 20338,
+              "endMs": 20554,
+              "durationMs": 216
+            },
+            {
+              "text": "る",
+              "startMs": 20554,
+              "endMs": 20851,
+              "durationMs": 297
+            },
+            {
+              "text": "だ",
+              "startMs": 21107,
+              "endMs": 21315,
+              "durationMs": 208
+            },
+            {
+              "text": "け",
+              "startMs": 21315,
+              "endMs": 21786,
+              "durationMs": 471
+            },
+            {
+              "text": "の",
+              "startMs": 21786,
+              "endMs": 22033,
+              "durationMs": 247
+            },
+            {
+              "text": "心",
+              "startMs": 22033,
+              "endMs": 22570,
+              "durationMs": 537
+            },
+            {
+              "text": "臓",
+              "startMs": 22570,
+              "endMs": 23105,
+              "durationMs": 535
+            },
+            {
+              "text": "が",
+              "startMs": 23105,
+              "endMs": 23693,
+              "durationMs": 588
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "あなたと並んでるだけの心臓が",
+        "furigana": [],
+        "romaji": "a na ta to na ra n de ru da ke no shi n zo u ga ",
+        "translationZh": "仅是因为与你并肩而立 我的心"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l004",
+      "startMs": 24371,
+      "endMs": 28324,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "火照りやまない",
+          "qrcParts": [
+            {
+              "text": "火",
+              "startMs": 24371,
+              "endMs": 24779,
+              "durationMs": 408
+            },
+            {
+              "text": "照",
+              "startMs": 24779,
+              "endMs": 24988,
+              "durationMs": 209
+            },
+            {
+              "text": "り",
+              "startMs": 24988,
+              "endMs": 25492,
+              "durationMs": 504
+            },
+            {
+              "text": "や",
+              "startMs": 25492,
+              "endMs": 25860,
+              "durationMs": 368
+            },
+            {
+              "text": "ま",
+              "startMs": 25860,
+              "endMs": 26243,
+              "durationMs": 383
+            },
+            {
+              "text": "な",
+              "startMs": 26243,
+              "endMs": 27987,
+              "durationMs": 1744
+            },
+            {
+              "text": "い",
+              "startMs": 27987,
+              "endMs": 28324,
+              "durationMs": 337
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "火照りやまない",
+        "furigana": [],
+        "romaji": "ho te ri ya ma na i ",
+        "translationZh": "便燥热到难以平息"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l005",
+      "startMs": 28771,
+      "endMs": 31393,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "酔い 吐息 はにかんで",
+          "qrcParts": [
+            {
+              "text": "酔",
+              "startMs": 28771,
+              "endMs": 28956,
+              "durationMs": 185
+            },
+            {
+              "text": "い",
+              "startMs": 28956,
+              "endMs": 29147,
+              "durationMs": 191
+            },
+            {
+              "text": " ",
+              "startMs": 29147,
+              "endMs": 29147,
+              "durationMs": 0
+            },
+            {
+              "text": "吐",
+              "startMs": 29147,
+              "endMs": 29339,
+              "durationMs": 192
+            },
+            {
+              "text": "息",
+              "startMs": 29339,
+              "endMs": 29843,
+              "durationMs": 504
+            },
+            {
+              "text": " ",
+              "startMs": 29843,
+              "endMs": 29843,
+              "durationMs": 0
+            },
+            {
+              "text": "は",
+              "startMs": 30187,
+              "endMs": 30387,
+              "durationMs": 200
+            },
+            {
+              "text": "に",
+              "startMs": 30387,
+              "endMs": 30596,
+              "durationMs": 209
+            },
+            {
+              "text": "か",
+              "startMs": 30596,
+              "endMs": 30795,
+              "durationMs": 199
+            },
+            {
+              "text": "ん",
+              "startMs": 30796,
+              "endMs": 30995,
+              "durationMs": 199
+            },
+            {
+              "text": "で",
+              "startMs": 30995,
+              "endMs": 31393,
+              "durationMs": 398
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "酔い 吐息 はにかんで",
+        "furigana": [],
+        "romaji": "yo i  to i ki  ha ni ka n de ",
+        "translationZh": "微醺 轻叹 带着些许羞涩"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l006",
+      "startMs": 31681,
+      "endMs": 34384,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "柔い夢を見て",
+          "qrcParts": [
+            {
+              "text": "柔",
+              "startMs": 31681,
+              "endMs": 32585,
+              "durationMs": 904
+            },
+            {
+              "text": "い",
+              "startMs": 32585,
+              "endMs": 32809,
+              "durationMs": 224
+            },
+            {
+              "text": "夢",
+              "startMs": 32809,
+              "endMs": 33545,
+              "durationMs": 736
+            },
+            {
+              "text": "を",
+              "startMs": 33545,
+              "endMs": 33761,
+              "durationMs": 216
+            },
+            {
+              "text": "見",
+              "startMs": 33761,
+              "endMs": 34081,
+              "durationMs": 320
+            },
+            {
+              "text": "て",
+              "startMs": 34081,
+              "endMs": 34384,
+              "durationMs": 303
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "柔い夢を見て",
+        "furigana": [],
+        "romaji": "ya wa i yu me wo mi te ",
+        "translationZh": "深陷柔软的梦境"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l007",
+      "startMs": 34633,
+      "endMs": 40235,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "袖触れて 満ち引いて 目が合った",
+          "qrcParts": [
+            {
+              "text": "袖",
+              "startMs": 34633,
+              "endMs": 35001,
+              "durationMs": 368
+            },
+            {
+              "text": "触",
+              "startMs": 35001,
+              "endMs": 35185,
+              "durationMs": 184
+            },
+            {
+              "text": "れ",
+              "startMs": 35185,
+              "endMs": 35392,
+              "durationMs": 207
+            },
+            {
+              "text": "て",
+              "startMs": 35392,
+              "endMs": 35705,
+              "durationMs": 313
+            },
+            {
+              "text": " ",
+              "startMs": 35705,
+              "endMs": 35705,
+              "durationMs": 0
+            },
+            {
+              "text": "満",
+              "startMs": 36040,
+              "endMs": 36233,
+              "durationMs": 193
+            },
+            {
+              "text": "ち",
+              "startMs": 36233,
+              "endMs": 36449,
+              "durationMs": 216
+            },
+            {
+              "text": "引",
+              "startMs": 36449,
+              "endMs": 36603,
+              "durationMs": 154
+            },
+            {
+              "text": "い",
+              "startMs": 36603,
+              "endMs": 36858,
+              "durationMs": 255
+            },
+            {
+              "text": "て",
+              "startMs": 36858,
+              "endMs": 37163,
+              "durationMs": 305
+            },
+            {
+              "text": " ",
+              "startMs": 37163,
+              "endMs": 37163,
+              "durationMs": 0
+            },
+            {
+              "text": "目",
+              "startMs": 37506,
+              "endMs": 37899,
+              "durationMs": 393
+            },
+            {
+              "text": "が",
+              "startMs": 37899,
+              "endMs": 38291,
+              "durationMs": 392
+            },
+            {
+              "text": "合",
+              "startMs": 38676,
+              "endMs": 39035,
+              "durationMs": 359
+            },
+            {
+              "text": "っ",
+              "startMs": 39035,
+              "endMs": 39394,
+              "durationMs": 359
+            },
+            {
+              "text": "た",
+              "startMs": 39395,
+              "endMs": 40235,
+              "durationMs": 840
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "袖触れて 満ち引いて 目が合った",
+        "furigana": [],
+        "romaji": "so de fu re te  mi chi hi i te  me ga a 't ta ",
+        "translationZh": "衣袖轻擦 心潮涨落 与你对上了视线"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l008",
+      "startMs": 40467,
+      "endMs": 42995,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "奥底のまぶしさを",
+          "qrcParts": [
+            {
+              "text": "奥",
+              "startMs": 40467,
+              "endMs": 40844,
+              "durationMs": 377
+            },
+            {
+              "text": "底",
+              "startMs": 40844,
+              "endMs": 41243,
+              "durationMs": 399
+            },
+            {
+              "text": "の",
+              "startMs": 41243,
+              "endMs": 41563,
+              "durationMs": 320
+            },
+            {
+              "text": "ま",
+              "startMs": 41891,
+              "endMs": 42099,
+              "durationMs": 208
+            },
+            {
+              "text": "ぶ",
+              "startMs": 42099,
+              "endMs": 42291,
+              "durationMs": 192
+            },
+            {
+              "text": "し",
+              "startMs": 42291,
+              "endMs": 42490,
+              "durationMs": 199
+            },
+            {
+              "text": "さ",
+              "startMs": 42490,
+              "endMs": 42690,
+              "durationMs": 200
+            },
+            {
+              "text": "を",
+              "startMs": 42690,
+              "endMs": 42995,
+              "durationMs": 305
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "奥底のまぶしさを",
+        "furigana": [],
+        "romaji": "o ku so ko no ma bu shi sa wo ",
+        "translationZh": "你眼眸深处光芒璀璨"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l009",
+      "startMs": 43379,
+      "endMs": 52957,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "一口味わうように 名前を呼ぶ",
+          "qrcParts": [
+            {
+              "text": "一",
+              "startMs": 43379,
+              "endMs": 44107,
+              "durationMs": 728
+            },
+            {
+              "text": "口",
+              "startMs": 44107,
+              "endMs": 44879,
+              "durationMs": 772
+            },
+            {
+              "text": "味",
+              "startMs": 44879,
+              "endMs": 45415,
+              "durationMs": 536
+            },
+            {
+              "text": "わ",
+              "startMs": 45415,
+              "endMs": 45631,
+              "durationMs": 216
+            },
+            {
+              "text": "う",
+              "startMs": 45631,
+              "endMs": 45951,
+              "durationMs": 320
+            },
+            {
+              "text": "よ",
+              "startMs": 45951,
+              "endMs": 46309,
+              "durationMs": 358
+            },
+            {
+              "text": "う",
+              "startMs": 46309,
+              "endMs": 46525,
+              "durationMs": 216
+            },
+            {
+              "text": "に",
+              "startMs": 46525,
+              "endMs": 47044,
+              "durationMs": 519
+            },
+            {
+              "text": " ",
+              "startMs": 47044,
+              "endMs": 47044,
+              "durationMs": 0
+            },
+            {
+              "text": "名",
+              "startMs": 47044,
+              "endMs": 47324,
+              "durationMs": 280
+            },
+            {
+              "text": "前",
+              "startMs": 47573,
+              "endMs": 48821,
+              "durationMs": 1248
+            },
+            {
+              "text": "を",
+              "startMs": 48821,
+              "endMs": 49188,
+              "durationMs": 367
+            },
+            {
+              "text": "呼",
+              "startMs": 49188,
+              "endMs": 49556,
+              "durationMs": 368
+            },
+            {
+              "text": "ぶ",
+              "startMs": 49556,
+              "endMs": 52957,
+              "durationMs": 3401
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "一口味わうように 名前を呼ぶ",
+        "furigana": [],
+        "romaji": "hi to ku chi a ji wa u yo u ni  na ma e wo yo bu ",
+        "translationZh": "似是要浅尝一口般 轻唤着你的名字"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l010",
+      "startMs": 54734,
+      "endMs": 60277,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "喉通ったフレイバーには",
+          "qrcParts": [
+            {
+              "text": "喉",
+              "startMs": 54734,
+              "endMs": 55469,
+              "durationMs": 735
+            },
+            {
+              "text": "通",
+              "startMs": 55469,
+              "endMs": 56178,
+              "durationMs": 709
+            },
+            {
+              "text": "っ",
+              "startMs": 56178,
+              "endMs": 56532,
+              "durationMs": 354
+            },
+            {
+              "text": "た",
+              "startMs": 56533,
+              "endMs": 56774,
+              "durationMs": 241
+            },
+            {
+              "text": "フ",
+              "startMs": 56774,
+              "endMs": 56974,
+              "durationMs": 200
+            },
+            {
+              "text": "レ",
+              "startMs": 56974,
+              "endMs": 57506,
+              "durationMs": 532
+            },
+            {
+              "text": "イ",
+              "startMs": 57506,
+              "endMs": 58038,
+              "durationMs": 532
+            },
+            {
+              "text": "バ",
+              "startMs": 58038,
+              "endMs": 58353,
+              "durationMs": 315
+            },
+            {
+              "text": "ー",
+              "startMs": 58353,
+              "endMs": 59595,
+              "durationMs": 1242
+            },
+            {
+              "text": "に",
+              "startMs": 59595,
+              "endMs": 59882,
+              "durationMs": 287
+            },
+            {
+              "text": "は",
+              "startMs": 59882,
+              "endMs": 60277,
+              "durationMs": 395
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "喉通ったフレイバーには",
+        "furigana": [],
+        "romaji": "no do to o 't ta fu re i ba a ni ha ",
+        "translationZh": "而滑过喉头的那一抹滋味"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l011",
+      "startMs": 60581,
+      "endMs": 66125,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "初めて知る感情あふれ",
+          "qrcParts": [
+            {
+              "text": "初",
+              "startMs": 60581,
+              "endMs": 61316,
+              "durationMs": 735
+            },
+            {
+              "text": "め",
+              "startMs": 61316,
+              "endMs": 61701,
+              "durationMs": 385
+            },
+            {
+              "text": "て",
+              "startMs": 61701,
+              "endMs": 62046,
+              "durationMs": 345
+            },
+            {
+              "text": "知",
+              "startMs": 62046,
+              "endMs": 62389,
+              "durationMs": 343
+            },
+            {
+              "text": "る",
+              "startMs": 62389,
+              "endMs": 62765,
+              "durationMs": 376
+            },
+            {
+              "text": "感",
+              "startMs": 62765,
+              "endMs": 63492,
+              "durationMs": 727
+            },
+            {
+              "text": "情",
+              "startMs": 63492,
+              "endMs": 64213,
+              "durationMs": 721
+            },
+            {
+              "text": "あ",
+              "startMs": 64213,
+              "endMs": 64597,
+              "durationMs": 384
+            },
+            {
+              "text": "ふ",
+              "startMs": 64597,
+              "endMs": 64981,
+              "durationMs": 384
+            },
+            {
+              "text": "れ",
+              "startMs": 64981,
+              "endMs": 66125,
+              "durationMs": 1144
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "初めて知る感情あふれ",
+        "furigana": [],
+        "romaji": "ha ji me te shi ru ka n jo u a fu re ",
+        "translationZh": "让初次体会的感情满溢"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l012",
+      "startMs": 66461,
+      "endMs": 74972,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "あこがれも傷も全て 今",
+          "qrcParts": [
+            {
+              "text": "あ",
+              "startMs": 66461,
+              "endMs": 66813,
+              "durationMs": 352
+            },
+            {
+              "text": "こ",
+              "startMs": 66813,
+              "endMs": 67182,
+              "durationMs": 369
+            },
+            {
+              "text": "が",
+              "startMs": 67182,
+              "endMs": 68269,
+              "durationMs": 1087
+            },
+            {
+              "text": "れ",
+              "startMs": 68269,
+              "endMs": 68663,
+              "durationMs": 394
+            },
+            {
+              "text": "も",
+              "startMs": 68663,
+              "endMs": 69087,
+              "durationMs": 424
+            },
+            {
+              "text": "傷",
+              "startMs": 69366,
+              "endMs": 70080,
+              "durationMs": 714
+            },
+            {
+              "text": "も",
+              "startMs": 70080,
+              "endMs": 70537,
+              "durationMs": 457
+            },
+            {
+              "text": "全",
+              "startMs": 70841,
+              "endMs": 71544,
+              "durationMs": 703
+            },
+            {
+              "text": "て",
+              "startMs": 71544,
+              "endMs": 72737,
+              "durationMs": 1193
+            },
+            {
+              "text": " ",
+              "startMs": 72737,
+              "endMs": 72737,
+              "durationMs": 0
+            },
+            {
+              "text": "今",
+              "startMs": 72737,
+              "endMs": 74972,
+              "durationMs": 2235
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "あこがれも傷も全て 今",
+        "furigana": [],
+        "romaji": "a ko ga re mo ki zu mo su be te  i ma ",
+        "translationZh": "憧憬与伤痕都在此时此刻"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l013",
+      "startMs": 75260,
+      "endMs": 82269,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "溶け込んで 光る",
+          "qrcParts": [
+            {
+              "text": "溶",
+              "startMs": 75260,
+              "endMs": 75597,
+              "durationMs": 337
+            },
+            {
+              "text": "け",
+              "startMs": 75597,
+              "endMs": 75964,
+              "durationMs": 367
+            },
+            {
+              "text": "込",
+              "startMs": 75964,
+              "endMs": 76560,
+              "durationMs": 596
+            },
+            {
+              "text": "ん",
+              "startMs": 76560,
+              "endMs": 77156,
+              "durationMs": 596
+            },
+            {
+              "text": "で",
+              "startMs": 77157,
+              "endMs": 77717,
+              "durationMs": 560
+            },
+            {
+              "text": " ",
+              "startMs": 77717,
+              "endMs": 77717,
+              "durationMs": 0
+            },
+            {
+              "text": "光",
+              "startMs": 77717,
+              "endMs": 79253,
+              "durationMs": 1536
+            },
+            {
+              "text": "る",
+              "startMs": 79253,
+              "endMs": 82269,
+              "durationMs": 3016
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "溶け込んで 光る",
+        "furigana": [],
+        "romaji": "to ke ko n de  hi ka ru ",
+        "translationZh": "交织相融 璀璨闪耀"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l014",
+      "startMs": 85469,
+      "endMs": 88189,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "グラスを透かしては",
+          "qrcParts": [
+            {
+              "text": "グ",
+              "startMs": 85469,
+              "endMs": 85677,
+              "durationMs": 208
+            },
+            {
+              "text": "ラ",
+              "startMs": 85677,
+              "endMs": 86189,
+              "durationMs": 512
+            },
+            {
+              "text": "ス",
+              "startMs": 86189,
+              "endMs": 86404,
+              "durationMs": 215
+            },
+            {
+              "text": "を",
+              "startMs": 86404,
+              "endMs": 86909,
+              "durationMs": 505
+            },
+            {
+              "text": "透",
+              "startMs": 86909,
+              "endMs": 87117,
+              "durationMs": 208
+            },
+            {
+              "text": "か",
+              "startMs": 87117,
+              "endMs": 87588,
+              "durationMs": 471
+            },
+            {
+              "text": "し",
+              "startMs": 87588,
+              "endMs": 87781,
+              "durationMs": 193
+            },
+            {
+              "text": "て",
+              "startMs": 87781,
+              "endMs": 87940,
+              "durationMs": 159
+            },
+            {
+              "text": "は",
+              "startMs": 87940,
+              "endMs": 88189,
+              "durationMs": 249
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "グラスを透かしては",
+        "furigana": [],
+        "romaji": "gu ra su wo su ka shi te ha ",
+        "translationZh": "我透过玻璃杯看着"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l015",
+      "startMs": 88390,
+      "endMs": 90913,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "向こう側覗いた",
+          "qrcParts": [
+            {
+              "text": "向",
+              "startMs": 88390,
+              "endMs": 88605,
+              "durationMs": 215
+            },
+            {
+              "text": "こ",
+              "startMs": 88605,
+              "endMs": 88858,
+              "durationMs": 253
+            },
+            {
+              "text": "う",
+              "startMs": 88858,
+              "endMs": 89111,
+              "durationMs": 253
+            },
+            {
+              "text": "側",
+              "startMs": 89111,
+              "endMs": 89840,
+              "durationMs": 729
+            },
+            {
+              "text": "覗",
+              "startMs": 89840,
+              "endMs": 90255,
+              "durationMs": 415
+            },
+            {
+              "text": "い",
+              "startMs": 90255,
+              "endMs": 90455,
+              "durationMs": 200
+            },
+            {
+              "text": "た",
+              "startMs": 90455,
+              "endMs": 90913,
+              "durationMs": 458
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "向こう側覗いた",
+        "furigana": [],
+        "romaji": "mu ko u ga wa no zo i ta ",
+        "translationZh": "对面那个"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l016",
+      "startMs": 91306,
+      "endMs": 96798,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "流る雲を 目線でなぞるあなた",
+          "qrcParts": [
+            {
+              "text": "流",
+              "startMs": 91306,
+              "endMs": 91992,
+              "durationMs": 686
+            },
+            {
+              "text": "る",
+              "startMs": 91992,
+              "endMs": 92208,
+              "durationMs": 216
+            },
+            {
+              "text": "雲",
+              "startMs": 92208,
+              "endMs": 92961,
+              "durationMs": 753
+            },
+            {
+              "text": "を",
+              "startMs": 92961,
+              "endMs": 93290,
+              "durationMs": 329
+            },
+            {
+              "text": " ",
+              "startMs": 93290,
+              "endMs": 93290,
+              "durationMs": 0
+            },
+            {
+              "text": "目",
+              "startMs": 93480,
+              "endMs": 93696,
+              "durationMs": 216
+            },
+            {
+              "text": "線",
+              "startMs": 93696,
+              "endMs": 94244,
+              "durationMs": 548
+            },
+            {
+              "text": "で",
+              "startMs": 94244,
+              "endMs": 94452,
+              "durationMs": 208
+            },
+            {
+              "text": "な",
+              "startMs": 94452,
+              "endMs": 94980,
+              "durationMs": 528
+            },
+            {
+              "text": "ぞ",
+              "startMs": 94980,
+              "endMs": 95189,
+              "durationMs": 209
+            },
+            {
+              "text": "る",
+              "startMs": 95189,
+              "endMs": 95700,
+              "durationMs": 511
+            },
+            {
+              "text": "あ",
+              "startMs": 95700,
+              "endMs": 96060,
+              "durationMs": 360
+            },
+            {
+              "text": "な",
+              "startMs": 96060,
+              "endMs": 96260,
+              "durationMs": 200
+            },
+            {
+              "text": "た",
+              "startMs": 96260,
+              "endMs": 96798,
+              "durationMs": 538
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "流る雲を 目線でなぞるあなた",
+        "furigana": [],
+        "romaji": "na ga ru ku mo wo  me se n de na zo ru a na ta ",
+        "translationZh": "视线追随着流云轨迹的你"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l017",
+      "startMs": 97142,
+      "endMs": 102697,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "世界が変わるほど綺麗だと思った",
+          "qrcParts": [
+            {
+              "text": "世",
+              "startMs": 97142,
+              "endMs": 97350,
+              "durationMs": 208
+            },
+            {
+              "text": "界",
+              "startMs": 97350,
+              "endMs": 97871,
+              "durationMs": 521
+            },
+            {
+              "text": "が",
+              "startMs": 97871,
+              "endMs": 98102,
+              "durationMs": 231
+            },
+            {
+              "text": "変",
+              "startMs": 98102,
+              "endMs": 98615,
+              "durationMs": 513
+            },
+            {
+              "text": "わ",
+              "startMs": 98615,
+              "endMs": 98838,
+              "durationMs": 223
+            },
+            {
+              "text": "る",
+              "startMs": 98838,
+              "endMs": 99334,
+              "durationMs": 496
+            },
+            {
+              "text": "ほ",
+              "startMs": 99334,
+              "endMs": 99542,
+              "durationMs": 208
+            },
+            {
+              "text": "ど",
+              "startMs": 99542,
+              "endMs": 99998,
+              "durationMs": 456
+            },
+            {
+              "text": "綺",
+              "startMs": 99998,
+              "endMs": 100230,
+              "durationMs": 232
+            },
+            {
+              "text": "麗",
+              "startMs": 100230,
+              "endMs": 100751,
+              "durationMs": 521
+            },
+            {
+              "text": "だ",
+              "startMs": 100751,
+              "endMs": 100991,
+              "durationMs": 240
+            },
+            {
+              "text": "と",
+              "startMs": 100991,
+              "endMs": 101517,
+              "durationMs": 526
+            },
+            {
+              "text": "思",
+              "startMs": 101517,
+              "endMs": 101899,
+              "durationMs": 382
+            },
+            {
+              "text": "っ",
+              "startMs": 101899,
+              "endMs": 102064,
+              "durationMs": 165
+            },
+            {
+              "text": "た",
+              "startMs": 102064,
+              "endMs": 102697,
+              "durationMs": 633
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "世界が変わるほど綺麗だと思った",
+        "furigana": [],
+        "romaji": "se ka i ga ka wa ru ho do ki re i da to o mo 't ta ",
+        "translationZh": "在微风轻拂的午后我竟觉得世界美到"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l018",
+      "startMs": 103461,
+      "endMs": 107427,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "風吹く午後",
+          "qrcParts": [
+            {
+              "text": "風",
+              "startMs": 103461,
+              "endMs": 104005,
+              "durationMs": 544
+            },
+            {
+              "text": "吹",
+              "startMs": 104005,
+              "endMs": 104525,
+              "durationMs": 520
+            },
+            {
+              "text": "く",
+              "startMs": 104525,
+              "endMs": 104869,
+              "durationMs": 344
+            },
+            {
+              "text": "午",
+              "startMs": 104869,
+              "endMs": 105246,
+              "durationMs": 377
+            },
+            {
+              "text": "後",
+              "startMs": 105246,
+              "endMs": 107427,
+              "durationMs": 2181
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "風吹く午後",
+        "furigana": [],
+        "romaji": "ka ze fu ku go go ",
+        "translationZh": "似是焕然一新般"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l019",
+      "startMs": 107793,
+      "endMs": 113429,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "隣り合う 影と影 そっと期待をして",
+          "qrcParts": [
+            {
+              "text": "隣",
+              "startMs": 107793,
+              "endMs": 108178,
+              "durationMs": 385
+            },
+            {
+              "text": "り",
+              "startMs": 108178,
+              "endMs": 108377,
+              "durationMs": 199
+            },
+            {
+              "text": "合",
+              "startMs": 108377,
+              "endMs": 108577,
+              "durationMs": 200
+            },
+            {
+              "text": "う",
+              "startMs": 108577,
+              "endMs": 108889,
+              "durationMs": 312
+            },
+            {
+              "text": " ",
+              "startMs": 108889,
+              "endMs": 108889,
+              "durationMs": 0
+            },
+            {
+              "text": "影",
+              "startMs": 109257,
+              "endMs": 109634,
+              "durationMs": 377
+            },
+            {
+              "text": "と",
+              "startMs": 109634,
+              "endMs": 109826,
+              "durationMs": 192
+            },
+            {
+              "text": "影",
+              "startMs": 109826,
+              "endMs": 110385,
+              "durationMs": 559
+            },
+            {
+              "text": " ",
+              "startMs": 110385,
+              "endMs": 110385,
+              "durationMs": 0
+            },
+            {
+              "text": "そ",
+              "startMs": 110690,
+              "endMs": 110881,
+              "durationMs": 191
+            },
+            {
+              "text": "っ",
+              "startMs": 110881,
+              "endMs": 111046,
+              "durationMs": 165
+            },
+            {
+              "text": "と",
+              "startMs": 111046,
+              "endMs": 111821,
+              "durationMs": 775
+            },
+            {
+              "text": "期",
+              "startMs": 111821,
+              "endMs": 112102,
+              "durationMs": 281
+            },
+            {
+              "text": "待",
+              "startMs": 112102,
+              "endMs": 112565,
+              "durationMs": 463
+            },
+            {
+              "text": "を",
+              "startMs": 112565,
+              "endMs": 112758,
+              "durationMs": 193
+            },
+            {
+              "text": "し",
+              "startMs": 112758,
+              "endMs": 113070,
+              "durationMs": 312
+            },
+            {
+              "text": "て",
+              "startMs": 113070,
+              "endMs": 113429,
+              "durationMs": 359
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "隣り合う 影と影 そっと期待をして",
+        "furigana": [],
+        "romaji": "to na ri a u  ka ge to ka ge  so 't to ki ta i wo shi te ",
+        "translationZh": "我们的身影依偎在一起 暗自怀揣期待"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l020",
+      "startMs": 113646,
+      "endMs": 119302,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "打ち消して 待ちあぐね 手を取った",
+          "qrcParts": [
+            {
+              "text": "打",
+              "startMs": 113646,
+              "endMs": 113830,
+              "durationMs": 184
+            },
+            {
+              "text": "ち",
+              "startMs": 113830,
+              "endMs": 114021,
+              "durationMs": 191
+            },
+            {
+              "text": "消",
+              "startMs": 114021,
+              "endMs": 114205,
+              "durationMs": 184
+            },
+            {
+              "text": "し",
+              "startMs": 114205,
+              "endMs": 114406,
+              "durationMs": 201
+            },
+            {
+              "text": "て",
+              "startMs": 114406,
+              "endMs": 114750,
+              "durationMs": 344
+            },
+            {
+              "text": " ",
+              "startMs": 114750,
+              "endMs": 114750,
+              "durationMs": 0
+            },
+            {
+              "text": "待",
+              "startMs": 115086,
+              "endMs": 115278,
+              "durationMs": 192
+            },
+            {
+              "text": "ち",
+              "startMs": 115278,
+              "endMs": 115461,
+              "durationMs": 183
+            },
+            {
+              "text": "あ",
+              "startMs": 115461,
+              "endMs": 115655,
+              "durationMs": 194
+            },
+            {
+              "text": "ぐ",
+              "startMs": 115655,
+              "endMs": 115853,
+              "durationMs": 198
+            },
+            {
+              "text": "ね",
+              "startMs": 115853,
+              "endMs": 116206,
+              "durationMs": 353
+            },
+            {
+              "text": " ",
+              "startMs": 116206,
+              "endMs": 116206,
+              "durationMs": 0
+            },
+            {
+              "text": "手",
+              "startMs": 116589,
+              "endMs": 116910,
+              "durationMs": 321
+            },
+            {
+              "text": "を",
+              "startMs": 116910,
+              "endMs": 117661,
+              "durationMs": 751
+            },
+            {
+              "text": "取",
+              "startMs": 117661,
+              "endMs": 118025,
+              "durationMs": 364
+            },
+            {
+              "text": "っ",
+              "startMs": 118026,
+              "endMs": 118390,
+              "durationMs": 364
+            },
+            {
+              "text": "た",
+              "startMs": 118390,
+              "endMs": 119302,
+              "durationMs": 912
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "打ち消して 待ちあぐね 手を取った",
+        "furigana": [],
+        "romaji": "u chi ke shi te  ma chi a gu ne  te wo to 't ta ",
+        "translationZh": "又兀自抹去 等待许久后牵起你的手来"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l021",
+      "startMs": 119493,
+      "endMs": 122126,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "ほろ苦い ほの甘い",
+          "qrcParts": [
+            {
+              "text": "ほ",
+              "startMs": 119493,
+              "endMs": 119702,
+              "durationMs": 209
+            },
+            {
+              "text": "ろ",
+              "startMs": 119702,
+              "endMs": 119886,
+              "durationMs": 184
+            },
+            {
+              "text": "苦",
+              "startMs": 119886,
+              "endMs": 120278,
+              "durationMs": 392
+            },
+            {
+              "text": "い",
+              "startMs": 120278,
+              "endMs": 120574,
+              "durationMs": 296
+            },
+            {
+              "text": " ",
+              "startMs": 120574,
+              "endMs": 120574,
+              "durationMs": 0
+            },
+            {
+              "text": "ほ",
+              "startMs": 120941,
+              "endMs": 121141,
+              "durationMs": 200
+            },
+            {
+              "text": "の",
+              "startMs": 121141,
+              "endMs": 121342,
+              "durationMs": 201
+            },
+            {
+              "text": "甘",
+              "startMs": 121342,
+              "endMs": 121726,
+              "durationMs": 384
+            },
+            {
+              "text": "い",
+              "startMs": 121726,
+              "endMs": 122126,
+              "durationMs": 400
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "ほろ苦い ほの甘い",
+        "furigana": [],
+        "romaji": "ho ro ni ga i  ho no a ma i ",
+        "translationZh": "微苦中泛着丝丝甜蜜"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l022",
+      "startMs": 122413,
+      "endMs": 132006,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "こぼれそうな想いが胸を満たす",
+          "qrcParts": [
+            {
+              "text": "こ",
+              "startMs": 122413,
+              "endMs": 122782,
+              "durationMs": 369
+            },
+            {
+              "text": "ぼ",
+              "startMs": 122782,
+              "endMs": 123133,
+              "durationMs": 351
+            },
+            {
+              "text": "れ",
+              "startMs": 123133,
+              "endMs": 123485,
+              "durationMs": 352
+            },
+            {
+              "text": "そ",
+              "startMs": 123485,
+              "endMs": 123864,
+              "durationMs": 379
+            },
+            {
+              "text": "う",
+              "startMs": 123864,
+              "endMs": 124231,
+              "durationMs": 367
+            },
+            {
+              "text": "な",
+              "startMs": 124231,
+              "endMs": 124455,
+              "durationMs": 224
+            },
+            {
+              "text": "想",
+              "startMs": 124455,
+              "endMs": 125337,
+              "durationMs": 882
+            },
+            {
+              "text": "い",
+              "startMs": 125337,
+              "endMs": 125560,
+              "durationMs": 223
+            },
+            {
+              "text": "が",
+              "startMs": 125560,
+              "endMs": 126078,
+              "durationMs": 518
+            },
+            {
+              "text": "胸",
+              "startMs": 126078,
+              "endMs": 126966,
+              "durationMs": 888
+            },
+            {
+              "text": "を",
+              "startMs": 127205,
+              "endMs": 127933,
+              "durationMs": 728
+            },
+            {
+              "text": "満",
+              "startMs": 127933,
+              "endMs": 128286,
+              "durationMs": 353
+            },
+            {
+              "text": "た",
+              "startMs": 128286,
+              "endMs": 128630,
+              "durationMs": 344
+            },
+            {
+              "text": "す",
+              "startMs": 128630,
+              "endMs": 132006,
+              "durationMs": 3376
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "こぼれそうな想いが胸を満たす",
+        "furigana": [],
+        "romaji": "ko bo re so u na o mo i ga mu ne wo mi ta su ",
+        "translationZh": "几欲倾泻的思念满溢在我的心间"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l023",
+      "startMs": 133750,
+      "endMs": 139376,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "あどけない瞳が",
+          "qrcParts": [
+            {
+              "text": "あ",
+              "startMs": 133750,
+              "endMs": 134125,
+              "durationMs": 375
+            },
+            {
+              "text": "ど",
+              "startMs": 134125,
+              "endMs": 134478,
+              "durationMs": 353
+            },
+            {
+              "text": "け",
+              "startMs": 134478,
+              "endMs": 135655,
+              "durationMs": 1177
+            },
+            {
+              "text": "な",
+              "startMs": 135655,
+              "endMs": 135998,
+              "durationMs": 343
+            },
+            {
+              "text": "い",
+              "startMs": 135998,
+              "endMs": 137064,
+              "durationMs": 1066
+            },
+            {
+              "text": "瞳",
+              "startMs": 137064,
+              "endMs": 138881,
+              "durationMs": 1817
+            },
+            {
+              "text": "が",
+              "startMs": 138881,
+              "endMs": 139376,
+              "durationMs": 495
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "あどけない瞳が",
+        "furigana": [],
+        "romaji": "a do ke na i hi to mi ga ",
+        "translationZh": "你纯真无邪的双眸"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l024",
+      "startMs": 139633,
+      "endMs": 145231,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "熱を持ってかすかに惑う",
+          "qrcParts": [
+            {
+              "text": "熱",
+              "startMs": 139633,
+              "endMs": 140336,
+              "durationMs": 703
+            },
+            {
+              "text": "を",
+              "startMs": 140336,
+              "endMs": 140736,
+              "durationMs": 400
+            },
+            {
+              "text": "持",
+              "startMs": 140736,
+              "endMs": 141091,
+              "durationMs": 355
+            },
+            {
+              "text": "っ",
+              "startMs": 141091,
+              "endMs": 141447,
+              "durationMs": 356
+            },
+            {
+              "text": "て",
+              "startMs": 141448,
+              "endMs": 141800,
+              "durationMs": 352
+            },
+            {
+              "text": "か",
+              "startMs": 141800,
+              "endMs": 142176,
+              "durationMs": 376
+            },
+            {
+              "text": "す",
+              "startMs": 142176,
+              "endMs": 142520,
+              "durationMs": 344
+            },
+            {
+              "text": "か",
+              "startMs": 142520,
+              "endMs": 142888,
+              "durationMs": 368
+            },
+            {
+              "text": "に",
+              "startMs": 142888,
+              "endMs": 143256,
+              "durationMs": 368
+            },
+            {
+              "text": "惑",
+              "startMs": 143256,
+              "endMs": 144001,
+              "durationMs": 745
+            },
+            {
+              "text": "う",
+              "startMs": 144001,
+              "endMs": 145231,
+              "durationMs": 1230
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "熱を持ってかすかに惑う",
+        "furigana": [],
+        "romaji": "ne tsu wo mo 't te ka su ka ni ma do u ",
+        "translationZh": "带着热意闪过些许的困惑"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l025",
+      "startMs": 145495,
+      "endMs": 154005,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "今日までの二人 全て もう",
+          "qrcParts": [
+            {
+              "text": "今日",
+              "startMs": 145495,
+              "endMs": 146168,
+              "durationMs": 673
+            },
+            {
+              "text": "ま",
+              "startMs": 146168,
+              "endMs": 147336,
+              "durationMs": 1168
+            },
+            {
+              "text": "で",
+              "startMs": 147336,
+              "endMs": 147696,
+              "durationMs": 360
+            },
+            {
+              "text": "の",
+              "startMs": 147696,
+              "endMs": 148209,
+              "durationMs": 513
+            },
+            {
+              "text": "二",
+              "startMs": 148424,
+              "endMs": 149113,
+              "durationMs": 689
+            },
+            {
+              "text": "人",
+              "startMs": 149113,
+              "endMs": 149816,
+              "durationMs": 703
+            },
+            {
+              "text": " ",
+              "startMs": 149816,
+              "endMs": 149816,
+              "durationMs": 0
+            },
+            {
+              "text": "全",
+              "startMs": 149816,
+              "endMs": 150584,
+              "durationMs": 768
+            },
+            {
+              "text": "て",
+              "startMs": 150584,
+              "endMs": 151687,
+              "durationMs": 1103
+            },
+            {
+              "text": " ",
+              "startMs": 151687,
+              "endMs": 151687,
+              "durationMs": 0
+            },
+            {
+              "text": "も",
+              "startMs": 151687,
+              "endMs": 152041,
+              "durationMs": 354
+            },
+            {
+              "text": "う",
+              "startMs": 152041,
+              "endMs": 154005,
+              "durationMs": 1964
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "今日までの二人 全て もう",
+        "furigana": [],
+        "romaji": "kyo u ma de no fu ta ri  su be te  mo u ",
+        "translationZh": "迄今为止的我们仿佛已准备好"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l026",
+      "startMs": 154269,
+      "endMs": 161229,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "飛び越えそうで",
+          "qrcParts": [
+            {
+              "text": "飛",
+              "startMs": 154269,
+              "endMs": 154620,
+              "durationMs": 351
+            },
+            {
+              "text": "び",
+              "startMs": 154620,
+              "endMs": 154982,
+              "durationMs": 362
+            },
+            {
+              "text": "越",
+              "startMs": 154982,
+              "endMs": 156212,
+              "durationMs": 1230
+            },
+            {
+              "text": "え",
+              "startMs": 156212,
+              "endMs": 156829,
+              "durationMs": 617
+            },
+            {
+              "text": "そ",
+              "startMs": 156829,
+              "endMs": 157528,
+              "durationMs": 699
+            },
+            {
+              "text": "う",
+              "startMs": 157528,
+              "endMs": 158241,
+              "durationMs": 713
+            },
+            {
+              "text": "で",
+              "startMs": 158241,
+              "endMs": 161229,
+              "durationMs": 2988
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "飛び越えそうで",
+        "furigana": [],
+        "romaji": "to bi ko e so u de ",
+        "translationZh": "将过往统统都飞跃"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l027",
+      "startMs": 164752,
+      "endMs": 170742,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "本音は曖昧なままでいい",
+          "qrcParts": [
+            {
+              "text": "本",
+              "startMs": 164752,
+              "endMs": 165968,
+              "durationMs": 1216
+            },
+            {
+              "text": "音",
+              "startMs": 165968,
+              "endMs": 166321,
+              "durationMs": 353
+            },
+            {
+              "text": "は",
+              "startMs": 166321,
+              "endMs": 166648,
+              "durationMs": 327
+            },
+            {
+              "text": "曖",
+              "startMs": 166648,
+              "endMs": 167401,
+              "durationMs": 753
+            },
+            {
+              "text": "昧",
+              "startMs": 167401,
+              "endMs": 168105,
+              "durationMs": 704
+            },
+            {
+              "text": "な",
+              "startMs": 168105,
+              "endMs": 168928,
+              "durationMs": 823
+            },
+            {
+              "text": "ま",
+              "startMs": 168928,
+              "endMs": 169233,
+              "durationMs": 305
+            },
+            {
+              "text": "ま",
+              "startMs": 169233,
+              "endMs": 169576,
+              "durationMs": 343
+            },
+            {
+              "text": "で",
+              "startMs": 169576,
+              "endMs": 169893,
+              "durationMs": 317
+            },
+            {
+              "text": "い",
+              "startMs": 169893,
+              "endMs": 170210,
+              "durationMs": 317
+            },
+            {
+              "text": "い",
+              "startMs": 170211,
+              "endMs": 170742,
+              "durationMs": 531
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "本音は曖昧なままでいい",
+        "furigana": [],
+        "romaji": "ho n ne ha a i ma i na ma ma de i i ",
+        "translationZh": "真实心声仍不够确切也无妨"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l028",
+      "startMs": 171033,
+      "endMs": 175069,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "思ってまだ遠くない",
+          "qrcParts": [
+            {
+              "text": "思",
+              "startMs": 171033,
+              "endMs": 171525,
+              "durationMs": 492
+            },
+            {
+              "text": "っ",
+              "startMs": 171525,
+              "endMs": 171809,
+              "durationMs": 284
+            },
+            {
+              "text": "て",
+              "startMs": 171810,
+              "endMs": 172194,
+              "durationMs": 384
+            },
+            {
+              "text": "ま",
+              "startMs": 172194,
+              "endMs": 172546,
+              "durationMs": 352
+            },
+            {
+              "text": "だ",
+              "startMs": 172546,
+              "endMs": 172923,
+              "durationMs": 377
+            },
+            {
+              "text": "遠",
+              "startMs": 172923,
+              "endMs": 173410,
+              "durationMs": 487
+            },
+            {
+              "text": "く",
+              "startMs": 173410,
+              "endMs": 173585,
+              "durationMs": 175
+            },
+            {
+              "text": "な",
+              "startMs": 173585,
+              "endMs": 174822,
+              "durationMs": 1237
+            },
+            {
+              "text": "い",
+              "startMs": 174822,
+              "endMs": 175069,
+              "durationMs": 247
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "思ってまだ遠くない",
+        "furigana": [],
+        "romaji": "o mo 't te ma da to o ku na i ",
+        "translationZh": "心有所想 尚且不算遥远"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l029",
+      "startMs": 175444,
+      "endMs": 191550,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "でもその涙 理由を 独り占めしたい",
+          "qrcParts": [
+            {
+              "text": "で",
+              "startMs": 175444,
+              "endMs": 175819,
+              "durationMs": 375
+            },
+            {
+              "text": "も",
+              "startMs": 175819,
+              "endMs": 176171,
+              "durationMs": 352
+            },
+            {
+              "text": "そ",
+              "startMs": 176171,
+              "endMs": 176525,
+              "durationMs": 354
+            },
+            {
+              "text": "の",
+              "startMs": 176525,
+              "endMs": 176891,
+              "durationMs": 366
+            },
+            {
+              "text": "涙",
+              "startMs": 176891,
+              "endMs": 180229,
+              "durationMs": 3338
+            },
+            {
+              "text": " ",
+              "startMs": 180229,
+              "endMs": 180229,
+              "durationMs": 0
+            },
+            {
+              "text": "理",
+              "startMs": 180606,
+              "endMs": 180957,
+              "durationMs": 351
+            },
+            {
+              "text": "由",
+              "startMs": 180957,
+              "endMs": 181702,
+              "durationMs": 745
+            },
+            {
+              "text": "を",
+              "startMs": 181702,
+              "endMs": 184725,
+              "durationMs": 3023
+            },
+            {
+              "text": " ",
+              "startMs": 184725,
+              "endMs": 184725,
+              "durationMs": 0
+            },
+            {
+              "text": "独",
+              "startMs": 186469,
+              "endMs": 187181,
+              "durationMs": 712
+            },
+            {
+              "text": "り",
+              "startMs": 187181,
+              "endMs": 188277,
+              "durationMs": 1096
+            },
+            {
+              "text": "占",
+              "startMs": 188277,
+              "endMs": 188668,
+              "durationMs": 391
+            },
+            {
+              "text": "め",
+              "startMs": 188668,
+              "endMs": 189524,
+              "durationMs": 856
+            },
+            {
+              "text": "し",
+              "startMs": 189812,
+              "endMs": 190148,
+              "durationMs": 336
+            },
+            {
+              "text": "た",
+              "startMs": 190148,
+              "endMs": 191316,
+              "durationMs": 1168
+            },
+            {
+              "text": "い",
+              "startMs": 191316,
+              "endMs": 191550,
+              "durationMs": 234
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "でもその涙 理由を 独り占めしたい",
+        "furigana": [],
+        "romaji": "de mo so no na mi da  ri yu u wo  hi to ri ji me shi ta i ",
+        "translationZh": "不过我希望 只有我 能知晓你落泪的理由"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l030",
+      "startMs": 195148,
+      "endMs": 200818,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "喉通ったフレイバーには",
+          "qrcParts": [
+            {
+              "text": "喉",
+              "startMs": 195148,
+              "endMs": 195941,
+              "durationMs": 793
+            },
+            {
+              "text": "通",
+              "startMs": 195941,
+              "endMs": 196677,
+              "durationMs": 736
+            },
+            {
+              "text": "っ",
+              "startMs": 196677,
+              "endMs": 197045,
+              "durationMs": 368
+            },
+            {
+              "text": "た",
+              "startMs": 197045,
+              "endMs": 197374,
+              "durationMs": 329
+            },
+            {
+              "text": "フ",
+              "startMs": 197374,
+              "endMs": 197549,
+              "durationMs": 175
+            },
+            {
+              "text": "レ",
+              "startMs": 197549,
+              "endMs": 198045,
+              "durationMs": 496
+            },
+            {
+              "text": "イ",
+              "startMs": 198045,
+              "endMs": 198541,
+              "durationMs": 496
+            },
+            {
+              "text": "バ",
+              "startMs": 198541,
+              "endMs": 198717,
+              "durationMs": 176
+            },
+            {
+              "text": "ー",
+              "startMs": 198717,
+              "endMs": 200001,
+              "durationMs": 1284
+            },
+            {
+              "text": "に",
+              "startMs": 200001,
+              "endMs": 200362,
+              "durationMs": 361
+            },
+            {
+              "text": "は",
+              "startMs": 200362,
+              "endMs": 200818,
+              "durationMs": 456
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "喉通ったフレイバーには",
+        "furigana": [],
+        "romaji": "no do to o 't ta fu re i ba a ni ha ",
+        "translationZh": "而滑过喉头的那一抹滋味"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l031",
+      "startMs": 201073,
+      "endMs": 206636,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "初めて知る感情あふれ",
+          "qrcParts": [
+            {
+              "text": "初",
+              "startMs": 201073,
+              "endMs": 201793,
+              "durationMs": 720
+            },
+            {
+              "text": "め",
+              "startMs": 201793,
+              "endMs": 202201,
+              "durationMs": 408
+            },
+            {
+              "text": "て",
+              "startMs": 202201,
+              "endMs": 202553,
+              "durationMs": 352
+            },
+            {
+              "text": "知",
+              "startMs": 202553,
+              "endMs": 202892,
+              "durationMs": 339
+            },
+            {
+              "text": "る",
+              "startMs": 202892,
+              "endMs": 203249,
+              "durationMs": 357
+            },
+            {
+              "text": "感",
+              "startMs": 203249,
+              "endMs": 203970,
+              "durationMs": 721
+            },
+            {
+              "text": "情",
+              "startMs": 203970,
+              "endMs": 204738,
+              "durationMs": 768
+            },
+            {
+              "text": "あ",
+              "startMs": 204738,
+              "endMs": 205082,
+              "durationMs": 344
+            },
+            {
+              "text": "ふ",
+              "startMs": 205082,
+              "endMs": 205449,
+              "durationMs": 367
+            },
+            {
+              "text": "れ",
+              "startMs": 205449,
+              "endMs": 206636,
+              "durationMs": 1187
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "初めて知る感情あふれ",
+        "furigana": [],
+        "romaji": "ha ji me te shi ru ka n jo u a fu re ",
+        "translationZh": "让初次体会的感情满溢"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l032",
+      "startMs": 206915,
+      "endMs": 215395,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "あこがれも傷も全て 今",
+          "qrcParts": [
+            {
+              "text": "あ",
+              "startMs": 206915,
+              "endMs": 207268,
+              "durationMs": 353
+            },
+            {
+              "text": "こ",
+              "startMs": 207268,
+              "endMs": 207635,
+              "durationMs": 367
+            },
+            {
+              "text": "が",
+              "startMs": 207635,
+              "endMs": 208732,
+              "durationMs": 1097
+            },
+            {
+              "text": "れ",
+              "startMs": 208732,
+              "endMs": 209107,
+              "durationMs": 375
+            },
+            {
+              "text": "も",
+              "startMs": 209107,
+              "endMs": 209507,
+              "durationMs": 400
+            },
+            {
+              "text": "傷",
+              "startMs": 209835,
+              "endMs": 210572,
+              "durationMs": 737
+            },
+            {
+              "text": "も",
+              "startMs": 210572,
+              "endMs": 211259,
+              "durationMs": 687
+            },
+            {
+              "text": "全",
+              "startMs": 211259,
+              "endMs": 212011,
+              "durationMs": 752
+            },
+            {
+              "text": "て",
+              "startMs": 212011,
+              "endMs": 213172,
+              "durationMs": 1161
+            },
+            {
+              "text": " ",
+              "startMs": 213172,
+              "endMs": 213172,
+              "durationMs": 0
+            },
+            {
+              "text": "今",
+              "startMs": 213172,
+              "endMs": 215395,
+              "durationMs": 2223
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "あこがれも傷も全て 今",
+        "furigana": [],
+        "romaji": "a ko ga re mo ki zu mo su be te  i ma ",
+        "translationZh": "憧憬与伤痕都在此时此刻"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l033",
+      "startMs": 215715,
+      "endMs": 222851,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "溶け込んで 光る",
+          "qrcParts": [
+            {
+              "text": "溶",
+              "startMs": 215715,
+              "endMs": 216052,
+              "durationMs": 337
+            },
+            {
+              "text": "け",
+              "startMs": 216052,
+              "endMs": 216420,
+              "durationMs": 368
+            },
+            {
+              "text": "込",
+              "startMs": 216420,
+              "endMs": 216983,
+              "durationMs": 563
+            },
+            {
+              "text": "ん",
+              "startMs": 216983,
+              "endMs": 217546,
+              "durationMs": 563
+            },
+            {
+              "text": "で",
+              "startMs": 217547,
+              "endMs": 218227,
+              "durationMs": 680
+            },
+            {
+              "text": " ",
+              "startMs": 218227,
+              "endMs": 218227,
+              "durationMs": 0
+            },
+            {
+              "text": "光",
+              "startMs": 218227,
+              "endMs": 219692,
+              "durationMs": 1465
+            },
+            {
+              "text": "る",
+              "startMs": 219692,
+              "endMs": 222851,
+              "durationMs": 3159
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "溶け込んで 光る",
+        "furigana": [],
+        "romaji": "to ke ko n de  hi ka ru ",
+        "translationZh": "交织相融 璀璨闪耀"
+      },
+      "grammarCards": [],
+      "status": "shell",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    }
+  ]
+}

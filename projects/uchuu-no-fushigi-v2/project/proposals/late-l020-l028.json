@@ -1,0 +1,13 @@
+{
+  "scope": "l020-l028",
+  "status": "proposed-not-merged",
+  "sources": ["https://dictionary.goo.ne.jp/word/%E3%82%88/", "https://dictionary.goo.ne.jp/word/%E5%85%A8%E9%83%A8/", "https://dictionary.goo.ne.jp/word/%E8%A1%8C%E3%81%8F/"],
+  "changes": [
+    {"frameId":"l020","field":"translation/cards","change":"译为“我会一直记得哦。”；覚えている=动词（ている形）；よ改终助词功能字段","confidence":"high"},
+    {"frameId":"l021","field":"translation/cards","change":"译为“即使长大了也会记得哦。”；なって／も拆分，も=让步；ね=终助词功能","confidence":"high"},
+    {"frameId":"l022-l023","field":"translations/furigana","change":"优化中文语序；l023 两处歌均须注音（需要 occurrence-aware annotation）","confidence":"high"},
+    {"frameId":"l024","field":"translation/cards も","change":"突出“谁都不”；末尾も=添加、承接后句","confidence":"high"},
+    {"frameId":"l025,l027","field":"caption.romaji","change":"zenbu zenbu zenbu","confidence":"high"},
+    {"frameId":"l026,l028","field":"cards","change":"さがし=动词（连用形）；に=格助词、移动目的；ゆこう=行く〔ゆく〕的意志形，非“行こう的口语”","confidence":"high"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "runId": "20260822-r01-foobar-flac",
+  "result": "pass",
+  "candidate": "project/work/20260822-r01-foobar-flac/amore--16x9--20260822-r01-foobar-flac.mkv",
+  "checks": {
+    "projectValidation": "pass",
+    "qrcTiming": { "full": 67, "unmatched": 0 },
+    "video": { "codec": "h264", "width": 1920, "height": 1080, "pixelFormat": "yuv420p", "fps": "30/1", "cfr": true, "durationSeconds": 275.973 },
+    "audio": { "codec": "flac", "copiedWithoutReencoding": true, "sampleRateHz": 44100, "channels": 2, "bitsPerRawSample": 16 },
+    "background": "height-center-pillarbox with source audio muted",
+    "foregroundGap": "lyric-only: cover, veil, lyrics and cards absent during lyric gaps",
+    "spectrum": "persistent 84-band log-frequency bar overlay; qtrle ARGB source, transparent except bars and peak caps; no black rectangle",
+    "cards": "50% magic-color fill, external black text outlines, wrapped meaning/function support"
+  },
+  "screenshots": [
+    { "timeSeconds": 1, "file": "first-lyric.png", "purpose": "first lyric, furigana, romaji, cards and active token" },
+    { "timeSeconds": 12, "file": "gap-spectrum.png", "purpose": "lyric gap: background plus persistent transparent spectrum only" },
+    { "timeSeconds": 91, "file": "mid-lyric.png", "purpose": "later timeline gap and persistent spectrum" },
+    { "timeSeconds": 268, "file": "final-lyric.png", "purpose": "final lyric region" }
+  ]
+}

@@ -1,0 +1,553 @@
+{
+  "schemaVersion": 2,
+  "userWording": "采纳全部提案  ",
+  "scope": "all recommended correction proposals",
+  "framesBeforeSha256": "d512f08f77f118d91b5f235d1d6d260edade12cc8c3e323b21fce19d29aab109",
+  "framesAfterSha256": "09246f2a624b4fe370b4cf58c6ba66793ac4627437c665d3bcad5ef08c4d6deb",
+  "assistedReviewAuditSha256": "9547cc63174f0db60e78ca84a1bda281b2e449c6679e0041bf2a94c53261ca24",
+  "mergedProposalFiles": [
+    "project/proposals/correction-lexical.json",
+    "project/proposals/correction-grammar.json",
+    "project/proposals/correction-translation.json"
+  ],
+  "integrationReport": "project/review/correction-integration-report.json",
+  "integrationReportSha256": "368cd7c8c1e765bad53c23d86bdfa980741881562257f888a4224c415daf92d5",
+  "appliedFieldCount": 103,
+  "changedFrameIds": [
+    "l006",
+    "l007",
+    "l008",
+    "l009",
+    "l010",
+    "l011",
+    "l013",
+    "l014",
+    "l015",
+    "l016",
+    "l017",
+    "l018",
+    "l019",
+    "l022",
+    "l024",
+    "l025",
+    "l026",
+    "l028",
+    "l029",
+    "l030",
+    "l031",
+    "l032",
+    "l033",
+    "l035",
+    "l036",
+    "l037",
+    "l038",
+    "l040",
+    "l041",
+    "l042",
+    "l043",
+    "l044",
+    "l045",
+    "l046"
+  ],
+  "resolvedConflictIds": [
+    "C001",
+    "C002",
+    "C003",
+    "C004",
+    "C005"
+  ],
+  "postMergeQaCorrections": {
+    "path": "project/review/romaji-consistency-addendum.json",
+    "sha256": "a1c6a63616a8a40fc7108b98966f9af8c84a9e6b757608d9ad79620fe94368f2",
+    "changeCount": 6,
+    "reason": "Align card particle romaji with the same frame's approved pronunciation-based caption romaji."
+  },
+  "applied": [
+    {
+      "source": "project/proposals/correction-lexical.json",
+      "frameId": "l006",
+      "field": "grammarCards[2].reading"
+    },
+    {
+      "source": "project/proposals/correction-lexical.json",
+      "frameId": "l006",
+      "field": "grammarCards[2].romaji"
+    },
+    {
+      "source": "project/proposals/correction-lexical.json",
+      "frameId": "l011",
+      "field": "grammarCards[0].reading"
+    },
+    {
+      "source": "project/proposals/correction-lexical.json",
+      "frameId": "l011",
+      "field": "grammarCards[0].romaji"
+    },
+    {
+      "source": "project/proposals/correction-lexical.json",
+      "frameId": "l011",
+      "field": "grammarCards[1].reading"
+    },
+    {
+      "source": "project/proposals/correction-lexical.json",
+      "frameId": "l011",
+      "field": "grammarCards[1].romaji"
+    },
+    {
+      "source": "project/proposals/correction-lexical.json",
+      "frameId": "l013",
+      "field": "grammarCards[0].romaji"
+    },
+    {
+      "source": "project/proposals/correction-lexical.json",
+      "frameId": "l014",
+      "field": "caption.furigana"
+    },
+    {
+      "source": "project/proposals/correction-lexical.json",
+      "frameId": "l014",
+      "field": "caption.romaji"
+    },
+    {
+      "source": "project/proposals/correction-lexical.json",
+      "frameId": "l019",
+      "field": "grammarCards[1].romaji"
+    },
+    {
+      "source": "project/proposals/correction-lexical.json",
+      "frameId": "l024",
+      "field": "grammarCards[4].romaji"
+    },
+    {
+      "source": "project/proposals/correction-lexical.json",
+      "frameId": "l029",
+      "field": "grammarCards[2].romaji"
+    },
+    {
+      "source": "project/proposals/correction-lexical.json",
+      "frameId": "l031",
+      "field": "grammarCards[0].reading"
+    },
+    {
+      "source": "project/proposals/correction-lexical.json",
+      "frameId": "l031",
+      "field": "grammarCards[0].romaji"
+    },
+    {
+      "source": "project/proposals/correction-lexical.json",
+      "frameId": "l036",
+      "field": "grammarCards[1].romaji"
+    },
+    {
+      "source": "project/proposals/correction-lexical.json",
+      "frameId": "l041",
+      "field": "grammarCards[0].romaji"
+    },
+    {
+      "source": "project/proposals/correction-lexical.json",
+      "frameId": "l043",
+      "field": "caption.furigana"
+    },
+    {
+      "source": "project/proposals/correction-lexical.json",
+      "frameId": "l042",
+      "field": "grammarCards[0].romaji"
+    },
+    {
+      "source": "project/proposals/correction-lexical.json",
+      "frameId": "l044",
+      "field": "caption.furigana"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l006",
+      "field": "grammarCards[3].grammarStructureZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l006",
+      "field": "grammarCards[3].posZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l007",
+      "field": "grammarCards[1].grammarStructureZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l007",
+      "field": "grammarCards[1].posZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l008",
+      "field": "grammarCards[1].grammarStructureZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l008",
+      "field": "grammarCards[1].posZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l009",
+      "field": "grammarCards[1].zhMeaning"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l009",
+      "field": "grammarCards[1].functionZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l009",
+      "field": "grammarCards[2].grammarStructureZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l009",
+      "field": "grammarCards[2].posZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l011",
+      "field": "grammarCards[2].grammarStructureZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l011",
+      "field": "grammarCards[2].posZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l015",
+      "field": "grammarCards[0].grammarStructureZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l015",
+      "field": "grammarCards[0].posZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l016",
+      "field": "grammarCards[1].grammarStructureZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l016",
+      "field": "grammarCards[1].posZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l018",
+      "field": "grammarCards[0].grammarStructureZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l018",
+      "field": "grammarCards[0].posZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l018",
+      "field": "grammarCards[1].grammarStructureZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l018",
+      "field": "grammarCards[1].posZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l018",
+      "field": "grammarCards[2].grammarStructureZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l018",
+      "field": "grammarCards[2].posZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l019",
+      "field": "grammarCards[1].grammarStructureZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l019",
+      "field": "grammarCards[1].posZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l022",
+      "field": "grammarCards[1].grammarStructureZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l022",
+      "field": "grammarCards[1].posZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l024",
+      "field": "grammarCards[0].grammarStructureZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l024",
+      "field": "grammarCards[0].posZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l024",
+      "field": "grammarCards[5].zhMeaning"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l024",
+      "field": "grammarCards[5].functionZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l026",
+      "field": "grammarCards[2].grammarStructureZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l026",
+      "field": "grammarCards[2].posZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l028",
+      "field": "grammarCards[2].grammarStructureZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l028",
+      "field": "grammarCards[2].posZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l028",
+      "field": "grammarCards[3].grammarStructureZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l028",
+      "field": "grammarCards[3].posZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l028",
+      "field": "grammarCards[3].zhMeaning"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l028",
+      "field": "grammarCards[3].functionZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l032",
+      "field": "grammarCards[0].grammarStructureZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l032",
+      "field": "grammarCards[0].posZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l035",
+      "field": "grammarCards[0].grammarStructureZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l035",
+      "field": "grammarCards[0].posZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l035",
+      "field": "grammarCards[2].grammarStructureZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l035",
+      "field": "grammarCards[2].posZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l035",
+      "field": "grammarCards[2].zhMeaning"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l035",
+      "field": "grammarCards[2].functionZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l038",
+      "field": "grammarCards[1].grammarStructureZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l038",
+      "field": "grammarCards[1].posZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l041",
+      "field": "grammarCards[0].grammarStructureZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l041",
+      "field": "grammarCards[0].posZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l043",
+      "field": "grammarCards[0].grammarStructureZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l043",
+      "field": "grammarCards[0].posZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l043",
+      "field": "grammarCards[3].grammarStructureZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l043",
+      "field": "grammarCards[3].posZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l046",
+      "field": "grammarCards[0].grammarStructureZh"
+    },
+    {
+      "source": "project/proposals/correction-grammar.json",
+      "frameId": "l046",
+      "field": "grammarCards[0].posZh"
+    },
+    {
+      "source": "project/proposals/correction-translation.json",
+      "frameId": "l006",
+      "field": "grammarCards[1].functionZh"
+    },
+    {
+      "source": "project/proposals/correction-translation.json",
+      "frameId": "l007",
+      "field": "caption.translationZh"
+    },
+    {
+      "source": "project/proposals/correction-translation.json",
+      "frameId": "l007",
+      "field": "grammarCards[3].zhMeaning"
+    },
+    {
+      "source": "project/proposals/correction-translation.json",
+      "frameId": "l011",
+      "field": "caption.translationZh"
+    },
+    {
+      "source": "project/proposals/correction-translation.json",
+      "frameId": "l013",
+      "field": "grammarCards[3].zhMeaning"
+    },
+    {
+      "source": "project/proposals/correction-translation.json",
+      "frameId": "l014",
+      "field": "grammarCards[0].zhMeaning"
+    },
+    {
+      "source": "project/proposals/correction-translation.json",
+      "frameId": "l024",
+      "field": "caption.translationZh"
+    },
+    {
+      "source": "project/proposals/correction-translation.json",
+      "frameId": "l025",
+      "field": "caption.translationZh"
+    },
+    {
+      "source": "project/proposals/correction-translation.json",
+      "frameId": "l026",
+      "field": "grammarCards[0].zhMeaning"
+    },
+    {
+      "source": "project/proposals/correction-translation.json",
+      "frameId": "l030",
+      "field": "caption.translationZh"
+    },
+    {
+      "source": "project/proposals/correction-translation.json",
+      "frameId": "l032",
+      "field": "grammarCards[1].zhMeaning"
+    },
+    {
+      "source": "project/proposals/correction-translation.json",
+      "frameId": "l033",
+      "field": "caption.translationZh"
+    },
+    {
+      "source": "project/proposals/correction-translation.json",
+      "frameId": "l035",
+      "field": "caption.translationZh"
+    },
+    {
+      "source": "project/proposals/correction-translation.json",
+      "frameId": "l040",
+      "field": "grammarCards[2].zhMeaning"
+    },
+    {
+      "source": "project/proposals/correction-translation.json",
+      "frameId": "l042",
+      "field": "grammarCards[3].functionZh"
+    },
+    {
+      "source": "integration",
+      "id": "R001",
+      "frameId": "l037",
+      "field": "grammarCards"
+    },
+    {
+      "source": "integration-added",
+      "frameId": "l011",
+      "field": "grammarCards[0].grammarStructureZh"
+    },
+    {
+      "source": "integration-added",
+      "frameId": "l011",
+      "field": "grammarCards[0].posZh"
+    },
+    {
+      "source": "integration-added",
+      "frameId": "l011",
+      "field": "grammarCards[1].grammarStructureZh"
+    },
+    {
+      "source": "integration-added",
+      "frameId": "l011",
+      "field": "grammarCards[1].posZh"
+    },
+    {
+      "source": "integration-added",
+      "frameId": "l017",
+      "field": "grammarCards[0].grammarStructureZh"
+    },
+    {
+      "source": "integration-added",
+      "frameId": "l017",
+      "field": "grammarCards[0].posZh"
+    }
+  ]
+}

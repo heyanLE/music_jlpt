@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "integration",
+  "reviewRound": "layout-corrections",
+  "status": "completed",
+  "baseFrameSha256": "f567e0e1c582104b125ee6e670b6f53ded7689de43f948cc55f00b24749d57de",
+  "sourceProposalFiles": [
+    {
+      "role": "lexical",
+      "path": "project/proposals/lexical-layout-corrections.json",
+      "sha256": "7d71801ca68691ff59f95e88621655a49e33ebd41ee604b5a4385115540d546a",
+      "changeCount": 3
+    },
+    {
+      "role": "grammar",
+      "path": "project/proposals/grammar-layout-corrections.json",
+      "sha256": "3a68a9fc8ba56564dd988bd7f53692515ce157c5d0d5855262192467bd2a3725",
+      "changeCount": 14
+    },
+    {
+      "role": "translation",
+      "path": "project/proposals/translation-layout-corrections.json",
+      "sha256": "5bcfc740b26473219f3d74418df9e214ac3be98d386d14a5a04b4ce51d2c3db3",
+      "changeCount": 8
+    }
+  ],
+  "counts": {
+    "sourceChanges": 25,
+    "recommended": 23,
+    "excluded": 2,
+    "conflicts": 1
+  },
+  "conflicts": [
+    {
+      "id": "semantic-weakening-l032-l055",
+      "type": "layout-compression-semantic-loss",
+      "severity": "blocking-for-change",
+      "sourceRole": "translation",
+      "sourceProposalIndexes": [4, 7],
+      "frameIds": ["l032", "l055"],
+      "field": "grammarCards.4.functionZh",
+      "old": "标记认定内容：不知道那是无可替代的时光",
+      "new": "标记认定内容：那是珍贵时光",
+      "reason": "「珍贵」弱化了「かけがえのない／无可替代」的排他含义，同时删掉了该内容作为「知らず」认定对象的否定视角；这不再是纯布局压缩。",
+      "resolution": "exclude",
+      "recommendedAlternative": "标记认定内容：无可替代的时光"
+    }
+  ],
+  "recommendedProposalSet": {
+    "mode": "all-except-listed",
+    "proposalReferences": [
+      {
+        "role": "lexical",
+        "path": "project/proposals/lexical-layout-corrections.json",
+        "includeChangeIndexes": [0, 1, 2],
+        "excludeChangeIndexes": [],
+        "recommendedCount": 3
+      },
+      {
+        "role": "grammar",
+        "path": "project/proposals/grammar-layout-corrections.json",
+        "includeChangeIndexes": "0-13",
+        "excludeChangeIndexes": [],
+        "recommendedCount": 14
+      },
+      {
+        "role": "translation",
+        "path": "project/proposals/translation-layout-corrections.json",
+        "includeChangeIndexes": [0, 1, 2, 3, 5, 6],
+        "excludeChangeIndexes": [4, 7],
+        "recommendedCount": 6
+      }
+    ],
+    "recommendedChangeCount": 23,
+    "excludedChangeCount": 2,
+    "mergeAuthorized": false
+  },
+  "auditChecks": {
+    "schemaVersionAndRole": "passed",
+    "baseHashMatchesCurrentFrames": true,
+    "proposalBaseHashesAgree": true,
+    "exactOldValues": {
+      "checked": 25,
+      "matched": 25,
+      "mismatched": 0
+    },
+    "sameFieldConflicts": [],
+    "changesTokenStructureTrueCount": 0,
+    "repeatedLineConsistency": {
+      "result": "passed-for-recommended-set",
+      "pairedGroups": [
+        ["l010", "l042"],
+        ["l012", "l044"],
+        ["l034", "l057"],
+        ["l038", "l061"],
+        ["l011", "l043"],
+        ["l019", "l051"]
+      ],
+      "excludedPairedGroup": ["l032", "l055"]
+    },
+    "layoutOnlyAndSemanticSafety": {
+      "recommended": "passed",
+      "excluded": "failed-semantic-preservation",
+      "notes": [
+        "The three lexical changes implement kanji-only ruby by removing kana already present in the surface; they do not alter lyric text, timing, tokens, or meaning.",
+        "The fourteen grammar changes shorten labels while retaining the grammatical category or construction needed for study.",
+        "Six translation-role changes shorten function descriptions without changing their grammatical relation or contextual meaning.",
+        "Two translation-role changes were excluded because their shorter wording weakens the meaning of かけがえのない."
+      ]
+    }
+  },
+  "notes": [
+    "No proposal was merged and project/frames.json was not edited.",
+    "After an authorized merge, layout validation must be rerun against the shortened active values."
+  ]
+}

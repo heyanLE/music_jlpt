@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "integration",
+  "mergedFrom": "all-roles",
+  "framesBeforeSha256": "1a2e278b3b3d7dc288b45001b1212cd90fb85e7fe51b241613c6ae148b14af78",
+  "framesAfterSha256": "1a2e278b3b3d7dc288b45001b1212cd90fb85e7fe51b241613c6ae148b14af78",
+  "mergedProposalFiles": [
+    "project/proposals/lexical.json",
+    "project/proposals/grammar.json",
+    "project/proposals/translation.json"
+  ],
+  "conflicts": [],
+  "scope": "all"
+}

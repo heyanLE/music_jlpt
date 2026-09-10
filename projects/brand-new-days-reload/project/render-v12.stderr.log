@@ -1,0 +1,8 @@
+[flac @ 000002b2c4ce3c00] invalid sync code
+[flac @ 000002b2c4ce3c00] invalid frame header
+[flac @ 000002b2c4ce3c00] decode_frame() failed
+[aist#0:0/flac @ 000002b2c4cd9d80] [dec:flac @ 000002b2c4ce1fc0] Decoding error: Invalid data found when processing input
+[flac @ 000001c2114fcc80] invalid sync code
+[flac @ 000001c2114fcc80] invalid frame header
+[flac @ 000001c2114fcc80] decode_frame() failed
+[aist#2:0/flac @ 000001c2114b7c00] [dec:flac @ 000001c210a746c0] Decoding error: Invalid data found when processing input

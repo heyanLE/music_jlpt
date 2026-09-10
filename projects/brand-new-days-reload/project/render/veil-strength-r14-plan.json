@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "runId": "20260817-r14-stronger-lyric-veil",
+  "change": {
+    "veilColor": "#000000",
+    "veilMode": "persistent-learning-foreground",
+    "opacity": 0.46,
+    "previousEffectiveOpacity": 0.282,
+    "reason": "Increase text separation from the animated background while preserving current typography, English translations, spectrum, and transitions."
+  },
+  "framesSha256": "0d8667e12599a92d9500c2f9b5a61c78c230cf0c713e207df658d14dac65d75c",
+  "rendererSha256": "5ef61703ed4347e346a2d3adf458f61f44e5393a3f1a81e26c49cd731b2671ae",
+  "output": "deliverables/final/brand-new-days-reload--interlude-wallpaper-switch--foobar-spectrum--outlined--stronger-veil--20260817-r14.mp4"
+}

@@ -1,0 +1,5362 @@
+{
+  "schemaVersion": 3,
+  "frames": [
+    {
+      "id": "l001",
+      "startMs": 7996,
+      "endMs": 14385,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "めいっぱい背伸びしてきたけど",
+          "qrcParts": [
+            {
+              "text": "め",
+              "startMs": 7996,
+              "endMs": 8805,
+              "durationMs": 809
+            },
+            {
+              "text": "い",
+              "startMs": 8805,
+              "endMs": 9005,
+              "durationMs": 200
+            },
+            {
+              "text": "っ",
+              "startMs": 9006,
+              "endMs": 9206,
+              "durationMs": 200
+            },
+            {
+              "text": "ぱ",
+              "startMs": 9206,
+              "endMs": 9613,
+              "durationMs": 407
+            },
+            {
+              "text": "い",
+              "startMs": 9613,
+              "endMs": 9974,
+              "durationMs": 361
+            },
+            {
+              "text": "背",
+              "startMs": 9974,
+              "endMs": 10398,
+              "durationMs": 424
+            },
+            {
+              "text": "伸",
+              "startMs": 10398,
+              "endMs": 10797,
+              "durationMs": 399
+            },
+            {
+              "text": "び",
+              "startMs": 10797,
+              "endMs": 11288,
+              "durationMs": 491
+            },
+            {
+              "text": "し",
+              "startMs": 11609,
+              "endMs": 11969,
+              "durationMs": 360
+            },
+            {
+              "text": "て",
+              "startMs": 11969,
+              "endMs": 12377,
+              "durationMs": 408
+            },
+            {
+              "text": "き",
+              "startMs": 12377,
+              "endMs": 13120,
+              "durationMs": 743
+            },
+            {
+              "text": "た",
+              "startMs": 13120,
+              "endMs": 13553,
+              "durationMs": 433
+            },
+            {
+              "text": "け",
+              "startMs": 13553,
+              "endMs": 13960,
+              "durationMs": 407
+            },
+            {
+              "text": "ど",
+              "startMs": 13960,
+              "endMs": 14385,
+              "durationMs": 425
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "めいっぱい背伸びしてきたけど",
+        "furigana": [
+          {
+            "base": "背伸",
+            "cardIndex": 1,
+            "surfaceOffset": 0,
+            "reading": "せの"
+          }
+        ],
+        "romaji": "meippai senobi shite kita kedo",
+        "translationZh": "尽管一直以来我都在竭力地逞强",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "めいっぱい",
+          "reading": "めいっぱい",
+          "romaji": "meippai",
+          "grammarStructureZh": "副词（程度）",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "竭尽全力"
+        },
+        {
+          "token": "背伸び",
+          "reading": "せのび",
+          "romaji": "senobi",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "逞强；勉强自己"
+        },
+        {
+          "token": "してきた",
+          "reading": "してきた",
+          "romaji": "shite kita",
+          "grammarStructureZh": "Vてくる（过去至今）",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "一路……至今"
+        },
+        {
+          "token": "けど",
+          "reading": "けど",
+          "romaji": "kedo",
+          "grammarStructureZh": "接续助词：逆接",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "承接下句，表示转折"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l002",
+      "startMs": 14385,
+      "endMs": 20804,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "君の前じゃ上手くできない",
+          "qrcParts": [
+            {
+              "text": "君",
+              "startMs": 14385,
+              "endMs": 15601,
+              "durationMs": 1216
+            },
+            {
+              "text": "の",
+              "startMs": 15601,
+              "endMs": 16201,
+              "durationMs": 600
+            },
+            {
+              "text": "前",
+              "startMs": 16424,
+              "endMs": 17185,
+              "durationMs": 761
+            },
+            {
+              "text": "じ",
+              "startMs": 17185,
+              "endMs": 17381,
+              "durationMs": 196
+            },
+            {
+              "text": "ゃ",
+              "startMs": 17381,
+              "endMs": 17680,
+              "durationMs": 299
+            },
+            {
+              "text": "上",
+              "startMs": 18024,
+              "endMs": 18399,
+              "durationMs": 375
+            },
+            {
+              "text": "手",
+              "startMs": 18399,
+              "endMs": 18776,
+              "durationMs": 377
+            },
+            {
+              "text": "く",
+              "startMs": 18776,
+              "endMs": 19255,
+              "durationMs": 479
+            },
+            {
+              "text": "で",
+              "startMs": 19598,
+              "endMs": 19982,
+              "durationMs": 384
+            },
+            {
+              "text": "き",
+              "startMs": 19982,
+              "endMs": 20366,
+              "durationMs": 384
+            },
+            {
+              "text": "な",
+              "startMs": 20366,
+              "endMs": 20477,
+              "durationMs": 111
+            },
+            {
+              "text": "い",
+              "startMs": 20477,
+              "endMs": 20804,
+              "durationMs": 327
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "君の前じゃ上手くできない",
+        "furigana": [
+          {
+            "cardIndex": 0,
+            "base": "君",
+            "surfaceOffset": 0,
+            "reading": "きみ"
+          },
+          {
+            "cardIndex": 2,
+            "base": "前",
+            "surfaceOffset": 0,
+            "reading": "まえ"
+          },
+          {
+            "cardIndex": 4,
+            "base": "上手",
+            "surfaceOffset": 0,
+            "reading": "うま"
+          }
+        ],
+        "romaji": "kimi no mae ja umaku dekinai",
+        "translationZh": "可一到你面前，我就怎么也做不好",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "君",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "你"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "表示所属或修饰关系"
+        },
+        {
+          "token": "前",
+          "reading": "まえ",
+          "romaji": "mae",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "面前"
+        },
+        {
+          "token": "じゃ",
+          "reading": "じゃ",
+          "romaji": "ja",
+          "grammarStructureZh": "助词组合（では的口语形）",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "提示场合：在你面前（「では」的口语）"
+        },
+        {
+          "token": "上手く",
+          "reading": "うまく",
+          "romaji": "umaku",
+          "grammarStructureZh": "「上手い」的く形",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "顺利地；妥善地"
+        },
+        {
+          "token": "できない",
+          "reading": "できない",
+          "romaji": "dekinai",
+          "grammarStructureZh": "动词可能否定形",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "做不好"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l003",
+      "startMs": 20804,
+      "endMs": 25824,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "炭酸が抜けるより早いスピードで",
+          "qrcParts": [
+            {
+              "text": "炭",
+              "startMs": 20804,
+              "endMs": 21212,
+              "durationMs": 408
+            },
+            {
+              "text": "酸",
+              "startMs": 21212,
+              "endMs": 21597,
+              "durationMs": 385
+            },
+            {
+              "text": "が",
+              "startMs": 21597,
+              "endMs": 21812,
+              "durationMs": 215
+            },
+            {
+              "text": "抜",
+              "startMs": 21812,
+              "endMs": 22028,
+              "durationMs": 216
+            },
+            {
+              "text": "け",
+              "startMs": 22028,
+              "endMs": 22244,
+              "durationMs": 216
+            },
+            {
+              "text": "る",
+              "startMs": 22244,
+              "endMs": 22605,
+              "durationMs": 361
+            },
+            {
+              "text": "よ",
+              "startMs": 22605,
+              "endMs": 22972,
+              "durationMs": 367
+            },
+            {
+              "text": "り",
+              "startMs": 22972,
+              "endMs": 23431,
+              "durationMs": 459
+            },
+            {
+              "text": "早",
+              "startMs": 23431,
+              "endMs": 24056,
+              "durationMs": 625
+            },
+            {
+              "text": "い",
+              "startMs": 24056,
+              "endMs": 24424,
+              "durationMs": 368
+            },
+            {
+              "text": "ス",
+              "startMs": 24424,
+              "endMs": 24792,
+              "durationMs": 368
+            },
+            {
+              "text": "ピ",
+              "startMs": 24792,
+              "endMs": 25019,
+              "durationMs": 227
+            },
+            {
+              "text": "ー",
+              "startMs": 25019,
+              "endMs": 25246,
+              "durationMs": 227
+            },
+            {
+              "text": "ド",
+              "startMs": 25247,
+              "endMs": 25448,
+              "durationMs": 201
+            },
+            {
+              "text": "で",
+              "startMs": 25448,
+              "endMs": 25824,
+              "durationMs": 376
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "炭酸が抜けるより早いスピードで",
+        "furigana": [
+          {
+            "cardIndex": 0,
+            "base": "炭酸",
+            "surfaceOffset": 0,
+            "reading": "たんさん"
+          },
+          {
+            "cardIndex": 2,
+            "base": "抜",
+            "surfaceOffset": 0,
+            "reading": "ぬ"
+          },
+          {
+            "cardIndex": 4,
+            "base": "早",
+            "surfaceOffset": 0,
+            "reading": "はや"
+          }
+        ],
+        "romaji": "tansan ga nukeru yori hayai supiido de",
+        "translationZh": "以比碳酸跑光还快的速度",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "炭酸",
+          "reading": "たんさん",
+          "romaji": "tansan",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "碳酸；汽水中的气泡"
+        },
+        {
+          "token": "が",
+          "reading": "が",
+          "romaji": "ga",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "提示主语或强调对象"
+        },
+        {
+          "token": "抜ける",
+          "reading": "ぬける",
+          "romaji": "nukeru",
+          "grammarStructureZh": "动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "跑掉；消散"
+        },
+        {
+          "token": "より",
+          "reading": "より",
+          "romaji": "yori",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "提示比较基准"
+        },
+        {
+          "token": "早い",
+          "reading": "はやい",
+          "romaji": "hayai",
+          "grammarStructureZh": "い形容词连体形",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "快；迅速"
+        },
+        {
+          "token": "スピード",
+          "reading": "すぴーど",
+          "romaji": "supiido",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "sourceWord": "speed",
+          "zhMeaning": "速度"
+        },
+        {
+          "token": "で",
+          "reading": "で",
+          "romaji": "de",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "表示方式：以……速度"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l004",
+      "startMs": 26424,
+      "endMs": 28997,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "変わっていく気持ち",
+          "qrcParts": [
+            {
+              "text": "変",
+              "startMs": 26424,
+              "endMs": 27256,
+              "durationMs": 832
+            },
+            {
+              "text": "わ",
+              "startMs": 27256,
+              "endMs": 27460,
+              "durationMs": 204
+            },
+            {
+              "text": "っ",
+              "startMs": 27461,
+              "endMs": 27665,
+              "durationMs": 204
+            },
+            {
+              "text": "て",
+              "startMs": 27665,
+              "endMs": 27848,
+              "durationMs": 183
+            },
+            {
+              "text": "い",
+              "startMs": 27849,
+              "endMs": 28032,
+              "durationMs": 183
+            },
+            {
+              "text": "く",
+              "startMs": 28032,
+              "endMs": 28216,
+              "durationMs": 184
+            },
+            {
+              "text": "気",
+              "startMs": 28216,
+              "endMs": 28424,
+              "durationMs": 208
+            },
+            {
+              "text": "持",
+              "startMs": 28424,
+              "endMs": 28640,
+              "durationMs": 216
+            },
+            {
+              "text": "ち",
+              "startMs": 28640,
+              "endMs": 28997,
+              "durationMs": 357
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "変わっていく気持ち",
+        "furigana": [
+          {
+            "base": "変",
+            "cardIndex": 0,
+            "surfaceOffset": 0,
+            "reading": "か"
+          },
+          {
+            "base": "気持",
+            "cardIndex": 1,
+            "surfaceOffset": 0,
+            "reading": "きも"
+          }
+        ],
+        "romaji": "kawatte iku kimochi",
+        "translationZh": "这份不断变化着的心情",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "変わっていく",
+          "reading": "かわっていく",
+          "romaji": "kawatte iku",
+          "grammarStructureZh": "Vていく（变化持续）",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "逐渐变化下去"
+        },
+        {
+          "token": "気持ち",
+          "reading": "きもち",
+          "romaji": "kimochi",
+          "grammarStructureZh": "名词（受前项修饰）",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "心情；感受"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l005",
+      "startMs": 28997,
+      "endMs": 36022,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "まだ自分でも気づいてない",
+          "qrcParts": [
+            {
+              "text": "ま",
+              "startMs": 28997,
+              "endMs": 29380,
+              "durationMs": 383
+            },
+            {
+              "text": "だ",
+              "startMs": 29380,
+              "endMs": 29780,
+              "durationMs": 400
+            },
+            {
+              "text": "自",
+              "startMs": 29780,
+              "endMs": 30156,
+              "durationMs": 376
+            },
+            {
+              "text": "分",
+              "startMs": 30156,
+              "endMs": 30796,
+              "durationMs": 640
+            },
+            {
+              "text": "で",
+              "startMs": 30796,
+              "endMs": 31020,
+              "durationMs": 224
+            },
+            {
+              "text": "も",
+              "startMs": 31020,
+              "endMs": 32623,
+              "durationMs": 1603
+            },
+            {
+              "text": "気",
+              "startMs": 33199,
+              "endMs": 33583,
+              "durationMs": 384
+            },
+            {
+              "text": "づ",
+              "startMs": 33583,
+              "endMs": 33991,
+              "durationMs": 408
+            },
+            {
+              "text": "い",
+              "startMs": 33991,
+              "endMs": 34399,
+              "durationMs": 408
+            },
+            {
+              "text": "て",
+              "startMs": 34399,
+              "endMs": 34785,
+              "durationMs": 386
+            },
+            {
+              "text": "な",
+              "startMs": 34785,
+              "endMs": 35201,
+              "durationMs": 416
+            },
+            {
+              "text": "い",
+              "startMs": 35201,
+              "endMs": 36022,
+              "durationMs": 821
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "まだ自分でも気づいてない",
+        "furigana": [
+          {
+            "cardIndex": 1,
+            "base": "自分",
+            "surfaceOffset": 0,
+            "reading": "じぶん"
+          },
+          {
+            "cardIndex": 3,
+            "base": "気",
+            "surfaceOffset": 0,
+            "reading": "き"
+          }
+        ],
+        "romaji": "mada jibun demo kizuitenai",
+        "translationZh": "连我自己都还没有察觉",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "まだ",
+          "reading": "まだ",
+          "romaji": "mada",
+          "grammarStructureZh": "副词＋否定",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "与否定呼应，表示尚未"
+        },
+        {
+          "token": "自分",
+          "reading": "じぶん",
+          "romaji": "jibun",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "自己"
+        },
+        {
+          "token": "でも",
+          "reading": "でも",
+          "romaji": "demo",
+          "grammarStructureZh": "副助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "表示极端举例：连自己也……"
+        },
+        {
+          "token": "気づいてない",
+          "reading": "きづいてない",
+          "romaji": "kizuitenai",
+          "grammarStructureZh": "Vていない（口语省略）",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "还没察觉"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l006",
+      "startMs": 36022,
+      "endMs": 45755,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "ねえ 最初に望んだ未来とは",
+          "qrcParts": [
+            {
+              "text": "ね",
+              "startMs": 36022,
+              "endMs": 36280,
+              "durationMs": 258
+            },
+            {
+              "text": "え",
+              "startMs": 36281,
+              "endMs": 36539,
+              "durationMs": 258
+            },
+            {
+              "text": " ",
+              "startMs": 36539,
+              "endMs": 36797,
+              "durationMs": 258
+            },
+            {
+              "text": "最",
+              "startMs": 36798,
+              "endMs": 38054,
+              "durationMs": 1256
+            },
+            {
+              "text": "初",
+              "startMs": 38054,
+              "endMs": 38254,
+              "durationMs": 200
+            },
+            {
+              "text": "に",
+              "startMs": 38254,
+              "endMs": 39246,
+              "durationMs": 992
+            },
+            {
+              "text": "望",
+              "startMs": 39606,
+              "endMs": 40794,
+              "durationMs": 1188
+            },
+            {
+              "text": "ん",
+              "startMs": 40794,
+              "endMs": 41582,
+              "durationMs": 788
+            },
+            {
+              "text": "だ",
+              "startMs": 41582,
+              "endMs": 42007,
+              "durationMs": 425
+            },
+            {
+              "text": "未",
+              "startMs": 42007,
+              "endMs": 42407,
+              "durationMs": 400
+            },
+            {
+              "text": "来",
+              "startMs": 42407,
+              "endMs": 44419,
+              "durationMs": 2012
+            },
+            {
+              "text": "と",
+              "startMs": 44419,
+              "endMs": 44627,
+              "durationMs": 208
+            },
+            {
+              "text": "は",
+              "startMs": 44627,
+              "endMs": 45755,
+              "durationMs": 1128
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "ねえ 最初に望んだ未来とは",
+        "furigana": [
+          {
+            "base": "最初",
+            "cardIndex": 1,
+            "surfaceOffset": 0,
+            "reading": "さいしょ"
+          },
+          {
+            "base": "望",
+            "cardIndex": 3,
+            "surfaceOffset": 0,
+            "reading": "のぞ"
+          },
+          {
+            "base": "未来",
+            "cardIndex": 4,
+            "surfaceOffset": 0,
+            "reading": "みらい"
+          }
+        ],
+        "romaji": "nee saisho ni nozonda mirai to wa",
+        "translationZh": "呐，虽然与最初期望的未来",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "ねえ",
+          "reading": "ねえ",
+          "romaji": "nee",
+          "grammarStructureZh": "感叹词（呼唤）",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "喂；呐"
+        },
+        {
+          "token": "最初",
+          "reading": "さいしょ",
+          "romaji": "saisho",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "最初；起初"
+        },
+        {
+          "token": "に",
+          "reading": "に",
+          "romaji": "ni",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "表示时间点：最初时"
+        },
+        {
+          "token": "望んだ",
+          "reading": "のぞんだ",
+          "romaji": "nozonda",
+          "grammarStructureZh": "动词过去形",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "曾经向往的"
+        },
+        {
+          "token": "未来",
+          "reading": "みらい",
+          "romaji": "mirai",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "未来"
+        },
+        {
+          "token": "とは",
+          "reading": "とは",
+          "romaji": "to wa",
+          "grammarStructureZh": "格助词＋提示助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "提示比较对象并形成对照"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l007",
+      "startMs": 45995,
+      "endMs": 49363,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "少し違うけれど",
+          "qrcParts": [
+            {
+              "text": "少",
+              "startMs": 45995,
+              "endMs": 46739,
+              "durationMs": 744
+            },
+            {
+              "text": "し",
+              "startMs": 46739,
+              "endMs": 47211,
+              "durationMs": 472
+            },
+            {
+              "text": "違",
+              "startMs": 47211,
+              "endMs": 48004,
+              "durationMs": 793
+            },
+            {
+              "text": "う",
+              "startMs": 48004,
+              "endMs": 48403,
+              "durationMs": 399
+            },
+            {
+              "text": "け",
+              "startMs": 48403,
+              "endMs": 48763,
+              "durationMs": 360
+            },
+            {
+              "text": "れ",
+              "startMs": 48763,
+              "endMs": 49011,
+              "durationMs": 248
+            },
+            {
+              "text": "ど",
+              "startMs": 49011,
+              "endMs": 49363,
+              "durationMs": 352
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "少し違うけれど",
+        "furigana": [
+          {
+            "cardIndex": 0,
+            "base": "少",
+            "surfaceOffset": 0,
+            "reading": "すこ"
+          },
+          {
+            "cardIndex": 1,
+            "base": "違",
+            "surfaceOffset": 0,
+            "reading": "ちが"
+          }
+        ],
+        "romaji": "sukoshi chigau keredo",
+        "translationZh": "稍微有一些不同",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "少し",
+          "reading": "すこし",
+          "romaji": "sukoshi",
+          "grammarStructureZh": "副词（程度）",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "稍微；有些"
+        },
+        {
+          "token": "違う",
+          "reading": "ちがう",
+          "romaji": "chigau",
+          "grammarStructureZh": "动词普通形",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "不同；不一样"
+        },
+        {
+          "token": "けれど",
+          "reading": "けれど",
+          "romaji": "keredo",
+          "grammarStructureZh": "接续助词：逆接",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "承接下句，表示虽有不同但……"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l008",
+      "startMs": 49603,
+      "endMs": 57227,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "最後はなにもいらない",
+          "qrcParts": [
+            {
+              "text": "最",
+              "startMs": 49603,
+              "endMs": 50811,
+              "durationMs": 1208
+            },
+            {
+              "text": "後",
+              "startMs": 50811,
+              "endMs": 51027,
+              "durationMs": 216
+            },
+            {
+              "text": "は",
+              "startMs": 51027,
+              "endMs": 52115,
+              "durationMs": 1088
+            },
+            {
+              "text": "な",
+              "startMs": 52395,
+              "endMs": 52827,
+              "durationMs": 432
+            },
+            {
+              "text": "に",
+              "startMs": 52827,
+              "endMs": 53667,
+              "durationMs": 840
+            },
+            {
+              "text": "も",
+              "startMs": 53667,
+              "endMs": 54371,
+              "durationMs": 704
+            },
+            {
+              "text": "い",
+              "startMs": 54371,
+              "endMs": 54787,
+              "durationMs": 416
+            },
+            {
+              "text": "ら",
+              "startMs": 54787,
+              "endMs": 55155,
+              "durationMs": 368
+            },
+            {
+              "text": "な",
+              "startMs": 55155,
+              "endMs": 55571,
+              "durationMs": 416
+            },
+            {
+              "text": "い",
+              "startMs": 55571,
+              "endMs": 57227,
+              "durationMs": 1656
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "最後はなにもいらない",
+        "furigana": [
+          {
+            "cardIndex": 0,
+            "base": "最後",
+            "surfaceOffset": 0,
+            "reading": "さいご"
+          }
+        ],
+        "romaji": "saigo wa nanimo iranai",
+        "translationZh": "但到最后，我什么都不需要",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "最後",
+          "reading": "さいご",
+          "romaji": "saigo",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "最后；最终"
+        },
+        {
+          "token": "は",
+          "reading": "は",
+          "romaji": "wa",
+          "grammarStructureZh": "提示助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "提示主题或形成对比"
+        },
+        {
+          "token": "なにも",
+          "reading": "なにも",
+          "romaji": "nanimo",
+          "grammarStructureZh": "疑问代词＋副助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "与否定呼应：什么都……"
+        },
+        {
+          "token": "いらない",
+          "reading": "いらない",
+          "romaji": "iranai",
+          "grammarStructureZh": "动词否定形",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "不需要"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l009",
+      "startMs": 57227,
+      "endMs": 62192,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "ただそばにいて",
+          "qrcParts": [
+            {
+              "text": "た",
+              "startMs": 57227,
+              "endMs": 57435,
+              "durationMs": 208
+            },
+            {
+              "text": "だ",
+              "startMs": 57435,
+              "endMs": 58683,
+              "durationMs": 1248
+            },
+            {
+              "text": "そ",
+              "startMs": 58851,
+              "endMs": 59179,
+              "durationMs": 328
+            },
+            {
+              "text": "ば",
+              "startMs": 59179,
+              "endMs": 60002,
+              "durationMs": 823
+            },
+            {
+              "text": "に",
+              "startMs": 60002,
+              "endMs": 60314,
+              "durationMs": 312
+            },
+            {
+              "text": "い",
+              "startMs": 60314,
+              "endMs": 60626,
+              "durationMs": 312
+            },
+            {
+              "text": "て",
+              "startMs": 60626,
+              "endMs": 62192,
+              "durationMs": 1566
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "ただそばにいて",
+        "furigana": [],
+        "romaji": "tada soba ni ite",
+        "translationZh": "只要你在我身边",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "ただ",
+          "reading": "ただ",
+          "romaji": "tada",
+          "grammarStructureZh": "副词：限定",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "只；只是"
+        },
+        {
+          "token": "そば",
+          "reading": "そば",
+          "romaji": "soba",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "身边；近旁"
+        },
+        {
+          "token": "に",
+          "reading": "に",
+          "romaji": "ni",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "提示存在地点：在……身边"
+        },
+        {
+          "token": "いて",
+          "reading": "いて",
+          "romaji": "ite",
+          "grammarStructureZh": "动词て形（请求）",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "待在；在"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l010",
+      "startMs": 62408,
+      "endMs": 65383,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "君がいる明日がいいなって",
+          "qrcParts": [
+            {
+              "text": "君",
+              "startMs": 62408,
+              "endMs": 62800,
+              "durationMs": 392
+            },
+            {
+              "text": "が",
+              "startMs": 62800,
+              "endMs": 63000,
+              "durationMs": 200
+            },
+            {
+              "text": "い",
+              "startMs": 63000,
+              "endMs": 63208,
+              "durationMs": 208
+            },
+            {
+              "text": "る",
+              "startMs": 63208,
+              "endMs": 63600,
+              "durationMs": 392
+            },
+            {
+              "text": "明日",
+              "startMs": 63600,
+              "endMs": 64168,
+              "durationMs": 568
+            },
+            {
+              "text": "が",
+              "startMs": 64168,
+              "endMs": 64384,
+              "durationMs": 216
+            },
+            {
+              "text": "い",
+              "startMs": 64384,
+              "endMs": 64588,
+              "durationMs": 204
+            },
+            {
+              "text": "い",
+              "startMs": 64588,
+              "endMs": 64807,
+              "durationMs": 219
+            },
+            {
+              "text": "な",
+              "startMs": 64807,
+              "endMs": 64987,
+              "durationMs": 180
+            },
+            {
+              "text": "っ",
+              "startMs": 64987,
+              "endMs": 65167,
+              "durationMs": 180
+            },
+            {
+              "text": "て",
+              "startMs": 65168,
+              "endMs": 65383,
+              "durationMs": 215
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "君がいる明日がいいなって",
+        "furigana": [
+          {
+            "base": "君",
+            "cardIndex": 0,
+            "surfaceOffset": 0,
+            "reading": "きみ"
+          },
+          {
+            "base": "明日",
+            "cardIndex": 3,
+            "surfaceOffset": 0,
+            "reading": "あす"
+          }
+        ],
+        "romaji": "kimi ga iru asu ga ii na tte",
+        "translationZh": "我想着，有你的明天就好了",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "君",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "你"
+        },
+        {
+          "token": "が",
+          "reading": "が",
+          "romaji": "ga",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "提示从句主语"
+        },
+        {
+          "token": "いる",
+          "reading": "いる",
+          "romaji": "iru",
+          "grammarStructureZh": "动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "在；存在"
+        },
+        {
+          "token": "明日",
+          "reading": "あす",
+          "romaji": "asu",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "明天"
+        },
+        {
+          "token": "が",
+          "reading": "が",
+          "romaji": "ga",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "愿望评价对象"
+        },
+        {
+          "token": "いい",
+          "reading": "いい",
+          "romaji": "ii",
+          "grammarStructureZh": "い形容词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "好；理想"
+        },
+        {
+          "token": "な",
+          "reading": "な",
+          "romaji": "na",
+          "grammarStructureZh": "终助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "表达愿望语气"
+        },
+        {
+          "token": "って",
+          "reading": "って",
+          "romaji": "tte",
+          "grammarStructureZh": "引用助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "引用愿望内容"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l011",
+      "startMs": 65383,
+      "endMs": 68349,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "思っていたって変えられない",
+          "qrcParts": [
+            {
+              "text": "思",
+              "startMs": 65383,
+              "endMs": 65795,
+              "durationMs": 412
+            },
+            {
+              "text": "っ",
+              "startMs": 65795,
+              "endMs": 65991,
+              "durationMs": 196
+            },
+            {
+              "text": "て",
+              "startMs": 65991,
+              "endMs": 66190,
+              "durationMs": 199
+            },
+            {
+              "text": "い",
+              "startMs": 66190,
+              "endMs": 66389,
+              "durationMs": 199
+            },
+            {
+              "text": "た",
+              "startMs": 66390,
+              "endMs": 66594,
+              "durationMs": 204
+            },
+            {
+              "text": "っ",
+              "startMs": 66595,
+              "endMs": 66795,
+              "durationMs": 200
+            },
+            {
+              "text": "て",
+              "startMs": 66795,
+              "endMs": 67011,
+              "durationMs": 216
+            },
+            {
+              "text": "変",
+              "startMs": 67011,
+              "endMs": 67395,
+              "durationMs": 384
+            },
+            {
+              "text": "え",
+              "startMs": 67395,
+              "endMs": 67595,
+              "durationMs": 200
+            },
+            {
+              "text": "ら",
+              "startMs": 67595,
+              "endMs": 67795,
+              "durationMs": 200
+            },
+            {
+              "text": "れ",
+              "startMs": 67795,
+              "endMs": 67996,
+              "durationMs": 201
+            },
+            {
+              "text": "な",
+              "startMs": 67996,
+              "endMs": 68197,
+              "durationMs": 201
+            },
+            {
+              "text": "い",
+              "startMs": 68197,
+              "endMs": 68349,
+              "durationMs": 152
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "思っていたって変えられない",
+        "furigana": [
+          {
+            "base": "思",
+            "cardIndex": 0,
+            "surfaceOffset": 0,
+            "reading": "おも"
+          },
+          {
+            "base": "変",
+            "cardIndex": 1,
+            "surfaceOffset": 0,
+            "reading": "か"
+          }
+        ],
+        "romaji": "omotte itatte kaerarenai",
+        "translationZh": "可光是这么想，什么也改变不了",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "思っていたって",
+          "reading": "おもっていたって",
+          "romaji": "omotte itatte",
+          "grammarStructureZh": "V过去＋たって（让步）",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "即使一直这么想"
+        },
+        {
+          "token": "変えられない",
+          "reading": "かえられない",
+          "romaji": "kaerarenai",
+          "grammarStructureZh": "动词可能否定形",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "无法改变"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l012",
+      "startMs": 68741,
+      "endMs": 73534,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "伝えなくちゃ",
+          "qrcParts": [
+            {
+              "text": "伝",
+              "startMs": 68741,
+              "endMs": 70429,
+              "durationMs": 1688
+            },
+            {
+              "text": "え",
+              "startMs": 70429,
+              "endMs": 70870,
+              "durationMs": 441
+            },
+            {
+              "text": "な",
+              "startMs": 70870,
+              "endMs": 71205,
+              "durationMs": 335
+            },
+            {
+              "text": "く",
+              "startMs": 71205,
+              "endMs": 71605,
+              "durationMs": 400
+            },
+            {
+              "text": "ち",
+              "startMs": 71605,
+              "endMs": 71949,
+              "durationMs": 344
+            },
+            {
+              "text": "ゃ",
+              "startMs": 71950,
+              "endMs": 73534,
+              "durationMs": 1584
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "伝えなくちゃ",
+        "furigana": [
+          {
+            "cardIndex": 0,
+            "base": "伝",
+            "surfaceOffset": 0,
+            "reading": "つた"
+          }
+        ],
+        "romaji": "tsutaenakucha",
+        "translationZh": "必须告诉你才行",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "伝えなくちゃ",
+          "reading": "つたえなくちゃ",
+          "romaji": "tsutaenakucha",
+          "grammarStructureZh": "Vなくちゃ（义务・口语）",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "必须传达（省略「ならない」）"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l013",
+      "startMs": 75164,
+      "endMs": 81236,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "できないことに目を向けて",
+          "qrcParts": [
+            {
+              "text": "で",
+              "startMs": 75164,
+              "endMs": 75972,
+              "durationMs": 808
+            },
+            {
+              "text": "き",
+              "startMs": 75972,
+              "endMs": 76364,
+              "durationMs": 392
+            },
+            {
+              "text": "な",
+              "startMs": 76364,
+              "endMs": 76588,
+              "durationMs": 224
+            },
+            {
+              "text": "い",
+              "startMs": 76588,
+              "endMs": 76860,
+              "durationMs": 272
+            },
+            {
+              "text": "こ",
+              "startMs": 77172,
+              "endMs": 77564,
+              "durationMs": 392
+            },
+            {
+              "text": "と",
+              "startMs": 77564,
+              "endMs": 78011,
+              "durationMs": 447
+            },
+            {
+              "text": "に",
+              "startMs": 78011,
+              "endMs": 78397,
+              "durationMs": 386
+            },
+            {
+              "text": "目",
+              "startMs": 78828,
+              "endMs": 79204,
+              "durationMs": 376
+            },
+            {
+              "text": "を",
+              "startMs": 79204,
+              "endMs": 79596,
+              "durationMs": 392
+            },
+            {
+              "text": "向",
+              "startMs": 79596,
+              "endMs": 80085,
+              "durationMs": 489
+            },
+            {
+              "text": "け",
+              "startMs": 80387,
+              "endMs": 80804,
+              "durationMs": 417
+            },
+            {
+              "text": "て",
+              "startMs": 80804,
+              "endMs": 81236,
+              "durationMs": 432
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "できないことに目を向けて",
+        "furigana": [
+          {
+            "base": "目",
+            "cardIndex": 3,
+            "surfaceOffset": 0,
+            "reading": "め"
+          },
+          {
+            "base": "向",
+            "cardIndex": 3,
+            "surfaceOffset": 2,
+            "reading": "む"
+          }
+        ],
+        "romaji": "dekinai koto ni me o mukete",
+        "translationZh": "只顾着把目光投向做不到的事",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "できない",
+          "reading": "できない",
+          "romaji": "dekinai",
+          "grammarStructureZh": "动词可能否定形",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "做不到"
+        },
+        {
+          "token": "こと",
+          "reading": "こと",
+          "romaji": "koto",
+          "grammarStructureZh": "形式名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "事情；将前项名词化"
+        },
+        {
+          "token": "に",
+          "reading": "に",
+          "romaji": "ni",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "提示动作朝向的对象：对……投去目光"
+        },
+        {
+          "token": "目を向けて",
+          "reading": "めをむけて",
+          "romaji": "me o mukete",
+          "grammarStructureZh": "固定搭配＋て形",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "把目光投向"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l014",
+      "startMs": 81236,
+      "endMs": 88033,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "ばかりの君に教えたいよ",
+          "qrcParts": [
+            {
+              "text": "ば",
+              "startMs": 81236,
+              "endMs": 81643,
+              "durationMs": 407
+            },
+            {
+              "text": "か",
+              "startMs": 81643,
+              "endMs": 82432,
+              "durationMs": 789
+            },
+            {
+              "text": "り",
+              "startMs": 82432,
+              "endMs": 82815,
+              "durationMs": 383
+            },
+            {
+              "text": "の",
+              "startMs": 82815,
+              "endMs": 83280,
+              "durationMs": 465
+            },
+            {
+              "text": "君",
+              "startMs": 83632,
+              "endMs": 84439,
+              "durationMs": 807
+            },
+            {
+              "text": "に",
+              "startMs": 84439,
+              "endMs": 84847,
+              "durationMs": 408
+            },
+            {
+              "text": "教",
+              "startMs": 85232,
+              "endMs": 86024,
+              "durationMs": 792
+            },
+            {
+              "text": "え",
+              "startMs": 86024,
+              "endMs": 86443,
+              "durationMs": 419
+            },
+            {
+              "text": "た",
+              "startMs": 86795,
+              "endMs": 87219,
+              "durationMs": 424
+            },
+            {
+              "text": "い",
+              "startMs": 87219,
+              "endMs": 87627,
+              "durationMs": 408
+            },
+            {
+              "text": "よ",
+              "startMs": 87627,
+              "endMs": 88033,
+              "durationMs": 406
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "ばかりの君に教えたいよ",
+        "furigana": [
+          {
+            "cardIndex": 2,
+            "base": "君",
+            "surfaceOffset": 0,
+            "reading": "きみ"
+          },
+          {
+            "cardIndex": 4,
+            "base": "教",
+            "surfaceOffset": 0,
+            "reading": "おし"
+          }
+        ],
+        "romaji": "bakari no kimi ni oshietai yo",
+        "translationZh": "我想告诉这样的你啊",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "ばかり",
+          "reading": "ばかり",
+          "romaji": "bakari",
+          "grammarStructureZh": "副助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "表示净是、只顾"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "表示所属或修饰关系"
+        },
+        {
+          "token": "君",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "你"
+        },
+        {
+          "token": "に",
+          "reading": "に",
+          "romaji": "ni",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "提示告知对象：告诉你"
+        },
+        {
+          "token": "教えたい",
+          "reading": "おしえたい",
+          "romaji": "oshietai",
+          "grammarStructureZh": "Vたい（愿望）",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "想告诉"
+        },
+        {
+          "token": "よ",
+          "reading": "よ",
+          "romaji": "yo",
+          "grammarStructureZh": "终助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "告知或加强语气"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l015",
+      "startMs": 88033,
+      "endMs": 92943,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "本当に知りたいのは本当の君で",
+          "qrcParts": [
+            {
+              "text": "本",
+              "startMs": 88033,
+              "endMs": 88433,
+              "durationMs": 400
+            },
+            {
+              "text": "当",
+              "startMs": 88433,
+              "endMs": 88808,
+              "durationMs": 375
+            },
+            {
+              "text": "に",
+              "startMs": 88808,
+              "endMs": 89033,
+              "durationMs": 225
+            },
+            {
+              "text": "知",
+              "startMs": 89033,
+              "endMs": 89225,
+              "durationMs": 192
+            },
+            {
+              "text": "り",
+              "startMs": 89225,
+              "endMs": 89441,
+              "durationMs": 216
+            },
+            {
+              "text": "た",
+              "startMs": 89441,
+              "endMs": 89808,
+              "durationMs": 367
+            },
+            {
+              "text": "い",
+              "startMs": 89808,
+              "endMs": 90225,
+              "durationMs": 417
+            },
+            {
+              "text": "の",
+              "startMs": 90225,
+              "endMs": 90632,
+              "durationMs": 407
+            },
+            {
+              "text": "は",
+              "startMs": 90632,
+              "endMs": 90987,
+              "durationMs": 355
+            },
+            {
+              "text": "本",
+              "startMs": 90987,
+              "endMs": 91612,
+              "durationMs": 625
+            },
+            {
+              "text": "当",
+              "startMs": 91612,
+              "endMs": 91987,
+              "durationMs": 375
+            },
+            {
+              "text": "の",
+              "startMs": 91987,
+              "endMs": 92187,
+              "durationMs": 200
+            },
+            {
+              "text": "君",
+              "startMs": 92187,
+              "endMs": 92628,
+              "durationMs": 441
+            },
+            {
+              "text": "で",
+              "startMs": 92628,
+              "endMs": 92943,
+              "durationMs": 315
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "本当に知りたいのは本当の君で",
+        "furigana": [
+          {
+            "base": "本当",
+            "cardIndex": 0,
+            "surfaceOffset": 0,
+            "reading": "ほんとう"
+          },
+          {
+            "base": "知",
+            "cardIndex": 1,
+            "surfaceOffset": 0,
+            "reading": "し"
+          },
+          {
+            "base": "本当",
+            "cardIndex": 4,
+            "surfaceOffset": 0,
+            "reading": "ほんとう"
+          },
+          {
+            "base": "君",
+            "cardIndex": 6,
+            "surfaceOffset": 0,
+            "reading": "きみ"
+          }
+        ],
+        "romaji": "hontou ni shiritai no wa hontou no kimi de",
+        "translationZh": "我真正想要了解的就是真实的你",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "本当に",
+          "reading": "ほんとうに",
+          "romaji": "hontou ni",
+          "grammarStructureZh": "ナ形容词连用修饰",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "真正地；确实"
+        },
+        {
+          "token": "知りたい",
+          "reading": "しりたい",
+          "romaji": "shiritai",
+          "grammarStructureZh": "Vたい（愿望）",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "想了解"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "grammarStructureZh": "形式名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "将前项名词化：所……的"
+        },
+        {
+          "token": "は",
+          "reading": "は",
+          "romaji": "wa",
+          "grammarStructureZh": "提示助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "提示主题或形成对比"
+        },
+        {
+          "token": "本当",
+          "reading": "ほんとう",
+          "romaji": "hontou",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "真实；真正"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "表示所属或修饰关系"
+        },
+        {
+          "token": "君",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "你"
+        },
+        {
+          "token": "で",
+          "reading": "で",
+          "romaji": "de",
+          "grammarStructureZh": "助动词「だ」连用形",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "断定并承接下文"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l016",
+      "startMs": 93606,
+      "endMs": 95423,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "もう正解が",
+          "qrcParts": [
+            {
+              "text": "も",
+              "startMs": 93606,
+              "endMs": 94006,
+              "durationMs": 400
+            },
+            {
+              "text": "う",
+              "startMs": 94006,
+              "endMs": 94406,
+              "durationMs": 400
+            },
+            {
+              "text": "正",
+              "startMs": 94406,
+              "endMs": 94814,
+              "durationMs": 408
+            },
+            {
+              "text": "解",
+              "startMs": 94814,
+              "endMs": 95230,
+              "durationMs": 416
+            },
+            {
+              "text": "が",
+              "startMs": 95230,
+              "endMs": 95423,
+              "durationMs": 193
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "もう正解が",
+        "furigana": [
+          {
+            "cardIndex": 1,
+            "base": "正解",
+            "surfaceOffset": 0,
+            "reading": "せいかい"
+          }
+        ],
+        "romaji": "mou seikai ga",
+        "translationZh": "其实，正确答案已经",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "もう",
+          "reading": "もう",
+          "romaji": "mou",
+          "grammarStructureZh": "副词＋否定",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "与下句否定呼应，表示已经不再"
+        },
+        {
+          "token": "正解",
+          "reading": "せいかい",
+          "romaji": "seikai",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "正确答案"
+        },
+        {
+          "token": "が",
+          "reading": "が",
+          "romaji": "ga",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "提示主语或强调对象"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l017",
+      "startMs": 95423,
+      "endMs": 99946,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "ほしいわけじゃないって",
+          "qrcParts": [
+            {
+              "text": "ほ",
+              "startMs": 95423,
+              "endMs": 95614,
+              "durationMs": 191
+            },
+            {
+              "text": "し",
+              "startMs": 95614,
+              "endMs": 95820,
+              "durationMs": 206
+            },
+            {
+              "text": "い",
+              "startMs": 95820,
+              "endMs": 96196,
+              "durationMs": 376
+            },
+            {
+              "text": "わ",
+              "startMs": 96196,
+              "endMs": 96628,
+              "durationMs": 432
+            },
+            {
+              "text": "け",
+              "startMs": 96628,
+              "endMs": 97012,
+              "durationMs": 384
+            },
+            {
+              "text": "じ",
+              "startMs": 97012,
+              "endMs": 97200,
+              "durationMs": 188
+            },
+            {
+              "text": "ゃ",
+              "startMs": 97200,
+              "endMs": 97388,
+              "durationMs": 188
+            },
+            {
+              "text": "な",
+              "startMs": 97388,
+              "endMs": 97628,
+              "durationMs": 240
+            },
+            {
+              "text": "い",
+              "startMs": 97628,
+              "endMs": 97848,
+              "durationMs": 220
+            },
+            {
+              "text": "っ",
+              "startMs": 97848,
+              "endMs": 97994,
+              "durationMs": 146
+            },
+            {
+              "text": "て",
+              "startMs": 97994,
+              "endMs": 99946,
+              "durationMs": 1952
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "ほしいわけじゃないって",
+        "furigana": [],
+        "romaji": "hoshii wake ja nai tte",
+        "translationZh": "不是我想要的东西了——",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "ほしい",
+          "reading": "ほしい",
+          "romaji": "hoshii",
+          "grammarStructureZh": "い形容词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "想要；希望得到"
+        },
+        {
+          "token": "わけじゃない",
+          "reading": "わけじゃない",
+          "romaji": "wake ja nai",
+          "grammarStructureZh": "わけではない（口语）",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "并不是……"
+        },
+        {
+          "token": "って",
+          "reading": "って",
+          "romaji": "tte",
+          "grammarStructureZh": "引用助词（＝と）",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "把前句内容提示为下句「気づく」的对象"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l018",
+      "startMs": 100370,
+      "endMs": 105784,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "気づいてないんだね",
+          "qrcParts": [
+            {
+              "text": "気",
+              "startMs": 100370,
+              "endMs": 100762,
+              "durationMs": 392
+            },
+            {
+              "text": "づ",
+              "startMs": 100762,
+              "endMs": 101185,
+              "durationMs": 423
+            },
+            {
+              "text": "い",
+              "startMs": 101185,
+              "endMs": 101577,
+              "durationMs": 392
+            },
+            {
+              "text": "て",
+              "startMs": 101577,
+              "endMs": 101961,
+              "durationMs": 384
+            },
+            {
+              "text": "な",
+              "startMs": 101961,
+              "endMs": 102377,
+              "durationMs": 416
+            },
+            {
+              "text": "い",
+              "startMs": 102377,
+              "endMs": 102797,
+              "durationMs": 420
+            },
+            {
+              "text": "ん",
+              "startMs": 102797,
+              "endMs": 103217,
+              "durationMs": 420
+            },
+            {
+              "text": "だ",
+              "startMs": 103217,
+              "endMs": 103993,
+              "durationMs": 776
+            },
+            {
+              "text": "ね",
+              "startMs": 103993,
+              "endMs": 105784,
+              "durationMs": 1791
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "気づいてないんだね",
+        "furigana": [
+          {
+            "cardIndex": 0,
+            "base": "気",
+            "surfaceOffset": 0,
+            "reading": "き"
+          }
+        ],
+        "romaji": "kizuitenai n da ne",
+        "translationZh": "你还没意识到这点吧",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "気づいてない",
+          "reading": "きづいてない",
+          "romaji": "kizuitenai",
+          "grammarStructureZh": "Vていない（口语省略）",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "还没察觉"
+        },
+        {
+          "token": "んだ",
+          "reading": "んだ",
+          "romaji": "n da",
+          "grammarStructureZh": "のだ（口语）",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "补充说明语气"
+        },
+        {
+          "token": "ね",
+          "reading": "ね",
+          "romaji": "ne",
+          "grammarStructureZh": "终助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "征求认同或缓和语气"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l019",
+      "startMs": 117031,
+      "endMs": 120036,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "季節が進むことを",
+          "qrcParts": [
+            {
+              "text": "季",
+              "startMs": 117031,
+              "endMs": 117224,
+              "durationMs": 193
+            },
+            {
+              "text": "節",
+              "startMs": 117224,
+              "endMs": 117608,
+              "durationMs": 384
+            },
+            {
+              "text": "が",
+              "startMs": 117608,
+              "endMs": 117999,
+              "durationMs": 391
+            },
+            {
+              "text": "進",
+              "startMs": 117999,
+              "endMs": 118624,
+              "durationMs": 625
+            },
+            {
+              "text": "む",
+              "startMs": 118624,
+              "endMs": 119005,
+              "durationMs": 381
+            },
+            {
+              "text": "こ",
+              "startMs": 119005,
+              "endMs": 119421,
+              "durationMs": 416
+            },
+            {
+              "text": "と",
+              "startMs": 119421,
+              "endMs": 119805,
+              "durationMs": 384
+            },
+            {
+              "text": "を",
+              "startMs": 119805,
+              "endMs": 120036,
+              "durationMs": 231
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "季節が進むことを",
+        "furigana": [
+          {
+            "cardIndex": 0,
+            "base": "季節",
+            "surfaceOffset": 0,
+            "reading": "きせつ"
+          },
+          {
+            "cardIndex": 2,
+            "base": "進",
+            "surfaceOffset": 0,
+            "reading": "すす"
+          }
+        ],
+        "romaji": "kisetsu ga susumu koto o",
+        "translationZh": "请别对季节的流转",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "季節",
+          "reading": "きせつ",
+          "romaji": "kisetsu",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "季节"
+        },
+        {
+          "token": "が",
+          "reading": "が",
+          "romaji": "ga",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "提示主语或强调对象"
+        },
+        {
+          "token": "進む",
+          "reading": "すすむ",
+          "romaji": "susumu",
+          "grammarStructureZh": "动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "向前推进；流转"
+        },
+        {
+          "token": "こと",
+          "reading": "こと",
+          "romaji": "koto",
+          "grammarStructureZh": "形式名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "事情；将前项名词化"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "o",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "提示动作对象"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l020",
+      "startMs": 120036,
+      "endMs": 123186,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "ためらわないでね",
+          "qrcParts": [
+            {
+              "text": "た",
+              "startMs": 120036,
+              "endMs": 120410,
+              "durationMs": 374
+            },
+            {
+              "text": "め",
+              "startMs": 120410,
+              "endMs": 120634,
+              "durationMs": 224
+            },
+            {
+              "text": "ら",
+              "startMs": 120634,
+              "endMs": 120971,
+              "durationMs": 337
+            },
+            {
+              "text": "わ",
+              "startMs": 120971,
+              "endMs": 121394,
+              "durationMs": 423
+            },
+            {
+              "text": "な",
+              "startMs": 121394,
+              "endMs": 121746,
+              "durationMs": 352
+            },
+            {
+              "text": "い",
+              "startMs": 121746,
+              "endMs": 122162,
+              "durationMs": 416
+            },
+            {
+              "text": "で",
+              "startMs": 122162,
+              "endMs": 122571,
+              "durationMs": 409
+            },
+            {
+              "text": "ね",
+              "startMs": 122571,
+              "endMs": 123186,
+              "durationMs": 615
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "ためらわないでね",
+        "furigana": [],
+        "romaji": "tamerawanaide ne",
+        "translationZh": "感到犹豫哦",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "ためらわないで",
+          "reading": "ためらわないで",
+          "romaji": "tamerawanaide",
+          "grammarStructureZh": "Vないで（否定请求）",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "请不要犹豫"
+        },
+        {
+          "token": "ね",
+          "reading": "ね",
+          "romaji": "ne",
+          "grammarStructureZh": "终助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "征求认同或缓和语气"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l021",
+      "startMs": 123378,
+      "endMs": 126154,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "今までの全ては",
+          "qrcParts": [
+            {
+              "text": "今",
+              "startMs": 123378,
+              "endMs": 123786,
+              "durationMs": 408
+            },
+            {
+              "text": "ま",
+              "startMs": 123786,
+              "endMs": 123995,
+              "durationMs": 209
+            },
+            {
+              "text": "で",
+              "startMs": 123995,
+              "endMs": 124370,
+              "durationMs": 375
+            },
+            {
+              "text": "の",
+              "startMs": 124370,
+              "endMs": 124587,
+              "durationMs": 217
+            },
+            {
+              "text": "全",
+              "startMs": 124587,
+              "endMs": 125354,
+              "durationMs": 767
+            },
+            {
+              "text": "て",
+              "startMs": 125354,
+              "endMs": 125754,
+              "durationMs": 400
+            },
+            {
+              "text": "は",
+              "startMs": 125754,
+              "endMs": 126154,
+              "durationMs": 400
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "今までの全ては",
+        "furigana": [
+          {
+            "base": "今",
+            "cardIndex": 0,
+            "surfaceOffset": 0,
+            "reading": "いま"
+          },
+          {
+            "base": "全",
+            "cardIndex": 2,
+            "surfaceOffset": 0,
+            "reading": "すべ"
+          }
+        ],
+        "romaji": "imamade no subete wa",
+        "translationZh": "迄今为止的一切",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "今まで",
+          "reading": "いままで",
+          "romaji": "imamade",
+          "grammarStructureZh": "时间副词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "迄今为止"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "表示所属或修饰关系"
+        },
+        {
+          "token": "全て",
+          "reading": "すべて",
+          "romaji": "subete",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "全部；一切"
+        },
+        {
+          "token": "は",
+          "reading": "は",
+          "romaji": "wa",
+          "grammarStructureZh": "提示助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "提示主题或形成对比"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l022",
+      "startMs": 126154,
+      "endMs": 131200,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "いつかに繋がるから",
+          "qrcParts": [
+            {
+              "text": "い",
+              "startMs": 126154,
+              "endMs": 126410,
+              "durationMs": 256
+            },
+            {
+              "text": "つ",
+              "startMs": 126410,
+              "endMs": 126786,
+              "durationMs": 376
+            },
+            {
+              "text": "か",
+              "startMs": 126786,
+              "endMs": 127002,
+              "durationMs": 216
+            },
+            {
+              "text": "に",
+              "startMs": 127002,
+              "endMs": 127322,
+              "durationMs": 320
+            },
+            {
+              "text": "繋",
+              "startMs": 127322,
+              "endMs": 128146,
+              "durationMs": 824
+            },
+            {
+              "text": "が",
+              "startMs": 128146,
+              "endMs": 128523,
+              "durationMs": 377
+            },
+            {
+              "text": "る",
+              "startMs": 128523,
+              "endMs": 128971,
+              "durationMs": 448
+            },
+            {
+              "text": "か",
+              "startMs": 128971,
+              "endMs": 129370,
+              "durationMs": 399
+            },
+            {
+              "text": "ら",
+              "startMs": 129370,
+              "endMs": 131200,
+              "durationMs": 1830
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "いつかに繋がるから",
+        "furigana": [
+          {
+            "cardIndex": 2,
+            "base": "繋",
+            "surfaceOffset": 0,
+            "reading": "つな"
+          }
+        ],
+        "romaji": "itsuka ni tsunagaru kara",
+        "translationZh": "因为终会通向未来的某一天",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "いつか",
+          "reading": "いつか",
+          "romaji": "itsuka",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "某一天；将来有一天"
+        },
+        {
+          "token": "に",
+          "reading": "に",
+          "romaji": "ni",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "提示对象、着点或时间"
+        },
+        {
+          "token": "繋がる",
+          "reading": "つながる",
+          "romaji": "tsunagaru",
+          "grammarStructureZh": "动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "相连；通向"
+        },
+        {
+          "token": "から",
+          "reading": "から",
+          "romaji": "kara",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "表示起点或原因"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l023",
+      "startMs": 135985,
+      "endMs": 144847,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "最初に望んだ未来とは",
+          "qrcParts": [
+            {
+              "text": "最",
+              "startMs": 135985,
+              "endMs": 137192,
+              "durationMs": 1207
+            },
+            {
+              "text": "初",
+              "startMs": 137192,
+              "endMs": 137416,
+              "durationMs": 224
+            },
+            {
+              "text": "に",
+              "startMs": 137416,
+              "endMs": 138472,
+              "durationMs": 1056
+            },
+            {
+              "text": "望",
+              "startMs": 138816,
+              "endMs": 140009,
+              "durationMs": 1193
+            },
+            {
+              "text": "ん",
+              "startMs": 140009,
+              "endMs": 140817,
+              "durationMs": 808
+            },
+            {
+              "text": "だ",
+              "startMs": 140817,
+              "endMs": 141274,
+              "durationMs": 457
+            },
+            {
+              "text": "未",
+              "startMs": 141274,
+              "endMs": 141649,
+              "durationMs": 375
+            },
+            {
+              "text": "来",
+              "startMs": 141649,
+              "endMs": 143633,
+              "durationMs": 1984
+            },
+            {
+              "text": "と",
+              "startMs": 143633,
+              "endMs": 143857,
+              "durationMs": 224
+            },
+            {
+              "text": "は",
+              "startMs": 143857,
+              "endMs": 144847,
+              "durationMs": 990
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "最初に望んだ未来とは",
+        "furigana": [
+          {
+            "base": "最初",
+            "cardIndex": 0,
+            "surfaceOffset": 0,
+            "reading": "さいしょ"
+          },
+          {
+            "base": "望",
+            "cardIndex": 2,
+            "surfaceOffset": 0,
+            "reading": "のぞ"
+          },
+          {
+            "base": "未来",
+            "cardIndex": 3,
+            "surfaceOffset": 0,
+            "reading": "みらい"
+          }
+        ],
+        "romaji": "saisho ni nozonda mirai to wa",
+        "translationZh": "虽然与最初期望的未来",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "最初",
+          "reading": "さいしょ",
+          "romaji": "saisho",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "最初；起初"
+        },
+        {
+          "token": "に",
+          "reading": "に",
+          "romaji": "ni",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "表示时间点：最初时"
+        },
+        {
+          "token": "望んだ",
+          "reading": "のぞんだ",
+          "romaji": "nozonda",
+          "grammarStructureZh": "动词过去形",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "曾经向往的"
+        },
+        {
+          "token": "未来",
+          "reading": "みらい",
+          "romaji": "mirai",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "未来"
+        },
+        {
+          "token": "とは",
+          "reading": "とは",
+          "romaji": "to wa",
+          "grammarStructureZh": "格助词＋提示助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "提示比较对象并形成对照"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l024",
+      "startMs": 145190,
+      "endMs": 148585,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "少し違うけれど",
+          "qrcParts": [
+            {
+              "text": "少",
+              "startMs": 145190,
+              "endMs": 145951,
+              "durationMs": 761
+            },
+            {
+              "text": "し",
+              "startMs": 145951,
+              "endMs": 146335,
+              "durationMs": 384
+            },
+            {
+              "text": "違",
+              "startMs": 146335,
+              "endMs": 147158,
+              "durationMs": 823
+            },
+            {
+              "text": "う",
+              "startMs": 147158,
+              "endMs": 147593,
+              "durationMs": 435
+            },
+            {
+              "text": "け",
+              "startMs": 147593,
+              "endMs": 147849,
+              "durationMs": 256
+            },
+            {
+              "text": "れ",
+              "startMs": 147849,
+              "endMs": 148250,
+              "durationMs": 401
+            },
+            {
+              "text": "ど",
+              "startMs": 148250,
+              "endMs": 148585,
+              "durationMs": 335
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "少し違うけれど",
+        "furigana": [
+          {
+            "cardIndex": 0,
+            "base": "少",
+            "surfaceOffset": 0,
+            "reading": "すこ"
+          },
+          {
+            "cardIndex": 1,
+            "base": "違",
+            "surfaceOffset": 0,
+            "reading": "ちが"
+          }
+        ],
+        "romaji": "sukoshi chigau keredo",
+        "translationZh": "稍微有一些不同",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "少し",
+          "reading": "すこし",
+          "romaji": "sukoshi",
+          "grammarStructureZh": "副词（程度）",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "稍微；有些"
+        },
+        {
+          "token": "違う",
+          "reading": "ちがう",
+          "romaji": "chigau",
+          "grammarStructureZh": "动词普通形",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "不同；不一样"
+        },
+        {
+          "token": "けれど",
+          "reading": "けれど",
+          "romaji": "keredo",
+          "grammarStructureZh": "接续助词：逆接",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "承接下句，表示虽有不同但……"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l025",
+      "startMs": 148801,
+      "endMs": 156400,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "最後はなにもいらない",
+          "qrcParts": [
+            {
+              "text": "最",
+              "startMs": 148801,
+              "endMs": 150066,
+              "durationMs": 1265
+            },
+            {
+              "text": "後",
+              "startMs": 150066,
+              "endMs": 150273,
+              "durationMs": 207
+            },
+            {
+              "text": "は",
+              "startMs": 150273,
+              "endMs": 151314,
+              "durationMs": 1041
+            },
+            {
+              "text": "な",
+              "startMs": 151633,
+              "endMs": 152041,
+              "durationMs": 408
+            },
+            {
+              "text": "に",
+              "startMs": 152041,
+              "endMs": 152864,
+              "durationMs": 823
+            },
+            {
+              "text": "も",
+              "startMs": 152864,
+              "endMs": 153600,
+              "durationMs": 736
+            },
+            {
+              "text": "い",
+              "startMs": 153600,
+              "endMs": 153992,
+              "durationMs": 392
+            },
+            {
+              "text": "ら",
+              "startMs": 153992,
+              "endMs": 154385,
+              "durationMs": 393
+            },
+            {
+              "text": "な",
+              "startMs": 154385,
+              "endMs": 154793,
+              "durationMs": 408
+            },
+            {
+              "text": "い",
+              "startMs": 154793,
+              "endMs": 156400,
+              "durationMs": 1607
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "最後はなにもいらない",
+        "furigana": [
+          {
+            "cardIndex": 0,
+            "base": "最後",
+            "surfaceOffset": 0,
+            "reading": "さいご"
+          }
+        ],
+        "romaji": "saigo wa nanimo iranai",
+        "translationZh": "但到最后，我什么都不需要",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "最後",
+          "reading": "さいご",
+          "romaji": "saigo",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "最后；最终"
+        },
+        {
+          "token": "は",
+          "reading": "は",
+          "romaji": "wa",
+          "grammarStructureZh": "提示助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "提示主题或形成对比"
+        },
+        {
+          "token": "なにも",
+          "reading": "なにも",
+          "romaji": "nanimo",
+          "grammarStructureZh": "疑问代词＋副助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "与否定呼应：什么都……"
+        },
+        {
+          "token": "いらない",
+          "reading": "いらない",
+          "romaji": "iranai",
+          "grammarStructureZh": "动词否定形",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "不需要"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l026",
+      "startMs": 156400,
+      "endMs": 161262,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "ただそばにいて",
+          "qrcParts": [
+            {
+              "text": "た",
+              "startMs": 156400,
+              "endMs": 156657,
+              "durationMs": 257
+            },
+            {
+              "text": "だ",
+              "startMs": 156657,
+              "endMs": 157874,
+              "durationMs": 1217
+            },
+            {
+              "text": "そ",
+              "startMs": 158057,
+              "endMs": 158425,
+              "durationMs": 368
+            },
+            {
+              "text": "ば",
+              "startMs": 158425,
+              "endMs": 159166,
+              "durationMs": 741
+            },
+            {
+              "text": "に",
+              "startMs": 159166,
+              "endMs": 159474,
+              "durationMs": 308
+            },
+            {
+              "text": "い",
+              "startMs": 159474,
+              "endMs": 159782,
+              "durationMs": 308
+            },
+            {
+              "text": "て",
+              "startMs": 159782,
+              "endMs": 161262,
+              "durationMs": 1480
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "ただそばにいて",
+        "furigana": [],
+        "romaji": "tada soba ni ite",
+        "translationZh": "只要你在我身边",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "ただ",
+          "reading": "ただ",
+          "romaji": "tada",
+          "grammarStructureZh": "副词：限定",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "只；只是"
+        },
+        {
+          "token": "そば",
+          "reading": "そば",
+          "romaji": "soba",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "身边；近旁"
+        },
+        {
+          "token": "に",
+          "reading": "に",
+          "romaji": "ni",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "提示存在地点：在……身边"
+        },
+        {
+          "token": "いて",
+          "reading": "いて",
+          "romaji": "ite",
+          "grammarStructureZh": "动词て形（请求）",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "待在；在"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l027",
+      "startMs": 161590,
+      "endMs": 164403,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "不器用ですれ違って",
+          "qrcParts": [
+            {
+              "text": "不",
+              "startMs": 161590,
+              "endMs": 161798,
+              "durationMs": 208
+            },
+            {
+              "text": "器",
+              "startMs": 161798,
+              "endMs": 161998,
+              "durationMs": 200
+            },
+            {
+              "text": "用",
+              "startMs": 161998,
+              "endMs": 162382,
+              "durationMs": 384
+            },
+            {
+              "text": "で",
+              "startMs": 162382,
+              "endMs": 162758,
+              "durationMs": 376
+            },
+            {
+              "text": "す",
+              "startMs": 162758,
+              "endMs": 162982,
+              "durationMs": 224
+            },
+            {
+              "text": "れ",
+              "startMs": 162982,
+              "endMs": 163366,
+              "durationMs": 384
+            },
+            {
+              "text": "違",
+              "startMs": 163366,
+              "endMs": 163778,
+              "durationMs": 412
+            },
+            {
+              "text": "っ",
+              "startMs": 163778,
+              "endMs": 163974,
+              "durationMs": 196
+            },
+            {
+              "text": "て",
+              "startMs": 163974,
+              "endMs": 164403,
+              "durationMs": 429
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "不器用ですれ違って",
+        "furigana": [
+          {
+            "cardIndex": 0,
+            "base": "不器用",
+            "surfaceOffset": 0,
+            "reading": "ぶきよう"
+          },
+          {
+            "cardIndex": 2,
+            "base": "違",
+            "surfaceOffset": 2,
+            "reading": "ちが"
+          }
+        ],
+        "romaji": "bukiyou de surechigatte",
+        "translationZh": "因为笨拙而错失彼此",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "不器用",
+          "reading": "ぶきよう",
+          "romaji": "bukiyou",
+          "grammarStructureZh": "形容动词词干",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "笨拙；不善表达"
+        },
+        {
+          "token": "で",
+          "reading": "で",
+          "romaji": "de",
+          "grammarStructureZh": "ナ形容词＋で（中顿）",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "表示状态并连接后项"
+        },
+        {
+          "token": "すれ違って",
+          "reading": "すれちがって",
+          "romaji": "surechigatte",
+          "grammarStructureZh": "动词て形",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "错过彼此；产生隔阂"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l028",
+      "startMs": 164403,
+      "endMs": 167594,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "勘繰ってばっか僕たちは",
+          "qrcParts": [
+            {
+              "text": "勘",
+              "startMs": 164403,
+              "endMs": 164778,
+              "durationMs": 375
+            },
+            {
+              "text": "繰",
+              "startMs": 164778,
+              "endMs": 164970,
+              "durationMs": 192
+            },
+            {
+              "text": "っ",
+              "startMs": 164970,
+              "endMs": 165162,
+              "durationMs": 192
+            },
+            {
+              "text": "て",
+              "startMs": 165163,
+              "endMs": 165563,
+              "durationMs": 400
+            },
+            {
+              "text": "ば",
+              "startMs": 165563,
+              "endMs": 165766,
+              "durationMs": 203
+            },
+            {
+              "text": "っ",
+              "startMs": 165767,
+              "endMs": 165970,
+              "durationMs": 203
+            },
+            {
+              "text": "か",
+              "startMs": 165970,
+              "endMs": 166314,
+              "durationMs": 344
+            },
+            {
+              "text": "僕",
+              "startMs": 166314,
+              "endMs": 166786,
+              "durationMs": 472
+            },
+            {
+              "text": "た",
+              "startMs": 166786,
+              "endMs": 166986,
+              "durationMs": 200
+            },
+            {
+              "text": "ち",
+              "startMs": 166986,
+              "endMs": 167203,
+              "durationMs": 217
+            },
+            {
+              "text": "は",
+              "startMs": 167203,
+              "endMs": 167594,
+              "durationMs": 391
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "勘繰ってばっか僕たちは",
+        "furigana": [
+          {
+            "base": "勘繰",
+            "cardIndex": 0,
+            "surfaceOffset": 0,
+            "reading": "かんぐ"
+          },
+          {
+            "base": "僕",
+            "cardIndex": 2,
+            "surfaceOffset": 0,
+            "reading": "ぼく"
+          }
+        ],
+        "romaji": "kangutte bakka bokutachi wa",
+        "translationZh": "总是在胡乱猜忌的我们",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "勘繰って",
+          "reading": "かんぐって",
+          "romaji": "kangutte",
+          "grammarStructureZh": "动词て形",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "胡乱猜忌"
+        },
+        {
+          "token": "ばっか",
+          "reading": "ばっか",
+          "romaji": "bakka",
+          "grammarStructureZh": "副助词（口语）",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "表示净是、只顾（口语）"
+        },
+        {
+          "token": "僕たち",
+          "reading": "ぼくたち",
+          "romaji": "bokutachi",
+          "grammarStructureZh": "代词＋复数后缀",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "我们"
+        },
+        {
+          "token": "は",
+          "reading": "は",
+          "romaji": "wa",
+          "grammarStructureZh": "提示助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "提示主题或形成对比"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l029",
+      "startMs": 167978,
+      "endMs": 170385,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "言えない言えないなんて",
+          "qrcParts": [
+            {
+              "text": "言",
+              "startMs": 167978,
+              "endMs": 168179,
+              "durationMs": 201
+            },
+            {
+              "text": "え",
+              "startMs": 168179,
+              "endMs": 168387,
+              "durationMs": 208
+            },
+            {
+              "text": "な",
+              "startMs": 168387,
+              "endMs": 168578,
+              "durationMs": 191
+            },
+            {
+              "text": "い",
+              "startMs": 168578,
+              "endMs": 168794,
+              "durationMs": 216
+            },
+            {
+              "text": "言",
+              "startMs": 168794,
+              "endMs": 168994,
+              "durationMs": 200
+            },
+            {
+              "text": "え",
+              "startMs": 168994,
+              "endMs": 169195,
+              "durationMs": 201
+            },
+            {
+              "text": "な",
+              "startMs": 169195,
+              "endMs": 169387,
+              "durationMs": 192
+            },
+            {
+              "text": "い",
+              "startMs": 169387,
+              "endMs": 169603,
+              "durationMs": 216
+            },
+            {
+              "text": "な",
+              "startMs": 169603,
+              "endMs": 169802,
+              "durationMs": 199
+            },
+            {
+              "text": "ん",
+              "startMs": 169802,
+              "endMs": 170001,
+              "durationMs": 199
+            },
+            {
+              "text": "て",
+              "startMs": 170002,
+              "endMs": 170385,
+              "durationMs": 383
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "言えない言えないなんて",
+        "furigana": [
+          {
+            "base": "言",
+            "cardIndex": 0,
+            "surfaceOffset": 0,
+            "reading": "い"
+          },
+          {
+            "base": "言",
+            "cardIndex": 1,
+            "surfaceOffset": 0,
+            "reading": "い"
+          }
+        ],
+        "romaji": "ienai ienai nante",
+        "translationZh": "嘴上总说着“说不出口、说不出口”",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "言えない",
+          "reading": "いえない",
+          "romaji": "ienai",
+          "grammarStructureZh": "动词可能否定形",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "说不出口"
+        },
+        {
+          "token": "言えない",
+          "reading": "いえない",
+          "romaji": "ienai",
+          "grammarStructureZh": "动词可能否定形",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "说不出口"
+        },
+        {
+          "token": "なんて",
+          "reading": "なんて",
+          "romaji": "nante",
+          "grammarStructureZh": "副词（感叹程度）",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "多么；何等"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l030",
+      "startMs": 170385,
+      "endMs": 174036,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "勝手なんだろう",
+          "qrcParts": [
+            {
+              "text": "勝",
+              "startMs": 170385,
+              "endMs": 170809,
+              "durationMs": 424
+            },
+            {
+              "text": "手",
+              "startMs": 170809,
+              "endMs": 171200,
+              "durationMs": 391
+            },
+            {
+              "text": "な",
+              "startMs": 171200,
+              "endMs": 171796,
+              "durationMs": 596
+            },
+            {
+              "text": "ん",
+              "startMs": 171797,
+              "endMs": 172393,
+              "durationMs": 596
+            },
+            {
+              "text": "だ",
+              "startMs": 172393,
+              "endMs": 172616,
+              "durationMs": 223
+            },
+            {
+              "text": "ろ",
+              "startMs": 172616,
+              "endMs": 172852,
+              "durationMs": 236
+            },
+            {
+              "text": "う",
+              "startMs": 172853,
+              "endMs": 174036,
+              "durationMs": 1183
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "勝手なんだろう",
+        "furigana": [
+          {
+            "cardIndex": 0,
+            "base": "勝手",
+            "surfaceOffset": 0,
+            "reading": "かって"
+          }
+        ],
+        "romaji": "katte nandarou",
+        "translationZh": "我们是多么任性啊",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "勝手",
+          "reading": "かって",
+          "romaji": "katte",
+          "grammarStructureZh": "形容动词词干",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "任性；自说自话"
+        },
+        {
+          "token": "なんだろう",
+          "reading": "なんだろう",
+          "romaji": "nandarou",
+          "grammarStructureZh": "のだろう（说明・推量）",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "说明并推测：大概……吧"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l031",
+      "startMs": 174404,
+      "endMs": 177411,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "君がいる明日がいいなって",
+          "qrcParts": [
+            {
+              "text": "君",
+              "startMs": 174404,
+              "endMs": 174795,
+              "durationMs": 391
+            },
+            {
+              "text": "が",
+              "startMs": 174795,
+              "endMs": 174995,
+              "durationMs": 200
+            },
+            {
+              "text": "い",
+              "startMs": 174995,
+              "endMs": 175203,
+              "durationMs": 208
+            },
+            {
+              "text": "る",
+              "startMs": 175203,
+              "endMs": 175580,
+              "durationMs": 377
+            },
+            {
+              "text": "明日",
+              "startMs": 175580,
+              "endMs": 176164,
+              "durationMs": 584
+            },
+            {
+              "text": "が",
+              "startMs": 176164,
+              "endMs": 176403,
+              "durationMs": 239
+            },
+            {
+              "text": "い",
+              "startMs": 176403,
+              "endMs": 176603,
+              "durationMs": 200
+            },
+            {
+              "text": "い",
+              "startMs": 176604,
+              "endMs": 176804,
+              "durationMs": 200
+            },
+            {
+              "text": "な",
+              "startMs": 176804,
+              "endMs": 177004,
+              "durationMs": 200
+            },
+            {
+              "text": "っ",
+              "startMs": 177004,
+              "endMs": 177204,
+              "durationMs": 200
+            },
+            {
+              "text": "て",
+              "startMs": 177204,
+              "endMs": 177411,
+              "durationMs": 207
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "君がいる明日がいいなって",
+        "furigana": [
+          {
+            "base": "君",
+            "cardIndex": 0,
+            "surfaceOffset": 0,
+            "reading": "きみ"
+          },
+          {
+            "base": "明日",
+            "cardIndex": 3,
+            "surfaceOffset": 0,
+            "reading": "あす"
+          }
+        ],
+        "romaji": "kimi ga iru asu ga ii na tte",
+        "translationZh": "我想着，有你的明天就好了",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "君",
+          "reading": "きみ",
+          "romaji": "kimi",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "你"
+        },
+        {
+          "token": "が",
+          "reading": "が",
+          "romaji": "ga",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "提示从句主语"
+        },
+        {
+          "token": "いる",
+          "reading": "いる",
+          "romaji": "iru",
+          "grammarStructureZh": "动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "在；存在"
+        },
+        {
+          "token": "明日",
+          "reading": "あす",
+          "romaji": "asu",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "明天"
+        },
+        {
+          "token": "が",
+          "reading": "が",
+          "romaji": "ga",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "愿望评价对象"
+        },
+        {
+          "token": "いい",
+          "reading": "いい",
+          "romaji": "ii",
+          "grammarStructureZh": "い形容词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "好；理想"
+        },
+        {
+          "token": "な",
+          "reading": "な",
+          "romaji": "na",
+          "grammarStructureZh": "终助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "表达愿望语气"
+        },
+        {
+          "token": "って",
+          "reading": "って",
+          "romaji": "tte",
+          "grammarStructureZh": "引用助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "引用愿望内容"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l032",
+      "startMs": 177411,
+      "endMs": 180374,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "思っていたって変えられない",
+          "qrcParts": [
+            {
+              "text": "思",
+              "startMs": 177411,
+              "endMs": 177787,
+              "durationMs": 376
+            },
+            {
+              "text": "っ",
+              "startMs": 177787,
+              "endMs": 177979,
+              "durationMs": 192
+            },
+            {
+              "text": "て",
+              "startMs": 177979,
+              "endMs": 178171,
+              "durationMs": 192
+            },
+            {
+              "text": "い",
+              "startMs": 178172,
+              "endMs": 178364,
+              "durationMs": 192
+            },
+            {
+              "text": "た",
+              "startMs": 178364,
+              "endMs": 178584,
+              "durationMs": 220
+            },
+            {
+              "text": "っ",
+              "startMs": 178584,
+              "endMs": 178791,
+              "durationMs": 207
+            },
+            {
+              "text": "て",
+              "startMs": 178791,
+              "endMs": 179014,
+              "durationMs": 223
+            },
+            {
+              "text": "変",
+              "startMs": 179014,
+              "endMs": 179383,
+              "durationMs": 369
+            },
+            {
+              "text": "え",
+              "startMs": 179383,
+              "endMs": 179599,
+              "durationMs": 216
+            },
+            {
+              "text": "ら",
+              "startMs": 179599,
+              "endMs": 179798,
+              "durationMs": 199
+            },
+            {
+              "text": "れ",
+              "startMs": 179798,
+              "endMs": 179999,
+              "durationMs": 201
+            },
+            {
+              "text": "な",
+              "startMs": 179999,
+              "endMs": 180166,
+              "durationMs": 167
+            },
+            {
+              "text": "い",
+              "startMs": 180166,
+              "endMs": 180374,
+              "durationMs": 208
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "思っていたって変えられない",
+        "furigana": [
+          {
+            "base": "思",
+            "cardIndex": 0,
+            "surfaceOffset": 0,
+            "reading": "おも"
+          },
+          {
+            "base": "変",
+            "cardIndex": 1,
+            "surfaceOffset": 0,
+            "reading": "か"
+          }
+        ],
+        "romaji": "omotte itatte kaerarenai",
+        "translationZh": "可光是这么想，什么也改变不了",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "思っていたって",
+          "reading": "おもっていたって",
+          "romaji": "omotte itatte",
+          "grammarStructureZh": "V过去＋たって（让步）",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "即使一直这么想"
+        },
+        {
+          "token": "変えられない",
+          "reading": "かえられない",
+          "romaji": "kaerarenai",
+          "grammarStructureZh": "动词可能否定形",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "无法改变"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l033",
+      "startMs": 180822,
+      "endMs": 185551,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "伝えなくちゃ",
+          "qrcParts": [
+            {
+              "text": "伝",
+              "startMs": 180822,
+              "endMs": 182414,
+              "durationMs": 1592
+            },
+            {
+              "text": "え",
+              "startMs": 182414,
+              "endMs": 182814,
+              "durationMs": 400
+            },
+            {
+              "text": "な",
+              "startMs": 182814,
+              "endMs": 183189,
+              "durationMs": 375
+            },
+            {
+              "text": "く",
+              "startMs": 183189,
+              "endMs": 183566,
+              "durationMs": 377
+            },
+            {
+              "text": "ち",
+              "startMs": 183566,
+              "endMs": 184002,
+              "durationMs": 436
+            },
+            {
+              "text": "ゃ",
+              "startMs": 184002,
+              "endMs": 185551,
+              "durationMs": 1549
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "伝えなくちゃ",
+        "furigana": [
+          {
+            "cardIndex": 0,
+            "base": "伝",
+            "surfaceOffset": 0,
+            "reading": "つた"
+          }
+        ],
+        "romaji": "tsutaenakucha",
+        "translationZh": "必须告诉你才行",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "伝えなくちゃ",
+          "reading": "つたえなくちゃ",
+          "romaji": "tsutaenakucha",
+          "grammarStructureZh": "Vなくちゃ（义务・口语）",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "必须传达（省略「ならない」）"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    },
+    {
+      "id": "l034",
+      "startMs": 187160,
+      "endMs": 204818,
+      "displayUnits": [
+        {
+          "kind": "japanese",
+          "text": "最初に 最後は",
+          "qrcParts": [
+            {
+              "text": "最",
+              "startMs": 187160,
+              "endMs": 188416,
+              "durationMs": 1256
+            },
+            {
+              "text": "初",
+              "startMs": 188416,
+              "endMs": 188616,
+              "durationMs": 200
+            },
+            {
+              "text": "に",
+              "startMs": 188616,
+              "endMs": 190850,
+              "durationMs": 2234
+            },
+            {
+              "text": " ",
+              "startMs": 190850,
+              "endMs": 190850,
+              "durationMs": 0
+            },
+            {
+              "text": "最",
+              "startMs": 200019,
+              "endMs": 201203,
+              "durationMs": 1184
+            },
+            {
+              "text": "後",
+              "startMs": 201203,
+              "endMs": 201426,
+              "durationMs": 223
+            },
+            {
+              "text": "は",
+              "startMs": 201426,
+              "endMs": 204818,
+              "durationMs": 3392
+            }
+          ]
+        }
+      ],
+      "caption": {
+        "japanese": "最初に 最後は",
+        "furigana": [
+          {
+            "cardIndex": 0,
+            "base": "最初",
+            "surfaceOffset": 0,
+            "reading": "さいしょ"
+          },
+          {
+            "cardIndex": 2,
+            "base": "最後",
+            "surfaceOffset": 0,
+            "reading": "さいご"
+          }
+        ],
+        "romaji": "saisho ni saigo wa",
+        "translationZh": "从最初　到最后",
+        "translationStatus": "draft-qmts-source-needs-context-review"
+      },
+      "grammarCards": [
+        {
+          "token": "最初",
+          "reading": "さいしょ",
+          "romaji": "saisho",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "最初；起初"
+        },
+        {
+          "token": "に",
+          "reading": "に",
+          "romaji": "ni",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "提示时间点：在最初"
+        },
+        {
+          "token": "最後",
+          "reading": "さいご",
+          "romaji": "saigo",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "zhMeaning": "最后；最终"
+        },
+        {
+          "token": "は",
+          "reading": "は",
+          "romaji": "wa",
+          "grammarStructureZh": "提示助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "assisted-proposal",
+          "fieldProvenance": {
+            "tokenReadingRomaji": "lexical role proposal or unchanged draft",
+            "meaningOrFunction": "translation role proposal with integration remap",
+            "grammarStructureZh": "grammar role proposal with lexical-boundary integration"
+          },
+          "functionZh": "提示主题并与前项「最初に」形成对照"
+        }
+      ],
+      "status": "reviewed-user-approved",
+      "fieldProvenance": {
+        "japanese": "timing/qm.json",
+        "romaji": "timing/roma.json",
+        "translationZh": "timing/translation.json"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "kind": "post-merge-qa-correction",
+  "baseFrameSha256": "c5c1908e68bdafef9ab8a94b2c7018d9f39b2150a3f13dcfeedd84878b019ced",
+  "authorization": "采纳全部提案  ",
+  "reason": "Unify card romaji with the same frame's approved pronunciation-based caption romaji.",
+  "changes": [
+    { "frameId": "l010", "field": "grammarCards[3].romaji", "old": "kokoro ha", "new": "kokoro wa" },
+    { "frameId": "l026", "field": "grammarCards[0].romaji", "old": "zenbu wo", "new": "zenbu o" },
+    { "frameId": "l028", "field": "grammarCards[1].romaji", "old": "jibun wo", "new": "jibun o" },
+    { "frameId": "l033", "field": "grammarCards[0].romaji", "old": "asayake ni ha", "new": "asayake ni wa" },
+    { "frameId": "l040", "field": "grammarCards[2].romaji", "old": "kabe wo", "new": "kabe o" },
+    { "frameId": "l045", "field": "grammarCards[1].romaji", "old": "jibun wo", "new": "jibun o" }
+  ]
+}

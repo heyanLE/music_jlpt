@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 2,
+  "result": "passed",
+  "candidate": "project/work/final-r02-lyric-sync/16x9/mebuku-toki--16x9--final-r02-lyric-sync.mkv",
+  "candidateSha256": "307f35365b142995d02eb1e99c50663ef716042aac19962f5ee5f5c1dd98a574",
+  "renderReport": "project/work/final-r02-lyric-sync/16x9/render-report.json",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "pix_fmt": "yuv420p",
+        "r_frame_rate": "30/1",
+        "bits_per_raw_sample": "8"
+      },
+      {
+        "codec_name": "flac",
+        "codec_type": "audio",
+        "sample_rate": "96000",
+        "r_frame_rate": "0/0",
+        "bits_per_raw_sample": "24"
+      }
+    ],
+    "format": {
+      "duration": "224.633000"
+    }
+  },
+  "screenshots": [
+    {
+      "name": "first-lyric",
+      "timestampMs": 8096,
+      "path": "project/qa/final-r02-lyric-sync/first-lyric.png"
+    },
+    {
+      "name": "last-lyric",
+      "timestampMs": 187260,
+      "path": "project/qa/final-r02-lyric-sync/last-lyric.png"
+    },
+    {
+      "name": "maximum-cards",
+      "timestampMs": 62508,
+      "path": "project/qa/final-r02-lyric-sync/maximum-cards.png"
+    },
+    {
+      "name": "loanword",
+      "timestampMs": 20904,
+      "path": "project/qa/final-r02-lyric-sync/loanword.png"
+    },
+    {
+      "name": "transition-official-mv-continuation",
+      "timestampMs": 103057,
+      "path": "project/qa/final-r02-lyric-sync/transition-official-mv-continuation.png"
+    },
+    {
+      "name": "follow-gap",
+      "timestampMs": 30924,
+      "path": "project/qa/final-r02-lyric-sync/follow-gap.png"
+    },
+    {
+      "name": "persistent-gap",
+      "timestampMs": 30474,
+      "path": "project/qa/final-r02-lyric-sync/persistent-gap.png"
+    }
+  ],
+  "clockCorrection": {
+    "reason": "The generic collector samples raw QRC frame startMs; this project normalizes the QQ reference clock by -777 ms and then applies the +5327 ms music output offset.",
+    "musicOutputOffsetMs": 5327,
+    "lyricsSourceClockCorrectionMs": -777,
+    "lyricsOutputOffsetMs": 4550,
+    "status": "corrected-with-output-clock-samples"
+  },
+  "alignedScreenshots": [
+    {
+      "name": "first-lyric-aligned",
+      "timestampMs": 12646,
+      "path": "project/qa/final-r02-lyric-sync/first-lyric-aligned.png"
+    },
+    {
+      "name": "last-lyric-aligned",
+      "timestampMs": 191810,
+      "path": "project/qa/final-r02-lyric-sync/last-lyric-aligned.png"
+    },
+    {
+      "name": "maximum-cards-aligned",
+      "timestampMs": 179054,
+      "path": "project/qa/final-r02-lyric-sync/maximum-cards-aligned.png"
+    },
+    {
+      "name": "loanword-aligned",
+      "timestampMs": 25454,
+      "path": "project/qa/final-r02-lyric-sync/loanword-aligned.png"
+    },
+    {
+      "name": "transition-before",
+      "timestampMs": 102857,
+      "path": "project/qa/final-r02-lyric-sync/transition-before.png"
+    },
+    {
+      "name": "transition-after",
+      "timestampMs": 103057,
+      "path": "project/qa/final-r02-lyric-sync/transition-after.png"
+    },
+    {
+      "name": "final-tail",
+      "timestampMs": 209600,
+      "path": "project/qa/final-r02-lyric-sync/final-tail.png"
+    },
+    {
+      "name": "final-post-tail",
+      "timestampMs": 210000,
+      "path": "project/qa/final-r02-lyric-sync/final-post-tail.png"
+    }
+  ],
+  "mechanicalChecks": {
+    "authorizationGate": "passed",
+    "frameSha256": "23e9efa719fa5c4c800b16fe9d3775643674c9b4332291f82aa7c4d5716f99e4",
+    "candidateSha256": "307f35365b142995d02eb1e99c50663ef716042aac19962f5ee5f5c1dd98a574",
+    "durationMs": 224633,
+    "expectedDurationMs": 224621,
+    "durationDeltaMs": 12,
+    "resolution": "1920x1080",
+    "frameRate": "30/1 CFR",
+    "audio": "FLAC 96000 Hz 24-bit stream copy",
+    "firstAudioPacketPtsMs": 5327,
+    "lyricsClockMeasurementMs": -776.6213151927435,
+    "lyricsClockAppliedMs": -777,
+    "absolutePreFrameResidualMs": 0.3786848072565,
+    "maximumVisibleFrameQuantizationMs": 33.333333333333336,
+    "foregroundMatches": {
+      "full": 34,
+      "adjacentRows": 0,
+      "lineFallback": 0,
+      "unmatched": 0
+    },
+    "activeSegments": 331,
+    "uniqueActiveTimingDeltaFromR01Ms": [
+      -777
+    ]
+  },
+  "visualInspection": {
+    "inspected": true,
+    "findings": [
+      "The corrected first lyric is active at output time 12546 ms instead of 13323 ms; every active QRC segment moved earlier by exactly 777 ms.",
+      "The final 96 kHz/24-bit FLAC remains the output audio; the low-quality reference is used only for clock calibration.",
+      "Background clips preserve aspect ratio and the second clip still begins from source time 99751 ms; foreground and spectrum remain continuous across the cut.",
+      "Cover, kanji-only furigana, loanword source, token-aligned romaji, Chinese translation, outlines, and one-row translucent cards match the approved template.",
+      "Eight-card and two-line-meaning samples fit without clipping, extra rows, artificial separators, or colons.",
+      "The transparent spectrum persists during lyric states, blank gaps, and the scene transition, with no opaque background.",
+      "The final lyric retains the 500 ms follow-mode protection and then clears while the spectrum continues."
+    ]
+  },
+  "requiredVisualChecks": [
+    "three-layer order",
+    "background fit and transitions",
+    "foreground gap mode",
+    "annotation anchors",
+    "English timing",
+    "one-row cards and two-line meaning",
+    "transparent persistent spectrum",
+    "final line"
+  ]
+}

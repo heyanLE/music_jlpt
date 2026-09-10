@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "grammar",
+  "scope": {
+    "frameIds": [
+      "l008",
+      "l010",
+      "l012",
+      "l028",
+      "l034",
+      "l038",
+      "l042",
+      "l044",
+      "l057",
+      "l061"
+    ]
+  },
+  "baseFrameSha256": "f567e0e1c582104b125ee6e670b6f53ded7689de43f948cc55f00b24749d57de",
+  "changes": [
+    {
+      "frameId": "l008",
+      "field": "grammarCards[3].grammarStructureZh",
+      "old": "一段动词「目覚める」たら条件形",
+      "new": "一段动词・たら形",
+      "confidence": 0.99,
+      "evidence": ["保留一段动词及たら条件形两项核心信息，并缩短为单行标签。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l010",
+      "field": "grammarCards[0].grammarStructureZh",
+      "old": "い形容词",
+      "new": "い形容词连用形",
+      "confidence": 0.99,
+      "evidence": ["「はかなく」是「はかない」的く形，在句中副词性修饰「たゆたう」；与重复帧 l042 保持一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l012",
+      "field": "grammarCards[5].grammarStructureZh",
+      "old": "五段动词「たたむ」て形的拨音便词干",
+      "new": "五段动词・拨音便词干",
+      "confidence": 0.99,
+      "evidence": ["「たたん」是「たたむ」接「で」构成て形时的拨音便词干；短标签保留必要分析。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l028",
+      "field": "grammarCards[5].grammarStructureZh",
+      "old": "五段动词「待つ」连用形（复合动词前项）",
+      "new": "五段连用形・复合前项",
+      "confidence": 0.99,
+      "evidence": ["「待ち」是复合动词「待ち続ける」的前项及「待つ」连用形。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l034",
+      "field": "grammarCards[6].grammarStructureZh",
+      "old": "形式名词「よう」（方式或目的）",
+      "new": "形式名词「よう」",
+      "confidence": 0.98,
+      "evidence": ["「偲ぶよう」为辞书形加形式名词「よう」；删去括注不改变语法类别。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l038",
+      "field": "grammarCards[2].grammarStructureZh",
+      "old": "副助词「って」（与「だ」构成「だって」）",
+      "new": "副助词（だって）",
+      "confidence": 0.99,
+      "evidence": ["「いつだって」表示无论何时；短标签保留「だって」整体关系。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l038",
+      "field": "grammarCards[5].grammarStructureZh",
+      "old": "副助词「って」（与「だ」构成「だって」）",
+      "new": "副助词（だって）",
+      "confidence": 0.99,
+      "evidence": ["同帧第二个「いつだって」，与首项保持一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l038",
+      "field": "grammarCards[8].grammarStructureZh",
+      "old": "副助词「って」（与「だ」构成「だって」）",
+      "new": "副助词（だって）",
+      "confidence": 0.99,
+      "evidence": ["同帧第三个「いつだって」，与首项保持一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l042",
+      "field": "grammarCards[0].grammarStructureZh",
+      "old": "い形容词",
+      "new": "い形容词连用形",
+      "confidence": 0.99,
+      "evidence": ["「はかなく」是「はかない」的く形，在句中副词性修饰「たゆたう」；与重复帧 l010 保持一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l044",
+      "field": "grammarCards[5].grammarStructureZh",
+      "old": "五段动词「たたむ」て形的拨音便词干",
+      "new": "五段动词・拨音便词干",
+      "confidence": 0.99,
+      "evidence": ["与重复帧 l012 相同，保留拨音便分析并缩短为单行标签。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l057",
+      "field": "grammarCards[6].grammarStructureZh",
+      "old": "形式名词「よう」（方式或目的）",
+      "new": "形式名词「よう」",
+      "confidence": 0.98,
+      "evidence": ["与重复帧 l034 相同；删去括注不改变语法类别。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l061",
+      "field": "grammarCards[2].grammarStructureZh",
+      "old": "副助词「って」（与「だ」构成「だって」）",
+      "new": "副助词（だって）",
+      "confidence": 0.99,
+      "evidence": ["与重复帧 l038 相同，短标签保留「だって」整体关系。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l061",
+      "field": "grammarCards[5].grammarStructureZh",
+      "old": "副助词「って」（与「だ」构成「だって」）",
+      "new": "副助词（だって）",
+      "confidence": 0.99,
+      "evidence": ["同帧第二个「いつだって」，与首项保持一致。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l061",
+      "field": "grammarCards[8].grammarStructureZh",
+      "old": "副助词「って」（与「だ」构成「だって」）",
+      "new": "副助词（だって）",
+      "confidence": 0.99,
+      "evidence": ["同帧第三个「いつだって」，与首项保持一致。"],
+      "changesTokenStructure": false
+    }
+  ]
+}

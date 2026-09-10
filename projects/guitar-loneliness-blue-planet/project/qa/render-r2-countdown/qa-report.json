@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 2,
+  "result": "passed",
+  "candidate": "project/work/render-r2-countdown/guitar-loneliness-blue-planet--16x9--render-r2-countdown.mkv",
+  "candidateSha256": "f2971ca78d350c7d861360a9d8a6a85ee1bbc3a399755fd8ae3c44ab518ec8b0",
+  "renderReport": "project/work/render-r2-countdown/render-report.json",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "pix_fmt": "yuv420p",
+        "r_frame_rate": "30/1",
+        "bits_per_raw_sample": "8"
+      },
+      {
+        "codec_name": "flac",
+        "codec_type": "audio",
+        "sample_rate": "48000",
+        "r_frame_rate": "0/0",
+        "bits_per_raw_sample": "24"
+      }
+    ],
+    "format": {
+      "duration": "249.837000"
+    }
+  },
+  "screenshots": [
+    {
+      "name": "first-lyric",
+      "timestampMs": 36150,
+      "path": "project/qa/render-r2-countdown/first-lyric.png"
+    },
+    {
+      "name": "last-lyric",
+      "timestampMs": 225535,
+      "path": "project/qa/render-r2-countdown/last-lyric.png"
+    },
+    {
+      "name": "maximum-cards",
+      "timestampMs": 36150,
+      "path": "project/qa/render-r2-countdown/maximum-cards.png"
+    },
+    {
+      "name": "mixed-language",
+      "timestampMs": 120511,
+      "path": "project/qa/render-r2-countdown/mixed-language.png"
+    },
+    {
+      "name": "loanword",
+      "timestampMs": 110588,
+      "path": "project/qa/render-r2-countdown/loanword.png"
+    },
+    {
+      "name": "transition-gaussian-cover",
+      "timestampMs": 126840,
+      "path": "project/qa/render-r2-countdown/transition-gaussian-cover.png"
+    },
+    {
+      "name": "prelude",
+      "timestampMs": 0,
+      "path": "project/qa/render-r2-countdown/prelude.png"
+    },
+    {
+      "name": "countdown-3",
+      "timestampMs": 33550,
+      "path": "project/qa/render-r2-countdown/countdown-3.png"
+    },
+    {
+      "name": "countdown-2",
+      "timestampMs": 34550,
+      "path": "project/qa/render-r2-countdown/countdown-2.png"
+    },
+    {
+      "name": "countdown-1",
+      "timestampMs": 35550,
+      "path": "project/qa/render-r2-countdown/countdown-1.png"
+    },
+    {
+      "name": "countdown-end",
+      "timestampMs": 36100,
+      "path": "project/qa/render-r2-countdown/countdown-end.png"
+    },
+    {
+      "name": "neighbors-before-switch",
+      "timestampMs": 130351,
+      "path": "project/qa/render-r2-countdown/neighbors-before-switch.png"
+    },
+    {
+      "name": "neighbors-after-switch",
+      "timestampMs": 130451,
+      "path": "project/qa/render-r2-countdown/neighbors-after-switch.png"
+    },
+    {
+      "name": "follow-gap",
+      "timestampMs": 96204,
+      "path": "project/qa/render-r2-countdown/follow-gap.png"
+    },
+    {
+      "name": "persistent-gap",
+      "timestampMs": 33150,
+      "path": "project/qa/render-r2-countdown/persistent-gap.png"
+    },
+    {
+      "name": "output-tail",
+      "timestampMs": 249737,
+      "path": "project/qa/render-r2-countdown/output-tail.png"
+    }
+  ],
+  "requiredVisualChecks": [
+    "three-layer order",
+    "background fit and transitions",
+    "foreground gap mode",
+    "annotation anchors",
+    "English timing",
+    "one-row cards and two-line meaning",
+    "transparent persistent spectrum",
+    "final line",
+    "preludeMode matches configuration",
+    "static neighbors share lyric/annotation/romaji baseline and clip only at canvas edges",
+    "countdown changes 3/2/1 before onset and vanishes at onset without shifting audio"
+  ],
+  "technicalReport": "project/qa/render-r2-countdown/custom-technical-report.json",
+  "revisionCheck": "project/qa/countdown-reveal-check.json",
+  "validationRoute": "Common gate and explicit custom technical/timeline/visual checks; no unsupported generic render validator claim.",
+  "visualInspection": {
+    "inspected": [
+      "prelude.png",
+      "before-first-reveal.png",
+      "first-reveal.png",
+      "countdown-2.png",
+      "countdown-end.png",
+      "contact-sheet.jpg"
+    ],
+    "findings": [
+      "Before 33.050 s, background and transparent spectrum remain; no study cover, lyrics, translation, cards or foreground veil.",
+      "At 33.050 s first complete study foreground and countdown 3 appear together. 2/1 and first singing then retain the original timestamps.",
+      "Following lyric gaps, Gaussian scene transition, adjacent lines, card layout and highlights remain as in the approved R1 render.",
+      "Spectrum remains at video bottom through the opening visibility change and is independently verified as byte-identical to R1.",
+      "Output audio PCM matches the same lossless program, and original master suffix remains bit-exact."
+    ],
+    "limitations": [
+      "Source TV-short arrangement differs from full master later, as previously disclosed.",
+      "Original footage promotional lettering is retained."
+    ]
+  }
+}

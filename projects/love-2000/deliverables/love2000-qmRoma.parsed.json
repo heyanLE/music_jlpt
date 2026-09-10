@@ -1,0 +1,3167 @@
+{
+  "type": 1,
+  "content": [
+    {
+      "start": 238,
+      "duration": 1319,
+      "content": [
+        {
+          "start": 1176,
+          "duration": 143,
+          "content": " "
+        }
+      ]
+    },
+    {
+      "start": 2094,
+      "duration": 863,
+      "content": [
+        {
+          "start": 760,
+          "duration": 103,
+          "content": " "
+        }
+      ]
+    },
+    {
+      "start": 22031,
+      "duration": 1506,
+      "content": [
+        {
+          "start": 0,
+          "duration": 360,
+          "content": "a "
+        },
+        {
+          "start": 360,
+          "duration": 351,
+          "content": "i "
+        },
+        {
+          "start": 712,
+          "duration": 795,
+          "content": "ha "
+        }
+      ]
+    },
+    {
+      "start": 23538,
+      "duration": 3888,
+      "content": [
+        {
+          "start": 0,
+          "duration": 660,
+          "content": "do "
+        },
+        {
+          "start": 660,
+          "duration": 312,
+          "content": "ko "
+        },
+        {
+          "start": 972,
+          "duration": 336,
+          "content": "ka "
+        },
+        {
+          "start": 1309,
+          "duration": 343,
+          "content": "ra "
+        },
+        {
+          "start": 1652,
+          "duration": 236,
+          "content": "ya "
+        },
+        {
+          "start": 1889,
+          "duration": 236,
+          "content": "'t "
+        },
+        {
+          "start": 2125,
+          "duration": 263,
+          "content": "te "
+        },
+        {
+          "start": 2389,
+          "duration": 215,
+          "content": "ku "
+        },
+        {
+          "start": 2604,
+          "duration": 184,
+          "content": "ru "
+        },
+        {
+          "start": 2788,
+          "duration": 176,
+          "content": "no "
+        },
+        {
+          "start": 2965,
+          "duration": 312,
+          "content": "de "
+        },
+        {
+          "start": 3277,
+          "duration": 239,
+          "content": "sho "
+        },
+        {
+          "start": 3757,
+          "duration": 131,
+          "content": "u "
+        }
+      ]
+    },
+    {
+      "start": 27426,
+      "duration": 5927,
+      "content": [
+        {
+          "start": 0,
+          "duration": 199,
+          "content": "ji "
+        },
+        {
+          "start": 199,
+          "duration": 388,
+          "content": "bu "
+        },
+        {
+          "start": 587,
+          "duration": 388,
+          "content": "n "
+        },
+        {
+          "start": 976,
+          "duration": 687,
+          "content": "no "
+        },
+        {
+          "start": 1664,
+          "duration": 744,
+          "content": "mu "
+        },
+        {
+          "start": 2408,
+          "duration": 743,
+          "content": "ne "
+        },
+        {
+          "start": 3151,
+          "duration": 720,
+          "content": "ni "
+        },
+        {
+          "start": 3872,
+          "duration": 375,
+          "content": "to "
+        },
+        {
+          "start": 4247,
+          "duration": 200,
+          "content": "i "
+        },
+        {
+          "start": 4448,
+          "duration": 263,
+          "content": "ka "
+        },
+        {
+          "start": 4712,
+          "duration": 408,
+          "content": "ke "
+        },
+        {
+          "start": 5120,
+          "duration": 807,
+          "content": "ta "
+        }
+      ]
+    },
+    {
+      "start": 33354,
+      "duration": 5424,
+      "content": [
+        {
+          "start": 0,
+          "duration": 287,
+          "content": "ni "
+        },
+        {
+          "start": 287,
+          "duration": 472,
+          "content": "se "
+        },
+        {
+          "start": 759,
+          "duration": 672,
+          "content": "mo "
+        },
+        {
+          "start": 1431,
+          "duration": 704,
+          "content": "no "
+        },
+        {
+          "start": 2136,
+          "duration": 359,
+          "content": "na "
+        },
+        {
+          "start": 2496,
+          "duration": 359,
+          "content": "n "
+        },
+        {
+          "start": 2855,
+          "duration": 305,
+          "content": "ka "
+        },
+        {
+          "start": 3160,
+          "duration": 133,
+          "content": "kyo "
+        },
+        {
+          "start": 3427,
+          "duration": 133,
+          "content": "u "
+        },
+        {
+          "start": 3561,
+          "duration": 343,
+          "content": "mi "
+        },
+        {
+          "start": 3904,
+          "duration": 368,
+          "content": "ha "
+        },
+        {
+          "start": 4272,
+          "duration": 232,
+          "content": "na "
+        },
+        {
+          "start": 4505,
+          "duration": 343,
+          "content": "i "
+        },
+        {
+          "start": 4848,
+          "duration": 576,
+          "content": "no "
+        }
+      ]
+    },
+    {
+      "start": 38979,
+      "duration": 6051,
+      "content": [
+        {
+          "start": 0,
+          "duration": 384,
+          "content": "ho "
+        },
+        {
+          "start": 384,
+          "duration": 384,
+          "content": "n "
+        },
+        {
+          "start": 768,
+          "duration": 719,
+          "content": "to "
+        },
+        {
+          "start": 1487,
+          "duration": 712,
+          "content": "da "
+        },
+        {
+          "start": 2200,
+          "duration": 719,
+          "content": "ke "
+        },
+        {
+          "start": 2919,
+          "duration": 631,
+          "content": "wo "
+        },
+        {
+          "start": 3551,
+          "duration": 424,
+          "content": "mi "
+        },
+        {
+          "start": 3976,
+          "duration": 216,
+          "content": "tsu "
+        },
+        {
+          "start": 4193,
+          "duration": 238,
+          "content": "me "
+        },
+        {
+          "start": 4431,
+          "duration": 400,
+          "content": "ta "
+        },
+        {
+          "start": 4832,
+          "duration": 1219,
+          "content": "i "
+        }
+      ]
+    },
+    {
+      "start": 56939,
+      "duration": 5432,
+      "content": [
+        {
+          "start": 0,
+          "duration": 384,
+          "content": "ka "
+        },
+        {
+          "start": 385,
+          "duration": 183,
+          "content": "na "
+        },
+        {
+          "start": 568,
+          "duration": 176,
+          "content": "shi "
+        },
+        {
+          "start": 745,
+          "duration": 176,
+          "content": "i "
+        },
+        {
+          "start": 921,
+          "duration": 1183,
+          "content": "news "
+        },
+        {
+          "start": 2104,
+          "duration": 544,
+          "content": "to "
+        },
+        {
+          "start": 2649,
+          "duration": 0,
+          "content": "  "
+        },
+        {
+          "start": 2929,
+          "duration": 184,
+          "content": "do "
+        },
+        {
+          "start": 3113,
+          "duration": 184,
+          "content": "u "
+        },
+        {
+          "start": 3297,
+          "duration": 192,
+          "content": "de "
+        },
+        {
+          "start": 3489,
+          "duration": 303,
+          "content": "mo "
+        },
+        {
+          "start": 3792,
+          "duration": 188,
+          "content": "i "
+        },
+        {
+          "start": 3981,
+          "duration": 188,
+          "content": "i "
+        },
+        {
+          "start": 4169,
+          "duration": 287,
+          "content": "ha "
+        },
+        {
+          "start": 4456,
+          "duration": 431,
+          "content": "na "
+        },
+        {
+          "start": 4888,
+          "duration": 544,
+          "content": "shi "
+        }
+      ]
+    },
+    {
+      "start": 62631,
+      "duration": 4642,
+      "content": [
+        {
+          "start": 0,
+          "duration": 200,
+          "content": "a "
+        },
+        {
+          "start": 200,
+          "duration": 175,
+          "content": "sa "
+        },
+        {
+          "start": 375,
+          "duration": 167,
+          "content": "ka "
+        },
+        {
+          "start": 543,
+          "duration": 256,
+          "content": "ra "
+        },
+        {
+          "start": 799,
+          "duration": 184,
+          "content": "mo "
+        },
+        {
+          "start": 983,
+          "duration": 184,
+          "content": "u "
+        },
+        {
+          "start": 1167,
+          "duration": 320,
+          "content": "so "
+        },
+        {
+          "start": 1488,
+          "duration": 320,
+          "content": "n "
+        },
+        {
+          "start": 1808,
+          "duration": 208,
+          "content": "na "
+        },
+        {
+          "start": 2016,
+          "duration": 64,
+          "content": "no "
+        },
+        {
+          "start": 2080,
+          "duration": 296,
+          "content": "u "
+        },
+        {
+          "start": 2377,
+          "duration": 296,
+          "content": "n "
+        },
+        {
+          "start": 2674,
+          "duration": 360,
+          "content": "za "
+        },
+        {
+          "start": 3034,
+          "duration": 208,
+          "content": "ri "
+        },
+        {
+          "start": 3242,
+          "duration": 1400,
+          "content": "de "
+        }
+      ]
+    },
+    {
+      "start": 68306,
+      "duration": 2664,
+      "content": [
+        {
+          "start": 0,
+          "duration": 125,
+          "content": "kyo "
+        },
+        {
+          "start": 251,
+          "duration": 125,
+          "content": "u "
+        },
+        {
+          "start": 376,
+          "duration": 223,
+          "content": "ha "
+        },
+        {
+          "start": 600,
+          "duration": 240,
+          "content": "i "
+        },
+        {
+          "start": 841,
+          "duration": 167,
+          "content": "tsu "
+        },
+        {
+          "start": 1009,
+          "duration": 319,
+          "content": "mo "
+        },
+        {
+          "start": 1329,
+          "duration": 263,
+          "content": "yo "
+        },
+        {
+          "start": 1593,
+          "duration": 439,
+          "content": "ri "
+        },
+        {
+          "start": 2032,
+          "duration": 632,
+          "content": "mo "
+        }
+      ]
+    },
+    {
+      "start": 71078,
+      "duration": 2607,
+      "content": [
+        {
+          "start": 0,
+          "duration": 199,
+          "content": "ka "
+        },
+        {
+          "start": 199,
+          "duration": 199,
+          "content": "ze "
+        },
+        {
+          "start": 399,
+          "duration": 184,
+          "content": "ga "
+        },
+        {
+          "start": 584,
+          "duration": 311,
+          "content": "ki "
+        },
+        {
+          "start": 895,
+          "duration": 313,
+          "content": "mo "
+        },
+        {
+          "start": 1209,
+          "duration": 127,
+          "content": "chi "
+        },
+        {
+          "start": 1336,
+          "duration": 127,
+          "content": "i "
+        },
+        {
+          "start": 1463,
+          "duration": 127,
+          "content": "i "
+        },
+        {
+          "start": 1590,
+          "duration": 208,
+          "content": "ka "
+        },
+        {
+          "start": 1799,
+          "duration": 175,
+          "content": "ra "
+        },
+        {
+          "start": 1975,
+          "duration": 632,
+          "content": "ne "
+        }
+      ]
+    },
+    {
+      "start": 73869,
+      "duration": 4361,
+      "content": [
+        {
+          "start": 0,
+          "duration": 311,
+          "content": "ta "
+        },
+        {
+          "start": 311,
+          "duration": 208,
+          "content": "no "
+        },
+        {
+          "start": 520,
+          "duration": 191,
+          "content": "shi "
+        },
+        {
+          "start": 712,
+          "duration": 239,
+          "content": "sa "
+        },
+        {
+          "start": 951,
+          "duration": 729,
+          "content": "ni "
+        },
+        {
+          "start": 1681,
+          "duration": 183,
+          "content": "ki "
+        },
+        {
+          "start": 1865,
+          "duration": 344,
+          "content": "ga "
+        },
+        {
+          "start": 2209,
+          "duration": 247,
+          "content": "e "
+        },
+        {
+          "start": 2456,
+          "duration": 328,
+          "content": "te "
+        },
+        {
+          "start": 2784,
+          "duration": 1576,
+          "content": "ne "
+        }
+      ]
+    },
+    {
+      "start": 78573,
+      "duration": 2691,
+      "content": [
+        {
+          "start": 0,
+          "duration": 240,
+          "content": "ki "
+        },
+        {
+          "start": 241,
+          "duration": 423,
+          "content": "du "
+        },
+        {
+          "start": 664,
+          "duration": 327,
+          "content": "ke "
+        },
+        {
+          "start": 992,
+          "duration": 383,
+          "content": "na "
+        },
+        {
+          "start": 1375,
+          "duration": 308,
+          "content": "ka "
+        },
+        {
+          "start": 1684,
+          "duration": 308,
+          "content": "'t "
+        },
+        {
+          "start": 1993,
+          "duration": 698,
+          "content": "ta "
+        }
+      ]
+    },
+    {
+      "start": 81264,
+      "duration": 2838,
+      "content": [
+        {
+          "start": 0,
+          "duration": 184,
+          "content": "ki "
+        },
+        {
+          "start": 185,
+          "duration": 184,
+          "content": "'t "
+        },
+        {
+          "start": 369,
+          "duration": 208,
+          "content": "to "
+        },
+        {
+          "start": 577,
+          "duration": 191,
+          "content": "a "
+        },
+        {
+          "start": 768,
+          "duration": 208,
+          "content": "ma "
+        },
+        {
+          "start": 976,
+          "duration": 217,
+          "content": "e "
+        },
+        {
+          "start": 1194,
+          "duration": 183,
+          "content": "te "
+        },
+        {
+          "start": 1377,
+          "duration": 238,
+          "content": "ta "
+        },
+        {
+          "start": 1616,
+          "duration": 176,
+          "content": "no "
+        },
+        {
+          "start": 1792,
+          "duration": 328,
+          "content": "ka "
+        },
+        {
+          "start": 2121,
+          "duration": 718,
+          "content": "na "
+        }
+      ]
+    },
+    {
+      "start": 84103,
+      "duration": 2283,
+      "content": [
+        {
+          "start": 0,
+          "duration": 248,
+          "content": "da "
+        },
+        {
+          "start": 248,
+          "duration": 144,
+          "content": "ka "
+        },
+        {
+          "start": 393,
+          "duration": 231,
+          "content": "ra "
+        },
+        {
+          "start": 624,
+          "duration": 160,
+          "content": "ji "
+        },
+        {
+          "start": 785,
+          "duration": 276,
+          "content": "bu "
+        },
+        {
+          "start": 1061,
+          "duration": 133,
+          "content": "n "
+        },
+        {
+          "start": 1194,
+          "duration": 263,
+          "content": "a "
+        },
+        {
+          "start": 1458,
+          "duration": 232,
+          "content": "i "
+        },
+        {
+          "start": 1690,
+          "duration": 391,
+          "content": "shi "
+        },
+        {
+          "start": 2082,
+          "duration": 201,
+          "content": "te "
+        }
+      ]
+    },
+    {
+      "start": 86387,
+      "duration": 3449,
+      "content": [
+        {
+          "start": 0,
+          "duration": 184,
+          "content": "hi "
+        },
+        {
+          "start": 184,
+          "duration": 159,
+          "content": "to "
+        },
+        {
+          "start": 344,
+          "duration": 215,
+          "content": "wo "
+        },
+        {
+          "start": 559,
+          "duration": 232,
+          "content": "a "
+        },
+        {
+          "start": 792,
+          "duration": 255,
+          "content": "i "
+        },
+        {
+          "start": 1047,
+          "duration": 192,
+          "content": "shi "
+        },
+        {
+          "start": 1239,
+          "duration": 1216,
+          "content": "te "
+        },
+        {
+          "start": 2456,
+          "duration": 193,
+          "content": "mi "
+        },
+        {
+          "start": 2649,
+          "duration": 190,
+          "content": "ta "
+        },
+        {
+          "start": 2839,
+          "duration": 161,
+          "content": "i "
+        },
+        {
+          "start": 3001,
+          "duration": 448,
+          "content": "no "
+        }
+      ]
+    },
+    {
+      "start": 89852,
+      "duration": 5416,
+      "content": [
+        {
+          "start": 0,
+          "duration": 344,
+          "content": "yu "
+        },
+        {
+          "start": 344,
+          "duration": 368,
+          "content": "me "
+        },
+        {
+          "start": 713,
+          "duration": 695,
+          "content": "ha "
+        },
+        {
+          "start": 1409,
+          "duration": 721,
+          "content": "i "
+        },
+        {
+          "start": 2130,
+          "duration": 375,
+          "content": "tsu "
+        },
+        {
+          "start": 2505,
+          "duration": 280,
+          "content": "de "
+        },
+        {
+          "start": 2786,
+          "duration": 326,
+          "content": "mo "
+        },
+        {
+          "start": 3112,
+          "duration": 216,
+          "content": "fu "
+        },
+        {
+          "start": 3328,
+          "duration": 199,
+          "content": "ku "
+        },
+        {
+          "start": 3528,
+          "duration": 368,
+          "content": "ra "
+        },
+        {
+          "start": 3897,
+          "duration": 208,
+          "content": "mu "
+        },
+        {
+          "start": 4105,
+          "duration": 167,
+          "content": "ba "
+        },
+        {
+          "start": 4273,
+          "duration": 216,
+          "content": "ka "
+        },
+        {
+          "start": 4489,
+          "duration": 271,
+          "content": "ri "
+        },
+        {
+          "start": 4760,
+          "duration": 656,
+          "content": "de "
+        }
+      ]
+    },
+    {
+      "start": 95453,
+      "duration": 5519,
+      "content": [
+        {
+          "start": 0,
+          "duration": 352,
+          "content": "da "
+        },
+        {
+          "start": 352,
+          "duration": 439,
+          "content": "re "
+        },
+        {
+          "start": 792,
+          "duration": 687,
+          "content": "ka "
+        },
+        {
+          "start": 1479,
+          "duration": 592,
+          "content": "no "
+        },
+        {
+          "start": 2072,
+          "duration": 351,
+          "content": "o "
+        },
+        {
+          "start": 2423,
+          "duration": 239,
+          "content": "mo "
+        },
+        {
+          "start": 2663,
+          "duration": 400,
+          "content": "i "
+        },
+        {
+          "start": 3063,
+          "duration": 400,
+          "content": "wo "
+        },
+        {
+          "start": 3463,
+          "duration": 424,
+          "content": "mu "
+        },
+        {
+          "start": 3888,
+          "duration": 208,
+          "content": "shi "
+        },
+        {
+          "start": 4096,
+          "duration": 335,
+          "content": "shi "
+        },
+        {
+          "start": 4432,
+          "duration": 367,
+          "content": "te "
+        },
+        {
+          "start": 4799,
+          "duration": 720,
+          "content": "ta "
+        }
+      ]
+    },
+    {
+      "start": 101081,
+      "duration": 5583,
+      "content": [
+        {
+          "start": 0,
+          "duration": 363,
+          "content": "ki "
+        },
+        {
+          "start": 363,
+          "duration": 363,
+          "content": "'t "
+        },
+        {
+          "start": 727,
+          "duration": 791,
+          "content": "to "
+        },
+        {
+          "start": 1519,
+          "duration": 624,
+          "content": "i "
+        },
+        {
+          "start": 2143,
+          "duration": 416,
+          "content": "tsu "
+        },
+        {
+          "start": 2559,
+          "duration": 200,
+          "content": "ka "
+        },
+        {
+          "start": 2760,
+          "duration": 479,
+          "content": "ha "
+        },
+        {
+          "start": 3239,
+          "duration": 312,
+          "content": "wa "
+        },
+        {
+          "start": 3552,
+          "duration": 203,
+          "content": "ka "
+        },
+        {
+          "start": 3756,
+          "duration": 203,
+          "content": "'t "
+        },
+        {
+          "start": 3960,
+          "duration": 199,
+          "content": "te "
+        },
+        {
+          "start": 4159,
+          "duration": 297,
+          "content": "ru "
+        },
+        {
+          "start": 4457,
+          "duration": 198,
+          "content": "no "
+        },
+        {
+          "start": 4655,
+          "duration": 288,
+          "content": "ka "
+        },
+        {
+          "start": 4944,
+          "duration": 639,
+          "content": "na "
+        }
+      ]
+    },
+    {
+      "start": 106665,
+      "duration": 5940,
+      "content": [
+        {
+          "start": 0,
+          "duration": 391,
+          "content": "te "
+        },
+        {
+          "start": 391,
+          "duration": 360,
+          "content": "ba "
+        },
+        {
+          "start": 751,
+          "duration": 512,
+          "content": "na "
+        },
+        {
+          "start": 1264,
+          "duration": 319,
+          "content": "shi "
+        },
+        {
+          "start": 1584,
+          "duration": 537,
+          "content": "ta "
+        },
+        {
+          "start": 2121,
+          "duration": 387,
+          "content": "fu "
+        },
+        {
+          "start": 2508,
+          "duration": 387,
+          "content": "u "
+        },
+        {
+          "start": 2895,
+          "duration": 395,
+          "content": "se "
+        },
+        {
+          "start": 3291,
+          "duration": 395,
+          "content": "n "
+        },
+        {
+          "start": 3687,
+          "duration": 304,
+          "content": "to "
+        },
+        {
+          "start": 3991,
+          "duration": 304,
+          "content": "n "
+        },
+        {
+          "start": 4295,
+          "duration": 280,
+          "content": "de "
+        },
+        {
+          "start": 4576,
+          "duration": 280,
+          "content": "'t "
+        },
+        {
+          "start": 4856,
+          "duration": 1083,
+          "content": "ta "
+        }
+      ]
+    },
+    {
+      "start": 113461,
+      "duration": 2633,
+      "content": [
+        {
+          "start": 0,
+          "duration": 400,
+          "content": "sa "
+        },
+        {
+          "start": 400,
+          "duration": 183,
+          "content": "ba "
+        },
+        {
+          "start": 584,
+          "duration": 175,
+          "content": "yo "
+        },
+        {
+          "start": 760,
+          "duration": 175,
+          "content": "n "
+        },
+        {
+          "start": 936,
+          "duration": 311,
+          "content": "de "
+        },
+        {
+          "start": 1247,
+          "duration": 432,
+          "content": "mi "
+        },
+        {
+          "start": 1680,
+          "duration": 192,
+          "content": "ta "
+        },
+        {
+          "start": 1872,
+          "duration": 192,
+          "content": "'t "
+        },
+        {
+          "start": 2065,
+          "duration": 569,
+          "content": "te "
+        }
+      ]
+    },
+    {
+      "start": 116234,
+      "duration": 2666,
+      "content": [
+        {
+          "start": 0,
+          "duration": 223,
+          "content": "a "
+        },
+        {
+          "start": 224,
+          "duration": 192,
+          "content": "no "
+        },
+        {
+          "start": 416,
+          "duration": 175,
+          "content": "ko "
+        },
+        {
+          "start": 591,
+          "duration": 176,
+          "content": "ro "
+        },
+        {
+          "start": 767,
+          "duration": 176,
+          "content": "ni "
+        },
+        {
+          "start": 944,
+          "duration": 183,
+          "content": "mo "
+        },
+        {
+          "start": 1127,
+          "duration": 176,
+          "content": "do "
+        },
+        {
+          "start": 1304,
+          "duration": 192,
+          "content": "re "
+        },
+        {
+          "start": 1496,
+          "duration": 105,
+          "content": "ya "
+        },
+        {
+          "start": 1601,
+          "duration": 200,
+          "content": "shi "
+        },
+        {
+          "start": 1802,
+          "duration": 191,
+          "content": "na "
+        },
+        {
+          "start": 1993,
+          "duration": 160,
+          "content": "i "
+        },
+        {
+          "start": 2154,
+          "duration": 512,
+          "content": "shi "
+        }
+      ]
+    },
+    {
+      "start": 119108,
+      "duration": 4703,
+      "content": [
+        {
+          "start": 0,
+          "duration": 199,
+          "content": "da "
+        },
+        {
+          "start": 199,
+          "duration": 232,
+          "content": "ka "
+        },
+        {
+          "start": 432,
+          "duration": 199,
+          "content": "ra "
+        },
+        {
+          "start": 631,
+          "duration": 288,
+          "content": "i "
+        },
+        {
+          "start": 919,
+          "duration": 368,
+          "content": "ma "
+        },
+        {
+          "start": 1288,
+          "duration": 319,
+          "content": "wo "
+        },
+        {
+          "start": 1608,
+          "duration": 247,
+          "content": "mi "
+        },
+        {
+          "start": 1855,
+          "duration": 184,
+          "content": "to "
+        },
+        {
+          "start": 2040,
+          "duration": 183,
+          "content": "me "
+        },
+        {
+          "start": 2224,
+          "duration": 147,
+          "content": "te "
+        },
+        {
+          "start": 2371,
+          "duration": 147,
+          "content": "i "
+        },
+        {
+          "start": 2519,
+          "duration": 456,
+          "content": "ta "
+        },
+        {
+          "start": 2975,
+          "duration": 183,
+          "content": "i "
+        },
+        {
+          "start": 3159,
+          "duration": 1543,
+          "content": "no "
+        }
+      ]
+    },
+    {
+      "start": 124735,
+      "duration": 2624,
+      "content": [
+        {
+          "start": 0,
+          "duration": 192,
+          "content": "to "
+        },
+        {
+          "start": 192,
+          "duration": 208,
+          "content": "te "
+        },
+        {
+          "start": 400,
+          "duration": 192,
+          "content": "mo "
+        },
+        {
+          "start": 592,
+          "duration": 191,
+          "content": "ta "
+        },
+        {
+          "start": 783,
+          "duration": 192,
+          "content": "i "
+        },
+        {
+          "start": 975,
+          "duration": 248,
+          "content": "se "
+        },
+        {
+          "start": 1223,
+          "duration": 232,
+          "content": "tsu "
+        },
+        {
+          "start": 1456,
+          "duration": 199,
+          "content": "na "
+        },
+        {
+          "start": 1655,
+          "duration": 200,
+          "content": "ko "
+        },
+        {
+          "start": 1856,
+          "duration": 247,
+          "content": "to "
+        },
+        {
+          "start": 2103,
+          "duration": 520,
+          "content": "mo "
+        }
+      ]
+    },
+    {
+      "start": 127527,
+      "duration": 2678,
+      "content": [
+        {
+          "start": 0,
+          "duration": 248,
+          "content": "mi "
+        },
+        {
+          "start": 248,
+          "duration": 232,
+          "content": "su "
+        },
+        {
+          "start": 480,
+          "duration": 231,
+          "content": "go "
+        },
+        {
+          "start": 711,
+          "duration": 184,
+          "content": "shi "
+        },
+        {
+          "start": 896,
+          "duration": 106,
+          "content": "cha "
+        },
+        {
+          "start": 1109,
+          "duration": 25,
+          "content": "'t "
+        },
+        {
+          "start": 1135,
+          "duration": 199,
+          "content": "ta "
+        },
+        {
+          "start": 1334,
+          "duration": 184,
+          "content": "to "
+        },
+        {
+          "start": 1519,
+          "duration": 159,
+          "content": "shi "
+        },
+        {
+          "start": 1678,
+          "duration": 376,
+          "content": "te "
+        },
+        {
+          "start": 2055,
+          "duration": 623,
+          "content": "mo "
+        }
+      ]
+    },
+    {
+      "start": 130421,
+      "duration": 4169,
+      "content": [
+        {
+          "start": 0,
+          "duration": 264,
+          "content": "ma "
+        },
+        {
+          "start": 265,
+          "duration": 192,
+          "content": "ta "
+        },
+        {
+          "start": 457,
+          "duration": 207,
+          "content": "mi "
+        },
+        {
+          "start": 664,
+          "duration": 192,
+          "content": "tsu "
+        },
+        {
+          "start": 856,
+          "duration": 384,
+          "content": "ke "
+        },
+        {
+          "start": 1241,
+          "duration": 583,
+          "content": "re "
+        },
+        {
+          "start": 1825,
+          "duration": 559,
+          "content": "ba "
+        },
+        {
+          "start": 2384,
+          "duration": 875,
+          "content": "i "
+        },
+        {
+          "start": 3260,
+          "duration": 909,
+          "content": "i "
+        }
+      ]
+    },
+    {
+      "start": 134934,
+      "duration": 2751,
+      "content": [
+        {
+          "start": 0,
+          "duration": 296,
+          "content": "i "
+        },
+        {
+          "start": 297,
+          "duration": 567,
+          "content": "tsu "
+        },
+        {
+          "start": 864,
+          "duration": 496,
+          "content": "mo "
+        },
+        {
+          "start": 1360,
+          "duration": 136,
+          "content": "i "
+        },
+        {
+          "start": 1496,
+          "duration": 22,
+          "content": "'t "
+        },
+        {
+          "start": 1519,
+          "duration": 264,
+          "content": "te "
+        },
+        {
+          "start": 1784,
+          "duration": 231,
+          "content": "ta "
+        },
+        {
+          "start": 2015,
+          "duration": 736,
+          "content": "ne "
+        }
+      ]
+    },
+    {
+      "start": 137686,
+      "duration": 2856,
+      "content": [
+        {
+          "start": 0,
+          "duration": 175,
+          "content": "“ "
+        },
+        {
+          "start": 175,
+          "duration": 120,
+          "content": "ma "
+        },
+        {
+          "start": 416,
+          "duration": 120,
+          "content": "  "
+        },
+        {
+          "start": 537,
+          "duration": 147,
+          "content": "do "
+        },
+        {
+          "start": 684,
+          "duration": 147,
+          "content": "u "
+        },
+        {
+          "start": 832,
+          "duration": 279,
+          "content": "ni "
+        },
+        {
+          "start": 1112,
+          "duration": 248,
+          "content": "ka "
+        },
+        {
+          "start": 1360,
+          "duration": 199,
+          "content": "na "
+        },
+        {
+          "start": 1560,
+          "duration": 267,
+          "content": "ru "
+        },
+        {
+          "start": 1827,
+          "duration": 267,
+          "content": "'t "
+        },
+        {
+          "start": 2095,
+          "duration": 760,
+          "content": "te "
+        },
+        {
+          "start": 2856,
+          "duration": 0,
+          "content": "” "
+        }
+      ]
+    },
+    {
+      "start": 140542,
+      "duration": 2347,
+      "content": [
+        {
+          "start": 0,
+          "duration": 351,
+          "content": "da "
+        },
+        {
+          "start": 351,
+          "duration": 272,
+          "content": "ke "
+        },
+        {
+          "start": 624,
+          "duration": 175,
+          "content": "do "
+        },
+        {
+          "start": 799,
+          "duration": 160,
+          "content": "chi "
+        },
+        {
+          "start": 959,
+          "duration": 240,
+          "content": "ka "
+        },
+        {
+          "start": 1200,
+          "duration": 231,
+          "content": "ra "
+        },
+        {
+          "start": 1431,
+          "duration": 167,
+          "content": "ma "
+        },
+        {
+          "start": 1599,
+          "duration": 216,
+          "content": "ka "
+        },
+        {
+          "start": 1816,
+          "duration": 231,
+          "content": "se "
+        },
+        {
+          "start": 2047,
+          "duration": 59,
+          "content": "ja "
+        }
+      ]
+    },
+    {
+      "start": 142889,
+      "duration": 3386,
+      "content": [
+        {
+          "start": 0,
+          "duration": 143,
+          "content": "do "
+        },
+        {
+          "start": 144,
+          "duration": 143,
+          "content": "u "
+        },
+        {
+          "start": 288,
+          "duration": 152,
+          "content": "ni "
+        },
+        {
+          "start": 441,
+          "duration": 223,
+          "content": "mo "
+        },
+        {
+          "start": 665,
+          "duration": 240,
+          "content": "na "
+        },
+        {
+          "start": 905,
+          "duration": 225,
+          "content": "ra "
+        },
+        {
+          "start": 1131,
+          "duration": 912,
+          "content": "na "
+        },
+        {
+          "start": 2043,
+          "duration": 143,
+          "content": "i "
+        },
+        {
+          "start": 2187,
+          "duration": 192,
+          "content": "ko "
+        },
+        {
+          "start": 2379,
+          "duration": 159,
+          "content": "to "
+        },
+        {
+          "start": 2538,
+          "duration": 208,
+          "content": "mo "
+        },
+        {
+          "start": 2747,
+          "duration": 177,
+          "content": "a "
+        },
+        {
+          "start": 2924,
+          "duration": 462,
+          "content": "ru "
+        }
+      ]
+    },
+    {
+      "start": 146276,
+      "duration": 1375,
+      "content": [
+        {
+          "start": 0,
+          "duration": 335,
+          "content": "a "
+        },
+        {
+          "start": 335,
+          "duration": 423,
+          "content": "i "
+        },
+        {
+          "start": 759,
+          "duration": 615,
+          "content": "ha "
+        }
+      ]
+    },
+    {
+      "start": 147651,
+      "duration": 4175,
+      "content": [
+        {
+          "start": 0,
+          "duration": 808,
+          "content": "do "
+        },
+        {
+          "start": 809,
+          "duration": 383,
+          "content": "ko "
+        },
+        {
+          "start": 1192,
+          "duration": 208,
+          "content": "ka "
+        },
+        {
+          "start": 1401,
+          "duration": 431,
+          "content": "ra "
+        },
+        {
+          "start": 1832,
+          "duration": 212,
+          "content": "ya "
+        },
+        {
+          "start": 2044,
+          "duration": 130,
+          "content": "'t "
+        },
+        {
+          "start": 2175,
+          "duration": 296,
+          "content": "te "
+        },
+        {
+          "start": 2472,
+          "duration": 216,
+          "content": "ku "
+        },
+        {
+          "start": 2688,
+          "duration": 207,
+          "content": "ru "
+        },
+        {
+          "start": 2895,
+          "duration": 184,
+          "content": "no "
+        },
+        {
+          "start": 3080,
+          "duration": 375,
+          "content": "de "
+        },
+        {
+          "start": 3455,
+          "duration": 240,
+          "content": "sho "
+        },
+        {
+          "start": 3935,
+          "duration": 240,
+          "content": "u "
+        }
+      ]
+    },
+    {
+      "start": 151826,
+      "duration": 5592,
+      "content": [
+        {
+          "start": 0,
+          "duration": 208,
+          "content": "ji "
+        },
+        {
+          "start": 209,
+          "duration": 299,
+          "content": "bu "
+        },
+        {
+          "start": 508,
+          "duration": 299,
+          "content": "n "
+        },
+        {
+          "start": 808,
+          "duration": 768,
+          "content": "no "
+        },
+        {
+          "start": 1576,
+          "duration": 695,
+          "content": "mu "
+        },
+        {
+          "start": 2272,
+          "duration": 695,
+          "content": "ne "
+        },
+        {
+          "start": 2968,
+          "duration": 712,
+          "content": "ni "
+        },
+        {
+          "start": 3681,
+          "duration": 343,
+          "content": "to "
+        },
+        {
+          "start": 4024,
+          "duration": 192,
+          "content": "i "
+        },
+        {
+          "start": 4216,
+          "duration": 343,
+          "content": "ka "
+        },
+        {
+          "start": 4560,
+          "duration": 408,
+          "content": "ke "
+        },
+        {
+          "start": 4968,
+          "duration": 624,
+          "content": "ta "
+        }
+      ]
+    },
+    {
+      "start": 157419,
+      "duration": 5610,
+      "content": [
+        {
+          "start": 0,
+          "duration": 399,
+          "content": "su "
+        },
+        {
+          "start": 400,
+          "duration": 464,
+          "content": "ko "
+        },
+        {
+          "start": 864,
+          "duration": 735,
+          "content": "shi "
+        },
+        {
+          "start": 1599,
+          "duration": 768,
+          "content": "zu "
+        },
+        {
+          "start": 2368,
+          "duration": 375,
+          "content": "tsu "
+        },
+        {
+          "start": 2743,
+          "duration": 192,
+          "content": "da "
+        },
+        {
+          "start": 2935,
+          "duration": 447,
+          "content": "ke "
+        },
+        {
+          "start": 3383,
+          "duration": 328,
+          "content": "do "
+        },
+        {
+          "start": 3711,
+          "duration": 167,
+          "content": "i "
+        },
+        {
+          "start": 3879,
+          "duration": 195,
+          "content": "ro "
+        },
+        {
+          "start": 4075,
+          "duration": 39,
+          "content": "n "
+        },
+        {
+          "start": 4114,
+          "duration": 255,
+          "content": "na "
+        },
+        {
+          "start": 4370,
+          "duration": 192,
+          "content": "ko "
+        },
+        {
+          "start": 4562,
+          "duration": 424,
+          "content": "to "
+        },
+        {
+          "start": 4987,
+          "duration": 623,
+          "content": "ga "
+        }
+      ]
+    },
+    {
+      "start": 163029,
+      "duration": 6296,
+      "content": [
+        {
+          "start": 0,
+          "duration": 240,
+          "content": "ka "
+        },
+        {
+          "start": 241,
+          "duration": 360,
+          "content": "wa "
+        },
+        {
+          "start": 601,
+          "duration": 360,
+          "content": "'t "
+        },
+        {
+          "start": 961,
+          "duration": 679,
+          "content": "te "
+        },
+        {
+          "start": 1640,
+          "duration": 0,
+          "content": "  "
+        },
+        {
+          "start": 1640,
+          "duration": 680,
+          "content": "wa "
+        },
+        {
+          "start": 2321,
+          "duration": 472,
+          "content": "ta "
+        },
+        {
+          "start": 2793,
+          "duration": 223,
+          "content": "shi "
+        },
+        {
+          "start": 3017,
+          "duration": 720,
+          "content": "ha "
+        },
+        {
+          "start": 3737,
+          "duration": 399,
+          "content": "ko "
+        },
+        {
+          "start": 4137,
+          "duration": 192,
+          "content": "ko "
+        },
+        {
+          "start": 4329,
+          "duration": 295,
+          "content": "ni "
+        },
+        {
+          "start": 4625,
+          "duration": 439,
+          "content": "a "
+        },
+        {
+          "start": 5064,
+          "duration": 1232,
+          "content": "ru "
+        }
+      ]
+    },
+    {
+      "start": 181190,
+      "duration": 2876,
+      "content": [
+        {
+          "start": 0,
+          "duration": 204,
+          "content": "ko "
+        },
+        {
+          "start": 204,
+          "duration": 204,
+          "content": "n "
+        },
+        {
+          "start": 408,
+          "duration": 240,
+          "content": "na "
+        },
+        {
+          "start": 649,
+          "duration": 295,
+          "content": "ha "
+        },
+        {
+          "start": 944,
+          "duration": 192,
+          "content": "zu "
+        },
+        {
+          "start": 1136,
+          "duration": 167,
+          "content": "ja "
+        },
+        {
+          "start": 1472,
+          "duration": 208,
+          "content": "na "
+        },
+        {
+          "start": 1681,
+          "duration": 232,
+          "content": "ka "
+        },
+        {
+          "start": 1913,
+          "duration": 232,
+          "content": "'t "
+        },
+        {
+          "start": 2145,
+          "duration": 731,
+          "content": "ta "
+        }
+      ]
+    },
+    {
+      "start": 184067,
+      "duration": 2781,
+      "content": [
+        {
+          "start": 0,
+          "duration": 176,
+          "content": "to "
+        },
+        {
+          "start": 176,
+          "duration": 176,
+          "content": "n "
+        },
+        {
+          "start": 352,
+          "duration": 216,
+          "content": "da "
+        },
+        {
+          "start": 569,
+          "duration": 222,
+          "content": "o "
+        },
+        {
+          "start": 791,
+          "duration": 401,
+          "content": "to "
+        },
+        {
+          "start": 1192,
+          "duration": 271,
+          "content": "gi "
+        },
+        {
+          "start": 1464,
+          "duration": 255,
+          "content": "ba "
+        },
+        {
+          "start": 1720,
+          "duration": 392,
+          "content": "na "
+        },
+        {
+          "start": 2112,
+          "duration": 669,
+          "content": "shi "
+        }
+      ]
+    },
+    {
+      "start": 186848,
+      "duration": 4927,
+      "content": [
+        {
+          "start": 0,
+          "duration": 223,
+          "content": "na "
+        },
+        {
+          "start": 224,
+          "duration": 208,
+          "content": "zo "
+        },
+        {
+          "start": 433,
+          "duration": 192,
+          "content": "na "
+        },
+        {
+          "start": 625,
+          "duration": 247,
+          "content": "zo "
+        },
+        {
+          "start": 872,
+          "duration": 192,
+          "content": "mi "
+        },
+        {
+          "start": 1064,
+          "duration": 184,
+          "content": "ta "
+        },
+        {
+          "start": 1249,
+          "duration": 248,
+          "content": "i "
+        },
+        {
+          "start": 1497,
+          "duration": 199,
+          "content": "na "
+        },
+        {
+          "start": 1696,
+          "duration": 175,
+          "content": "a "
+        },
+        {
+          "start": 1872,
+          "duration": 200,
+          "content": "i "
+        },
+        {
+          "start": 2073,
+          "duration": 183,
+          "content": "su "
+        },
+        {
+          "start": 2256,
+          "duration": 176,
+          "content": "ko "
+        },
+        {
+          "start": 2433,
+          "duration": 167,
+          "content": "to "
+        },
+        {
+          "start": 2601,
+          "duration": 151,
+          "content": "no "
+        },
+        {
+          "start": 2752,
+          "duration": 360,
+          "content": "i "
+        },
+        {
+          "start": 3112,
+          "duration": 223,
+          "content": "mi "
+        },
+        {
+          "start": 3336,
+          "duration": 1591,
+          "content": "ha "
+        }
+      ]
+    },
+    {
+      "start": 192569,
+      "duration": 2744,
+      "content": [
+        {
+          "start": 0,
+          "duration": 183,
+          "content": "u "
+        },
+        {
+          "start": 183,
+          "duration": 183,
+          "content": "n "
+        },
+        {
+          "start": 367,
+          "duration": 216,
+          "content": "me "
+        },
+        {
+          "start": 583,
+          "duration": 216,
+          "content": "i "
+        },
+        {
+          "start": 800,
+          "duration": 183,
+          "content": "da "
+        },
+        {
+          "start": 983,
+          "duration": 272,
+          "content": "ke "
+        },
+        {
+          "start": 1255,
+          "duration": 125,
+          "content": "ja "
+        },
+        {
+          "start": 1544,
+          "duration": 313,
+          "content": "na "
+        },
+        {
+          "start": 1858,
+          "duration": 175,
+          "content": "ku "
+        },
+        {
+          "start": 2033,
+          "duration": 711,
+          "content": "te "
+        }
+      ]
+    },
+    {
+      "start": 195313,
+      "duration": 2720,
+      "content": [
+        {
+          "start": 0,
+          "duration": 200,
+          "content": "se "
+        },
+        {
+          "start": 200,
+          "duration": 200,
+          "content": "n "
+        },
+        {
+          "start": 401,
+          "duration": 240,
+          "content": "chi "
+        },
+        {
+          "start": 642,
+          "duration": 199,
+          "content": "me "
+        },
+        {
+          "start": 841,
+          "duration": 199,
+          "content": "n "
+        },
+        {
+          "start": 1041,
+          "duration": 263,
+          "content": "ta "
+        },
+        {
+          "start": 1304,
+          "duration": 184,
+          "content": "ru "
+        },
+        {
+          "start": 1489,
+          "duration": 191,
+          "content": "de "
+        },
+        {
+          "start": 1681,
+          "duration": 31,
+          "content": "mo "
+        },
+        {
+          "start": 1713,
+          "duration": 192,
+          "content": "na "
+        },
+        {
+          "start": 1905,
+          "duration": 160,
+          "content": "ku "
+        },
+        {
+          "start": 2065,
+          "duration": 654,
+          "content": "te "
+        }
+      ]
+    },
+    {
+      "start": 198033,
+      "duration": 4385,
+      "content": [
+        {
+          "start": 0,
+          "duration": 360,
+          "content": "tsu "
+        },
+        {
+          "start": 360,
+          "duration": 320,
+          "content": "yo "
+        },
+        {
+          "start": 681,
+          "duration": 175,
+          "content": "ku "
+        },
+        {
+          "start": 856,
+          "duration": 223,
+          "content": "mi "
+        },
+        {
+          "start": 1080,
+          "duration": 162,
+          "content": "e "
+        },
+        {
+          "start": 1243,
+          "duration": 238,
+          "content": "na "
+        },
+        {
+          "start": 1481,
+          "duration": 319,
+          "content": "i "
+        },
+        {
+          "start": 1800,
+          "duration": 304,
+          "content": "mo "
+        },
+        {
+          "start": 2105,
+          "duration": 240,
+          "content": "no "
+        },
+        {
+          "start": 2345,
+          "duration": 320,
+          "content": "ka "
+        },
+        {
+          "start": 2666,
+          "duration": 1720,
+          "content": "na "
+        }
+      ]
+    },
+    {
+      "start": 202707,
+      "duration": 1488,
+      "content": [
+        {
+          "start": 0,
+          "duration": 368,
+          "content": "a "
+        },
+        {
+          "start": 369,
+          "duration": 399,
+          "content": "i "
+        },
+        {
+          "start": 768,
+          "duration": 720,
+          "content": "ha "
+        }
+      ]
+    },
+    {
+      "start": 204195,
+      "duration": 4048,
+      "content": [
+        {
+          "start": 0,
+          "duration": 688,
+          "content": "do "
+        },
+        {
+          "start": 689,
+          "duration": 384,
+          "content": "ko "
+        },
+        {
+          "start": 1073,
+          "duration": 191,
+          "content": "ka "
+        },
+        {
+          "start": 1265,
+          "duration": 439,
+          "content": "ra "
+        },
+        {
+          "start": 1704,
+          "duration": 220,
+          "content": "ya "
+        },
+        {
+          "start": 1924,
+          "duration": 220,
+          "content": "'t "
+        },
+        {
+          "start": 2144,
+          "duration": 255,
+          "content": "te "
+        },
+        {
+          "start": 2400,
+          "duration": 200,
+          "content": "ku "
+        },
+        {
+          "start": 2601,
+          "duration": 207,
+          "content": "ru "
+        },
+        {
+          "start": 2808,
+          "duration": 192,
+          "content": "no "
+        },
+        {
+          "start": 3000,
+          "duration": 361,
+          "content": "de "
+        },
+        {
+          "start": 3362,
+          "duration": 228,
+          "content": "sho "
+        },
+        {
+          "start": 3820,
+          "duration": 228,
+          "content": "u "
+        }
+      ]
+    },
+    {
+      "start": 208244,
+      "duration": 5671,
+      "content": [
+        {
+          "start": 0,
+          "duration": 207,
+          "content": "ji "
+        },
+        {
+          "start": 207,
+          "duration": 332,
+          "content": "bu "
+        },
+        {
+          "start": 539,
+          "duration": 332,
+          "content": "n "
+        },
+        {
+          "start": 871,
+          "duration": 705,
+          "content": "no "
+        },
+        {
+          "start": 1576,
+          "duration": 654,
+          "content": "mu "
+        },
+        {
+          "start": 2231,
+          "duration": 688,
+          "content": "ne "
+        },
+        {
+          "start": 2920,
+          "duration": 776,
+          "content": "ni "
+        },
+        {
+          "start": 3696,
+          "duration": 328,
+          "content": "to "
+        },
+        {
+          "start": 4024,
+          "duration": 202,
+          "content": "i "
+        },
+        {
+          "start": 4226,
+          "duration": 357,
+          "content": "ka "
+        },
+        {
+          "start": 4584,
+          "duration": 392,
+          "content": "ke "
+        },
+        {
+          "start": 4976,
+          "duration": 695,
+          "content": "ta "
+        }
+      ]
+    },
+    {
+      "start": 213916,
+      "duration": 5623,
+      "content": [
+        {
+          "start": 0,
+          "duration": 408,
+          "content": "ta "
+        },
+        {
+          "start": 408,
+          "duration": 423,
+          "content": "be "
+        },
+        {
+          "start": 832,
+          "duration": 703,
+          "content": "te "
+        },
+        {
+          "start": 1535,
+          "duration": 688,
+          "content": "mi "
+        },
+        {
+          "start": 2223,
+          "duration": 399,
+          "content": "na "
+        },
+        {
+          "start": 2623,
+          "duration": 264,
+          "content": "ku "
+        },
+        {
+          "start": 2888,
+          "duration": 204,
+          "content": "cha "
+        },
+        {
+          "start": 3296,
+          "duration": 375,
+          "content": "wa "
+        },
+        {
+          "start": 3671,
+          "duration": 384,
+          "content": "ka "
+        },
+        {
+          "start": 4056,
+          "duration": 216,
+          "content": "ra "
+        },
+        {
+          "start": 4272,
+          "duration": 199,
+          "content": "na "
+        },
+        {
+          "start": 4472,
+          "duration": 192,
+          "content": "i "
+        },
+        {
+          "start": 4664,
+          "duration": 335,
+          "content": "ko "
+        },
+        {
+          "start": 5000,
+          "duration": 623,
+          "content": "to "
+        }
+      ]
+    },
+    {
+      "start": 219539,
+      "duration": 5768,
+      "content": [
+        {
+          "start": 0,
+          "duration": 232,
+          "content": "de "
+        },
+        {
+          "start": 233,
+          "duration": 255,
+          "content": "a "
+        },
+        {
+          "start": 488,
+          "duration": 361,
+          "content": "i "
+        },
+        {
+          "start": 850,
+          "duration": 726,
+          "content": "no "
+        },
+        {
+          "start": 1576,
+          "duration": 344,
+          "content": "i "
+        },
+        {
+          "start": 1920,
+          "duration": 344,
+          "content": "n "
+        },
+        {
+          "start": 2265,
+          "duration": 276,
+          "content": "ryo "
+        },
+        {
+          "start": 2817,
+          "duration": 216,
+          "content": "ku "
+        },
+        {
+          "start": 3033,
+          "duration": 623,
+          "content": "ha "
+        },
+        {
+          "start": 3656,
+          "duration": 360,
+          "content": "do "
+        },
+        {
+          "start": 4016,
+          "duration": 208,
+          "content": "re "
+        },
+        {
+          "start": 4225,
+          "duration": 407,
+          "content": "ho "
+        },
+        {
+          "start": 4632,
+          "duration": 391,
+          "content": "do "
+        },
+        {
+          "start": 5024,
+          "duration": 744,
+          "content": "ka "
+        }
+      ]
+    },
+    {
+      "start": 225363,
+      "duration": 1344,
+      "content": [
+        {
+          "start": 0,
+          "duration": 304,
+          "content": "a "
+        },
+        {
+          "start": 304,
+          "duration": 350,
+          "content": "i "
+        },
+        {
+          "start": 655,
+          "duration": 688,
+          "content": "ha "
+        }
+      ]
+    },
+    {
+      "start": 226707,
+      "duration": 4023,
+      "content": [
+        {
+          "start": 0,
+          "duration": 759,
+          "content": "do "
+        },
+        {
+          "start": 759,
+          "duration": 391,
+          "content": "ko "
+        },
+        {
+          "start": 1151,
+          "duration": 280,
+          "content": "ka "
+        },
+        {
+          "start": 1432,
+          "duration": 351,
+          "content": "ra "
+        },
+        {
+          "start": 1783,
+          "duration": 188,
+          "content": "ya "
+        },
+        {
+          "start": 1972,
+          "duration": 188,
+          "content": "'t "
+        },
+        {
+          "start": 2160,
+          "duration": 287,
+          "content": "te "
+        },
+        {
+          "start": 2447,
+          "duration": 216,
+          "content": "ku "
+        },
+        {
+          "start": 2664,
+          "duration": 199,
+          "content": "ru "
+        },
+        {
+          "start": 2863,
+          "duration": 184,
+          "content": "no "
+        },
+        {
+          "start": 3048,
+          "duration": 360,
+          "content": "de "
+        },
+        {
+          "start": 3408,
+          "duration": 205,
+          "content": "sho "
+        },
+        {
+          "start": 3818,
+          "duration": 205,
+          "content": "u "
+        }
+      ]
+    },
+    {
+      "start": 230731,
+      "duration": 5686,
+      "content": [
+        {
+          "start": 0,
+          "duration": 183,
+          "content": "ji "
+        },
+        {
+          "start": 183,
+          "duration": 380,
+          "content": "bu "
+        },
+        {
+          "start": 563,
+          "duration": 380,
+          "content": "n "
+        },
+        {
+          "start": 944,
+          "duration": 695,
+          "content": "no "
+        },
+        {
+          "start": 1640,
+          "duration": 703,
+          "content": "mu "
+        },
+        {
+          "start": 2343,
+          "duration": 727,
+          "content": "ne "
+        },
+        {
+          "start": 3071,
+          "duration": 728,
+          "content": "ni "
+        },
+        {
+          "start": 3800,
+          "duration": 319,
+          "content": "to "
+        },
+        {
+          "start": 4119,
+          "duration": 208,
+          "content": "i "
+        },
+        {
+          "start": 4328,
+          "duration": 375,
+          "content": "ka "
+        },
+        {
+          "start": 4703,
+          "duration": 391,
+          "content": "ke "
+        },
+        {
+          "start": 5095,
+          "duration": 591,
+          "content": "ta "
+        }
+      ]
+    },
+    {
+      "start": 236617,
+      "duration": 5620,
+      "content": [
+        {
+          "start": 0,
+          "duration": 344,
+          "content": "ni "
+        },
+        {
+          "start": 345,
+          "duration": 360,
+          "content": "se "
+        },
+        {
+          "start": 705,
+          "duration": 679,
+          "content": "mo "
+        },
+        {
+          "start": 1384,
+          "duration": 727,
+          "content": "no "
+        },
+        {
+          "start": 2112,
+          "duration": 356,
+          "content": "na "
+        },
+        {
+          "start": 2468,
+          "duration": 356,
+          "content": "n "
+        },
+        {
+          "start": 2825,
+          "duration": 371,
+          "content": "ka "
+        },
+        {
+          "start": 3196,
+          "duration": 117,
+          "content": "kyo "
+        },
+        {
+          "start": 3432,
+          "duration": 117,
+          "content": "u "
+        },
+        {
+          "start": 3550,
+          "duration": 350,
+          "content": "mi "
+        },
+        {
+          "start": 3901,
+          "duration": 215,
+          "content": "ha "
+        },
+        {
+          "start": 4116,
+          "duration": 320,
+          "content": "na "
+        },
+        {
+          "start": 4437,
+          "duration": 384,
+          "content": "i "
+        },
+        {
+          "start": 4821,
+          "duration": 800,
+          "content": "wa "
+        }
+      ]
+    },
+    {
+      "start": 242238,
+      "duration": 5647,
+      "content": [
+        {
+          "start": 0,
+          "duration": 391,
+          "content": "ho "
+        },
+        {
+          "start": 392,
+          "duration": 391,
+          "content": "n "
+        },
+        {
+          "start": 784,
+          "duration": 639,
+          "content": "mo "
+        },
+        {
+          "start": 1424,
+          "duration": 695,
+          "content": "no "
+        },
+        {
+          "start": 2120,
+          "duration": 800,
+          "content": "da "
+        },
+        {
+          "start": 2920,
+          "duration": 631,
+          "content": "ke "
+        },
+        {
+          "start": 3551,
+          "duration": 368,
+          "content": "mi "
+        },
+        {
+          "start": 3920,
+          "duration": 207,
+          "content": "tsu "
+        },
+        {
+          "start": 4127,
+          "duration": 360,
+          "content": "ke "
+        },
+        {
+          "start": 4487,
+          "duration": 400,
+          "content": "ta "
+        },
+        {
+          "start": 4888,
+          "duration": 759,
+          "content": "i "
+        }
+      ]
+    },
+    {
+      "start": 247886,
+      "duration": 6983,
+      "content": [
+        {
+          "start": 0,
+          "duration": 360,
+          "content": "a "
+        },
+        {
+          "start": 360,
+          "duration": 399,
+          "content": "na "
+        },
+        {
+          "start": 759,
+          "duration": 664,
+          "content": "ta "
+        },
+        {
+          "start": 1423,
+          "duration": 744,
+          "content": "wo "
+        },
+        {
+          "start": 2168,
+          "duration": 388,
+          "content": "zu "
+        },
+        {
+          "start": 2556,
+          "duration": 388,
+          "content": "'t "
+        },
+        {
+          "start": 2944,
+          "duration": 608,
+          "content": "to "
+        },
+        {
+          "start": 3552,
+          "duration": 367,
+          "content": "sa "
+        },
+        {
+          "start": 3919,
+          "duration": 175,
+          "content": "ga "
+        },
+        {
+          "start": 4095,
+          "duration": 376,
+          "content": "shi "
+        },
+        {
+          "start": 4472,
+          "duration": 375,
+          "content": "te "
+        },
+        {
+          "start": 4847,
+          "duration": 2136,
+          "content": "ta "
+        }
+      ]
+    }
+  ],
+  "ti": "LOVE 2000",
+  "ar": "遠野ひかる",
+  "al": "LOVE 2000",
+  "by": "",
+  "offset": 0
+}

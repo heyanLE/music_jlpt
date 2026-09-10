@@ -1,0 +1,46 @@
+{
+  "runId": "20260817-r13-english-translations",
+  "status": "user-requested provisional translations applied",
+  "changed": [
+    {
+      "id": "en-38088",
+      "english": "(All over my sight)",
+      "translationZh": "（满眼所见）"
+    },
+    {
+      "id": "en-52438",
+      "english": "(It's over my blind)",
+      "translationZh": "（越过我蒙蔽的双眼）"
+    },
+    {
+      "id": "en-124726",
+      "english": "(We told you so long)",
+      "translationZh": "（我们早已这样告诉过你）"
+    },
+    {
+      "id": "en-139138",
+      "english": "(You told me what's wrong)",
+      "translationZh": "（你告诉我哪里不对）"
+    },
+    {
+      "id": "en-172139",
+      "english": "I'll lead the brand new days",
+      "translationZh": "我会引领崭新的日子。"
+    },
+    {
+      "id": "en-240187",
+      "english": "(It's all up to you)",
+      "translationZh": "（一切都取决于你）"
+    },
+    {
+      "id": "en-254505",
+      "english": "(So look up to you)",
+      "translationZh": "（所以仰望着你）"
+    },
+    {
+      "id": "en-316440",
+      "english": "I'll lead the brand new days",
+      "translationZh": "我会引领崭新的日子。"
+    }
+  ]
+}

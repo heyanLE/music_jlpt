@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 2,
+  "framesBeforeSha256": "e661777b0d81f1d153833da14a440e1fd566f9ebf13bf75192a24a67200826f8",
+  "framesAfterSha256": "de4c24778cb60ce8b1685bb06c73111eefb0888a1e5c53334f11c300f6cf2850",
+  "scope": "all",
+  "userWording": "确认，需要频谱动画",
+  "proposalSnapshotSha256": "ed46452846490a11737698018bf0a1aa7bc969d835b30761c3d573b6fd208678",
+  "sourceProposals": [
+    "project/proposals/lexical.json",
+    "project/proposals/grammar.json",
+    "project/proposals/translation.json"
+  ],
+  "stylePolicies": [
+    "project/review/concise-card-policy.json"
+  ],
+  "changes": "Accept 48-line integrated snapshot including concise meanings and simplified verb labels. No segmentation, reading, translation or timing edits beyond the reviewed snapshot."
+}

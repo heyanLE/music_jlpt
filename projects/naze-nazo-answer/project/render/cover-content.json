@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "slug": "naze-nazo-answer",
+  "title": "为什么？谜？！\nANSWER",
+  "artist": "熊田茜音＆増井優花",
+  "subtitle": "名探偵プリキュア！ED",
+  "subtitleScale": 2.0,
+  "series": "快速学唱",
+  "badge": { "enabled": true, "asset": "../assets/hi-res-audio-logo.png", "scale": 1.44 },
+  "benefits": ["歌词同步高亮", "假名注释", "罗马音", "逐词拆解"],
+  "outputs": [
+    { "name": "16x9", "width": 1920, "height": 1080, "artworkFocus": "center" },
+    { "name": "4x3", "width": 1440, "height": 1080, "artworkFocus": "center" }
+  ]
+}

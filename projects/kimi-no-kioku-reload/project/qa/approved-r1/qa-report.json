@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 2,
+  "result": "pending-visual-review",
+  "candidate": "project/work/approved-r1/16x9/kimi-no-kioku-reload--16x9--approved-r1.mp4",
+  "candidateSha256": "0a89f90b582c193e367cc2691a231a16f18c97807c88b5ee2c9ae3c7ad2b4df2",
+  "renderReport": "project/work/approved-r1/16x9/render-report.json",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "pix_fmt": "yuv420p",
+        "r_frame_rate": "30/1",
+        "bits_per_raw_sample": "8"
+      },
+      {
+        "codec_name": "mp3",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "399.533333"
+    }
+  },
+  "screenshots": [
+    {
+      "name": "first-lyric",
+      "timestampMs": 17601,
+      "path": "project/qa/approved-r1/first-lyric.png"
+    },
+    {
+      "name": "last-lyric",
+      "timestampMs": 321071,
+      "path": "project/qa/approved-r1/last-lyric.png"
+    },
+    {
+      "name": "maximum-cards",
+      "timestampMs": 210988,
+      "path": "project/qa/approved-r1/maximum-cards.png"
+    },
+    {
+      "name": "pure-english",
+      "timestampMs": 99016,
+      "path": "project/qa/approved-r1/pure-english.png"
+    },
+    {
+      "name": "mixed-language",
+      "timestampMs": 78117,
+      "path": "project/qa/approved-r1/mixed-language.png"
+    },
+    {
+      "name": "transition-stage2-kotone",
+      "timestampMs": 80006,
+      "path": "project/qa/approved-r1/transition-stage2-kotone.png"
+    },
+    {
+      "name": "transition-stage3-yukari",
+      "timestampMs": 159912,
+      "path": "project/qa/approved-r1/transition-stage3-yukari.png"
+    },
+    {
+      "name": "transition-stage4-mitsuru",
+      "timestampMs": 239818,
+      "path": "project/qa/approved-r1/transition-stage4-mitsuru.png"
+    },
+    {
+      "name": "transition-stage5-fuuka",
+      "timestampMs": 319724,
+      "path": "project/qa/approved-r1/transition-stage5-fuuka.png"
+    },
+    {
+      "name": "follow-gap",
+      "timestampMs": 68054,
+      "path": "project/qa/approved-r1/follow-gap.png"
+    },
+    {
+      "name": "persistent-gap",
+      "timestampMs": 59275,
+      "path": "project/qa/approved-r1/persistent-gap.png"
+    }
+  ],
+  "requiredVisualChecks": [
+    "three-layer order",
+    "background fit and transitions",
+    "foreground gap mode",
+    "annotation anchors",
+    "English timing",
+    "one-row cards and two-line meaning",
+    "transparent persistent spectrum",
+    "final line"
+  ]
+}

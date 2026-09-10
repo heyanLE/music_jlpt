@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "functions": {
+    "は": {
+      "functionZh": "主题提示",
+      "posZh": "提示助词"
+    },
+    "が": {
+      "functionZh": "主语标记",
+      "posZh": "格助词"
+    },
+    "を": {
+      "functionZh": "动作对象",
+      "posZh": "格助词"
+    },
+    "に": {
+      "functionZh": "到达点／作用对象",
+      "posZh": "格助词"
+    },
+    "で": {
+      "functionZh": "动作地点／手段",
+      "posZh": "格助词"
+    },
+    "と": {
+      "functionZh": "共同对象／引用",
+      "posZh": "格助词"
+    },
+    "の": {
+      "functionZh": "所属／修饰",
+      "posZh": "格助词"
+    },
+    "も": {
+      "functionZh": "添加、强调或让步",
+      "posZh": "副助词"
+    },
+    "へ": {
+      "functionZh": "移动方向",
+      "posZh": "格助词"
+    },
+    "から": {
+      "functionZh": "起点／原因",
+      "posZh": "格助词"
+    },
+    "まで": {
+      "functionZh": "终点／范围",
+      "posZh": "副助词"
+    },
+    "や": {
+      "functionZh": "列举",
+      "posZh": "并列助词"
+    },
+    "ね": {
+      "functionZh": "征求认同／语气",
+      "posZh": "终助词"
+    },
+    "よ": {
+      "functionZh": "告知／强调",
+      "posZh": "终助词"
+    },
+    "か": {
+      "functionZh": "疑问",
+      "posZh": "终助词"
+    }
+  }
+}

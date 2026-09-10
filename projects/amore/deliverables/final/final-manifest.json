@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "project": "amore",
+  "runId": "20260822-r03-background-onset-aligned",
+  "video": "amore--16x9--20260822-r03-background-onset-aligned.mkv",
+  "sha256": "25f135efd5d8ae2649ec55493bf1afe7083b888d34cf720ef3710a3d499c63c9",
+  "videoSpec": { "resolution": "1920x1080", "fps": 30, "codec": "h264", "durationSeconds": 279.166 },
+  "audioSpec": { "codec": "flac", "copiedWithoutReencoding": true, "sampleRateHz": 44100, "channels": 2, "bits": 16 },
+  "qaReport": "project/qa/20260822-r03-background-onset-aligned/qa-report.json",
+  "supersedes": "amore--16x9--20260822-r02-spectrum-calibrated.mkv"
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "translation",
+  "scope": {
+    "frameIds": [
+      "l001",
+      "l002",
+      "l003",
+      "l004",
+      "l005",
+      "l006",
+      "l007",
+      "l008",
+      "l009",
+      "l010",
+      "l011",
+      "l012",
+      "l013",
+      "l014",
+      "l015",
+      "l016",
+      "l017",
+      "l018",
+      "l019",
+      "l020",
+      "l021",
+      "l022",
+      "l023",
+      "l024",
+      "l025",
+      "l026",
+      "l027",
+      "l028",
+      "l029",
+      "l030",
+      "l031",
+      "l032",
+      "l033",
+      "l034",
+      "l035",
+      "l036",
+      "l037",
+      "l038",
+      "l039",
+      "l040",
+      "l041",
+      "l042",
+      "l043",
+      "l044"
+    ]
+  },
+  "baseFrameSha256": "a1e1a1247da27e4509dd9978abb2915128c7bd48bd42cef162ae539e50479499",
+  "changes": [
+    {
+      "frameId": "l018",
+      "field": "grammarCards[3].functionZh",
+      "old": "标示前置的动作对象",
+      "new": "标示倒装后置的动作对象",
+      "confidence": 0.97,
+      "evidence": [
+        "原句“祝福をしよう新たな願いを”把“新たな願いを”置于谓语之后；该を格成分是倒装后置，而不是前置",
+        "与 QMTS 整句“为新的愿望献上祝福吧 来吧”的对象关系一致"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l022",
+      "field": "grammarCards[1].zhMeaning",
+      "old": "空闲；工夫",
+      "new": "空闲；时间",
+      "confidence": 0.99,
+      "evidence": [
+        "“暇”在“惑う暇はない”中指可用于迷惘或犹豫的空闲时间",
+        "与 QMTS 整句“也无暇困惑”对应；“工夫”在现代中文词卡中容易被理解为技巧，表达不够直接"
+      ],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l040",
+      "field": "grammarCards[3].functionZh",
+      "old": "标示前置的动作对象",
+      "new": "标示倒装后置的动作对象",
+      "confidence": 0.97,
+      "evidence": [
+        "l040 与 l018 为完全重复歌词，应保持相同词卡内容",
+        "原句把“新たな願いを”置于谓语之后；该を格成分是倒装后置，而不是前置"
+      ],
+      "changesTokenStructure": false
+    }
+  ]
+}

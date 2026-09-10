@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "translation",
+  "scope": {
+    "frameIds": ["l001", "l002", "l003", "l004", "l005", "l006", "l007", "l008", "l009", "l010", "l011", "l012", "l013", "l014", "l015", "l016", "l017", "l018", "l019", "l020", "l021", "l022", "l023", "l024", "l025", "l026", "l027", "l028", "l029", "l030", "l031", "l032", "l033", "l034", "l035", "l036", "l037", "l038", "l039", "l040", "l041", "l042"]
+  },
+  "baseFrameSha256": "e062cef34bd38d5f9b37309eb2085df3b46969abb568b3bad9de587d3f01d047",
+  "changes": [
+    {
+      "frameId": "l007",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "日子；那一天",
+      "new": "日子；一天",
+      "confidence": 0.99,
+      "evidence": ["日是名词；指示义‘那’已由独立词卡あの表达，日卡不再吸收前词译义。保留名词直译。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l011",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "与否定呼应：任何人都不",
+      "new": "任何人（与否定呼应）",
+      "confidence": 0.98,
+      "evidence": ["誰も与后续知らない构成否定呼应；独立的知らない词卡已明确译为‘不知道’，此处提示呼应关系而不再写一个‘不’，避免按卡拼读时重复否定。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l018",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "能去；还能前进",
+      "new": "能去；能前进",
+      "confidence": 0.99,
+      "evidence": ["行ける表达行く的可能义；‘还’已由前一张まだ词卡表达，删除跨卡重复吸收的副词义。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l018",
+      "field": "grammarCards.2.zhMeaning",
+      "old": "更远更远；一直",
+      "new": "更加、更加（强调程度）",
+      "confidence": 0.94,
+      "evidence": ["结合ずっとずっと奥深く推断此处重复副词加强深入的程度；避免把时间持续义‘一直’与空间程度义并列，也不提前替奥深く译出‘深处’。", "小学馆《デジタル大辞泉》ずっと第1义为程度相差显著、远为；第2义才是时间持续。https://kotobank.jp/word/%E3%81%9A%E3%81%A4%E3%81%A8-3212739"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l020",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "太阳；阳光",
+      "new": "阳光",
+      "confidence": 0.99,
+      "evidence": ["陽を浴びる的搭配对象是日光；按本句语境保留名词直译‘阳光’，不照搬QMTS整句中的‘太阳’。", "小学馆《デジタル大辞泉》日（亦写作陽）第1义含太阳本体与太阳光线两个义项；此处依据浴びる选择光线义。https://kotobank.jp/word/%E6%97%A5-109713"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l021",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "所追求的事物",
+      "new": "事物；东西",
+      "confidence": 0.99,
+      "evidence": ["追い求めている已单独成卡；もの只承接前面的修饰成分并指事物，不应在名词释义中再次加入整段动词译文。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l026",
+      "field": "grammarCards.1.zhMeaning",
+      "old": "所寻找的事物",
+      "new": "事物；东西",
+      "confidence": 0.99,
+      "evidence": ["探していた已单独成卡；もの本卡采用名词直译，与l021同词的译法保持一致，不重复吸收前置修饰语。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l027",
+      "field": "grammarCards.5.zhMeaning",
+      "old": "如同往事复苏一般",
+      "new": "如同复苏一般",
+      "confidence": 0.94,
+      "evidence": ["本次保留草稿对ように的比况解读，并完整保留蘇る＋ように的整块译义；‘往事’来自前面的独立名词過去，不应重复计入该动词块。跨行连接仍交整合审核确认。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l028",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "日子；那一天",
+      "new": "日子；一天",
+      "confidence": 0.99,
+      "evidence": ["与l007为完全重复句；日卡仅译名词，あの卡承担‘那’的指示义。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l032",
+      "field": "grammarCards.0.zhMeaning",
+      "old": "与否定呼应：任何人都不",
+      "new": "任何人（与否定呼应）",
+      "confidence": 0.98,
+      "evidence": ["与l011为完全重复句；保留否定呼应提示，同时把显式否定留给知らない词卡。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l040",
+      "field": "grammarCards.3.zhMeaning",
+      "old": "应当；理应",
+      "new": "应该；想必",
+      "confidence": 0.98,
+      "evidence": ["私ならできるはず表达对自身能力的有根据判断或确信，不是责任义务。‘应该；想必’更能避免把はず当成应当做某事。", "小学馆《デジタル大辞泉》筈说明形式名词用法可指按照道理应当如此；本句据此作推断解读。https://kotobank.jp/word/%E7%AD%88-601333"],
+      "changesTokenStructure": false
+    }
+  ],
+  "reviewSummary": {
+    "reviewedFrameCount": 42,
+    "reviewedCardCount": 138,
+    "fullLineTranslations": "全部按QMTS保留；未提议修改caption.translationZh或translationStatus。",
+    "englishExclusion": "l012、l013、l023、l033、l034无词卡；混合句l003、l004、l018的英文均未生成词卡。",
+    "particles": "逐卡核对，现有独立助词以functionZh描述功能，没有把助词当实体词直译；具体词性由grammar角色负责。",
+    "longBlocks": "逐块核对離れても、足を取られて、歩き続ける、を頼りに、夢見ている、流れ行く、手に入れる、導かれていく、未知なる、燃えるような、浴びながら、追い求めている、朽ち果てないで、出会えた、探していた、蘇るように、手に入れられたら、強くなる等；释义需覆盖整块的词义与活用意义。",
+    "repeatedLines": "已核对l007/l028、l008/l029、l009/l030、l010/l031、l011/l032、l012/l033、l013/l034、l014/l035、l015/l036、l016/l037；同句词卡与翻译保持一致。"
+  },
+  "integrationNotes": [
+    {
+      "frameIds": ["l025"],
+      "note": "支持lexical角色将心が躍れば合并成整块；建议整块zhMeaning为‘如果心情雀跃’，覆盖惯用义与ば条件。不要把旧grammarCards.2释义提案直接套到合并后的索引。本文件因此不提交l025旧索引变更。"
+    },
+    {
+      "frameIds": ["l006"],
+      "note": "QMTS的‘再次迈步’未明确保留歩き続ける的继续义。仅记录，整句不改；词卡原有‘继续行走’准确，保留。"
+    },
+    {
+      "frameIds": ["l018", "l026"],
+      "note": "QMTS分别扩写了‘探索更深处的秘密’与‘总有一天’；词卡不据此增添原日文块中没有的实词。整句来源保留。"
+    },
+    {
+      "frameIds": ["l020", "l025", "l027", "l038"],
+      "note": "QMTS存在诗意转述：陽译成太阳、ば条件变成持续劝勉、ように未显式表达、たら变成愿望。全部保留来源；词卡按日文完整词块提供词义和活用含义，不把整句转述当作逐卡直译。l027ように保留比况暂定解读，若grammar角色提出有证据的不同跨行分析，需显式解决后再选定。"
+    }
+  ]
+}

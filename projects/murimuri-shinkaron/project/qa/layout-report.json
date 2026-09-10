@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "status": "passed",
+  "template": "study-current-v3",
+  "image": "project/qa/content-preview-16x9.png",
+  "sampleFrames": {
+    "longestLyric": "l012",
+    "maximumCardLine": "l074",
+    "longestToken": "アァワワワワワワワァ"
+  },
+  "checks": {
+    "singleRowCards": "preview uses the first three real draft cards; final rendering uses approved cards",
+    "meaningWrap": "template max two lines",
+    "englishCards": "none"
+  }
+}

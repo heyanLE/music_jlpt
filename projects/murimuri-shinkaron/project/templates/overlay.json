@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "spectrum-foobar-bars",
+  "owns": "floating-overlay-only",
+  "clock": "audio",
+  "persistent": true,
+  "zIndex": "above-foreground",
+  "position": "bottom",
+  "output": "rgba",
+  "render": { "widthPxAt1920x1080": 1848, "heightPxAt1920x1080": 150, "bars": 84, "frequencyScale": "log", "attack": 0.70, "release": 0.18, "peakHold": true, "background": "transparent" }
+}

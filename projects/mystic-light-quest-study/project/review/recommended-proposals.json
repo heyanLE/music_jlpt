@@ -1,0 +1,3815 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "integration",
+  "status": "proposal-only",
+  "baseFrameSha256": "e062cef34bd38d5f9b37309eb2085df3b46969abb568b3bad9de587d3f01d047",
+  "scope": {
+    "frameIds": [
+      "l001",
+      "l002",
+      "l003",
+      "l004",
+      "l005",
+      "l006",
+      "l007",
+      "l008",
+      "l009",
+      "l010",
+      "l011",
+      "l012",
+      "l013",
+      "l014",
+      "l015",
+      "l016",
+      "l017",
+      "l018",
+      "l019",
+      "l020",
+      "l021",
+      "l022",
+      "l023",
+      "l024",
+      "l025",
+      "l026",
+      "l027",
+      "l028",
+      "l029",
+      "l030",
+      "l031",
+      "l032",
+      "l033",
+      "l034",
+      "l035",
+      "l036",
+      "l037",
+      "l038",
+      "l039",
+      "l040",
+      "l041",
+      "l042"
+    ]
+  },
+  "changes": [
+    {
+      "frameId": "l002",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "私",
+          "reading": "わたし",
+          "romaji": "watashi",
+          "grammarStructureZh": "人称代词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "我"
+        },
+        {
+          "token": "は",
+          "reading": "は",
+          "romaji": "wa",
+          "grammarStructureZh": "提示助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "提示主题"
+        },
+        {
+          "token": "ただ",
+          "reading": "ただ",
+          "romaji": "tada",
+          "grammarStructureZh": "副词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "只是；仅仅"
+        },
+        {
+          "token": "知りたい",
+          "reading": "しりたい",
+          "romaji": "shiritai",
+          "grammarStructureZh": "动词＋たい",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "想知道；想了解"
+        }
+      ],
+      "new": [
+        {
+          "token": "私",
+          "reading": "わたし",
+          "romaji": "watashi",
+          "grammarStructureZh": "人称代词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "我"
+        },
+        {
+          "token": "は",
+          "reading": "は",
+          "romaji": "wa",
+          "grammarStructureZh": "提示助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "提示主题"
+        },
+        {
+          "token": "ただ",
+          "reading": "ただ",
+          "romaji": "tada",
+          "grammarStructureZh": "副词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "只是；仅仅"
+        },
+        {
+          "token": "知りたい",
+          "reading": "しりたい",
+          "romaji": "shiritai",
+          "grammarStructureZh": "动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "想知道；想了解"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l002; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l003",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "遠く",
+          "reading": "とおく",
+          "romaji": "tooku",
+          "grammarStructureZh": "イ形容词连用形",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "远远地"
+        },
+        {
+          "token": "離れても",
+          "reading": "はなれても",
+          "romaji": "hanaretemo",
+          "grammarStructureZh": "动词＋ても",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "即使相隔；即使远离"
+        }
+      ],
+      "new": [
+        {
+          "token": "遠く",
+          "reading": "とおく",
+          "romaji": "tooku",
+          "grammarStructureZh": "イ形容词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "远远地"
+        },
+        {
+          "token": "離れても",
+          "reading": "はなれても",
+          "romaji": "hanaretemo",
+          "grammarStructureZh": "动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "即使相隔；即使远离"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l003; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l005",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "砂",
+          "reading": "すな",
+          "romaji": "suna",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "沙子"
+        },
+        {
+          "token": "に",
+          "reading": "に",
+          "romaji": "ni",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "标示受阻的原因"
+        },
+        {
+          "token": "足を取られて",
+          "reading": "あしをとられて",
+          "romaji": "ashi o torarete",
+          "grammarStructureZh": "惯用表达·被动て形",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "脚步受阻；陷住脚"
+        }
+      ],
+      "new": [
+        {
+          "token": "砂",
+          "reading": "すな",
+          "romaji": "suna",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "沙子"
+        },
+        {
+          "token": "に",
+          "reading": "に",
+          "romaji": "ni",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "标示受阻的原因"
+        },
+        {
+          "token": "足を取られて",
+          "reading": "あしをとられて",
+          "romaji": "ashi o torarete",
+          "grammarStructureZh": "动词短语",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "脚步受阻；陷住脚"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l005; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l007",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "新しい",
+          "reading": "あたらしい",
+          "romaji": "atarashii",
+          "grammarStructureZh": "イ形容词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "崭新的"
+        },
+        {
+          "token": "風",
+          "reading": "かぜ",
+          "romaji": "kaze",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "风"
+        },
+        {
+          "token": "あの",
+          "reading": "あの",
+          "romaji": "ano",
+          "grammarStructureZh": "连体词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "那个"
+        },
+        {
+          "token": "日",
+          "reading": "ひ",
+          "romaji": "hi",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "日子；那一天"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "连接所属或修饰关系"
+        },
+        {
+          "token": "記憶",
+          "reading": "きおく",
+          "romaji": "kioku",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "记忆"
+        }
+      ],
+      "new": [
+        {
+          "token": "新しい",
+          "reading": "あたらしい",
+          "romaji": "atarashii",
+          "grammarStructureZh": "イ形容词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "崭新的"
+        },
+        {
+          "token": "風",
+          "reading": "かぜ",
+          "romaji": "kaze",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "风"
+        },
+        {
+          "token": "あの",
+          "reading": "あの",
+          "romaji": "ano",
+          "grammarStructureZh": "连体词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "那个"
+        },
+        {
+          "token": "日",
+          "reading": "ひ",
+          "romaji": "hi",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "日子；一天"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "连接时间修饰关系"
+        },
+        {
+          "token": "記憶",
+          "reading": "きおく",
+          "romaji": "kioku",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "记忆"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l007; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l009",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "隠された",
+          "reading": "かくされた",
+          "romaji": "kakusareta",
+          "grammarStructureZh": "动词被动过去形",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "被隐藏的"
+        },
+        {
+          "token": "秘密",
+          "reading": "ひみつ",
+          "romaji": "himitsu",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "秘密"
+        },
+        {
+          "token": "なら",
+          "reading": "なら",
+          "romaji": "nara",
+          "grammarStructureZh": "助动词条件形",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "提出假设或话题"
+        }
+      ],
+      "new": [
+        {
+          "token": "隠された",
+          "reading": "かくされた",
+          "romaji": "kakusareta",
+          "grammarStructureZh": "动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "被隐藏的"
+        },
+        {
+          "token": "秘密",
+          "reading": "ひみつ",
+          "romaji": "himitsu",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "秘密"
+        },
+        {
+          "token": "なら",
+          "reading": "なら",
+          "romaji": "nara",
+          "grammarStructureZh": "助动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "提出前提：若说到……"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l009; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l011",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "誰も",
+          "reading": "だれも",
+          "romaji": "dare mo",
+          "grammarStructureZh": "疑问代词＋も",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "与否定呼应：任何人都不"
+        },
+        {
+          "token": "知らない",
+          "reading": "しらない",
+          "romaji": "shiranai",
+          "grammarStructureZh": "动词否定形",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "不知道"
+        },
+        {
+          "token": "場所",
+          "reading": "ばしょ",
+          "romaji": "basho",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "地方"
+        },
+        {
+          "token": "へ",
+          "reading": "へ",
+          "romaji": "e",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "表示前往的方向"
+        },
+        {
+          "token": "太陽",
+          "reading": "たいよう",
+          "romaji": "taiyou",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "太阳"
+        },
+        {
+          "token": "を頼りに",
+          "reading": "をたよりに",
+          "romaji": "o tayori ni",
+          "grammarStructureZh": "固定表达",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "以……为依靠或指引"
+        }
+      ],
+      "new": [
+        {
+          "token": "誰も",
+          "reading": "だれも",
+          "romaji": "dare mo",
+          "grammarStructureZh": "代词短语",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "任何人（与否定呼应）"
+        },
+        {
+          "token": "知らない",
+          "reading": "しらない",
+          "romaji": "shiranai",
+          "grammarStructureZh": "动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "不知道"
+        },
+        {
+          "token": "場所",
+          "reading": "ばしょ",
+          "romaji": "basho",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "地方"
+        },
+        {
+          "token": "へ",
+          "reading": "へ",
+          "romaji": "e",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "表示前往的方向"
+        },
+        {
+          "token": "太陽",
+          "reading": "たいよう",
+          "romaji": "taiyou",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "太阳"
+        },
+        {
+          "token": "を頼りに",
+          "reading": "をたよりに",
+          "romaji": "o tayori ni",
+          "grammarStructureZh": "连语",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "以……为依靠或指引"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l011; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l014",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "もっと",
+          "reading": "もっと",
+          "romaji": "motto",
+          "grammarStructureZh": "副词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "更加"
+        },
+        {
+          "token": "強く",
+          "reading": "つよく",
+          "romaji": "tsuyoku",
+          "grammarStructureZh": "イ形容词连用形",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "强烈地；有力地"
+        },
+        {
+          "token": "輝いて",
+          "reading": "かがやいて",
+          "romaji": "kagayaite",
+          "grammarStructureZh": "动词て形",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "闪耀吧；绽放光芒"
+        }
+      ],
+      "new": [
+        {
+          "token": "もっと",
+          "reading": "もっと",
+          "romaji": "motto",
+          "grammarStructureZh": "副词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "更加"
+        },
+        {
+          "token": "強く",
+          "reading": "つよく",
+          "romaji": "tsuyoku",
+          "grammarStructureZh": "イ形容词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "强烈地；有力地"
+        },
+        {
+          "token": "輝いて",
+          "reading": "かがやいて",
+          "romaji": "kagayaite",
+          "grammarStructureZh": "动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "闪耀吧；绽放光芒"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l014; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l015",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "誰も彼も",
+          "reading": "だれもかれも",
+          "romaji": "dare mo kare mo",
+          "grammarStructureZh": "固定表达",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "每个人；所有人"
+        },
+        {
+          "token": "夢見ている",
+          "reading": "ゆめみている",
+          "romaji": "yumemiteiru",
+          "grammarStructureZh": "动词＋ている",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "怀抱梦想；憧憬着"
+        }
+      ],
+      "new": [
+        {
+          "token": "誰も彼も",
+          "reading": "だれもかれも",
+          "romaji": "dare mo kare mo",
+          "grammarStructureZh": "代词短语",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "每个人；所有人"
+        },
+        {
+          "token": "夢見ている",
+          "reading": "ゆめみている",
+          "romaji": "yumemiteiru",
+          "grammarStructureZh": "动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "怀抱梦想；憧憬着"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l015; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l017",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "自由",
+          "reading": "じゆう",
+          "romaji": "jiyuu",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "自由"
+        },
+        {
+          "token": "手に入れる",
+          "reading": "てにいれる",
+          "romaji": "te ni ireru",
+          "grammarStructureZh": "惯用表达",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "得到；获得"
+        },
+        {
+          "token": "ため",
+          "reading": "ため",
+          "romaji": "tame",
+          "grammarStructureZh": "形式名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "为了；表示目的"
+        }
+      ],
+      "new": [
+        {
+          "token": "自由",
+          "reading": "じゆう",
+          "romaji": "jiyuu",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "自由"
+        },
+        {
+          "token": "手に入れる",
+          "reading": "てにいれる",
+          "romaji": "te ni ireru",
+          "grammarStructureZh": "动词短语",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "得到；获得"
+        },
+        {
+          "token": "ため",
+          "reading": "ため",
+          "romaji": "tame",
+          "grammarStructureZh": "形式名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "为了；表示目的"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l017; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l018",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "まだ",
+          "reading": "まだ",
+          "romaji": "mada",
+          "grammarStructureZh": "副词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "还；仍然"
+        },
+        {
+          "token": "行ける",
+          "reading": "いける",
+          "romaji": "ikeru",
+          "grammarStructureZh": "动词可能形",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "能去；还能前进"
+        },
+        {
+          "token": "ずっとずっと",
+          "reading": "ずっとずっと",
+          "romaji": "zutto zutto",
+          "grammarStructureZh": "副词重复",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "更远更远；一直"
+        },
+        {
+          "token": "奥深く",
+          "reading": "おくふかく",
+          "romaji": "okufukaku",
+          "grammarStructureZh": "イ形容词连用形",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "向深处；深入地"
+        }
+      ],
+      "new": [
+        {
+          "token": "まだ",
+          "reading": "まだ",
+          "romaji": "mada",
+          "grammarStructureZh": "副词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "还；仍然"
+        },
+        {
+          "token": "行ける",
+          "reading": "ゆける",
+          "romaji": "yukeru",
+          "grammarStructureZh": "动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "能去；能前进"
+        },
+        {
+          "token": "ずっとずっと",
+          "reading": "ずっとずっと",
+          "romaji": "zutto zutto",
+          "grammarStructureZh": "副词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "更加、更加（强调程度）"
+        },
+        {
+          "token": "奥深く",
+          "reading": "おくふかく",
+          "romaji": "okufukaku",
+          "grammarStructureZh": "イ形容词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "向深处；深入地"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l018; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l018",
+      "field": "caption.furigana",
+      "old": [
+        {
+          "base": "行",
+          "reading": "い",
+          "start": 11,
+          "end": 12,
+          "cardIndex": 1,
+          "surfaceOffset": 0
+        },
+        {
+          "base": "奥深",
+          "reading": "おくふか",
+          "start": 21,
+          "end": 23,
+          "cardIndex": 3,
+          "surfaceOffset": 0
+        }
+      ],
+      "new": [
+        {
+          "base": "行",
+          "reading": "ゆ",
+          "start": 11,
+          "end": 12,
+          "cardIndex": 1,
+          "surfaceOffset": 0
+        },
+        {
+          "base": "奥深",
+          "reading": "おくふか",
+          "start": 21,
+          "end": 23,
+          "cardIndex": 3,
+          "surfaceOffset": 0
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l018; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l018",
+      "field": "caption.romaji",
+      "old": "mada ikeru zutto zutto okufukaku",
+      "new": "mada yukeru zutto zutto okufukaku",
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l018; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l019",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "導かれていく",
+          "reading": "みちびかれていく",
+          "romaji": "michibikareteiku",
+          "grammarStructureZh": "被动形＋ていく",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "被引导着前行"
+        },
+        {
+          "token": "未知なる",
+          "reading": "みちなる",
+          "romaji": "michinaru",
+          "grammarStructureZh": "名词＋文语连体形",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "未知的"
+        },
+        {
+          "token": "大地",
+          "reading": "だいち",
+          "romaji": "daichi",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "大地"
+        }
+      ],
+      "new": [
+        {
+          "token": "導かれていく",
+          "reading": "みちびかれていく",
+          "romaji": "michibikareteiku",
+          "grammarStructureZh": "动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "被引导着前行"
+        },
+        {
+          "token": "未知なる",
+          "reading": "みちなる",
+          "romaji": "michinaru",
+          "grammarStructureZh": "连语",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "未知的"
+        },
+        {
+          "token": "大地",
+          "reading": "だいち",
+          "romaji": "daichi",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "大地"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l019; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l020",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "燃えるような",
+          "reading": "もえるような",
+          "romaji": "moeru you na",
+          "grammarStructureZh": "动词＋ような",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "如同燃烧般的"
+        },
+        {
+          "token": "陽",
+          "reading": "ひ",
+          "romaji": "hi",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "太阳；阳光"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "o",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "标示动作对象"
+        },
+        {
+          "token": "浴びながら",
+          "reading": "あびながら",
+          "romaji": "abinagara",
+          "grammarStructureZh": "动词＋ながら",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "一边沐浴着"
+        }
+      ],
+      "new": [
+        {
+          "token": "燃えるような",
+          "reading": "もえるような",
+          "romaji": "moeru you na",
+          "grammarStructureZh": "连语",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "如同燃烧般的"
+        },
+        {
+          "token": "陽",
+          "reading": "ひ",
+          "romaji": "hi",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "阳光"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "o",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "标示动作对象"
+        },
+        {
+          "token": "浴びながら",
+          "reading": "あびながら",
+          "romaji": "abinagara",
+          "grammarStructureZh": "动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "一边沐浴着"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l020; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l021",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "追い求めている",
+          "reading": "おいもとめている",
+          "romaji": "oimotometeiru",
+          "grammarStructureZh": "复合动词＋ている",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "不断追求着"
+        },
+        {
+          "token": "もの",
+          "reading": "もの",
+          "romaji": "mono",
+          "grammarStructureZh": "形式名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "所追求的事物"
+        },
+        {
+          "token": "は",
+          "reading": "は",
+          "romaji": "wa",
+          "grammarStructureZh": "提示助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "提出疑问的主题"
+        }
+      ],
+      "new": [
+        {
+          "token": "追い求めている",
+          "reading": "おいもとめている",
+          "romaji": "oimotometeiru",
+          "grammarStructureZh": "复合动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "不断追求着"
+        },
+        {
+          "token": "もの",
+          "reading": "もの",
+          "romaji": "mono",
+          "grammarStructureZh": "形式名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "事物；东西"
+        },
+        {
+          "token": "は",
+          "reading": "は",
+          "romaji": "wa",
+          "grammarStructureZh": "提示助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "提出疑问的主题"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l021; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l022",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "これ以上",
+          "reading": "これいじょう",
+          "romaji": "kore ijou",
+          "grammarStructureZh": "固定表达",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "再；比这更多"
+        },
+        {
+          "token": "朽ち果てないで",
+          "reading": "くちはてないで",
+          "romaji": "kuchihatenaide",
+          "grammarStructureZh": "复合动词＋ないで",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "不要彻底腐朽消亡"
+        }
+      ],
+      "new": [
+        {
+          "token": "これ以上",
+          "reading": "これいじょう",
+          "romaji": "kore ijou",
+          "grammarStructureZh": "连语",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "再；比这更多"
+        },
+        {
+          "token": "朽ち果てないで",
+          "reading": "くちはてないで",
+          "romaji": "kuchihatenaide",
+          "grammarStructureZh": "复合动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "不要彻底腐朽消亡"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l022; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l024",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "今まで",
+          "reading": "いままで",
+          "romaji": "ima made",
+          "grammarStructureZh": "时间表达",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "至今；迄今为止"
+        },
+        {
+          "token": "出会えた",
+          "reading": "であえた",
+          "romaji": "deaeta",
+          "grammarStructureZh": "动词可能过去形",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "得以遇见的"
+        },
+        {
+          "token": "奇跡",
+          "reading": "きせき",
+          "romaji": "kiseki",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "奇迹"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "o",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "标示动作对象"
+        },
+        {
+          "token": "集めて",
+          "reading": "あつめて",
+          "romaji": "atsumete",
+          "grammarStructureZh": "动词て形",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "收集起来"
+        }
+      ],
+      "new": [
+        {
+          "token": "今まで",
+          "reading": "いままで",
+          "romaji": "ima made",
+          "grammarStructureZh": "连语",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "至今；迄今为止"
+        },
+        {
+          "token": "出会えた",
+          "reading": "であえた",
+          "romaji": "deaeta",
+          "grammarStructureZh": "动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "得以遇见的"
+        },
+        {
+          "token": "奇跡",
+          "reading": "きせき",
+          "romaji": "kiseki",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "奇迹"
+        },
+        {
+          "token": "を",
+          "reading": "を",
+          "romaji": "o",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "标示动作对象"
+        },
+        {
+          "token": "集めて",
+          "reading": "あつめて",
+          "romaji": "atsumete",
+          "grammarStructureZh": "动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "收集起来"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l024; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l025",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "心",
+          "reading": "こころ",
+          "romaji": "kokoro",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "心；心灵"
+        },
+        {
+          "token": "が",
+          "reading": "が",
+          "romaji": "ga",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "标示状态主体"
+        },
+        {
+          "token": "躍れば",
+          "reading": "おどれば",
+          "romaji": "odoreba",
+          "grammarStructureZh": "动词ば形",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "若心情雀跃"
+        }
+      ],
+      "new": [
+        {
+          "token": "心が躍れば",
+          "reading": "こころがおどれば",
+          "romaji": "kokoro ga odoreba",
+          "grammarStructureZh": "动词短语",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "lexical review proposal: fixed expression 心が躍る",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "lexical structural companion; pending grammar integration"
+          },
+          "zhMeaning": "如果心情雀跃"
+        }
+      ],
+      "changesTokenStructure": true,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l025; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l025",
+      "field": "caption.furigana",
+      "old": [
+        {
+          "base": "心",
+          "reading": "こころ",
+          "start": 0,
+          "end": 1,
+          "cardIndex": 0,
+          "surfaceOffset": 0
+        },
+        {
+          "base": "躍",
+          "reading": "おど",
+          "start": 2,
+          "end": 3,
+          "cardIndex": 2,
+          "surfaceOffset": 0
+        }
+      ],
+      "new": [
+        {
+          "base": "心",
+          "reading": "こころ",
+          "start": 0,
+          "end": 1,
+          "cardIndex": 0,
+          "surfaceOffset": 0
+        },
+        {
+          "base": "躍",
+          "reading": "おど",
+          "start": 2,
+          "end": 3,
+          "cardIndex": 0,
+          "surfaceOffset": 2
+        }
+      ],
+      "changesTokenStructure": true,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l025; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l026",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "探していた",
+          "reading": "さがしていた",
+          "romaji": "sagashiteita",
+          "grammarStructureZh": "动词＋ていた",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "一直寻找着的"
+        },
+        {
+          "token": "もの",
+          "reading": "もの",
+          "romaji": "mono",
+          "grammarStructureZh": "形式名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "所寻找的事物"
+        },
+        {
+          "token": "が",
+          "reading": "が",
+          "romaji": "ga",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "标示被找到的主体"
+        },
+        {
+          "token": "見つかる",
+          "reading": "みつかる",
+          "romaji": "mitsukaru",
+          "grammarStructureZh": "自动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "被找到；找到"
+        },
+        {
+          "token": "よ",
+          "reading": "よ",
+          "romaji": "yo",
+          "grammarStructureZh": "终助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "告知并加强肯定语气"
+        }
+      ],
+      "new": [
+        {
+          "token": "探していた",
+          "reading": "さがしていた",
+          "romaji": "sagashiteita",
+          "grammarStructureZh": "动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "一直寻找着的"
+        },
+        {
+          "token": "もの",
+          "reading": "もの",
+          "romaji": "mono",
+          "grammarStructureZh": "形式名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "事物；东西"
+        },
+        {
+          "token": "が",
+          "reading": "が",
+          "romaji": "ga",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "标示被找到的主体"
+        },
+        {
+          "token": "見つかる",
+          "reading": "みつかる",
+          "romaji": "mitsukaru",
+          "grammarStructureZh": "自动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "被找到；找到"
+        },
+        {
+          "token": "よ",
+          "reading": "よ",
+          "romaji": "yo",
+          "grammarStructureZh": "终助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "告知并加强肯定语气"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l026; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l027",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "季節",
+          "reading": "きせつ",
+          "romaji": "kisetsu",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "季节"
+        },
+        {
+          "token": "巡る",
+          "reading": "めぐる",
+          "romaji": "meguru",
+          "grammarStructureZh": "自动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "轮转；循环更替"
+        },
+        {
+          "token": "度",
+          "reading": "たび",
+          "romaji": "tabi",
+          "grammarStructureZh": "形式名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "每当；每一次"
+        },
+        {
+          "token": "過去",
+          "reading": "かこ",
+          "romaji": "kako",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "过去"
+        },
+        {
+          "token": "が",
+          "reading": "が",
+          "romaji": "ga",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "标示状态主体"
+        },
+        {
+          "token": "蘇るように",
+          "reading": "よみがえるように",
+          "romaji": "yomigaeru you ni",
+          "grammarStructureZh": "动词＋ように",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "如同往事复苏一般"
+        }
+      ],
+      "new": [
+        {
+          "token": "季節",
+          "reading": "きせつ",
+          "romaji": "kisetsu",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "季节"
+        },
+        {
+          "token": "巡る",
+          "reading": "めぐる",
+          "romaji": "meguru",
+          "grammarStructureZh": "自动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "轮转；循环更替"
+        },
+        {
+          "token": "度",
+          "reading": "たび",
+          "romaji": "tabi",
+          "grammarStructureZh": "形式名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "每当；每一次"
+        },
+        {
+          "token": "過去",
+          "reading": "かこ",
+          "romaji": "kako",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "过去"
+        },
+        {
+          "token": "が",
+          "reading": "が",
+          "romaji": "ga",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "标示状态主体"
+        },
+        {
+          "token": "蘇るように",
+          "reading": "よみがえるように",
+          "romaji": "yomigaeru you ni",
+          "grammarStructureZh": "连语",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "如同复苏一般"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l027; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l028",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "新しい",
+          "reading": "あたらしい",
+          "romaji": "atarashii",
+          "grammarStructureZh": "イ形容词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "崭新的"
+        },
+        {
+          "token": "風",
+          "reading": "かぜ",
+          "romaji": "kaze",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "风"
+        },
+        {
+          "token": "あの",
+          "reading": "あの",
+          "romaji": "ano",
+          "grammarStructureZh": "连体词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "那个"
+        },
+        {
+          "token": "日",
+          "reading": "ひ",
+          "romaji": "hi",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "日子；那一天"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "连接所属或修饰关系"
+        },
+        {
+          "token": "記憶",
+          "reading": "きおく",
+          "romaji": "kioku",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "记忆"
+        }
+      ],
+      "new": [
+        {
+          "token": "新しい",
+          "reading": "あたらしい",
+          "romaji": "atarashii",
+          "grammarStructureZh": "イ形容词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "崭新的"
+        },
+        {
+          "token": "風",
+          "reading": "かぜ",
+          "romaji": "kaze",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "风"
+        },
+        {
+          "token": "あの",
+          "reading": "あの",
+          "romaji": "ano",
+          "grammarStructureZh": "连体词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "那个"
+        },
+        {
+          "token": "日",
+          "reading": "ひ",
+          "romaji": "hi",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "日子；一天"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "连接时间修饰关系"
+        },
+        {
+          "token": "記憶",
+          "reading": "きおく",
+          "romaji": "kioku",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "记忆"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l028; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l030",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "隠された",
+          "reading": "かくされた",
+          "romaji": "kakusareta",
+          "grammarStructureZh": "动词被动过去形",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "被隐藏的"
+        },
+        {
+          "token": "秘密",
+          "reading": "ひみつ",
+          "romaji": "himitsu",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "秘密"
+        },
+        {
+          "token": "なら",
+          "reading": "なら",
+          "romaji": "nara",
+          "grammarStructureZh": "助动词条件形",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "提出假设或话题"
+        }
+      ],
+      "new": [
+        {
+          "token": "隠された",
+          "reading": "かくされた",
+          "romaji": "kakusareta",
+          "grammarStructureZh": "动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "被隐藏的"
+        },
+        {
+          "token": "秘密",
+          "reading": "ひみつ",
+          "romaji": "himitsu",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "秘密"
+        },
+        {
+          "token": "なら",
+          "reading": "なら",
+          "romaji": "nara",
+          "grammarStructureZh": "助动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "提出前提：若说到……"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l030; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l032",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "誰も",
+          "reading": "だれも",
+          "romaji": "dare mo",
+          "grammarStructureZh": "疑问代词＋も",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "与否定呼应：任何人都不"
+        },
+        {
+          "token": "知らない",
+          "reading": "しらない",
+          "romaji": "shiranai",
+          "grammarStructureZh": "动词否定形",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "不知道"
+        },
+        {
+          "token": "場所",
+          "reading": "ばしょ",
+          "romaji": "basho",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "地方"
+        },
+        {
+          "token": "へ",
+          "reading": "へ",
+          "romaji": "e",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "表示前往的方向"
+        },
+        {
+          "token": "太陽",
+          "reading": "たいよう",
+          "romaji": "taiyou",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "太阳"
+        },
+        {
+          "token": "を頼りに",
+          "reading": "をたよりに",
+          "romaji": "o tayori ni",
+          "grammarStructureZh": "固定表达",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "以……为依靠或指引"
+        }
+      ],
+      "new": [
+        {
+          "token": "誰も",
+          "reading": "だれも",
+          "romaji": "dare mo",
+          "grammarStructureZh": "代词短语",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "任何人（与否定呼应）"
+        },
+        {
+          "token": "知らない",
+          "reading": "しらない",
+          "romaji": "shiranai",
+          "grammarStructureZh": "动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "不知道"
+        },
+        {
+          "token": "場所",
+          "reading": "ばしょ",
+          "romaji": "basho",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "地方"
+        },
+        {
+          "token": "へ",
+          "reading": "へ",
+          "romaji": "e",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "表示前往的方向"
+        },
+        {
+          "token": "太陽",
+          "reading": "たいよう",
+          "romaji": "taiyou",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "太阳"
+        },
+        {
+          "token": "を頼りに",
+          "reading": "をたよりに",
+          "romaji": "o tayori ni",
+          "grammarStructureZh": "连语",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "以……为依靠或指引"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l032; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l035",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "もっと",
+          "reading": "もっと",
+          "romaji": "motto",
+          "grammarStructureZh": "副词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "更加"
+        },
+        {
+          "token": "強く",
+          "reading": "つよく",
+          "romaji": "tsuyoku",
+          "grammarStructureZh": "イ形容词连用形",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "强烈地；有力地"
+        },
+        {
+          "token": "輝いて",
+          "reading": "かがやいて",
+          "romaji": "kagayaite",
+          "grammarStructureZh": "动词て形",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "闪耀吧；绽放光芒"
+        }
+      ],
+      "new": [
+        {
+          "token": "もっと",
+          "reading": "もっと",
+          "romaji": "motto",
+          "grammarStructureZh": "副词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "更加"
+        },
+        {
+          "token": "強く",
+          "reading": "つよく",
+          "romaji": "tsuyoku",
+          "grammarStructureZh": "イ形容词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "强烈地；有力地"
+        },
+        {
+          "token": "輝いて",
+          "reading": "かがやいて",
+          "romaji": "kagayaite",
+          "grammarStructureZh": "动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "闪耀吧；绽放光芒"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l035; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l036",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "誰も彼も",
+          "reading": "だれもかれも",
+          "romaji": "dare mo kare mo",
+          "grammarStructureZh": "固定表达",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "每个人；所有人"
+        },
+        {
+          "token": "夢見ている",
+          "reading": "ゆめみている",
+          "romaji": "yumemiteiru",
+          "grammarStructureZh": "动词＋ている",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "怀抱梦想；憧憬着"
+        }
+      ],
+      "new": [
+        {
+          "token": "誰も彼も",
+          "reading": "だれもかれも",
+          "romaji": "dare mo kare mo",
+          "grammarStructureZh": "代词短语",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "每个人；所有人"
+        },
+        {
+          "token": "夢見ている",
+          "reading": "ゆめみている",
+          "romaji": "yumemiteiru",
+          "grammarStructureZh": "动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "怀抱梦想；憧憬着"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l036; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l038",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "自由",
+          "reading": "じゆう",
+          "romaji": "jiyuu",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "自由"
+        },
+        {
+          "token": "手に入れられたら",
+          "reading": "てにいれられたら",
+          "romaji": "te ni ireraretara",
+          "grammarStructureZh": "惯用表达·可能条件形",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "如果能获得"
+        }
+      ],
+      "new": [
+        {
+          "token": "自由",
+          "reading": "じゆう",
+          "romaji": "jiyuu",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "自由"
+        },
+        {
+          "token": "手に入れられたら",
+          "reading": "てにいれられたら",
+          "romaji": "te ni ireraretara",
+          "grammarStructureZh": "动词短语",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "如果能获得"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l038; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l039",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "もっと",
+          "reading": "もっと",
+          "romaji": "motto",
+          "grammarStructureZh": "副词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "更加"
+        },
+        {
+          "token": "強くなる",
+          "reading": "つよくなる",
+          "romaji": "tsuyoku naru",
+          "grammarStructureZh": "イ形容词＋なる",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "变得强大"
+        },
+        {
+          "token": "ために",
+          "reading": "ために",
+          "romaji": "tame ni",
+          "grammarStructureZh": "目的表达",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "为了；表示目的"
+        }
+      ],
+      "new": [
+        {
+          "token": "もっと",
+          "reading": "もっと",
+          "romaji": "motto",
+          "grammarStructureZh": "副词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "更加"
+        },
+        {
+          "token": "強くなる",
+          "reading": "つよくなる",
+          "romaji": "tsuyoku naru",
+          "grammarStructureZh": "动词短语",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "变得强大"
+        },
+        {
+          "token": "ために",
+          "reading": "ために",
+          "romaji": "tame ni",
+          "grammarStructureZh": "连语",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "为了；表示目的"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l039; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l040",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "私",
+          "reading": "わたし",
+          "romaji": "watashi",
+          "grammarStructureZh": "人称代词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "我"
+        },
+        {
+          "token": "なら",
+          "reading": "なら",
+          "romaji": "nara",
+          "grammarStructureZh": "助动词条件形",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "提出假设或话题"
+        },
+        {
+          "token": "できる",
+          "reading": "できる",
+          "romaji": "dekiru",
+          "grammarStructureZh": "动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "能够做到"
+        },
+        {
+          "token": "はず",
+          "reading": "はず",
+          "romaji": "hazu",
+          "grammarStructureZh": "形式名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "应当；理应"
+        }
+      ],
+      "new": [
+        {
+          "token": "私",
+          "reading": "わたし",
+          "romaji": "watashi",
+          "grammarStructureZh": "人称代词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "我"
+        },
+        {
+          "token": "なら",
+          "reading": "なら",
+          "romaji": "nara",
+          "grammarStructureZh": "助动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "提出前提：若是我"
+        },
+        {
+          "token": "できる",
+          "reading": "できる",
+          "romaji": "dekiru",
+          "grammarStructureZh": "动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "能够做到"
+        },
+        {
+          "token": "はず",
+          "reading": "はず",
+          "romaji": "hazu",
+          "grammarStructureZh": "形式名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "应该；想必"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l040; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l041",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "遠い",
+          "reading": "とおい",
+          "romaji": "tooi",
+          "grammarStructureZh": "イ形容词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "遥远的"
+        },
+        {
+          "token": "日",
+          "reading": "ひ",
+          "romaji": "hi",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "日子；往日"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "连接修饰关系"
+        },
+        {
+          "token": "記憶",
+          "reading": "きおく",
+          "romaji": "kioku",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "记忆"
+        },
+        {
+          "token": "辿り",
+          "reading": "たどり",
+          "romaji": "tadori",
+          "grammarStructureZh": "动词连用形",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "追溯；循着"
+        }
+      ],
+      "new": [
+        {
+          "token": "遠い",
+          "reading": "とおい",
+          "romaji": "tooi",
+          "grammarStructureZh": "イ形容词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "遥远的"
+        },
+        {
+          "token": "日",
+          "reading": "ひ",
+          "romaji": "hi",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "日子；往日"
+        },
+        {
+          "token": "の",
+          "reading": "の",
+          "romaji": "no",
+          "grammarStructureZh": "格助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "连接修饰关系"
+        },
+        {
+          "token": "記憶",
+          "reading": "きおく",
+          "romaji": "kioku",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "记忆"
+        },
+        {
+          "token": "辿り",
+          "reading": "たどり",
+          "romaji": "tadori",
+          "grammarStructureZh": "动词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "追溯；循着"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l041; integration-report.json"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "frameId": "l042",
+      "field": "grammarCards",
+      "old": [
+        {
+          "token": "宝物",
+          "reading": "たからもの",
+          "romaji": "takaramono",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "宝物"
+        },
+        {
+          "token": "手に入れる",
+          "reading": "てにいれる",
+          "romaji": "te ni ireru",
+          "grammarStructureZh": "惯用表达",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "得到；获得"
+        },
+        {
+          "token": "まで",
+          "reading": "まで",
+          "romaji": "made",
+          "grammarStructureZh": "副助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "表示动作持续的终点"
+        }
+      ],
+      "new": [
+        {
+          "token": "宝物",
+          "reading": "たからもの",
+          "romaji": "takaramono",
+          "grammarStructureZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "宝物"
+        },
+        {
+          "token": "手に入れる",
+          "reading": "てにいれる",
+          "romaji": "te ni ireru",
+          "grammarStructureZh": "动词短语",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "zhMeaning": "得到；获得"
+        },
+        {
+          "token": "まで",
+          "reading": "まで",
+          "romaji": "made",
+          "grammarStructureZh": "副助词",
+          "render": true,
+          "showJlpt": false,
+          "status": "draft",
+          "fieldProvenance": {
+            "token": "learning-value segmentation draft",
+            "reading": "QM kana/romaji source checked draft",
+            "meaningOrFunction": "contextual assistant draft; pending review",
+            "grammarStructureZh": "assistant draft; pending review"
+          },
+          "functionZh": "表示动作持续的终点"
+        }
+      ],
+      "changesTokenStructure": false,
+      "evidence": [
+        "Independent lexical/grammar/translation proposals for l042; integration-report.json"
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

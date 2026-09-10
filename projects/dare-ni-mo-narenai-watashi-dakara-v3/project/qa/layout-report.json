@@ -1,0 +1,12 @@
+{
+  "result": "passed",
+  "preview": "project/qa/structure-preview-16x9.png",
+  "selectedFrame": "l006",
+  "cardCount": 11,
+  "checks": {
+    "sharedTokenAnchors": true,
+    "oneRowCards": true,
+    "fixedMeaningWrap": "at-most-two-lines"
+  },
+  "note": "Semantic meanings remain a draft pending multi-role review."
+}

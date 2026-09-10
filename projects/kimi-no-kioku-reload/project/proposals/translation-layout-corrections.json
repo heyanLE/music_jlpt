@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "reviewRole": "translation",
+  "scope": {
+    "frameIds": [
+      "l011",
+      "l019",
+      "l025",
+      "l026",
+      "l032",
+      "l043",
+      "l051",
+      "l055"
+    ]
+  },
+  "baseFrameSha256": "f567e0e1c582104b125ee6e670b6f53ded7689de43f948cc55f00b24749d57de",
+  "changes": [
+    {
+      "frameId": "l011",
+      "field": "grammarCards.5.functionZh",
+      "old": "标记动作手段：用你的手、凭你的力量",
+      "new": "表示手段：用、凭",
+      "confidence": 0.99,
+      "evidence": ["本句「キミの手で」中的「で」标记动作手段；精简后保留核心功能。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l019",
+      "field": "grammarCards.2.functionZh",
+      "old": "与「も」组成「いつまでも」，表示无论到何时、永远",
+      "new": "与「も」构成「いつまでも」：永远",
+      "confidence": 0.99,
+      "evidence": ["保留「まで＋も」构成「いつまでも」及其语境义。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l025",
+      "field": "grammarCards.5.functionZh",
+      "old": "接在「いつの日」后表示不确定：未来某一天",
+      "new": "表示不确定：未来某一天",
+      "confidence": 0.99,
+      "evidence": ["本句「いつの日か」中的「か」表示不确定；删去可由词形直接看出的说明。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l026",
+      "field": "grammarCards.5.functionZh",
+      "old": "标记「信じる」的引用内容：相信能够再见",
+      "new": "标记引用：相信能够重逢",
+      "confidence": 0.99,
+      "evidence": ["「と」标记「信じ」的引用内容；精简后仍准确表达本句关系。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l032",
+      "field": "grammarCards.4.functionZh",
+      "old": "标记认定内容：不知道那是无可替代的时光",
+      "new": "标记认定内容：那是珍贵时光",
+      "confidence": 0.98,
+      "evidence": ["「と」标记「知らず」所认定的内容；用「珍贵时光」压缩「かけがえのないとき」而不改变语境。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l043",
+      "field": "grammarCards.5.functionZh",
+      "old": "标记动作手段：用你的手、凭你的力量",
+      "new": "表示手段：用、凭",
+      "confidence": 0.99,
+      "evidence": ["与 l011 为重复歌词，保持相同且准确的功能释义。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l051",
+      "field": "grammarCards.2.functionZh",
+      "old": "与「も」组成「いつまでも」，表示无论到何时、永远",
+      "new": "与「も」构成「いつまでも」：永远",
+      "confidence": 0.99,
+      "evidence": ["与 l019 为重复歌词，保持相同且准确的功能释义。"],
+      "changesTokenStructure": false
+    },
+    {
+      "frameId": "l055",
+      "field": "grammarCards.4.functionZh",
+      "old": "标记认定内容：不知道那是无可替代的时光",
+      "new": "标记认定内容：那是珍贵时光",
+      "confidence": 0.98,
+      "evidence": ["与 l032 为重复歌词，保持相同且准确的功能释义。"],
+      "changesTokenStructure": false
+    }
+  ]
+}

@@ -1,0 +1,8328 @@
+{
+  "schemaVersion": 1,
+  "source": "lyrics_qmRoma.qrc",
+  "lyricType": "karaoke",
+  "lines": [
+    {
+      "id": "roma.json-005",
+      "startMs": 1124,
+      "endMs": 1842,
+      "text": "( mu ri mu ri ) ",
+      "parts": [
+        {
+          "text": "( ",
+          "startMs": 1124,
+          "endMs": 1267,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "mu ",
+          "startMs": 1267,
+          "endMs": 1395,
+          "sourceOffset": 2,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ri ",
+          "startMs": 1395,
+          "endMs": 1531,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "mu ",
+          "startMs": 1531,
+          "endMs": 1691,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ri ",
+          "startMs": 1691,
+          "endMs": 1767,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": ") ",
+          "startMs": 1767,
+          "endMs": 1842,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        }
+      ]
+    },
+    {
+      "id": "roma.json-006",
+      "startMs": 1843,
+      "endMs": 3798,
+      "text": "hi to yo hi to yo ni hi to mi shi ri ",
+      "parts": [
+        {
+          "text": "hi ",
+          "startMs": 1843,
+          "endMs": 2011,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "to ",
+          "startMs": 2011,
+          "endMs": 2156,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "yo ",
+          "startMs": 2156,
+          "endMs": 2324,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "hi ",
+          "startMs": 2324,
+          "endMs": 2467,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "to ",
+          "startMs": 2467,
+          "endMs": 2595,
+          "sourceOffset": 12,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "yo ",
+          "startMs": 2595,
+          "endMs": 2675,
+          "sourceOffset": 15,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ni ",
+          "startMs": 2675,
+          "endMs": 2843,
+          "sourceOffset": 18,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "hi ",
+          "startMs": 2843,
+          "endMs": 2995,
+          "sourceOffset": 21,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "to ",
+          "startMs": 2995,
+          "endMs": 3171,
+          "sourceOffset": 24,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "mi ",
+          "startMs": 3171,
+          "endMs": 3347,
+          "sourceOffset": 27,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "shi ",
+          "startMs": 3347,
+          "endMs": 3508,
+          "sourceOffset": 30,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "ri ",
+          "startMs": 3508,
+          "endMs": 3798,
+          "sourceOffset": 34,
+          "sourcePartIndex": 11
+        }
+      ]
+    },
+    {
+      "id": "roma.json-007",
+      "startMs": 3798,
+      "endMs": 4406,
+      "text": "( mu ri mu ri ) ",
+      "parts": [
+        {
+          "text": "( ",
+          "startMs": 3798,
+          "endMs": 3918,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "mu ",
+          "startMs": 3918,
+          "endMs": 4006,
+          "sourceOffset": 2,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ri ",
+          "startMs": 4006,
+          "endMs": 4127,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "mu ",
+          "startMs": 4127,
+          "endMs": 4238,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ri ",
+          "startMs": 4238,
+          "endMs": 4406,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": ") ",
+          "startMs": 4406,
+          "endMs": 4406,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        }
+      ]
+    },
+    {
+      "id": "roma.json-008",
+      "startMs": 4406,
+      "endMs": 6406,
+      "text": "fu ta ri i jo u de no ta chi ma wa ri ？ ",
+      "parts": [
+        {
+          "text": "fu ",
+          "startMs": 4406,
+          "endMs": 4566,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "ta ",
+          "startMs": 4566,
+          "endMs": 4711,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ri ",
+          "startMs": 4711,
+          "endMs": 4862,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "i ",
+          "startMs": 4862,
+          "endMs": 5014,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "jo ",
+          "startMs": 5014,
+          "endMs": 5087,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "u ",
+          "startMs": 5162,
+          "endMs": 5238,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "de ",
+          "startMs": 5238,
+          "endMs": 5422,
+          "sourceOffset": 16,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "no ",
+          "startMs": 5422,
+          "endMs": 5582,
+          "sourceOffset": 19,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "ta ",
+          "startMs": 5582,
+          "endMs": 5750,
+          "sourceOffset": 22,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "chi ",
+          "startMs": 5750,
+          "endMs": 5902,
+          "sourceOffset": 25,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "ma ",
+          "startMs": 5902,
+          "endMs": 6058,
+          "sourceOffset": 29,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "wa ",
+          "startMs": 6058,
+          "endMs": 6214,
+          "sourceOffset": 32,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "ri ",
+          "startMs": 6214,
+          "endMs": 6406,
+          "sourceOffset": 35,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "？ ",
+          "startMs": 6406,
+          "endMs": 6406,
+          "sourceOffset": 38,
+          "sourcePartIndex": 13
+        }
+      ]
+    },
+    {
+      "id": "roma.json-009",
+      "startMs": 6406,
+      "endMs": 7126,
+      "text": "( mu ri mu ri ) ",
+      "parts": [
+        {
+          "text": "( ",
+          "startMs": 6406,
+          "endMs": 6558,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "mu ",
+          "startMs": 6558,
+          "endMs": 6679,
+          "sourceOffset": 2,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ri ",
+          "startMs": 6679,
+          "endMs": 6790,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "mu ",
+          "startMs": 6790,
+          "endMs": 6934,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ri ",
+          "startMs": 6934,
+          "endMs": 7126,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": ") ",
+          "startMs": 7126,
+          "endMs": 7126,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        }
+      ]
+    },
+    {
+      "id": "roma.json-010",
+      "startMs": 7126,
+      "endMs": 8118,
+      "text": "mi tsu me ra re te mo ",
+      "parts": [
+        {
+          "text": "mi ",
+          "startMs": 7126,
+          "endMs": 7318,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "tsu ",
+          "startMs": 7318,
+          "endMs": 7486,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "me ",
+          "startMs": 7486,
+          "endMs": 7630,
+          "sourceOffset": 7,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ra ",
+          "startMs": 7630,
+          "endMs": 7766,
+          "sourceOffset": 10,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "re ",
+          "startMs": 7766,
+          "endMs": 7862,
+          "sourceOffset": 13,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "te ",
+          "startMs": 7862,
+          "endMs": 8014,
+          "sourceOffset": 16,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "mo ",
+          "startMs": 8013,
+          "endMs": 8117,
+          "sourceOffset": 19,
+          "sourcePartIndex": 6
+        }
+      ]
+    },
+    {
+      "id": "roma.json-011",
+      "startMs": 8118,
+      "endMs": 9117,
+      "text": "na n ni mo de na i de su yo ？ ",
+      "parts": [
+        {
+          "text": "na ",
+          "startMs": 8118,
+          "endMs": 8186,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "n ",
+          "startMs": 8186,
+          "endMs": 8254,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ni ",
+          "startMs": 8255,
+          "endMs": 8326,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "mo ",
+          "startMs": 8326,
+          "endMs": 8430,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "de ",
+          "startMs": 8430,
+          "endMs": 8550,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "na ",
+          "startMs": 8550,
+          "endMs": 8662,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "i ",
+          "startMs": 8662,
+          "endMs": 8774,
+          "sourceOffset": 17,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "de ",
+          "startMs": 8774,
+          "endMs": 8878,
+          "sourceOffset": 19,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "su ",
+          "startMs": 8878,
+          "endMs": 8989,
+          "sourceOffset": 22,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "yo ",
+          "startMs": 8989,
+          "endMs": 9117,
+          "sourceOffset": 25,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "？ ",
+          "startMs": 9117,
+          "endMs": 9117,
+          "sourceOffset": 28,
+          "sourcePartIndex": 10
+        }
+      ]
+    },
+    {
+      "id": "roma.json-012",
+      "startMs": 9117,
+      "endMs": 9781,
+      "text": "( mu ri mu ri ) ",
+      "parts": [
+        {
+          "text": "( ",
+          "startMs": 9117,
+          "endMs": 9229,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "mu ",
+          "startMs": 9229,
+          "endMs": 9349,
+          "sourceOffset": 2,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ri ",
+          "startMs": 9349,
+          "endMs": 9469,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "mu ",
+          "startMs": 9469,
+          "endMs": 9590,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ri ",
+          "startMs": 9590,
+          "endMs": 9781,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": ") ",
+          "startMs": 9781,
+          "endMs": 9781,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        }
+      ]
+    },
+    {
+      "id": "roma.json-013",
+      "startMs": 9781,
+      "endMs": 10678,
+      "text": "yo u ko so 「 ko ko 」 he ",
+      "parts": [
+        {
+          "text": "yo ",
+          "startMs": 9781,
+          "endMs": 9873,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "u ",
+          "startMs": 9873,
+          "endMs": 9965,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ko ",
+          "startMs": 9965,
+          "endMs": 10101,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "so ",
+          "startMs": 10101,
+          "endMs": 10221,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "「 ",
+          "startMs": 10221,
+          "endMs": 10221,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ko ",
+          "startMs": 10221,
+          "endMs": 10349,
+          "sourceOffset": 13,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ko ",
+          "startMs": 10349,
+          "endMs": 10469,
+          "sourceOffset": 16,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "」 ",
+          "startMs": 10469,
+          "endMs": 10469,
+          "sourceOffset": 19,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "he ",
+          "startMs": 10469,
+          "endMs": 10678,
+          "sourceOffset": 21,
+          "sourcePartIndex": 8
+        }
+      ]
+    },
+    {
+      "id": "roma.json-014",
+      "startMs": 10678,
+      "endMs": 12224,
+      "text": "u e ru ka mu tu i n sa i ",
+      "parts": [
+        {
+          "text": "u e ",
+          "startMs": 10678,
+          "endMs": 10761,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "ru ",
+          "startMs": 10846,
+          "endMs": 11006,
+          "sourceOffset": 4,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ka ",
+          "startMs": 11006,
+          "endMs": 11182,
+          "sourceOffset": 7,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "mu ",
+          "startMs": 11182,
+          "endMs": 11342,
+          "sourceOffset": 10,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "tu ",
+          "startMs": 11342,
+          "endMs": 11461,
+          "sourceOffset": 13,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "i ",
+          "startMs": 11582,
+          "endMs": 11750,
+          "sourceOffset": 16,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "n ",
+          "startMs": 11750,
+          "endMs": 11918,
+          "sourceOffset": 18,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "sa ",
+          "startMs": 11918,
+          "endMs": 12070,
+          "sourceOffset": 20,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "i ",
+          "startMs": 12070,
+          "endMs": 12224,
+          "sourceOffset": 23,
+          "sourcePartIndex": 8
+        }
+      ]
+    },
+    {
+      "id": "roma.json-015",
+      "startMs": 22119,
+      "endMs": 23169,
+      "text": "a  a  a  a no ",
+      "parts": [
+        {
+          "text": "a ",
+          "startMs": 22119,
+          "endMs": 22351,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": " ",
+          "startMs": 22351,
+          "endMs": 22351,
+          "sourceOffset": 2,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "a ",
+          "startMs": 22351,
+          "endMs": 22615,
+          "sourceOffset": 3,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": " ",
+          "startMs": 22615,
+          "endMs": 22615,
+          "sourceOffset": 5,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "a ",
+          "startMs": 22615,
+          "endMs": 22847,
+          "sourceOffset": 6,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": " ",
+          "startMs": 22847,
+          "endMs": 22847,
+          "sourceOffset": 8,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "a ",
+          "startMs": 22847,
+          "endMs": 23031,
+          "sourceOffset": 9,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "no ",
+          "startMs": 23031,
+          "endMs": 23049,
+          "sourceOffset": 11,
+          "sourcePartIndex": 7
+        }
+      ]
+    },
+    {
+      "id": "roma.json-016",
+      "startMs": 23169,
+      "endMs": 25001,
+      "text": "sa i ki n ko no he n de 「 hi ka ri 」 't te mi ma shi ta ？ ",
+      "parts": [
+        {
+          "text": "sa ",
+          "startMs": 23169,
+          "endMs": 23297,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "i ",
+          "startMs": 23297,
+          "endMs": 23425,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ki ",
+          "startMs": 23425,
+          "endMs": 23513,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "n ",
+          "startMs": 23513,
+          "endMs": 23601,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ko ",
+          "startMs": 23601,
+          "endMs": 23745,
+          "sourceOffset": 10,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "no ",
+          "startMs": 23745,
+          "endMs": 23857,
+          "sourceOffset": 13,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "he ",
+          "startMs": 23857,
+          "endMs": 23917,
+          "sourceOffset": 16,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "n ",
+          "startMs": 23917,
+          "endMs": 23977,
+          "sourceOffset": 19,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "de ",
+          "startMs": 23977,
+          "endMs": 24089,
+          "sourceOffset": 21,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "「 ",
+          "startMs": 24089,
+          "endMs": 24089,
+          "sourceOffset": 24,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "hi ",
+          "startMs": 24089,
+          "endMs": 24233,
+          "sourceOffset": 26,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "ka ",
+          "startMs": 24233,
+          "endMs": 24323,
+          "sourceOffset": 29,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "ri ",
+          "startMs": 24323,
+          "endMs": 24373,
+          "sourceOffset": 32,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "」 ",
+          "startMs": 24373,
+          "endMs": 24423,
+          "sourceOffset": 35,
+          "sourcePartIndex": 13
+        },
+        {
+          "text": "'t ",
+          "startMs": 24424,
+          "endMs": 24424,
+          "sourceOffset": 37,
+          "sourcePartIndex": 14
+        },
+        {
+          "text": "te ",
+          "startMs": 24424,
+          "endMs": 24545,
+          "sourceOffset": 40,
+          "sourcePartIndex": 15
+        },
+        {
+          "text": "mi ",
+          "startMs": 24545,
+          "endMs": 24649,
+          "sourceOffset": 43,
+          "sourcePartIndex": 16
+        },
+        {
+          "text": "ma ",
+          "startMs": 24649,
+          "endMs": 24785,
+          "sourceOffset": 46,
+          "sourcePartIndex": 17
+        },
+        {
+          "text": "shi ",
+          "startMs": 24785,
+          "endMs": 24889,
+          "sourceOffset": 49,
+          "sourcePartIndex": 18
+        },
+        {
+          "text": "ta ",
+          "startMs": 24889,
+          "endMs": 25001,
+          "sourceOffset": 53,
+          "sourcePartIndex": 19
+        },
+        {
+          "text": "？ ",
+          "startMs": 25001,
+          "endMs": 25001,
+          "sourceOffset": 56,
+          "sourcePartIndex": 20
+        }
+      ]
+    },
+    {
+      "id": "roma.json-017",
+      "startMs": 25001,
+      "endMs": 26128,
+      "text": "e e to  so re me za shi te ",
+      "parts": [
+        {
+          "text": "e ",
+          "startMs": 25001,
+          "endMs": 25069,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "e ",
+          "startMs": 25069,
+          "endMs": 25137,
+          "sourceOffset": 2,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "to ",
+          "startMs": 25137,
+          "endMs": 25296,
+          "sourceOffset": 4,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": " ",
+          "startMs": 25296,
+          "endMs": 25296,
+          "sourceOffset": 7,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "so ",
+          "startMs": 25296,
+          "endMs": 25521,
+          "sourceOffset": 8,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "re ",
+          "startMs": 25521,
+          "endMs": 25681,
+          "sourceOffset": 11,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "me ",
+          "startMs": 25681,
+          "endMs": 25800,
+          "sourceOffset": 14,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "za ",
+          "startMs": 25800,
+          "endMs": 25889,
+          "sourceOffset": 17,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "shi ",
+          "startMs": 25889,
+          "endMs": 26016,
+          "sourceOffset": 20,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "te ",
+          "startMs": 26016,
+          "endMs": 26128,
+          "sourceOffset": 24,
+          "sourcePartIndex": 9
+        }
+      ]
+    },
+    {
+      "id": "roma.json-018",
+      "startMs": 26128,
+      "endMs": 27736,
+      "text": "a ru ki da shi te ki ta n de su ta shi ka ",
+      "parts": [
+        {
+          "text": "a ",
+          "startMs": 26128,
+          "endMs": 26244,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "ru ",
+          "startMs": 26244,
+          "endMs": 26361,
+          "sourceOffset": 2,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ki ",
+          "startMs": 26361,
+          "endMs": 26481,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "da ",
+          "startMs": 26481,
+          "endMs": 26600,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "shi ",
+          "startMs": 26600,
+          "endMs": 26721,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "te ",
+          "startMs": 26721,
+          "endMs": 26841,
+          "sourceOffset": 15,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ki ",
+          "startMs": 26841,
+          "endMs": 26953,
+          "sourceOffset": 18,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "ta ",
+          "startMs": 26953,
+          "endMs": 27012,
+          "sourceOffset": 21,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "n ",
+          "startMs": 27012,
+          "endMs": 27071,
+          "sourceOffset": 24,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "de ",
+          "startMs": 27072,
+          "endMs": 27208,
+          "sourceOffset": 26,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "su ",
+          "startMs": 27208,
+          "endMs": 27264,
+          "sourceOffset": 29,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "ta ",
+          "startMs": 27264,
+          "endMs": 27416,
+          "sourceOffset": 32,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "shi ",
+          "startMs": 27416,
+          "endMs": 27536,
+          "sourceOffset": 35,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "ka ",
+          "startMs": 27536,
+          "endMs": 27736,
+          "sourceOffset": 39,
+          "sourcePartIndex": 13
+        }
+      ]
+    },
+    {
+      "id": "roma.json-019",
+      "startMs": 27736,
+      "endMs": 29425,
+      "text": "so u  cho u ze tsu shi n ka no ju u ji tsu se i ka tsu ",
+      "parts": [
+        {
+          "text": "so ",
+          "startMs": 27736,
+          "endMs": 27792,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "u ",
+          "startMs": 27792,
+          "endMs": 27848,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": " ",
+          "startMs": 27849,
+          "endMs": 27905,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "cho ",
+          "startMs": 27905,
+          "endMs": 27965,
+          "sourceOffset": 6,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "u ",
+          "startMs": 28027,
+          "endMs": 28088,
+          "sourceOffset": 10,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ze ",
+          "startMs": 28088,
+          "endMs": 28228,
+          "sourceOffset": 12,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "tsu ",
+          "startMs": 28228,
+          "endMs": 28368,
+          "sourceOffset": 15,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "shi ",
+          "startMs": 28368,
+          "endMs": 28448,
+          "sourceOffset": 19,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "n ",
+          "startMs": 28448,
+          "endMs": 28528,
+          "sourceOffset": 23,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "ka ",
+          "startMs": 28528,
+          "endMs": 28680,
+          "sourceOffset": 25,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "no ",
+          "startMs": 28680,
+          "endMs": 28800,
+          "sourceOffset": 28,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "ju ",
+          "startMs": 28800,
+          "endMs": 28832,
+          "sourceOffset": 31,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "u ",
+          "startMs": 28864,
+          "endMs": 28896,
+          "sourceOffset": 34,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "ji ",
+          "startMs": 28896,
+          "endMs": 29012,
+          "sourceOffset": 36,
+          "sourcePartIndex": 13
+        },
+        {
+          "text": "tsu ",
+          "startMs": 29012,
+          "endMs": 29128,
+          "sourceOffset": 39,
+          "sourcePartIndex": 14
+        },
+        {
+          "text": "se ",
+          "startMs": 29128,
+          "endMs": 29184,
+          "sourceOffset": 43,
+          "sourcePartIndex": 15
+        },
+        {
+          "text": "i ",
+          "startMs": 29184,
+          "endMs": 29240,
+          "sourceOffset": 46,
+          "sourcePartIndex": 16
+        },
+        {
+          "text": "ka ",
+          "startMs": 29240,
+          "endMs": 29360,
+          "sourceOffset": 48,
+          "sourcePartIndex": 17
+        },
+        {
+          "text": "tsu ",
+          "startMs": 29360,
+          "endMs": 29425,
+          "sourceOffset": 51,
+          "sourcePartIndex": 18
+        }
+      ]
+    },
+    {
+      "id": "roma.json-020",
+      "startMs": 29425,
+      "endMs": 30490,
+      "text": "ko no te ni tsu ka mu ",
+      "parts": [
+        {
+          "text": "ko ",
+          "startMs": 29425,
+          "endMs": 29553,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "no ",
+          "startMs": 29553,
+          "endMs": 29729,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "te ",
+          "startMs": 29729,
+          "endMs": 29897,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ni ",
+          "startMs": 29897,
+          "endMs": 30049,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "tsu ",
+          "startMs": 30049,
+          "endMs": 30249,
+          "sourceOffset": 12,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ka ",
+          "startMs": 30249,
+          "endMs": 30369,
+          "sourceOffset": 16,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "mu ",
+          "startMs": 30369,
+          "endMs": 30490,
+          "sourceOffset": 19,
+          "sourcePartIndex": 6
+        }
+      ]
+    },
+    {
+      "id": "roma.json-021",
+      "startMs": 30490,
+      "endMs": 32155,
+      "text": "to ka i 't te  i ma kyu u ni ha ji ma 't ta ra ？ ",
+      "parts": [
+        {
+          "text": "to ",
+          "startMs": 30490,
+          "endMs": 30585,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "ka ",
+          "startMs": 30585,
+          "endMs": 30705,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "i ",
+          "startMs": 30705,
+          "endMs": 30773,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "'t ",
+          "startMs": 30773,
+          "endMs": 30841,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "te ",
+          "startMs": 30841,
+          "endMs": 30953,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": " ",
+          "startMs": 30953,
+          "endMs": 30953,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "i ",
+          "startMs": 30953,
+          "endMs": 31074,
+          "sourceOffset": 15,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "ma ",
+          "startMs": 31074,
+          "endMs": 31185,
+          "sourceOffset": 17,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "kyu ",
+          "startMs": 31185,
+          "endMs": 31224,
+          "sourceOffset": 20,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "u ",
+          "startMs": 31265,
+          "endMs": 31306,
+          "sourceOffset": 24,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "ni ",
+          "startMs": 31306,
+          "endMs": 31417,
+          "sourceOffset": 26,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "ha ",
+          "startMs": 31417,
+          "endMs": 31537,
+          "sourceOffset": 29,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "ji ",
+          "startMs": 31537,
+          "endMs": 31649,
+          "sourceOffset": 32,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "ma ",
+          "startMs": 31649,
+          "endMs": 31709,
+          "sourceOffset": 35,
+          "sourcePartIndex": 13
+        },
+        {
+          "text": "'t ",
+          "startMs": 31709,
+          "endMs": 31769,
+          "sourceOffset": 38,
+          "sourcePartIndex": 14
+        },
+        {
+          "text": "ta ",
+          "startMs": 31769,
+          "endMs": 31881,
+          "sourceOffset": 41,
+          "sourcePartIndex": 15
+        },
+        {
+          "text": "ra ",
+          "startMs": 31881,
+          "endMs": 32033,
+          "sourceOffset": 44,
+          "sourcePartIndex": 16
+        },
+        {
+          "text": "？ ",
+          "startMs": 32033,
+          "endMs": 32155,
+          "sourceOffset": 47,
+          "sourcePartIndex": 17
+        }
+      ]
+    },
+    {
+      "id": "roma.json-022",
+      "startMs": 32155,
+      "endMs": 33621,
+      "text": "( a wa wa wa wa wa wa wa ) ",
+      "parts": [
+        {
+          "text": "( ",
+          "startMs": 32155,
+          "endMs": 32251,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "a ",
+          "startMs": 32250,
+          "endMs": 32310,
+          "sourceOffset": 2,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "wa ",
+          "startMs": 32371,
+          "endMs": 32467,
+          "sourceOffset": 4,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "wa ",
+          "startMs": 32467,
+          "endMs": 32652,
+          "sourceOffset": 7,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "wa ",
+          "startMs": 32652,
+          "endMs": 32820,
+          "sourceOffset": 10,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "wa ",
+          "startMs": 32820,
+          "endMs": 32980,
+          "sourceOffset": 13,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "wa ",
+          "startMs": 32980,
+          "endMs": 33132,
+          "sourceOffset": 16,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "wa ",
+          "startMs": 33132,
+          "endMs": 33259,
+          "sourceOffset": 19,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "wa ",
+          "startMs": 33259,
+          "endMs": 33311,
+          "sourceOffset": 22,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": ") ",
+          "startMs": 33366,
+          "endMs": 33620,
+          "sourceOffset": 25,
+          "sourcePartIndex": 9
+        }
+      ]
+    },
+    {
+      "id": "roma.json-023",
+      "startMs": 33621,
+      "endMs": 35973,
+      "text": "ma n ne n ho ke tsu no ka n se i ke i  te ka ",
+      "parts": [
+        {
+          "text": "ma ",
+          "startMs": 33621,
+          "endMs": 33745,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "n ",
+          "startMs": 33745,
+          "endMs": 33869,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ne ",
+          "startMs": 33869,
+          "endMs": 33977,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "n ",
+          "startMs": 33977,
+          "endMs": 34086,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ho ",
+          "startMs": 34086,
+          "endMs": 34261,
+          "sourceOffset": 10,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ke ",
+          "startMs": 34261,
+          "endMs": 34421,
+          "sourceOffset": 13,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "tsu ",
+          "startMs": 34421,
+          "endMs": 34581,
+          "sourceOffset": 16,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "no ",
+          "startMs": 34581,
+          "endMs": 34773,
+          "sourceOffset": 20,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "ka ",
+          "startMs": 34773,
+          "endMs": 34914,
+          "sourceOffset": 23,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "n ",
+          "startMs": 34914,
+          "endMs": 35055,
+          "sourceOffset": 26,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "se ",
+          "startMs": 35055,
+          "endMs": 35186,
+          "sourceOffset": 28,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "i ",
+          "startMs": 35186,
+          "endMs": 35317,
+          "sourceOffset": 31,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "ke ",
+          "startMs": 35317,
+          "endMs": 35405,
+          "sourceOffset": 33,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "i ",
+          "startMs": 35405,
+          "endMs": 35493,
+          "sourceOffset": 36,
+          "sourcePartIndex": 13
+        },
+        {
+          "text": " ",
+          "startMs": 35493,
+          "endMs": 35581,
+          "sourceOffset": 38,
+          "sourcePartIndex": 14
+        },
+        {
+          "text": "te ",
+          "startMs": 35581,
+          "endMs": 35725,
+          "sourceOffset": 39,
+          "sourcePartIndex": 15
+        },
+        {
+          "text": "ka ",
+          "startMs": 35725,
+          "endMs": 35973,
+          "sourceOffset": 42,
+          "sourcePartIndex": 16
+        }
+      ]
+    },
+    {
+      "id": "roma.json-024",
+      "startMs": 35973,
+      "endMs": 38465,
+      "text": "ma i fu n ma i byo u ma i ma i n do ni ha n se i te n ",
+      "parts": [
+        {
+          "text": "ma ",
+          "startMs": 35973,
+          "endMs": 36125,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "i ",
+          "startMs": 36125,
+          "endMs": 36317,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "fu ",
+          "startMs": 36317,
+          "endMs": 36377,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "n ",
+          "startMs": 36377,
+          "endMs": 36438,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ma ",
+          "startMs": 36438,
+          "endMs": 36546,
+          "sourceOffset": 10,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "i ",
+          "startMs": 36546,
+          "endMs": 36654,
+          "sourceOffset": 13,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "byo ",
+          "startMs": 36654,
+          "endMs": 36693,
+          "sourceOffset": 15,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "u ",
+          "startMs": 36732,
+          "endMs": 36773,
+          "sourceOffset": 19,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "ma ",
+          "startMs": 36773,
+          "endMs": 36893,
+          "sourceOffset": 21,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "i ",
+          "startMs": 36893,
+          "endMs": 37013,
+          "sourceOffset": 24,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "ma ",
+          "startMs": 37013,
+          "endMs": 37125,
+          "sourceOffset": 26,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "i ",
+          "startMs": 37125,
+          "endMs": 37182,
+          "sourceOffset": 29,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "n ",
+          "startMs": 37182,
+          "endMs": 37239,
+          "sourceOffset": 31,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "do ",
+          "startMs": 37239,
+          "endMs": 37365,
+          "sourceOffset": 33,
+          "sourcePartIndex": 13
+        },
+        {
+          "text": "ni ",
+          "startMs": 37365,
+          "endMs": 37477,
+          "sourceOffset": 36,
+          "sourcePartIndex": 14
+        },
+        {
+          "text": "ha ",
+          "startMs": 37477,
+          "endMs": 37541,
+          "sourceOffset": 39,
+          "sourcePartIndex": 15
+        },
+        {
+          "text": "n ",
+          "startMs": 37541,
+          "endMs": 37605,
+          "sourceOffset": 42,
+          "sourcePartIndex": 16
+        },
+        {
+          "text": "se ",
+          "startMs": 37605,
+          "endMs": 37753,
+          "sourceOffset": 44,
+          "sourcePartIndex": 17
+        },
+        {
+          "text": "i ",
+          "startMs": 37753,
+          "endMs": 37901,
+          "sourceOffset": 47,
+          "sourcePartIndex": 18
+        },
+        {
+          "text": "te ",
+          "startMs": 37901,
+          "endMs": 38089,
+          "sourceOffset": 49,
+          "sourcePartIndex": 19
+        },
+        {
+          "text": "n ",
+          "startMs": 38089,
+          "endMs": 38465,
+          "sourceOffset": 52,
+          "sourcePartIndex": 20
+        }
+      ]
+    },
+    {
+      "id": "roma.json-025",
+      "startMs": 38465,
+      "endMs": 40002,
+      "text": "gi ko chi na i ka ra da tsu ku ru kya ra ga ",
+      "parts": [
+        {
+          "text": "gi ",
+          "startMs": 38465,
+          "endMs": 38625,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "ko ",
+          "startMs": 38625,
+          "endMs": 38737,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "chi ",
+          "startMs": 38737,
+          "endMs": 38825,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "na ",
+          "startMs": 38825,
+          "endMs": 38929,
+          "sourceOffset": 10,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "i ",
+          "startMs": 38929,
+          "endMs": 39033,
+          "sourceOffset": 13,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ka ",
+          "startMs": 39033,
+          "endMs": 39145,
+          "sourceOffset": 15,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ra ",
+          "startMs": 39145,
+          "endMs": 39257,
+          "sourceOffset": 18,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "da ",
+          "startMs": 39257,
+          "endMs": 39370,
+          "sourceOffset": 21,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "tsu ",
+          "startMs": 39370,
+          "endMs": 39474,
+          "sourceOffset": 24,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "ku ",
+          "startMs": 39474,
+          "endMs": 39578,
+          "sourceOffset": 28,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "ru ",
+          "startMs": 39578,
+          "endMs": 39689,
+          "sourceOffset": 31,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "kya ",
+          "startMs": 39689,
+          "endMs": 39740,
+          "sourceOffset": 34,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "ra ",
+          "startMs": 39793,
+          "endMs": 39913,
+          "sourceOffset": 38,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "ga ",
+          "startMs": 39913,
+          "endMs": 40002,
+          "sourceOffset": 41,
+          "sourcePartIndex": 13
+        }
+      ]
+    },
+    {
+      "id": "roma.json-026",
+      "startMs": 40002,
+      "endMs": 41177,
+      "text": "mi su ma 'c chi da ka ra da ",
+      "parts": [
+        {
+          "text": "mi ",
+          "startMs": 40002,
+          "endMs": 40130,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "su ",
+          "startMs": 40130,
+          "endMs": 40273,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ma ",
+          "startMs": 40273,
+          "endMs": 40373,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "'c ",
+          "startMs": 40373,
+          "endMs": 40473,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "chi ",
+          "startMs": 40473,
+          "endMs": 40593,
+          "sourceOffset": 12,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "da ",
+          "startMs": 40593,
+          "endMs": 40689,
+          "sourceOffset": 16,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ka ",
+          "startMs": 40689,
+          "endMs": 40817,
+          "sourceOffset": 19,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "ra ",
+          "startMs": 40817,
+          "endMs": 40969,
+          "sourceOffset": 22,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "da ",
+          "startMs": 40969,
+          "endMs": 41177,
+          "sourceOffset": 25,
+          "sourcePartIndex": 8
+        }
+      ]
+    },
+    {
+      "id": "roma.json-027",
+      "startMs": 41369,
+      "endMs": 42587,
+      "text": "de mo ki mi no ma e de wa ",
+      "parts": [
+        {
+          "text": "de ",
+          "startMs": 41369,
+          "endMs": 41522,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "mo ",
+          "startMs": 41522,
+          "endMs": 41682,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ki ",
+          "startMs": 41682,
+          "endMs": 41857,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "mi ",
+          "startMs": 41857,
+          "endMs": 42033,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "no ",
+          "startMs": 42033,
+          "endMs": 42177,
+          "sourceOffset": 12,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ma ",
+          "startMs": 42177,
+          "endMs": 42337,
+          "sourceOffset": 15,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "e ",
+          "startMs": 42337,
+          "endMs": 42457,
+          "sourceOffset": 18,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "de ",
+          "startMs": 42457,
+          "endMs": 42545,
+          "sourceOffset": 20,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "wa ",
+          "startMs": 42545,
+          "endMs": 42587,
+          "sourceOffset": 23,
+          "sourcePartIndex": 8
+        }
+      ]
+    },
+    {
+      "id": "roma.json-028",
+      "startMs": 42587,
+      "endMs": 43756,
+      "text": "na n ka na chu ra ru ",
+      "parts": [
+        {
+          "text": "na ",
+          "startMs": 42587,
+          "endMs": 42719,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "n ",
+          "startMs": 42719,
+          "endMs": 42851,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ka ",
+          "startMs": 42851,
+          "endMs": 43012,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "na ",
+          "startMs": 43012,
+          "endMs": 43172,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "chu ",
+          "startMs": 43172,
+          "endMs": 43251,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ra ",
+          "startMs": 43332,
+          "endMs": 43476,
+          "sourceOffset": 15,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ru ",
+          "startMs": 43476,
+          "endMs": 43756,
+          "sourceOffset": 18,
+          "sourcePartIndex": 6
+        }
+      ]
+    },
+    {
+      "id": "roma.json-029",
+      "startMs": 43756,
+      "endMs": 46115,
+      "text": "cho  cho 't to ma 't te so no wa a do ",
+      "parts": [
+        {
+          "text": "cho ",
+          "startMs": 43756,
+          "endMs": 43846,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": " ",
+          "startMs": 43937,
+          "endMs": 44027,
+          "sourceOffset": 4,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "cho ",
+          "startMs": 44028,
+          "endMs": 44134,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "'t ",
+          "startMs": 44241,
+          "endMs": 44347,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "to ",
+          "startMs": 44348,
+          "endMs": 44524,
+          "sourceOffset": 12,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ma ",
+          "startMs": 44524,
+          "endMs": 44695,
+          "sourceOffset": 15,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "'t ",
+          "startMs": 44695,
+          "endMs": 44866,
+          "sourceOffset": 18,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "te ",
+          "startMs": 44867,
+          "endMs": 45052,
+          "sourceOffset": 21,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "so ",
+          "startMs": 45052,
+          "endMs": 45404,
+          "sourceOffset": 24,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "no ",
+          "startMs": 45404,
+          "endMs": 45627,
+          "sourceOffset": 27,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "wa ",
+          "startMs": 45627,
+          "endMs": 45763,
+          "sourceOffset": 30,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "a ",
+          "startMs": 45763,
+          "endMs": 45899,
+          "sourceOffset": 33,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "do ",
+          "startMs": 45899,
+          "endMs": 46115,
+          "sourceOffset": 35,
+          "sourcePartIndex": 12
+        }
+      ]
+    },
+    {
+      "id": "roma.json-030",
+      "startMs": 46115,
+      "endMs": 49189,
+      "text": "o na ji se ka i ni i ki ta i n da ki mi to ",
+      "parts": [
+        {
+          "text": "o ",
+          "startMs": 46115,
+          "endMs": 46291,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "na ",
+          "startMs": 46291,
+          "endMs": 46467,
+          "sourceOffset": 2,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ji ",
+          "startMs": 46467,
+          "endMs": 46675,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "se ",
+          "startMs": 46675,
+          "endMs": 46835,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ka ",
+          "startMs": 46835,
+          "endMs": 46995,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "i ",
+          "startMs": 46995,
+          "endMs": 47148,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ni ",
+          "startMs": 47148,
+          "endMs": 47308,
+          "sourceOffset": 16,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "i ",
+          "startMs": 47308,
+          "endMs": 47475,
+          "sourceOffset": 19,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "ki ",
+          "startMs": 47475,
+          "endMs": 47651,
+          "sourceOffset": 21,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "ta ",
+          "startMs": 47651,
+          "endMs": 47803,
+          "sourceOffset": 24,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "i ",
+          "startMs": 47803,
+          "endMs": 48019,
+          "sourceOffset": 27,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "n ",
+          "startMs": 48019,
+          "endMs": 48235,
+          "sourceOffset": 29,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "da ",
+          "startMs": 48235,
+          "endMs": 48507,
+          "sourceOffset": 31,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "ki ",
+          "startMs": 48507,
+          "endMs": 48715,
+          "sourceOffset": 34,
+          "sourcePartIndex": 13
+        },
+        {
+          "text": "mi ",
+          "startMs": 48715,
+          "endMs": 48883,
+          "sourceOffset": 37,
+          "sourcePartIndex": 14
+        },
+        {
+          "text": "to ",
+          "startMs": 48883,
+          "endMs": 49189,
+          "sourceOffset": 40,
+          "sourcePartIndex": 15
+        }
+      ]
+    },
+    {
+      "id": "roma.json-031",
+      "startMs": 49260,
+      "endMs": 50580,
+      "text": "i n sa i yo u sa i ma ki ko n da ",
+      "parts": [
+        {
+          "text": "i ",
+          "startMs": 49260,
+          "endMs": 49328,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "n ",
+          "startMs": 49328,
+          "endMs": 49396,
+          "sourceOffset": 2,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "sa ",
+          "startMs": 49396,
+          "endMs": 49484,
+          "sourceOffset": 4,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "i ",
+          "startMs": 49484,
+          "endMs": 49589,
+          "sourceOffset": 7,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "yo ",
+          "startMs": 49589,
+          "endMs": 49644,
+          "sourceOffset": 9,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "u ",
+          "startMs": 49644,
+          "endMs": 49700,
+          "sourceOffset": 12,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "sa ",
+          "startMs": 49700,
+          "endMs": 49820,
+          "sourceOffset": 14,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "i ",
+          "startMs": 49820,
+          "endMs": 49940,
+          "sourceOffset": 17,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "ma ",
+          "startMs": 49940,
+          "endMs": 50068,
+          "sourceOffset": 19,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "ki ",
+          "startMs": 50068,
+          "endMs": 50181,
+          "sourceOffset": 22,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "ko ",
+          "startMs": 50181,
+          "endMs": 50264,
+          "sourceOffset": 25,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "n ",
+          "startMs": 50264,
+          "endMs": 50347,
+          "sourceOffset": 28,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "da ",
+          "startMs": 50348,
+          "endMs": 50580,
+          "sourceOffset": 30,
+          "sourcePartIndex": 12
+        }
+      ]
+    },
+    {
+      "id": "roma.json-032",
+      "startMs": 50580,
+      "endMs": 53219,
+      "text": "u n me i no da i ka ku me i ",
+      "parts": [
+        {
+          "text": "u ",
+          "startMs": 50580,
+          "endMs": 50672,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "n ",
+          "startMs": 50672,
+          "endMs": 50764,
+          "sourceOffset": 2,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "me ",
+          "startMs": 50764,
+          "endMs": 50872,
+          "sourceOffset": 4,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "i ",
+          "startMs": 50872,
+          "endMs": 50980,
+          "sourceOffset": 7,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "no ",
+          "startMs": 50980,
+          "endMs": 51180,
+          "sourceOffset": 9,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "da ",
+          "startMs": 51180,
+          "endMs": 51324,
+          "sourceOffset": 12,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "i ",
+          "startMs": 51324,
+          "endMs": 51516,
+          "sourceOffset": 15,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "ka ",
+          "startMs": 51516,
+          "endMs": 51788,
+          "sourceOffset": 17,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "ku ",
+          "startMs": 51788,
+          "endMs": 52012,
+          "sourceOffset": 20,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "me ",
+          "startMs": 52012,
+          "endMs": 52615,
+          "sourceOffset": 23,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "i ",
+          "startMs": 52615,
+          "endMs": 53219,
+          "sourceOffset": 26,
+          "sourcePartIndex": 10
+        }
+      ]
+    },
+    {
+      "id": "roma.json-033",
+      "startMs": 53522,
+      "endMs": 54582,
+      "text": "ko n na wa ta shi ja ",
+      "parts": [
+        {
+          "text": "ko ",
+          "startMs": 53522,
+          "endMs": 53690,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "n ",
+          "startMs": 53691,
+          "endMs": 53859,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "na ",
+          "startMs": 53859,
+          "endMs": 54034,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "wa ",
+          "startMs": 54034,
+          "endMs": 54170,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ta ",
+          "startMs": 54170,
+          "endMs": 54331,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "shi ",
+          "startMs": 54331,
+          "endMs": 54459,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ja ",
+          "startMs": 54459,
+          "endMs": 54470,
+          "sourceOffset": 18,
+          "sourcePartIndex": 6
+        }
+      ]
+    },
+    {
+      "id": "roma.json-034",
+      "startMs": 54582,
+      "endMs": 57097,
+      "text": "mu ri mu ri  mu ri mu ri  na n te ",
+      "parts": [
+        {
+          "text": "mu ",
+          "startMs": 54582,
+          "endMs": 54758,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "ri ",
+          "startMs": 54758,
+          "endMs": 55030,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "mu ",
+          "startMs": 55030,
+          "endMs": 55206,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ri ",
+          "startMs": 55206,
+          "endMs": 55526,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": " ",
+          "startMs": 55526,
+          "endMs": 55526,
+          "sourceOffset": 12,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "mu ",
+          "startMs": 55526,
+          "endMs": 55678,
+          "sourceOffset": 13,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ri ",
+          "startMs": 55678,
+          "endMs": 56006,
+          "sourceOffset": 16,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "mu ",
+          "startMs": 56006,
+          "endMs": 56182,
+          "sourceOffset": 19,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "ri ",
+          "startMs": 56182,
+          "endMs": 56510,
+          "sourceOffset": 22,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": " ",
+          "startMs": 56510,
+          "endMs": 56510,
+          "sourceOffset": 25,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "na ",
+          "startMs": 56510,
+          "endMs": 56666,
+          "sourceOffset": 26,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "n ",
+          "startMs": 56666,
+          "endMs": 56822,
+          "sourceOffset": 29,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "te ",
+          "startMs": 56822,
+          "endMs": 57097,
+          "sourceOffset": 31,
+          "sourcePartIndex": 12
+        }
+      ]
+    },
+    {
+      "id": "roma.json-035",
+      "startMs": 57097,
+      "endMs": 59781,
+      "text": "ni ge ru ni wa na ga su gi ru wa n de i ",
+      "parts": [
+        {
+          "text": "ni ",
+          "startMs": 57097,
+          "endMs": 57281,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "ge ",
+          "startMs": 57281,
+          "endMs": 57441,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ru ",
+          "startMs": 57441,
+          "endMs": 57737,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ni ",
+          "startMs": 57737,
+          "endMs": 57905,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "wa ",
+          "startMs": 57905,
+          "endMs": 58217,
+          "sourceOffset": 12,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "na ",
+          "startMs": 58217,
+          "endMs": 58401,
+          "sourceOffset": 15,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ga ",
+          "startMs": 58401,
+          "endMs": 58673,
+          "sourceOffset": 18,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "su ",
+          "startMs": 58673,
+          "endMs": 58897,
+          "sourceOffset": 21,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "gi ",
+          "startMs": 58897,
+          "endMs": 59057,
+          "sourceOffset": 24,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "ru ",
+          "startMs": 59057,
+          "endMs": 59180,
+          "sourceOffset": 27,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "wa ",
+          "startMs": 59180,
+          "endMs": 59259,
+          "sourceOffset": 30,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "n ",
+          "startMs": 59259,
+          "endMs": 59338,
+          "sourceOffset": 33,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "de ",
+          "startMs": 59338,
+          "endMs": 59542,
+          "sourceOffset": 35,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "i ",
+          "startMs": 59542,
+          "endMs": 59781,
+          "sourceOffset": 38,
+          "sourcePartIndex": 13
+        }
+      ]
+    },
+    {
+      "id": "roma.json-036",
+      "startMs": 60013,
+      "endMs": 61341,
+      "text": "ka ge mu shi ta ki mo chi ga ",
+      "parts": [
+        {
+          "text": "ka ",
+          "startMs": 60013,
+          "endMs": 60165,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "ge ",
+          "startMs": 60165,
+          "endMs": 60269,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "mu ",
+          "startMs": 60269,
+          "endMs": 60365,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "shi ",
+          "startMs": 60365,
+          "endMs": 60509,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ta ",
+          "startMs": 60509,
+          "endMs": 60653,
+          "sourceOffset": 13,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ki ",
+          "startMs": 60653,
+          "endMs": 60805,
+          "sourceOffset": 16,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "mo ",
+          "startMs": 60805,
+          "endMs": 60941,
+          "sourceOffset": 19,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "chi ",
+          "startMs": 60941,
+          "endMs": 61125,
+          "sourceOffset": 22,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "ga ",
+          "startMs": 61125,
+          "endMs": 61341,
+          "sourceOffset": 26,
+          "sourcePartIndex": 8
+        }
+      ]
+    },
+    {
+      "id": "roma.json-037",
+      "startMs": 61341,
+      "endMs": 62656,
+      "text": "ta i yo u he no bi cha 't te ",
+      "parts": [
+        {
+          "text": "ta ",
+          "startMs": 61341,
+          "endMs": 61517,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "i ",
+          "startMs": 61517,
+          "endMs": 61661,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "yo ",
+          "startMs": 61661,
+          "endMs": 61713,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "u ",
+          "startMs": 61713,
+          "endMs": 61765,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "he ",
+          "startMs": 61765,
+          "endMs": 61885,
+          "sourceOffset": 10,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "no ",
+          "startMs": 61885,
+          "endMs": 62005,
+          "sourceOffset": 13,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "bi ",
+          "startMs": 62005,
+          "endMs": 62189,
+          "sourceOffset": 16,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "cha ",
+          "startMs": 62189,
+          "endMs": 62277,
+          "sourceOffset": 19,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "'t ",
+          "startMs": 62365,
+          "endMs": 62453,
+          "sourceOffset": 23,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "te ",
+          "startMs": 62453,
+          "endMs": 62656,
+          "sourceOffset": 26,
+          "sourcePartIndex": 9
+        }
+      ]
+    },
+    {
+      "id": "roma.json-038",
+      "startMs": 62656,
+      "endMs": 65279,
+      "text": "to ki me ki a ki ra me ru to ka  ( mu ri mu ri ) ",
+      "parts": [
+        {
+          "text": "to ",
+          "startMs": 62656,
+          "endMs": 62800,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "ki ",
+          "startMs": 62800,
+          "endMs": 63072,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "me ",
+          "startMs": 63072,
+          "endMs": 63223,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ki ",
+          "startMs": 63223,
+          "endMs": 63511,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "a ",
+          "startMs": 63511,
+          "endMs": 63655,
+          "sourceOffset": 12,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ki ",
+          "startMs": 63655,
+          "endMs": 63999,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ra ",
+          "startMs": 63999,
+          "endMs": 64192,
+          "sourceOffset": 17,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "me ",
+          "startMs": 64191,
+          "endMs": 64302,
+          "sourceOffset": 20,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "ru ",
+          "startMs": 64303,
+          "endMs": 64423,
+          "sourceOffset": 23,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "to ",
+          "startMs": 64423,
+          "endMs": 64503,
+          "sourceOffset": 26,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "ka ",
+          "startMs": 64503,
+          "endMs": 64583,
+          "sourceOffset": 29,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": " ( ",
+          "startMs": 64583,
+          "endMs": 64663,
+          "sourceOffset": 32,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "mu ",
+          "startMs": 64663,
+          "endMs": 64839,
+          "sourceOffset": 35,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "ri ",
+          "startMs": 64839,
+          "endMs": 65000,
+          "sourceOffset": 38,
+          "sourcePartIndex": 13
+        },
+        {
+          "text": "mu ",
+          "startMs": 65000,
+          "endMs": 65112,
+          "sourceOffset": 41,
+          "sourcePartIndex": 14
+        },
+        {
+          "text": "ri ",
+          "startMs": 65111,
+          "endMs": 65278,
+          "sourceOffset": 44,
+          "sourcePartIndex": 15
+        },
+        {
+          "text": ") ",
+          "startMs": 65279,
+          "endMs": 65279,
+          "sourceOffset": 47,
+          "sourcePartIndex": 16
+        }
+      ]
+    },
+    {
+      "id": "roma.json-039",
+      "startMs": 65279,
+      "endMs": 67860,
+      "text": "mu ri ku ri fu ri ma i ta ki ra ki ra ",
+      "parts": [
+        {
+          "text": "mu ",
+          "startMs": 65279,
+          "endMs": 65463,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "ri ",
+          "startMs": 65462,
+          "endMs": 65662,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ku ",
+          "startMs": 65663,
+          "endMs": 65840,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ri ",
+          "startMs": 65840,
+          "endMs": 66167,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "fu ",
+          "startMs": 66167,
+          "endMs": 66359,
+          "sourceOffset": 12,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ri ",
+          "startMs": 66359,
+          "endMs": 66639,
+          "sourceOffset": 15,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ma ",
+          "startMs": 66639,
+          "endMs": 66831,
+          "sourceOffset": 18,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "i ",
+          "startMs": 66831,
+          "endMs": 67159,
+          "sourceOffset": 21,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "ta ",
+          "startMs": 67159,
+          "endMs": 67311,
+          "sourceOffset": 23,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "ki ",
+          "startMs": 67311,
+          "endMs": 67471,
+          "sourceOffset": 26,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "ra ",
+          "startMs": 67471,
+          "endMs": 67631,
+          "sourceOffset": 29,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "ki ",
+          "startMs": 67631,
+          "endMs": 67759,
+          "sourceOffset": 32,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "ra ",
+          "startMs": 67759,
+          "endMs": 67860,
+          "sourceOffset": 35,
+          "sourcePartIndex": 12
+        }
+      ]
+    },
+    {
+      "id": "roma.json-040",
+      "startMs": 67860,
+      "endMs": 70485,
+      "text": "ki mi ni ki zu ka re ru ka mo da to ka ",
+      "parts": [
+        {
+          "text": "ki ",
+          "startMs": 67860,
+          "endMs": 67988,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "mi ",
+          "startMs": 67988,
+          "endMs": 68372,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ni ",
+          "startMs": 68372,
+          "endMs": 68508,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ki ",
+          "startMs": 68508,
+          "endMs": 68692,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "zu ",
+          "startMs": 68692,
+          "endMs": 68884,
+          "sourceOffset": 12,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ka ",
+          "startMs": 68884,
+          "endMs": 69013,
+          "sourceOffset": 15,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "re ",
+          "startMs": 69013,
+          "endMs": 69364,
+          "sourceOffset": 18,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "ru ",
+          "startMs": 69364,
+          "endMs": 69524,
+          "sourceOffset": 21,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "ka ",
+          "startMs": 69524,
+          "endMs": 69676,
+          "sourceOffset": 24,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "mo ",
+          "startMs": 69676,
+          "endMs": 69828,
+          "sourceOffset": 27,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "da ",
+          "startMs": 69828,
+          "endMs": 69981,
+          "sourceOffset": 30,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "to ",
+          "startMs": 69981,
+          "endMs": 70108,
+          "sourceOffset": 33,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "ka ",
+          "startMs": 70108,
+          "endMs": 70485,
+          "sourceOffset": 36,
+          "sourcePartIndex": 12
+        }
+      ]
+    },
+    {
+      "id": "roma.json-041",
+      "startMs": 70653,
+      "endMs": 71770,
+      "text": "me gu ra se ru ha a to wa ",
+      "parts": [
+        {
+          "text": "me ",
+          "startMs": 70653,
+          "endMs": 70809,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "gu ",
+          "startMs": 70809,
+          "endMs": 70965,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ra ",
+          "startMs": 70965,
+          "endMs": 71109,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "se ",
+          "startMs": 71109,
+          "endMs": 71221,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ru ",
+          "startMs": 71221,
+          "endMs": 71324,
+          "sourceOffset": 12,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ha ",
+          "startMs": 71324,
+          "endMs": 71392,
+          "sourceOffset": 15,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "a ",
+          "startMs": 71392,
+          "endMs": 71460,
+          "sourceOffset": 18,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "to ",
+          "startMs": 71461,
+          "endMs": 71580,
+          "sourceOffset": 20,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "wa ",
+          "startMs": 71580,
+          "endMs": 71770,
+          "sourceOffset": 23,
+          "sourcePartIndex": 8
+        }
+      ]
+    },
+    {
+      "id": "roma.json-042",
+      "startMs": 71770,
+      "endMs": 74340,
+      "text": "ki mi ni chi ka zu ki ta i ",
+      "parts": [
+        {
+          "text": "ki ",
+          "startMs": 71770,
+          "endMs": 72090,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "mi ",
+          "startMs": 72090,
+          "endMs": 72434,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ni ",
+          "startMs": 72434,
+          "endMs": 72787,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "chi ",
+          "startMs": 72963,
+          "endMs": 73163,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ka ",
+          "startMs": 73163,
+          "endMs": 73402,
+          "sourceOffset": 13,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "zu ",
+          "startMs": 73402,
+          "endMs": 73586,
+          "sourceOffset": 16,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ki ",
+          "startMs": 73586,
+          "endMs": 73755,
+          "sourceOffset": 19,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "ta ",
+          "startMs": 73755,
+          "endMs": 73899,
+          "sourceOffset": 22,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "i ",
+          "startMs": 73899,
+          "endMs": 74340,
+          "sourceOffset": 25,
+          "sourcePartIndex": 8
+        }
+      ]
+    },
+    {
+      "id": "roma.json-043",
+      "startMs": 74340,
+      "endMs": 75452,
+      "text": "a wa na bi a yo u sa i ",
+      "parts": [
+        {
+          "text": "a ",
+          "startMs": 74340,
+          "endMs": 74492,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "wa ",
+          "startMs": 74492,
+          "endMs": 74612,
+          "sourceOffset": 2,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "na ",
+          "startMs": 74612,
+          "endMs": 74724,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "bi ",
+          "startMs": 74724,
+          "endMs": 74828,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "a ",
+          "startMs": 74828,
+          "endMs": 74940,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "yo ",
+          "startMs": 74940,
+          "endMs": 75008,
+          "sourceOffset": 13,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "u ",
+          "startMs": 75008,
+          "endMs": 75076,
+          "sourceOffset": 16,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "sa ",
+          "startMs": 75076,
+          "endMs": 75284,
+          "sourceOffset": 18,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "i ",
+          "startMs": 75284,
+          "endMs": 75452,
+          "sourceOffset": 21,
+          "sourcePartIndex": 8
+        }
+      ]
+    },
+    {
+      "id": "roma.json-044",
+      "startMs": 75452,
+      "endMs": 76140,
+      "text": "( mu ri mu ri ) ",
+      "parts": [
+        {
+          "text": "( ",
+          "startMs": 75452,
+          "endMs": 75588,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "mu ",
+          "startMs": 75588,
+          "endMs": 75708,
+          "sourceOffset": 2,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ri ",
+          "startMs": 75708,
+          "endMs": 75820,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "mu ",
+          "startMs": 75820,
+          "endMs": 75940,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ri ",
+          "startMs": 75940,
+          "endMs": 76140,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": ") ",
+          "startMs": 76140,
+          "endMs": 76140,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        }
+      ]
+    },
+    {
+      "id": "roma.json-045",
+      "startMs": 76140,
+      "endMs": 78075,
+      "text": "hi to yo hi to yo wo hi to mi de kya 'c chi ",
+      "parts": [
+        {
+          "text": "hi ",
+          "startMs": 76140,
+          "endMs": 76332,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "to ",
+          "startMs": 76332,
+          "endMs": 76492,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "yo ",
+          "startMs": 76492,
+          "endMs": 76621,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "hi ",
+          "startMs": 76621,
+          "endMs": 76732,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "to ",
+          "startMs": 76732,
+          "endMs": 76860,
+          "sourceOffset": 12,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "yo ",
+          "startMs": 76860,
+          "endMs": 77044,
+          "sourceOffset": 15,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "wo ",
+          "startMs": 77044,
+          "endMs": 77228,
+          "sourceOffset": 18,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "hi ",
+          "startMs": 77228,
+          "endMs": 77388,
+          "sourceOffset": 21,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "to ",
+          "startMs": 77388,
+          "endMs": 77548,
+          "sourceOffset": 24,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "mi ",
+          "startMs": 77548,
+          "endMs": 77684,
+          "sourceOffset": 27,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "de ",
+          "startMs": 77684,
+          "endMs": 77739,
+          "sourceOffset": 30,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "kya ",
+          "startMs": 77739,
+          "endMs": 77797,
+          "sourceOffset": 33,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "'c ",
+          "startMs": 77856,
+          "endMs": 77914,
+          "sourceOffset": 37,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "chi ",
+          "startMs": 77915,
+          "endMs": 78075,
+          "sourceOffset": 40,
+          "sourcePartIndex": 13
+        }
+      ]
+    },
+    {
+      "id": "roma.json-046",
+      "startMs": 78075,
+      "endMs": 78788,
+      "text": "( mu ri mu ri ) ",
+      "parts": [
+        {
+          "text": "( ",
+          "startMs": 78075,
+          "endMs": 78203,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "mu ",
+          "startMs": 78203,
+          "endMs": 78307,
+          "sourceOffset": 2,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ri ",
+          "startMs": 78307,
+          "endMs": 78435,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "mu ",
+          "startMs": 78435,
+          "endMs": 78587,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ri ",
+          "startMs": 78587,
+          "endMs": 78788,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": ") ",
+          "startMs": 78788,
+          "endMs": 78788,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        }
+      ]
+    },
+    {
+      "id": "roma.json-047",
+      "startMs": 78788,
+      "endMs": 80683,
+      "text": "fu ta ri i jo u de mo da i ka n ge i ",
+      "parts": [
+        {
+          "text": "fu ",
+          "startMs": 78788,
+          "endMs": 78947,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "ta ",
+          "startMs": 78947,
+          "endMs": 79091,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ri ",
+          "startMs": 79091,
+          "endMs": 79251,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "i ",
+          "startMs": 79251,
+          "endMs": 79371,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "jo ",
+          "startMs": 79371,
+          "endMs": 79450,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "u ",
+          "startMs": 79531,
+          "endMs": 79611,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "de ",
+          "startMs": 79611,
+          "endMs": 79795,
+          "sourceOffset": 16,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "mo ",
+          "startMs": 79795,
+          "endMs": 79923,
+          "sourceOffset": 19,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "da ",
+          "startMs": 79923,
+          "endMs": 80099,
+          "sourceOffset": 22,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "i ",
+          "startMs": 80099,
+          "endMs": 80244,
+          "sourceOffset": 25,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "ka ",
+          "startMs": 80244,
+          "endMs": 80368,
+          "sourceOffset": 27,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "n ",
+          "startMs": 80368,
+          "endMs": 80492,
+          "sourceOffset": 30,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "ge ",
+          "startMs": 80492,
+          "endMs": 80587,
+          "sourceOffset": 32,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "i ",
+          "startMs": 80587,
+          "endMs": 80683,
+          "sourceOffset": 35,
+          "sourcePartIndex": 13
+        }
+      ]
+    },
+    {
+      "id": "roma.json-048",
+      "startMs": 80683,
+      "endMs": 81387,
+      "text": "( mu ri mu ri ) ",
+      "parts": [
+        {
+          "text": "( ",
+          "startMs": 80683,
+          "endMs": 80827,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "mu ",
+          "startMs": 80827,
+          "endMs": 80939,
+          "sourceOffset": 2,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ri ",
+          "startMs": 80939,
+          "endMs": 81052,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "mu ",
+          "startMs": 81052,
+          "endMs": 81187,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ri ",
+          "startMs": 81187,
+          "endMs": 81387,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": ") ",
+          "startMs": 81387,
+          "endMs": 81387,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        }
+      ]
+    },
+    {
+      "id": "roma.json-049",
+      "startMs": 81387,
+      "endMs": 83332,
+      "text": "mi tsu me ra re ta ra te re cha u na ",
+      "parts": [
+        {
+          "text": "mi ",
+          "startMs": 81387,
+          "endMs": 81564,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "tsu ",
+          "startMs": 81564,
+          "endMs": 81716,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "me ",
+          "startMs": 81716,
+          "endMs": 81868,
+          "sourceOffset": 7,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ra ",
+          "startMs": 81868,
+          "endMs": 82035,
+          "sourceOffset": 10,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "re ",
+          "startMs": 82035,
+          "endMs": 82195,
+          "sourceOffset": 13,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ta ",
+          "startMs": 82195,
+          "endMs": 82299,
+          "sourceOffset": 16,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ra ",
+          "startMs": 82299,
+          "endMs": 82483,
+          "sourceOffset": 19,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "te ",
+          "startMs": 82483,
+          "endMs": 82659,
+          "sourceOffset": 22,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "re ",
+          "startMs": 82659,
+          "endMs": 82803,
+          "sourceOffset": 25,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "cha ",
+          "startMs": 82803,
+          "endMs": 82890,
+          "sourceOffset": 28,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "u ",
+          "startMs": 82980,
+          "endMs": 83148,
+          "sourceOffset": 32,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "na ",
+          "startMs": 83148,
+          "endMs": 83239,
+          "sourceOffset": 34,
+          "sourcePartIndex": 11
+        }
+      ]
+    },
+    {
+      "id": "roma.json-050",
+      "startMs": 83332,
+      "endMs": 83948,
+      "text": "( mu ri mu ri ) ",
+      "parts": [
+        {
+          "text": "( ",
+          "startMs": 83332,
+          "endMs": 83476,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "mu ",
+          "startMs": 83476,
+          "endMs": 83571,
+          "sourceOffset": 2,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ri ",
+          "startMs": 83571,
+          "endMs": 83691,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "mu ",
+          "startMs": 83691,
+          "endMs": 83795,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ri ",
+          "startMs": 83795,
+          "endMs": 83948,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": ") ",
+          "startMs": 83948,
+          "endMs": 83948,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        }
+      ]
+    },
+    {
+      "id": "roma.json-051",
+      "startMs": 83948,
+      "endMs": 88659,
+      "text": "ki mi no mo to su su me  hi ka ri no sa su ho u ",
+      "parts": [
+        {
+          "text": "ki ",
+          "startMs": 83948,
+          "endMs": 84075,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "mi ",
+          "startMs": 84075,
+          "endMs": 84267,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "no ",
+          "startMs": 84267,
+          "endMs": 84419,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "mo ",
+          "startMs": 84419,
+          "endMs": 84563,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "to ",
+          "startMs": 84563,
+          "endMs": 84667,
+          "sourceOffset": 12,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "su ",
+          "startMs": 84667,
+          "endMs": 84783,
+          "sourceOffset": 15,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "su ",
+          "startMs": 84783,
+          "endMs": 84900,
+          "sourceOffset": 18,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "me ",
+          "startMs": 84900,
+          "endMs": 85015,
+          "sourceOffset": 21,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": " ",
+          "startMs": 85015,
+          "endMs": 85015,
+          "sourceOffset": 24,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "hi ",
+          "startMs": 85135,
+          "endMs": 85455,
+          "sourceOffset": 25,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "ka ",
+          "startMs": 85455,
+          "endMs": 85743,
+          "sourceOffset": 28,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "ri ",
+          "startMs": 85743,
+          "endMs": 86119,
+          "sourceOffset": 31,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "no ",
+          "startMs": 86119,
+          "endMs": 86479,
+          "sourceOffset": 34,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "sa ",
+          "startMs": 86479,
+          "endMs": 87047,
+          "sourceOffset": 37,
+          "sourcePartIndex": 13
+        },
+        {
+          "text": "su ",
+          "startMs": 87047,
+          "endMs": 87183,
+          "sourceOffset": 40,
+          "sourcePartIndex": 14
+        },
+        {
+          "text": "ho ",
+          "startMs": 87183,
+          "endMs": 87921,
+          "sourceOffset": 43,
+          "sourcePartIndex": 15
+        },
+        {
+          "text": "u ",
+          "startMs": 87921,
+          "endMs": 88659,
+          "sourceOffset": 46,
+          "sourcePartIndex": 16
+        }
+      ]
+    },
+    {
+      "id": "roma.json-052",
+      "startMs": 100032,
+      "endMs": 101847,
+      "text": "a  ya 'p pa mu ri ka mo ",
+      "parts": [
+        {
+          "text": "a ",
+          "startMs": 100032,
+          "endMs": 100218,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": " ",
+          "startMs": 100405,
+          "endMs": 100591,
+          "sourceOffset": 2,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ya ",
+          "startMs": 100591,
+          "endMs": 100727,
+          "sourceOffset": 3,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "'p ",
+          "startMs": 100728,
+          "endMs": 100864,
+          "sourceOffset": 6,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "pa ",
+          "startMs": 100864,
+          "endMs": 101015,
+          "sourceOffset": 9,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "mu ",
+          "startMs": 101015,
+          "endMs": 101151,
+          "sourceOffset": 12,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ri ",
+          "startMs": 101151,
+          "endMs": 101320,
+          "sourceOffset": 15,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "ka ",
+          "startMs": 101320,
+          "endMs": 101448,
+          "sourceOffset": 18,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "mo ",
+          "startMs": 101448,
+          "endMs": 101847,
+          "sourceOffset": 21,
+          "sourcePartIndex": 8
+        }
+      ]
+    },
+    {
+      "id": "roma.json-053",
+      "startMs": 102686,
+      "endMs": 104235,
+      "text": "ga n ba 't ta fu ri da mo n ",
+      "parts": [
+        {
+          "text": "ga ",
+          "startMs": 102686,
+          "endMs": 102762,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "n ",
+          "startMs": 102762,
+          "endMs": 102838,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ba ",
+          "startMs": 102838,
+          "endMs": 102958,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "'t ",
+          "startMs": 102958,
+          "endMs": 103078,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ta ",
+          "startMs": 103078,
+          "endMs": 103222,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "fu ",
+          "startMs": 103222,
+          "endMs": 103390,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ri ",
+          "startMs": 103390,
+          "endMs": 103598,
+          "sourceOffset": 17,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "da ",
+          "startMs": 103598,
+          "endMs": 103774,
+          "sourceOffset": 20,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "mo ",
+          "startMs": 103774,
+          "endMs": 103946,
+          "sourceOffset": 23,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "n ",
+          "startMs": 103946,
+          "endMs": 104235,
+          "sourceOffset": 26,
+          "sourcePartIndex": 9
+        }
+      ]
+    },
+    {
+      "id": "roma.json-054",
+      "startMs": 104723,
+      "endMs": 106431,
+      "text": "so n ja ma ta sa i ki do u shi te ",
+      "parts": [
+        {
+          "text": "so ",
+          "startMs": 104723,
+          "endMs": 104846,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "n ",
+          "startMs": 104847,
+          "endMs": 104970,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ja ",
+          "startMs": 104970,
+          "endMs": 105054,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ma ",
+          "startMs": 105139,
+          "endMs": 105282,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ta ",
+          "startMs": 105282,
+          "endMs": 105418,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "sa ",
+          "startMs": 105418,
+          "endMs": 105514,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "i ",
+          "startMs": 105514,
+          "endMs": 105699,
+          "sourceOffset": 17,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "ki ",
+          "startMs": 105699,
+          "endMs": 105891,
+          "sourceOffset": 19,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "do ",
+          "startMs": 105891,
+          "endMs": 105967,
+          "sourceOffset": 22,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "u ",
+          "startMs": 105967,
+          "endMs": 106043,
+          "sourceOffset": 25,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "shi ",
+          "startMs": 106043,
+          "endMs": 106242,
+          "sourceOffset": 27,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "te ",
+          "startMs": 106242,
+          "endMs": 106431,
+          "sourceOffset": 31,
+          "sourcePartIndex": 11
+        }
+      ]
+    },
+    {
+      "id": "roma.json-055",
+      "startMs": 106431,
+      "endMs": 107319,
+      "text": "sa ra ba i chi do u ",
+      "parts": [
+        {
+          "text": "sa ",
+          "startMs": 106431,
+          "endMs": 106591,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "ra ",
+          "startMs": 106591,
+          "endMs": 106743,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ba ",
+          "startMs": 106743,
+          "endMs": 106879,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "i ",
+          "startMs": 106879,
+          "endMs": 106959,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "chi ",
+          "startMs": 106959,
+          "endMs": 107103,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "do ",
+          "startMs": 107103,
+          "endMs": 107211,
+          "sourceOffset": 15,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "u ",
+          "startMs": 107211,
+          "endMs": 107319,
+          "sourceOffset": 18,
+          "sourcePartIndex": 6
+        }
+      ]
+    },
+    {
+      "id": "roma.json-056",
+      "startMs": 107319,
+      "endMs": 108943,
+      "text": "to ka na i shi n yu u te ru a i da ni ",
+      "parts": [
+        {
+          "text": "to ",
+          "startMs": 107319,
+          "endMs": 107495,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "ka ",
+          "startMs": 107495,
+          "endMs": 107655,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "na ",
+          "startMs": 107655,
+          "endMs": 107799,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "i ",
+          "startMs": 107799,
+          "endMs": 107919,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "shi ",
+          "startMs": 107919,
+          "endMs": 107971,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "n ",
+          "startMs": 107971,
+          "endMs": 108023,
+          "sourceOffset": 15,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "yu ",
+          "startMs": 108023,
+          "endMs": 108083,
+          "sourceOffset": 17,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "u ",
+          "startMs": 108083,
+          "endMs": 108143,
+          "sourceOffset": 20,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "te ",
+          "startMs": 108143,
+          "endMs": 108279,
+          "sourceOffset": 22,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "ru ",
+          "startMs": 108279,
+          "endMs": 108478,
+          "sourceOffset": 25,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "a ",
+          "startMs": 108478,
+          "endMs": 108591,
+          "sourceOffset": 28,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "i ",
+          "startMs": 108591,
+          "endMs": 108695,
+          "sourceOffset": 30,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "da ",
+          "startMs": 108695,
+          "endMs": 108823,
+          "sourceOffset": 32,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "ni ",
+          "startMs": 108823,
+          "endMs": 108943,
+          "sourceOffset": 35,
+          "sourcePartIndex": 13
+        }
+      ]
+    },
+    {
+      "id": "roma.json-057",
+      "startMs": 108943,
+      "endMs": 110208,
+      "text": "a ba ba ba ba ba ",
+      "parts": [
+        {
+          "text": "a ",
+          "startMs": 108943,
+          "endMs": 109119,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "ba ",
+          "startMs": 109119,
+          "endMs": 109303,
+          "sourceOffset": 2,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ba ",
+          "startMs": 109303,
+          "endMs": 109431,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ba ",
+          "startMs": 109431,
+          "endMs": 109559,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ba ",
+          "startMs": 109559,
+          "endMs": 109671,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ba ",
+          "startMs": 109671,
+          "endMs": 110208,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        }
+      ]
+    },
+    {
+      "id": "roma.json-058",
+      "startMs": 110208,
+      "endMs": 111568,
+      "text": "a i kyo u a re ba ku ro u shi na i ",
+      "parts": [
+        {
+          "text": "a ",
+          "startMs": 110208,
+          "endMs": 110344,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "i ",
+          "startMs": 110344,
+          "endMs": 110480,
+          "sourceOffset": 2,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "kyo ",
+          "startMs": 110480,
+          "endMs": 110514,
+          "sourceOffset": 4,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "u ",
+          "startMs": 110548,
+          "endMs": 110583,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "a ",
+          "startMs": 110583,
+          "endMs": 110704,
+          "sourceOffset": 10,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "re ",
+          "startMs": 110704,
+          "endMs": 110840,
+          "sourceOffset": 12,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ba ",
+          "startMs": 110840,
+          "endMs": 110904,
+          "sourceOffset": 15,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "ku ",
+          "startMs": 110904,
+          "endMs": 111032,
+          "sourceOffset": 18,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "ro ",
+          "startMs": 111032,
+          "endMs": 111088,
+          "sourceOffset": 21,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "u ",
+          "startMs": 111088,
+          "endMs": 111144,
+          "sourceOffset": 24,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "shi ",
+          "startMs": 111144,
+          "endMs": 111256,
+          "sourceOffset": 26,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "na ",
+          "startMs": 111256,
+          "endMs": 111384,
+          "sourceOffset": 30,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "i ",
+          "startMs": 111384,
+          "endMs": 111568,
+          "sourceOffset": 33,
+          "sourcePartIndex": 12
+        }
+      ]
+    },
+    {
+      "id": "roma.json-059",
+      "startMs": 111568,
+      "endMs": 112953,
+      "text": "ha ya ri no to o ku nya go e n ga na i ",
+      "parts": [
+        {
+          "text": "ha ",
+          "startMs": 111568,
+          "endMs": 111728,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "ya ",
+          "startMs": 111728,
+          "endMs": 111856,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ri ",
+          "startMs": 111856,
+          "endMs": 111960,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "no ",
+          "startMs": 111960,
+          "endMs": 112080,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "to ",
+          "startMs": 112080,
+          "endMs": 112136,
+          "sourceOffset": 12,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "o ",
+          "startMs": 112136,
+          "endMs": 112192,
+          "sourceOffset": 15,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ku ",
+          "startMs": 112192,
+          "endMs": 112312,
+          "sourceOffset": 17,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "nya ",
+          "startMs": 112312,
+          "endMs": 112372,
+          "sourceOffset": 20,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "go ",
+          "startMs": 112432,
+          "endMs": 112552,
+          "sourceOffset": 24,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "e ",
+          "startMs": 112552,
+          "endMs": 112604,
+          "sourceOffset": 27,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "n ",
+          "startMs": 112604,
+          "endMs": 112656,
+          "sourceOffset": 29,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "ga ",
+          "startMs": 112656,
+          "endMs": 112768,
+          "sourceOffset": 31,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "na ",
+          "startMs": 112768,
+          "endMs": 112888,
+          "sourceOffset": 34,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "i ",
+          "startMs": 112888,
+          "endMs": 112953,
+          "sourceOffset": 37,
+          "sourcePartIndex": 13
+        }
+      ]
+    },
+    {
+      "id": "roma.json-060",
+      "startMs": 112953,
+      "endMs": 114208,
+      "text": "yu u ki ga na i  ko to ba ga de na i ",
+      "parts": [
+        {
+          "text": "yu ",
+          "startMs": 112953,
+          "endMs": 113001,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "u ",
+          "startMs": 113001,
+          "endMs": 113050,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ki ",
+          "startMs": 113050,
+          "endMs": 113129,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ga ",
+          "startMs": 113129,
+          "endMs": 113241,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "na ",
+          "startMs": 113241,
+          "endMs": 113353,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "i ",
+          "startMs": 113353,
+          "endMs": 113465,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": " ",
+          "startMs": 113465,
+          "endMs": 113465,
+          "sourceOffset": 16,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "ko ",
+          "startMs": 113465,
+          "endMs": 113577,
+          "sourceOffset": 17,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "to ",
+          "startMs": 113577,
+          "endMs": 113689,
+          "sourceOffset": 20,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "ba ",
+          "startMs": 113689,
+          "endMs": 113793,
+          "sourceOffset": 23,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "ga ",
+          "startMs": 113793,
+          "endMs": 113905,
+          "sourceOffset": 26,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "de ",
+          "startMs": 113905,
+          "endMs": 114009,
+          "sourceOffset": 29,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "na ",
+          "startMs": 114009,
+          "endMs": 114121,
+          "sourceOffset": 32,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "i ",
+          "startMs": 114121,
+          "endMs": 114208,
+          "sourceOffset": 35,
+          "sourcePartIndex": 13
+        }
+      ]
+    },
+    {
+      "id": "roma.json-061",
+      "startMs": 114208,
+      "endMs": 115406,
+      "text": "mi n na no fu tsu u wa fu tsu u ja na i ",
+      "parts": [
+        {
+          "text": "mi ",
+          "startMs": 114208,
+          "endMs": 114248,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "n ",
+          "startMs": 114248,
+          "endMs": 114288,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "na ",
+          "startMs": 114289,
+          "endMs": 114481,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "no ",
+          "startMs": 114481,
+          "endMs": 114583,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "fu ",
+          "startMs": 114583,
+          "endMs": 114687,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "tsu ",
+          "startMs": 114688,
+          "endMs": 114743,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "u ",
+          "startMs": 114744,
+          "endMs": 114799,
+          "sourceOffset": 18,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "wa ",
+          "startMs": 114800,
+          "endMs": 114904,
+          "sourceOffset": 20,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "fu ",
+          "startMs": 114904,
+          "endMs": 115008,
+          "sourceOffset": 23,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "tsu ",
+          "startMs": 115009,
+          "endMs": 115064,
+          "sourceOffset": 26,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "u ",
+          "startMs": 115065,
+          "endMs": 115120,
+          "sourceOffset": 30,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "ja ",
+          "startMs": 115121,
+          "endMs": 115172,
+          "sourceOffset": 32,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "na ",
+          "startMs": 115223,
+          "endMs": 115335,
+          "sourceOffset": 35,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "i ",
+          "startMs": 115336,
+          "endMs": 115405,
+          "sourceOffset": 38,
+          "sourcePartIndex": 13
+        }
+      ]
+    },
+    {
+      "id": "roma.json-062",
+      "startMs": 115406,
+      "endMs": 115574,
+      "text": "de mo ",
+      "parts": [
+        {
+          "text": "de ",
+          "startMs": 115406,
+          "endMs": 115502,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "mo ",
+          "startMs": 115502,
+          "endMs": 115719,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "roma.json-063",
+      "startMs": 115720,
+      "endMs": 116792,
+      "text": "ki mi no se ka i ni u tsu ri ko n de mi ta i ",
+      "parts": [
+        {
+          "text": "ki ",
+          "startMs": 115720,
+          "endMs": 115796,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "mi ",
+          "startMs": 115796,
+          "endMs": 115873,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "no ",
+          "startMs": 115873,
+          "endMs": 115949,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "se ",
+          "startMs": 115949,
+          "endMs": 116026,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ka ",
+          "startMs": 116026,
+          "endMs": 116064,
+          "sourceOffset": 12,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "i ",
+          "startMs": 116064,
+          "endMs": 116102,
+          "sourceOffset": 15,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ni ",
+          "startMs": 116102,
+          "endMs": 116179,
+          "sourceOffset": 17,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "u ",
+          "startMs": 116179,
+          "endMs": 116217,
+          "sourceOffset": 20,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "tsu ",
+          "startMs": 116217,
+          "endMs": 116256,
+          "sourceOffset": 22,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "ri ",
+          "startMs": 116256,
+          "endMs": 116332,
+          "sourceOffset": 26,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "ko ",
+          "startMs": 116332,
+          "endMs": 116409,
+          "sourceOffset": 29,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "n ",
+          "startMs": 116409,
+          "endMs": 116485,
+          "sourceOffset": 32,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "de ",
+          "startMs": 116485,
+          "endMs": 116562,
+          "sourceOffset": 34,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "mi ",
+          "startMs": 116562,
+          "endMs": 116638,
+          "sourceOffset": 37,
+          "sourcePartIndex": 13
+        },
+        {
+          "text": "ta ",
+          "startMs": 116638,
+          "endMs": 116715,
+          "sourceOffset": 40,
+          "sourcePartIndex": 14
+        },
+        {
+          "text": "i ",
+          "startMs": 116715,
+          "endMs": 116792,
+          "sourceOffset": 43,
+          "sourcePartIndex": 15
+        }
+      ]
+    },
+    {
+      "id": "roma.json-064",
+      "startMs": 116792,
+      "endMs": 117992,
+      "text": "ko no ki mo chi ta bu n u so ja na i ",
+      "parts": [
+        {
+          "text": "ko ",
+          "startMs": 116792,
+          "endMs": 116892,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "no ",
+          "startMs": 116892,
+          "endMs": 116992,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ki ",
+          "startMs": 116992,
+          "endMs": 117092,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "mo ",
+          "startMs": 117092,
+          "endMs": 117192,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "chi ",
+          "startMs": 117192,
+          "endMs": 117292,
+          "sourceOffset": 12,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ta ",
+          "startMs": 117292,
+          "endMs": 117392,
+          "sourceOffset": 16,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "bu ",
+          "startMs": 117392,
+          "endMs": 117442,
+          "sourceOffset": 19,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "n ",
+          "startMs": 117442,
+          "endMs": 117492,
+          "sourceOffset": 22,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "u ",
+          "startMs": 117492,
+          "endMs": 117542,
+          "sourceOffset": 24,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "so ",
+          "startMs": 117542,
+          "endMs": 117592,
+          "sourceOffset": 26,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "ja ",
+          "startMs": 117592,
+          "endMs": 117691,
+          "sourceOffset": 29,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "na ",
+          "startMs": 117792,
+          "endMs": 117892,
+          "sourceOffset": 32,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "i ",
+          "startMs": 117892,
+          "endMs": 117992,
+          "sourceOffset": 35,
+          "sourcePartIndex": 12
+        }
+      ]
+    },
+    {
+      "id": "roma.json-065",
+      "startMs": 117992,
+      "endMs": 119384,
+      "text": "de mo de mo ya 'p pa mu ri de su ko wa i de su ",
+      "parts": [
+        {
+          "text": "de ",
+          "startMs": 117992,
+          "endMs": 118084,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "mo ",
+          "startMs": 118084,
+          "endMs": 118177,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "de ",
+          "startMs": 118177,
+          "endMs": 118270,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "mo ",
+          "startMs": 118270,
+          "endMs": 118363,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ya ",
+          "startMs": 118363,
+          "endMs": 118456,
+          "sourceOffset": 12,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "'p ",
+          "startMs": 118456,
+          "endMs": 118548,
+          "sourceOffset": 15,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "pa ",
+          "startMs": 118548,
+          "endMs": 118641,
+          "sourceOffset": 18,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "mu ",
+          "startMs": 118641,
+          "endMs": 118734,
+          "sourceOffset": 21,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "ri ",
+          "startMs": 118734,
+          "endMs": 118827,
+          "sourceOffset": 24,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "de ",
+          "startMs": 118827,
+          "endMs": 118920,
+          "sourceOffset": 27,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "su ",
+          "startMs": 118920,
+          "endMs": 119012,
+          "sourceOffset": 30,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "ko ",
+          "startMs": 119012,
+          "endMs": 119058,
+          "sourceOffset": 33,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "wa ",
+          "startMs": 119058,
+          "endMs": 119105,
+          "sourceOffset": 36,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "i ",
+          "startMs": 119105,
+          "endMs": 119198,
+          "sourceOffset": 39,
+          "sourcePartIndex": 13
+        },
+        {
+          "text": "de ",
+          "startMs": 119198,
+          "endMs": 119291,
+          "sourceOffset": 41,
+          "sourcePartIndex": 14
+        },
+        {
+          "text": "su ",
+          "startMs": 119291,
+          "endMs": 119384,
+          "sourceOffset": 44,
+          "sourcePartIndex": 15
+        }
+      ]
+    },
+    {
+      "id": "roma.json-066",
+      "startMs": 119384,
+      "endMs": 120139,
+      "text": "de mo de mo de mo ",
+      "parts": [
+        {
+          "text": "de ",
+          "startMs": 119384,
+          "endMs": 119500,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "mo ",
+          "startMs": 119500,
+          "endMs": 119616,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "de ",
+          "startMs": 119616,
+          "endMs": 119732,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "mo ",
+          "startMs": 119732,
+          "endMs": 119848,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "de ",
+          "startMs": 119848,
+          "endMs": 119964,
+          "sourceOffset": 12,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "mo ",
+          "startMs": 119964,
+          "endMs": 120139,
+          "sourceOffset": 15,
+          "sourcePartIndex": 5
+        }
+      ]
+    },
+    {
+      "id": "roma.json-067",
+      "startMs": 120139,
+      "endMs": 121458,
+      "text": "ya 'p pa a ki ra me ki re na i de su ",
+      "parts": [
+        {
+          "text": "ya ",
+          "startMs": 120139,
+          "endMs": 120202,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "'p ",
+          "startMs": 120203,
+          "endMs": 120266,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "pa ",
+          "startMs": 120267,
+          "endMs": 120371,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "a ",
+          "startMs": 120372,
+          "endMs": 120459,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ki ",
+          "startMs": 120459,
+          "endMs": 120570,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ra ",
+          "startMs": 120571,
+          "endMs": 120675,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "me ",
+          "startMs": 120676,
+          "endMs": 120787,
+          "sourceOffset": 17,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "ki ",
+          "startMs": 120788,
+          "endMs": 120884,
+          "sourceOffset": 20,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "re ",
+          "startMs": 120884,
+          "endMs": 120995,
+          "sourceOffset": 23,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "na ",
+          "startMs": 120996,
+          "endMs": 121099,
+          "sourceOffset": 26,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "i ",
+          "startMs": 121099,
+          "endMs": 121219,
+          "sourceOffset": 29,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "de ",
+          "startMs": 121220,
+          "endMs": 121316,
+          "sourceOffset": 31,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "su ",
+          "startMs": 121316,
+          "endMs": 121458,
+          "sourceOffset": 34,
+          "sourcePartIndex": 12
+        }
+      ]
+    },
+    {
+      "id": "roma.json-068",
+      "startMs": 123400,
+      "endMs": 125727,
+      "text": "ka ge 't te ba 'k ka na ko no ko ko ro ",
+      "parts": [
+        {
+          "text": "ka ",
+          "startMs": 123400,
+          "endMs": 123554,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "ge ",
+          "startMs": 123554,
+          "endMs": 123708,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "'t ",
+          "startMs": 123708,
+          "endMs": 123864,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "te ",
+          "startMs": 123864,
+          "endMs": 124016,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ba ",
+          "startMs": 124016,
+          "endMs": 124264,
+          "sourceOffset": 12,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "'k ",
+          "startMs": 124264,
+          "endMs": 124512,
+          "sourceOffset": 15,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ka ",
+          "startMs": 124512,
+          "endMs": 124681,
+          "sourceOffset": 18,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "na ",
+          "startMs": 124681,
+          "endMs": 124856,
+          "sourceOffset": 21,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "ko ",
+          "startMs": 124856,
+          "endMs": 125024,
+          "sourceOffset": 24,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "no ",
+          "startMs": 125024,
+          "endMs": 125197,
+          "sourceOffset": 27,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "ko ",
+          "startMs": 125197,
+          "endMs": 125344,
+          "sourceOffset": 30,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "ko ",
+          "startMs": 125344,
+          "endMs": 125504,
+          "sourceOffset": 33,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "ro ",
+          "startMs": 125504,
+          "endMs": 125727,
+          "sourceOffset": 36,
+          "sourcePartIndex": 12
+        }
+      ]
+    },
+    {
+      "id": "roma.json-069",
+      "startMs": 125727,
+      "endMs": 126895,
+      "text": "so n na ji bu n ni ",
+      "parts": [
+        {
+          "text": "so ",
+          "startMs": 125727,
+          "endMs": 125911,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "n ",
+          "startMs": 125911,
+          "endMs": 126095,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "na ",
+          "startMs": 126096,
+          "endMs": 126288,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ji ",
+          "startMs": 126288,
+          "endMs": 126423,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "bu ",
+          "startMs": 126423,
+          "endMs": 126551,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "n ",
+          "startMs": 126551,
+          "endMs": 126679,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ni ",
+          "startMs": 126679,
+          "endMs": 126895,
+          "sourceOffset": 16,
+          "sourcePartIndex": 6
+        }
+      ]
+    },
+    {
+      "id": "roma.json-070",
+      "startMs": 126895,
+      "endMs": 128691,
+      "text": "a i te i ta n da zu 't to ",
+      "parts": [
+        {
+          "text": "a ",
+          "startMs": 126895,
+          "endMs": 127063,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "i ",
+          "startMs": 127063,
+          "endMs": 127280,
+          "sourceOffset": 2,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "te ",
+          "startMs": 127280,
+          "endMs": 127416,
+          "sourceOffset": 4,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "i ",
+          "startMs": 127416,
+          "endMs": 127552,
+          "sourceOffset": 7,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ta ",
+          "startMs": 127552,
+          "endMs": 127696,
+          "sourceOffset": 9,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "n ",
+          "startMs": 127696,
+          "endMs": 127840,
+          "sourceOffset": 12,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "da ",
+          "startMs": 127840,
+          "endMs": 128024,
+          "sourceOffset": 14,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "zu ",
+          "startMs": 128024,
+          "endMs": 128248,
+          "sourceOffset": 17,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "'t ",
+          "startMs": 128247,
+          "endMs": 128471,
+          "sourceOffset": 20,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "to ",
+          "startMs": 128472,
+          "endMs": 128691,
+          "sourceOffset": 23,
+          "sourcePartIndex": 9
+        }
+      ]
+    },
+    {
+      "id": "roma.json-071",
+      "startMs": 128842,
+      "endMs": 130242,
+      "text": "i n sa i yo u sa i to bi ko e ta ",
+      "parts": [
+        {
+          "text": "i ",
+          "startMs": 128842,
+          "endMs": 128906,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "n ",
+          "startMs": 128907,
+          "endMs": 128971,
+          "sourceOffset": 2,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "sa ",
+          "startMs": 128971,
+          "endMs": 129146,
+          "sourceOffset": 4,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "i ",
+          "startMs": 129145,
+          "endMs": 129274,
+          "sourceOffset": 7,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "yo ",
+          "startMs": 129275,
+          "endMs": 129323,
+          "sourceOffset": 9,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "u ",
+          "startMs": 129323,
+          "endMs": 129371,
+          "sourceOffset": 12,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "sa ",
+          "startMs": 129371,
+          "endMs": 129482,
+          "sourceOffset": 14,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "i ",
+          "startMs": 129482,
+          "endMs": 129611,
+          "sourceOffset": 17,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "to ",
+          "startMs": 129610,
+          "endMs": 129722,
+          "sourceOffset": 19,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "bi ",
+          "startMs": 129723,
+          "endMs": 129827,
+          "sourceOffset": 22,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "ko ",
+          "startMs": 129827,
+          "endMs": 129938,
+          "sourceOffset": 25,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "e ",
+          "startMs": 129937,
+          "endMs": 130049,
+          "sourceOffset": 28,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "ta ",
+          "startMs": 130050,
+          "endMs": 130243,
+          "sourceOffset": 30,
+          "sourcePartIndex": 12
+        }
+      ]
+    },
+    {
+      "id": "roma.json-072",
+      "startMs": 130243,
+      "endMs": 132905,
+      "text": "wa ta shi no shi n ka ro n ",
+      "parts": [
+        {
+          "text": "wa ",
+          "startMs": 130243,
+          "endMs": 130403,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "ta ",
+          "startMs": 130402,
+          "endMs": 130561,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "shi ",
+          "startMs": 130562,
+          "endMs": 130723,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "no ",
+          "startMs": 130723,
+          "endMs": 130835,
+          "sourceOffset": 10,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "shi ",
+          "startMs": 130835,
+          "endMs": 130963,
+          "sourceOffset": 13,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "n ",
+          "startMs": 130963,
+          "endMs": 131091,
+          "sourceOffset": 17,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ka ",
+          "startMs": 131091,
+          "endMs": 131258,
+          "sourceOffset": 19,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "ro ",
+          "startMs": 131258,
+          "endMs": 131778,
+          "sourceOffset": 22,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "n ",
+          "startMs": 131778,
+          "endMs": 132904,
+          "sourceOffset": 25,
+          "sourcePartIndex": 8
+        }
+      ]
+    },
+    {
+      "id": "roma.json-073",
+      "startMs": 133023,
+      "endMs": 136348,
+      "text": "ze n bu to 'c cha i ta i  ko no ta gu mo ",
+      "parts": [
+        {
+          "text": "ze ",
+          "startMs": 133023,
+          "endMs": 133179,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "n ",
+          "startMs": 133179,
+          "endMs": 133335,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "bu ",
+          "startMs": 133335,
+          "endMs": 133495,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "to ",
+          "startMs": 133495,
+          "endMs": 133651,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "'c ",
+          "startMs": 133651,
+          "endMs": 133807,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "cha ",
+          "startMs": 133807,
+          "endMs": 133958,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "i ",
+          "startMs": 134111,
+          "endMs": 134247,
+          "sourceOffset": 18,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "ta ",
+          "startMs": 134247,
+          "endMs": 134650,
+          "sourceOffset": 20,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "i ",
+          "startMs": 134650,
+          "endMs": 134977,
+          "sourceOffset": 23,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": " ",
+          "startMs": 134977,
+          "endMs": 134977,
+          "sourceOffset": 25,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "ko ",
+          "startMs": 135225,
+          "endMs": 135385,
+          "sourceOffset": 26,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "no ",
+          "startMs": 135385,
+          "endMs": 135745,
+          "sourceOffset": 29,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "ta ",
+          "startMs": 135745,
+          "endMs": 135898,
+          "sourceOffset": 32,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "gu ",
+          "startMs": 135898,
+          "endMs": 136129,
+          "sourceOffset": 35,
+          "sourcePartIndex": 13
+        },
+        {
+          "text": "mo ",
+          "startMs": 136129,
+          "endMs": 136348,
+          "sourceOffset": 38,
+          "sourcePartIndex": 14
+        }
+      ]
+    },
+    {
+      "id": "roma.json-074",
+      "startMs": 136348,
+      "endMs": 137954,
+      "text": "ko no ki ma 'c cha i so u na ",
+      "parts": [
+        {
+          "text": "ko ",
+          "startMs": 136348,
+          "endMs": 136492,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "no ",
+          "startMs": 136492,
+          "endMs": 136645,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ki ",
+          "startMs": 136645,
+          "endMs": 136806,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ma ",
+          "startMs": 136806,
+          "endMs": 136993,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "'c ",
+          "startMs": 136993,
+          "endMs": 137180,
+          "sourceOffset": 12,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "cha ",
+          "startMs": 137181,
+          "endMs": 137256,
+          "sourceOffset": 15,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "i ",
+          "startMs": 137333,
+          "endMs": 137508,
+          "sourceOffset": 19,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "so ",
+          "startMs": 137508,
+          "endMs": 137652,
+          "sourceOffset": 21,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "u ",
+          "startMs": 137652,
+          "endMs": 137796,
+          "sourceOffset": 24,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "na ",
+          "startMs": 137797,
+          "endMs": 137954,
+          "sourceOffset": 26,
+          "sourcePartIndex": 9
+        }
+      ]
+    },
+    {
+      "id": "roma.json-075",
+      "startMs": 137954,
+      "endMs": 139313,
+      "text": "re e ru jo u mo ",
+      "parts": [
+        {
+          "text": "re ",
+          "startMs": 137954,
+          "endMs": 138174,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "e ",
+          "startMs": 138174,
+          "endMs": 138394,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ru ",
+          "startMs": 138394,
+          "endMs": 138570,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "jo ",
+          "startMs": 138570,
+          "endMs": 138721,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "u ",
+          "startMs": 138874,
+          "endMs": 139027,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "mo ",
+          "startMs": 139027,
+          "endMs": 139313,
+          "sourceOffset": 13,
+          "sourcePartIndex": 5
+        }
+      ]
+    },
+    {
+      "id": "roma.json-076",
+      "startMs": 139313,
+      "endMs": 142132,
+      "text": "a to ni mo sa ki ni mo i 'k ka i ka gi ri no ",
+      "parts": [
+        {
+          "text": "a ",
+          "startMs": 139313,
+          "endMs": 139513,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "to ",
+          "startMs": 139513,
+          "endMs": 139681,
+          "sourceOffset": 2,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ni ",
+          "startMs": 139681,
+          "endMs": 139969,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "mo ",
+          "startMs": 139969,
+          "endMs": 140193,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "sa ",
+          "startMs": 140193,
+          "endMs": 140357,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ki ",
+          "startMs": 140357,
+          "endMs": 140521,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ni ",
+          "startMs": 140521,
+          "endMs": 140649,
+          "sourceOffset": 17,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "mo ",
+          "startMs": 140649,
+          "endMs": 140841,
+          "sourceOffset": 20,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "i ",
+          "startMs": 140841,
+          "endMs": 140989,
+          "sourceOffset": 23,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "'k ",
+          "startMs": 140989,
+          "endMs": 141137,
+          "sourceOffset": 25,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "ka ",
+          "startMs": 141137,
+          "endMs": 141281,
+          "sourceOffset": 28,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "i ",
+          "startMs": 141281,
+          "endMs": 141505,
+          "sourceOffset": 31,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "ka ",
+          "startMs": 141505,
+          "endMs": 141689,
+          "sourceOffset": 33,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "gi ",
+          "startMs": 141689,
+          "endMs": 141841,
+          "sourceOffset": 36,
+          "sourcePartIndex": 13
+        },
+        {
+          "text": "ri ",
+          "startMs": 141841,
+          "endMs": 142065,
+          "sourceOffset": 39,
+          "sourcePartIndex": 14
+        },
+        {
+          "text": "no ",
+          "startMs": 142065,
+          "endMs": 142132,
+          "sourceOffset": 42,
+          "sourcePartIndex": 15
+        }
+      ]
+    },
+    {
+      "id": "roma.json-077",
+      "startMs": 142132,
+      "endMs": 145494,
+      "text": "ko no ha ru wo ma da yu re ta i ",
+      "parts": [
+        {
+          "text": "ko ",
+          "startMs": 142132,
+          "endMs": 142268,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "no ",
+          "startMs": 142268,
+          "endMs": 142604,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ha ",
+          "startMs": 142604,
+          "endMs": 142764,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ru ",
+          "startMs": 142764,
+          "endMs": 143052,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "wo ",
+          "startMs": 143052,
+          "endMs": 143228,
+          "sourceOffset": 12,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ma ",
+          "startMs": 143228,
+          "endMs": 143388,
+          "sourceOffset": 15,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "da ",
+          "startMs": 143388,
+          "endMs": 144260,
+          "sourceOffset": 18,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "yu ",
+          "startMs": 144260,
+          "endMs": 144436,
+          "sourceOffset": 21,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "re ",
+          "startMs": 144436,
+          "endMs": 144660,
+          "sourceOffset": 24,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "ta ",
+          "startMs": 144660,
+          "endMs": 145215,
+          "sourceOffset": 27,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "i ",
+          "startMs": 145215,
+          "endMs": 145494,
+          "sourceOffset": 30,
+          "sourcePartIndex": 10
+        }
+      ]
+    },
+    {
+      "id": "roma.json-078",
+      "startMs": 145734,
+      "endMs": 149241,
+      "text": "hi mo ka ge mo  ze n ryo ku de mo ga i te i ko u ze ",
+      "parts": [
+        {
+          "text": "hi ",
+          "startMs": 145734,
+          "endMs": 145886,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "mo ",
+          "startMs": 145886,
+          "endMs": 146198,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ka ",
+          "startMs": 146198,
+          "endMs": 146366,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ge ",
+          "startMs": 146366,
+          "endMs": 146534,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "mo ",
+          "startMs": 146534,
+          "endMs": 146756,
+          "sourceOffset": 12,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": " ",
+          "startMs": 146756,
+          "endMs": 146756,
+          "sourceOffset": 15,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ze ",
+          "startMs": 146916,
+          "endMs": 147068,
+          "sourceOffset": 16,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "n ",
+          "startMs": 147068,
+          "endMs": 147220,
+          "sourceOffset": 19,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "ryo ",
+          "startMs": 147220,
+          "endMs": 147295,
+          "sourceOffset": 21,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "ku ",
+          "startMs": 147372,
+          "endMs": 147820,
+          "sourceOffset": 25,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "de ",
+          "startMs": 147820,
+          "endMs": 148028,
+          "sourceOffset": 28,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "mo ",
+          "startMs": 148028,
+          "endMs": 148212,
+          "sourceOffset": 31,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "ga ",
+          "startMs": 148212,
+          "endMs": 148364,
+          "sourceOffset": 34,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "i ",
+          "startMs": 148364,
+          "endMs": 148620,
+          "sourceOffset": 37,
+          "sourcePartIndex": 13
+        },
+        {
+          "text": "te ",
+          "startMs": 148620,
+          "endMs": 148704,
+          "sourceOffset": 39,
+          "sourcePartIndex": 14
+        },
+        {
+          "text": "i ",
+          "startMs": 148704,
+          "endMs": 148788,
+          "sourceOffset": 42,
+          "sourcePartIndex": 15
+        },
+        {
+          "text": "ko ",
+          "startMs": 148788,
+          "endMs": 148896,
+          "sourceOffset": 44,
+          "sourcePartIndex": 16
+        },
+        {
+          "text": "u ",
+          "startMs": 148896,
+          "endMs": 149004,
+          "sourceOffset": 47,
+          "sourcePartIndex": 17
+        },
+        {
+          "text": "ze ",
+          "startMs": 149004,
+          "endMs": 149241,
+          "sourceOffset": 49,
+          "sourcePartIndex": 18
+        }
+      ]
+    },
+    {
+      "id": "roma.json-079",
+      "startMs": 149241,
+      "endMs": 151771,
+      "text": "a  ko no ka ge ga a ru ka ra ",
+      "parts": [
+        {
+          "text": "a ",
+          "startMs": 149241,
+          "endMs": 149355,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": " ",
+          "startMs": 149470,
+          "endMs": 149584,
+          "sourceOffset": 2,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ko ",
+          "startMs": 149585,
+          "endMs": 149729,
+          "sourceOffset": 3,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "no ",
+          "startMs": 149729,
+          "endMs": 149913,
+          "sourceOffset": 6,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ka ",
+          "startMs": 149913,
+          "endMs": 150089,
+          "sourceOffset": 9,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ge ",
+          "startMs": 150089,
+          "endMs": 150385,
+          "sourceOffset": 12,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ga ",
+          "startMs": 150385,
+          "endMs": 150537,
+          "sourceOffset": 15,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "a ",
+          "startMs": 150537,
+          "endMs": 150793,
+          "sourceOffset": 18,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "ru ",
+          "startMs": 150793,
+          "endMs": 150961,
+          "sourceOffset": 20,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "ka ",
+          "startMs": 150961,
+          "endMs": 151105,
+          "sourceOffset": 23,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "ra ",
+          "startMs": 151105,
+          "endMs": 151771,
+          "sourceOffset": 26,
+          "sourcePartIndex": 10
+        }
+      ]
+    },
+    {
+      "id": "roma.json-080",
+      "startMs": 151894,
+      "endMs": 155423,
+      "text": "ki mi no hi no a ta ta ka sa ga wa ka ru ",
+      "parts": [
+        {
+          "text": "ki ",
+          "startMs": 151894,
+          "endMs": 152022,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "mi ",
+          "startMs": 152022,
+          "endMs": 152135,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "no ",
+          "startMs": 152135,
+          "endMs": 152310,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "hi ",
+          "startMs": 152310,
+          "endMs": 152479,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "no ",
+          "startMs": 152479,
+          "endMs": 152614,
+          "sourceOffset": 12,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "a ",
+          "startMs": 152614,
+          "endMs": 152742,
+          "sourceOffset": 15,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ta ",
+          "startMs": 152742,
+          "endMs": 153094,
+          "sourceOffset": 17,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "ta ",
+          "startMs": 153094,
+          "endMs": 153246,
+          "sourceOffset": 20,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "ka ",
+          "startMs": 153246,
+          "endMs": 153670,
+          "sourceOffset": 23,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "sa ",
+          "startMs": 153670,
+          "endMs": 153830,
+          "sourceOffset": 26,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "ga ",
+          "startMs": 153830,
+          "endMs": 154630,
+          "sourceOffset": 29,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "wa ",
+          "startMs": 154630,
+          "endMs": 154838,
+          "sourceOffset": 32,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "ka ",
+          "startMs": 154838,
+          "endMs": 154990,
+          "sourceOffset": 35,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "ru ",
+          "startMs": 154990,
+          "endMs": 155423,
+          "sourceOffset": 38,
+          "sourcePartIndex": 13
+        }
+      ]
+    },
+    {
+      "id": "roma.json-081",
+      "startMs": 155423,
+      "endMs": 157864,
+      "text": "mu ri mu ri  mu ri mu ri  na n te ",
+      "parts": [
+        {
+          "text": "mu ",
+          "startMs": 155423,
+          "endMs": 155583,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "ri ",
+          "startMs": 155583,
+          "endMs": 155831,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "mu ",
+          "startMs": 155831,
+          "endMs": 155983,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ri ",
+          "startMs": 155983,
+          "endMs": 156359,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": " ",
+          "startMs": 156359,
+          "endMs": 156359,
+          "sourceOffset": 12,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "mu ",
+          "startMs": 156359,
+          "endMs": 156495,
+          "sourceOffset": 13,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ri ",
+          "startMs": 156495,
+          "endMs": 156767,
+          "sourceOffset": 16,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "mu ",
+          "startMs": 156767,
+          "endMs": 156919,
+          "sourceOffset": 19,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "ri ",
+          "startMs": 156919,
+          "endMs": 157343,
+          "sourceOffset": 22,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": " ",
+          "startMs": 157343,
+          "endMs": 157343,
+          "sourceOffset": 25,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "na ",
+          "startMs": 157343,
+          "endMs": 157479,
+          "sourceOffset": 26,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "n ",
+          "startMs": 157479,
+          "endMs": 157615,
+          "sourceOffset": 29,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "te ",
+          "startMs": 157615,
+          "endMs": 157864,
+          "sourceOffset": 31,
+          "sourcePartIndex": 12
+        }
+      ]
+    },
+    {
+      "id": "roma.json-082",
+      "startMs": 157864,
+      "endMs": 160792,
+      "text": "ni ge ru ni wa mi ji ka su gi ru wa n ra i fu ",
+      "parts": [
+        {
+          "text": "ni ",
+          "startMs": 157864,
+          "endMs": 158017,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "ge ",
+          "startMs": 158017,
+          "endMs": 158208,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ru ",
+          "startMs": 158208,
+          "endMs": 158528,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ni ",
+          "startMs": 158528,
+          "endMs": 158680,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "wa ",
+          "startMs": 158680,
+          "endMs": 158960,
+          "sourceOffset": 12,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "mi ",
+          "startMs": 158960,
+          "endMs": 159176,
+          "sourceOffset": 15,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ji ",
+          "startMs": 159176,
+          "endMs": 159488,
+          "sourceOffset": 18,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "ka ",
+          "startMs": 159488,
+          "endMs": 159680,
+          "sourceOffset": 21,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "su ",
+          "startMs": 159680,
+          "endMs": 159832,
+          "sourceOffset": 24,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "gi ",
+          "startMs": 159832,
+          "endMs": 159969,
+          "sourceOffset": 27,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "ru ",
+          "startMs": 159969,
+          "endMs": 160104,
+          "sourceOffset": 30,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "wa ",
+          "startMs": 160104,
+          "endMs": 160224,
+          "sourceOffset": 33,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "n ",
+          "startMs": 160224,
+          "endMs": 160344,
+          "sourceOffset": 36,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "ra ",
+          "startMs": 160344,
+          "endMs": 160480,
+          "sourceOffset": 38,
+          "sourcePartIndex": 13
+        },
+        {
+          "text": "i ",
+          "startMs": 160480,
+          "endMs": 160624,
+          "sourceOffset": 41,
+          "sourcePartIndex": 14
+        },
+        {
+          "text": "fu ",
+          "startMs": 160624,
+          "endMs": 160792,
+          "sourceOffset": 43,
+          "sourcePartIndex": 15
+        }
+      ]
+    },
+    {
+      "id": "roma.json-083",
+      "startMs": 160792,
+      "endMs": 162078,
+      "text": "ki mi ni mu ke ru ha a to ko so ",
+      "parts": [
+        {
+          "text": "ki ",
+          "startMs": 160792,
+          "endMs": 160968,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "mi ",
+          "startMs": 160968,
+          "endMs": 161160,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ni ",
+          "startMs": 161160,
+          "endMs": 161312,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "mu ",
+          "startMs": 161312,
+          "endMs": 161432,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ke ",
+          "startMs": 161432,
+          "endMs": 161528,
+          "sourceOffset": 12,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ru ",
+          "startMs": 161528,
+          "endMs": 161648,
+          "sourceOffset": 15,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ha ",
+          "startMs": 161648,
+          "endMs": 161704,
+          "sourceOffset": 18,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "a ",
+          "startMs": 161704,
+          "endMs": 161760,
+          "sourceOffset": 21,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "to ",
+          "startMs": 161760,
+          "endMs": 161880,
+          "sourceOffset": 23,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "ko ",
+          "startMs": 161880,
+          "endMs": 161992,
+          "sourceOffset": 26,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "so ",
+          "startMs": 161992,
+          "endMs": 162078,
+          "sourceOffset": 29,
+          "sourcePartIndex": 10
+        }
+      ]
+    },
+    {
+      "id": "roma.json-084",
+      "startMs": 162078,
+      "endMs": 163142,
+      "text": "ta i yo u da 't ta ",
+      "parts": [
+        {
+          "text": "ta ",
+          "startMs": 162078,
+          "endMs": 162238,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "i ",
+          "startMs": 162238,
+          "endMs": 162398,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "yo ",
+          "startMs": 162398,
+          "endMs": 162482,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "u ",
+          "startMs": 162482,
+          "endMs": 162566,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "da ",
+          "startMs": 162566,
+          "endMs": 162698,
+          "sourceOffset": 10,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "'t ",
+          "startMs": 162698,
+          "endMs": 162830,
+          "sourceOffset": 13,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ta ",
+          "startMs": 162830,
+          "endMs": 163142,
+          "sourceOffset": 16,
+          "sourcePartIndex": 6
+        }
+      ]
+    },
+    {
+      "id": "roma.json-085",
+      "startMs": 163142,
+      "endMs": 166055,
+      "text": "ko n na do ki do ki i ma shi ka '( ( mu ri mu ri ) ",
+      "parts": [
+        {
+          "text": "ko ",
+          "startMs": 163142,
+          "endMs": 163226,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "n ",
+          "startMs": 163226,
+          "endMs": 163310,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "na ",
+          "startMs": 163310,
+          "endMs": 163526,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "do ",
+          "startMs": 163526,
+          "endMs": 163726,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ki ",
+          "startMs": 163726,
+          "endMs": 163886,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "do ",
+          "startMs": 163886,
+          "endMs": 164021,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ki ",
+          "startMs": 164021,
+          "endMs": 164342,
+          "sourceOffset": 17,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "i ",
+          "startMs": 164342,
+          "endMs": 164518,
+          "sourceOffset": 20,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "ma ",
+          "startMs": 164518,
+          "endMs": 164854,
+          "sourceOffset": 22,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "shi ",
+          "startMs": 164854,
+          "endMs": 165054,
+          "sourceOffset": 25,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "ka ",
+          "startMs": 165054,
+          "endMs": 165144,
+          "sourceOffset": 29,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "'( ",
+          "startMs": 165145,
+          "endMs": 165235,
+          "sourceOffset": 32,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "( ",
+          "startMs": 165235,
+          "endMs": 165325,
+          "sourceOffset": 35,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "mu ",
+          "startMs": 165326,
+          "endMs": 165494,
+          "sourceOffset": 37,
+          "sourcePartIndex": 13
+        },
+        {
+          "text": "ri ",
+          "startMs": 165494,
+          "endMs": 165662,
+          "sourceOffset": 40,
+          "sourcePartIndex": 14
+        },
+        {
+          "text": "mu ",
+          "startMs": 165662,
+          "endMs": 165782,
+          "sourceOffset": 43,
+          "sourcePartIndex": 15
+        },
+        {
+          "text": "ri ",
+          "startMs": 165782,
+          "endMs": 165982,
+          "sourceOffset": 46,
+          "sourcePartIndex": 16
+        },
+        {
+          "text": ") ",
+          "startMs": 165982,
+          "endMs": 166055,
+          "sourceOffset": 49,
+          "sourcePartIndex": 17
+        }
+      ]
+    },
+    {
+      "id": "roma.json-086",
+      "startMs": 166055,
+      "endMs": 168594,
+      "text": "hi mi tsu ri  tsu mi a ge ta o mo i to ka ",
+      "parts": [
+        {
+          "text": "hi ",
+          "startMs": 166055,
+          "endMs": 166213,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "mi ",
+          "startMs": 166213,
+          "endMs": 166486,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "tsu ",
+          "startMs": 166486,
+          "endMs": 166628,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ri ",
+          "startMs": 166628,
+          "endMs": 166965,
+          "sourceOffset": 10,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": " ",
+          "startMs": 166965,
+          "endMs": 166965,
+          "sourceOffset": 13,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "tsu ",
+          "startMs": 166965,
+          "endMs": 167093,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "mi ",
+          "startMs": 167093,
+          "endMs": 167428,
+          "sourceOffset": 18,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "a ",
+          "startMs": 167428,
+          "endMs": 167621,
+          "sourceOffset": 21,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "ge ",
+          "startMs": 167621,
+          "endMs": 167781,
+          "sourceOffset": 23,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "ta ",
+          "startMs": 167781,
+          "endMs": 167956,
+          "sourceOffset": 26,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "o ",
+          "startMs": 167956,
+          "endMs": 168105,
+          "sourceOffset": 29,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "mo ",
+          "startMs": 168105,
+          "endMs": 168254,
+          "sourceOffset": 31,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "i ",
+          "startMs": 168254,
+          "endMs": 168405,
+          "sourceOffset": 34,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "to ",
+          "startMs": 168405,
+          "endMs": 168532,
+          "sourceOffset": 36,
+          "sourcePartIndex": 13
+        },
+        {
+          "text": "ka ",
+          "startMs": 168532,
+          "endMs": 168594,
+          "sourceOffset": 39,
+          "sourcePartIndex": 14
+        }
+      ]
+    },
+    {
+      "id": "roma.json-087",
+      "startMs": 168594,
+      "endMs": 171112,
+      "text": "ki mi ni tsu ta e ta ri na i n da ma da ",
+      "parts": [
+        {
+          "text": "ki ",
+          "startMs": 168594,
+          "endMs": 168738,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "mi ",
+          "startMs": 168738,
+          "endMs": 169020,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ni ",
+          "startMs": 169020,
+          "endMs": 169186,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "tsu ",
+          "startMs": 169186,
+          "endMs": 169318,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ta ",
+          "startMs": 169318,
+          "endMs": 169450,
+          "sourceOffset": 13,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "e ",
+          "startMs": 169450,
+          "endMs": 169658,
+          "sourceOffset": 16,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ta ",
+          "startMs": 169658,
+          "endMs": 169810,
+          "sourceOffset": 18,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "ri ",
+          "startMs": 169810,
+          "endMs": 170066,
+          "sourceOffset": 21,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "na ",
+          "startMs": 170066,
+          "endMs": 170241,
+          "sourceOffset": 24,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "i ",
+          "startMs": 170241,
+          "endMs": 170341,
+          "sourceOffset": 27,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "n ",
+          "startMs": 170341,
+          "endMs": 170441,
+          "sourceOffset": 29,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "da ",
+          "startMs": 170442,
+          "endMs": 170682,
+          "sourceOffset": 31,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "ma ",
+          "startMs": 170682,
+          "endMs": 170826,
+          "sourceOffset": 34,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "da ",
+          "startMs": 170826,
+          "endMs": 171112,
+          "sourceOffset": 37,
+          "sourcePartIndex": 13
+        }
+      ]
+    },
+    {
+      "id": "roma.json-088",
+      "startMs": 171340,
+      "endMs": 172573,
+      "text": "ba chi ga i na gya 'k ko u sa e ",
+      "parts": [
+        {
+          "text": "ba ",
+          "startMs": 171340,
+          "endMs": 171468,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "chi ",
+          "startMs": 171468,
+          "endMs": 171572,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ga ",
+          "startMs": 171572,
+          "endMs": 171676,
+          "sourceOffset": 7,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "i ",
+          "startMs": 171676,
+          "endMs": 171788,
+          "sourceOffset": 10,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "na ",
+          "startMs": 171788,
+          "endMs": 171932,
+          "sourceOffset": 12,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "gya ",
+          "startMs": 171932,
+          "endMs": 171980,
+          "sourceOffset": 15,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "'k ",
+          "startMs": 172028,
+          "endMs": 172077,
+          "sourceOffset": 19,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "ko ",
+          "startMs": 172077,
+          "endMs": 172188,
+          "sourceOffset": 22,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "u ",
+          "startMs": 172188,
+          "endMs": 172299,
+          "sourceOffset": 25,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "sa ",
+          "startMs": 172299,
+          "endMs": 172452,
+          "sourceOffset": 27,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "e ",
+          "startMs": 172452,
+          "endMs": 172573,
+          "sourceOffset": 30,
+          "sourcePartIndex": 10
+        }
+      ]
+    },
+    {
+      "id": "roma.json-089",
+      "startMs": 172573,
+      "endMs": 175137,
+      "text": "ki mi to chi ka zu ki ta i ",
+      "parts": [
+        {
+          "text": "ki ",
+          "startMs": 172573,
+          "endMs": 172893,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "mi ",
+          "startMs": 172893,
+          "endMs": 173220,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "to ",
+          "startMs": 173220,
+          "endMs": 173748,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "chi ",
+          "startMs": 173748,
+          "endMs": 173925,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ka ",
+          "startMs": 173925,
+          "endMs": 174181,
+          "sourceOffset": 13,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "zu ",
+          "startMs": 174181,
+          "endMs": 174381,
+          "sourceOffset": 16,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ki ",
+          "startMs": 174381,
+          "endMs": 174549,
+          "sourceOffset": 19,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "ta ",
+          "startMs": 174549,
+          "endMs": 174693,
+          "sourceOffset": 22,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "i ",
+          "startMs": 174693,
+          "endMs": 175137,
+          "sourceOffset": 25,
+          "sourcePartIndex": 8
+        }
+      ]
+    },
+    {
+      "id": "roma.json-090",
+      "startMs": 175137,
+      "endMs": 176466,
+      "text": "a wa na bi a yo u sa i ",
+      "parts": [
+        {
+          "text": "a ",
+          "startMs": 175137,
+          "endMs": 175321,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "wa ",
+          "startMs": 175321,
+          "endMs": 175489,
+          "sourceOffset": 2,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "na ",
+          "startMs": 175489,
+          "endMs": 175657,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "bi ",
+          "startMs": 175657,
+          "endMs": 175833,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "a ",
+          "startMs": 175833,
+          "endMs": 176034,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "yo ",
+          "startMs": 176034,
+          "endMs": 176157,
+          "sourceOffset": 13,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "u ",
+          "startMs": 176157,
+          "endMs": 176281,
+          "sourceOffset": 16,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "sa ",
+          "startMs": 176281,
+          "endMs": 176409,
+          "sourceOffset": 18,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "i ",
+          "startMs": 176409,
+          "endMs": 176466,
+          "sourceOffset": 21,
+          "sourcePartIndex": 8
+        }
+      ]
+    },
+    {
+      "id": "roma.json-091",
+      "startMs": 176466,
+      "endMs": 177738,
+      "text": "ma tsu ka re ta ra ",
+      "parts": [
+        {
+          "text": "ma ",
+          "startMs": 176466,
+          "endMs": 176553,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "tsu ",
+          "startMs": 176643,
+          "endMs": 176778,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ka ",
+          "startMs": 176778,
+          "endMs": 176939,
+          "sourceOffset": 7,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "re ",
+          "startMs": 176939,
+          "endMs": 177099,
+          "sourceOffset": 10,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ta ",
+          "startMs": 177099,
+          "endMs": 177218,
+          "sourceOffset": 13,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ra ",
+          "startMs": 177218,
+          "endMs": 177738,
+          "sourceOffset": 16,
+          "sourcePartIndex": 5
+        }
+      ]
+    },
+    {
+      "id": "roma.json-092",
+      "startMs": 177808,
+      "endMs": 178896,
+      "text": "u e ru ka mu tu i n sa i ",
+      "parts": [
+        {
+          "text": "u e ",
+          "startMs": 177808,
+          "endMs": 177883,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "ru ",
+          "startMs": 177960,
+          "endMs": 178073,
+          "sourceOffset": 4,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ka ",
+          "startMs": 178073,
+          "endMs": 178184,
+          "sourceOffset": 7,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "mu ",
+          "startMs": 178184,
+          "endMs": 178304,
+          "sourceOffset": 10,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "tu ",
+          "startMs": 178304,
+          "endMs": 178367,
+          "sourceOffset": 13,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "i ",
+          "startMs": 178432,
+          "endMs": 178508,
+          "sourceOffset": 16,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "n ",
+          "startMs": 178508,
+          "endMs": 178584,
+          "sourceOffset": 18,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "sa ",
+          "startMs": 178584,
+          "endMs": 178721,
+          "sourceOffset": 20,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "i ",
+          "startMs": 178721,
+          "endMs": 178896,
+          "sourceOffset": 23,
+          "sourcePartIndex": 8
+        }
+      ]
+    },
+    {
+      "id": "roma.json-093",
+      "startMs": 178896,
+      "endMs": 179584,
+      "text": "( mu ri mu ri ) ",
+      "parts": [
+        {
+          "text": "( ",
+          "startMs": 178896,
+          "endMs": 179032,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "mu ",
+          "startMs": 179032,
+          "endMs": 179160,
+          "sourceOffset": 2,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ri ",
+          "startMs": 179160,
+          "endMs": 179264,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "mu ",
+          "startMs": 179264,
+          "endMs": 179376,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ri ",
+          "startMs": 179376,
+          "endMs": 179584,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": ") ",
+          "startMs": 179584,
+          "endMs": 179584,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        }
+      ]
+    },
+    {
+      "id": "roma.json-094",
+      "startMs": 179584,
+      "endMs": 181461,
+      "text": "hi to yo hi to yo wo hi to mi de kya 'c chi ",
+      "parts": [
+        {
+          "text": "hi ",
+          "startMs": 179584,
+          "endMs": 179768,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "to ",
+          "startMs": 179768,
+          "endMs": 179928,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "yo ",
+          "startMs": 179928,
+          "endMs": 180040,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "hi ",
+          "startMs": 180040,
+          "endMs": 180144,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "to ",
+          "startMs": 180144,
+          "endMs": 180273,
+          "sourceOffset": 12,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "yo ",
+          "startMs": 180273,
+          "endMs": 180441,
+          "sourceOffset": 15,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "wo ",
+          "startMs": 180441,
+          "endMs": 180624,
+          "sourceOffset": 18,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "hi ",
+          "startMs": 180624,
+          "endMs": 180776,
+          "sourceOffset": 21,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "to ",
+          "startMs": 180776,
+          "endMs": 180928,
+          "sourceOffset": 24,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "mi ",
+          "startMs": 180928,
+          "endMs": 181081,
+          "sourceOffset": 27,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "de ",
+          "startMs": 181081,
+          "endMs": 181165,
+          "sourceOffset": 30,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "kya ",
+          "startMs": 181165,
+          "endMs": 181209,
+          "sourceOffset": 33,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "'c ",
+          "startMs": 181255,
+          "endMs": 181300,
+          "sourceOffset": 37,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "chi ",
+          "startMs": 181300,
+          "endMs": 181461,
+          "sourceOffset": 40,
+          "sourcePartIndex": 13
+        }
+      ]
+    },
+    {
+      "id": "roma.json-095",
+      "startMs": 181461,
+      "endMs": 182158,
+      "text": "( mu ri mu ri ) ",
+      "parts": [
+        {
+          "text": "( ",
+          "startMs": 181461,
+          "endMs": 181572,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "mu ",
+          "startMs": 181572,
+          "endMs": 181669,
+          "sourceOffset": 2,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ri ",
+          "startMs": 181669,
+          "endMs": 181789,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "mu ",
+          "startMs": 181789,
+          "endMs": 181917,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ri ",
+          "startMs": 181917,
+          "endMs": 182108,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": ") ",
+          "startMs": 182108,
+          "endMs": 182158,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        }
+      ]
+    },
+    {
+      "id": "roma.json-096",
+      "startMs": 182158,
+      "endMs": 184014,
+      "text": "fu ta ri i jo u de mo da i ka n ge i ",
+      "parts": [
+        {
+          "text": "fu ",
+          "startMs": 182158,
+          "endMs": 182318,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "ta ",
+          "startMs": 182318,
+          "endMs": 182438,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ri ",
+          "startMs": 182438,
+          "endMs": 182646,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "i ",
+          "startMs": 182646,
+          "endMs": 182790,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "jo ",
+          "startMs": 182790,
+          "endMs": 182840,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "u ",
+          "startMs": 182892,
+          "endMs": 182943,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "de ",
+          "startMs": 182943,
+          "endMs": 183126,
+          "sourceOffset": 16,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "mo ",
+          "startMs": 183126,
+          "endMs": 183262,
+          "sourceOffset": 19,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "da ",
+          "startMs": 183262,
+          "endMs": 183398,
+          "sourceOffset": 22,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "i ",
+          "startMs": 183398,
+          "endMs": 183582,
+          "sourceOffset": 25,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "ka ",
+          "startMs": 183582,
+          "endMs": 183694,
+          "sourceOffset": 27,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "n ",
+          "startMs": 183694,
+          "endMs": 183806,
+          "sourceOffset": 30,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "ge ",
+          "startMs": 183806,
+          "endMs": 183910,
+          "sourceOffset": 32,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "i ",
+          "startMs": 183910,
+          "endMs": 184014,
+          "sourceOffset": 35,
+          "sourcePartIndex": 13
+        }
+      ]
+    },
+    {
+      "id": "roma.json-097",
+      "startMs": 184014,
+      "endMs": 184670,
+      "text": "( mu ri mu ri ) ",
+      "parts": [
+        {
+          "text": "( ",
+          "startMs": 184014,
+          "endMs": 184142,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "mu ",
+          "startMs": 184142,
+          "endMs": 184246,
+          "sourceOffset": 2,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ri ",
+          "startMs": 184246,
+          "endMs": 184343,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "mu ",
+          "startMs": 184343,
+          "endMs": 184478,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ri ",
+          "startMs": 184478,
+          "endMs": 184670,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": ") ",
+          "startMs": 184670,
+          "endMs": 184670,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        }
+      ]
+    },
+    {
+      "id": "roma.json-098",
+      "startMs": 184670,
+      "endMs": 186774,
+      "text": "mi tsu me ra re ta ra te re cha u na ",
+      "parts": [
+        {
+          "text": "mi ",
+          "startMs": 184670,
+          "endMs": 184878,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "tsu ",
+          "startMs": 184878,
+          "endMs": 185047,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "me ",
+          "startMs": 185047,
+          "endMs": 185198,
+          "sourceOffset": 7,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "ra ",
+          "startMs": 185198,
+          "endMs": 185350,
+          "sourceOffset": 10,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "re ",
+          "startMs": 185350,
+          "endMs": 185510,
+          "sourceOffset": 13,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "ta ",
+          "startMs": 185510,
+          "endMs": 185662,
+          "sourceOffset": 16,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "ra ",
+          "startMs": 185662,
+          "endMs": 185862,
+          "sourceOffset": 19,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "te ",
+          "startMs": 185862,
+          "endMs": 186046,
+          "sourceOffset": 22,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": "re ",
+          "startMs": 186046,
+          "endMs": 186206,
+          "sourceOffset": 25,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "cha ",
+          "startMs": 186206,
+          "endMs": 186290,
+          "sourceOffset": 28,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "u ",
+          "startMs": 186374,
+          "endMs": 186566,
+          "sourceOffset": 32,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "na ",
+          "startMs": 186566,
+          "endMs": 186670,
+          "sourceOffset": 34,
+          "sourcePartIndex": 11
+        }
+      ]
+    },
+    {
+      "id": "roma.json-099",
+      "startMs": 186774,
+      "endMs": 187488,
+      "text": "( mu ri mu ri ) ",
+      "parts": [
+        {
+          "text": "( ",
+          "startMs": 186774,
+          "endMs": 186902,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "mu ",
+          "startMs": 186902,
+          "endMs": 186998,
+          "sourceOffset": 2,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "ri ",
+          "startMs": 186998,
+          "endMs": 187118,
+          "sourceOffset": 5,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "mu ",
+          "startMs": 187118,
+          "endMs": 187238,
+          "sourceOffset": 8,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "ri ",
+          "startMs": 187238,
+          "endMs": 187406,
+          "sourceOffset": 11,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": ") ",
+          "startMs": 187406,
+          "endMs": 187488,
+          "sourceOffset": 14,
+          "sourcePartIndex": 5
+        }
+      ]
+    },
+    {
+      "id": "roma.json-100",
+      "startMs": 187488,
+      "endMs": 191626,
+      "text": "ki mi no mo to su su me  hi ka ri no sa su ho u ",
+      "parts": [
+        {
+          "text": "ki ",
+          "startMs": 187488,
+          "endMs": 187631,
+          "sourceOffset": 0,
+          "sourcePartIndex": 0
+        },
+        {
+          "text": "mi ",
+          "startMs": 187631,
+          "endMs": 187759,
+          "sourceOffset": 3,
+          "sourcePartIndex": 1
+        },
+        {
+          "text": "no ",
+          "startMs": 187759,
+          "endMs": 187895,
+          "sourceOffset": 6,
+          "sourcePartIndex": 2
+        },
+        {
+          "text": "mo ",
+          "startMs": 187895,
+          "endMs": 188031,
+          "sourceOffset": 9,
+          "sourcePartIndex": 3
+        },
+        {
+          "text": "to ",
+          "startMs": 188031,
+          "endMs": 188111,
+          "sourceOffset": 12,
+          "sourcePartIndex": 4
+        },
+        {
+          "text": "su ",
+          "startMs": 188111,
+          "endMs": 188243,
+          "sourceOffset": 15,
+          "sourcePartIndex": 5
+        },
+        {
+          "text": "su ",
+          "startMs": 188243,
+          "endMs": 188375,
+          "sourceOffset": 18,
+          "sourcePartIndex": 6
+        },
+        {
+          "text": "me ",
+          "startMs": 188375,
+          "endMs": 188599,
+          "sourceOffset": 21,
+          "sourcePartIndex": 7
+        },
+        {
+          "text": " ",
+          "startMs": 188599,
+          "endMs": 188599,
+          "sourceOffset": 24,
+          "sourcePartIndex": 8
+        },
+        {
+          "text": "hi ",
+          "startMs": 188599,
+          "endMs": 188895,
+          "sourceOffset": 25,
+          "sourcePartIndex": 9
+        },
+        {
+          "text": "ka ",
+          "startMs": 188895,
+          "endMs": 189175,
+          "sourceOffset": 28,
+          "sourcePartIndex": 10
+        },
+        {
+          "text": "ri ",
+          "startMs": 189175,
+          "endMs": 189471,
+          "sourceOffset": 31,
+          "sourcePartIndex": 11
+        },
+        {
+          "text": "no ",
+          "startMs": 189471,
+          "endMs": 189847,
+          "sourceOffset": 34,
+          "sourcePartIndex": 12
+        },
+        {
+          "text": "sa ",
+          "startMs": 189847,
+          "endMs": 190367,
+          "sourceOffset": 37,
+          "sourcePartIndex": 13
+        },
+        {
+          "text": "su ",
+          "startMs": 190367,
+          "endMs": 190503,
+          "sourceOffset": 40,
+          "sourcePartIndex": 14
+        },
+        {
+          "text": "ho ",
+          "startMs": 190503,
+          "endMs": 191359,
+          "sourceOffset": 43,
+          "sourcePartIndex": 15
+        },
+        {
+          "text": "u ",
+          "startMs": 191359,
+          "endMs": 191626,
+          "sourceOffset": 46,
+          "sourcePartIndex": 16
+        }
+      ]
+    }
+  ]
+}

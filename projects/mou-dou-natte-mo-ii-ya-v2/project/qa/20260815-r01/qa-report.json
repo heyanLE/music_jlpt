@@ -1,0 +1,84 @@
+{
+  "runId": "20260815-r01",
+  "result": "passed",
+  "checkedAt": "2026-08-14T18:26:32.638703+00:00",
+  "video": {
+    "path": "C:\\project\\musicjlpt\\projects\\mou-dou-natte-mo-ii-ya-v2\\deliverables\\final\\mou-dou-natte-mo-ii-ya-v2--study-current-v2--20260815-r01.mp4",
+    "resolution": "1920x1080",
+    "fps": "30/1 CFR",
+    "durationSeconds": 203.133333,
+    "audio": "AAC 44.1kHz stereo ~326kbps"
+  },
+  "expected": {
+    "audioDurationSeconds": 203.102,
+    "approvedOffsetSeconds": 0,
+    "durationToleranceSeconds": 0.03333333333333333
+  },
+  "screenshots": {
+    "firstLyric": "first-lyric-final.png",
+    "mixedLineReadingOverride": "l042-override.png",
+    "mixedEnglishLife": "l042-life.png",
+    "mixedEnglishFull": "l042-full.png",
+    "gap": "gap.png",
+    "finalLyric": "final-lyric.png"
+  },
+  "checks": {
+    "topCentreCover": true,
+    "boldCjkFont": true,
+    "magicColorSemiTransparentCards": true,
+    "threeIndependentCardFields": true,
+    "meaningWrap": true,
+    "kanjiOnlyFurigana": true,
+    "loanwordSourceAnnotation": true,
+    "qrcWordHighlight": true,
+    "englishWordHighlight": true,
+    "cardsNotHighlighted": true,
+    "lyricOnlyGapIsTransparent": true,
+    "backgroundAspectPreserved": true,
+    "l042SungReadingOverride": true,
+    "noPlaybackControls": true,
+    "singleHorizontalCardRow": true,
+    "highChromaVeilContrastHighlight": true,
+    "coverHairDerivedNavyPalette": true,
+    "historicalCardSpacingAligned": true,
+    "foregroundBlackStrokeExceptCards": true,
+    "allKanjiAnnotationRunsRendered": true,
+    "confirmedLoanwordSourceAnnotationsRendered": true
+  },
+  "palette": {
+    "sampleRegion": "cover black-haired girl crop (25,0)-(250,270)",
+    "accent": "#151B35",
+    "activeTint": "#6FA9FF",
+    "cardFill": "#151B35C0"
+  },
+  "cardGeometry": {
+    "rectPx": [
+      90,
+      705,
+      1740,
+      245
+    ],
+    "gapPx": 12,
+    "fieldTopPx": [
+      730,
+      795,
+      855
+    ]
+  },
+  "foregroundStroke": {
+    "color": "#000000",
+    "widthPx": 3,
+    "smallAnnotationWidthPx": 2,
+    "excludes": [
+      "cover",
+      "cards"
+    ]
+  },
+  "annotationAudit": {
+    "kanjiCardsWithoutAnnotation": 0,
+    "confirmedLoanwords": {
+      "??????": "anthology",
+      "???": "pinto"
+    }
+  }
+}

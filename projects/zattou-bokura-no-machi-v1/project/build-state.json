@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 2,
+  "stage": "inputs_pending",
+  "renderAuthorization": false,
+  "notes": [
+    "Sources frozen; choose preset, spectrum and alignment with configure_layers.py."
+  ]
+}

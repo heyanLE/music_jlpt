@@ -1,0 +1,1782 @@
+{
+  "schemaVersion": "1.0",
+  "project": {
+    "id": "uchuu-no-fushigi-mugendai",
+    "title": "うちゅうのふしぎ",
+    "artist": "夢限大みゅーたいぷ",
+    "audio": "C:\\Users\\eke_l\\Downloads\\夢限大みゅーたいぷ - うちゅうのふしぎ.flac",
+    "backgroundVideo": "C:\\Users\\eke_l\\Desktop\\TV动画_ED影像公开「バンドリ!_ゆめ∞みた(BanG_Dream!_YUME∞MITA)」.39577256487.mp4",
+    "cover": "C:\\project\\musicjlpt\\uchuu-cover.jpg",
+    "durationMs": 90149,
+    "canvas": {
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "wordTimingSource": {
+    "format": "QQ Music QRC",
+    "parsedTimeline": "C:\\project\\musicjlpt\\output\\uchuu-qm.parsed.json",
+    "romajiSource": "C:\\project\\musicjlpt\\output\\uchuu-qmRoma.parsed.json",
+    "translationSource": "C:\\project\\musicjlpt\\output\\uchuu-qmts.xml"
+  },
+  "reviewStatus": "assisted-fill-needs-human-review",
+  "frames": [
+    {
+      "id": "l001",
+      "kind": "lyric",
+      "startMs": 1172,
+      "endMs": 4948,
+      "caption": {
+        "japanese": "鳥はなんで空をとべるの？",
+        "romaji": "tori wa nande sora wo toberu no",
+        "translationZh": "鸟儿为什么能翱翔天际",
+        "furigana": [
+          {
+            "base": "鳥",
+            "reading": "トリ",
+            "romaji": "tori"
+          },
+          {
+            "base": "は",
+            "reading": "ハ",
+            "romaji": "wa"
+          },
+          {
+            "base": "なんで",
+            "reading": "なんで",
+            "romaji": "nande"
+          },
+          {
+            "base": "空",
+            "reading": "ソラ",
+            "romaji": "sora"
+          },
+          {
+            "base": "を",
+            "reading": "ヲ",
+            "romaji": "wo"
+          },
+          {
+            "base": "とべる",
+            "reading": "トベル",
+            "romaji": "toberu"
+          },
+          {
+            "base": "の",
+            "reading": "ノ",
+            "romaji": "no"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "鳥",
+          "reading": "トリ",
+          "romaji": "tori",
+          "zhMeaning": "：鸟",
+          "posZh": "：名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "は",
+          "reading": "ハ",
+          "romaji": "wa",
+          "zhMeaning": "：主题提示",
+          "posZh": "：助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "：主题提示"
+        },
+        {
+          "token": "なんで",
+          "reading": "なんで",
+          "romaji": "nande",
+          "zhMeaning": "：为什么",
+          "posZh": "：疑问副词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "空",
+          "reading": "ソラ",
+          "romaji": "sora",
+          "zhMeaning": "：天空",
+          "posZh": "：名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "を",
+          "reading": "ヲ",
+          "romaji": "wo",
+          "zhMeaning": "：直接宾语标记",
+          "posZh": "：助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "：直接宾语标记"
+        },
+        {
+          "token": "とべる",
+          "reading": "トベル",
+          "romaji": "toberu",
+          "zhMeaning": "能飞",
+          "posZh": "动词（可能形）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "の",
+          "reading": "ノ",
+          "romaji": "no",
+          "zhMeaning": "疑问语气",
+          "posZh": "终助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "疑问语气"
+        }
+      ],
+      "analysisStatus": "human-edits-preserved-and-assisted-fill",
+      "reviewRequired": true
+    },
+    {
+      "id": "l002",
+      "kind": "lyric",
+      "startMs": 4948,
+      "endMs": 8901,
+      "caption": {
+        "japanese": "猫はなんでずっとねてるの？",
+        "romaji": "neko wa nande zutto neteru no",
+        "translationZh": "猫咪为什么一直都在睡觉",
+        "furigana": [
+          {
+            "base": "猫",
+            "reading": "ネコ",
+            "romaji": "neko"
+          },
+          {
+            "base": "は",
+            "reading": "ハ",
+            "romaji": "wa"
+          },
+          {
+            "base": "なんで",
+            "reading": "なんで",
+            "romaji": "nande"
+          },
+          {
+            "base": "ずっと",
+            "reading": "ズット",
+            "romaji": "zutto"
+          },
+          {
+            "base": "ねてる",
+            "reading": "ネテル",
+            "romaji": "neteru"
+          },
+          {
+            "base": "の",
+            "reading": "ノ",
+            "romaji": "no"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "猫",
+          "reading": "ネコ",
+          "romaji": "neko",
+          "zhMeaning": "：猫",
+          "posZh": "：名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "は",
+          "reading": "ハ",
+          "romaji": "wa",
+          "zhMeaning": "：主题提示",
+          "posZh": "：助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "：主题提示"
+        },
+        {
+          "token": "なんで",
+          "reading": "なんで",
+          "romaji": "nande",
+          "zhMeaning": "：为什么",
+          "posZh": "：疑问副词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "ずっと",
+          "reading": "ズット",
+          "romaji": "zutto",
+          "zhMeaning": "一直",
+          "posZh": "副词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "ねてる",
+          "reading": "ネテル",
+          "romaji": "neteru",
+          "zhMeaning": "正在睡（寝ている的口语缩约）",
+          "posZh": "动词（进行）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "の",
+          "reading": "ノ",
+          "romaji": "no",
+          "zhMeaning": "疑问语气",
+          "posZh": "终助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "疑问语气"
+        }
+      ],
+      "analysisStatus": "human-edits-preserved-and-assisted-fill",
+      "reviewRequired": true
+    },
+    {
+      "id": "l003",
+      "kind": "lyric",
+      "startMs": 8901,
+      "endMs": 12812,
+      "caption": {
+        "japanese": "君はどんな今日を生きるの？",
+        "romaji": "kimi wa donna kyou wo ikiru no",
+        "translationZh": "你会度过一个怎样的今天",
+        "furigana": [
+          {
+            "base": "君",
+            "reading": "キミ",
+            "romaji": "kimi"
+          },
+          {
+            "base": "は",
+            "reading": "ハ",
+            "romaji": "wa"
+          },
+          {
+            "base": "どんな",
+            "reading": "ドンナ",
+            "romaji": "donna"
+          },
+          {
+            "base": "今日",
+            "reading": "キョウ",
+            "romaji": "kyou"
+          },
+          {
+            "base": "を",
+            "reading": "ヲ",
+            "romaji": "wo"
+          },
+          {
+            "base": "生きる",
+            "reading": "イキル",
+            "romaji": "ikiru"
+          },
+          {
+            "base": "の",
+            "reading": "ノ",
+            "romaji": "no"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "君",
+          "reading": "キミ",
+          "romaji": "kimi",
+          "zhMeaning": "你",
+          "posZh": "人称代词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "は",
+          "reading": "ハ",
+          "romaji": "wa",
+          "zhMeaning": "：主题提示",
+          "posZh": "：助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "：主题提示"
+        },
+        {
+          "token": "どんな",
+          "reading": "ドンナ",
+          "romaji": "donna",
+          "zhMeaning": "什么样的",
+          "posZh": "连体词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "今日",
+          "reading": "キョウ",
+          "romaji": "kyou",
+          "zhMeaning": "：今天",
+          "posZh": "：名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "を",
+          "reading": "ヲ",
+          "romaji": "wo",
+          "zhMeaning": "：直接宾语标记",
+          "posZh": "：助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "：直接宾语标记"
+        },
+        {
+          "token": "生きる",
+          "reading": "イキル",
+          "romaji": "ikiru",
+          "zhMeaning": "生活、度过",
+          "posZh": "动词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "の",
+          "reading": "ノ",
+          "romaji": "no",
+          "zhMeaning": "疑问语气",
+          "posZh": "终助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "疑问语气"
+        }
+      ],
+      "analysisStatus": "human-edits-preserved-and-assisted-fill",
+      "reviewRequired": true
+    },
+    {
+      "id": "l004",
+      "kind": "lyric",
+      "startMs": 12812,
+      "endMs": 16096,
+      "caption": {
+        "japanese": "ぜんぶ ぜんぶ ぜんぶ",
+        "romaji": "zenbu zenbu zenbu",
+        "translationZh": "全部全部全部",
+        "furigana": [
+          {
+            "base": "ぜんぶ",
+            "reading": "ゼンブ",
+            "romaji": "zenbu"
+          },
+          {
+            "base": "ぜんぶ",
+            "reading": "ゼンブ",
+            "romaji": "zenbu"
+          },
+          {
+            "base": "ぜんぶ",
+            "reading": "ゼンブ",
+            "romaji": "zenbu"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "ぜんぶ",
+          "reading": "ゼンブ",
+          "romaji": "zenbu",
+          "zhMeaning": "：全部",
+          "posZh": "：名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "ぜんぶ",
+          "reading": "ゼンブ",
+          "romaji": "zenbu",
+          "zhMeaning": "：全部",
+          "posZh": "：名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "ぜんぶ",
+          "reading": "ゼンブ",
+          "romaji": "zenbu",
+          "zhMeaning": "：全部",
+          "posZh": "：名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        }
+      ],
+      "analysisStatus": "human-edits-preserved-and-assisted-fill",
+      "reviewRequired": true
+    },
+    {
+      "id": "l005",
+      "kind": "lyric",
+      "startMs": 16096,
+      "endMs": 20613,
+      "caption": {
+        "japanese": "さがしにゆこう",
+        "romaji": "sagashi ni yukou",
+        "translationZh": "一起去找寻吧",
+        "furigana": [
+          {
+            "base": "さがし",
+            "reading": "サガシ",
+            "romaji": "sagashi"
+          },
+          {
+            "base": "に",
+            "reading": "ニ",
+            "romaji": "ni"
+          },
+          {
+            "base": "ゆこう",
+            "reading": "ユコウ",
+            "romaji": "yukou"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "さがし",
+          "reading": "サガシ",
+          "romaji": "sagashi",
+          "zhMeaning": "寻找（探す的连用形）",
+          "posZh": "动词（连用形）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "に",
+          "reading": "ニ",
+          "romaji": "ni",
+          "zhMeaning": "动作目的",
+          "posZh": "助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "动作目的"
+        },
+        {
+          "token": "ゆこう",
+          "reading": "ユコウ",
+          "romaji": "yukou",
+          "zhMeaning": "去吧、一起去（行こう的口语）",
+          "posZh": "动词（意志形）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        }
+      ],
+      "analysisStatus": "human-edits-preserved-and-assisted-fill",
+      "reviewRequired": true
+    },
+    {
+      "id": "l006",
+      "kind": "lyric",
+      "startMs": 24732,
+      "endMs": 28525,
+      "caption": {
+        "japanese": "朝はなんで僕を照らすの？",
+        "romaji": "asa wa nande boku wo terasu no",
+        "translationZh": "为什么清晨要照耀着我",
+        "furigana": [
+          {
+            "base": "朝",
+            "reading": "アサ",
+            "romaji": "asa"
+          },
+          {
+            "base": "は",
+            "reading": "ハ",
+            "romaji": "wa"
+          },
+          {
+            "base": "なんで",
+            "reading": "なんで",
+            "romaji": "nande"
+          },
+          {
+            "base": "僕",
+            "reading": "ボク",
+            "romaji": "boku"
+          },
+          {
+            "base": "を",
+            "reading": "ヲ",
+            "romaji": "wo"
+          },
+          {
+            "base": "照らす",
+            "reading": "テラス",
+            "romaji": "terasu"
+          },
+          {
+            "base": "の",
+            "reading": "ノ",
+            "romaji": "no"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "朝",
+          "reading": "アサ",
+          "romaji": "asa",
+          "zhMeaning": "：早晨",
+          "posZh": "：名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "は",
+          "reading": "ハ",
+          "romaji": "wa",
+          "zhMeaning": "：主题提示",
+          "posZh": "：助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "：主题提示"
+        },
+        {
+          "token": "なんで",
+          "reading": "なんで",
+          "romaji": "nande",
+          "zhMeaning": "：为什么",
+          "posZh": "：疑问副词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "僕",
+          "reading": "ボク",
+          "romaji": "boku",
+          "zhMeaning": "我",
+          "posZh": "人称代词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "を",
+          "reading": "ヲ",
+          "romaji": "wo",
+          "zhMeaning": "：直接宾语标记",
+          "posZh": "：助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "：直接宾语标记"
+        },
+        {
+          "token": "照らす",
+          "reading": "テラス",
+          "romaji": "terasu",
+          "zhMeaning": "照亮",
+          "posZh": "动词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "の",
+          "reading": "ノ",
+          "romaji": "no",
+          "zhMeaning": "疑问语气",
+          "posZh": "终助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "疑问语气"
+        }
+      ],
+      "analysisStatus": "human-edits-preserved-and-assisted-fill",
+      "reviewRequired": true
+    },
+    {
+      "id": "l007",
+      "kind": "lyric",
+      "startMs": 28525,
+      "endMs": 32509,
+      "caption": {
+        "japanese": "夜はなんで寂しくなるの？",
+        "romaji": "yoru wa nande sabishiku naru no",
+        "translationZh": "为什么夜晚会感到寂寞",
+        "furigana": [
+          {
+            "base": "夜",
+            "reading": "ヨル",
+            "romaji": "yoru"
+          },
+          {
+            "base": "は",
+            "reading": "ハ",
+            "romaji": "wa"
+          },
+          {
+            "base": "なんで",
+            "reading": "なんで",
+            "romaji": "nande"
+          },
+          {
+            "base": "寂しく",
+            "reading": "サビシク",
+            "romaji": "sabishiku"
+          },
+          {
+            "base": "なる",
+            "reading": "ナル",
+            "romaji": "naru"
+          },
+          {
+            "base": "の",
+            "reading": "ノ",
+            "romaji": "no"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "夜",
+          "reading": "ヨル",
+          "romaji": "yoru",
+          "zhMeaning": "：夜晚",
+          "posZh": "：名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "は",
+          "reading": "ハ",
+          "romaji": "wa",
+          "zhMeaning": "：主题提示",
+          "posZh": "：助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "：主题提示"
+        },
+        {
+          "token": "なんで",
+          "reading": "なんで",
+          "romaji": "nande",
+          "zhMeaning": "：为什么",
+          "posZh": "：疑问副词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "寂しく",
+          "reading": "サビシク",
+          "romaji": "sabishiku",
+          "zhMeaning": "寂寞地（寂しい的连用形）",
+          "posZh": "形容词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "なる",
+          "reading": "ナル",
+          "romaji": "naru",
+          "zhMeaning": "变成",
+          "posZh": "动词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "の",
+          "reading": "ノ",
+          "romaji": "no",
+          "zhMeaning": "疑问语气",
+          "posZh": "终助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "疑问语气"
+        }
+      ],
+      "analysisStatus": "human-edits-preserved-and-assisted-fill",
+      "reviewRequired": true
+    },
+    {
+      "id": "l008",
+      "kind": "lyric",
+      "startMs": 32509,
+      "endMs": 36709,
+      "caption": {
+        "japanese": "かなしいことははんぶんこ",
+        "romaji": "kanashii koto wa hanbunko",
+        "translationZh": "若是可以分担悲伤",
+        "furigana": [
+          {
+            "base": "かなしい",
+            "reading": "カナシイ",
+            "romaji": "kanashii"
+          },
+          {
+            "base": "こと",
+            "reading": "コト",
+            "romaji": "koto"
+          },
+          {
+            "base": "は",
+            "reading": "ハ",
+            "romaji": "wa"
+          },
+          {
+            "base": "はんぶんこ",
+            "reading": "ハンブンコ",
+            "romaji": "hanbunko"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "かなしい",
+          "reading": "カナシイ",
+          "romaji": "kanashii",
+          "zhMeaning": "悲伤的",
+          "posZh": "形容词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "こと",
+          "reading": "コト",
+          "romaji": "koto",
+          "zhMeaning": "事情",
+          "posZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "は",
+          "reading": "ハ",
+          "romaji": "wa",
+          "zhMeaning": "主题提示",
+          "posZh": "助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "主题提示"
+        },
+        {
+          "token": "はんぶんこ",
+          "reading": "ハンブンコ",
+          "romaji": "hanbunko",
+          "zhMeaning": "一人一半、平分",
+          "posZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        }
+      ],
+      "analysisStatus": "human-edits-preserved-and-assisted-fill",
+      "reviewRequired": true
+    },
+    {
+      "id": "l009",
+      "kind": "lyric",
+      "startMs": 36709,
+      "endMs": 39895,
+      "caption": {
+        "japanese": "できたらいいのにね",
+        "romaji": "dekitara ii noni ne",
+        "translationZh": "那样又该有多好啊",
+        "furigana": [
+          {
+            "base": "できたら",
+            "reading": "デキタラ",
+            "romaji": "dekitara"
+          },
+          {
+            "base": "いい",
+            "reading": "イイ",
+            "romaji": "ii"
+          },
+          {
+            "base": "のに",
+            "reading": "ノニ",
+            "romaji": "noni"
+          },
+          {
+            "base": "ね",
+            "reading": "ネ",
+            "romaji": "ne"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "できたら",
+          "reading": "デキタラ",
+          "romaji": "dekitara",
+          "zhMeaning": "如果能做到",
+          "posZh": "动词（条件形）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "いい",
+          "reading": "イイ",
+          "romaji": "ii",
+          "zhMeaning": "好、就好了",
+          "posZh": "形容词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "のに",
+          "reading": "ノニ",
+          "romaji": "noni",
+          "zhMeaning": "却、明明……却……",
+          "posZh": "接续助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "却、明明……却……"
+        },
+        {
+          "token": "ね",
+          "reading": "ネ",
+          "romaji": "ne",
+          "zhMeaning": "征求认同、加强感叹",
+          "posZh": "终助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "征求认同、加强感叹"
+        }
+      ],
+      "analysisStatus": "human-edits-preserved-and-assisted-fill",
+      "reviewRequired": true
+    },
+    {
+      "id": "l010",
+      "kind": "lyric",
+      "startMs": 40746,
+      "endMs": 44151,
+      "caption": {
+        "japanese": "笑ったり悩んでみたり",
+        "romaji": "warattari nayandemitari",
+        "translationZh": "时而欢笑 时而烦恼",
+        "furigana": [
+          {
+            "base": "笑ったり",
+            "reading": "ワラッタリ",
+            "romaji": "warattari"
+          },
+          {
+            "base": "悩んでみたり",
+            "reading": "ナヤンデミタリ",
+            "romaji": "nayandemitari"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "笑ったり",
+          "reading": "ワラッタリ",
+          "romaji": "warattari",
+          "zhMeaning": "时而笑笑",
+          "posZh": "动词＋列举助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "时而笑笑"
+        },
+        {
+          "token": "悩んでみたり",
+          "reading": "ナヤンデミタリ",
+          "romaji": "nayandemitari",
+          "zhMeaning": "时而试着烦恼、苦恼",
+          "posZh": "动词＋补助动词＋列举助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "时而试着烦恼、苦恼"
+        }
+      ],
+      "analysisStatus": "human-edits-preserved-and-assisted-fill",
+      "reviewRequired": true
+    },
+    {
+      "id": "l011",
+      "kind": "lyric",
+      "startMs": 44151,
+      "endMs": 47924,
+      "caption": {
+        "japanese": "この広い世界のすみっこで",
+        "romaji": "kono hiroi sekai no sumikko de",
+        "translationZh": "在这个广阔世界的一隅",
+        "furigana": [
+          {
+            "base": "この",
+            "reading": "コノ",
+            "romaji": "kono"
+          },
+          {
+            "base": "広い",
+            "reading": "ヒロイ",
+            "romaji": "hiroi"
+          },
+          {
+            "base": "世界",
+            "reading": "セカイ",
+            "romaji": "sekai"
+          },
+          {
+            "base": "の",
+            "reading": "ノ",
+            "romaji": "no"
+          },
+          {
+            "base": "すみっこ",
+            "reading": "スミッコ",
+            "romaji": "sumikko"
+          },
+          {
+            "base": "で",
+            "reading": "デ",
+            "romaji": "de"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "この",
+          "reading": "コノ",
+          "romaji": "kono",
+          "zhMeaning": "这个",
+          "posZh": "连体词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "広い",
+          "reading": "ヒロイ",
+          "romaji": "hiroi",
+          "zhMeaning": "广阔的",
+          "posZh": "形容词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "世界",
+          "reading": "セカイ",
+          "romaji": "sekai",
+          "zhMeaning": "：世界",
+          "posZh": "：名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "の",
+          "reading": "ノ",
+          "romaji": "no",
+          "zhMeaning": "：所属修饰",
+          "posZh": "：助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "：所属修饰"
+        },
+        {
+          "token": "すみっこ",
+          "reading": "スミッコ",
+          "romaji": "sumikko",
+          "zhMeaning": "：角落",
+          "posZh": "：名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "で",
+          "reading": "デ",
+          "romaji": "de",
+          "zhMeaning": "动作、状态发生的地点",
+          "posZh": "助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "动作、状态发生的地点"
+        }
+      ],
+      "analysisStatus": "human-edits-preserved-and-assisted-fill",
+      "reviewRequired": true
+    },
+    {
+      "id": "l012",
+      "kind": "lyric",
+      "startMs": 48741,
+      "endMs": 52188,
+      "caption": {
+        "japanese": "僕らでうちゅうのふしぎ",
+        "romaji": "bokura de uchuu no fushigi",
+        "translationZh": "让我们来解开宇宙的不可思议吧",
+        "furigana": [
+          {
+            "base": "僕ら",
+            "reading": "ボクラ",
+            "romaji": "bokura"
+          },
+          {
+            "base": "で",
+            "reading": "デ",
+            "romaji": "de"
+          },
+          {
+            "base": "うちゅう",
+            "reading": "ウチュウ",
+            "romaji": "uchuu"
+          },
+          {
+            "base": "の",
+            "reading": "ノ",
+            "romaji": "no"
+          },
+          {
+            "base": "ふしぎ",
+            "reading": "フシギ",
+            "romaji": "fushigi"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "僕ら",
+          "reading": "ボクラ",
+          "romaji": "bokura",
+          "zhMeaning": "我们",
+          "posZh": "人称代词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "で",
+          "reading": "デ",
+          "romaji": "de",
+          "zhMeaning": "手段、主体",
+          "posZh": "助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "手段、主体"
+        },
+        {
+          "token": "うちゅう",
+          "reading": "ウチュウ",
+          "romaji": "uchuu",
+          "zhMeaning": "宇宙",
+          "posZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "の",
+          "reading": "ノ",
+          "romaji": "no",
+          "zhMeaning": "所属修饰",
+          "posZh": "助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "所属修饰"
+        },
+        {
+          "token": "ふしぎ",
+          "reading": "フシギ",
+          "romaji": "fushigi",
+          "zhMeaning": "不可思议",
+          "posZh": "名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        }
+      ],
+      "analysisStatus": "human-edits-preserved-and-assisted-fill",
+      "reviewRequired": true
+    },
+    {
+      "id": "l013",
+      "kind": "lyric",
+      "startMs": 52188,
+      "endMs": 56679,
+      "caption": {
+        "japanese": "解き明かしてみよう",
+        "romaji": "tokiakashite miyou",
+        "translationZh": "让我们来解开宇宙的不可思议吧",
+        "furigana": [
+          {
+            "base": "解き明かして",
+            "reading": "トキアカシテ",
+            "romaji": "tokiakashite"
+          },
+          {
+            "base": "みよう",
+            "reading": "ミヨウ",
+            "romaji": "miyou"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "解き明かして",
+          "reading": "トキアカシテ",
+          "romaji": "tokiakashite",
+          "zhMeaning": "解开、弄明白",
+          "posZh": "动词（て形）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "みよう",
+          "reading": "ミヨウ",
+          "romaji": "miyou",
+          "zhMeaning": "试着看看吧",
+          "posZh": "补助动词（意志形）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        }
+      ],
+      "analysisStatus": "human-edits-preserved-and-assisted-fill",
+      "reviewRequired": true
+    },
+    {
+      "id": "l014",
+      "kind": "lyric",
+      "startMs": 58150,
+      "endMs": 62007,
+      "caption": {
+        "japanese": "今日はどんな話をしよう？",
+        "romaji": "kyou wa donna hanashi wo shiyou",
+        "translationZh": "今天我们要聊些什么话题",
+        "furigana": [
+          {
+            "base": "今日",
+            "reading": "キョウ",
+            "romaji": "kyou"
+          },
+          {
+            "base": "は",
+            "reading": "ハ",
+            "romaji": "wa"
+          },
+          {
+            "base": "どんな",
+            "reading": "ドンナ",
+            "romaji": "donna"
+          },
+          {
+            "base": "話",
+            "reading": "ハナシ",
+            "romaji": "hanashi"
+          },
+          {
+            "base": "を",
+            "reading": "ヲ",
+            "romaji": "wo"
+          },
+          {
+            "base": "しよう",
+            "reading": "シヨウ",
+            "romaji": "shiyou"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "今日",
+          "reading": "キョウ",
+          "romaji": "kyou",
+          "zhMeaning": "：今天",
+          "posZh": "：名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "は",
+          "reading": "ハ",
+          "romaji": "wa",
+          "zhMeaning": "：主题提示",
+          "posZh": "：助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "：主题提示"
+        },
+        {
+          "token": "どんな",
+          "reading": "ドンナ",
+          "romaji": "donna",
+          "zhMeaning": "什么样的",
+          "posZh": "连体词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "話",
+          "reading": "ハナシ",
+          "romaji": "hanashi",
+          "zhMeaning": "：话题",
+          "posZh": "：名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "を",
+          "reading": "ヲ",
+          "romaji": "wo",
+          "zhMeaning": "：直接宾语标记",
+          "posZh": "：助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "：直接宾语标记"
+        },
+        {
+          "token": "しよう",
+          "reading": "シヨウ",
+          "romaji": "shiyou",
+          "zhMeaning": "做吧、来聊吧",
+          "posZh": "动词（意志形）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        }
+      ],
+      "analysisStatus": "human-edits-preserved-and-assisted-fill",
+      "reviewRequired": true
+    },
+    {
+      "id": "l015",
+      "kind": "lyric",
+      "startMs": 62007,
+      "endMs": 65999,
+      "caption": {
+        "japanese": "君とどんな歌を歌おう？",
+        "romaji": "kimi to donna uta wo utaou",
+        "translationZh": "要和你同唱怎样的歌曲",
+        "furigana": [
+          {
+            "base": "君",
+            "reading": "キミ",
+            "romaji": "kimi"
+          },
+          {
+            "base": "と",
+            "reading": "ト",
+            "romaji": "to"
+          },
+          {
+            "base": "どんな",
+            "reading": "ドンナ",
+            "romaji": "donna"
+          },
+          {
+            "base": "歌",
+            "reading": "ウタ",
+            "romaji": "uta"
+          },
+          {
+            "base": "を",
+            "reading": "ヲ",
+            "romaji": "wo"
+          },
+          {
+            "base": "歌おう",
+            "reading": "ウタオウ",
+            "romaji": "utaou"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "君",
+          "reading": "キミ",
+          "romaji": "kimi",
+          "zhMeaning": "你",
+          "posZh": "人称代词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "と",
+          "reading": "ト",
+          "romaji": "to",
+          "zhMeaning": "共同对象",
+          "posZh": "助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "共同对象"
+        },
+        {
+          "token": "どんな",
+          "reading": "ドンナ",
+          "romaji": "donna",
+          "zhMeaning": "什么样的",
+          "posZh": "连体词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "歌",
+          "reading": "ウタ",
+          "romaji": "uta",
+          "zhMeaning": "：歌曲",
+          "posZh": "：名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "を",
+          "reading": "ヲ",
+          "romaji": "wo",
+          "zhMeaning": "：直接宾语标记",
+          "posZh": "：助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "：直接宾语标记"
+        },
+        {
+          "token": "歌おう",
+          "reading": "ウタオウ",
+          "romaji": "utaou",
+          "zhMeaning": "唱吧、一起唱吧",
+          "posZh": "动词（意志形）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        }
+      ],
+      "analysisStatus": "human-edits-preserved-and-assisted-fill",
+      "reviewRequired": true
+    },
+    {
+      "id": "l016",
+      "kind": "lyric",
+      "startMs": 65999,
+      "endMs": 69861,
+      "caption": {
+        "japanese": "誰もまだ知らない花も",
+        "romaji": "dare mo mada shiranai hana mo",
+        "translationZh": "任谁都没有见过的花朵",
+        "furigana": [
+          {
+            "base": "誰",
+            "reading": "ダレ",
+            "romaji": "dare"
+          },
+          {
+            "base": "も",
+            "reading": "モ",
+            "romaji": "mo"
+          },
+          {
+            "base": "まだ",
+            "reading": "マダ",
+            "romaji": "mada"
+          },
+          {
+            "base": "知らない",
+            "reading": "シラナイ",
+            "romaji": "shiranai"
+          },
+          {
+            "base": "花",
+            "reading": "ハナ",
+            "romaji": "hana"
+          },
+          {
+            "base": "も",
+            "reading": "モ",
+            "romaji": "mo"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "誰",
+          "reading": "ダレ",
+          "romaji": "dare",
+          "zhMeaning": "谁",
+          "posZh": "疑问代词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "も",
+          "reading": "モ",
+          "romaji": "mo",
+          "zhMeaning": "：追加并列",
+          "posZh": "：助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "：追加并列"
+        },
+        {
+          "token": "まだ",
+          "reading": "マダ",
+          "romaji": "mada",
+          "zhMeaning": "还、尚未",
+          "posZh": "副词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "知らない",
+          "reading": "シラナイ",
+          "romaji": "shiranai",
+          "zhMeaning": "不知道、没人知道的",
+          "posZh": "动词（否定）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "花",
+          "reading": "ハナ",
+          "romaji": "hana",
+          "zhMeaning": "：花朵",
+          "posZh": "：名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "も",
+          "reading": "モ",
+          "romaji": "mo",
+          "zhMeaning": "：追加并列",
+          "posZh": "：助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "：追加并列"
+        }
+      ],
+      "analysisStatus": "human-edits-preserved-and-assisted-fill",
+      "reviewRequired": true
+    },
+    {
+      "id": "l017",
+      "kind": "lyric",
+      "startMs": 69861,
+      "endMs": 73112,
+      "caption": {
+        "japanese": "ぜんぶ ぜんぶ ぜんぶ",
+        "romaji": "zenbu zenbu zenbu",
+        "translationZh": "全部全部全部",
+        "furigana": [
+          {
+            "base": "ぜんぶ",
+            "reading": "ゼンブ",
+            "romaji": "zenbu"
+          },
+          {
+            "base": "ぜんぶ",
+            "reading": "ゼンブ",
+            "romaji": "zenbu"
+          },
+          {
+            "base": "ぜんぶ",
+            "reading": "ゼンブ",
+            "romaji": "zenbu"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "ぜんぶ",
+          "reading": "ゼンブ",
+          "romaji": "zenbu",
+          "zhMeaning": "：全部",
+          "posZh": "：名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "ぜんぶ",
+          "reading": "ゼンブ",
+          "romaji": "zenbu",
+          "zhMeaning": "：全部",
+          "posZh": "：名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "ぜんぶ",
+          "reading": "ゼンブ",
+          "romaji": "zenbu",
+          "zhMeaning": "：全部",
+          "posZh": "：名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        }
+      ],
+      "analysisStatus": "human-edits-preserved-and-assisted-fill",
+      "reviewRequired": true
+    },
+    {
+      "id": "l018",
+      "kind": "lyric",
+      "startMs": 73112,
+      "endMs": 76878,
+      "caption": {
+        "japanese": "さがしにゆこう",
+        "romaji": "sagashi ni yukou",
+        "translationZh": "一起去找寻吧",
+        "furigana": [
+          {
+            "base": "さがし",
+            "reading": "サガシ",
+            "romaji": "sagashi"
+          },
+          {
+            "base": "に",
+            "reading": "ニ",
+            "romaji": "ni"
+          },
+          {
+            "base": "ゆこう",
+            "reading": "ユコウ",
+            "romaji": "yukou"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "さがし",
+          "reading": "サガシ",
+          "romaji": "sagashi",
+          "zhMeaning": "寻找（探す的连用形）",
+          "posZh": "动词（连用形）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "に",
+          "reading": "ニ",
+          "romaji": "ni",
+          "zhMeaning": "动作目的",
+          "posZh": "助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "动作目的"
+        },
+        {
+          "token": "ゆこう",
+          "reading": "ユコウ",
+          "romaji": "yukou",
+          "zhMeaning": "去吧、一起去（行こう的口语）",
+          "posZh": "动词（意志形）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        }
+      ],
+      "analysisStatus": "human-edits-preserved-and-assisted-fill",
+      "reviewRequired": true
+    },
+    {
+      "id": "l019",
+      "kind": "lyric",
+      "startMs": 77747,
+      "endMs": 80941,
+      "caption": {
+        "japanese": "ぜんぶ ぜんぶ ぜんぶ",
+        "romaji": "zenbu zenbu zenbu",
+        "translationZh": "全部全部全部",
+        "furigana": [
+          {
+            "base": "ぜんぶ",
+            "reading": "ゼンブ",
+            "romaji": "zenbu"
+          },
+          {
+            "base": "ぜんぶ",
+            "reading": "ゼンブ",
+            "romaji": "zenbu"
+          },
+          {
+            "base": "ぜんぶ",
+            "reading": "ゼンブ",
+            "romaji": "zenbu"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "ぜんぶ",
+          "reading": "ゼンブ",
+          "romaji": "zenbu",
+          "zhMeaning": "：全部",
+          "posZh": "：名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "ぜんぶ",
+          "reading": "ゼンブ",
+          "romaji": "zenbu",
+          "zhMeaning": "：全部",
+          "posZh": "：名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "ぜんぶ",
+          "reading": "ゼンブ",
+          "romaji": "zenbu",
+          "zhMeaning": "：全部",
+          "posZh": "：名词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        }
+      ],
+      "analysisStatus": "human-edits-preserved-and-assisted-fill",
+      "reviewRequired": true
+    },
+    {
+      "id": "l020",
+      "kind": "lyric",
+      "startMs": 80941,
+      "endMs": 84547,
+      "caption": {
+        "japanese": "さがしにゆこう",
+        "romaji": "sagashi ni yukou",
+        "translationZh": "一起去找寻吧",
+        "furigana": [
+          {
+            "base": "さがし",
+            "reading": "サガシ",
+            "romaji": "sagashi"
+          },
+          {
+            "base": "に",
+            "reading": "ニ",
+            "romaji": "ni"
+          },
+          {
+            "base": "ゆこう",
+            "reading": "ユコウ",
+            "romaji": "yukou"
+          }
+        ]
+      },
+      "grammarCards": [
+        {
+          "token": "さがし",
+          "reading": "サガシ",
+          "romaji": "sagashi",
+          "zhMeaning": "寻找（探す的连用形）",
+          "posZh": "动词（连用形）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        },
+        {
+          "token": "に",
+          "reading": "ニ",
+          "romaji": "ni",
+          "zhMeaning": "动作目的",
+          "posZh": "助词",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false,
+          "functionZh": "动作目的"
+        },
+        {
+          "token": "ゆこう",
+          "reading": "ユコウ",
+          "romaji": "yukou",
+          "zhMeaning": "去吧、一起去（行こう的口语）",
+          "posZh": "动词（意志形）",
+          "render": true,
+          "showJlpt": false,
+          "reviewRequired": false
+        }
+      ],
+      "analysisStatus": "human-edits-preserved-and-assisted-fill",
+      "reviewRequired": true
+    }
+  ],
+  "assistedReviewSources": [
+    "user Markdown edits",
+    "QQ Music qmts",
+    "QRC timing",
+    "lexical review"
+  ]
+}

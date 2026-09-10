@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "runId": "20260816-r04-intro-freeze",
+  "result": "passed",
+  "output": "deliverables/final/brand-new-days-reload--intro-freeze--glass-stems--20260816-r04.mp4",
+  "video": {
+    "codec": "h264",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "cfr": true,
+    "durationSeconds": 352.6
+  },
+  "audio": {
+    "codec": "aac",
+    "sampleRate": 44100,
+    "channels": 2
+  },
+  "checks": {
+    "introSourceRangeSeconds": [245, 268],
+    "introSourceAudioMuted": true,
+    "songAudioAndSpectrumStartAtSeconds": 0,
+    "introForegroundHidden": true,
+    "postIntroBackground": "final intro frame frozen",
+    "postIntroForegroundStartsAtSongSeconds": 23,
+    "originalGaussianBackgroundReplaced": true
+  },
+  "screenshots": [
+    "project/qa/intro-freeze-r04/intro-22.png",
+    "project/qa/intro-freeze-r04/freeze-24.png",
+    "project/qa/intro-freeze-r04/first-lyric-30.png"
+  ]
+}

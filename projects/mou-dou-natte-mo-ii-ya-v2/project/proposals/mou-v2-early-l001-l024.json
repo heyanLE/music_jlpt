@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "scope": "l001-l024",
+  "mode": "proposal-only",
+  "sources": [
+    "https://dictionary.goo.ne.jp/word/%E5%84%98%E3%81%AB/",
+    "https://dictionary.goo.ne.jp/word/%E8%A8%B1%E3%82%8A/",
+    "https://dictionary.goo.ne.jp/word/%E3%81%A8%E3%81%86%E3%81%B2/",
+    "https://dictionary.goo.ne.jp/idiom/keyword/%E6%96%87%E6%9B%B8%E3%83%BB%E6%96%87%E7%AB%A0/"
+  ],
+  "proposals": [
+    {"frameId":"l001","caption":{"romaji":"doudou meguri no fantajii","translationZh":"循环往复的幻想"},"cards":[["堂々巡り","どうどうめぐり","doudou meguri","循环往复","名词"],["の","の","no","所属、修饰","格助词","functionZh"],["ファンタジー","ふぁんたじー","fantajii","幻想","名词","zhMeaning","fantasy"]],"confidence":0.96},
+    {"frameId":"l002","caption":{"romaji":"ansorojii nazoru nazonazo","translationZh":"选集般铺陈的谜题"},"cards":[["アンソロジー","あんそろじー","ansorojii","选集","名词","zhMeaning","anthology"],["ナゾル","なぞる","nazoru","描摹、临摹","动词"],["謎謎","なぞなぞ","nazonazo","谜语","名词"]],"confidence":0.65,"note":"诗意用法；ナゾル为日语词的片假名表记，非外来词。"},
+    {"frameId":"l003","caption":{"romaji":"honnou no mama ni koudou","translationZh":"遵从本能而行动"},"cards":[["本能","ほんのう","honnou","本能","名词"],["の","の","no","所属、修饰","格助词","functionZh"],["ままに","ままに","mama ni","顺从、任凭","连语"],["行動","こうどう","koudou","行动","名词"]],"confidence":0.98},
+    {"frameId":"l004","caption":{"romaji":"kodou ni takamaru shoudou","translationZh":"在心跳中高涨的冲动"},"cards":[["鼓動","こどう","kodou","心跳","名词"],["に","に","ni","动作发生的状态、场合","格助词","functionZh"],["高まる","たかまる","takamaru","高涨","动词"],["衝動","しょうどう","shoudou","冲动","名词"]],"confidence":0.92},
+    {"frameId":"l005","caption":{"romaji":"","translationZh":"（噢）"},"cards":[],"confidence":0.99,"note":"英语感叹声无词卡、假名或罗马音。"},
+    {"frameId":"l006","caption":{"romaji":"mou dou natte mo ii ya","translationZh":"已经怎样都无所谓了"},"cards":[["もう","もう","mou","已经、再也","副词"],["どうなっても","どうなっても","dou natte mo","无论变成怎样都","惯用表达"],["いいや","いいや","ii ya","无所谓、怎样都行","感叹词"]],"confidence":0.97},
+    {"frameId":"l007","caption":{"romaji":"atarimae no koto ga shiritai dake","translationZh":"我只是想知道那些理所当然的事"},"cards":[["当たり前","あたりまえ","atarimae","理所当然","形容动词"],["の","の","no","所属、修饰","格助词","functionZh"],["こと","こと","koto","事、事情","名词"],["が","が","ga","主语标记","格助词","functionZh"],["知りたい","しりたい","shiritai","想知道","动词＋助动词"],["だけ","だけ","dake","仅仅、只","副助词","functionZh"]],"confidence":0.98},
+    {"frameId":"l008","caption":{"romaji":"hoshi ni negau hontou no kimochi","translationZh":"想向星星许下真正的心愿"},"cards":[["星","ほし","hoshi","星星","名词"],["に","に","ni","动作指向的对象","格助词","functionZh"],["願う","ねがう","negau","祈愿、许愿","动词"],["本当","ほんとう","hontou","真正的","形容动词"],["の","の","no","所属、修饰","格助词","functionZh"],["気持ち","きもち","kimochi","心意、感情","名词"]],"confidence":0.95},
+    {"frameId":"l009","caption":{"romaji":"kurushimagire no iiwake wa","translationZh":"情急之下的借口"},"cards":[["苦し紛れ","くるしまぎれ","kurushimagire","情急之下、迫不得已","名词"],["の","の","no","所属、修饰","格助词","functionZh"],["言い訳","いいわけ","iiwake","借口","名词"],["は","は","wa","主题提示","系助词","functionZh"]],"confidence":0.98},
+    {"frameId":"l010","caption":{"romaji":"iranai imi nai","translationZh":"不需要，毫无意义"},"cards":[["いらない","いらない","iranai","不需要","形容词"],["意味ない","いみない","imi nai","没有意义","形容词性短语"]],"confidence":0.98},
+    {"frameId":"l011","caption":{"romaji":"kimi wa dou omou","translationZh":"你怎么想？"},"cards":[["キミ","きみ","kimi","你","代词"],["は","は","wa","主题提示","系助词","functionZh"],["どう","どう","dou","怎样、如何","副词"],["思う","おもう","omou","想、认为","动词"]],"confidence":0.99},
+    {"frameId":"l012","caption":{"romaji":"yukiba o ushinatta mitai da","translationZh":"好像失去了容身之处"},"cards":[["行き場","ゆきば","yukiba","去处、容身之处","名词"],["を","を","o","动作对象","格助词","functionZh"],["失った","うしなった","ushinatta","失去了","动词"],["みたいだ","みたいだ","mitai da","好像、似乎","助动词性表达"]],"confidence":0.98},
+    {"frameId":"l013","caption":{"romaji":"kokoro wa toge no tagui de","translationZh":"心如同荆棘一般，"},"cards":[["心","こころ","kokoro","内心","名词"],["は","は","wa","主题提示","系助词","functionZh"],["棘","とげ","toge","荆棘、刺","名词"],["の","の","no","所属、修饰","格助词","functionZh"],["類で","たぐいで","tagui de","一类的、如同…一般（中顿）","名词＋断定助动词连用形"]],"confidence":0.9,"note":"で为断定助动词中顿，不译为“是”。"},
+    {"frameId":"l014","caption":{"romaji":"onaji koto bakkari kurikaeshite","translationZh":"只是反复做着同样的事"},"cards":[["同じ","おなじ","onaji","相同的","连体词"],["こと","こと","koto","事、事情","名词"],["ばっかり","ばっかり","bakkari","净是、只顾","副助词","functionZh"],["繰り返して","くりかえして","kurikaeshite","反复着","动词"]],"confidence":0.98},
+    {"frameId":"l015","caption":{"romaji":"torikago no naka de odoru","translationZh":"在鸟笼中起舞"},"cards":[["鳥籠","とりかご","torikago","鸟笼","名词"],["の","の","no","所属、修饰","格助词","functionZh"],["中","なか","naka","里面","名词"],["で","で","de","动作地点","格助词","functionZh"],["踊る","おどる","odoru","跳舞","动词"]],"confidence":0.99,"note":"括号内重复踊る不重复建卡。"},
+    {"frameId":"l016","caption":{"romaji":"yowatte ugatte toritsukurou made","translationZh":"虚弱着、剖开着，直至粉饰一切"},"cards":[["弱って","よわって","yowatte","变得虚弱、衰弱着","动词"],["穿って","うがって","ugatte","挖掘、深究","动词"],["取り繕う","とりつくろう","toritsukurou","粉饰、掩饰","动词"],["まで","まで","made","直到","副助词","functionZh"]],"confidence":0.86},
+    {"frameId":"l017","caption":{"romaji":"egaite nakisakende kienai you ni","translationZh":"描绘着、哭喊着，为了不让它消失"},"cards":[["描いて","えがいて","egaite","描绘着","动词"],["泣き叫んで","なきさけんで","nakisakende","哭喊着","动词"],["消えないように","きえないように","kienai you ni","为了不消失","惯用表达"]],"confidence":0.96},
+    {"frameId":"l018","caption":{"romaji":"mahou mitai na tsugou ii mono","translationZh":"像魔法一样称心如意的东西"},"cards":[["魔法","まほう","mahou","魔法","名词"],["みたいな","みたいな","mitai na","像…一样的","助动词性表达"],["都合いい","つごういい","tsugou ii","方便、合乎心意","形容词性短语"],["もの","もの","mono","东西","名词"]],"confidence":0.96},
+    {"frameId":"l019","caption":{"romaji":"shujinkou nara kishoutenketsu","translationZh":"若是主角，就该有起承转合"},"cards":[["主人公","しゅじんこう","shujinkou","主角","名词"],["なら","なら","nara","如果是…、既然是…","接续助词","functionZh"],["起承転結","きしょうてんけつ","kishoutenketsu","起承转合","名词"]],"confidence":0.99},
+    {"frameId":"l020","caption":{"romaji":"saigo wa dou natte mo","translationZh":"最后无论如何，都会是圆满结局"},"cards":[["最後","さいご","saigo","最后","名词"],["は","は","wa","主题提示","系助词","functionZh"],["どうなっても","どうなっても","dou natte mo","无论变成怎样都","惯用表达"]],"confidence":0.98,"note":"happy ending保持原混排位置，不建卡。"},
+    {"frameId":"l021","caption":{"romaji":"sore nara suki ni sasete yo","translationZh":"既然如此，就让我随心所欲吧"},"cards":[["それなら","それなら","sore nara","既然如此","接续词"],["好きに","すきに","suki ni","随心所欲地","副词性短语"],["させてよ","させてよ","sasete yo","让我…吧","动词使役形＋终助词"]],"confidence":0.97},
+    {"frameId":"l022","caption":{"romaji":"mou dou natte mo ii ya","translationZh":"已经怎样都无所谓了"},"cards":[["もう","もう","mou","已经、再也","副词"],["どうなっても","どうなっても","dou natte mo","无论变成怎样都","惯用表达"],["いいや","いいや","ii ya","无所谓、怎样都行","感叹词"]],"confidence":0.97,"note":"与l006相同，但本提案独立列出，不自动继承。"},
+    {"frameId":"l023","caption":{"romaji":"massakasama ni ochite itta","translationZh":"头朝下直直坠落而去"},"cards":[["真っ逆さま","まっさかさま","massakasama","头朝下、倒栽","形容动词"],["に","に","ni","结果状态、方向","格助词","functionZh"],["落ちていった","おちていった","ochite itta","坠落而去","动词"]],"confidence":0.98},
+    {"frameId":"l024","caption":{"romaji":"mujuuryoku","translationZh":"无重力的午夜逃亡"},"cards":[["無重力","むじゅうりょく","mujuuryoku","失重、无重力","名词"],["逃避行","とうひこう","touhikou","逃亡、避世而行","名词"]],"confidence":0.99,"note":"midnight保持原混排位置，不建卡。"}
+  ],
+  "cardTupleSchema": ["token","reading","romaji","meaningOrFunction","posZh","meaningFieldOptional","sourceWordOptional"],
+  "defaultCardFields": {"render": true, "status": "proposal"}
+}

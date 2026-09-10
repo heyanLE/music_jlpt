@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "runId": "20260822-r02-spectrum-calibrated",
+  "result": "pass",
+  "candidate": "project/work/20260822-r02-spectrum-calibrated/amore--16x9--20260822-r02-spectrum-calibrated.mkv",
+  "checks": {
+    "projectValidation": "pass",
+    "qrcTiming": { "full": 67, "unmatched": 0 },
+    "video": { "codec": "h264", "width": 1920, "height": 1080, "fps": "30/1", "cfr": true, "durationSeconds": 275.973 },
+    "audio": { "codec": "flac", "copiedWithoutReencoding": true, "sampleRateHz": 44100, "channels": 2, "bitsPerRawSample": 16 },
+    "spectrum": { "transparent": true, "persistent": true, "bars": 72, "rangeHz": [35, 12000], "analysisSampleRateHz": 44100, "fftSize": 4096, "dBfsWindow": [-58, -12], "autoGain": "track-92nd-percentile", "attackMs": 55, "releaseMs": 300, "peakHoldMs": 180, "peakFallMs": 650 },
+    "cards": "meaning/function uses original 26 px bold font, wraps to two lines, and fails rather than shrinking or clipping"
+  },
+  "screenshots": [
+    { "timeSeconds": 1, "file": "first-lyric.png", "purpose": "lyric/card/highlight/spectrum" },
+    { "timeSeconds": 12, "file": "gap-low.png", "purpose": "persistent spectrum with transparent background in lyric gap" },
+    { "timeSeconds": 45, "file": "long-card.png", "purpose": "two-line full-size meaning" }
+  ]
+}

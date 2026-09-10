@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 2,
+  "result": "passed",
+  "candidate": "project/work/horizontal-main-rail-r1/16x9/kara-no-hako--16x9--horizontal-main-rail-r1.mkv",
+  "candidateSha256": "c242c7e0bc9668960a2fc0d69440801da7cd672237e2dd928af3995e1ee38901",
+  "renderReport": null,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080,
+        "pix_fmt": "yuv420p",
+        "r_frame_rate": "30/1",
+        "bits_per_raw_sample": "8"
+      },
+      {
+        "codec_name": "flac",
+        "codec_type": "audio",
+        "sample_rate": "48000",
+        "r_frame_rate": "0/0",
+        "bits_per_raw_sample": "24"
+      }
+    ],
+    "format": {
+      "duration": "183.844000"
+    }
+  },
+  "screenshots": [
+    {
+      "name": "first-lyric",
+      "timestampMs": 671,
+      "path": "project/qa/horizontal-main-rail-r1-auto/first-lyric.png"
+    },
+    {
+      "name": "last-lyric",
+      "timestampMs": 174602,
+      "path": "project/qa/horizontal-main-rail-r1-auto/last-lyric.png"
+    },
+    {
+      "name": "maximum-cards",
+      "timestampMs": 151773,
+      "path": "project/qa/horizontal-main-rail-r1-auto/maximum-cards.png"
+    },
+    {
+      "name": "transition-stage2-cover-gaussian",
+      "timestampMs": 96214,
+      "path": "project/qa/horizontal-main-rail-r1-auto/transition-stage2-cover-gaussian.png"
+    }
+  ],
+  "requiredVisualChecks": [
+    "three-layer order",
+    "background fit and transitions",
+    "foreground gap mode",
+    "annotation anchors",
+    "English timing",
+    "one-row cards and two-line meaning",
+    "transparent persistent spectrum",
+    "final line"
+  ],
+  "reviewedAt": "2026-09-03T17:56:43.825234+00:00",
+  "qaScope": "authorized horizontal-main-rail-r1 clean full render",
+  "technicalFindings": {
+    "durationMs": 183844,
+    "video": "H.264 1920x1080 yuv420p CFR 30/1; starts at zero",
+    "audio": "FLAC 48000 Hz 24-bit stream-copy; starts at zero",
+    "sourceAudioPacketSha256": "4f44bd10deb164fd37dba13e7b65830fbf7c44a1a6f3202bcc0b10f4ac208d64",
+    "candidateAudioPacketSha256": "4f44bd10deb164fd37dba13e7b65830fbf7c44a1a6f3202bcc0b10f4ac208d64",
+    "audioPacketsBitIdentical": true,
+    "renderMethod": "source background + Gaussian cover + reviewed frames + transparent spectrum; no prior-master pixels",
+    "customRendererGate": "PASS"
+  },
+  "visualFindings": {
+    "horizontalRail": "Passed: previous/current/next sentences form one left-moving rail and clip at x=0/1920 without inset seams.",
+    "cover": "Passed: exact hoshi-furu-umi geometry [850,35,220,220].",
+    "highlight": "Passed: Japanese follows QRC timing; associated furigana and romaji highlight as whole blocks.",
+    "foregroundVeil": "Passed: one foreground-wide 0.28 veil; no lyric-local mask or upper/lower discontinuity.",
+    "cards": "Passed: reviewed 153-card content remains static, translucent, single-row and unhighlighted.",
+    "backgroundTransition": "Passed: 96.114 s background-only video-to-Gaussian transition retains foreground and spectrum.",
+    "spectrum": "Passed: transparent persistent spectrum remains bottom-centred.",
+    "finalLine": "Passed: final line remains visible to output end in persistent mode."
+  },
+  "promotionReady": true
+}

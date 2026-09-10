@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "runId": "20260822-r03-background-onset-aligned",
+  "authorizedAt": "2026-08-22",
+  "userWording": "原视频开头几秒是没声音的，判断是几秒，然后把 FLAC 音频和词卡歌词等全部往后移",
+  "renderAuthorized": true,
+  "hashes": {
+    "sourceManifest": "ff5b1fcfecdc5877e8e43461a7d8de474b43c604c85e7fd401dde5cd8a1f5a3c",
+    "inputManifest": "06e1611ead44a712bc9ffdd271fa8b24dd9ecb1edca627261585613b82a927be",
+    "presentation": "60f43546a4c9d5ba7fc697a321cd44a141eb5383793015ff5c2927a31a4021ae",
+    "sceneTimeline": "881379bfc4008fbc87b34ca4fd9a5bc4402ef9e4087d22b3b037fff3e3654f38",
+    "palette": "797544c0e4e7bb69a71f0803e589974a3e967faf127f2490a90c37884a6bb8c9",
+    "frames": "ad84543d620def3d69179e5994a2fcd1a43dcc037855e87a80318af9ed78391a",
+    "foregroundTemplate": "34fd699db8e49a45f8cd201db1ca31b4d29809c5aa1acf8e89e442b117ba9222",
+    "backgroundTemplate": "f361455331d7d5dad83dfaad9911f0c4002e00c508ad9c60db6c1dc05748174e",
+    "overlayTemplate": "dc0d1e38f3feecc8eb913789dc21e3f68afe8523cdd3db7c8eb9928e1bcb067b",
+    "resolvedLayout": "aefdab95cb4453cc3c8b7d9e7a37757bf4755bcbdba0f19d982aab933f039ba1",
+    "renderer": "ed6c4c28fd8c818a91204b7bc61f00dd3293880e138368f4ab6b45686c8b3a1a"
+  }
+}

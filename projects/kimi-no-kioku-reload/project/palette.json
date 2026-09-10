@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "algorithm": "saturated-cover-pixel-hsv-v1",
+  "cover": "C:\\project\\musicjlpt\\projects\\kimi-no-kioku-reload\\source\\cover.jpg",
+  "accent": "#002030",
+  "activeTint": "#009CEB",
+  "body": "#0E3447",
+  "cardFill": {
+    "color": "#002030",
+    "alpha": 0.75
+  }
+}

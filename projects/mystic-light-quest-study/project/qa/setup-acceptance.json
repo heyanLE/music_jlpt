@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "stage": "setup_complete",
+  "result": "passed",
+  "videoTrimMs": 3064,
+  "alignmentEvidence": "project/alignment/video-intro-trim.json",
+  "audioVerification": "project/qa/lossless-audio.json",
+  "lyrics": {"frames": 42, "fullMatches": 42, "unmatched": 0, "firstLyricMs": 11908, "excludedMetadataRows": 4},
+  "visualFindings": [
+    "Both 16x9 and 4x3 covers were inspected: character is centered within the artwork field, title spans two lines, and the gold Hi-Res logo is visible without overlapping copy.",
+    "The setup preview uses the real cropped MV and foreground cover, outlined bold Japanese and QMTS Chinese; no grammar cards are shown until the card-draft phase.",
+    "The source MV contains intentional letterboxing and baked-in subtitles. They are retained at setup; no extra image cropping was requested."
+  ],
+  "nextStage": "card_draft",
+  "finalVideoRendered": false
+}
