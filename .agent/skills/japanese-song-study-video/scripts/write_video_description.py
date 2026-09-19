@@ -52,7 +52,11 @@ def audio_spec(music: Path) -> dict:
 
 def build(root: Path) -> dict:
     project = root / "project"
-    cover = load(project / "render" / "cover-content.json")
+    cover_path = project / "render" / "cover-content.json"
+    if not cover_path.is_file():
+        raise SystemExit(f"Cover content is missing: {cover_path.relative_to(root).as_posix()}. The description takes the "
+                         "title, artist, work and role from it, so build the covers first (references/07-covers.md).")
+    cover = load(cover_path)
     overrides = load(project / "render" / "description.json") if (project / "render" / "description.json").is_file() else {}
     config = {**DEFAULTS, **overrides}
     manifest = load(project / "input-manifest.json")
@@ -63,7 +67,10 @@ def build(root: Path) -> dict:
     artist = cover["artist"]
     reading = config.get("artistReading", "")
     artist_part = f"{artist} ({reading})" if reading else artist
-    work = config["workName"]
+    work = config.get("workName")
+    if not work:
+        raise SystemExit("render/description.json must define workName (the work the song belongs to, e.g. 上伊那牡丹) "
+                         "so the title line can name it; see references/13-video-description.md")
     role = config.get("songRole", "")
     version = config.get("version", "完整版")
     work_part = f"（《{work}》{role} {version}）" if role else f"（《{work}》{version}）"

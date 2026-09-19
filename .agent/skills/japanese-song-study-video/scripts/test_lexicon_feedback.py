@@ -19,7 +19,7 @@ from pathlib import Path
 
 SCRIPTS = Path(__file__).resolve().parent
 sys.path.insert(0, str(SCRIPTS))
-from build_lexicon import score_entry  # noqa: E402
+from build_lexicon import score_entry, variant_rank  # noqa: E402
 from lexicon_match import load_lexicon  # noqa: E402
 
 RESULTS: list[dict] = []
@@ -51,12 +51,42 @@ def main() -> None:
           score_entry(entry_with(rejects=1, accepts=0)) < 0.5,
           "corrections no longer count as accepts in build_lexicon.score_entry")
 
+    # -- dominant pick / pinning -----------------------------------------------
+    # A correction is one more attested variant and must never outrank attested
+    # content on its own, or a single 義訓 reading would rewrite every later
+    # project. The scalar override in overrides.json is the explicit exception:
+    # the user's own decision about the dominant value, which frequency cannot
+    # overrule (ない was voted 没有 by dozens of dirty drafts before the user
+    # ruled it an auxiliary in this context).
+    def variant_record(**fields) -> dict:
+        record = {"value": "v", "count": 1, "humanConfirmed": 0, "projects": {"draft"},
+                  "recencyRank": 1, "lastSeenAt": "2026-01-01T00:00:00+00:00"}
+        record.update(fields)
+        return record
+
+    frequent = variant_record(value="frequent", count=9, humanConfirmed=1)
+    correction_only = variant_record(value="correction", count=1, reviewedCorrections=1, humanConfirmed=1)
+    pinned = variant_record(value="pinned", count=1, humanConfirmed=1, pinned=True)
+    check("a correction-only value cannot become dominant",
+          variant_rank(correction_only) < variant_rank(frequent),
+          f"{variant_rank(correction_only)} < {variant_rank(frequent)}")
+    check("a pinned value outranks a frequency leader",
+          variant_rank(pinned) > variant_rank(frequent),
+          f"{variant_rank(pinned)} > {variant_rank(frequent)}")
+    check("among unpinned values frequency still decides",
+          variant_rank(variant_record(value="weak", count=3, humanConfirmed=1)) < variant_rank(frequent),
+          "a pin is the only thing that outranks a frequency lead")
+
     # -- kana policy -----------------------------------------------------------
+    # The fixtures replay the published lexicon, so locate the workspace from this
+    # file (.../.agent/skills/<skill>/scripts/) rather than a machine-specific path;
+    # pass a workspace root as argv[1] to test a different one.
+    workspace_root = Path(sys.argv[1]).resolve() if len(sys.argv) > 1 else SCRIPTS.parents[3]
     workspace = Path(tempfile.mkdtemp(prefix="lexicon-test-"))
     try:
         lexicon_dir = workspace / "lexicon"
         lexicon_dir.mkdir(parents=True)
-        source = Path(r"C:\project\musicjlpt\lexicon\lexicon.json")
+        source = workspace_root / "lexicon" / "lexicon.json"
         if source.is_file():
             shutil.copy2(source, lexicon_dir / "lexicon.json")
             lexicon = load_lexicon(lexicon_dir / "lexicon.json")

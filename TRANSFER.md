@@ -16,10 +16,23 @@ git lfs fsck
 
 Git LFS 指针不等于素材下载成功。用本机 Python 3.10+ 创建虚拟环境，安装 `.agent/skills/japanese-song-study-video/requirements.txt`；将 FFmpeg/ffprobe 加入 PATH。Node/npm 只用于需要重新解密的 QRC；已有解码文件不用重复导入。不要重新初始化历史项目。
 
+环境检查与修复一条命令完成（缺少依赖时会自动安装并打印每个工具的实际路径；`--check` 只报告不改动）：
+
 ```sh
+python -B .agent/skills/japanese-song-study-video/scripts/bootstrap_env.py
 python -B .agent/skills/japanese-song-study-video/scripts/check_runtime.py
 python -B .agent/skills/japanese-song-study-video/scripts/inspect_project.py projects/mystic-light-quest-study --renderer projects/mystic-light-quest-study/project/render/render_video.py
 ```
+
+QRC 解密器装一次即可全仓库共用：`bootstrap_env.py --install-decoder` 装到 `.agent/skills/japanese-song-study-video/runtime/`；`normalize_lyrics.py` 先找项目内 `project/work/qrc-runtime`，找不到再用这个共用副本，也可以 `--install-decoder` 按项目安装。
+
+确认「clone 后能直接生成新项目并出片」，跑一次端到端冒烟测试（合成 12 秒素材，走完 freeze → 配置 → 歌词 → 词库起草 → 封存审核 → 内容决策 → 渲染授权 → 渲染 → 音频校验 → QA/封面/简介，结束自动清理）：
+
+```sh
+python -B .agent/skills/japanese-song-study-video/scripts/smoke_new_project.py
+```
+
+它只用仓库里的 skill 与已入库的 `lexicon/`，LRC 输入不需要 Node；通过即表示当前机器可以开工。
 
 当前模板字体为微软雅黑粗体 `msyhbd.ttc`、index 0。不随仓库分发微软字体。Windows 通常已有；其他系统需自行提供有权使用的字体并通过环境变量 `STUDY_FONT` 指向它。替代字体需要检查文字宽度、注音位置和长词卡，不能声称像素一致。check_runtime.py 向终端输出运行时版本/字体哈希 JSON；需要留档时将 stdout 保存为忽略的 runtime.local.json。不要从旧机器复制可执行程序路径。
 

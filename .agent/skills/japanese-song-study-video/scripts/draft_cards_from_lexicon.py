@@ -146,27 +146,34 @@ def main() -> None:
         japanese = frame["caption"]["japanese"]
         result = lexicon.match_line(japanese, confidence_threshold=args.confidence_threshold)
         cards, furigana, cursor = [], [], 0
+        # Spans arrive in lyric order, and the card list must keep that order. The
+        # renderer anchors each token with a forward-only cursor (``find(token, cursor)``)
+        # and apply_lexicon_review.validate_cards enforces the same rule, so a list
+        # regrouped by confidence would silently lose the anchor - and the romaji - of
+        # every card that sits before a higher-confidence one in the line.
         for span in result["spans"]:
-            if span["kind"] == "match" and not span.get("needsReview"):
-                cards.append(card_from_span(span))
-                ruby = ruby_for(span["entrySurface"], span["reading"], japanese, cursor)
-                if ruby:
-                    cursor = ruby.pop("_cursor")
-                    furigana.append(ruby)
+            # Matches flagged as fragments of an unknown phrase are deliberately left
+            # out: they would appear as meaningless single-character cards (ね/た inside
+            # 重ねた) and the phrase unit in the review queue already carries them as
+            # hints. Matches the lexicon knows but cannot vouch for keep their candidate
+            # value as a starting point for the review pass.
+            if span["kind"] != "match" or span.get("withinUnknownPhrase"):
+                continue
+            card = card_from_span(span)
+            if span.get("needsReview"):
+                card["status"] = "rag-proposed-low-confidence"
+                card["rag"] = {**card["rag"], "reason": "; ".join(span.get("reasons", [])) or "below confidence threshold"}
+                reused += 1
+            else:
                 drafted += 1
-        # Matches the lexicon knows but cannot vouch for keep their candidate value
-        # as a starting point for the review pass. Matches flagged as fragments of
-        # an unknown phrase are deliberately left out: they would appear as
-        # meaningless single-character cards (ね/た inside 重ねた) and the phrase
-        # unit in the review queue already carries them as hints.
-        soft = [
-            span for span in result["spans"]
-            if span["kind"] == "match" and span.get("needsReview") and not span.get("withinUnknownPhrase")
-        ]
-        for span in soft:
-            cards.append({**card_from_span(span), "status": "rag-proposed-low-confidence",
-                          "rag": {**card_from_span(span)["rag"], "reason": "; ".join(span.get("reasons", [])) or "below confidence threshold"}})
-        reused += len(soft)
+            # Ruby is a reading anchor, not a meaning claim: an attested surface and its
+            # attested kana reading stay drawable while the gloss itself is queued for
+            # review, otherwise those lines would render with no furigana at all.
+            ruby = ruby_for(span["entrySurface"], span["reading"], japanese, cursor)
+            if ruby:
+                cursor = ruby.pop("_cursor")
+                furigana.append(ruby)
+            cards.append(card)
         frame["grammarCards"] = cards
         frame["caption"]["furigana"] = furigana
         if result["reviewUnits"]:

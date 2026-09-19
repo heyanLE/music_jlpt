@@ -9,6 +9,10 @@
 /qa-*/
 /project-skill-script-smoke/
 /skill-updates/
+# The QRC decoder installed by bootstrap_env.py is a local dependency install, not source.
+/.agent/skills/japanese-song-study-video/runtime/
+# Editor/agent tool state.
+/.workbuddy/
 **/__pycache__/
 **/*.pyc
 **/node_modules/

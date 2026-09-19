@@ -375,6 +375,46 @@
       "accepts": 0,
       "rejects": 0,
       "corrections": 1
+    },
+    "ように": {
+      "accepts": 0,
+      "rejects": 0,
+      "corrections": 2
+    },
+    "忘れない": {
+      "accepts": 0,
+      "rejects": 0,
+      "corrections": 1
+    },
+    "ない": {
+      "accepts": 0,
+      "rejects": 0,
+      "corrections": 2
+    },
+    "ん": {
+      "accepts": 0,
+      "rejects": 0,
+      "corrections": 2
+    },
+    "鬱向いて": {
+      "accepts": 0,
+      "rejects": 0,
+      "corrections": 1
+    },
+    "見てる": {
+      "accepts": 0,
+      "rejects": 0,
+      "corrections": 1
+    },
+    "ても": {
+      "accepts": 0,
+      "rejects": 0,
+      "corrections": 1
+    },
+    "こんなん": {
+      "accepts": 0,
+      "rejects": 0,
+      "corrections": 1
     }
   },
   "log": [
@@ -1147,8 +1187,118 @@
       "newValue": "あす",
       "context": "remember l015/l040 微笑む明日は - the song's own furigana annotation gives あす",
       "reason": null
+    },
+    {
+      "at": "2026-09-19T17:46:15.390254+00:00",
+      "project": "boku-to-sanshoku",
+      "surface": "ように",
+      "outcome": "corrected",
+      "field": "meaning",
+      "newValue": "希望（不要……）",
+      "context": "boku-to-sanshoku l008 忘れないように - Vない形＋ように 是祈愿/希望，不是「为了不……；以免……」的预防目的用法",
+      "reason": null
+    },
+    {
+      "at": "2026-09-19T17:46:15.390254+00:00",
+      "project": "boku-to-sanshoku",
+      "surface": "ように",
+      "outcome": "corrected",
+      "field": "grammar",
+      "newValue": "动词ない形＋ように，表示祈愿、希望",
+      "context": "boku-to-sanshoku l008 忘れないように - 旧值「接续表达」过于笼统",
+      "reason": null
+    },
+    {
+      "at": "2026-09-19T17:46:15.390254+00:00",
+      "project": "boku-to-sanshoku",
+      "surface": "忘れない",
+      "outcome": "corrected",
+      "field": "grammar",
+      "newValue": "第二类动词「忘れる」的否定形",
+      "context": "boku-to-sanshoku l008 - 旧主导值「动词（活用）」没有说明是哪一类动词",
+      "reason": null
+    },
+    {
+      "at": "2026-09-19T17:46:15.390254+00:00",
+      "project": "boku-to-sanshoku",
+      "surface": "ない",
+      "outcome": "corrected",
+      "field": "meaning",
+      "newValue": "不……（否定）",
+      "context": "boku-to-sanshoku l034 こんなん全然聞いてない - 該处 ない 是「聞いている」的否定（い抜き言葉），不是表示不存在的形容词「没有」",
+      "reason": null
+    },
+    {
+      "at": "2026-09-19T17:46:15.390254+00:00",
+      "project": "boku-to-sanshoku",
+      "surface": "ない",
+      "outcome": "corrected",
+      "field": "grammar",
+      "newValue": "否定助动词；「聞いてない」＝「聞いていない」的口语省略",
+      "context": "boku-to-sanshoku l034 こんなん全然聞いてない - 旧主导值「形容词」把否定助动词误标为イ形容词",
+      "reason": null
+    },
+    {
+      "at": "2026-09-19T17:46:15.390254+00:00",
+      "project": "boku-to-sanshoku",
+      "surface": "ん",
+      "outcome": "corrected",
+      "field": "meaning",
+      "newValue": "口语约音（の→ん），本身不表示「是」",
+      "context": "boku-to-sanshoku l034 こんなん＝こんなの - 旧主导值「是；嗯哼」让词库把 ん 自动复用成名词；本轮该行已改用整块词卡「こんなん」，ん 不再单独成卡",
+      "reason": null
+    },
+    {
+      "at": "2026-09-19T17:46:15.390254+00:00",
+      "project": "boku-to-sanshoku",
+      "surface": "ん",
+      "outcome": "corrected",
+      "field": "grammar",
+      "newValue": "「の」的口语约音（の→ん）",
+      "context": "boku-to-sanshoku l034 こんなん＝こんなの",
+      "reason": null
+    },
+    {
+      "at": "2026-09-19T17:46:15.390254+00:00",
+      "project": "boku-to-sanshoku",
+      "surface": "鬱向いて",
+      "outcome": "corrected",
+      "field": "grammar",
+      "newValue": "「俯（うつむ）く」的谐音写法：写作「鬱向いて」",
+      "context": "boku-to-sanshoku l009 - 用户要求 鬱 + 向いて 合并为一张词卡",
+      "reason": null
+    },
+    {
+      "at": "2026-09-19T17:46:15.390254+00:00",
+      "project": "boku-to-sanshoku",
+      "surface": "見てる",
+      "outcome": "corrected",
+      "field": "grammar",
+      "newValue": "第二类动词「見る」的て形＋补助动词「いる」约音「てる」",
+      "context": "boku-to-sanshoku l016 - 用户要求 見て + る 合并为一张词卡",
+      "reason": null
+    },
+    {
+      "at": "2026-09-19T17:46:15.390254+00:00",
+      "project": "boku-to-sanshoku",
+      "surface": "ても",
+      "outcome": "corrected",
+      "field": "grammar",
+      "newValue": "接续助词「て」＋副助词「も」",
+      "context": "boku-to-sanshoku l030 - 用户要求 て + も 合并为一张词卡",
+      "reason": null
+    },
+    {
+      "at": "2026-09-19T17:46:15.390254+00:00",
+      "project": "boku-to-sanshoku",
+      "surface": "こんなん",
+      "outcome": "corrected",
+      "field": "grammar",
+      "newValue": "「こんなの」的口语约音（「の」→「ん」）",
+      "context": "boku-to-sanshoku l034 - 用户要求 こんな + ん 合并为一张词卡",
+      "reason": null
     }
   ],
-  "lastUpdatedAt": "2026-09-15T15:32:45.932004+00:00",
-  "lastDecisionWording": "reviewer medium-confidence finding: 明日 in this song is sung あす, not the dictionary's dominant あした"
+  "lastUpdatedAt": "2026-09-19T17:46:15.390254+00:00",
+  "lastDecisionWording": "1. l008 的 ように 应该是希望的含义；2. l009 的 鬱向いて 不要拆开，合并一起为垂头丧气的含义；3. l010 の あの日を 里 を 不是标记后面动作的对象，是标记前面 忘れない 的动作作用对象，相关格助词不要写太复杂，直接写提示动作作用对象即可；4. l016 の 見てる 词卡合并一起合理一点；5. l030 の ても 词卡合并一起合理一点；6. l034 こんなん 应该是 こんなの 的约音；7. l034 同行的 ない 也修改吧，这次直接改完渲染，不用走额外审查流程"
 }

@@ -100,7 +100,14 @@ def main() -> None:
     root = args.project_root.resolve(); project = root / "project"; timing = project / "timing"
     manifest = load(project / "input-manifest.json"); lyrics = manifest["lyrics"]
     music_duration = duration_ms(root / manifest["music"]["asset"])
+    # The decoder runtime may live in the project (per-project install) or once for the whole
+    # skill (bootstrap_env.py --install-decoder); prefer the project copy, fall back to the
+    # shared one so a fresh clone does not have to install it for every project.
+    shared_runtime = Path(__file__).resolve().parent.parent / "runtime"
     runtime = args.decoder_runtime or project / "work" / "qrc-runtime"
+    if not (runtime / "node_modules" / "smart-lyric" / "package.json").is_file() and \
+            (shared_runtime / "node_modules" / "smart-lyric" / "package.json").is_file():
+        runtime = shared_runtime
     excludes = tuple(args.exclude_prefix)
 
     if lyrics["format"] == "qq-music":

@@ -11,6 +11,16 @@ git check-ignore -v projects/<slug>/project/frames.json   # 非保留项目应�
 git ls-tree origin/main projects/ --name-only             # 远端应只有 README.md 和上面两个项目
 ```
 
+## 新建项目（clone 后直接用 skill 生成）
+
+新项目同样落在 `projects/<slug>/`，但 `/projects/*` 默认也会忽略它——**生成和渲染不受影响，只是默认不入库**。要让这个新项目进仓库，在根 `.gitignore` 加上一行例外并确认媒体走 LFS：
+
+```gitignore
+!/projects/<slug>/
+```
+
+`python -B .agent/skills/japanese-song-study-video/scripts/smoke_new_project.py` 会用一个合成素材的临时项目把整条流水线跑一遍（freeze → 配置 → 歌词 → 词库起草 → 封存审核 → 内容决策 → 渲染授权 → 渲染 → 音频校验 → QA/封面/简介），用来确认当前环境能生成新项目并出片。它建在 `projects/_smoke-<时间戳>/`，默认跑完即删。
+
 ## 目录结构
 
 每个项目保留三类副本：

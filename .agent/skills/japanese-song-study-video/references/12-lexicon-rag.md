@@ -17,7 +17,7 @@ learns from the user's decisions.
 | `lexicon/lexicon.json` | `build_lexicon.py` | derived store: entries, variants, reliability, provenance |
 | `lexicon/project-order.json` | `build_lexicon.py` | append-only recency order for the newest-wins conflict rule |
 | `lexicon/feedback.json` | `apply_lexicon_feedback.py` | accept/reject/correction counters from the user's reviews |
-| `lexicon/overrides.json` | `apply_lexicon_feedback.py` | reviewed corrections (added as variants) and reliability caps |
+| `lexicon/overrides.json` | `apply_lexicon_feedback.py` (scalar pins by hand) | reviewed corrections (added as variants), scalar dominant-value pins and reliability caps |
 
 `lexicon.json` is derived: never hand-edit it, rebuild it.
 
@@ -97,6 +97,39 @@ alike. Both modes require the user's verbatim `userWording` (a generic
 and require the audit's sealed draft to be a real recorded ancestor of the frames
 being rendered.
 
+## Correcting a row the queue never covers
+
+`lexicon_match` queues a row only when it contains text the lexicon cannot resolve. A row
+whose every span is a lexicon match produces **no review unit at all**, even when each span
+is flagged `needsReview` because the entry carries several attested senses. Such a row is
+drafted from the entry's dominant value, promoted to `rag-reused` when the review is
+applied, and can only be caught by the user reading the previews.
+
+A correction to one of those rows cannot travel through the online review - the sealer and
+the render gate both reject a unit that was never queued - so it goes through the guarded
+change set instead:
+
+```bash
+python SKILL_ROOT/scripts/apply_review_merge.py --project-root projects/<slug> \
+    --user-wording "VERBATIM" --scope "all 35 frames (l001-l035)"
+```
+
+`project/review/accepted-changes.json` carries `baseFrameSha256`, `confirmAllFrames: true`
+and one `set` (`{frameId, field: "grammarCards[1].zhMeaning", old, new}`) or `mergeCards`
+(`{frameId, indices, expectedTokens, newCard}`) operation per change. Every `old` value and
+`expectedTokens` list is verified before anything is written, so a stale change set fails
+instead of silently overwriting reviewed content. Operations are applied in order against the
+same mutating frame, so when one row needs both a `mergeCards` and a `set`, list the `set`
+first and index it against the *pre-merge* card list (`mergeCards` removes the merged
+positions and reinserts one card at `indices[0]`, shifting every later index). `--accepted` resolves against the current
+directory, so omit it and let the default under the project root apply. The merge also
+writes `merge-log.json` and `review-decision.json` (the two files the render gate reads)
+and stamps `human-confirmed` on every card, so run it only once the user has accepted the
+content. Record the change set in `build-state.json` as well: a later
+`draft_cards_from_lexicon.py --force` overwrites the frames, and the change set must then be
+re-applied. Convert the same correction into lexicon feedback so the entry is flagged on
+its next reuse.
+
 ## Learning from the decision
 
 After the user decides, convert the outcome into feedback and rebuild:
@@ -105,6 +138,10 @@ After the user decides, convert the outcome into feedback and rebuild:
 python SKILL_ROOT/scripts/apply_lexicon_feedback.py WORKSPACE_ROOT --decisions decisions.json --apply
 python SKILL_ROOT/scripts/build_lexicon.py WORKSPACE_ROOT
 ```
+
+Add `--allow-new` when the decision covers a merged chunk that is not in the published
+lexicon yet (drop it for a plain dry run first: the script refuses unknown surfaces so a
+typo cannot create a phantom entry).
 
 * **accepted** → the entry's reliability rises (it will auto-reuse next time);
 * **corrected** → recorded as its own signal plus an extra attested *variant* (a
@@ -117,6 +154,67 @@ python SKILL_ROOT/scripts/build_lexicon.py WORKSPACE_ROOT
 
 Feedback for a surface that is not in the published lexicon is refused unless
 `--allow-new`, so a typo cannot create a phantom entry.
+
+### What a correction actually moves
+
+A correction is an extra attested variant, never a replacement, and
+`build_lexicon.variant_rank` refuses to promote a value that exists *only* because of a
+reviewed correction - so writing the feedback is not the same as changing the dominant
+value a later draft reuses. What moves a dominant is the project's own frames: they
+carry the corrected value as `human-confirmed`, and frame + correction beats the older
+unconfirmed attestations.
+
+* Say what will move before promising the user a fix. In the 僕と三原色 round the
+  corrected ように (meaning and grammar) and 忘れない (grammar) took over their dominant
+  fields with no extra step, while ない kept 没有 / 形容词: the leading values carried 6
+  and 23 attestations against the 2 the correction added. That is a prefill problem, not
+  a silent-wrong-card problem - an entry with several attested meanings is never
+  auto-reused (confidence caps at 0.6, under the 0.75 reuse threshold) and the
+  corrected value is listed in `alternateMeanings`.
+* **A scalar override is the only thing that outranks frequency**, and it is what to
+  reach for when the losing value is just a lead built by dirty drafts. Write the
+  decision in the scalar form of `lexicon/overrides.json`, keeping any `corrections`
+  entries for provenance:
+
+  ```jsonc
+  "ない": { "meaning": "不……（否定）", "grammar": "否定助动词；「聞いてない」＝「聞いていない」的口语省略" }
+  ```
+
+  `build_lexicon.variant_rank` ranks a pinned value first, so it wins `dominant*` with a
+  fraction of the attestations, and `lexicon.json` marks the record `"pinned": true`
+  beside the value that leads on count. State two consequences when you use one: the pin
+  rewrites the prefill of **every** later project until it is edited out (nothing removes
+  it automatically), and a pinned `grammar` is what `is_function_entry` reads - pinning
+  a particle/auxiliary reading re-classifies the entry and raises its ambiguity penalty
+  (ない fell 0.74 -> 0.55), which is the intended direction: an ambiguous auxiliary must
+  not be auto-reused. Confirm the pin moved what you claim by rebuilding to a temporary
+  `--out` path and diffing `dominant*` against the published file.
+* A merged chunk is the reliable fix for a wrongly split word: the new entry
+  (`こんなん`, `見てる`, `ても`, `鬱向いて`) is `human-confirmed`, reliability 0.9,
+  auto-fillable, and the longest-match rule makes it beat the old こんな + ん split in
+  every later project.
+* Do not record feedback for a card whose wording came from the first draft or the
+  online review rather than from the lexicon - a near-duplicate variant on a particle
+  costs 0.05 reliability and buys nothing.
+* `apply_lexicon_feedback.py` accepts `kind` as a correctable field, but
+  `build_lexicon.py` only folds corrections to `VARIANT_FIELDS` (meaning, grammar,
+  reading, romaji) - a `kind` correction is logged in `overrides.json` and then ignored,
+  so the entry keeps its old word class (and its old ambiguity penalty).
+
+### Rebuilding has two side effects
+
+`build_lexicon.py` rewrites `lexicon/lexicon.json`, and that file is the revision
+`verify_render_gate.py` binds as `lexiconSha256`. Rebuilding after a delivery makes
+`validate_project.py --stage render` report `Render authorization hash missing or stale:
+lexiconSha256` (setup and draft still pass; the delivered video, manifest and QA are
+unaffected). Say so when you offer the rebuild; the authorized revision is the committed
+blob, recoverable with `git show HEAD:lexicon/lexicon.json`.
+
+A rebuild also folds in **every** project whose `project/frames.json` is newer than the
+published lexicon, not just the one you are reporting on - in that round 89 surfaces
+appeared and 34 dominant values moved, including entries from unrelated songs. Build to a
+temporary path with `--out <file inside the workspace>` and diff it against the published
+file before promoting, so the scope you report is the real one.
 
 ## Rules
 

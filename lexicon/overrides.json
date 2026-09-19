@@ -34,6 +34,117 @@
           "at": "2026-09-15T15:32:45.932004+00:00"
         }
       ]
+    },
+    "ように": {
+      "corrections": [
+        {
+          "field": "meaning",
+          "value": "希望（不要……）",
+          "context": "boku-to-sanshoku l008 忘れないように - Vない形＋ように 是祈愿/希望，不是「为了不……；以免……」的预防目的用法",
+          "project": "boku-to-sanshoku",
+          "at": "2026-09-19T17:46:15.390254+00:00"
+        },
+        {
+          "field": "grammar",
+          "value": "动词ない形＋ように，表示祈愿、希望",
+          "context": "boku-to-sanshoku l008 忘れないように - 旧值「接续表达」过于笼统",
+          "project": "boku-to-sanshoku",
+          "at": "2026-09-19T17:46:15.390254+00:00"
+        }
+      ]
+    },
+    "忘れない": {
+      "corrections": [
+        {
+          "field": "grammar",
+          "value": "第二类动词「忘れる」的否定形",
+          "context": "boku-to-sanshoku l008 - 旧主导值「动词（活用）」没有说明是哪一类动词",
+          "project": "boku-to-sanshoku",
+          "at": "2026-09-19T17:46:15.390254+00:00"
+        }
+      ]
+    },
+    "ない": {
+      "meaning": "不……（否定）",
+      "grammar": "否定助动词；「聞いてない」＝「聞いていない」的口语省略",
+      "corrections": [
+        {
+          "field": "meaning",
+          "value": "不……（否定）",
+          "context": "boku-to-sanshoku l034 こんなん全然聞いてない - 該处 ない 是「聞いている」的否定（い抜き言葉），不是表示不存在的形容词「没有」",
+          "project": "boku-to-sanshoku",
+          "at": "2026-09-19T17:46:15.390254+00:00"
+        },
+        {
+          "field": "grammar",
+          "value": "否定助动词；「聞いてない」＝「聞いていない」的口语省略",
+          "context": "boku-to-sanshoku l034 こんなん全然聞いてない - 旧主导值「形容词」把否定助动词误标为イ形容词",
+          "project": "boku-to-sanshoku",
+          "at": "2026-09-19T17:46:15.390254+00:00"
+        }
+      ]
+    },
+    "ん": {
+      "corrections": [
+        {
+          "field": "meaning",
+          "value": "口语约音（の→ん），本身不表示「是」",
+          "context": "boku-to-sanshoku l034 こんなん＝こんなの - 旧主导值「是；嗯哼」让词库把 ん 自动复用成名词；本轮该行已改用整块词卡「こんなん」，ん 不再单独成卡",
+          "project": "boku-to-sanshoku",
+          "at": "2026-09-19T17:46:15.390254+00:00"
+        },
+        {
+          "field": "grammar",
+          "value": "「の」的口语约音（の→ん）",
+          "context": "boku-to-sanshoku l034 こんなん＝こんなの",
+          "project": "boku-to-sanshoku",
+          "at": "2026-09-19T17:46:15.390254+00:00"
+        }
+      ]
+    },
+    "鬱向いて": {
+      "corrections": [
+        {
+          "field": "grammar",
+          "value": "「俯（うつむ）く」的谐音写法：写作「鬱向いて」",
+          "context": "boku-to-sanshoku l009 - 用户要求 鬱 + 向いて 合并为一张词卡",
+          "project": "boku-to-sanshoku",
+          "at": "2026-09-19T17:46:15.390254+00:00"
+        }
+      ]
+    },
+    "見てる": {
+      "corrections": [
+        {
+          "field": "grammar",
+          "value": "第二类动词「見る」的て形＋补助动词「いる」约音「てる」",
+          "context": "boku-to-sanshoku l016 - 用户要求 見て + る 合并为一张词卡",
+          "project": "boku-to-sanshoku",
+          "at": "2026-09-19T17:46:15.390254+00:00"
+        }
+      ]
+    },
+    "ても": {
+      "corrections": [
+        {
+          "field": "grammar",
+          "value": "接续助词「て」＋副助词「も」",
+          "context": "boku-to-sanshoku l030 - 用户要求 て + も 合并为一张词卡",
+          "project": "boku-to-sanshoku",
+          "at": "2026-09-19T17:46:15.390254+00:00"
+        }
+      ]
+    },
+    "こんなん": {
+      "corrections": [
+        {
+          "field": "grammar",
+          "value": "「こんなの」的口语约音（「の」→「ん」）",
+          "context": "boku-to-sanshoku l034 - 用户要求 こんな + ん 合并为一张词卡",
+          "project": "boku-to-sanshoku",
+          "at": "2026-09-19T17:46:15.390254+00:00"
+        }
+      ]
     }
   }
 }

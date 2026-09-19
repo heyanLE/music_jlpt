@@ -128,7 +128,8 @@ def dedupe_senses(value: str) -> str:
     return "；".join(parts) if parts else value
 
 
-def add_variant(bucket: dict[str, dict], value: str, recorded_at: str, confirmed: bool, project: str, rank: int) -> None:
+def add_variant(bucket: dict[str, dict], value: str, recorded_at: str, confirmed: bool, project: str, rank: int,
+                pinned: bool = False) -> None:
     value = dedupe_senses(value)
     if not value:
         return
@@ -136,6 +137,8 @@ def add_variant(bucket: dict[str, dict], value: str, recorded_at: str, confirmed
     record["count"] += 1
     record["humanConfirmed"] += int(confirmed)
     record["projects"].add(project)
+    if pinned:
+        record["pinned"] = True
     if project == "reviewed-correction":
         record["reviewedCorrections"] = record.get("reviewedCorrections", 0) + 1
     if rank >= record.get("recencyRank", -1):
@@ -145,8 +148,8 @@ def add_variant(bucket: dict[str, dict], value: str, recorded_at: str, confirmed
 
 
 def variant_rank(record: dict) -> tuple:
-    """Ranking for the dominant pick: attested content first, then human-confirmed,
-    frequency and recency.
+    """Ranking for the dominant pick: an explicit user pin first, then attested
+    content, then human-confirmed, frequency and recency.
 
     A value that exists *only* because of a reviewed correction never becomes dominant.
     A correction is how a context-dependent reading enters the store - 溢れる read as
@@ -154,16 +157,26 @@ def variant_rank(record: dict) -> tuple:
     else - so promoting it would silently rewrite every later project. It still counts
     as an attested variant, and the extra variant raises the entry's ambiguity so the
     matcher sends the word to review.
+
+    The one thing that outranks frequency is a **pin**: the scalar form in
+    ``overrides.json`` (``"ない": {"meaning": "..."}``) is the user's own statement
+    about the dominant value, not one more attestation. Frequency is a poor proxy for
+    truth when the losing value was voted for by dirty drafts - ない carried 没有 in
+    dozens of drafts before the user ruled it an auxiliary in this context - and a
+    correction alone can never overtake that lead. Pinning is the escape hatch, and
+    it is deliberately rare: it rewrites every later project's prefill, so it needs a
+    decision, not a hunch.
     """
     attested = 1 if record["count"] > record.get("reviewedCorrections", 0) else 0
-    return (attested, 1 if record["humanConfirmed"] else 0, record["count"], record.get("recencyRank", 0), record["lastSeenAt"])
+    return (1 if record.get("pinned") else 0, attested, 1 if record["humanConfirmed"] else 0,
+            record["count"], record.get("recencyRank", 0), record["lastSeenAt"])
 
 
 def serialise_variants(bucket: dict[str, dict]) -> list[dict]:
     ordered = sorted(bucket.values(), key=variant_rank, reverse=True)
     output = []
     for record in ordered[:MAX_VARIANTS]:
-        output.append({
+        item = {
             "value": record["value"],
             "count": record["count"],
             "humanConfirmed": record["humanConfirmed"],
@@ -171,7 +184,12 @@ def serialise_variants(bucket: dict[str, dict]) -> list[dict]:
             "lastSeenAt": record["lastSeenAt"],
             "recencyRank": record.get("recencyRank", 0),
             "reviewedCorrections": record.get("reviewedCorrections", 0),
-        })
+        }
+        # Only the pin is flagged, so a dominant value that contradicts the frequency
+        # leader is explainable from lexicon.json alone.
+        if record.get("pinned"):
+            item["pinned"] = True
+        output.append(item)
     return output
 
 
@@ -348,8 +366,12 @@ def main() -> None:
                             correction.get("at") or datetime.now(timezone.utc).isoformat(), True, "reviewed-correction", len(order) + 1)
         for field in VARIANT_FIELDS:
             if field in override and not isinstance(override[field], dict):
+                # Scalar form = the user's own decision about the dominant value, so it
+                # is pinned (ranked first) instead of competing on frequency. The
+                # timestamp is the file's mtime: a pin has no per-correction date.
                 stamp = datetime.fromtimestamp(overrides_path.stat().st_mtime, tz=timezone.utc).isoformat()
-                add_variant(entry["variants"][field], normalise(override[field]), stamp, True, "override", len(order) + 1)
+                add_variant(entry["variants"][field], normalise(override[field]), stamp, True, "override",
+                            len(order) + 1, pinned=True)
         serialised = {field: serialise_variants(entry["variants"][field]) for field in VARIANT_FIELDS}
         ambiguity = {
             "meaningVariants": len(serialised["meaning"]),

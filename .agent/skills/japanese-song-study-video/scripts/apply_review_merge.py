@@ -99,6 +99,17 @@ def main() -> None:
             raise SystemExit(f"Unsupported operation: {kind}")
         applied.append({"frameId": operation["frameId"], "op": kind, "field": operation.get("field"), "old": operation.get("old"), "new": operation.get("new") or operation.get("newCard"), "reason": operation.get("reason")})
 
+    # The provenance written onto every card must name the review that actually
+    # happened. A lexicon-RAG project never ran the three-role pass, so stamping that
+    # wording onto its frames would be a false provenance claim in the very record the
+    # audit chain relies on.
+    audit_path = project / "review" / "assisted-review-audit.json"
+    if not audit_path.is_file():
+        raise SystemExit(f"Seal the review before merging: {audit_path} is missing")
+    card_provenance = ("lexicon RAG draft reviewed online with recorded evidence and accepted by the user"
+                       if load(audit_path).get("mode") == "lexicon-rag-targeted-online" else
+                       "authored draft reviewed by lexical/grammar/translation agents and accepted by the user")
+
     confirmed_all = accepted.get("confirmAllFrames") is True
     for frame in frames_doc["frames"]:
         if not frame.get("grammarCards"):
@@ -106,7 +117,7 @@ def main() -> None:
         frame["status"] = "human-confirmed-cards"
         frame["cardReviewStatus"] = "human-confirmed"
         frame["reviewRequired"] = False
-        frame["fieldProvenance"]["grammarCards"] = "authored draft reviewed by lexical/grammar/translation agents and accepted by the user"
+        frame["fieldProvenance"]["grammarCards"] = card_provenance
         frame["fieldProvenance"]["humanConfirmation"] = args.user_wording
         for card in frame["grammarCards"]:
             card["status"] = "human-confirmed"
@@ -133,9 +144,6 @@ def main() -> None:
     }
     write(project / "review" / "merge-log.json", merge_log)
 
-    audit_path = project / "review" / "assisted-review-audit.json"
-    if not audit_path.is_file():
-        raise SystemExit(f"Seal the review before merging: {audit_path} is missing")
     wording = args.user_wording.strip()
     decision = {
         "schemaVersion": 2,
