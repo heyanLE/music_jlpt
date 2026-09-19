@@ -1,6 +1,0 @@
-{
-  "parser": "manual-lrc-timestamp-regex",
-  "previousLineCount": 45,
-  "correctedLineCount": 71,
-  "reason": "smart-lyric lrc parser omitted early timestamped QMTS rows"
-}

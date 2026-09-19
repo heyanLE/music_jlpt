@@ -141,7 +141,11 @@ def main() -> None:
                 # A prelude may deliberately show only the cover.  This is not a
                 # learning frame: it has no veil, lyrics, translation, or cards.
                 first = next((line for line in lines if line["text"].strip()), None)
-                if options["preludeMode"] == "first-line" and first:
+                # countdown-reveal: nothing before the countdown, then the whole first
+                # study frame appears together with the 3/2/1 badge.
+                reveal_from = min((item["startMs"] for item in countdown["segments"]), default=None)
+                revealed = options["preludeMode"] != "countdown-reveal" or (reveal_from is not None and mid >= reveal_from)
+                if options["preludeMode"] in ("first-line", "countdown-reveal") and first and revealed:
                     state = {"kind": "neutral", "frameId": first["frameId"]}
                 else:
                     state = {"kind": "cover"} if idle_foreground_at(scenes, mid) == "cover" else {"kind": "blank"}

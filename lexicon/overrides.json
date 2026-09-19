@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "note": "Reviewed values pinned by the user's decisions.",
+  "entries": {
+    "で": {
+      "corrections": [
+        {
+          "field": "meaning",
+          "value": "提示动作的共同参与者",
+          "context": "二人で (l006/l019)",
+          "project": "eternel",
+          "at": "2026-09-11T15:45:46.721376+00:00"
+        }
+      ]
+    },
+    "溢れる": {
+      "corrections": [
+        {
+          "field": "reading",
+          "value": "こぼれる",
+          "context": "もう嘘は溢れなくて (koeru l020) - 義訓, not the usual あふれる",
+          "project": "koeru",
+          "at": "2026-09-13T11:31:33.460594+00:00"
+        }
+      ]
+    },
+    "明日": {
+      "corrections": [
+        {
+          "field": "reading",
+          "value": "あす",
+          "context": "remember l015/l040 微笑む明日は - the song's own furigana annotation gives あす",
+          "project": "remember",
+          "at": "2026-09-15T15:32:45.932004+00:00"
+        }
+      ]
+    }
+  }
+}

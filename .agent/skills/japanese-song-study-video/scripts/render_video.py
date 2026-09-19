@@ -52,7 +52,12 @@ def wrap(draw: ImageDraw.ImageDraw, text: str, font: ImageFont.FreeTypeFont, wid
     for character in text:
         proposal = current + character
         if current and draw.textbbox((0, 0), proposal, font=font)[2] > width:
-            lines.append(current); current = character
+            # Do not strand an opening bracket at the end of a line: push it down so the
+            # wrapped parenthesis reads together.
+            if current[-1] in "（(「『":
+                lines.append(current[:-1]); current = current[-1] + character
+            else:
+                lines.append(current); current = character
         else:
             current = proposal
     if current: lines.append(current)
@@ -130,6 +135,25 @@ class ForegroundRenderer:
         width = self.px(stroke) if self.presentation.get("textOutline", {}).get("enabled", True) else 0
         draw.text(xy, text, font=font, fill=fill, stroke_width=width, stroke_fill=self.presentation.get("textOutline", {}).get("color", "#000000"))
 
+    def layout_grammar(self, draw: ImageDraw.ImageDraw, text: str, inner: int) -> tuple[ImageFont.FreeTypeFont, list[str]]:
+        """Grammar structure may occupy two lines.
+
+        Wrapping beats shrinking: a reviewed label such as
+        ``动词て形＋补助动词「いる」（口语约音「てる」）`` stays legible on two lines instead of
+        being squeezed onto one. Only if two lines still do not fit does the field fall
+        back to a single shrunken line, and failing that the render refuses.
+        """
+        for size in (25, 24, 23, 22):
+            font = self.font(size)
+            lines = wrap(draw, text, font, inner)
+            if len(lines) == 1:
+                return font, lines
+        font = self.font(22)
+        lines = wrap(draw, text, font, inner)
+        if len(lines) <= 2:
+            return font, lines
+        return self.fit(draw, text, 25, 14, inner), [text]
+
     def matched_parts(self, frame: dict) -> list[dict]:
         target = norm(frame["caption"]["japanese"])
         indices = [index for index, row in enumerate(self.rows) if row["startMs"] == frame["startMs"]]
@@ -143,14 +167,31 @@ class ForegroundRenderer:
                 if len(norm(text)) > len(target): break
         return [{"text": frame["caption"]["japanese"]}]
 
-    def countdown(self, image: Image.Image, value: int | None) -> None:
+    def countdown(self, image: Image.Image, value: int | None, anchor: tuple[float, float] | None = None) -> None:
+        """Draw the 3/2/1 badge.
+
+        ``anchor`` is the current lyric's (left x, width). With
+        ``countdown.placement == "neighbor-left"`` the badge occupies the empty
+        previous-line slot to the left of the current line - the first line has no
+        neighbour there, so the space is free - and is vertically centred on the
+        lyric row. Without an anchor (cover-only or blank states) it falls back to
+        the template position, so the badge is never lost.
+        """
         if value is None: return
         layer = Image.new("RGBA", image.size, (0, 0, 0, 0)); draw = ImageDraw.Draw(layer)
         color = rgb(self.palette["activeTint"]) + (255,)
-        cx, cy, radius = self.px(1745, "x"), self.px(125, "y"), self.px(60)
+        placement = self.learning_aids["countdown"].get("placement", "template")
+        radius = self.px(60)
+        if placement == "neighbor-left" and anchor is not None:
+            lyric_x, lyric_width = anchor
+            cx = lyric_x - self.px(56, "x") - radius
+            cy = self.px(330 + 35, "y")
+            cx = max(radius + self.px(8), cx)
+        else:
+            cx, cy = self.px(1745, "x"), self.px(125, "y")
         draw.ellipse((cx - radius, cy - radius, cx + radius, cy + radius), fill=(0, 0, 0, 150), outline=color, width=max(1, self.px(4)))
         font = self.font(82); text = str(value); box = draw.textbbox((0, 0), text, font=font)
-        self.outlined(draw, (self.px(1745, "x") - (box[2] - box[0]) / 2 - box[0], self.px(125, "y") - (box[3] - box[1]) / 2 - box[1]), text, font, color, 4)
+        self.outlined(draw, (cx - (box[2] - box[0]) / 2 - box[0], cy - (box[3] - box[1]) / 2 - box[1]), text, font, color, 4)
         image.alpha_composite(layer)
 
     def render(self, frame_id: str | None, active_index: int | None, output: Path | None, cover_only: bool = False, cover_visible: bool = True, countdown_value: int | None = None, *, lyric_only: bool = False, lyric_x_override: float | None = None) -> Image.Image:
@@ -279,19 +320,22 @@ class ForegroundRenderer:
                 # grammarStructureZh is the reviewed canonical field. posZh is
                 # retained only for importing older projects.
                 grammar = card.get("grammarStructureZh") or card.get("posZh", "")
-                grammar_font = self.fit(draw, grammar, 25, 14, inner)
+                grammar_font, grammar_lines = self.layout_grammar(draw, grammar, inner)
                 meaning = card.get("functionZh", card.get("zhMeaning", "")); meaning_font = self.font(26)
                 meaning_lines = wrap(draw, meaning, meaning_font, inner)
                 if len(meaning_lines) > 2: raise RuntimeError(f"Card meaning exceeds two fixed-size lines: {frame_id} {card['token']}")
-                for y, value, field_font in ((625, card["token"], token_font), (770, grammar, grammar_font)):
-                    field_width = draw.textbbox((0, 0), value, font=field_font)[2]
-                    self.outlined(draw, (x + (card_width - field_width) / 2, self.px(y, "y")), value, field_font, "white", 2)
+                field_width = draw.textbbox((0, 0), card["token"], font=token_font)[2]
+                self.outlined(draw, (x + (card_width - field_width) / 2, self.px(625, "y")), card["token"], token_font, "white", 2)
                 top = 695 if len(meaning_lines) == 1 else 678
                 for index, line in enumerate(meaning_lines):
                     line_width = draw.textbbox((0, 0), line, font=meaning_font)[2]
                     self.outlined(draw, (x + (card_width - line_width) / 2, self.px(top + index * 32, "y")), line, meaning_font, "white", 2)
+                grammar_top = 770 if len(grammar_lines) == 1 else 760
+                for index, line in enumerate(grammar_lines):
+                    line_width = draw.textbbox((0, 0), line, font=grammar_font)[2]
+                    self.outlined(draw, (x + (card_width - line_width) / 2, self.px(grammar_top + index * 28, "y")), line, grammar_font, "white", 2)
                 x = right + gap
-        self.countdown(image, countdown_value)
+        self.countdown(image, countdown_value, anchor=(lyric_x, text_width))
         if output: output.parent.mkdir(parents=True, exist_ok=True); image.save(output)
         return image
 
@@ -339,9 +383,19 @@ def main() -> None:
     root = args.project_root.resolve(); project = root / "project"
     verify_render_gate(root, Path(__file__).resolve())
     manifest = load(project / "input-manifest.json"); presentation = load(project / "presentation.json")
-    scenes = load(project / "scene-timeline.json")["segments"]
+    scene_timeline = load(project / "scene-timeline.json")
+    scenes = scene_timeline["segments"]
     if manifest.get("pipelinePreset") not in ("video-loop-follow", "video-then-gaussian-hybrid", "gaussian-persistent"):
-        raise SystemExit("render_video.py handles fixed presets only; custom requires a documented project renderer")
+        # A hand-authored schedule is fine when it is documented: the render gate binds
+        # scene-timeline.json (sceneSha256), so the schedule cannot change unnoticed, and the
+        # note records why the named presets did not fit. Whatever the preset is called, only
+        # the background modes this renderer implements are accepted.
+        if not str(scene_timeline.get("note", "")).strip():
+            raise SystemExit("A custom scene timeline needs a note explaining the schedule it replaces")
+        unsupported = sorted({scene["mode"] for scene in scenes} -
+                             {"video-clip", "video-loop", "cover-gaussian"})
+        if unsupported:
+            raise SystemExit(f"Fixed renderer does not support custom background mode {unsupported[0]}")
     outputs = manifest.get("outputs", [{"name": "16x9", "width": 1920, "height": 1080, "fps": 30}])
     if len(outputs) > 1 and not args.canvas:
         raise SystemExit("Multiple outputs declared; rerun once per output with --canvas NAME")

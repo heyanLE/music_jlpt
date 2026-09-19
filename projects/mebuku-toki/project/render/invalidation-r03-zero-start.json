@@ -1,8 +1,0 @@
-{
-  "schemaVersion": 1,
-  "invalidatedAt": "2026-08-27T13:31:49.8744852+08:00",
-  "previousAuthorizationSha256": "06580095bb15a93d9bb74b3e1535ce09f5707ab69527a8003cb9e1c665206db8",
-  "reason": "The output clock and background source ranges changed to remove the former 5.327 s silent prelude. A new render authorization is required for the updated hashes.",
-  "supersededRunId": "final-r02-lyric-sync",
-  "replacementRunId": "final-r03-zero-start"
-}

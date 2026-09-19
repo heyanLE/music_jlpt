@@ -19,12 +19,40 @@ class LearningAidTests(unittest.TestCase):
         self.assertFalse(configure_options({})["neighbors"]["enabled"])
         self.assertFalse(configure_options({})["countdown"]["enabled"])
         self.assertEqual(configure_options({}, "on", "off", "first-line"), {
-            "neighbors": {"enabled": True}, "countdown": {"enabled": False, "durationMs": 3000}, "preludeMode": "first-line"})
+            "neighbors": {"enabled": True},
+            "countdown": {"enabled": False, "durationMs": 3000, "placement": "template"},
+            "preludeMode": "first-line"})
+        self.assertEqual(configure_options(None, None, None, None, "neighbor-left")["countdown"]["placement"], "neighbor-left")
         for neighbors in ("on", "off"):
             for countdown in ("on", "off"):
                 options = configure_options({}, neighbors, countdown)
                 self.assertEqual(options["neighbors"]["enabled"], neighbors == "on")
                 self.assertEqual(options["countdown"]["enabled"], countdown == "on")
+
+    def test_countdown_reveal_prelude(self):
+        """Lyrics appear together with the 3/2/1 badge, and not before it."""
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp); project = root / "project"; (project / "timing").mkdir(parents=True)
+            def write(name, doc): (project / name).write_text(json.dumps(doc), encoding="utf-8")
+            frames = [{"id": "l1", "startMs": 8000, "endMs": 9000, "caption": {"japanese": "歌"}}]
+            write("frames.json", {"frames": frames})
+            write("timing/qm.json", {"lines": [{"startMs": 8000, "endMs": 9000, "text": "歌",
+                                                "parts": [{"text": "歌", "startMs": 8000, "endMs": 9000}]}]})
+            write("input-manifest.json", {"alignment": {"offsetMs": 0}})
+            write("scene-timeline.json", {"segments": [{"startMs": 0, "endMs": "audio-end", "foregroundMode": "follow-lyrics"}]})
+            options = configure_options(None, "on", "on", "countdown-reveal", "neighbor-left")
+            write("presentation.json", {"foreground": {**options, "defaultMode": "follow-lyrics"}})
+            subprocess.run([sys.executable, str(Path(__file__).with_name("build_foreground_timeline.py")),
+                            str(root), str(root / "timeline.json"), "--duration-ms", "10000"], check=True, capture_output=True)
+            timeline = json.loads((root / "timeline.json").read_text())
+            def state(time): return next(s for s in timeline["segments"] if s["startMs"] <= time < s["endMs"])
+            self.assertEqual(state(1000)["kind"], "blank")          # before the countdown: nothing
+            self.assertNotIn("countdownValue", state(1000))
+            self.assertEqual(state(5500)["countdownValue"], 3)      # countdown starts here
+            self.assertEqual(state(5500)["frameId"], "l1")          # ... with the first line
+            self.assertEqual(state(5500)["kind"], "neutral")
+            self.assertEqual(state(7500)["countdownValue"], 1)
+            self.assertEqual(state(9000)["kind"], "neutral")
 
     def test_authorize_and_verify_share_dependency_hashes(self):
         import authorize_render

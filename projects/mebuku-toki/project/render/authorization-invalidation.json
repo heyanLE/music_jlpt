@@ -1,9 +1,0 @@
-{
-  "schemaVersion": 1,
-  "status": "invalidated",
-  "previousAuthorization": "project/render-authorization.json",
-  "previousAuthorizationSha256": "344d630647d9240e6d5dec3accfa9a22131df32de2986f4fb3033bb4d2bdbb77",
-  "reason": "Input/source manifests and custom renderer changed to normalize the QQ lyric-source clock by -777 ms.",
-  "contentFramesChanged": false,
-  "requiresNewExplicitRenderAuthorization": true
-}

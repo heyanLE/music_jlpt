@@ -1,7 +1,0 @@
-{
-  "schemaVersion": 1,
-  "foreground": { "templateId": "study-current-v3", "visibleDuringNoLyric": false, "veil": { "mode": "lyric-only", "color": "#000000", "opacity": 0.28 }, "highlight": { "mode": "token" }, "textOutline": { "enabled": true, "color": "#000000" } },
-  "cards": { "fillAlpha": 0.5 },
-  "floatingOverlay": { "id": "spectrum-foobar-bars", "enabled": true, "persistent": true },
-  "alignment": { "owner": "background", "offsetMs": 3183, "reason": "background source audio is silent from 0 to 3.183208 seconds; FLAC, QRC-driven foreground and spectrum begin at the detected onset" }
-}

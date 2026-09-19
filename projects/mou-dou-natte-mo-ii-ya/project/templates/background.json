@@ -1,9 +1,0 @@
-{
-  "schemaVersion": 1,
-  "id": "video",
-  "owns": "background-only",
-  "audio": "mute-source-video",
-  "loop": "loop-to-audio-duration",
-  "fit": "height-center-pillarbox",
-  "clock": "manifest-alignment-clock"
-}

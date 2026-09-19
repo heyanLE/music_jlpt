@@ -17,9 +17,11 @@ Produce video files using the snapshotted series template. Use five stages, and 
 | --- | --- | --- |
 | 1. Inputs | [01-inputs.md](references/01-inputs.md) | frozen sources, explicit layer and timing configuration; `inputs_confirmed` |
 | 2. Preparation | [02-project-setup.md](references/02-project-setup.md) | decoded timing, palette, template snapshots, layout/structure checks; `setup_complete` |
-| 3. Draft cards | [03-card-draft.md](references/03-card-draft.md) | all lines/cards, editable review Markdown, layout report; `draft_ready` |
-| 4. Intelligent review | [04-assisted-review.md](references/04-assisted-review.md) | lexical/grammar/translation proposals, integration audit, accepted merge and content decision; `review_approved` |
+| 3. Draft cards | [03-card-draft.md](references/03-card-draft.md), [12-lexicon-rag.md](references/12-lexicon-rag.md) | all lines/cards, editable review Markdown, layout report; `draft_ready` |
+| 4. Intelligent review | [04-assisted-review.md](references/04-assisted-review.md) | lexicon reuse + one targeted online review of unresolved spans (new projects), or the legacy three-role proposals + integration (existing projects); accepted merge and content decision; `review_approved` |
 | 5. Video | [05-render.md](references/05-render.md) | authorized candidate, visual/technical QA, promoted final; `qa_passed` then `delivered` |
+
+Card drafting reuses the workspace lexicon before authoring anything new: match each lyric row longest-first against `lexicon/lexicon.json`, keep the matches the lexicon can vouch for, and send only the unmatched or low-confidence spans to review. Reliability is per entry and moves with the user's accept/reject decisions, so reuse improves project over project. See [12-lexicon-rag.md](references/12-lexicon-rag.md).
 
 Cover-only work uses [07-covers.md](references/07-covers.md) after preparation. It does not require redoing lyric review.
 
@@ -43,10 +45,14 @@ The three layers are background → foreground (veil + study content) → option
 
 Review proposals and final rendering require user authorization for their scope, but do not ask again for authorization already given in the conversation or recorded with its wording. `继续` advances current authorized work; alone it does not newly accept proposals or authorize an otherwise unapproved final render. A request explicitly including both acceptance and rendering can satisfy both decisions.
 
+Shared tooling lives in this skill's `scripts/`. Use it instead of writing a project-local copy: a private duplicate is how the same bug was fixed in four places. Project-local scripts remain valid only for genuinely project-specific renderers or custom scene timelines, and only when the bundled script cannot express the need - say why in the project's build-state. Rehearsals, previews and QA helpers are always the shared ones.
+
 Input/content/style/renderer changes invalidate affected hashes and downstream evidence. Refresh that evidence and rebind render authorization for changes the user already requested; a hash change by itself is not a new permission question. Only unresolved linguistic proposals or a materially new choice outside the authorized scope need a new decision. Never fabricate approval text or label machine-generated content human-confirmed.
 
 ## Essential output properties
 
-Keep original Japanese/English display order and trustworthy timing. Kanji-only hiragana, confirmed loanword sources and token romaji share lyric anchors; English has highlighting but no ruby, romaji or grammar cards. Cards occupy one horizontal row and never highlight. Their meaning/function can wrap within the card; the token and grammar field stay on one line. See stages 3 and 5 for checks.
+Keep original Japanese/English display order and trustworthy timing. Kanji-only hiragana, confirmed loanword sources and token romaji share lyric anchors; English has highlighting but no ruby, romaji or grammar cards. Cards occupy one horizontal row and never highlight; the token stays on one line while the meaning/function and the grammar structure may each use two. See stages 3 and 5 for checks.
 
 Use UTF-8 JSON without BOM. Preserve requested audio without lossy re-encoding; FLAC stream copy uses MKV. Do not claim lossless source quality for an MP3. Never promote an unchecked candidate or claim success from a state label or an unverified link.
+
+Deliver the episode description with the video: generate it from the frozen build with `scripts/write_video_description.py` (see `references/13-video-description.md`) instead of retyping it, so the title, work, artist and the real audio format cannot drift from the finished file.

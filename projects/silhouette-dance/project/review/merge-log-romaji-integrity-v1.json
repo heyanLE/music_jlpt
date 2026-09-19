@@ -1,9 +1,0 @@
-{
-  "schemaVersion": 1,
-  "source": "project/proposals/romaji-integrity-v1.json",
-  "userWording": "为什么有的地方假名和下面的读音标的不一样",
-  "acceptedChanges": 6,
-  "afterFramesSha256": "1b3f49bc7a6b677c3b500416068246574336bb8eb272bceb2129ceeeac08df42",
-  "structuralChanges": [],
-  "renderAuthorized": false
-}

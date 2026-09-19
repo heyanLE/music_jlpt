@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "note": "Recency order for the newest-wins conflict rule. Append-only; new projects are appended automatically.",
+  "order": [
+    "mou-dou-natte-mo-ii-ya",
+    "mou-dou-natte-mo-ii-ya-v2",
+    "brand-new-days-reload",
+    "uchuu-no-fushigi-v2",
+    "tsuyogaru-girl",
+    "silhouette-dance",
+    "mayocchauwa",
+    "amore",
+    "murimuri-shinkaron",
+    "togenashi-wrongworld-2",
+    "togenashi-zatou-bokura-no-machi-v2",
+    "zattou-bokura-no-machi-v2",
+    "naze-nazo-answer",
+    "ray-chou-kaguya-hime-study",
+    "mebuku-toki",
+    "hoshi-furu-umi",
+    "kanjou-glass",
+    "dare-ni-mo-narenai-watashi-dakara-v3",
+    "heavenly-me-study",
+    "kara-no-hako",
+    "kimi-no-kioku-reload",
+    "mystic-light-quest-study",
+    "guitar-loneliness-blue-planet",
+    "eternel",
+    "koeru",
+    "remember",
+    "akaneiro-no-yuuhi"
+  ]
+}

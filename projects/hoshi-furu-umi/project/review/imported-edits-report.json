@@ -1,9 +1,0 @@
-{
-  "schemaVersion": 1,
-  "checkedAt": "2026-08-29",
-  "source": "deliverables/review/hoshi-furu-umi-review.md",
-  "baseFrameSha256": "dc491d0b3088dd4e0bd8bb4a539d7e3ab34cb8ab7cb6f5e0ee19d685cf407e31",
-  "result": "no-user-edits-detected",
-  "fieldDiffs": [],
-  "protectedFields": []
-}

@@ -1,8 +1,0 @@
-{
-  "schemaVersion": 1,
-  "algorithm": "leading-rms-onset-v1",
-  "windowMs": 50,
-  "result": "unusable",
-  "confidence": "low",
-  "error": "[in#0 @ 000002bf7b87e540] Error opening input: No such file or directory\r\nError opening input file C:\\project\\musicjlpt\\projects\\ray-chou-kaguya-hime\\source\\music.flac.\r\nError opening input files: No such file or directory\r\n"
-}

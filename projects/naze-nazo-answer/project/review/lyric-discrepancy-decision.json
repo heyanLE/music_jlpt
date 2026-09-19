@@ -1,8 +1,0 @@
-{
-  "schemaVersion": 1,
-  "status": "resolved",
-  "userWording": "不改动",
-  "frames": ["l011", "l032"],
-  "decision": "Preserve the frozen QQ Music literal text and timing; do not normalize the display text to the external lyric variant まことか.",
-  "baseFrameSha256": "f6f05aee5e0b62450b9149acb4bfea13724357440654cb427f5850d95df3005c"
-}

@@ -1,9 +1,0 @@
-{
-  "status": "passed",
-  "template": "project/templates/cover.json",
-  "font": "C:/Windows/Fonts/msyhbd.ttc",
-  "outputs": [
-    "deliverables\\final\\tsuyogaru-girl--cover--16x9--20260818-r02.png",
-    "deliverables\\final\\tsuyogaru-girl--cover--4x3--20260818-r02.png"
-  ]
-}

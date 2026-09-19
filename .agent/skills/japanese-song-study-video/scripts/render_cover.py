@@ -11,7 +11,7 @@ dark-gradient panels, bullets, cards, playback controls, or text outlines.
 """
 from __future__ import annotations
 
-import argparse, json
+import argparse, json, re
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 
@@ -33,12 +33,26 @@ def rgb(value: str) -> tuple[int, int, int]:
     return tuple(int(value[i:i+2], 16) for i in (0, 2, 4))
 
 
-def fit_cover(image: Image.Image, rect: tuple[int, int, int, int], focus: str = "center"):
+def fit_cover(image: Image.Image, rect: tuple[int, int, int, int], focus="center"):
+    """Crop the artwork to the panel.
+
+    ``focus`` is either the named anchor (left/center/right) or a number in [-1, 1] for
+    anything in between: -1 puts the crop window at the artwork's left edge (so the visible
+    content sits furthest right in the panel), 0 is centred and +1 is the right edge. Named
+    anchors are too coarse when a subject sits between two of them.
+    """
     x, y, width, height = rect; scale = max(width / image.width, height / image.height)
     image = image.resize((round(image.width * scale), round(image.height * scale)), Image.Resampling.LANCZOS)
-    if focus not in {"left", "center", "right"}:
-        raise RuntimeError("artworkFocus must be left, center, or right")
-    left = {"left": 0, "center": (image.width - width) // 2, "right": image.width - width}[focus]
+    span = image.width - width
+    if isinstance(focus, bool):
+        raise RuntimeError("artworkFocus must be left, center, right, or a number in [-1, 1]")
+    if isinstance(focus, (int, float)) or (isinstance(focus, str) and re.fullmatch(r"-?\d+(\.\d+)?", focus.strip())):
+        offset = max(-1.0, min(1.0, float(focus)))
+        left = round(span * (offset + 1) / 2)
+    elif focus in {"left", "center", "right"}:
+        left = {"left": 0, "center": span // 2, "right": span}[focus]
+    else:
+        raise RuntimeError("artworkFocus must be left, center, right, or a number in [-1, 1]")
     top = (image.height - height) // 2
     return image.crop((left, top, left + width, top + height)), (x, y)
 

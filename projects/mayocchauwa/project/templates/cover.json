@@ -1,8 +1,0 @@
-{
-  "schemaVersion": 1,
-  "id": "platform-cover-v1",
-  "font": { "role": "cjk-bold", "minimumWeight": 700 },
-  "theme": "palette-only",
-  "copy": { "series": "快速学唱", "subtitle": "optional, below artist", "benefits": ["歌词同步高亮", "假名注释", "罗马音", "逐词拆解"] },
-  "layout": { "artwork": "left-44.5-percent-or-top-40-percent", "informationField": "light-paper", "accentRule": "landscape-full-height-vertical-divider; long-header-rule-starts-at-divider-right-edge; short-benefit-underline; portrait-horizontal-divider-plus-bottom-edge-rule", "headline": "oversized-dark", "subtitle": "optional-accent-under-artist", "benefits": "two-large-rows; portrait-stack-must-end-above-bottom-rule", "textOutline": false, "mobilePriority": true, "overflow": "shrink-or-fail" }
-}

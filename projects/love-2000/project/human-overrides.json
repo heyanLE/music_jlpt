@@ -1,9 +1,0 @@
-{
-  "l018": {
-    "grammarCards": [
-      { "token": "サバよんで", "reading": "サバヨンデ", "romaji": "saba yonde", "zhMeaning": "谎报年龄", "posZh": "固定短语" },
-      { "token": "み", "reading": "ミ", "romaji": "mi", "zhMeaning": "试试看", "posZh": "动词" },
-      { "token": "たって", "reading": "タッテ", "romaji": "tatte", "zhMeaning": "即使", "posZh": "接续助词" }
-    ]
-  }
-}

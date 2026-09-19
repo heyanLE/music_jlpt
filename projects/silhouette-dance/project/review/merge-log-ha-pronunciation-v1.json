@@ -1,9 +1,0 @@
-{
-  "schemaVersion": 1,
-  "source": "project/proposals/ha-pronunciation-v1.json",
-  "userWording": "里面有些は应该读wa，写成ha，联网判断需要改的地方",
-  "acceptedChanges": 4,
-  "afterFramesSha256": "303f5c423dfec2bd26c89417e62064f12b20bbbe531f258cea2a409e202f7a43",
-  "structuralChanges": [],
-  "renderAuthorized": false
-}

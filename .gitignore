@@ -55,3 +55,12 @@ projects/**/qa/**/state-*.png
 # Machine transfer reports are private local evidence, not project authority.
 /transfer/*.local.json
 /transfer/*.local.log
+
+# The repository keeps only two song projects (kimi-no-kioku-reload,
+# murimuri-shinkaron). Every other project tree stays on this machine and is
+# never uploaded. Ignore the directory's contents, never the directory itself,
+# so the two exceptions below can still be re-included.
+/projects/*
+!/projects/README.md
+!/projects/kimi-no-kioku-reload/
+!/projects/murimuri-shinkaron/

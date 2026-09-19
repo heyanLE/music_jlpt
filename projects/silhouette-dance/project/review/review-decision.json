@@ -1,7 +1,0 @@
-{
-  "content": "approved",
-  "scope": "all",
-  "renderAuthorized": true,
-  "frameSha256": "1b3f49bc7a6b677c3b500416068246574336bb8eb272bceb2129ceeeac08df42",
-  "note": "User explicitly authorized rendering after removal of the spectrum overlay."
-}

@@ -1,8 +1,0 @@
-{
-  "schemaVersion": 1,
-  "authorizedAt": "2026-08-21",
-  "userWording": "前三秒用封面挡住，并加上字幕：祝审核大佬天天开心！",
-  "sourceVideo": "project/work/20260821-r02-line-hold/mayocchauwa--16x9--20260821-r02-line-hold.mkv",
-  "sceneSha256": "6d4d60876109fa4321e4fe24a7fad668ff50c4716d41db189ab83fb827cff12c",
-  "outputPolicy": { "container": "mkv", "audioCodec": "copy", "sourceAudio": "source/music.flac", "lossless": true }
-}
